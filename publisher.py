@@ -50,9 +50,9 @@ def html_text(value):
 
 
 def build_rich_html(story: Story):
-    # Telethon's HTML mode is used because v2 explicitly supports <details>
-    # spoilers as well as <pre> blocks and <a> links.
-    # See: https://docs.telethon.dev/en/v2/concepts/messages.html
+    # Telethon 1.44.0 stable HTML mode supports <pre>, <a>, and expandable
+    # <blockquote> formatting. We use the expandable blockquote for the
+    # What to Know section because Telethon v2 is still pre-release.
     title = html_text(story.headline)
     summary = html_text(story.summary)
     badge = clean_text(story.badge or ("Unconfirmed" if story.decision.confidence != "confirmed" else "Confirmed"))
@@ -75,8 +75,8 @@ def build_rich_html(story: Story):
     if story.what_to_know:
         lines.extend([
             "",
-            "<details>",
-            "<summary>What to Know</summary>",
+            "<blockquote expandable>",
+            "<b>What to Know</b>",
             "",
         ])
         for row in story.what_to_know[:4]:
@@ -86,7 +86,7 @@ def build_rich_html(story: Story):
                 lines.append(f"<b>{term}</b>: {meaning}")
             elif meaning:
                 lines.append(meaning)
-        lines.extend(["", "</details>"])
+        lines.extend(["", "</blockquote>"])
 
     tags = " ".join(clean_text(x) for x in story.hashtags[:8] if clean_text(x))
     if tags:
@@ -107,10 +107,10 @@ def build_rich_html(story: Story):
     for item in story.highlights[:3]:
         compact.append("• " + html_text(item))
     if story.what_to_know:
-        compact.extend(["", "<details>", "<summary>What to Know</summary>", ""])
+        compact.extend(["", "<blockquote expandable>", "<b>What to Know</b>", ""])
         row = story.what_to_know[0]
         compact.append(f"<b>{html_text(row.get('term',''))}</b>: {html_text(row.get('meaning',''))}")
-        compact.extend(["", "</details>"])
+        compact.extend(["", "</blockquote>"])
     if tags:
         compact.extend(["", html_text(tags)])
     compact.extend(["", f'Source: <a href="{html.escape(source_url, quote=True)}">{source}</a>'])
@@ -126,15 +126,16 @@ def _ensure_telethon_credentials():
 
 
 async def _publish_async(story: Story):
-    from telethon import Client
+    from telethon import TelegramClient
 
     _ensure_telethon_credentials()
     message = build_rich_html(story)
 
-    # A memory session avoids committing a Telegram session file to GitHub.
-    async with Client(None, TELEGRAM_API_ID, TELEGRAM_API_HASH) as client:
-        if not await client.is_authorized():
-            await client.bot_sign_in(TOKEN)
+    # A None session keeps the bot session in memory and avoids committing a
+    # Telegram session file to GitHub. Telethon 1.44 authenticates bots with
+    # start(bot_token=...).
+    async with TelegramClient(None, TELEGRAM_API_ID, TELEGRAM_API_HASH) as client:
+        await client.start(bot_token=TOKEN)
 
         if story.image_url:
             try:
@@ -150,7 +151,8 @@ async def _publish_async(story: Story):
                     await client.send_photo(
                         CHANNEL,
                         image_path,
-                        caption_html=message,
+                        caption=message,
+                        parse_mode="html",
                     )
                     return True
                 finally:
@@ -158,7 +160,7 @@ async def _publish_async(story: Story):
             except Exception as exc:
                 log.warning("TELETHON PHOTO SEND FAILED, falling back to text: %s", exc)
 
-        await client.send_message(CHANNEL, html=message, link_preview=False)
+        await client.send_message(CHANNEL, message, parse_mode="html", link_preview=False)
         return True
 
 

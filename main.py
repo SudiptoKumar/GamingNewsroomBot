@@ -98,7 +98,7 @@ def self_test():
         [{"term":"Platform","meaning":"PS5 and PC."}], ["PS5","PC"], ["#GamingNews","#PS5"], "Confirmed", "", ""
     ))
     assert len(cap) <= 1024
-    assert "<pre>" in cap and "<details>" in cap and '<a href="https://ign.com/articles/a">IGN</a>' in cap
+    assert "<pre>" in cap and "<blockquote expandable>" in cap and '<a href="https://ign.com/articles/a">IGN</a>' in cap
     log.info("GamingNewsroom fresh self-test passed")
     return 0
 
