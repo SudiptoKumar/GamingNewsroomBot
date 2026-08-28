@@ -2,9 +2,7 @@ import os
 from pathlib import Path
 
 CHANNEL = (os.getenv("TELEGRAM_CHANNEL") or "@GamingNewsroom").strip()
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
-TELEGRAM_API_ID = int((os.getenv("TELEGRAM_API_ID") or "0").strip() or "0")
-TELEGRAM_API_HASH = os.getenv("TELEGRAM_API_HASH", "").strip()
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
 EXA_API_KEY = os.getenv("EXA_API_KEY", "").strip()
 CEREBRAS_API_KEY = os.getenv("CEREBRAS_API_KEY", "").strip()
 CEREBRAS_MODEL = (os.getenv("CEREBRAS_MODEL") or "gpt-oss-120b").strip()
@@ -14,19 +12,18 @@ POSTED_FILE = Path("posted_urls.txt")
 
 LOOKBACK_HOURS = 72
 PRIMARY_HOURS = 24
-THRESHOLD = 7
+THRESHOLD = 7.0
 THIN_DAY_THRESHOLD = 3
 CIRCUIT_BREAKER = 40
-MAX_SOURCE_ITEMS = 15
-MAX_EXA_ITEMS = 35
-POST_DELAY = 2.5
+MAX_SOURCE_ITEMS = 30
+MAX_EXA_ITEMS = 40
+POST_DELAY = 2.0
 REQUEST_TIMEOUT = 18
 ARTICLE_TIMEOUT = 22
-MAX_ARTICLE_CHARS = 7000
-TELEGRAM_CAPTION_LIMIT = 1024
+MAX_ARTICLE_CHARS = 9000
 
 HEADERS = {
-    "User-Agent": "GamingNewsroom/2.0 (+https://t.me/GamingNewsroom)",
+    "User-Agent": "GamingNewsroom/1.0 (+https://t.me/GamingNewsroom)",
     "Accept": "application/rss+xml, application/xml, text/xml, text/html;q=0.9, */*;q=0.8",
 }
 
@@ -54,9 +51,9 @@ PRIMARY_SOURCES = [
 ]
 
 FALLBACK_SOURCES = [
-    ("TheGamer", "thegamer.com"),
-    ("Siliconera", "siliconera.com"),
-    ("Wccftech", "wccftech.com"),
-    ("TouchArcade", "toucharcade.com"),
-    ("Game Rant", "gamerant.com"),
+    ("TheGamer", "thegamer.com", 2),
+    ("Siliconera", "siliconera.com", 2),
+    ("Wccftech", "wccftech.com", 2),
+    ("TouchArcade", "toucharcade.com", 2),
+    ("Game Rant", "gamerant.com", 2),
 ]

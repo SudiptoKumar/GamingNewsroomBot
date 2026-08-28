@@ -1,77 +1,58 @@
-# GamingNewsroom 2.0
+# GamingNewsroom V1
 
-A fresh gaming-specific Telegram news pipeline. This is not a port of BusinessNewsBot.
+GamingNewsroom is a daily automated Telegram gaming-newsroom built around a gaming-specific editorial pipeline.
 
-## Core design
+## Pipeline
 
-20 named gaming publications are the primary source universe. Each is queried independently through a source-scoped RSS feed, then the same domains are searched independently with Exa. The two discovery paths are merged before editorial processing.
+DISCOVER -> NORMALIZE -> DEDUPE -> EVENT CLUSTER -> SCORE -> ARTICLE EXTRACT -> GENERATE -> TELEGRAM RICH MESSAGE -> PERSIST
 
-```text
-SOURCE DISCOVERY
-20 gaming sources → source RSS
-20 gaming domains → Exa
-              ↓
-72-hour normalization
-              ↓
-URL deduplication
-              ↓
-EVENT CLUSTERING
-              ↓
-ALREADY-PUBLISHED FILTER
-              ↓
-CEREBRAS IMPORTANCE SCORE 0–10
-              ↓
-score >= 7
-              ↓
-ARTICLE FETCH + IMAGE
-              ↓
-CEREBRAS STORY GENERATION
-              ↓
-TELEGRAM
-              ↓
-PERSIST publication/source health
+Primary lookback is 72 hours, with a 0-24h primary bucket and 24-72h catch-up bucket. Stories publish when the editorial score is >= 7/10. There is no fixed daily quota. A thin primary day (<3 publishable events) opens the fallback source set and applies the same threshold.
+
+## Telegram Rich Messages
+
+The publisher uses Telegram Bot API `sendRichMessage` and `telegramify-markdown` `richify()` with HTML mode. This is the structured Rich Message API path, not Telethon and not `parse_mode=HTML`.
+
+The target story structure is:
+
+```markdown
+# Headline
+
+One-line summary.
+
+```
+🔴 CONFIRMED
+🎮 PS5 • Xbox Series X|S
 ```
 
-## Editorial model
+## Key Highlights
 
-This follows the supplied GamingNewsroom README:
+• Highlight
+• Highlight
 
-- 24-hour cadence
-- fixed 72-hour lookback
-- 0–24h primary bucket
-- 24–72h catch-up window
-- score 7/10 or higher publishes
-- no fixed story quota
-- fallback sources only when fewer than 3 stories clear the threshold
-- 40-story circuit breaker is engineering-only
-- unconfirmed leaks remain labeled unconfirmed
-- duplicate coverage becomes one event
+<details>
+<summary>What to Know</summary>
 
-## Required files
+Short context paragraph.
 
-Keep these state files across code deployments:
+</details>
 
-- `gaming_state.json`
-- `posted_urls.txt`
+#GTA6 #GamingNews
+Source: [Publisher](https://example.com/article)
+```
+
+`richify()` converts this into the Bot API `InputRichMessage` payload used by `sendRichMessage`. Rich Messages were introduced in Telegram Bot API 10.1, and Bot API 10.2 added explicit embedded media support. The converter also supports automatic Rich Message splitting through `telegramify_rich()`.
 
 ## Secrets
 
 - `EXA_API_KEY`
 - `CEREBRAS_API_KEY`
 - `TELEGRAM_BOT_TOKEN`
-- optional `CEREBRAS_MODEL`
 
-## Run
+No Telegram API ID/hash and no Telethon account session are required.
 
-```bash
-pip install -r requirements.txt
-python main.py --self-test
-python main.py
-```
+## State
 
+- `gaming_state.json`
+- `posted_urls.txt`
 
-## Telegram Rich Text
-
-Publication uses stable Telethon 1.44.0 HTML message formatting: bold headline, a code-style status/platform block, Key Highlights, an expandable `What to Know` blockquote, hashtags, and a source name with the original URL hidden behind the source hyperlink. Telethon 1.44.0 documents HTML parsing, `<pre>`, `<a>`, and expandable HTML blockquotes.
-
-Required Telegram credentials are `TELEGRAM_BOT_TOKEN`, `TELEGRAM_API_ID`, and `TELEGRAM_API_HASH`. These are still one Telegram integration, not an additional news/data API.
+Do not overwrite these during code deployment.

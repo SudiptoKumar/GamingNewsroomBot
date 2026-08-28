@@ -1,8 +1,7 @@
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import datetime
-from typing import Any
 
-@dataclass
+@dataclass(slots=True)
 class Candidate:
     title: str
     url: str
@@ -14,13 +13,13 @@ class Candidate:
     discovery: str = "rss"
     tier: int = 2
 
-@dataclass
+@dataclass(slots=True)
 class Event:
     key: str
     representative: Candidate
-    coverage: list[Candidate]
+    coverage: list[Candidate] = field(default_factory=list)
 
-@dataclass
+@dataclass(slots=True)
 class Decision:
     event: Event
     score: float
@@ -31,15 +30,14 @@ class Decision:
     category: str
     reason: str
 
-@dataclass
+@dataclass(slots=True)
 class Story:
     decision: Decision
     headline: str
     summary: str
     highlights: list[str]
-    what_to_know: list[dict[str, str]]
+    what_to_know: str
     platforms: list[str]
     hashtags: list[str]
     badge: str
-    article_text: str
     image_url: str
