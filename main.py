@@ -2595,9 +2595,9 @@ def dynamic_rich_html(story):
 
     parts = [
         '<img src="tg://photo?id=newsphoto">',
-        "<h1># " + escape_rich_html(story["headline"]) + "</h1>",
+        "<h1>" + escape_rich_html(story["headline"]) + "</h1>",
         "<p>" + bold_terms_html(story["summary"], terms) + "</p>",
-        "<pre>" + escape_rich_html(platform) + "</pre>",
+        "<aside>" + escape_rich_html(platform) + "</aside>",
         "<h2>KEY HIGHLIGHTS</h2>",
         "<p>" + "<br>".join(
             "• " + bold_terms_html(point, terms)
@@ -2605,8 +2605,9 @@ def dynamic_rich_html(story):
         ) + "</p>",
         "<h2>WHY IT MATTERS</h2>",
         "<p>" + bold_terms_html(story.get("why_it_matters", ""), terms) + "</p>",
-        "<h2>WHAT'S NEXT</h2>",
-        "<p>" + bold_terms_html(story.get("whats_next", ""), terms) + "</p>",
+        "<blockquote expandable><b>WHAT'S NEXT</b><br>"
+        + bold_terms_html(story.get("whats_next", ""), terms)
+        + "</blockquote>",
     ]
 
     hashtags = " ".join(category_hashtags(story))
@@ -3704,9 +3705,11 @@ def self_test():
     assert complete_text("An incomplete sentence—") is False
     assert "WHY IT MATTERS" in rendered
     assert "WHAT'S NEXT" in rendered
-    assert "<pre>PlayStation</pre>" in rendered
+    assert "<aside>PlayStation</aside>" in rendered
+    assert "<blockquote expandable><b>WHAT'S NEXT</b>" in rendered
+    assert "<h1># " not in rendered
     assert rendered.count("• ") == 4
-    assert rendered.index("# Major Game Expansion") < rendered.index("KEY HIGHLIGHTS") < rendered.index("WHY IT MATTERS") < rendered.index("WHAT'S NEXT")
+    assert rendered.index("<h1>Major Game Expansion") < rendered.index("KEY HIGHLIGHTS") < rendered.index("WHY IT MATTERS") < rendered.index("WHAT'S NEXT")
 
     sample_three = dict(sample)
     sample_three["highlights"] = sample_three["highlights"][:3]

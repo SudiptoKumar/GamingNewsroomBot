@@ -106,18 +106,17 @@ Every published story follows this order:
 
 ```text
 Photo
-# HEADLINE
+Headline
 1-sentence news summary
-PlayStation | Xbox | PC Game | Mobile Game
+[platform shown as a centered quote block]
 ## KEY HIGHLIGHTS
 • Major fact
 • Major fact
 • Major fact
-• Major fact
+... (3-5 dynamically)
 ## WHY IT MATTERS
 2-4 sentences of editorial context.
-## WHAT'S NEXT
-What players should watch for next.
+[WHAT'S NEXT appears inside a collapsed-by-default block]
 #hashtag #hashtag #hashtag
 **Source:** [Publication]
 ```
@@ -126,11 +125,9 @@ What players should watch for next.
 
 The `KEY HIGHLIGHTS` section is dynamic. The generator may produce **3, 4, or 5 concise factual highlights**, choosing the count that best represents the story without padding or repetition.
 
-There is no fixed four-highlight requirement.
+### Platform Quote Block
 
-### Platform Label
-
-Each story receives exactly one platform label:
+The affected platform is shown as a centered quote-style block using exactly one of:
 
 ```text
 PlayStation
@@ -139,7 +136,9 @@ PC Game
 Mobile Game
 ```
 
-The label represents the primary player platform affected by the story.
+### What's Next
+
+`WHAT'S NEXT` is rendered as a Telegram expandable blockquote and is **collapsed by default**. Players can expand it when they want the forward-looking context.
 
 ### Content Rules
 
@@ -148,8 +147,6 @@ The label represents the primary player platform affected by the story.
 - Highlights: 3-5 concise factual points.
 - Why It Matters: 2-4 complete sentences of editorial context.
 - What's Next: 1-2 complete sentences about what players should watch.
-- Hashtags: up to 3 contextual gaming hashtags.
-- Source: original publication and article link.
 
 ## Image Pipeline
 
