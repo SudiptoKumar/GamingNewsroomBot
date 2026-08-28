@@ -313,16 +313,43 @@ session.mount("http://", adapter)
 
 
 
+# Prefer first-party RSS for the primary 20-source whitelist. Google News is
+# retained as a secondary gap-fill path, not as the primary transport, because
+# Google News article links can require redirect resolution and are not stable
+# publication URLs.
+DIRECT_RSS = {
+    "VGC": "https://vgc.news/feed/",
+    "Insider Gaming": "https://insider-gaming.com/feed/",
+    "Gematsu": "https://www.gematsu.com/feed",
+    "IGN": "https://www.ign.com/rss/articles/feed?tags=games",
+    "GameSpot": "https://www.gamespot.com/feeds/mashup/",
+    "Eurogamer": "https://www.eurogamer.net/?format=rss",
+    "GamesIndustry.biz": "https://www.gamesindustry.biz/feed",
+    "PC Gamer": "https://www.pcgamer.com/rss/",
+    "GamesRadar+": "https://www.gamesradar.com/feeds.xml",
+    "Polygon": "https://www.polygon.com/rss/index.xml",
+    "Kotaku": "https://kotaku.com/rss",
+    "VG247": "https://www.vg247.com/feed",
+    "Destructoid": "https://www.destructoid.com/feed/",
+    "Rock Paper Shotgun": "https://www.rockpapershotgun.com/feed",
+    "Digital Foundry": "https://www.eurogamer.net/digitalfoundry?format=rss",
+    "Nintendo Life": "https://www.nintendolife.com/feeds/latest",
+    "Push Square": "https://www.pushsquare.com/feeds/latest",
+    "Pure Xbox": "https://www.purexbox.com/feeds/latest",
+    "Pocket Gamer": "https://www.pocketgamer.com/rss",
+    "Game Developer": "https://www.gamedeveloper.com/rss.xml",
+}
+
 RSS_FEEDS = [
     {
         "name": name,
         "region": "Gaming",
-        "url": (
+        "url": DIRECT_RSS.get(name,
             "https://news.google.com/rss/search?q="
             + quote(query + " when:3d")
             + "&hl=en-US&gl=US&ceid=US:en"
         ),
-        "kind": "google_news",
+        "kind": "direct" if name in DIRECT_RSS else "google_news",
         "domain": domain,
     }
     for name, domain, query in SOURCE_DEFS
@@ -1361,7 +1388,10 @@ def exa_gap_fill(existing_count=0, target=30, fallback=False):
         if existing_count + added >= target:
             break
         try:
-            results = exa.search_and_contents(
+            # Use the current Exa search API. The older search_and_contents
+            # wrapper is deprecated and has produced serialization failures in
+            # the current exa-py release. All date filters are explicit strings.
+            results = exa.search(
                 query,
                 type="auto",
                 category="news",
@@ -1369,7 +1399,7 @@ def exa_gap_fill(existing_count=0, target=30, fallback=False):
                 include_domains=domains,
                 start_published_date=DISCOVERY_START.isoformat(),
                 end_published_date=DISCOVERY_END.isoformat(),
-                contents={"highlights": {"max_characters": 900}},
+                contents={"highlights": True},
             )
             for result in results.results:
                 url = safe_text(getattr(result, "url", ""))
