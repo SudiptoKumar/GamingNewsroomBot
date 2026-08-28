@@ -78,7 +78,7 @@ def self_test():
     from discovery import canonical_url, parse_dt, xml_entries
     from editorial import cluster
     from models import Candidate
-    from publisher import build_rich_html
+    from publisher import caption
     import json
     now = datetime.now(timezone.utc)
     assert parse_dt("2026-08-28T13:00:00Z").tzinfo is not None
@@ -92,13 +92,12 @@ def self_test():
     b = Candidate("Major PlayStation game announced today", "https://gamespot.com/articles/b", "GameSpot", "gamespot.com", now)
     assert len(cluster([a, b])) == 1
     assert canonical_url("https://www.example.com/a?utm_source=x&x=1") == "https://example.com/a?x=1"
-    cap = build_rich_html(__import__("models").Story(
+    cap = caption(__import__("models").Story(
         __import__("models").Decision(__import__("models").Event("x", a, [a]), 8, True, False, "confirmed", True, "Major Release", "test"),
         "A major game announced", "The studio announced a new game.", ["Announcement is official."],
         [{"term":"Platform","meaning":"PS5 and PC."}], ["PS5","PC"], ["#GamingNews","#PS5"], "Confirmed", "", ""
     ))
-    assert len(cap) <= 1024
-    assert "<pre>" in cap and "<blockquote expandable>" in cap and '<a href="https://ign.com/articles/a">IGN</a>' in cap
+    assert len(cap) <= 1000
     log.info("GamingNewsroom fresh self-test passed")
     return 0
 
