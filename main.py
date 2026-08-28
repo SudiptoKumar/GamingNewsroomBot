@@ -2046,8 +2046,8 @@ STORY_SCHEMA = {
         "highlights": {
             "type": "array",
             "items": {"type": "string"},
-            "minItems": 4,
-            "maxItems": 4,
+            "minItems": 3,
+            "maxItems": 5,
         },
         "why_it_matters": {"type": "string"},
         "whats_next": {"type": "string"},
@@ -2142,7 +2142,7 @@ PUBLIC CONTENT:
 - Headline: 6-14 words, accurate, newspaper style.
 - Summary: exactly ONE complete sentence, about 18-28 words.
 - Platform: choose EXACTLY one of PlayStation, Xbox, PC Game, Mobile Game based on the primary player platform affected.
-- Highlights: EXACTLY 4 short factual points.
+- Highlights: 3-5 short factual points, choosing the number that best fits the story.
 - Why it Matters: 2-4 complete sentences of editorial context explaining the player, platform, industry, or business significance.
 - What's Next: 1-2 complete sentences stating what players should watch for next.
 - No repetition between sections.
@@ -2161,7 +2161,7 @@ Photo
 1-sentence summary
 Platform line
 ## KEY HIGHLIGHTS
-4 bullets
+3-5 bullets
 ## WHY IT MATTERS
 2-4 sentences
 ## WHAT'S NEXT
@@ -2234,8 +2234,8 @@ Platform line
                 for x in data.get("highlights", [])
                 if clean_generated_text(x)
             ]
-            if len(highlights) != 4:
-                raise ValueError("Exactly four highlights required")
+            if not (3 <= len(highlights) <= 5):
+                raise ValueError("Highlights must contain 3-5 points")
 
             why_it_matters = clean_generated_text(data.get("why_it_matters"))
             whats_next = clean_generated_text(data.get("whats_next"))
@@ -2601,7 +2601,7 @@ def dynamic_rich_html(story):
         "<h2>KEY HIGHLIGHTS</h2>",
         "<p>" + "<br>".join(
             "• " + bold_terms_html(point, terms)
-            for point in story["highlights"][:4]
+            for point in story.get("highlights", [])
         ) + "</p>",
         "<h2>WHY IT MATTERS</h2>",
         "<p>" + bold_terms_html(story.get("why_it_matters", ""), terms) + "</p>",
@@ -2641,16 +2641,16 @@ def rich_visible_length(text):
 
 def fit_rich_html(story):
     variants = [
-        (260, 130, 4, 520, 260),
-        (220, 115, 4, 440, 220),
-        (190, 100, 4, 380, 200),
-        (160, 85, 4, 320, 170),
+        (260, 130, 520, 260),
+        (220, 115, 440, 220),
+        (190, 100, 380, 200),
+        (160, 85, 320, 170),
     ]
 
-    for summary_len, highlight_len, count, why_len, next_len in variants:
+    for summary_len, highlight_len, why_len, next_len in variants:
         candidate = dict(story)
         candidate["summary"] = trim_source_text(story["summary"], summary_len)
-        candidate["highlights"] = [trim_source_text(x, highlight_len) for x in story["highlights"][:count]]
+        candidate["highlights"] = [trim_source_text(x, highlight_len) for x in story.get("highlights", [])]
         candidate["why_it_matters"] = trim_source_text(story.get("why_it_matters", ""), why_len)
         candidate["whats_next"] = trim_source_text(story.get("whats_next", ""), next_len)
         html_text = dynamic_rich_html(candidate)
@@ -3702,12 +3702,21 @@ def self_test():
     rendered = dynamic_rich_html(sample)
     assert complete_text("A normal sentence.")
     assert complete_text("An incomplete sentence—") is False
-    assert "What to Know" not in rendered
-    assert "Vocabulary" not in rendered
     assert "WHY IT MATTERS" in rendered
     assert "WHAT'S NEXT" in rendered
     assert "<pre>PlayStation</pre>" in rendered
+    assert rendered.count("• ") == 4
     assert rendered.index("# Major Game Expansion") < rendered.index("KEY HIGHLIGHTS") < rendered.index("WHY IT MATTERS") < rendered.index("WHAT'S NEXT")
+
+    sample_three = dict(sample)
+    sample_three["highlights"] = sample_three["highlights"][:3]
+    rendered_three = dynamic_rich_html(sample_three)
+    assert rendered_three.count("• ") == 3
+
+    sample_five = dict(sample)
+    sample_five["highlights"] = sample_five["highlights"] + ["The launch continues the developer's support for the game."]
+    rendered_five = dynamic_rich_html(sample_five)
+    assert rendered_five.count("• ") == 5
     assert rendered.index("#PlayStation") > rendered.index("WHAT'S NEXT")
     assert "<footer><b>Source:</b>" in rendered
     import inspect

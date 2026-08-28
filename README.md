@@ -2,13 +2,13 @@
 
 > Automated gaming news intelligence for Telegram, powered by GitHub Actions, Exa, and Cerebras.
 
-GamingNewsroom discovers, filters, ranks, verifies, and publishes **up to six high-value gaming stories per run**. The bot preserves the BusinessNewsBot architecture and publication format while using a single gaming-news pool and the supplied 20-source gaming universe.
+GamingNewsroom discovers, filters, ranks, verifies, and publishes up to six high-value gaming stories per run. All eligible stories compete in one ranked gaming pool, and the bot publishes the strongest available stories rather than forcing weak category quotas.
 
 ## Editorial Mission
 
-The channel is designed for gamers and gaming enthusiasts across PC, console, and mobile. It prioritizes material developments that affect players, gaming platforms, major games, studios, publishers, subscriptions, storefronts, monetization, security, hardware, multiplayer services, esports, and the wider games industry.
+The channel is for gamers and gaming enthusiasts across PlayStation, Xbox, PC, and mobile. It prioritizes developments with meaningful player, platform, game, studio, publisher, industry, security, pricing, subscription, multiplayer, esports, or hardware impact.
 
-The editorial system does not publish every available gaming headline. Routine patches, minor fixes, unsupported rumors, promotional material, duplicate coverage, opinion-only pieces, and very niche stories are normally rejected.
+Routine patches, minor fixes, unsupported rumors, promotional material, duplicate coverage, opinion-only pieces, and very niche stories are normally rejected unless the underlying event is genuinely significant.
 
 ## Six-Story Hourly Structure
 
@@ -18,11 +18,11 @@ Each scheduled run targets:
 6 gaming stories
 ```
 
-All eligible gaming stories compete in **one ranked pool**. There is no artificial regional quota. The bot prefers the six strongest publishable events and may publish fewer than six when insufficient high-quality candidates remain.
+All eligible stories compete in one ranked pool. The bot may publish fewer than six when insufficient high-quality candidates remain.
 
 ## Primary Source Universe
 
-The source universe supplied for the Gaming News channel contains 20 primary publications:
+The primary source universe contains 20 gaming publications:
 
 | Source | Domain |
 |---|---|
@@ -51,9 +51,7 @@ RSS is attempted first. Google News RSS and Exa provide gap-fill discovery using
 
 ## Editorial Ranking
 
-The LLM ranking pass considers all eligible candidates from the recent window and returns an ordered list. It is instructed to prioritize genuine significance rather than sensational wording.
-
-The Gaming News editorial score model is conceptually:
+The ranking pass scores each candidate from 0-10 based on actual significance, not headline excitement.
 
 ```text
 9-10  Exceptional industry/player impact
@@ -62,11 +60,11 @@ The Gaming News editorial score model is conceptually:
 0-3   Low-value, repetitive, routine, promotional, rumor/speculation, or niche
 ```
 
-Only stories at the important end of the editorial spectrum are intended for publication. Exact duplicate events are collapsed before downstream article processing.
+A story is publishable only when its importance score is at least 7. Duplicate events are collapsed before downstream processing.
 
 ## 24-Hour Rolling Window
 
-Every run examines a rolling 24-hour discovery window with a small future tolerance for feed timestamp skew. Existing state, posted URLs, and event memory prevent repeated publication across hourly runs.
+Every run examines a rolling 24-hour discovery window with a small future tolerance for feed timestamp skew. Persistent state, posted URLs, and event memory prevent repeated publication across hourly runs.
 
 ## Discovery Flow
 
@@ -104,50 +102,71 @@ Persistent state
 
 ## Telegram Output Structure
 
-The publication design remains the same as the BusinessNewsBot structure:
+Every published story follows this order:
 
 ```text
 Photo
-
-Headline
-
-One-line summary
-
-Key Highlights
-
-What to Know
-
-Vocabulary
-
-Hashtags
-
-Source
+# HEADLINE
+1-sentence news summary
+PlayStation | Xbox | PC Game | Mobile Game
+## KEY HIGHLIGHTS
+• Major fact
+• Major fact
+• Major fact
+• Major fact
+## WHY IT MATTERS
+2-4 sentences of editorial context.
+## WHAT'S NEXT
+What players should watch for next.
+#hashtag #hashtag #hashtag
+**Source:** [Publication]
 ```
 
-The branding is changed to:
+### Dynamic Key Highlights
+
+The `KEY HIGHLIGHTS` section is dynamic. The generator may produce **3, 4, or 5 concise factual highlights**, choosing the count that best represents the story without padding or repetition.
+
+There is no fixed four-highlight requirement.
+
+### Platform Label
+
+Each story receives exactly one platform label:
 
 ```text
-@GamingNewsroom
+PlayStation
+Xbox
+PC Game
+Mobile Game
 ```
 
-Generated vocabulary is gaming-specific, and hashtags are selected from the gaming taxonomy.
+The label represents the primary player platform affected by the story.
+
+### Content Rules
+
+- Headline: 6-14 words, accurate and newspaper-style.
+- Summary: exactly one complete sentence.
+- Highlights: 3-5 concise factual points.
+- Why It Matters: 2-4 complete sentences of editorial context.
+- What's Next: 1-2 complete sentences about what players should watch.
+- Hashtags: up to 3 contextual gaming hashtags.
+- Source: original publication and article link.
 
 ## Image Pipeline
 
-The bot extracts an article image where possible, resizes/crops it to the existing 1200×675 card format, adds the `@GamingNewsroom` brand chip, and falls back to a generated gaming-news card when no usable source image exists.
+The bot extracts an article image where possible, resizes/crops it to the 1200×675 card format, adds the `@GamingNewsroom` brand chip, and uses a generated gaming-news fallback card when no usable source image exists.
 
 ## Verification
 
-The bot keeps the two-pass verification system:
+The bot uses two verification passes:
 
 1. Numeric grounding checks generated numeric facts against the article.
 2. Claim verification checks the generated headline, summary, and highlights against the article.
 
-If a story fails grounding, the bot retries generation. If verification still fails, that candidate is dropped rather than published with unsupported claims.
+Failed verification causes regeneration or candidate rejection rather than unsupported publication.
 
 ## Scheduling
 
-The included GitHub Actions workflow runs hourly from **07:00 through 23:00 Asia/Dhaka**, matching the existing bot's scheduling pattern, and also supports manual execution.
+The included GitHub Actions workflow runs hourly from **07:00 through 23:00 Asia/Dhaka** and also supports manual execution.
 
 ## Required Secrets
 
@@ -190,19 +209,3 @@ Normal run:
 ```bash
 python main.py
 ```
-## Telegram output format
-
-Every published story follows this exact order:
-
-1. Photo
-2. `# HEADLINE`
-3. One-sentence news summary
-4. One platform label: `PlayStation`, `Xbox`, `PC Game`, or `Mobile Game`
-5. `KEY HIGHLIGHTS` with exactly 4 bullets
-6. `WHY IT MATTERS` with 2-4 sentences
-7. `WHAT'S NEXT` with 1-2 sentences
-8. Up to 3 contextual hashtags
-9. `Source:` with the original publication link
-
-The previous `What to Know` and `Vocabulary` sections are removed from both the generation schema and Telegram renderer.
-
