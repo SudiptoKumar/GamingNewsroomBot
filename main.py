@@ -772,6 +772,12 @@ def candidate_basic_allowed(item):
         "published_dt"
     )
 
+    # Discovery providers do not all return the same timestamp type.
+    # RSS paths often pass a datetime, while Exa/other JSON paths pass
+    # ISO-8601 strings. Normalize both before comparing against our window.
+    if isinstance(published, str):
+        published = parse_datetime(published)
+
     if (
         not url
         or not title
@@ -990,7 +996,16 @@ def fetch_rss_feed(
             response.content
         )
 
+        entry_count = len(parsed.entries)
         added = 0
+        rejected = 0
+        unresolved = 0
+
+        logger.info(
+            "RSS source=%s status=200 entries=%d",
+            feed_def["name"],
+            entry_count,
+        )
 
         for entry in parsed.entries:
             published_dt = feed_entry_datetime(
@@ -1015,7 +1030,11 @@ def fetch_rss_feed(
                 ),
             )
             if feed_def.get("kind") == "google_news":
-                article_url = resolve_google_news_url(article_url)
+                resolved_url = resolve_google_news_url(article_url)
+                if not resolved_url:
+                    unresolved += 1
+                    continue
+                article_url = resolved_url
 
             title = safe_text(
                 entry.get("title")
@@ -1062,6 +1081,7 @@ def fetch_rss_feed(
                     "published_dt": published_dt,
                 }
             ):
+                rejected += 1
                 continue
 
             if (
@@ -1081,6 +1101,14 @@ def fetch_rss_feed(
             if not before:
                 added += 1
 
+        logger.info(
+            "RSS source=%s accepted=%d rejected=%d unresolved=%d",
+            feed_def["name"],
+            added,
+            rejected,
+            unresolved,
+        )
+        mark_feed_healthy(feed_def, old)
         return added
 
     except Exception as exc:
@@ -1145,6 +1173,33 @@ def alert_feed_down(feed_def, fail_count):
             )
 
     logger.error(message)
+
+
+def log_source_health():
+    healthy = 0
+    failed = 0
+    unseen = 0
+    logger.info("SOURCE HEALTH SUMMARY")
+    for feed_def in RSS_FEEDS:
+        data = STATE.get("feeds", {}).get(feed_def["url"], {})
+        last_checked = data.get("last_checked")
+        fail_count = int(data.get("fail_count", 0) or 0)
+        if not last_checked:
+            status = "UNSEEN"
+            unseen += 1
+        elif fail_count:
+            status = f"FAILED({fail_count})"
+            failed += 1
+        else:
+            status = "OK"
+            healthy += 1
+        logger.info("SOURCE %-20s %s", feed_def["name"], status)
+    logger.info(
+        "SOURCE HEALTH totals: ok=%d failed=%d unseen=%d",
+        healthy,
+        failed,
+        unseen,
+    )
 
 
 def collect_rss():
@@ -1331,7 +1386,7 @@ def exa_gap_fill(existing_count=0, target=30, fallback=False):
                     "title": title,
                     "url": url,
                     "canonical": canonical_url(url),
-                    "published_dt": published_dt.isoformat(),
+                    "published_dt": published_dt,
                     "published_date": published_dt.isoformat(),
                     "source": source_name(url),
                     "region": "Gaming",
@@ -3113,6 +3168,7 @@ def run():
 
     # Primary 20-source collection.
     collect_rss()
+    log_source_health()
     count = queue_candidates_for_region("Gaming")
     if count < 30:
         count += google_news_gap_fill(count, 36, fallback=False)
@@ -3123,6 +3179,11 @@ def run():
 
     primary_candidates = available_candidates("Gaming", source_pool="primary")
     logger.info("PRIMARY CANDIDATES: %d", len(primary_candidates))
+    if not primary_candidates:
+        logger.error(
+            "No primary candidates after RSS/Google/Exa discovery. "
+            "Continuing to fallback, but this run has a source/discovery problem to investigate."
+        )
 
     ranked_primary = prepare_ranked_region("Gaming", primary_candidates)
     primary_eligible = process_ranked_region("Gaming", ranked_primary)
@@ -3261,6 +3322,13 @@ def self_test():
         "PlayStation Network outage affects players",
     )
     assert canonical_url("https://www.example.com/story/?utm_source=x") == "example.com/story"
+    test_item = {
+        "url": "https://vgc.news/story",
+        "title": "A valid gaming news story",
+        "published_dt": NOW_BD.isoformat(),
+        "region": "Gaming",
+    }
+    assert candidate_basic_allowed(test_item) is True
     clustered = cluster_ranked_events([
         {
             "title": "PlayStation outage affects players",
