@@ -30,12 +30,36 @@ def send(story):
 def publish(stories):
     successful=[]
     for story in stories:
-        try: send(story);count+=1
-        except Exception as e: print('TELEGRAM PUBLISH FAILED:',e)
+        try:
+            send(story)
+            successful.append(story)
+        except Exception as e:
+            print('TELEGRAM PUBLISH FAILED:',e)
         time.sleep(POST_DELAY)
     return successful
 
 def self_test():
+    test_publish_tracks_success()
     s=Story('Test Headline','Test summary',['One','Two'],'Test expandable text',['PS5','PC'],['#GamingNews'],'Confirmed','Test Source','https://example.com')
     md=markdown(s);assert '# Test Headline' in md and '<details>' in md and '```' in md and '[Test Source]' in md
     x=richify(md,mode='html').to_dict();assert 'html' in x or 'markdown' in x
+
+
+def test_publish_tracks_success(monkeypatch=None):
+    """Verify a successful send is returned as successful, without Telegram network calls."""
+    global send, POST_DELAY
+    original_send = send
+    original_delay = POST_DELAY
+    sent = []
+    try:
+        def fake_send(story):
+            sent.append(story)
+        send = fake_send
+        POST_DELAY = 0
+        stories = [{"url": "https://example.com/1"}, {"url": "https://example.com/2"}]
+        successful = publish(stories)
+        assert successful == stories, "publish() must return every successfully sent story"
+        assert sent == stories, "all stories should have been sent"
+    finally:
+        send = original_send
+        POST_DELAY = original_delay

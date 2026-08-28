@@ -43,7 +43,10 @@ def run():
     if len(important)>CIRCUIT_BREAKER: important=sorted(important,key=lambda x:x.score,reverse=True)[:CIRCUIT_BREAKER]
     stories=[]
     for cl in important:
-        candidate=reps[cl.index]
+        if not isinstance(cl.index, int) or cl.index < 0 or cl.index >= len(reps):
+            logger.warning("Skipping invalid classifier index=%r", cl.index)
+            continue
+        candidate = reps[cl.index]
         article=fetch_article(candidate.url)
         if article.get('image_url') and not candidate.image_url: candidate.image_url=article['image_url']
         story=generate_story(candidate,cl,article)
