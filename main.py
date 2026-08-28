@@ -1,101 +1,60 @@
-import argparse
-import logging
-import time
-from datetime import datetime, timezone
+import argparse,logging
+from datetime import datetime,timezone
+from config import *
+from discovery import discover
+from editorial import classify,generate_story
+from publisher import publish,self_test as publisher_test
+from article import fetch_article
+from state import load_state,load_posted,save
 
-from config import CIRCUIT_BREAKER, LOOKBACK_HOURS, POST_DELAY, THIN_DAY_THRESHOLD, TELEGRAM_BOT_TOKEN, EXA_API_KEY, CEREBRAS_API_KEY
-from discovery import discover, canonical_url, parse_dt
-from editorial import cluster, generate, score
-from publisher import publish
-from state import load, load_posted, save
+logging.basicConfig(level=logging.INFO,format='%(asctime)s | %(levelname)s | %(name)s | %(message)s')
 
-logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(name)s | %(message)s")
-log = logging.getLogger("gamingnewsroom")
-
-
-def fetch_article(url):
-    import html, re, requests
-    try:
-        r = requests.get(url, timeout=22, headers={"User-Agent":"GamingNewsroom/1.0"})
-        r.raise_for_status()
-        source = r.text
-        image = ""
-        for pat in [r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)', r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image']:
-            m = re.search(pat, source, re.I)
-            if m:
-                image = m.group(1); break
-        body = re.sub(r"(?is)<script.*?</script>|<style.*?</style>|<noscript.*?</noscript>", " ", source)
-        body = re.sub(r"(?s)<[^>]+>", " ", body)
-        body = re.sub(r"\s+", " ", html.unescape(body)).strip()
-        return body[:9000], image
-    except Exception as exc:
-        log.warning("ARTICLE FETCH FAILED url=%s error=%s", url, exc)
-        return "", ""
-
-
-def validate_config():
-    missing = [name for name, value in {"TELEGRAM_BOT_TOKEN":TELEGRAM_BOT_TOKEN,"EXA_API_KEY":EXA_API_KEY,"CEREBRAS_API_KEY":CEREBRAS_API_KEY}.items() if not value]
-    if missing:
-        raise RuntimeError("Missing required configuration: " + ", ".join(missing))
-
+def selftest():
+    from discovery import parse_dt,canon
+    from editorial import extract_json
+    assert parse_dt('2026-08-28T12:00:00Z').tzinfo is not None
+    assert canon('https://www.example.com/a/?utm_source=x')=='https://example.com/a'
+    x=extract_json('```json\n{"classifications":[]}\n```');assert x=={'classifications':[]}
+    publisher_test();print('GamingNewsroom V1 self-test passed.')
 
 def run():
-    validate_config()
-    now = datetime.now(timezone.utc)
-    state = load(); posted = load_posted()
-    state["last_run"] = now.isoformat()
-    candidates, health = discover(now, fallback=False)
-    candidates = [x for x in candidates if canonical_url(x.url) not in posted]
-    state["source_health"] = health
-    log.info("PRIMARY CANDIDATES=%d", len(candidates))
-    decisions = score(cluster(candidates))
-    selected = sorted((d for d in decisions if d.important and d.score >= 7), key=lambda x:x.score, reverse=True)
-    log.info("PRIMARY STORIES >=7=%d", len(selected))
-    if len(selected) < THIN_DAY_THRESHOLD:
-        fallback, _ = discover(now, fallback=True)
-        fallback = [x for x in fallback if canonical_url(x.url) not in posted]
-        fdec = score(cluster(fallback))
-        keys = {d.event.key for d in selected}
-        for d in sorted(fdec, key=lambda x:x.score, reverse=True):
-            if d.important and d.score >= 7 and d.event.key not in keys:
-                selected.append(d); keys.add(d.event.key)
-        log.info("AFTER FALLBACK STORIES >=7=%d", len(selected))
-    unique=[]; seen=set()
-    for d in sorted(selected, key=lambda x:x.score, reverse=True):
-        if d.event.key not in seen and d.event.key not in state.get("published_events", {}):
-            seen.add(d.event.key); unique.append(d)
-    selected = unique[:CIRCUIT_BREAKER]
-    log.info("FINAL PUBLISHABLE STORIES=%d", len(selected))
-    published_count=0
-    for idx, decision in enumerate(selected,1):
-        article, image = fetch_article(decision.event.representative.url)
-        if image and not decision.event.representative.image_url:
-            decision.event.representative.image_url=image
-        story=generate(decision, article)
-        if publish(story):
-            key=decision.event.key
-            state.setdefault("published_events",{})[key]={"title":story.headline,"url":decision.event.representative.url,"score":decision.score,"published_at":now.isoformat()}
-            state.setdefault("queue",{})[decision.event.representative.url]={"status":"posted","title":story.headline}
-            posted.add(canonical_url(decision.event.representative.url))
-            published_count+=1
-            save(state, posted)
-            log.info("PUBLISHED #%d score=%.1f %s", idx, decision.score, story.headline)
-        time.sleep(POST_DELAY)
-    save(state, posted)
-    log.info("DONE published=%d", published_count)
-    return 0
+    if not (EXA_API_KEY and CEREBRAS_API_KEY and TOKEN): raise SystemExit('Missing EXA_API_KEY, CEREBRAS_API_KEY, or TELEGRAM_BOT_TOKEN')
+    state=load_state();posted=load_posted();clock=datetime.now(timezone.utc)
+    candidates,health=discover(clock,False)
+    print(f'PRIMARY CANDIDATES={len(candidates)}')
+    if len(candidates)<THIN_DAY_THRESHOLD:
+        extra,_=discover(clock,True);candidates+=extra
+        # exact URL dedup
+        seen=set();candidates=[c for c in sorted(candidates,key=lambda x:x.published_at,reverse=True) if not (c.url in seen or seen.add(c.url))]
+        print(f'AFTER FALLBACK CANDIDATES={len(candidates)}')
+    # cluster by normalized title tokens
+    clusters={}
+    import re,hashlib
+    for c in candidates:
+        key=' '.join(sorted(set(re.findall(r'[a-z0-9]+',c.title.lower())))-{'the','a','and','of','to','in','for','on','at','is','new'})
+        cid=hashlib.sha1(key.encode()).hexdigest()[:12] if key else hashlib.sha1(c.url.encode()).hexdigest()[:12]
+        c.cluster_id=cid;clusters.setdefault(cid,[]).append(c)
+    reps=[]
+    for group in clusters.values(): reps.append(sorted(group,key=lambda x:(x.tier,-x.published_at.timestamp()))[0])
+    reps=sorted(reps,key=lambda x:x.published_at,reverse=True)
+    classifications=classify(reps,posted)
+    important=[c for c in classifications if c.important and c.score>=THRESHOLD]
+    print(f'IMPORTANT STORIES={len(important)}')
+    if len(important)>CIRCUIT_BREAKER: important=sorted(important,key=lambda x:x.score,reverse=True)[:CIRCUIT_BREAKER]
+    stories=[]
+    for cl in important:
+        candidate=reps[cl.index]
+        article=fetch_article(candidate.url)
+        if article.get('image_url') and not candidate.image_url: candidate.image_url=article['image_url']
+        story=generate_story(candidate,cl,article)
+        if story: stories.append(story)
+    print(f'FINAL PUBLISHABLE STORIES={len(stories)}')
+    successful=publish(stories)
+    published=len(successful)
+    for s in successful: posted.add(s.url)
+    state['source_health']=health;state['last_run']=clock.isoformat();state['last_published']=published
+    save(state,posted)
+    print(f'DONE published={published}')
 
-
-def self_test():
-    assert parse_dt("Fri, 28 Aug 2026 14:00:00 GMT").tzinfo is not None
-    from publisher import self_test as rich_test
-    assert rich_test()
-    assert canonical_url("https://www.example.com/a?utm_source=x&x=1")=="https://example.com/a?x=1"
-    log.info("GamingNewsroom V1 self-test passed")
-    return 0
-
-if __name__ == "__main__":
-    p=argparse.ArgumentParser()
-    p.add_argument("--self-test", action="store_true")
-    args=p.parse_args()
-    raise SystemExit(self_test() if args.self_test else run())
+if __name__=='__main__':
+    p=argparse.ArgumentParser();p.add_argument('--self-test',action='store_true');a=p.parse_args();selftest() if a.self_test else run()
