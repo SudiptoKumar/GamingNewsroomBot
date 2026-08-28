@@ -1,52 +1,68 @@
 name: GamingNewsroom V1
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 13 * * *'
+    - cron: "0 7-23 * * *"
+      timezone: "Asia/Dhaka"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 concurrency:
-  group: gamingnewsroom
+  group: gamingnewsroom-v1
   cancel-in-progress: false
 
 jobs:
-  run:
+  run-news-bot:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 30
+
+    env:
+      EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+      CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHANNEL: "@GamingNewsroom"
+      NEWS_MODE: "update"
+      PYTHONUNBUFFERED: "1"
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v7
-      - name: Set up Python
-        uses: actions/setup-python@v7
+        uses: actions/checkout@v4
         with:
-          python-version: '3.12'
-          cache: pip
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: requirements.txt
+
       - name: Install dependencies
-        run: python -m pip install -r requirements.txt
-      - name: Compile
-        run: python -m py_compile *.py
-      - name: Self-test
-        env:
-          EXA_API_KEY: test
-          CEREBRAS_API_KEY: test
-          TELEGRAM_BOT_TOKEN: test
-          TELEGRAM_CHANNEL: '@GamingNewsroom'
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Verify Python source
+        run: python -m py_compile main.py
+
+      - name: Run self-test
         run: python main.py --self-test
-          python test_integration.py
+
       - name: Run GamingNewsroom
-        env:
-          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
-          CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
-          CEREBRAS_MODEL: ${{ secrets.CEREBRAS_MODEL || 'gpt-oss-120b' }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL || '@GamingNewsroom' }}
         run: python main.py
-      - name: Save persistent state
+
+      - name: Save state
         if: always()
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add gaming_state.json posted_urls.txt
-          git diff --cached --quiet || git commit -m 'Update GamingNewsroom state'
-          git push
+          git config user.name "Gaming News Bot"
+          git config user.email "actions@github.com"
+          git add news_state.json posted_urls.txt
+
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
+          else
+            git commit -m "Update GamingNewsroom state"
+            git push
+          fi
