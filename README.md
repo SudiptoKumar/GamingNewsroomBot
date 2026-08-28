@@ -190,3 +190,19 @@ Normal run:
 ```bash
 python main.py
 ```
+## Telegram output format
+
+Every published story follows this exact order:
+
+1. Photo
+2. `# HEADLINE`
+3. One-sentence news summary
+4. One platform label: `PlayStation`, `Xbox`, `PC Game`, or `Mobile Game`
+5. `KEY HIGHLIGHTS` with exactly 4 bullets
+6. `WHY IT MATTERS` with 2-4 sentences
+7. `WHAT'S NEXT` with 1-2 sentences
+8. Up to 3 contextual hashtags
+9. `Source:` with the original publication link
+
+The previous `What to Know` and `Vocabulary` sections are removed from both the generation schema and Telegram renderer.
+

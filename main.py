@@ -2039,64 +2039,32 @@ STORY_SCHEMA = {
     "properties": {
         "headline": {"type": "string"},
         "summary": {"type": "string"},
+        "platform": {
+            "type": "string",
+            "enum": ["PlayStation", "Xbox", "PC Game", "Mobile Game"],
+        },
         "highlights": {
             "type": "array",
             "items": {"type": "string"},
-            "minItems": 2,
-            "maxItems": 3,
+            "minItems": 4,
+            "maxItems": 4,
         },
+        "why_it_matters": {"type": "string"},
+        "whats_next": {"type": "string"},
         "bold_terms": {
             "type": "array",
             "items": {"type": "string"},
             "maxItems": 16,
         },
-        "what_to_know": {
-            "type": "array",
-            "items": {
-                "type": "object",
-                "properties": {
-                    "term": {"type": "string"},
-                    "meaning": {"type": "string"},
-                },
-                "required": ["term", "meaning"],
-                "additionalProperties": False,
-            },
-            "minItems": 1,
-            "maxItems": 3,
-        },
-        "vocabulary": {
-            "type": "array",
-            "items": {
-                "type": "object",
-                "properties": {
-                    "word": {"type": "string"},
-                    "synonyms": {
-                        "type": "array",
-                        "items": {"type": "string"},
-                        "minItems": 2,
-                        "maxItems": 2,
-                    },
-                    "antonyms": {
-                        "type": "array",
-                        "items": {"type": "string"},
-                        "minItems": 2,
-                        "maxItems": 2,
-                    },
-                },
-                "required": ["word", "synonyms", "antonyms"],
-                "additionalProperties": False,
-            },
-            "minItems": 3,
-            "maxItems": 3,
-        },
     },
     "required": [
         "headline",
         "summary",
+        "platform",
         "highlights",
+        "why_it_matters",
+        "whats_next",
         "bold_terms",
-        "what_to_know",
-        "vocabulary",
     ],
     "additionalProperties": False,
 }
@@ -2173,33 +2141,33 @@ Return ONLY valid JSON matching the schema.
 PUBLIC CONTENT:
 - Headline: 6-14 words, accurate, newspaper style.
 - Summary: exactly ONE complete sentence, about 18-28 words.
-- Highlights: 2-3 short factual points.
-- No repetition between summary and highlights.
+- Platform: choose EXACTLY one of PlayStation, Xbox, PC Game, Mobile Game based on the primary player platform affected.
+- Highlights: EXACTLY 4 short factual points.
+- Why it Matters: 2-4 complete sentences of editorial context explaining the player, platform, industry, or business significance.
+- What's Next: 1-2 complete sentences stating what players should watch for next.
+- No repetition between sections.
 - No "..." or "…".
 - Never end a headline or highlight with an ellipsis.
 - No hashtags in generated fields.
 - No Markdown or HTML in JSON fields.
 
-WHAT TO KNOW:
-- Return 1-3 genuinely useful knowledge points directly related to this news story.
-- Use short terms, definitions, meanings, mechanisms, institutions, policies or concepts that help the reader understand the story.
-- Use only information supported by the article or stable, directly relevant knowledge.
-
-VOCABULARY:
-- Return EXACTLY 3 important vocabulary words from the story.
-- Each word must start with a capital letter.
-- Each synonym and antonym must start with lowercase letters.
-- Return exactly 2 synonyms and 2 antonyms for each word.
-- Prefer useful gaming vocabulary, not trivial words.
-
 BOLD TERMS:
 - Include important game titles, characters, developers, publishers, platforms, figures, prices,
   dates, player counts, policies and gaming terms appearing in the generated headline, summary or highlights.
 
-The public post will contain ONLY:
-Photo, headline, one-line summary, Key Highlights, What to Know, Vocabulary,
-hashtags and Source. Do not create context, why-it-matters, specialized, background,
-market-context or any other top-level section.
+The public post must follow this exact order:
+Photo
+# HEADLINE
+1-sentence summary
+Platform line
+## KEY HIGHLIGHTS
+4 bullets
+## WHY IT MATTERS
+2-4 sentences
+## WHAT'S NEXT
+1-2 sentences
+#hashtags
+**Source:** Publication
 """
 
     user = (
@@ -2227,7 +2195,7 @@ market-context or any other top-level section.
                 response_format={
                     "type": "json_schema",
                     "json_schema": {
-                        "name": "gaming_news_story_v04_1",
+                        "name": "gaming_news_story_v05_0",
                         "strict": True,
                         "schema": STORY_SCHEMA,
                     },
@@ -2257,55 +2225,33 @@ market-context or any other top-level section.
                 )
             )
 
+            platform = safe_text(data.get("platform"))
+            if platform not in {"PlayStation", "Xbox", "PC Game", "Mobile Game"}:
+                raise ValueError("Invalid platform label")
+
             highlights = [
-                clean_generated_text(
-                    x
-                )
-                for x in data.get(
-                    "highlights",
-                    [],
-                )
-                if clean_generated_text(
-                    x
-                )
-            ][:3]
+                clean_generated_text(x)
+                for x in data.get("highlights", [])
+                if clean_generated_text(x)
+            ]
+            if len(highlights) != 4:
+                raise ValueError("Exactly four highlights required")
 
-            what_to_know = []
-            for item_know in data.get("what_to_know", []):
-                term = clean_generated_text(item_know.get("term"))
-                meaning = clean_generated_text(item_know.get("meaning"))
-                if term and meaning:
-                    what_to_know.append({
-                        "term": trim_source_text(term, 80),
-                        "meaning": trim_source_text(meaning, 220),
-                    })
-            what_to_know = what_to_know[:3]
-
-            vocabulary = []
-            for vocab in data.get("vocabulary", []):
-                word = safe_text(vocab.get("word"))
-                synonyms = [safe_text(x) for x in vocab.get("synonyms", [])[:2] if safe_text(x)]
-                antonyms = [safe_text(x) for x in vocab.get("antonyms", [])[:2] if safe_text(x)]
-                if word and len(synonyms) == 2 and len(antonyms) == 2:
-                    word = word[:1].upper() + word[1:]
-                    synonyms = [x[:1].lower() + x[1:] for x in synonyms]
-                    antonyms = [x[:1].lower() + x[1:] for x in antonyms]
-                    vocabulary.append({
-                        "word": trim_source_text(word, 50),
-                        "synonyms": [trim_source_text(x, 50) for x in synonyms],
-                        "antonyms": [trim_source_text(x, 50) for x in antonyms],
-                    })
-            vocabulary = vocabulary[:3]
+            why_it_matters = clean_generated_text(data.get("why_it_matters"))
+            whats_next = clean_generated_text(data.get("whats_next"))
+            why_count = len(re.findall(r"(?<=[.!?])\s+", why_it_matters)) + (1 if why_it_matters and why_it_matters[-1] in ".!?" else 0)
+            next_count = len(re.findall(r"(?<=[.!?])\s+", whats_next)) + (1 if whats_next and whats_next[-1] in ".!?" else 0)
+            if not why_it_matters or not whats_next or not (2 <= why_count <= 4) or not (1 <= next_count <= 2):
+                raise ValueError("Invalid Why It Matters or What's Next")
 
             if (
                 not headline
                 or not summary
-                or len(highlights) < 2
-                or len(what_to_know) < 1
-                or len(vocabulary) != 3
                 or not complete_text(headline)
                 or not complete_text(summary)
                 or any(not complete_text(x) for x in highlights)
+                or not complete_text(why_it_matters)
+                or not complete_text(whats_next)
             ):
                 raise ValueError("Incomplete story")
 
@@ -2313,10 +2259,11 @@ market-context or any other top-level section.
                 **item,
                 "headline": trim_source_text(headline, 110),
                 "summary": trim_source_text(summary, 260),
+                "platform": platform,
                 "highlights": [trim_source_text(x, 130) for x in highlights],
+                "why_it_matters": trim_source_text(why_it_matters, 520),
+                "whats_next": trim_source_text(whats_next, 260),
                 "bold_terms": [safe_text(x) for x in data.get("bold_terms", []) if safe_text(x)],
-                "what_to_know": what_to_know,
-                "vocabulary": vocabulary,
             }
 
             return story
@@ -2642,44 +2589,25 @@ def bold_terms_html(
 
 def dynamic_rich_html(story):
     terms = derive_bold_terms(story)
+    platform = safe_text(story.get("platform", "PC Game"))
+    if platform not in {"PlayStation", "Xbox", "PC Game", "Mobile Game"}:
+        platform = "PC Game"
 
     parts = [
         '<img src="tg://photo?id=newsphoto">',
-        "<h1><b>" + escape_rich_html(story["headline"]) + "</b></h1>",
+        "<h1># " + escape_rich_html(story["headline"]) + "</h1>",
         "<p>" + bold_terms_html(story["summary"], terms) + "</p>",
-        "<h2>Key Highlights</h2>",
+        "<pre>" + escape_rich_html(platform) + "</pre>",
+        "<h2>KEY HIGHLIGHTS</h2>",
         "<p>" + "<br>".join(
             "• " + bold_terms_html(point, terms)
-            for point in story["highlights"]
+            for point in story["highlights"][:4]
         ) + "</p>",
+        "<h2>WHY IT MATTERS</h2>",
+        "<p>" + bold_terms_html(story.get("why_it_matters", ""), terms) + "</p>",
+        "<h2>WHAT'S NEXT</h2>",
+        "<p>" + bold_terms_html(story.get("whats_next", ""), terms) + "</p>",
     ]
-
-    know_body = []
-    for item in story.get("what_to_know", []):
-        term = escape_rich_html(item.get("term", ""))
-        meaning = bold_terms_html(item.get("meaning", ""), terms)
-        know_body.append(f"<p><b>{term}:</b> {meaning}</p>")
-
-    parts.append(
-        "<details><summary>What to Know</summary>"
-        + "".join(know_body)
-        + "</details>"
-    )
-
-    vocab_lines = []
-    for idx, item in enumerate(story.get("vocabulary", [])[:3], start=1):
-        word = escape_rich_html(item.get("word", ""))
-        synonyms = ", ".join(escape_rich_html(x) for x in item.get("synonyms", [])[:2])
-        antonyms = ", ".join(escape_rich_html(x) for x in item.get("antonyms", [])[:2])
-        vocab_lines.append(
-            f"<p>{idx}. <b>{word}</b>: {synonyms} | {antonyms}</p>"
-        )
-
-    parts.append(
-        "<details><summary>Vocabulary</summary>"
-        + "".join(vocab_lines)
-        + "</details>"
-    )
 
     hashtags = " ".join(category_hashtags(story))
     if hashtags:
@@ -2713,29 +2641,23 @@ def rich_visible_length(text):
 
 def fit_rich_html(story):
     variants = [
-        (260, 130, 3, 3, 220),
-        (220, 115, 3, 3, 180),
-        (190, 100, 2, 3, 150),
-        (160, 85, 2, 2, 120),
+        (260, 130, 4, 520, 260),
+        (220, 115, 4, 440, 220),
+        (190, 100, 4, 380, 200),
+        (160, 85, 4, 320, 170),
     ]
 
-    for summary_len, highlight_len, count, know_count, know_len in variants:
+    for summary_len, highlight_len, count, why_len, next_len in variants:
         candidate = dict(story)
         candidate["summary"] = trim_source_text(story["summary"], summary_len)
         candidate["highlights"] = [trim_source_text(x, highlight_len) for x in story["highlights"][:count]]
-        candidate["what_to_know"] = [
-            {
-                "term": x["term"],
-                "meaning": trim_source_text(x["meaning"], know_len),
-            }
-            for x in story.get("what_to_know", [])[:know_count]
-        ]
+        candidate["why_it_matters"] = trim_source_text(story.get("why_it_matters", ""), why_len)
+        candidate["whats_next"] = trim_source_text(story.get("whats_next", ""), next_len)
         html_text = dynamic_rich_html(candidate)
         if rich_visible_length(html_text) <= MAX_RICH_CHARACTERS:
             return html_text
 
     return dynamic_rich_html(story)
-
 
 
 
@@ -3764,30 +3686,30 @@ def self_test():
     sample = {
         "headline": "Major Game Expansion Launches On PlayStation And PC",
         "summary": "The expansion adds a new campaign and major gameplay systems to the widely played game.",
+        "platform": "PlayStation",
         "highlights": [
             "The expansion is now available on PlayStation and PC.",
-            "Players receive the new campaign and gameplay systems as part of the release.",
+            "Players receive a new campaign as part of the release.",
+            "The update adds major gameplay systems to the base game.",
+            "Existing players can access the expansion through the current game ecosystem.",
         ],
+        "why_it_matters": "The launch gives a large player base substantial new content to play. It also signals continued support for the title and its platform ecosystem.",
+        "whats_next": "Players should watch for launch-day fixes, roadmap announcements and any platform-specific availability updates.",
         "bold_terms": ["PlayStation", "PC", "expansion"],
-        "what_to_know": [
-            {"term": "Expansion", "meaning": "Additional content that extends an existing game."},
-        ],
-        "vocabulary": [
-            {"word": "Expansion", "synonyms": ["addition", "extension"], "antonyms": ["reduction", "contraction"]},
-            {"word": "Publisher", "synonyms": ["distributor", "operator"], "antonyms": ["developer", "creator"]},
-            {"word": "Monetization", "synonyms": ["revenue", "commercialization"], "antonyms": ["subsidy", "free access"]},
-        ],
         "source": "IGN", "url": "https://example.com/story", "region": "Gaming",
         "topic": "Expansions and DLC", "institution": "Sony",
     }
     rendered = dynamic_rich_html(sample)
     assert complete_text("A normal sentence.")
     assert complete_text("An incomplete sentence—") is False
-    assert "Key Context" not in rendered
-    assert "Why It Matters" not in rendered
-    assert "<summary>What to Know</summary>" in rendered
-    assert "<summary>Vocabulary</summary>" in rendered
-    assert "#PlayStation" in rendered
+    assert "What to Know" not in rendered
+    assert "Vocabulary" not in rendered
+    assert "WHY IT MATTERS" in rendered
+    assert "WHAT'S NEXT" in rendered
+    assert "<pre>PlayStation</pre>" in rendered
+    assert rendered.index("# Major Game Expansion") < rendered.index("KEY HIGHLIGHTS") < rendered.index("WHY IT MATTERS") < rendered.index("WHAT'S NEXT")
+    assert rendered.index("#PlayStation") > rendered.index("WHAT'S NEXT")
+    assert "<footer><b>Source:</b>" in rendered
     import inspect
     assert "@GamingNewsroom" in inspect.getsource(branded_card)
     assert likely_same_event("Elden Ring expansion launches", "Elden Ring expansion launches")
