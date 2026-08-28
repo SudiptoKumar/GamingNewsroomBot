@@ -1,0 +1,70 @@
+# GamingNewsroom 2.0
+
+A fresh gaming-specific Telegram news pipeline. This is not a port of BusinessNewsBot.
+
+## Core design
+
+20 named gaming publications are the primary source universe. Each is queried independently through a source-scoped RSS feed, then the same domains are searched independently with Exa. The two discovery paths are merged before editorial processing.
+
+```text
+SOURCE DISCOVERY
+20 gaming sources → source RSS
+20 gaming domains → Exa
+              ↓
+72-hour normalization
+              ↓
+URL deduplication
+              ↓
+EVENT CLUSTERING
+              ↓
+ALREADY-PUBLISHED FILTER
+              ↓
+CEREBRAS IMPORTANCE SCORE 0–10
+              ↓
+score >= 7
+              ↓
+ARTICLE FETCH + IMAGE
+              ↓
+CEREBRAS STORY GENERATION
+              ↓
+TELEGRAM
+              ↓
+PERSIST publication/source health
+```
+
+## Editorial model
+
+This follows the supplied GamingNewsroom README:
+
+- 24-hour cadence
+- fixed 72-hour lookback
+- 0–24h primary bucket
+- 24–72h catch-up window
+- score 7/10 or higher publishes
+- no fixed story quota
+- fallback sources only when fewer than 3 stories clear the threshold
+- 40-story circuit breaker is engineering-only
+- unconfirmed leaks remain labeled unconfirmed
+- duplicate coverage becomes one event
+
+## Required files
+
+Keep these state files across code deployments:
+
+- `gaming_state.json`
+- `posted_urls.txt`
+
+## Secrets
+
+- `EXA_API_KEY`
+- `CEREBRAS_API_KEY`
+- `TELEGRAM_BOT_TOKEN`
+- optional `CEREBRAS_MODEL`
+
+## Run
+
+```bash
+pip install -r requirements.txt
+python main.py --self-test
+python main.py
+```
