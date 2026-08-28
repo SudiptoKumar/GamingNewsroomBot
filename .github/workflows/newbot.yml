@@ -33,6 +33,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: test
           TELEGRAM_CHANNEL: '@GamingNewsroom'
         run: python main.py --self-test
+          python test_integration.py
       - name: Run GamingNewsroom
         env:
           EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
