@@ -3,6 +3,8 @@ from pathlib import Path
 
 CHANNEL = (os.getenv("TELEGRAM_CHANNEL") or "@GamingNewsroom").strip()
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
+TELEGRAM_API_ID = int((os.getenv("TELEGRAM_API_ID") or "0").strip() or "0")
+TELEGRAM_API_HASH = os.getenv("TELEGRAM_API_HASH", "").strip()
 EXA_API_KEY = os.getenv("EXA_API_KEY", "").strip()
 CEREBRAS_API_KEY = os.getenv("CEREBRAS_API_KEY", "").strip()
 CEREBRAS_MODEL = (os.getenv("CEREBRAS_MODEL") or "gpt-oss-120b").strip()
@@ -21,7 +23,7 @@ POST_DELAY = 2.5
 REQUEST_TIMEOUT = 18
 ARTICLE_TIMEOUT = 22
 MAX_ARTICLE_CHARS = 7000
-TELEGRAM_CAPTION_LIMIT = 1000
+TELEGRAM_CAPTION_LIMIT = 1024
 
 HEADERS = {
     "User-Agent": "GamingNewsroom/2.0 (+https://t.me/GamingNewsroom)",

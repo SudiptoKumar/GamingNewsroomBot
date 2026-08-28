@@ -68,3 +68,10 @@ pip install -r requirements.txt
 python main.py --self-test
 python main.py
 ```
+
+
+## Telegram Rich Text
+
+Publication uses Telethon's HTML message formatting so the channel matches the requested rich layout: bold headline, a code-style status/platform block, Key Highlights, an expandable `What to Know` spoiler, hashtags, and a source name with the original URL hidden behind the source hyperlink. Telethon documents `<details>` for hidden text, `<pre>` for preformatted blocks, and `<a>` for links.
+
+Required Telegram credentials are `TELEGRAM_BOT_TOKEN`, `TELEGRAM_API_ID`, and `TELEGRAM_API_HASH`. These are still one Telegram integration, not an additional news/data API.
