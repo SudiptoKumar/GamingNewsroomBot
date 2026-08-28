@@ -1,4 +1,4 @@
-name: GamingNewsroom
+name: GamingNewsroom V1
 
 on:
   workflow_dispatch:
@@ -8,13 +8,17 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: gamingnewsroom-daily
+  cancel-in-progress: false
+
 jobs:
-  run-news-bot:
+  run:
+    if: github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
     runs-on: ubuntu-latest
-    timeout-minutes: 45
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - name: Set up Python
         uses: actions/setup-python@v7
@@ -23,35 +27,34 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+        run: python -m pip install --upgrade pip && pip install -r requirements.txt
 
       - name: Compile
-        run: python -m py_compile main.py config.py models.py state.py discovery.py editorial.py publisher.py
+        run: python -m py_compile main.py config.py models.py discovery.py editorial.py publisher.py state.py
 
       - name: Self-test
+        env:
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+          CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL: ${{ vars.TELEGRAM_CHANNEL || '@GamingNewsroom' }}
         run: python main.py --self-test
+
+      - name: Run GamingNewsroom
         env:
           EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
           CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+          CEREBRAS_MODEL: ${{ vars.CEREBRAS_MODEL || 'gpt-oss-120b' }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHANNEL: "@GamingNewsroom"
-
-      - name: Run
+          TELEGRAM_CHANNEL: ${{ vars.TELEGRAM_CHANNEL || '@GamingNewsroom' }}
+          PYTHONUNBUFFERED: "1"
         run: python main.py
-        env:
-          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
-          CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHANNEL: "@GamingNewsroom"
-          CEREBRAS_MODEL: ${{ secrets.CEREBRAS_MODEL }}
 
-      - name: Save state
+      - name: Save persistent state
         if: always()
         run: |
-          git config user.name "gamingnewsroom-bot"
+          git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add gaming_state.json posted_urls.txt
-          git diff --cached --quiet || git commit -m "chore: update GamingNewsroom state"
+          git diff --cached --quiet || git commit -m "chore: update gaming newsroom state"
           git push
