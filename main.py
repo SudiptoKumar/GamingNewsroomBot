@@ -3110,7 +3110,6 @@ def run():
     )
 
     prune_state()
-    refresh_category_coverage()
 
     # Primary 20-source collection.
     collect_rss()
