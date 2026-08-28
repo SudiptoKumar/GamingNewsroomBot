@@ -1,5 +1,4 @@
 name: GamingNewsroom
-run-name: GamingNewsroom ${{ github.event_name }}
 
 on:
   workflow_dispatch:
@@ -9,21 +8,13 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: gamingnewsroom
-  cancel-in-progress: false
-
 jobs:
   run-news-bot:
-    name: Run GamingNewsroom
-    if: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'schedule' }}
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v7
-        with:
-          fetch-depth: 0
+      - name: Checkout
+        uses: actions/checkout@v6
 
       - name: Set up Python
         uses: actions/setup-python@v7
@@ -36,42 +27,31 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Compile Python files
-        run: |
-          python -m py_compile \
-            main.py config.py models.py state.py \
-            discovery.py editorial.py publisher.py
+      - name: Compile
+        run: python -m py_compile main.py config.py models.py state.py discovery.py editorial.py publisher.py
 
-      - name: Run self-test
-        env:
-          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
-          CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
-          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
-          TELEGRAM_CHANNEL: "@GamingNewsroom"
+      - name: Self-test
         run: python main.py --self-test
-
-      - name: Run GamingNewsroom
         env:
           EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
           CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
-          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          TELEGRAM_CHANNEL: "@GamingNewsroom"
+
+      - name: Run
+        run: python main.py
+        env:
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+          CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL: "@GamingNewsroom"
           CEREBRAS_MODEL: ${{ secrets.CEREBRAS_MODEL }}
-        run: python main.py
 
-      - name: Save persistent state
-        if: ${{ always() }}
+      - name: Save state
+        if: always()
         run: |
           git config user.name "gamingnewsroom-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add gaming_state.json posted_urls.txt
-          if git diff --cached --quiet; then
-            echo "No state changes to commit."
-          else
-            git commit -m "chore: update GamingNewsroom state"
-            git push
-          fi
+          git diff --cached --quiet || git commit -m "chore: update GamingNewsroom state"
+          git push
