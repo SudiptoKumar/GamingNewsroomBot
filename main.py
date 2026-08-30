@@ -530,6 +530,14 @@ def trim_source_text(text, limit):
 def clean_generated_text(text):
     text = safe_text(text)
 
+    # The JSON contract forbids Markdown, but some model responses can still
+    # leak Markdown emphasis markers such as **Game Title** into plain-text
+    # fields. Strip those markers here before validation, verification, and
+    # Telegram HTML rendering so they can never appear visibly in a post.
+    text = re.sub(r"\*\*(.*?)\*\*", r"\1", text, flags=re.S)
+    text = re.sub(r"__(.*?)__", r"\1", text, flags=re.S)
+    text = text.replace("`", "")
+
     # Prevent visible truncation artifacts.
     text = re.sub(r"\.{2,}", ".", text)
     text = text.replace("\u2026", "")

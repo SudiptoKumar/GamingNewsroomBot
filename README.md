@@ -152,6 +152,10 @@ Mobile Game
 
 The bot extracts an article image where possible, resizes/crops it to the 1200×675 card format, adds the `@GamingNewsroom` brand chip, and uses a generated gaming-news fallback card when no usable source image exists.
 
+## Output Sanitization
+
+Generated story fields are normalized before rendering. Markdown emphasis markers such as `**...**`, `__...__`, and backticks are stripped from plain-text fields so they cannot appear as visible formatting artifacts in Telegram posts.
+
 ## Verification
 
 The bot uses two verification passes:
