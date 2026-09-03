@@ -8889,18 +8889,6 @@
     "three xbox live services end in september 2026",
     "rockstar north confirms gta 6 still set for november 19 release"
   ],
-  "ai_router": {
-    "preferred_api_index": 0,
-    "api_status": {
-      "0": {
-        "status": "active",
-        "last_success_at": 1788432518.8651054
-      },
-      "1": {}
-    },
-    "last_success_api_index": 0,
-    "last_success_at": 1788432518.865106
-  },
   "category_coverage": {
     "Game Announcements": "2026-08-30T18:42:28.140378+06:00",
     "Live Service": "2026-08-30T18:42:19.462299+06:00",
@@ -8909,5 +8897,9 @@
     "Anti-Cheat": "2026-08-29T23:38:20.334031+06:00",
     "Game Delays": "2026-08-29T23:38:35.560119+06:00",
     "Pricing and Monetization": "2026-08-30T12:24:35.787340+06:00"
+  },
+  "ai_router": {
+    "preferred_api_index": 0,
+    "api_status": {}
   }
 }

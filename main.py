@@ -1555,7 +1555,7 @@ def get_selection_engine():
         RANKING_ENGINE = SelectionEngine(
             state=STATE,
             now_provider=lambda: NOW_BD,
-            ai_create=AI_ROUTER.create,
+            ai_create=lambda *args, **kwargs: AI_ROUTER.create(*args, **kwargs),
             canonical_topic=canonical_topic,
             title_similarity=title_similarity,
             event_similarity=event_similarity_v04,
