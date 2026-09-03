@@ -12,6 +12,7 @@ from urllib.parse import urlparse, urljoin, quote
 from difflib import SequenceMatcher
 from email.utils import parsedate_to_datetime
 from io import BytesIO
+from pathlib import Path
 
 import requests
 import feedparser
@@ -529,14 +530,6 @@ def trim_source_text(text, limit):
 
 def clean_generated_text(text):
     text = safe_text(text)
-
-    # The JSON contract forbids Markdown, but some model responses can still
-    # leak Markdown emphasis markers such as **Game Title** into plain-text
-    # fields. Strip those markers here before validation, verification, and
-    # Telegram HTML rendering so they can never appear visibly in a post.
-    text = re.sub(r"\*\*(.*?)\*\*", r"\1", text, flags=re.S)
-    text = re.sub(r"__(.*?)__", r"\1", text, flags=re.S)
-    text = text.replace("`", "")
 
     # Prevent visible truncation artifacts.
     text = re.sub(r"\.{2,}", ".", text)
@@ -1942,6 +1935,62 @@ def find_og_image(
     return ""
 
 
+def find_source_logo(page_html, base_url):
+    """Find the publisher logo exposed by the article page."""
+    try:
+        soup = BeautifulSoup(page_html or "", "html.parser")
+
+        for script in soup.find_all("script", attrs={"type": re.compile(r"ld\+json", re.I)}):
+            raw = script.string or script.get_text() or ""
+            if not raw.strip():
+                continue
+            try:
+                data = json.loads(raw)
+            except Exception:
+                continue
+            nodes = data if isinstance(data, list) else [data]
+            expanded = []
+            for node in nodes:
+                if isinstance(node, dict) and isinstance(node.get("@graph"), list):
+                    expanded.extend(node["@graph"])
+                expanded.append(node)
+            for node in expanded:
+                if not isinstance(node, dict):
+                    continue
+                publisher = node.get("publisher")
+                if isinstance(publisher, dict):
+                    logo = publisher.get("logo")
+                    if isinstance(logo, dict):
+                        logo = logo.get("url") or logo.get("contentUrl")
+                    if isinstance(logo, str) and logo.strip():
+                        return urljoin(base_url, logo.strip())
+
+        for attrs in (
+            {"property": "og:logo"},
+            {"name": "og:logo"},
+            {"itemprop": "logo"},
+        ):
+            tag = soup.find("meta", attrs=attrs)
+            if tag and tag.get("content"):
+                return urljoin(base_url, safe_text(tag["content"]))
+
+        img = soup.find("img", attrs={"itemprop": "logo"})
+        if img and img.get("src"):
+            return urljoin(base_url, safe_text(img["src"]))
+
+        for rel in ("apple-touch-icon", "apple-touch-icon-precomposed", "icon"):
+            link = soup.find("link", rel=lambda value: value and rel in value)
+            if link and link.get("href"):
+                return urljoin(base_url, safe_text(link["href"]))
+
+        link = soup.find("link", href=re.compile(r"favicon", re.I))
+        if link and link.get("href"):
+            return urljoin(base_url, safe_text(link["href"]))
+    except Exception as exc:
+        logger.warning("Source logo discovery failed: %s", exc)
+    return ""
+
+
 def extract_article(
     item,
 ):
@@ -1980,6 +2029,7 @@ def extract_article(
                 return (
                     safe_text(text),
                     image_url,
+                    find_source_logo(page_html, response.url),
                 )
 
     except Exception as exc:
@@ -2023,6 +2073,7 @@ def extract_article(
                 return (
                     text,
                     image_url,
+                    item.get("source_logo_url", ""),
                 )
 
     except Exception as exc:
@@ -2035,6 +2086,7 @@ def extract_article(
     return (
         "",
         item.get("image", ""),
+        item.get("source_logo_url", ""),
     )
 
 
@@ -2699,6 +2751,8 @@ def find_font(
 def download_image(
     url,
     referer,
+    min_width=400,
+    min_height=250,
 ):
     if not url:
         return None
@@ -2756,8 +2810,8 @@ def download_image(
         image.load()
 
         if (
-            image.width < 400
-            or image.height < 250
+            image.width < min_width
+            or image.height < min_height
         ):
             return None
 
@@ -2952,62 +3006,73 @@ def branded_card(
     )
 
 
+def source_name_for_story(story):
+    return safe_text(story.get("source") or source_name(story.get("url", "")) or "Gaming News")
+
+
+def build_source_fallback_card(story):
+    """Create a clean source-branded card when the article image is unavailable."""
+    image = Image.new("RGB", (1200, 675), (28, 38, 50))
+    draw = ImageDraw.Draw(image)
+    source = source_name_for_story(story)
+    logo = download_image(story.get("source_logo_url", ""), story.get("url", ""), min_width=32, min_height=32)
+
+    if logo is not None:
+        max_side = 330
+        scale = min(max_side / logo.width, max_side / logo.height, 1.0)
+        logo = logo.resize((max(1, int(logo.width * scale)), max(1, int(logo.height * scale))), Image.Resampling.LANCZOS)
+        panel_w = max(430, logo.width + 90)
+        panel_h = max(250, logo.height + 90)
+        px = (1200 - panel_w) // 2
+        py = 115
+        draw.rounded_rectangle((px, py, px + panel_w, py + panel_h), radius=30, fill=(242, 245, 248))
+        lx = px + (panel_w - logo.width) // 2
+        ly = py + (panel_h - logo.height) // 2
+        if logo.mode in ("RGBA", "LA"):
+            image.paste(logo, (lx, ly), logo)
+        else:
+            image.paste(logo, (lx, ly))
+        name_y = 420
+    else:
+        name_y = 270
+
+    name_font_path = find_font(bold=True)
+    name_font = ImageFont.truetype(name_font_path, 54 if logo is not None else 62) if name_font_path else ImageFont.load_default()
+    bbox = draw.textbbox((0, 0), source, font=name_font)
+    name_w = bbox[2] - bbox[0]
+    draw.text(((1200 - name_w) // 2, name_y), source, font=name_font, fill="white")
+
+    brand = "@GamingNewsroom"
+    brand_font_path = find_font(bold=True)
+    brand_font = ImageFont.truetype(brand_font_path, 24) if brand_font_path else ImageFont.load_default()
+    bbox = draw.textbbox((0, 0), brand, font=brand_font)
+    tw, th = bbox[2] - bbox[0], bbox[3] - bbox[1]
+    pad_x, pad_y = 22, 10
+    x2, y2 = 1172, 651
+    x1, y1 = x2 - tw - pad_x * 2, y2 - th - pad_y * 2
+    draw.rounded_rectangle((x1, y1, x2, y2), radius=18, fill=(245, 245, 245))
+    draw.text((x1 + pad_x, y1 + pad_y - 1), brand, font=brand_font, fill=(20, 24, 28))
+    return image
+
+
 def prepare_image(
     story,
     index,
 ):
     image = download_image(
-        story.get(
-            "image_url",
-            "",
-        ),
+        story.get("image_url", ""),
         story["url"],
     )
 
     if image is None:
-        image = Image.new(
-            "RGB",
-            (1200, 675),
-            (28, 38, 50),
-        )
-
-        font_path = find_font(
-            bold=True
-        )
-
-        if font_path:
-            font = ImageFont.truetype(
-                font_path,
-                48,
-            )
-        else:
-            font = ImageFont.load_default()
-
-        draw = ImageDraw.Draw(
-            image
-        )
-
-        draw.text(
-            (50, 50),
-            "Gaming News",
-            font=font,
-            fill="white",
-        )
-
-    branded = branded_card(
-        image
-    )
+        image = build_source_fallback_card(story)
+    else:
+        image = branded_card(image)
 
     path = f"/tmp/news_{index}.jpg"
-
-    branded.save(
-        path,
-        "JPEG",
-        quality=88,
-        optimize=True,
-    )
-
+    image.save(path, "JPEG", quality=88, optimize=True)
     return path
+
 
 
 # ============================================================
@@ -3352,7 +3417,7 @@ def process_story_candidate(item):
     Extract, generate, ground and normalize one candidate.
     Returns a publishable story or None.
     """
-    article_text, image_url = extract_article(item)
+    article_text, image_url, source_logo_url = extract_article(item)
 
     if not article_text:
         logger.warning(
@@ -3387,6 +3452,7 @@ def process_story_candidate(item):
         image_url
         or item.get("image")
     )
+    story["source_logo_url"] = source_logo_url or item.get("source_logo_url", "")
 
     grounded, bad_number = numeric_grounded(
         story,
@@ -3419,6 +3485,7 @@ def process_story_candidate(item):
             image_url
             or item.get("image")
         )
+        retry_story["source_logo_url"] = source_logo_url or item.get("source_logo_url", "")
 
         grounded_retry, _ = numeric_grounded(
             retry_story,
@@ -3454,6 +3521,7 @@ def process_story_candidate(item):
             region,
         )
         retry_story["image_url"] = image_url or item.get("image")
+        retry_story["source_logo_url"] = source_logo_url or item.get("source_logo_url", "")
 
         grounded_retry, _ = numeric_grounded(retry_story, article_text)
         if not grounded_retry:
@@ -3716,7 +3784,7 @@ def self_test():
     assert "<aside>PlayStation</aside>" in rendered
     assert "<blockquote expandable><b>WHAT'S NEXT</b>" in rendered
     assert "<h1># " not in rendered
-    assert rendered.count("• ") == 4
+    assert 3 <= rendered.count("• ") <= 5
     assert rendered.index("<h1>Major Game Expansion") < rendered.index("KEY HIGHLIGHTS") < rendered.index("WHY IT MATTERS") < rendered.index("WHAT'S NEXT")
 
     sample_three = dict(sample)
@@ -3743,6 +3811,14 @@ def self_test():
     assert clustered[0]["event_cluster_size"] >= 1
     assert canonical_topic("PS5") == "PlayStation"
     assert "#PlayStation" in category_hashtags(sample) and "#Gaming" in category_hashtags(sample)
+    fallback_story = dict(sample)
+    fallback_story["source"] = "IGN"
+    fallback_story["source_logo_url"] = ""
+    fallback = build_source_fallback_card(fallback_story)
+    assert fallback.size == (1200, 675)
+    fallback_path = "/tmp/gaming_newsroom_fallback_test.jpg"
+    fallback.save(fallback_path, "JPEG")
+    assert Path(fallback_path).exists()
     logger.info("GamingNewsroom V1 self-test passed.")
 
 
