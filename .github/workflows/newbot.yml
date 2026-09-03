@@ -1,4 +1,4 @@
-name: GamingNewsroom V1
+name: GamingNewsroom V2
 
 on:
   schedule:
@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: gamingnewsroom-v1
+  group: gamingnewsroom-v2
   cancel-in-progress: false
 
 jobs:
@@ -21,10 +21,22 @@ jobs:
     env:
       EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
       CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+      CEREBRAS_API_KEY_1: ${{ secrets.CEREBRAS_API_KEY_1 }}
+      CEREBRAS_API_KEY_2: ${{ secrets.CEREBRAS_API_KEY_2 }}
+      CEREBRAS_API_KEY_3: ${{ secrets.CEREBRAS_API_KEY_3 }}
+      CEREBRAS_API_KEY_4: ${{ secrets.CEREBRAS_API_KEY_4 }}
+      CEREBRAS_API_KEY_5: ${{ secrets.CEREBRAS_API_KEY_5 }}
+      CEREBRAS_API_KEY_6: ${{ secrets.CEREBRAS_API_KEY_6 }}
+      CEREBRAS_API_KEY_7: ${{ secrets.CEREBRAS_API_KEY_7 }}
+      CEREBRAS_API_KEY_8: ${{ secrets.CEREBRAS_API_KEY_8 }}
+      CEREBRAS_API_KEY_9: ${{ secrets.CEREBRAS_API_KEY_9 }}
+      CEREBRAS_API_KEY_10: ${{ secrets.CEREBRAS_API_KEY_10 }}
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHANNEL: "@GamingNewsroom"
       NEWS_MODE: "update"
       PYTHONUNBUFFERED: "1"
+      PUBLISH_SCORE_THRESHOLD: "80"
+      MAX_POSTS_PER_RUN: "20"
 
     steps:
       - name: Checkout repository
