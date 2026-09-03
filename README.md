@@ -1,4 +1,4 @@
-# GamingNewsroom V2
+# GamingNewsroom
 
 > Intelligent rank-driven gaming news publishing for Telegram, powered by GitHub Actions, Exa, and Cerebras.
 
@@ -68,6 +68,29 @@ When a candidate relates to a previously published event, the editor evaluates t
 Likely copies of the same underlying event are clustered before final ranking. Multiple publications covering one event therefore do not become multiple Telegram posts.
 
 The cluster keeps source and evidence information so multi-source confirmation can strengthen the editorial assessment. The strongest representative is preferred using source authority, freshness, and evidence quality.
+
+## Production Architecture
+
+The production code keeps orchestration and policy separate. The selection policy lives in `selection_engine.py` rather than being embedded in `main.py`:
+
+```text
+main.py
+├── discovery
+├── article/image processing
+├── Telegram publishing
+└── SelectionEngine
+    ├── event clustering
+    ├── 0-100 importance scoring
+    ├── threshold filtering
+    ├── representative selection
+    ├── material-change context
+    └── safety-ceiling selection
+
+ai_router.py
+└── Cerebras multi-key failover, cooldown, recovery, and persistent preference
+```
+
+`SELECTION_MODEL.md` documents the editorial selection policy.
 
 ## Discovery Flow
 
@@ -239,4 +262,25 @@ Normal run:
 
 ```bash
 python main.py
+```
+
+## Project Tree
+
+```text
+GamingNewsroom/
+├── .github/
+│   └── workflows/
+│       └── newbot.yml
+├── tests/
+│   ├── test_ai_router.py
+│   └── test_selection_engine.py
+├── main.py
+├── ai_router.py
+├── selection_engine.py
+├── news_state.json
+├── posted_urls.txt
+├── requirements.txt
+├── README.md
+├── SELECTION_MODEL.md
+└── SETUP_MULTI_API.md
 ```
