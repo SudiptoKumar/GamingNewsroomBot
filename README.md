@@ -1,134 +1,24 @@
-# GamingNewsroom
+# GamingNewsroom V1
 
-> Intelligent rank-driven gaming news publishing for Telegram, powered by GitHub Actions, Exa, and Cerebras.
+> Automated gaming news intelligence for Telegram, powered by GitHub Actions, Exa, and Cerebras.
 
-GamingNewsroom discovers, filters, clusters, scores, verifies, and publishes gaming stories based on editorial importance. There is **no fixed publishing quota**. Each run publishes only the strongest stories that meet the configured importance threshold, subject to a safety ceiling.
+GamingNewsroom discovers, filters, ranks, verifies, and publishes up to six high-value gaming stories per run. All eligible stories compete in one ranked gaming pool, and the bot publishes the strongest available stories rather than forcing weak category quotas.
 
 ## Editorial Mission
 
-The channel serves gamers and gaming enthusiasts across PlayStation, Xbox, PC, and mobile. It prioritizes developments with meaningful player, platform, game, studio, publisher, industry, security, pricing, subscription, multiplayer, esports, or hardware impact.
+The channel is for gamers and gaming enthusiasts across PlayStation, Xbox, PC, and mobile. It prioritizes developments with meaningful player, platform, game, studio, publisher, industry, security, pricing, subscription, multiplayer, esports, or hardware impact.
 
 Routine patches, minor fixes, unsupported rumors, promotional material, duplicate coverage, opinion-only pieces, and very niche stories are normally rejected unless the underlying event is genuinely significant.
 
-## Intelligent Publishing Model
+## Six-Story Hourly Structure
 
-Every discovered candidate receives an **importance score from 0 to 100**. The default publication threshold is:
-
-```text
-PUBLISH_SCORE_THRESHOLD=80
-```
-
-A score of exactly 80 qualifies.
-
-There is no target number of posts per run. The safety maximum is:
+Each scheduled run targets:
 
 ```text
-MAX_POSTS_PER_RUN=20
+6 gaming stories
 ```
 
-This is a hard ceiling, **not a target**.
-
-Examples with the default settings:
-
-```text
-20 qualifying stories  -> publish up to 20
-10 qualifying stories  -> publish 10
-5 qualifying stories   -> publish 5
-2 qualifying stories   -> publish 2
-1 qualifying story     -> publish 1
-0 qualifying stories   -> publish 0
-25 qualifying stories  -> publish the top 20
-```
-
-The bot never publishes a weaker story simply to fill space.
-
-## Ranking Factors
-
-The gaming editor scores events using:
-
-- Importance and event significance
-- Relevance to the gaming audience
-- Real-world player or platform impact
-- Timeliness and freshness, without allowing recency alone to dominate
-- Source quality and authority
-- Evidence strength
-- Originality and genuinely new information
-- Multi-source confirmation when available
-- Audience value
-- Material change versus previously published coverage
-
-Penalties apply to duplicate or repetitive reporting, trivial news, unsupported speculation, promotional material, opinion-only coverage, and niche stories with little audience value.
-
-## Material Change Rule
-
-When a candidate relates to a previously published event, the editor evaluates the **new development**, not the original event. Rewrites, recaps, reactions, and commentary without a substantial new fact or outcome are rejected. A materially new release change, availability change, security development, business action, player-impacting change, or other substantive development can qualify again.
-
-## Event Deduplication
-
-Likely copies of the same underlying event are clustered before final ranking. Multiple publications covering one event therefore do not become multiple Telegram posts.
-
-The cluster keeps source and evidence information so multi-source confirmation can strengthen the editorial assessment. The strongest representative is preferred using source authority, freshness, and evidence quality.
-
-## Production Architecture
-
-The production code keeps orchestration and policy separate. The selection policy lives in `selection_engine.py` rather than being embedded in `main.py`:
-
-```text
-main.py
-├── discovery
-├── article/image processing
-├── Telegram publishing
-└── SelectionEngine
-    ├── event clustering
-    ├── 0-100 importance scoring
-    ├── threshold filtering
-    ├── representative selection
-    ├── material-change context
-    └── safety-ceiling selection
-
-ai_router.py
-└── Cerebras multi-key failover, cooldown, recovery, and persistent preference
-```
-
-`SELECTION_MODEL.md` documents the editorial selection policy.
-
-## Discovery Flow
-
-```text
-RSS feeds
-   ↓
-Google News RSS gap fill
-   ↓
-Exa gap fill
-   ↓
-Source validation
-   ↓
-24-hour filtering
-   ↓
-URL deduplication
-   ↓
-Pre-ranking event clustering
-   ↓
-Material-change context from persistent state
-   ↓
-0-100 LLM importance scoring
-   ↓
-Threshold filtering (default ≥80)
-   ↓
-Final event-level selection + safety ceiling
-   ↓
-Article extraction
-   ↓
-Story generation
-   ↓
-Numeric grounding + claim verification
-   ↓
-Branded/source-fallback image
-   ↓
-Telegram Rich Message
-   ↓
-Persistent state
-```
+All eligible stories compete in one ranked pool. The bot may publish fewer than six when insufficient high-quality candidates remain.
 
 ## Primary Source Universe
 
@@ -157,11 +47,62 @@ The primary source universe contains 20 gaming publications:
 | TechRaptor | `techraptor.net` |
 | The Escapist | `escapistmagazine.com` |
 
-RSS is attempted first. Google News RSS and Exa provide gap-fill discovery using the allowed gaming domains.
+RSS is attempted first. Google News RSS and Exa provide gap-fill discovery using the same allowed gaming domains.
+
+## Editorial Ranking
+
+The ranking pass scores each candidate from 0-10 based on actual significance, not headline excitement.
+
+```text
+9-10  Exceptional industry/player impact
+7-8   Clearly important gaming news
+4-6   Interesting but usually not publishable
+0-3   Low-value, repetitive, routine, promotional, rumor/speculation, or niche
+```
+
+A story is publishable only when its importance score is at least 7. Duplicate events are collapsed before downstream processing.
+
+## 24-Hour Rolling Window
+
+Every run examines a rolling 24-hour discovery window with a small future tolerance for feed timestamp skew. Persistent state, posted URLs, and event memory prevent repeated publication across hourly runs.
+
+## Discovery Flow
+
+```text
+RSS feeds
+   ↓
+Google News RSS gap fill
+   ↓
+Exa gap fill
+   ↓
+Source validation
+   ↓
+24-hour filtering
+   ↓
+URL deduplication
+   ↓
+Event deduplication
+   ↓
+LLM editorial ranking
+   ↓
+Top gaming events
+   ↓
+Article extraction
+   ↓
+Story generation
+   ↓
+Numeric grounding + claim verification
+   ↓
+Branded image
+   ↓
+Telegram Rich Message
+   ↓
+Persistent state
+```
 
 ## Telegram Output Structure
 
-Every published story keeps the existing GamingNewsroom public format:
+Every published story follows this order:
 
 ```text
 Photo
@@ -180,68 +121,70 @@ Headline
 **Source:** [Publication]
 ```
 
-Internal score, rank, selection reason, category, and event-cluster metadata are not exposed in the public post.
+### Dynamic Key Highlights
+
+The `KEY HIGHLIGHTS` section is dynamic. The generator may produce **3, 4, or 5 concise factual highlights**, choosing the count that best represents the story without padding or repetition.
+
+### Platform Quote Block
+
+The affected platform is shown as a centered quote-style block using exactly one of:
+
+```text
+PlayStation
+Xbox
+PC Game
+Mobile Game
+```
+
+### What's Next
+
+`WHAT'S NEXT` is rendered as a Telegram expandable blockquote and is **collapsed by default**. Players can expand it when they want the forward-looking context.
+
+### Content Rules
+
+- Headline: 6-14 words, accurate and newspaper-style.
+- Summary: exactly one complete sentence.
+- Highlights: 3-5 concise factual points.
+- Why It Matters: 2-4 complete sentences of editorial context.
+- What's Next: 1-2 complete sentences about what players should watch.
 
 ## Image Pipeline
 
-The bot uses the article image when available. If the article image cannot be obtained, it tries source metadata and publisher branding before falling back to a source-name card. The fallback does not add an upper-left channel title. The `@GamingNewsroom` brand chip remains in the lower-right.
+The bot extracts an article image where possible, resizes/crops it to the 1200×675 card format, adds the `@GamingNewsroom` brand chip, and uses a generated gaming-news fallback card when no usable source image exists.
 
-## Persistent State
+## Verification
 
-The existing `news_state.json` and `posted_urls.txt` files remain the state system. The state stores feed information, queued candidates, event records, event clusters, posted event IDs, recent titles, and ranking metadata where available. Existing state is loaded compatibly; no competing state store is introduced.
+The bot uses two verification passes:
+
+1. Numeric grounding checks generated numeric facts against the article.
+2. Claim verification checks the generated headline, summary, and highlights against the article.
+
+Failed verification causes regeneration or candidate rejection rather than unsupported publication.
 
 ## Scheduling
 
-The included GitHub Actions workflow still runs hourly from **07:00 through 23:00 Asia/Dhaka** and supports manual execution. The schedule itself is unchanged by the ranking upgrade.
-
-## Configuration
-
-Defaults:
-
-```text
-PUBLISH_SCORE_THRESHOLD=80
-MAX_POSTS_PER_RUN=20
-RANKING_BATCH_SIZE=35
-```
-
-The first two settings control publication policy. `MAX_POSTS_PER_RUN` is a safety maximum, never a target.
-
-
-## Multi-API AI Failover
-
-The bot uses a centralized `ai_router.py` for Cerebras requests. It supports any number of configured keys from 1 through 10:
-
-```text
-CEREBRAS_API_KEY_1
-CEREBRAS_API_KEY_2
-...
-CEREBRAS_API_KEY_10
-```
-
-The last known successful API is persisted as the preferred API in `news_state.json`. A healthy preferred API is always tried first. The router fails over only for retryable provider/API failures such as HTTP 429, 500, 502, 503, 504, timeouts, and connection failures. Authentication failures are isolated to the affected slot. Permanent request errors are not masked by blind rotation.
-
-Temporary failures receive a cooldown. After the cooldown expires, the API becomes eligible again automatically. The router never performs startup health-check calls and never probes other keys when the preferred API succeeds.
-
-Legacy deployments that use `CEREBRAS_API_KEY` remain compatible: that variable is treated as API slot 1 when `CEREBRAS_API_KEY_1` is absent.
-
-See `SETUP_MULTI_API.md` for GitHub Secrets setup and failover behavior.
+The included GitHub Actions workflow runs hourly from **07:00 through 23:00 Asia/Dhaka** and also supports manual execution.
 
 ## Required Secrets
 
-Core secrets:
-
 ```text
 EXA_API_KEY
+CEREBRAS_API_KEY
 TELEGRAM_BOT_TOKEN
 ```
-
-Cerebras supports either legacy `CEREBRAS_API_KEY` (slot 1 compatibility) or the new multi-key set `CEREBRAS_API_KEY_1` through `CEREBRAS_API_KEY_10`.
 
 Optional:
 
 ```text
 TELEGRAM_ADMIN_CHAT_ID
 CEREBRAS_MODEL
+```
+
+The workflow sets:
+
+```text
+TELEGRAM_CHANNEL=@GamingNewsroom
+NEWS_MODE=update
 ```
 
 ## Local Checks
@@ -262,25 +205,4 @@ Normal run:
 
 ```bash
 python main.py
-```
-
-## Project Tree
-
-```text
-GamingNewsroom/
-├── .github/
-│   └── workflows/
-│       └── newbot.yml
-├── tests/
-│   ├── test_ai_router.py
-│   └── test_selection_engine.py
-├── main.py
-├── ai_router.py
-├── selection_engine.py
-├── news_state.json
-├── posted_urls.txt
-├── requirements.txt
-├── README.md
-├── SELECTION_MODEL.md
-└── SETUP_MULTI_API.md
 ```

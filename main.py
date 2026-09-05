@@ -6,7 +6,6 @@ import html
 import argparse
 import logging
 import hashlib
-from pathlib import Path
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 from urllib.parse import urlparse, urljoin, quote
@@ -23,8 +22,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 from exa_py import Exa
-from ai_router import AIRouter, AIRequestError, AIPermanentRequestError
-from selection_engine import SelectionEngine
+from cerebras.cloud.sdk import Cerebras
 
 
 # ============================================================
@@ -32,6 +30,7 @@ from selection_engine import SelectionEngine
 # ============================================================
 
 EXA_API_KEY = os.environ["EXA_API_KEY"]
+CEREBRAS_API_KEY = os.environ["CEREBRAS_API_KEY"]
 TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 
 TELEGRAM_CHANNEL = (os.environ.get("TELEGRAM_CHANNEL") or "@GamingNewsroom").strip()
@@ -58,20 +57,12 @@ STATE_FILE = "news_state.json"
 
 BD_TZ = ZoneInfo("Asia/Dhaka")
 
-# Intelligent publishing controls. The score threshold controls eligibility;
-# the safety maximum prevents abnormal news cycles from flooding Telegram.
-# MAX_POSTS_PER_RUN is a ceiling, never a target.
-PUBLISH_SCORE_THRESHOLD = int(os.environ.get("PUBLISH_SCORE_THRESHOLD", "80"))
-MAX_POSTS_PER_RUN = int(os.environ.get("MAX_POSTS_PER_RUN", "20"))
-RANKING_BATCH_SIZE = int(os.environ.get("RANKING_BATCH_SIZE", "35"))
+# Version 1 editorial target: exactly six gaming stories whenever enough
+# eligible news exists. All gaming stories compete in one ranked pool.
+STORIES_PER_RUN = 6
+MAX_STORIES_PER_RUN = STORIES_PER_RUN
+RANKING_POOL_SIZE = 12
 DISCOVERY_LOOKBACK_HOURS = 24
-
-if not 0 <= PUBLISH_SCORE_THRESHOLD <= 100:
-    raise ValueError("PUBLISH_SCORE_THRESHOLD must be between 0 and 100")
-if MAX_POSTS_PER_RUN < 1:
-    raise ValueError("MAX_POSTS_PER_RUN must be at least 1")
-if RANKING_BATCH_SIZE < 1:
-    raise ValueError("RANKING_BATCH_SIZE must be at least 1")
 
 # Reliability / quality
 POST_DELAY_SECONDS = 3.5
@@ -615,10 +606,6 @@ def default_state():
         "event_clusters": {},
         "posted_event_ids": [],
         "recent_titles": [],
-        "ai_router": {
-            "preferred_api_index": 0,
-            "api_status": {},
-        },
     }
 
 
@@ -699,11 +686,6 @@ def save_posted_url(canonical):
 
 
 STATE = load_state()
-AI_ROUTER = AIRouter(
-    model=CEREBRAS_MODEL,
-    state=STATE,
-    save_state=save_state,
-)
 POSTED_URLS = load_posted_urls()
 
 
@@ -814,6 +796,10 @@ DISCOVERY_TARGET_PER_REGION = 18
 
 exa = Exa(
     api_key=EXA_API_KEY
+)
+
+cerebras = Cerebras(
+    api_key=CEREBRAS_API_KEY
 )
 
 
@@ -1543,51 +1529,221 @@ def queue_candidates_for_region(
 # ============================================================
 
 # ============================================================
-# EDITORIAL RANKING
+# VERSION 1 EDITORIAL RANKING
 # ============================================================
 
-RANKING_ENGINE = None
+RANK_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "ranked": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {"type": "integer"},
+                    "rank": {"type": "integer", "minimum": 1},
+                    "score": {"type": "integer", "minimum": 0, "maximum": 10},
+                    "important": {"type": "boolean"},
+                    "topic": {"type": "string"},
+                    "institution": {"type": "string"},
+                    "event_key": {"type": "string"},
+                    "reason": {"type": "string"},
+                },
+                "required": ["id", "rank", "score", "important", "topic", "institution", "event_key", "reason"],
+                "additionalProperties": False,
+            },
+        }
+    },
+    "required": ["ranked"],
+    "additionalProperties": False,
+}
 
 
-def get_selection_engine():
-    global RANKING_ENGINE
-    if RANKING_ENGINE is None:
-        RANKING_ENGINE = SelectionEngine(
-            state=STATE,
-            now_provider=lambda: NOW_BD,
-            ai_create=lambda *args, **kwargs: AI_ROUTER.create(*args, **kwargs),
-            canonical_topic=canonical_topic,
-            title_similarity=title_similarity,
-            event_similarity=event_similarity_v04,
-            same_event_window=same_event_window,
-            normalize_title=normalize_title,
-            safe_text=safe_text,
-            trim_source_text=trim_source_text,
-            parse_datetime=parse_datetime,
-            persist_event_cluster_state=persist_event_cluster_state,
-            topics=TOPICS["Gaming"],
-            publish_score_threshold=PUBLISH_SCORE_THRESHOLD,
-            max_posts_per_run=MAX_POSTS_PER_RUN,
-            ranking_batch_size=RANKING_BATCH_SIZE,
-            event_retention_days=EVENT_RETENTION_DAYS,
-        )
-    return RANKING_ENGINE
+def enrich_thin_excerpt(item):
+    """Best-effort article enrichment. Failure never removes a candidate."""
+    try:
+        downloaded = trafilatura.fetch_url(item["url"])
+        if not downloaded:
+            return None
+        text = trafilatura.extract(downloaded)
+        return safe_text(text)[:1200] if text else None
+    except Exception:
+        return None
 
 
-def precluster_candidates(candidates):
-    return get_selection_engine().precluster_candidates(candidates)
-
-
-def select_cluster_representative(cluster):
-    return get_selection_engine().select_cluster_representative(cluster)
-
-
-def rank_event_clusters(clusters, region):
-    return get_selection_engine().rank_event_clusters(clusters, region)
+def enrich_thin_excerpts(regional):
+    enriched = 0
+    for item in regional:
+        if enriched >= MAX_EXCERPT_ENRICH:
+            break
+        excerpt = safe_text(item.get("excerpt", ""))
+        if len(excerpt) >= THIN_EXCERPT_CHARS:
+            continue
+        fuller = enrich_thin_excerpt(item)
+        if fuller and len(fuller) > len(excerpt):
+            item["excerpt"] = fuller
+            enriched += 1
+    return regional
 
 
 def rank_candidates(candidates, region):
-    return get_selection_engine().rank_candidates(candidates, region)
+    """Rank all usable candidates without hard score formulas or early rejection.
+
+    The LLM acts only as an editor/ranker: it does not decide eligibility.
+    Eligibility remains the simple ingestion/state rules used elsewhere.
+    """
+    if not candidates:
+        return []
+
+    regional = sorted(
+        candidates,
+        key=lambda x: parse_datetime(x.get("published_date")) or datetime.min.replace(tzinfo=timezone.utc),
+        reverse=True,
+    )[:60]
+    regional = enrich_thin_excerpts(regional)
+
+    lines = []
+    for idx, item in enumerate(regional, start=1):
+        published = item.get("published_date", "")
+        age_note = ""
+        dt = parse_datetime(published)
+        if dt:
+            age_hours = max(0.0, (NOW_BD - dt).total_seconds() / 3600)
+            age_note = f"Age: {age_hours:.1f} hours"
+        lines.append(
+            "\n".join([
+                f"ID: {idx}",
+                f"Title: {item.get('title','')}",
+                f"Source: {item.get('source','')}",
+                f"Published: {published}",
+                age_note,
+                f"Excerpt: {trim_source_text(item.get('excerpt',''), 700)}",
+                "",
+            ])
+        )
+
+    topic_list = ", ".join(TOPICS["Gaming"])
+    prompt = f"""
+You are the editor-in-chief of @GamingNewsroom.
+
+Rank these {region} gaming news candidates from MOST IMPORTANT to LEAST IMPORTANT.
+Use the previous 24 hours as the editorial window.
+
+Your job is ranking, not aggressive filtering. Keep ordinary candidates in the ranking unless
+an item is clearly not gaming news or is an obvious duplicate of another candidate.
+
+Prioritize:
+1. A genuinely important new gaming development.
+2. Major game releases, expansions, platform changes, outages, security incidents,
+   acquisitions, studio closures, layoffs, cancellations, major multiplayer/live-service
+   changes, pricing/subscription changes, hardware developments, esports developments,
+   and major publisher/developer announcements.
+3. Broad player impact and industry significance.
+4. The newest development when two stories are otherwise similarly important.
+5. Clear factual evidence and a credible source.
+
+Deprioritize:
+- minor patches and routine maintenance
+- small balance changes or developer-only changes
+- promotional fluff
+- opinion/editorial content without a concrete new event
+- unsupported rumors, leaks, or speculation
+- obvious duplicate coverage
+- very niche stories with little audience value
+
+For EVERY candidate, assign a score from 0-10 using these rules:
+- 9-10 = exceptional importance with very broad player or industry impact
+- 7-8 = clearly important and publishable
+- 4-6 = interesting but normally not important enough for the main channel
+- 0-3 = low importance, routine, promotional, unsupported, repetitive, or niche
+
+The field important MUST be true only when score >= 7. Do not inflate scores to fill six slots.
+When in doubt, choose the lower score. Return EVERY candidate with its editorial rank, score,
+important flag, topic, institution, event_key, and reason.
+
+Allowed topic taxonomy:
+{topic_list}
+"""
+
+    try:
+        response = cerebras.chat.completions.create(
+            model=CEREBRAS_MODEL,
+            messages=[
+                {"role": "system", "content": prompt},
+                {"role": "user", "content": "\n".join(lines)},
+            ],
+            response_format={
+                "type": "json_schema",
+                "json_schema": {
+                    "name": "gaming_news_v1_rank",
+                    "strict": True,
+                    "schema": RANK_SCHEMA,
+                },
+            },
+            reasoning_effort="low",
+            temperature=0.0,
+            max_completion_tokens=6000,
+        )
+        data = json.loads(safe_text(response.choices[0].message.content))
+        by_id = {idx: item for idx, item in enumerate(regional, start=1)}
+        rows = []
+        for row in data.get("ranked", []):
+            idx = int(row["id"])
+            if idx not in by_id:
+                continue
+            item = dict(by_id[idx])
+            score = max(0, min(10, int(row.get("score", 0))))
+            item.update({
+                "editor_rank": int(row["rank"]),
+                "importance_score": score,
+                "important": bool(row.get("important")) and score >= 7,
+                "topic": canonical_topic(safe_text(row.get("topic")), region),
+                "institution": safe_text(row.get("institution")),
+                "event_key": safe_text(row.get("event_key")),
+                "rank_reason": safe_text(row.get("reason")),
+            })
+            rows.append(item)
+
+        # Never let a partial model response erase candidates.
+        returned_ids = {safe_text(x.get("canonical")) for x in rows}
+        next_rank = max([x.get("editor_rank", 0) for x in rows] or [0]) + 1
+        missing = [x for x in regional if safe_text(x.get("canonical")) not in returned_ids]
+        for item in missing:
+            fallback = dict(item)
+            fallback.update({
+                "editor_rank": next_rank,
+                "importance_score": 0,
+                "important": False,
+                "topic": canonical_topic(fallback.get("topic", ""), region),
+                "institution": fallback.get("institution", ""),
+                "event_key": fallback.get("event_key", ""),
+                "rank_reason": "Kept as recoverable fallback candidate; not eligible without an explicit editorial score.",
+            })
+            rows.append(fallback)
+            next_rank += 1
+
+        rows.sort(key=lambda x: (
+            x.get("editor_rank", 9999),
+            -(parse_datetime(x.get("published_date")).timestamp() if parse_datetime(x.get("published_date")) else 0),
+        ))
+        return rows
+
+    except Exception as exc:
+        logger.error("Editorial ranking failed for %s: %s", region, exc)
+        fallback = []
+        for idx, item in enumerate(regional, start=1):
+            row = dict(item)
+            row.update({
+                "editor_rank": idx,
+                "importance_score": 0,
+                "important": False,
+                "topic": canonical_topic(row.get("topic", ""), region),
+                "institution": row.get("institution", ""),
+                "event_key": row.get("event_key", ""),
+                "rank_reason": "Ranking-service failure; candidate withheld to avoid publishing unscored news.",
+            })
+            fallback.append(row)
+        return fallback
 
 
 # ============================================================
@@ -1704,9 +1860,6 @@ def persist_event_cluster_state(ranked):
             "confidence": item.get("event_confidence", 0),
             "last_seen": now_iso(),
             "headline": item.get("title", ""),
-            "importance_score": item.get("importance_score", 0),
-            "editor_rank": item.get("editor_rank", 9999),
-            "rank_reason": item.get("rank_reason", ""),
         }
 
 
@@ -2027,7 +2180,7 @@ Platform line
 
     for attempt in range(3):
         try:
-            response = AI_ROUTER.create(
+            response = cerebras.chat.completions.create(
                 model=CEREBRAS_MODEL,
                 messages=[
                     {
@@ -2115,14 +2268,11 @@ Platform line
 
             return story
 
-        except (AIRequestError, AIPermanentRequestError) as exc:
-            logger.error("AI router failed during story generation: %s", type(exc).__name__)
-            break
         except Exception as exc:
             logger.warning(
                 "Story generation attempt %d failed: %s",
                 attempt + 1,
-                type(exc).__name__,
+                exc,
             )
 
             if attempt == 0:
@@ -3097,9 +3247,6 @@ def store_event(
             else "selected"
         ),
         "message_id": message_id,
-        "importance_score": story.get("importance_score", 0),
-        "editor_rank": story.get("editor_rank", 9999),
-        "rank_reason": story.get("rank_reason", ""),
     }
 
     STATE["events"][
@@ -3115,8 +3262,16 @@ def store_event(
 
 
 # ============================================================
-# ARTICLE PROCESSING / VERIFICATION
+# VERSION 1 FALLBACK POOLS
 # ============================================================
+
+def build_candidate_pool(ranked, needed):
+    """Keep a generous ranked recovery pool for downstream failures."""
+    if not ranked:
+        return []
+    pool_size = max(RANKING_POOL_SIZE, needed * 2)
+    return [dict(item) for item in ranked[:pool_size]]
+
 
 VERIFY_SCHEMA = {
     "type": "object",
@@ -3157,7 +3312,7 @@ Return only the JSON schema.
     )
 
     try:
-        response = AI_ROUTER.create(
+        response = cerebras.chat.completions.create(
             model=CEREBRAS_MODEL,
             messages=[
                 {"role": "system", "content": prompt},
@@ -3177,11 +3332,8 @@ Return only the JSON schema.
         )
         data = json.loads(safe_text(response.choices[0].message.content))
         return bool(data.get("supported")), data.get("unsupported_claims", [])
-    except (AIRequestError, AIPermanentRequestError) as exc:
-        logger.error("AI router failed during claim verification: %s", type(exc).__name__)
-        return True, []
     except Exception as exc:
-        logger.warning("Claim verification failed: %s", type(exc).__name__)
+        logger.warning("Claim verification failed: %s", exc)
         # Verification infrastructure failure must not silently become a hard drop.
         # Numeric grounding remains mandatory; this pass is advisory on verifier outage.
         return True, []
@@ -3341,14 +3493,26 @@ def process_story_candidate(item):
 # ============================================================
 
 def is_already_published_candidate(item):
-    """Reject only an already-posted URL at the hard state gate.
-
-    Semantic/event repetition is intentionally handled by the 0-100 editorial
-    ranking and material-change evaluation so genuinely new developments can
-    qualify even when their headline resembles earlier coverage.
-    """
     canonical = safe_text(item.get("canonical"))
-    return bool(canonical and canonical in POSTED_URLS)
+    if canonical and canonical in POSTED_URLS:
+        return True
+
+    title = safe_text(item.get("title"))
+    if not title:
+        return False
+
+    for event in STATE.get("events", {}).values():
+        if event.get("status") != "published":
+            continue
+        if event.get("region") != item.get("region"):
+            continue
+        published_at = parse_datetime(event.get("published_at"))
+        if not published_at or (NOW_BD - published_at).total_seconds() > EVENT_RETENTION_DAYS * 86400:
+            continue
+        previous_title = safe_text(event.get("headline"))
+        if previous_title and title_similarity(title, previous_title) >= 0.90:
+            return True
+    return False
 
 
 def available_candidates(region, source_pool=None):
@@ -3395,36 +3559,20 @@ def available_candidates(region, source_pool=None):
 
 def prepare_ranked_region(region, candidates):
     ranked = rank_candidates(candidates, region)
-    # Every discovered candidate is scored 0-100. Only the strongest representative
-    # of each pre-clustered event can enter the publication set.
-    ranked = [
-        item for item in ranked
-        if item.get("selected_representative")
-        and item.get("importance_score", 0) >= PUBLISH_SCORE_THRESHOLD
-        and item.get("important") is True
-        and not is_already_published_candidate(item)
-    ]
-    ranked.sort(key=lambda x: (
-        -int(x.get("importance_score", 0)),
-        -int(x.get("event_source_count", 0)),
-        x.get("editor_rank", 999999),
-        -(parse_datetime(x.get("published_date")).timestamp() if parse_datetime(x.get("published_date")) else 0),
-    ))
+    ranked = collapse_event_clusters(ranked)
+    ranked = [item for item in ranked if item.get("importance_score", 0) >= 7 and item.get("important") is True]
     persist_event_cluster_state(ranked)
     return ranked
 
 
 def process_ranked_region(region, ranked):
-    # The safety maximum is a ceiling, not a target. Keep a recovery pool so
-    # downstream extraction/verification failures can be skipped without
-    # accidentally lowering the maximum below the number of qualifying events.
-    pool = get_selection_engine().build_candidate_pool(ranked)
+    pool = build_candidate_pool(ranked, STORIES_PER_RUN)
     valid = []
     attempted = 0
     rejected = 0
 
     for item in pool:
-        if len(valid) >= MAX_POSTS_PER_RUN:
+        if len(valid) >= STORIES_PER_RUN:
             break
         attempted += 1
         story = process_story_candidate(item)
@@ -3453,7 +3601,7 @@ def process_ranked_region(region, ranked):
         "%s FINAL VALID: %d/%d | pool=%d attempted=%d rejected=%d",
         region,
         len(valid),
-        MAX_POSTS_PER_RUN,
+        STORIES_PER_RUN,
         len(pool),
         attempted,
         rejected,
@@ -3462,7 +3610,7 @@ def process_ranked_region(region, ranked):
 
 
 def run():
-    logger.info("GAMINGNEWSROOM V2 UPDATE-ONLY")
+    logger.info("GAMINGNEWSROOM V1 UPDATE-ONLY")
     logger.info("Channel=%s Mode=%s", TELEGRAM_CHANNEL, NEWS_MODE)
     logger.info("LOOKBACK=%d hours | %s -> %s", DISCOVERY_LOOKBACK_HOURS, DISCOVERY_START.isoformat(), DISCOVERY_END.isoformat())
 
@@ -3476,7 +3624,7 @@ def run():
 
     save_state(STATE)
 
-    candidates = available_candidates("Gaming", source_pool=None)
+    candidates = available_candidates("Gaming", source_pool="primary")
     logger.info("DISCOVERY CANDIDATES: GAMING=%d", len(candidates))
 
     ranked = prepare_ranked_region("Gaming", candidates)
@@ -3486,9 +3634,10 @@ def run():
         logger.info("RANK GAMING #%s | %s | %s", item.get("editor_rank", "?"), item.get("title", ""), item.get("rank_reason", ""))
 
     stories = process_ranked_region("Gaming", ranked)
-    qualifying = len(ranked)
-    logger.info("QUALIFYING STORIES: GAMING=%d | threshold=%d | safety_max=%d", qualifying, PUBLISH_SCORE_THRESHOLD, MAX_POSTS_PER_RUN)
-    logger.info("FINAL PUBLISHABLE SET: GAMING=%d | safety_max=%d", len(stories), MAX_POSTS_PER_RUN)
+    logger.info("FINAL: GAMING=%d/%d TOTAL=%d/%d", len(stories), STORIES_PER_RUN, len(stories), MAX_STORIES_PER_RUN)
+
+    if len(stories) < STORIES_PER_RUN:
+        logger.warning("Six-story target not reached. The bot exhausted available valid gaming candidates; no story is fabricated.")
 
     published_count = 0
     for index, story in enumerate(stories, start=1):
@@ -3520,37 +3669,19 @@ def run():
             remember_posted_event(story)
             update_category_coverage(story)
             STATE["recent_titles"].append(normalize_title(story["headline"]))
-            logger.info("Published %d (safety_max=%d): [%s] score=%s %s", published_count, MAX_POSTS_PER_RUN, story.get("region", ""), story.get("importance_score", "?"), story["headline"])
+            logger.info("Published %d/%d: [%s] %s", published_count, MAX_STORIES_PER_RUN, story.get("region", ""), story["headline"])
         else:
             logger.error("Telegram failed: %s", result.get("description"))
         save_state(STATE)
         time.sleep(POST_DELAY_SECONDS)
 
     save_state(STATE)
-    logger.info("Finished. Published=%d | safety_max=%d | threshold=%d", published_count, MAX_POSTS_PER_RUN, PUBLISH_SCORE_THRESHOLD)
+    logger.info("Finished. Published=%d/%d", published_count, MAX_STORIES_PER_RUN)
 
 
 # ============================================================
 # SELF TEST
 # ============================================================
-
-
-def select_publishable(ranked, threshold=None, safety_max=None):
-    engine = get_selection_engine()
-    if threshold is None and safety_max is None:
-        return engine.select_publishable(ranked)
-    # Pure helper path for self-tests and callers with explicit configuration.
-    eligible = [
-        x for x in ranked
-        if int(x.get("importance_score", 0)) >= (PUBLISH_SCORE_THRESHOLD if threshold is None else threshold)
-        and bool(x.get("important", False))
-    ]
-    eligible.sort(key=lambda x: (
-        -int(x.get("importance_score", 0)),
-        -int(x.get("event_source_count", 0)),
-        int(x.get("editor_rank", 999999)),
-    ))
-    return eligible[: (MAX_POSTS_PER_RUN if safety_max is None else safety_max)]
 
 def self_test():
     sample = {
@@ -3604,110 +3735,7 @@ def self_test():
     assert clustered[0]["event_cluster_size"] >= 1
     assert canonical_topic("PS5") == "PlayStation"
     assert "#PlayStation" in category_hashtags(sample) and "#Gaming" in category_hashtags(sample)
-
-    # Intelligent publishing model: no fixed quota, threshold 80, safety max 20.
-    def fake_ranked(scores):
-        return [{"importance_score": s, "important": s >= 80, "event_source_count": 1, "editor_rank": i + 1} for i, s in enumerate(scores)]
-
-    for scores, expected in [
-        ([100] * 20, 20),
-        ([100] * 10, 10),
-        ([100] * 5, 5),
-        ([81], 1),
-        ([79, 70, 0], 0),
-        ([80], 1),
-        ([95] * 25, 20),
-    ]:
-        selected = select_publishable(fake_ranked(scores), threshold=80, safety_max=20)
-        assert len(selected) == expected, (scores, len(selected), expected)
-
-    ordered = select_publishable(fake_ranked([81, 99, 85, 100]), threshold=80, safety_max=20)
-    assert [x["importance_score"] for x in ordered] == [100, 99, 85, 81]
-    assert all(0 <= int(x["importance_score"]) <= 100 for x in fake_ranked([0, 40, 80, 100]))
-    assert PUBLISH_SCORE_THRESHOLD == 80
-    assert MAX_POSTS_PER_RUN == 20
-    # Verify the real ranking path assigns 0-100 scores to every candidate in a batch.
-    class _FakeMessage:
-        def __init__(self, content):
-            self.content = content
-    class _FakeChoice:
-        def __init__(self, content):
-            self.message = _FakeMessage(content)
-    class _FakeResponse:
-        def __init__(self, content):
-            self.choices = [_FakeChoice(content)]
-    class _FakeRouter:
-        def create(self, **kwargs):
-            user_text = kwargs["messages"][1]["content"]
-            ids = re.findall(r"CLUSTER_ID: (evt_[0-9a-f]+)", user_text)
-            ranked = []
-            for idx, cid in enumerate(ids):
-                score = 90 - idx
-                ranked.append({
-                    "id": cid,
-                    "rank": idx + 1,
-                    "score": score,
-                    "important": score >= 80,
-                    "topic": "Game Updates",
-                    "institution": "",
-                    "event_key": "",
-                    "reason": "test score",
-                })
-            return _FakeResponse(json.dumps({"ranked": ranked}))
-    original_router = AI_ROUTER
-    try:
-        globals()["AI_ROUTER"] = _FakeRouter()
-        test_candidates = []
-        test_titles = [
-            "Nintendo announces new Zelda expansion",
-            "Valve releases major Steam client update",
-            "Xbox confirms new Game Pass lineup",
-            "Capcom unveils next Monster Hunter update",
-            "Sony announces new PlayStation hardware feature",
-            "Riot Games reveals major League esports change",
-            "Square Enix confirms Final Fantasy production milestone",
-        ]
-        for i, test_title in enumerate(test_titles):
-            test_candidates.append({
-                "title": test_title,
-                "url": f"https://ign.com/test-{i}",
-                "canonical": f"ign.com/test-{i}",
-                "published_date": now_iso(),
-                "region": "Gaming",
-                "source": "IGN",
-                "excerpt": f"Independent evidence for event {i}.",
-            })
-        ranked_test = rank_candidates(test_candidates, "Gaming")
-        assert len(ranked_test) == 7
-        assert all(0 <= int(x["importance_score"]) <= 100 for x in ranked_test)
-        assert sorted(int(x["importance_score"]) for x in ranked_test) == list(range(84, 91))
-    finally:
-        globals()["AI_ROUTER"] = original_router
-
-    dup_candidates = [
-        {"title": "GTA 6 release date confirmed", "url": "https://ign.com/a", "canonical": "ign.com/a", "published_date": now_iso(), "region": "Gaming", "source": "IGN", "excerpt": "GTA 6 release date confirmed."},
-        {"title": "GTA 6 release date confirmed", "url": "https://vgc.news/a", "canonical": "vgc.news/a", "published_date": now_iso(), "region": "Gaming", "source": "VGC", "excerpt": "GTA 6 release date confirmed."},
-    ]
-    clusters = precluster_candidates(dup_candidates)
-    assert len(clusters) == 1
-    assert clusters[0]["source_count"] == 2
-
-    published_context = list(STATE.get("events", {}).values())[:1]
-    assert isinstance(published_context, list)
-
-    # A similar headline is not hard-rejected by the URL state gate; material-change
-    # evaluation remains available to the ranking pass.
-    old_posted = set(POSTED_URLS)
-    try:
-        POSTED_URLS.clear()
-        assert is_already_published_candidate({"canonical": "ign.com/new-url", "title": "Same event, new development", "region": "Gaming"}) is False
-        POSTED_URLS.add("ign.com/new-url")
-        assert is_already_published_candidate({"canonical": "ign.com/new-url", "title": "Same event, new development", "region": "Gaming"}) is True
-    finally:
-        POSTED_URLS.clear()
-        POSTED_URLS.update(old_posted)
-
-    logger.info("GamingNewsroom intelligent-ranking self-test passed.")
+    logger.info("GamingNewsroom V1 self-test passed.")
 
 
 def visible_text_for_test(
