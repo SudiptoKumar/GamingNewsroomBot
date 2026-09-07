@@ -530,6 +530,12 @@ def trim_source_text(text, limit):
 def clean_generated_text(text):
     text = safe_text(text)
 
+    # AI sometimes returns Markdown emphasis markers even though the
+    # generation prompt asks for plain text. Rich Message rendering then
+    # exposes those literal asterisks. Remove them before any HTML bolding
+    # is applied.
+    text = re.sub(r"\*+", "", text)
+
     # Prevent visible truncation artifacts.
     text = re.sub(r"\.{2,}", ".", text)
     text = text.replace("\u2026", "")
@@ -3703,6 +3709,21 @@ def self_test():
     rendered = dynamic_rich_html(sample)
     assert complete_text("A normal sentence.")
     assert complete_text("An incomplete sentence—") is False
+
+    # Markdown emphasis from the model must never leak into the Telegram
+    # message as visible `*` characters.
+    markdown_sample = dict(sample)
+    markdown_sample["summary"] = "The **game** launches with **major** changes."
+    markdown_sample["highlights"] = [
+        "**PlayStation** gets the update.",
+        "The **developer** confirmed the date.",
+        "Players can access the **new mode** now.",
+    ]
+    markdown_sample["why_it_matters"] = "The **update** adds important content. It also gives players a stronger reason to return."
+    markdown_sample["whats_next"] = "Watch for **more details** from the developer."
+    markdown_rendered = dynamic_rich_html(markdown_sample)
+    assert "*" not in markdown_rendered
+
     assert "WHY IT MATTERS" in rendered
     assert "WHAT'S NEXT" in rendered
     assert "<aside>PlayStation</aside>" in rendered
