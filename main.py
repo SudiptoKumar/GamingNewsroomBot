@@ -2,6 +2,33 @@
 # Supporting production components are intentionally embedded in this file
 # so the repository structure remains exactly the requested minimal layout.
 
+import os
+import re
+import json
+import time
+import html
+import argparse
+import logging
+import hashlib
+from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
+from urllib.parse import urlparse, urljoin, quote, urlsplit, parse_qsl, urlencode
+from difflib import SequenceMatcher
+from email.utils import parsedate_to_datetime
+from io import BytesIO
+from typing import Any, Callable
+
+import requests
+import feedparser
+import trafilatura
+from bs4 import BeautifulSoup
+from PIL import Image, ImageDraw, ImageFont, ImageFile
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+from exa_py import Exa
+from cerebras.cloud.sdk import Cerebras
+
 TRACKING = {"utm_source","utm_medium","utm_campaign","utm_term","utm_content","gclid","fbclid","ref"}
 
 def canonical_url(url: str) -> str:
@@ -815,33 +842,6 @@ def validate_story(story: dict) -> tuple[bool, list[str]]:
     return not errors, errors
 
 # ===== main application =====
-import os
-import re
-import json
-import time
-import html
-import argparse
-import logging
-import hashlib
-from datetime import datetime, timedelta, timezone
-from zoneinfo import ZoneInfo
-from urllib.parse import urlparse, urljoin, quote
-from difflib import SequenceMatcher
-from email.utils import parsedate_to_datetime
-from io import BytesIO
-
-import requests
-import feedparser
-import trafilatura
-from bs4 import BeautifulSoup
-from PIL import Image, ImageDraw, ImageFont, ImageFile
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
-
-from exa_py import Exa
-from cerebras.cloud.sdk import Cerebras
-
-
 # ============================================================
 # CONFIGURATION
 # ============================================================
@@ -4230,8 +4230,6 @@ def run():
 
 def self_test():
     """Offline Gaming News Bot regression suite for event intelligence and message safety."""
-    from event_engine import EventEngine
-
     class FakeChoice:
         def __init__(self, content):
             self.message = type("M", (), {"content": json.dumps(content)})()
