@@ -15,10 +15,13 @@ def fake_ai(**kwargs):
         for i,b in zip(ids,blocks):
             title=next(x for x in b.splitlines() if x.startswith('Title: '))[7:]
             z='Zelda' in title
-            items.append({'id':i,'event_key':'zelda ocarina remake announcement' if z else 'minor patch','subject':'Zelda Ocarina remake' if z else 'Minor patch','event_type':'announcement' if z else 'patch','action':'announce' if z else 'patch','status':'current','modality':'confirmed','game':'Zelda Ocarina remake' if z else 'Small game','institution':'Nintendo' if z else 'Indie','target':'remake' if z else 'patch','platforms':['Switch 2'] if z else ['PC'],'claim':'Nintendo announced the remake' if z else 'Minor patch','topic':'Nintendo' if z else 'Game Updates'})
+            items.append({'id':i,'event_key':'zelda ocarina remake announcement' if z else 'minor patch','subject':'Zelda Ocarina remake' if z else 'Minor patch','event_type':'announcement' if z else 'patch','action':'announce' if z else 'patch','status':'current','modality':'confirmed','game':'Zelda Ocarina remake' if z else 'Small game','franchise':'The Legend of Zelda' if z else 'Small game','institution':'Nintendo' if z else 'Indie','target':'remake' if z else 'patch','platforms':['Switch 2'] if z else ['PC'],'claim':'Nintendo announced the remake' if z else 'Minor patch','topic':'Nintendo' if z else 'Game Updates'})
         return Response({'items':items})
     if name=='gaming_significance_v2':
         return Response({'items':[{'id':i,'significance':45 if i==1 else 8,'reason':'Major event' if i==1 else 'Routine item'} for i in ids]})
+
+    if name=='gaming_editorial_slate_v3':
+        return Response({'selected_ids':[1],'decisions':[{'id':1,'decision':'select','reason':'Strongest in slate.'},{'id':2,'decision':'reject','reason':'Same franchise/topic repetition.'}]})
     if name=='gaming_material_change_v2':
         return Response({'same_event':True,'material_change':False,'new_claims':[],'reason':'No material development'})
     raise AssertionError(name)
@@ -51,3 +54,26 @@ def test_cross_run_repeat_suppression():
     selected, clusters=e.run([item('Zelda remake screenshots revealed','VGC',5)],prev,20)
     assert not selected
     assert clusters[0]['repeat_status']=='repeat'
+
+
+
+def test_same_franchise_slate_is_deconcentrated():
+    now=datetime.now(timezone.utc)
+    engine=EventEngine(fake_ai,now,80,35)
+    def stub_ai(**kwargs):
+        name=kwargs['response_format']['json_schema']['name']
+        if name=='gaming_editorial_slate_v3':
+            return Response({'selected_ids':[1,2],'decisions':[
+                {'id':1,'decision':'select','reason':'Highest value.'},
+                {'id':2,'decision':'select','reason':'AI initially selected; hard guard must reject repetition.'},
+            ]})
+        return fake_ai(**kwargs)
+    engine.ai_create=stub_ai
+    frame=lambda game,franchise,topic,event_type: {'game':game,'franchise':franchise,'institution':'Nintendo','event_type':event_type,'action':'announce','target':game,'modality':'confirmed'}
+    clusters=[
+        {'cluster_id':'a','event_key':'zelda concert','event_subject':'Zelda concert','event_frame':frame('Zelda concert','The Legend of Zelda','Zelda 40th','announcement'),'event_type':'announcement','topic':'Zelda 40th','modality':'confirmed','importance_score':91,'publishable':True,'representative':{},'sources':['VGC'],'articles':[{}]},
+        {'cluster_id':'b','event_key':'zelda remake','event_subject':'Zelda remake','event_frame':frame('Zelda remake','The Legend of Zelda','Zelda 40th','reveal'),'event_type':'reveal','topic':'Zelda 40th','modality':'confirmed','importance_score':86,'publishable':True,'representative':{},'sources':['IGN'],'articles':[{}]},
+        {'cluster_id':'c','event_key':'gta6 release','event_subject':'GTA 6 release','event_frame':frame('GTA 6','Grand Theft Auto','GTA 6','release'),'event_type':'release','topic':'Major Releases','modality':'confirmed','importance_score':84,'publishable':True,'representative':{},'sources':['GameSpot'],'articles':[{}]},
+    ]
+    selected=engine.diversify(clusters,20)
+    assert [c['cluster_id'] for c in selected]==['a']
