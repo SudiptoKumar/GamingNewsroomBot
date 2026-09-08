@@ -20,7 +20,7 @@ def fake_ai(**kwargs):
     if name=='gaming_significance_v2':
         return Response({'items':[{'id':i,'significance':45 if i==1 else 8,'reason':'Major event' if i==1 else 'Routine item'} for i in ids]})
 
-    if name=='gaming_editorial_slate_v3':
+    if name=='gaming_editorial_slate_v3_1':
         return Response({'selected_ids':[1],'decisions':[{'id':1,'decision':'select','reason':'Strongest in slate.'},{'id':2,'decision':'reject','reason':'Same franchise/topic repetition.'}]})
     if name=='gaming_material_change_v2':
         return Response({'same_event':True,'material_change':False,'new_claims':[],'reason':'No material development'})
@@ -62,7 +62,7 @@ def test_same_franchise_slate_is_deconcentrated():
     engine=EventEngine(fake_ai,now,80,35)
     def stub_ai(**kwargs):
         name=kwargs['response_format']['json_schema']['name']
-        if name=='gaming_editorial_slate_v3':
+        if name=='gaming_editorial_slate_v3_1':
             return Response({'selected_ids':[1,2],'decisions':[
                 {'id':1,'decision':'select','reason':'Highest value.'},
                 {'id':2,'decision':'select','reason':'AI initially selected; hard guard must reject repetition.'},
@@ -71,9 +71,9 @@ def test_same_franchise_slate_is_deconcentrated():
     engine.ai_create=stub_ai
     frame=lambda game,franchise,topic,event_type: {'game':game,'franchise':franchise,'institution':'Nintendo','event_type':event_type,'action':'announce','target':game,'modality':'confirmed'}
     clusters=[
-        {'cluster_id':'a','event_key':'zelda concert','event_subject':'Zelda concert','event_frame':frame('Zelda concert','The Legend of Zelda','Zelda 40th','announcement'),'event_type':'announcement','topic':'Zelda 40th','modality':'confirmed','importance_score':91,'publishable':True,'representative':{},'sources':['VGC'],'articles':[{}]},
-        {'cluster_id':'b','event_key':'zelda remake','event_subject':'Zelda remake','event_frame':frame('Zelda remake','The Legend of Zelda','Zelda 40th','reveal'),'event_type':'reveal','topic':'Zelda 40th','modality':'confirmed','importance_score':86,'publishable':True,'representative':{},'sources':['IGN'],'articles':[{}]},
-        {'cluster_id':'c','event_key':'gta6 release','event_subject':'GTA 6 release','event_frame':frame('GTA 6','Grand Theft Auto','GTA 6','release'),'event_type':'release','topic':'Major Releases','modality':'confirmed','importance_score':84,'publishable':True,'representative':{},'sources':['GameSpot'],'articles':[{}]},
+        {'cluster_id':'a','event_key':'zelda concert','event_subject':'Zelda concert','event_frame':frame('Zelda concert','The Legend of Zelda','Zelda 40th','announcement'),'event_type':'announcement','topic':'Zelda 40th','modality':'confirmed','importance_score':91,'publishable':True,'editor_eligible':True,'representative':{},'sources':['VGC'],'articles':[{}]},
+        {'cluster_id':'b','event_key':'zelda remake','event_subject':'Zelda remake','event_frame':frame('Zelda remake','The Legend of Zelda','Zelda 40th','reveal'),'event_type':'reveal','topic':'Zelda 40th','modality':'confirmed','importance_score':86,'publishable':True,'editor_eligible':True,'representative':{},'sources':['IGN'],'articles':[{}]},
+        {'cluster_id':'c','event_key':'gta6 release','event_subject':'GTA 6 release','event_frame':frame('GTA 6','Grand Theft Auto','GTA 6','release'),'event_type':'release','topic':'Major Releases','modality':'confirmed','importance_score':84,'publishable':True,'editor_eligible':True,'representative':{},'sources':['GameSpot'],'articles':[{}]},
     ]
     selected=engine.diversify(clusters,20)
     assert [c['cluster_id'] for c in selected]==['a']

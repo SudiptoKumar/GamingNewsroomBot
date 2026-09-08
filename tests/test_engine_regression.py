@@ -27,7 +27,7 @@ def fake_ai(**kw):
     if name=='gaming_significance_v2':
         return Resp({'items':[{'id':i,'significance':45 if i==1 else 8,'reason':'Major event' if i==1 else 'Routine item'} for i in ids]})
 
-    if name=='gaming_editorial_slate_v3':
+    if name=='gaming_editorial_slate_v3_1':
         return Response({'selected_ids':[1],'decisions':[{'id':1,'decision':'select','reason':'Strongest in slate.'},{'id':2,'decision':'reject','reason':'Same franchise/topic repetition.'}]})
     if name=='gaming_material_change_v2':
         return Resp({'same_event':True,'material_change':False,'new_claims':[],'reason':'No material development'})
@@ -81,3 +81,28 @@ def test_same_franchise_slate_is_deconcentrated():
     b=article('Zelda remake teased','IGN',2)
     selected,_=engine.run([a,b],{},20)
     assert len(selected)==1
+
+
+def test_v31_broad_pool_allows_editor_to_choose_below_preferred_threshold():
+    now=datetime.now(timezone.utc)
+    engine=EventEngine(fake_ai,now,80,35,candidate_threshold=60,publish_floor=70)
+    def stub_ai(**kwargs):
+        name=kwargs['response_format']['json_schema']['name']
+        if name=='gaming_editorial_slate_v3_1':
+            return Response({'selected_ids':[1,2,3,4], 'decisions':[
+                {'id':1,'decision':'select','reason':'Strong Zelda story.'},
+                {'id':2,'decision':'select','reason':'Independent studio story.'},
+                {'id':3,'decision':'select','reason':'Same Zelda franchise repetition.'},
+                {'id':4,'decision':'select','reason':'Independent GTA story.'},
+            ]})
+        return fake_ai(**kwargs)
+    engine.ai_create=stub_ai
+    frame=lambda game,franchise,topic,event_type: {'game':game,'franchise':franchise,'institution':'Publisher','event_type':event_type,'action':'announce','target':game,'modality':'confirmed'}
+    clusters=[
+        {'cluster_id':'a','event_key':'zelda-remake','event_subject':'Zelda remake','event_frame':frame('Zelda','The Legend of Zelda','Zelda Anniversary','reveal'),'event_type':'reveal','topic':'Zelda Anniversary','modality':'confirmed','importance_score':74,'publishable':True,'editor_eligible':True,'representative':{},'sources':['VGC'],'articles':[{}]},
+        {'cluster_id':'b','event_key':'studio-layoffs','event_subject':'Studio layoffs','event_frame':frame('Studio X','Studio X','Industry','layoff'),'event_type':'layoff','topic':'Industry','modality':'confirmed','importance_score':73,'publishable':True,'editor_eligible':True,'representative':{},'sources':['Game Developer'],'articles':[{}]},
+        {'cluster_id':'c','event_key':'zelda-lego','event_subject':'Zelda LEGO','event_frame':frame('Zelda','The Legend of Zelda','Zelda Anniversary','announcement'),'event_type':'announcement','topic':'Zelda Anniversary','modality':'confirmed','importance_score':72,'publishable':True,'editor_eligible':True,'representative':{},'sources':['IGN'],'articles':[{}]},
+        {'cluster_id':'d','event_key':'gta6','event_subject':'GTA 6','event_frame':frame('GTA 6','Grand Theft Auto','GTA 6','release'),'event_type':'release','topic':'GTA 6','modality':'confirmed','importance_score':71,'publishable':True,'editor_eligible':True,'representative':{},'sources':['GameSpot'],'articles':[{}]},
+    ]
+    selected=engine.diversify(clusters,20)
+    assert [c['cluster_id'] for c in selected]==['a','b','d']
