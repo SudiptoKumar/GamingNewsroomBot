@@ -22,7 +22,7 @@ jobs:
       EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
       CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-      TELEGRAM_CHANNEL: "@Gaming News Bot"
+      TELEGRAM_CHANNEL: "@GamingNewsroom"
       NEWS_MODE: "update"
       PYTHONUNBUFFERED: "1"
 
@@ -44,8 +44,24 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Verify repository structure
+        run: |
+          test -f main.py
+          test -f README.md
+          test -f news_state.json
+          test -f posted_urls.txt
+          test -f requirements.txt
+          test -f .github/workflows/newbot.yml
+          test ! -e event_engine.py
+          test ! -e article_normalizer.py
+          test ! -e event_store.py
+          test ! -e scoring.py
+          test ! -e slate_selector.py
+          test ! -e post_validator.py
+          test ! -d tests
+
       - name: Verify Python source
-        run: python -m py_compile main.py event_engine.py article_normalizer.py event_store.py scoring.py slate_selector.py post_validator.py
+        run: python -m py_compile main.py
 
       - name: Run self-test
         run: python main.py --self-test
