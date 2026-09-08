@@ -1,7 +1,1984 @@
 {
   "version": "Gaming News Bot",
-  "events": {},
-  "event_clusters": {},
-  "posted_event_ids": [],
-  "recent_titles": []
+  "feeds": {
+    "https://feeds.ign.com/ign/all": {
+      "etag": "W/\"27b15-wC+D8S0ucrHkL4t8lAodDwOsx2o\"",
+      "last_modified": null,
+      "last_checked": "2026-09-09T04:45:48.307102+06:00",
+      "fail_count": 0,
+      "alerted": false
+    },
+    "https://www.gamespot.com/feeds/mashup/": {
+      "etag": null,
+      "last_modified": null,
+      "last_checked": "2026-09-09T04:45:48.712717+06:00",
+      "fail_count": 0,
+      "alerted": false
+    },
+    "https://www.videogameschronicle.com/feed/": {
+      "etag": "\"6aa08fef-a62\"",
+      "last_modified": "Tue, 08 Sep 2026 22:45:03 GMT",
+      "last_checked": "2026-09-09T04:45:49.013102+06:00",
+      "fail_count": 0,
+      "alerted": false
+    },
+    "https://www.eurogamer.net/?format=rss": {
+      "etag": null,
+      "last_modified": "Tue, 08 Sep 2026 15:45:42 GMT",
+      "last_checked": "2026-09-09T04:45:49.314862+06:00",
+      "fail_count": 0,
+      "alerted": false
+    },
+    "https://www.gematsu.com/feed": {
+      "etag": "\"6aa08884-1211\"",
+      "last_modified": "Tue, 08 Sep 2026 22:13:24 GMT",
+      "last_checked": "2026-09-09T04:45:49.608544+06:00",
+      "fail_count": 0,
+      "alerted": false
+    },
+    "https://www.pcgamer.com/feeds.xml": {
+      "etag": null,
+      "last_modified": null,
+      "last_checked": "2026-09-09T04:45:49.765545+06:00",
+      "fail_count": 0,
+      "alerted": false
+    },
+    "https://www.polygon.com/rss/index.xml": {
+      "etag": null,
+      "last_modified": null,
+      "last_checked": "2026-09-09T04:45:50.278858+06:00",
+      "fail_count": 0,
+      "alerted": false
+    },
+    "https://kotaku.com/rss": {
+      "etag": "W/\"e2769080881bfde278b578c6b2979f41\"",
+      "last_modified": "Tue, 08 Sep 2026 22:30:37 GMT",
+      "last_checked": "2026-09-09T04:45:50.815242+06:00",
+      "fail_count": 0,
+      "alerted": false
+    },
+    "https://www.gamesradar.com/feeds.xml": {
+      "etag": null,
+      "last_modified": null,
+      "last_checked": "2026-09-09T04:45:50.965397+06:00",
+      "fail_count": 0,
+      "alerted": false
+    },
+    "http://feeds.feedburner.com/RockPaperShotgun": {
+      "etag": null,
+      "last_modified": "Tue, 8 Sep 2026 18:59:28 GMT",
+      "last_checked": "2026-09-09T04:45:51.554758+06:00",
+      "fail_count": 0,
+      "alerted": false
+    },
+    "https://www.gamedeveloper.com/rss.xml": {
+      "etag": null,
+      "last_modified": "Tue, 08 Sep 2026 22:45:52 GMT",
+      "last_checked": "2026-09-09T04:45:52.058271+06:00",
+      "fail_count": 0,
+      "alerted": false
+    },
+    "https://insider-gaming.com/feed/": {
+      "etag": "W/\"e08fdad9d5aa7dff6befbe4ef5e5ec19\"",
+      "last_modified": "Tue, 08 Sep 2026 22:38:17 GMT",
+      "last_checked": "2026-09-09T04:45:52.494562+06:00",
+      "fail_count": 0,
+      "alerted": false
+    },
+    "https://www.nintendolife.com/feeds/latest": {
+      "etag": null,
+      "last_modified": null,
+      "last_checked": "2026-09-09T04:45:52.744148+06:00",
+      "fail_count": 0,
+      "alerted": false
+    },
+    "https://www.pushsquare.com/feeds/latest": {
+      "etag": null,
+      "last_modified": null,
+      "last_checked": "2026-09-09T04:45:53.003606+06:00",
+      "fail_count": 0,
+      "alerted": false
+    },
+    "https://www.purexbox.com/feeds/latest": {
+      "etag": null,
+      "last_modified": null,
+      "last_checked": "2026-09-09T04:45:53.441586+06:00",
+      "fail_count": 0,
+      "alerted": false
+    },
+    "https://www.shacknews.com/feed": {
+      "last_checked": "2026-09-09T04:45:53.657265+06:00",
+      "fail_count": 1
+    },
+    "https://www.siliconera.com/feed/": {
+      "etag": "W/\"0aa6b2de0fe73495e8b5a262e2013634\"",
+      "last_modified": "Tue, 08 Sep 2026 19:02:30 GMT",
+      "last_checked": "2026-09-09T04:45:53.758495+06:00",
+      "fail_count": 0,
+      "alerted": false
+    },
+    "https://www.vg247.com/feed": {
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
+      "last_checked": "2026-09-09T04:45:54.076996+06:00",
+      "fail_count": 0,
+      "alerted": false
+    },
+    "https://techraptor.net/gaming/rss.xml": {
+      "last_checked": "2026-09-09T04:45:54.339923+06:00",
+      "fail_count": 1
+    },
+    "https://www.escapistmagazine.com/v2/feed/": {
+      "etag": "W/\"d9a4dbf7c8b219bb4b07e5b117c6ee64\"",
+      "last_modified": "Tue, 08 Sep 2026 14:37:18 GMT",
+      "last_checked": "2026-09-09T04:45:54.454743+06:00",
+      "fail_count": 0,
+      "alerted": false
+    }
+  },
+  "queue": {
+    "ign.com/articles/lerat-portable-turbo-fan-deal-september-2026": {
+      "title": "Beat the End-of-Summer Extreme Heat Surge With This $6 Portable Turbo Fan",
+      "url": "https://www.ign.com/articles/lerat-portable-turbo-fan-deal-september-2026",
+      "canonical": "ign.com/articles/lerat-portable-turbo-fan-deal-september-2026",
+      "published_dt": "2026-09-09T04:15:00+06:00",
+      "published_date": "2026-09-09T04:15:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Stay frosty, both indoors and out.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/08/leratportablefan-1788903822391.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:48.462190+06:00",
+      "last_seen": "2026-09-09T04:45:48.462198+06:00"
+    },
+    "ign.com/articles/breaking-benjamin-frontman-pauses-his-own-concert-to-rant-about-his-with-a-fallout-4-modder": {
+      "title": "Breaking Benjamin Frontman Stops His Own Concert to Rant About His Feud With a Fallout 4 Modder",
+      "url": "https://www.ign.com/articles/breaking-benjamin-frontman-pauses-his-own-concert-to-rant-about-his-with-a-fallout-4-modder",
+      "canonical": "ign.com/articles/breaking-benjamin-frontman-pauses-his-own-concert-to-rant-about-his-with-a-fallout-4-modder",
+      "published_dt": "2026-09-09T04:10:09+06:00",
+      "published_date": "2026-09-09T04:10:09+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Benjamin Burnley, lead singer and guitarist of the rock band Breaking Benjamin, took five minutes during a concert in Holmdel, New Jersey, to rant about his feud with a fellow Fallout 4 modder.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/08/breaking-benjamin-frontman-stops-concert-to-shill-his-fallout-4-mod-1788904448830.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:48.462405+06:00",
+      "last_seen": "2026-09-09T04:45:48.462410+06:00"
+    },
+    "ign.com/articles/snoop-dogg-biopic-casts-dangelos-son-swayvo-twain-as-the-notorious-big": {
+      "title": "Snoop Dogg Biopic Casts D'Angelo's Son, Swayvo Twain, as The Notorious B.I.G.",
+      "url": "https://www.ign.com/articles/snoop-dogg-biopic-casts-dangelos-son-swayvo-twain-as-the-notorious-big",
+      "canonical": "ign.com/articles/snoop-dogg-biopic-casts-dangelos-son-swayvo-twain-as-the-notorious-big",
+      "published_dt": "2026-09-09T03:48:16+06:00",
+      "published_date": "2026-09-09T03:48:16+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Snoop Dogg's biopic has cast Swayvo Twain, the son of D'Angelo, as Notorious B.I.G.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/08/big-1788901121435.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:48.462546+06:00",
+      "last_seen": "2026-09-09T04:45:48.462550+06:00"
+    },
+    "ign.com/articles/all-zelda-games-on-nintendo-switch": {
+      "title": "Every Legend of Zelda Game on the Nintendo Switch and Switch 2 in 2026",
+      "url": "https://www.ign.com/articles/all-zelda-games-on-nintendo-switch",
+      "canonical": "ign.com/articles/all-zelda-games-on-nintendo-switch",
+      "published_dt": "2026-09-09T03:47:00+06:00",
+      "published_date": "2026-09-09T03:47:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Every Zelda game you can check out on the Nintendo Switch, plus the new upgrades, games, and features coming to the Switch 2.",
+      "image": "https://assets-prd.ignimgs.com/2024/01/29/zelda-games-on-switch-1706554892654.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:48.462673+06:00",
+      "last_seen": "2026-09-09T04:45:48.462677+06:00"
+    },
+    "ign.com/articles/40-changes-we-noticed-in-the-zelda-ocarina-of-time-remake-gameplay-footage": {
+      "title": "40 Changes We Noticed in the Zelda: Ocarina of Time Remake Gameplay Footage",
+      "url": "https://www.ign.com/articles/40-changes-we-noticed-in-the-zelda-ocarina-of-time-remake-gameplay-footage",
+      "canonical": "ign.com/articles/40-changes-we-noticed-in-the-zelda-ocarina-of-time-remake-gameplay-footage",
+      "published_dt": "2026-09-09T03:44:55+06:00",
+      "published_date": "2026-09-09T03:44:55+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Here are 40 changes we saw when comparing Ocarina of Time on Switch 2 to the N64 version, from things as large as the art style all the way to small menu changes and UI differences.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/08/frame-1788896769216.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:48.462802+06:00",
+      "last_seen": "2026-09-09T04:45:48.462806+06:00"
+    },
+    "ign.com/articles/playstation-architect-mark-cerny-nearing-the-end-of-career-launching-fellowship-program-with-game-awards-creator-geoff-keighley": {
+      "title": "PlayStation Architect Mark Cerny 'Nearing the End' of Career, Launching Fellowship Program With Game Awards Creator Geoff Keighley",
+      "url": "https://www.ign.com/articles/playstation-architect-mark-cerny-nearing-the-end-of-career-launching-fellowship-program-with-game-awards-creator-geoff-keighley",
+      "canonical": "ign.com/articles/playstation-architect-mark-cerny-nearing-the-end-of-career-launching-fellowship-program-with-game-awards-creator-geoff-keighley",
+      "published_dt": "2026-09-09T03:44:11+06:00",
+      "published_date": "2026-09-09T03:44:11+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "PlayStation architect Mark Cerny says he's \"nearing the end\" of his career and wants to pay it forward before he steps away, so he's partnered with The Game Awards creator Geoff Keighley to announce a new fellowship program for game design graduates called the The Nova Games Foundation, with a goal of awarding 20 graduates per year a six-figure grant.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/08/cerny-1788903691327.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:48.462927+06:00",
+      "last_seen": "2026-09-09T04:45:48.462930+06:00"
+    },
+    "ign.com/articles/best-microsd-express-memory-card-deal-with-your-nintendo-switch-2-zelda-preorder": {
+      "title": "Get the Lowest Price on a Memory Card for Your New Legend of Zelda Nintendo Switch 2 Console",
+      "url": "https://www.ign.com/articles/best-microsd-express-memory-card-deal-with-your-nintendo-switch-2-zelda-preorder",
+      "canonical": "ign.com/articles/best-microsd-express-memory-card-deal-with-your-nintendo-switch-2-zelda-preorder",
+      "published_dt": "2026-09-09T03:30:00+06:00",
+      "published_date": "2026-09-09T03:30:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "The upcoming Ocarina of Time and Fire Emblem: Fortune's Weave games will take up nearly 30GB each.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/08/onnmemorycardzelda-1788902359375.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:48.463049+06:00",
+      "last_seen": "2026-09-09T04:45:48.463053+06:00"
+    },
+    "ign.com/articles/one-of-street-fighter-2s-original-designers-wants-to-rebalance-super-turbo-3-decades-after-its-release": {
+      "title": "One of Street Fighter 2's Original Designers Wants to Rebalance Super Turbo 3 Decades After Its Release",
+      "url": "https://www.ign.com/articles/one-of-street-fighter-2s-original-designers-wants-to-rebalance-super-turbo-3-decades-after-its-release",
+      "canonical": "ign.com/articles/one-of-street-fighter-2s-original-designers-wants-to-rebalance-super-turbo-3-decades-after-its-release",
+      "published_dt": "2026-09-09T03:23:16+06:00",
+      "published_date": "2026-09-09T03:23:16+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Akira Nishitani, one of the original designers for Street Fighter 2 and Final Fight, expressed an interest in rebalancing Super Street Fighter 2: Turbo — over 30 years after its release.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/08/street-fighter-2-designer-wants-to-rebalance-super-turbo-1788900755333.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:48.463172+06:00",
+      "last_seen": "2026-09-09T04:45:48.463176+06:00"
+    },
+    "ign.com/articles/trump-administration-tetris-clone-vanishes-from-white-house-website-days-after-launch": {
+      "title": "Trump Administration Tetris Clone Vanishes from White House Website Days After Launch",
+      "url": "https://www.ign.com/articles/trump-administration-tetris-clone-vanishes-from-white-house-website-days-after-launch",
+      "canonical": "ign.com/articles/trump-administration-tetris-clone-vanishes-from-white-house-website-days-after-launch",
+      "published_dt": "2026-09-09T02:29:40+06:00",
+      "published_date": "2026-09-09T02:29:40+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "The Trump Administration appears to have pulled its Tetris clone 'Build the Wall' offline less than one week after its launch.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/08/tetris-build-the-wall-1788899057995.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:48.463310+06:00",
+      "last_seen": "2026-09-09T04:45:48.463315+06:00"
+    },
+    "ign.com/articles/gigabyte-aero-x16-16-gaming-laptop-deal-september-2026": {
+      "title": "The Thin and Light Gigabyte AERO X16 16\" RTX 5070 Gaming Laptop Drops to $1,340 at Best Buy",
+      "url": "https://www.ign.com/articles/gigabyte-aero-x16-16-gaming-laptop-deal-september-2026",
+      "canonical": "ign.com/articles/gigabyte-aero-x16-16-gaming-laptop-deal-september-2026",
+      "published_dt": "2026-09-09T02:15:00+06:00",
+      "published_date": "2026-09-09T02:15:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "This 16\" laptop weighs in at only 4.2 pounds but has plenty of gaming chops.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/08/gigabyteaerox16-1788897969389.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:48.463439+06:00",
+      "last_seen": "2026-09-09T04:45:48.463442+06:00"
+    },
+    "ign.com/articles/call-of-duty-adds-doom-slayer-skin-as-part-of-new-halloween-update": {
+      "title": "Call of Duty Adds Doom Slayer Skin as Part of New Halloween Update",
+      "url": "https://www.ign.com/articles/call-of-duty-adds-doom-slayer-skin-as-part-of-new-halloween-update",
+      "canonical": "ign.com/articles/call-of-duty-adds-doom-slayer-skin-as-part-of-new-halloween-update",
+      "published_dt": "2026-09-09T02:04:00+06:00",
+      "published_date": "2026-09-09T02:04:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Call of Duty's upcoming Halloween event will add the Doom Slayer as a playable operator to the game.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/08/codthumb-1788883738556.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:48.463557+06:00",
+      "last_seen": "2026-09-09T04:45:48.463560+06:00"
+    },
+    "pcgamer.com/games/rpg/less-than-a-week-after-launch-the-blood-of-dawnwalker-developer-is-already-getting-to-work-on-the-sequel": {
+      "title": "Less than a week after launch, The Blood of Dawnwalker developer is already getting to work on the sequel",
+      "url": "https://www.pcgamer.com/games/rpg/less-than-a-week-after-launch-the-blood-of-dawnwalker-developer-is-already-getting-to-work-on-the-sequel/",
+      "canonical": "pcgamer.com/games/rpg/less-than-a-week-after-launch-the-blood-of-dawnwalker-developer-is-already-getting-to-work-on-the-sequel",
+      "published_dt": "2026-09-09T03:58:52+06:00",
+      "published_date": "2026-09-09T03:58:52+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Rebel Wolves is hiring.",
+      "image": "https://cdn.mos.cms.futurecdn.net/4fRTiVosLRDw2tSSKk8cqH-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:50.078280+06:00",
+      "last_seen": "2026-09-09T04:45:50.078286+06:00"
+    },
+    "pcgamer.com/games/rpg/thousand-hells-is-a-tactical-narrative-feast-of-infernal-storytelling-but-its-defeats-can-feel-brutal": {
+      "title": "Thousand Hells is a 'tactical narrative' feast of infernal storytelling, but its defeats can feel brutal",
+      "url": "https://www.pcgamer.com/games/rpg/thousand-hells-is-a-tactical-narrative-feast-of-infernal-storytelling-but-its-defeats-can-feel-brutal/",
+      "canonical": "pcgamer.com/games/rpg/thousand-hells-is-a-tactical-narrative-feast-of-infernal-storytelling-but-its-defeats-can-feel-brutal",
+      "published_dt": "2026-09-09T03:38:54+06:00",
+      "published_date": "2026-09-09T03:38:54+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "From the developer of King of Dragon Pass, a gorgeously imagined meat grinder for hapless adventuring parties.",
+      "image": "https://cdn.mos.cms.futurecdn.net/GunBfespFrVWRVa6ZH3krS-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:50.078457+06:00",
+      "last_seen": "2026-09-09T04:45:50.078462+06:00"
+    },
+    "pcgamer.com/gaming-industry/inspired-by-the-success-of-games-like-clair-obscur-expedition-33-french-president-emmanuel-macron-declares-videogames-are-part-of-our-culture-and-announces-a-new-international-gaming-festival": {
+      "title": "Inspired by the success of games like Clair Obscur: Expedition 33, French president Emmanuel Macron declares 'videogames are part of our culture' and announces a new international gaming festival",
+      "url": "https://www.pcgamer.com/gaming-industry/inspired-by-the-success-of-games-like-clair-obscur-expedition-33-french-president-emmanuel-macron-declares-videogames-are-part-of-our-culture-and-announces-a-new-international-gaming-festival/",
+      "canonical": "pcgamer.com/gaming-industry/inspired-by-the-success-of-games-like-clair-obscur-expedition-33-french-president-emmanuel-macron-declares-videogames-are-part-of-our-culture-and-announces-a-new-international-gaming-festival",
+      "published_dt": "2026-09-09T02:45:50+06:00",
+      "published_date": "2026-09-09T02:45:50+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "It seems like Clair Obscur: Expedition 33 really made an impact on Macron.",
+      "image": "https://cdn.mos.cms.futurecdn.net/5xEP889qdEjVJSb2wrsUZj-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-09T04:45:50.078597+06:00",
+      "last_seen": "2026-09-09T04:45:50.078601+06:00",
+      "posted_at": "2026-09-09T04:49:18.349826+06:00"
+    },
+    "polygon.com/best-board-wipes-mtg-magic-gathering": {
+      "title": "20 best board wipes in Magic: The Gathering",
+      "url": "https://www.polygon.com/best-board-wipes-mtg-magic-gathering/",
+      "canonical": "polygon.com/best-board-wipes-mtg-magic-gathering",
+      "published_dt": "2026-09-09T04:00:23+06:00",
+      "published_date": "2026-09-09T04:00:23+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "From Wrath of God to Cyclonic Rift, these are the spells that turn crowded battlefields into devestation.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/damnation-mtg-art.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:50.287391+06:00",
+      "last_seen": "2026-09-09T04:45:50.287400+06:00"
+    },
+    "polygon.com/escape-academy-2-back-2-school-interview": {
+      "title": "Another Big Sequel Launches in Zelda and GTA 6’s November That You Can't Miss",
+      "url": "https://www.polygon.com/escape-academy-2-back-2-school-interview/",
+      "canonical": "polygon.com/escape-academy-2-back-2-school-interview",
+      "published_dt": "2026-09-09T04:00:23+06:00",
+      "published_date": "2026-09-09T04:00:23+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Escape Academy 2: Back 2 School is the rare game launching in November, a decision Coin Crew Games sees as an opportunity.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/escape-academy-2-back-2-school-hallway.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:50.287588+06:00",
+      "last_seen": "2026-09-09T04:45:50.287592+06:00"
+    },
+    "polygon.com/ffxiv-beastmaster-bst-beast-bestiary-locations-list-skills": {
+      "title": "Beast locations for Beastmaster's bestiary in FFXIV",
+      "url": "https://www.polygon.com/ffxiv-beastmaster-bst-beast-bestiary-locations-list-skills/",
+      "canonical": "polygon.com/ffxiv-beastmaster-bst-beast-bestiary-locations-list-skills",
+      "published_dt": "2026-09-09T03:57:23+06:00",
+      "published_date": "2026-09-09T03:57:23+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "If you want to play the new Beastmaster job in FFXIV, here's where to unlock it and where to find beasts to capture.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ffxiv_dx11_2026-09-08_16-41-09.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:50.287741+06:00",
+      "last_seen": "2026-09-09T04:45:50.287745+06:00"
+    },
+    "polygon.com/south-park-america-trey-parker-matt-stone-paramount": {
+      "title": "South Park Creators Reveal Official New Name for South Park",
+      "url": "https://www.polygon.com/south-park-america-trey-parker-matt-stone-paramount/",
+      "canonical": "polygon.com/south-park-america-trey-parker-matt-stone-paramount",
+      "published_dt": "2026-09-09T03:56:17+06:00",
+      "published_date": "2026-09-09T03:56:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "South Park is getting a new name after nearly 30 years, with Trey Parker and Matt Stone revealing the new title South America.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/530534517_1479399666397747_6886501120965791691_n.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:50.287881+06:00",
+      "last_seen": "2026-09-09T04:45:50.287885+06:00"
+    },
+    "polygon.com/remain-m-night-shyamalan-jake-gyllenhaal-trailer": {
+      "title": "M. Night Shyamalan's 2027 Thriller Looks Like a Return to Form in First Trailer",
+      "url": "https://www.polygon.com/remain-m-night-shyamalan-jake-gyllenhaal-trailer/",
+      "canonical": "polygon.com/remain-m-night-shyamalan-jake-gyllenhaal-trailer",
+      "published_dt": "2026-09-09T03:51:13+06:00",
+      "published_date": "2026-09-09T03:51:13+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Watch the first teaser trailer for Remain, M. Night Shyamalan's supernatural romance starring Jake Gyllenhaal and Phoebe Dynevor.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/remain-jake-gyllenhaal-curtain.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:50.288021+06:00",
+      "last_seen": "2026-09-09T04:45:50.288025+06:00"
+    },
+    "polygon.com/blood-of-dawnwalker-home-sweet-quest-walkthrough": {
+      "title": "'Home Sweet Home' quest walkthrough in The Blood of Dawnwalker",
+      "url": "https://www.polygon.com/blood-of-dawnwalker-home-sweet-quest-walkthrough/",
+      "canonical": "polygon.com/blood-of-dawnwalker-home-sweet-quest-walkthrough",
+      "published_dt": "2026-09-09T03:44:14+06:00",
+      "published_date": "2026-09-09T03:44:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The 'Home Sweet Home' quest in The Blood of Dawnwalker will have you trapped in a dream. Here's how to escape and help the priest with their sermon.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/home-sweet-home_tbd.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:50.288158+06:00",
+      "last_seen": "2026-09-09T04:45:50.288162+06:00"
+    },
+    "polygon.com/legend-zelda-ocarina-time-art-style-debate": {
+      "title": "The Zelda: Ocarina of Time Remake's Art Style Has Completely Divided Fans. Everyone Is Right",
+      "url": "https://www.polygon.com/legend-zelda-ocarina-time-art-style-debate/",
+      "canonical": "polygon.com/legend-zelda-ocarina-time-art-style-debate",
+      "published_dt": "2026-09-09T02:04:38+06:00",
+      "published_date": "2026-09-09T02:04:38+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The Legend of Zelda: Ocarina of Time's remade art style is already stirring debates among Nintendo fans, and for fair reasons on both sides.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_13-1.jpeg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:50.288311+06:00",
+      "last_seen": "2026-09-09T04:45:50.288317+06:00"
+    },
+    "polygon.com/new-indie-games-releases-fall-2026": {
+      "title": "15 New Fall Video Game Releases That You Don't Know About Yet",
+      "url": "https://www.polygon.com/new-indie-games-releases-fall-2026/",
+      "canonical": "polygon.com/new-indie-games-releases-fall-2026",
+      "published_dt": "2026-09-09T02:00:14+06:00",
+      "published_date": "2026-09-09T02:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The best indie games of fall 2026 include cozy puzzle games, farming sims, action adventures, and more.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lists-games-indie-1.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:50.288457+06:00",
+      "last_seen": "2026-09-09T04:45:50.288461+06:00"
+    },
+    "kotaku.com/nintendo-please-stop-making-me-use-my-phone-to-play-zelda-2000732210": {
+      "title": "Nintendo, Please Stop Making Me Use My Phone To Play Zelda",
+      "url": "https://kotaku.com/nintendo-please-stop-making-me-use-my-phone-to-play-zelda-2000732210",
+      "canonical": "kotaku.com/nintendo-please-stop-making-me-use-my-phone-to-play-zelda-2000732210",
+      "published_dt": "2026-09-09T04:30:37+06:00",
+      "published_date": "2026-09-09T04:30:37+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "I should not have to use my phone to fully experience a game's side quests in 2026",
+      "image": "https://kotaku.com/app/uploads/2026/09/zelda-notes-2-1280x705.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:50.827445+06:00",
+      "last_seen": "2026-09-09T04:45:50.827451+06:00"
+    },
+    "kotaku.com/skyrim-veteran-claims-howard-pushed-starfield-instead-of-tes-6-it-was-very-much-guess-what-team-were-making-this-space-game-2000732426": {
+      "title": "Skyrim Veteran Claims Howard Pushed Starfield Instead Of TES 6: ‘It Was Very Much, ‘Guess What, Team? We’re Making This Space Game’",
+      "url": "https://kotaku.com/skyrim-veteran-claims-howard-pushed-starfield-instead-of-tes-6-it-was-very-much-guess-what-team-were-making-this-space-game-2000732426",
+      "canonical": "kotaku.com/skyrim-veteran-claims-howard-pushed-starfield-instead-of-tes-6-it-was-very-much-guess-what-team-were-making-this-space-game-2000732426",
+      "published_dt": "2026-09-09T03:45:08+06:00",
+      "published_date": "2026-09-09T03:45:08+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "The Elder Scrolls 6 was the next obvious project after Fallout 4",
+      "image": "https://kotaku.com/app/uploads/2026/09/starfieldss-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:50.827686+06:00",
+      "last_seen": "2026-09-09T04:45:50.827691+06:00"
+    },
+    "kotaku.com/ocarina-of-time-zelda-remake-navi-voice-2000732390": {
+      "title": "Zelda: Ocarina Of Time Remake Changes One Of The Most Iconic Sounds In Gaming And It’s Weird",
+      "url": "https://kotaku.com/ocarina-of-time-zelda-remake-navi-voice-2000732390",
+      "canonical": "kotaku.com/ocarina-of-time-zelda-remake-navi-voice-2000732390",
+      "published_dt": "2026-09-09T03:00:36+06:00",
+      "published_date": "2026-09-09T03:00:36+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Listen! Listen! Listen!",
+      "image": "https://kotaku.com/app/uploads/2026/09/ocarina-of-time-navi-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:50.827833+06:00",
+      "last_seen": "2026-09-09T04:45:50.827837+06:00"
+    },
+    "kotaku.com/powerwash-simulator-weird-layoffs-powerwash-simulator-2-2000732393": {
+      "title": "PowerWash Simulator Execs Absurdly Tried To Soften The Blow Of Layoffs By Referring To Let-Go Workers As ‘The Leavers’",
+      "url": "https://kotaku.com/powerwash-simulator-weird-layoffs-powerwash-simulator-2-2000732393",
+      "canonical": "kotaku.com/powerwash-simulator-weird-layoffs-powerwash-simulator-2-2000732393",
+      "published_dt": "2026-09-09T02:30:26+06:00",
+      "published_date": "2026-09-09T02:30:26+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "The layoffs were a result of a cancelled, power washer–free project",
+      "image": "https://kotaku.com/app/uploads/2022/07/37c8993a05935d10b602cd0fe0aa71ba-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-09T04:45:50.827975+06:00",
+      "last_seen": "2026-09-09T04:45:50.827979+06:00",
+      "posted_at": "2026-09-09T04:49:28.628378+06:00"
+    },
+    "kotaku.com/25-ocarina-of-time-zelda-remake-screenshots-comparison-2000732231": {
+      "title": "25 Zelda: Ocarina Of Time Comparison Shots Showing How Lovely The Remake Looks Compared To The Original",
+      "url": "https://kotaku.com/25-ocarina-of-time-zelda-remake-screenshots-comparison-2000732231",
+      "canonical": "kotaku.com/25-ocarina-of-time-zelda-remake-screenshots-comparison-2000732231",
+      "published_dt": "2026-09-09T02:00:52+06:00",
+      "published_date": "2026-09-09T02:00:52+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Song of time",
+      "image": "https://kotaku.com/app/uploads/2026/09/ocarina-title-new-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:50.828110+06:00",
+      "last_seen": "2026-09-09T04:45:50.828114+06:00"
+    },
+    "kotaku.com/game-awards-host-geoff-keighley-and-playstation-architect-mark-cerny-will-start-giving-over-2-million-to-young-game-designers-each-year-2000732391": {
+      "title": "Game Awards Host Geoff Keighley And PlayStation Architect Mark Cerny Will Start Giving $2 Million To Young Game Designers Each Year",
+      "url": "https://kotaku.com/game-awards-host-geoff-keighley-and-playstation-architect-mark-cerny-will-start-giving-over-2-million-to-young-game-designers-each-year-2000732391",
+      "canonical": "kotaku.com/game-awards-host-geoff-keighley-and-playstation-architect-mark-cerny-will-start-giving-over-2-million-to-young-game-designers-each-year-2000732391",
+      "published_dt": "2026-09-09T01:49:04+06:00",
+      "published_date": "2026-09-09T01:49:04+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "The Nova Games Foundation is a new philanthropic initiative aimed at supporting the next generation of game makers",
+      "image": "https://kotaku.com/app/uploads/2026/09/g-eoff-cnery-1280x713.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:50.828244+06:00",
+      "last_seen": "2026-09-09T04:45:50.828247+06:00"
+    },
+    "gamesradar.com/games/as-publishers-like-sony-kill-physical-games-drm-free-store-gog-preserves-classic-big-boxes-with-3d-models-and-box-art-you-can-print-and-build-yourself": {
+      "title": "As publishers like Sony kill physical games, DRM-free store GOG preserves classic big boxes with 3D models and box art you can print and build yourself",
+      "url": "https://www.gamesradar.com/games/as-publishers-like-sony-kill-physical-games-drm-free-store-gog-preserves-classic-big-boxes-with-3d-models-and-box-art-you-can-print-and-build-yourself/",
+      "canonical": "gamesradar.com/games/as-publishers-like-sony-kill-physical-games-drm-free-store-gog-preserves-classic-big-boxes-with-3d-models-and-box-art-you-can-print-and-build-yourself",
+      "published_dt": "2026-09-09T04:40:28+06:00",
+      "published_date": "2026-09-09T04:40:28+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"What we definitely need are heroes to step forward and take good care of our games\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/iug3D4HdxcYYKVuh6RXYjZ-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:51.173325+06:00",
+      "last_seen": "2026-09-09T04:45:51.173332+06:00"
+    },
+    "gamesradar.com/games/god-of-war/kratos-actor-christopher-judge-says-god-of-war-laufey-is-a-banger-and-people-are-going-to-be-blown-away": {
+      "title": "Kratos actor Christopher Judge says God of War Laufey is \"a banger\" and \"people are going to be blown away\"",
+      "url": "https://www.gamesradar.com/games/god-of-war/kratos-actor-christopher-judge-says-god-of-war-laufey-is-a-banger-and-people-are-going-to-be-blown-away/",
+      "canonical": "gamesradar.com/games/god-of-war/kratos-actor-christopher-judge-says-god-of-war-laufey-is-a-banger-and-people-are-going-to-be-blown-away",
+      "published_dt": "2026-09-09T03:25:46+06:00",
+      "published_date": "2026-09-09T03:25:46+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The judge drops the gavel on the God of War Laufey debate",
+      "image": "https://cdn.mos.cms.futurecdn.net/eXESjQp3rquJ72YoCCPJN3-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:51.173480+06:00",
+      "last_seen": "2026-09-09T04:45:51.173484+06:00"
+    },
+    "gamesradar.com/games/action-rpg/the-biggest-l-from-soft-has-taken-in-a-long-time-emergency-elden-ring-patch-stops-players-from-getting-the-new-usd5-dlc-items-for-free": {
+      "title": "\"The biggest L From Soft has taken in a long time\": Emergency Elden Ring patch stops players from getting the new $5 DLC items for free",
+      "url": "https://www.gamesradar.com/games/action-rpg/the-biggest-l-from-soft-has-taken-in-a-long-time-emergency-elden-ring-patch-stops-players-from-getting-the-new-usd5-dlc-items-for-free/",
+      "canonical": "gamesradar.com/games/action-rpg/the-biggest-l-from-soft-has-taken-in-a-long-time-emergency-elden-ring-patch-stops-players-from-getting-the-new-usd5-dlc-items-for-free",
+      "published_dt": "2026-09-09T03:06:22+06:00",
+      "published_date": "2026-09-09T03:06:22+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "No shortcuts here, Tarnished",
+      "image": "https://cdn.mos.cms.futurecdn.net/NuGdhZbiDLzQCqjZJ4v96m-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-09T04:45:51.173624+06:00",
+      "last_seen": "2026-09-09T04:45:51.173628+06:00",
+      "posted_at": "2026-09-09T04:49:23.488516+06:00"
+    },
+    "gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games": {
+      "title": "Riot Games is considering making premium titles, says co-founder",
+      "url": "https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games",
+      "canonical": "gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games",
+      "published_dt": "2026-09-09T03:14:23+06:00",
+      "published_date": "2026-09-09T03:14:23+06:00",
+      "source": "Game Developer",
+      "region": "Gaming",
+      "excerpt": "'Not every game needs to be infinite.'",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd91808b3cb9ad307/6aa075749d9ca61597ee4626/riotgamessignfeatured.jpg?width=720&quality=80&disable=upscale",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-09T04:45:52.090046+06:00",
+      "last_seen": "2026-09-09T04:45:52.090051+06:00",
+      "posted_at": "2026-09-09T04:49:13.071441+06:00"
+    },
+    "insider-gaming.com/where-to-get-sudak-tudak-in-escape-from-tarkov-pay-the-fare": {
+      "title": "Where To Get a Sudak-Tudak in Escape from Tarkov—Pay The Fare, Explained",
+      "url": "https://insider-gaming.com/where-to-get-sudak-tudak-in-escape-from-tarkov-pay-the-fare/",
+      "canonical": "insider-gaming.com/where-to-get-sudak-tudak-in-escape-from-tarkov-pay-the-fare",
+      "published_dt": "2026-09-09T04:38:15+06:00",
+      "published_date": "2026-09-09T04:38:15+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "In Escape from Tarkov, a new item called the Sudak-Tudak helps you get to Icebreaker, but where do you find it? Find out here. The post Where To Get a Sudak-Tudak in Escape from Tarkov—Pay The Fare, Explained appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:52.506238+06:00",
+      "last_seen": "2026-09-09T04:45:52.506245+06:00"
+    },
+    "insider-gaming.com/fallout-4-mod-halts-breaking-benjamin-concert-weird": {
+      "title": "Fallout 4 Mod Halts Breaking Benjamin Concert in the Weirdest Way",
+      "url": "https://insider-gaming.com/fallout-4-mod-halts-breaking-benjamin-concert-weird/",
+      "canonical": "insider-gaming.com/fallout-4-mod-halts-breaking-benjamin-concert-weird",
+      "published_dt": "2026-09-09T04:16:35+06:00",
+      "published_date": "2026-09-09T04:16:35+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "In New Jersey, a recent Breaking Benjamin concert was halted for four minutes so the lead singer could rant about Fallout 4 mods. The post Fallout 4 Mod Halts Breaking Benjamin Concert in the Weirdest Way appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:52.506546+06:00",
+      "last_seen": "2026-09-09T04:45:52.506551+06:00"
+    },
+    "insider-gaming.com/nyt-connections-hints-solutions-september-9-1186": {
+      "title": "NYT Connections Hints Today (#1186)—Answers for Wednesday, September 9",
+      "url": "https://insider-gaming.com/nyt-connections-hints-solutions-september-9-1186/",
+      "canonical": "insider-gaming.com/nyt-connections-hints-solutions-september-9-1186",
+      "published_dt": "2026-09-09T03:57:44+06:00",
+      "published_date": "2026-09-09T03:57:44+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1186)—Answers for Wednesday, September 9 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:52.506820+06:00",
+      "last_seen": "2026-09-09T04:45:52.506825+06:00"
+    },
+    "insider-gaming.com/when-is-gorr-coming-to-marvel-rivals-season-10": {
+      "title": "When is Gorr Coming to Marvel Rivals? Season 10 Dates, Explained",
+      "url": "https://insider-gaming.com/when-is-gorr-coming-to-marvel-rivals-season-10/",
+      "canonical": "insider-gaming.com/when-is-gorr-coming-to-marvel-rivals-season-10",
+      "published_dt": "2026-09-09T03:47:16+06:00",
+      "published_date": "2026-09-09T03:47:16+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Gorr the God Butcher is a highly anticipated Marvel Rivels character, but when is he being added to the game? Let's talk dates. The post When is Gorr Coming to Marvel Rivals? Season 10 Dates, Explained appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:52.507083+06:00",
+      "last_seen": "2026-09-09T04:45:52.507087+06:00"
+    },
+    "insider-gaming.com/mark-cerny-and-geoff-keighley-launch-nova-games-foundation": {
+      "title": "Mark Cerny and Geoff Keighley Launch Nova Games Foundation",
+      "url": "https://insider-gaming.com/mark-cerny-and-geoff-keighley-launch-nova-games-foundation/",
+      "canonical": "insider-gaming.com/mark-cerny-and-geoff-keighley-launch-nova-games-foundation",
+      "published_dt": "2026-09-09T02:05:13+06:00",
+      "published_date": "2026-09-09T02:05:13+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Mark Cerny and Geoff Keighley have launched Nova Games Foundation to support 20 young game designers each year with six-figure grants. The post Mark Cerny and Geoff Keighley Launch Nova Games Foundation appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:52.507358+06:00",
+      "last_seen": "2026-09-09T04:45:52.507364+06:00"
+    },
+    "pushsquare.com/news/2026/09/you-barely-saw-sonys-zelda-movie-during-todays-anniversary-direct": {
+      "title": "You Barely Saw Sony's Zelda Movie During Today's Anniversary Direct",
+      "url": "https://www.pushsquare.com/news/2026/09/you-barely-saw-sonys-zelda-movie-during-todays-anniversary-direct",
+      "canonical": "pushsquare.com/news/2026/09/you-barely-saw-sonys-zelda-movie-during-todays-anniversary-direct",
+      "published_dt": "2026-09-09T02:45:00+06:00",
+      "published_date": "2026-09-09T02:45:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "I cried Tears (of the Kingdom). Nintendo is hosting a 40th Anniversary Direct for The Legend of Zelda tomorrow, which promises news and updates on the iconic franchise. The broadcast will of course include footage of its previously announced Ocarina of Time remake, which some expect to launch on the Switch 2 in November, right alongside GTA 6 . Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/9b72ad0ee7449/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:53.026546+06:00",
+      "last_seen": "2026-09-09T04:45:53.026551+06:00"
+    },
+    "siliconera.com/persona-tarot-deck-collection-cards-based-on-3-4-and-5": {
+      "title": "Persona Tarot Deck Collection Cards Based on 3, 4, and 5",
+      "url": "https://www.siliconera.com/persona-tarot-deck-collection-cards-based-on-3-4-and-5/",
+      "canonical": "siliconera.com/persona-tarot-deck-collection-cards-based-on-3-4-and-5",
+      "published_dt": "2026-09-09T02:00:00+06:00",
+      "published_date": "2026-09-09T02:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "The new Persona Tarot Deck Collection has cards based on 3, 4, and 5, but doesn't include any full 78-card deck.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T04:45:53.811909+06:00",
+      "last_seen": "2026-09-09T04:45:53.811916+06:00"
+    }
+  },
+  "events": {
+    "evt_8cf373aab96cab": {
+      "event_id": "evt_8cf373aab96cab",
+      "event_key": "riot games consider premium titles statement",
+      "event_subject": "Game Developer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "riot games consider premium titles statement",
+        "subject": "Game Developer",
+        "event_type": "other",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Riot Games",
+        "target": "industry observers",
+        "platforms": [],
+        "topic": "business strategy"
+      },
+      "sources": [
+        "Game Developer"
+      ],
+      "event_sources": [
+        "Game Developer"
+      ],
+      "claims": [
+        "Co‑founder says company may develop premium‑priced games"
+      ],
+      "importance_score": 48,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 14,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Riot Games Mulls Premium Titles Amid Free‑to‑Play Dominance",
+      "summary": "At PAX West, Riot co‑founder Marc Merrill hinted the studio may develop single‑purchase games, signaling a potential shift from its free‑to‑play model.",
+      "published_at": "2026-09-09T03:14:23+06:00",
+      "selected_at": "2026-09-08T22:49:13.071477+00:00",
+      "status": "published",
+      "message_id": 163,
+      "published_versions": [
+        {
+          "published_at": "2026-09-08T22:49:13.071477+00:00",
+          "headline": "Riot Games Mulls Premium Titles Amid Free‑to‑Play Dominance",
+          "claims": [
+            "Co‑founder says company may develop premium‑priced games"
+          ]
+        }
+      ]
+    },
+    "evt_491c29ce2744d3": {
+      "event_id": "evt_491c29ce2744d3",
+      "event_key": "macron international gaming festival announcement",
+      "event_subject": "PC Gamer",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "macron international gaming festival announcement",
+        "subject": "PC Gamer",
+        "event_type": "announcement",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "French Government",
+        "target": "global gaming community",
+        "platforms": [],
+        "topic": "cultural policy"
+      },
+      "sources": [
+        "PC Gamer"
+      ],
+      "event_sources": [
+        "PC Gamer"
+      ],
+      "claims": [
+        "President Macron announces new international gaming festival"
+      ],
+      "importance_score": 43,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 13,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Emmanuel Macron Declares Videogames Cultural Heritage and Announces International Festival",
+      "summary": "French President Emmanuel Macron announced a new international videogame festival, positioning games like Clair Obscur: Expedition 33 as part of France’s cultural legacy.",
+      "published_at": "2026-09-09T02:45:50+06:00",
+      "selected_at": "2026-09-08T22:49:18.349858+00:00",
+      "status": "published",
+      "message_id": 164,
+      "published_versions": [
+        {
+          "published_at": "2026-09-08T22:49:18.349858+00:00",
+          "headline": "Emmanuel Macron Declares Videogames Cultural Heritage and Announces International Festival",
+          "claims": [
+            "President Macron announces new international gaming festival"
+          ]
+        }
+      ]
+    },
+    "evt_78d4ee379257f3": {
+      "event_id": "evt_78d4ee379257f3",
+      "event_key": "elden ring emergency patch dlc price fix",
+      "event_subject": "GamesRadar+",
+      "event_type": "patch",
+      "event_frame": {
+        "event_key": "elden ring emergency patch dlc price fix",
+        "subject": "GamesRadar+",
+        "event_type": "patch",
+        "action": "release",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Elden Ring",
+        "franchise": "Elden Ring",
+        "institution": "FromSoftware",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "PS5",
+          "Xbox"
+        ],
+        "topic": "post‑launch fix"
+      },
+      "sources": [
+        "GamesRadar+"
+      ],
+      "event_sources": [
+        "GamesRadar+"
+      ],
+      "claims": [
+        "Patch stops free acquisition of $5 DLC items"
+      ],
+      "importance_score": 38,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "FromSoftware Issues Emergency Patch to Stop Free $5 Elden Ring DLC Exploit",
+      "summary": "A glitch allowed players to obtain the new $5 Tarnished Pack DLC items for free in multiplayer, prompting FromSoftware to release Patch 1.17.1 to close the loophole.",
+      "published_at": "2026-09-09T03:06:22+06:00",
+      "selected_at": "2026-09-08T22:49:23.488542+00:00",
+      "status": "published",
+      "message_id": 165,
+      "published_versions": [
+        {
+          "published_at": "2026-09-08T22:49:23.488542+00:00",
+          "headline": "FromSoftware Issues Emergency Patch to Stop Free $5 Elden Ring DLC Exploit",
+          "claims": [
+            "Patch stops free acquisition of $5 DLC items"
+          ]
+        }
+      ]
+    },
+    "evt_e9b6d37db4dbcc": {
+      "event_id": "evt_e9b6d37db4dbcc",
+      "event_key": "powerwash simulator layoffs communication criticism",
+      "event_subject": "Kotaku",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "powerwash simulator layoffs communication criticism",
+        "subject": "Kotaku",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "PowerWash Simulator",
+        "franchise": "PowerWash Simulator",
+        "institution": "",
+        "target": "industry observers",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "workforce issue"
+      },
+      "sources": [
+        "Kotaku"
+      ],
+      "event_sources": [
+        "Kotaku"
+      ],
+      "claims": [
+        "Execs refer to laid‑off staff as ‘the leavers’ after project cancellation"
+      ],
+      "importance_score": 34,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 8,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "FuturLab Layoffs Spark Controversy Over ‘The Leavers’ Terminology",
+      "summary": "FuturLab cut seven staff after cancelling a costly project, then instructed employees to refer to the dismissed workers as “the leavers.”",
+      "published_at": "2026-09-09T02:30:26+06:00",
+      "selected_at": "2026-09-08T22:49:28.628407+00:00",
+      "status": "published",
+      "message_id": 166,
+      "published_versions": [
+        {
+          "published_at": "2026-09-08T22:49:28.628407+00:00",
+          "headline": "FuturLab Layoffs Spark Controversy Over ‘The Leavers’ Terminology",
+          "claims": [
+            "Execs refer to laid‑off staff as ‘the leavers’ after project cancellation"
+          ]
+        }
+      ]
+    }
+  },
+  "event_clusters": {
+    "evt_3395d5f92efd8c": {
+      "event_id": "evt_3395d5f92efd8c",
+      "event_key": "nintendo ocarinaoftime remake release 2026",
+      "event_subject": "The Legend of Zelda: Ocarina of Time Remake",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "nintendo ocarinaoftime remake release 2026",
+        "subject": "The Legend of Zelda: Ocarina of Time Remake",
+        "event_type": "release",
+        "action": "release",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time Remake",
+        "franchise": "The Legend of Zelda",
+        "institution": "Nintendo",
+        "target": "",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "topic": "remake"
+      },
+      "modality": "unknown",
+      "topic": "remake",
+      "institution": "Nintendo",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The remake has been released/announced with visual comparison shots"
+      ],
+      "importance_score": 56,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 56
+      },
+      "last_seen": "2026-09-09T04:46:14.642788+06:00"
+    },
+    "evt_3cd2851ae280ca": {
+      "event_id": "evt_3cd2851ae280ca",
+      "event_key": "zelda 40th anniversary direct preview",
+      "event_subject": "Push Square",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "zelda 40th anniversary direct preview",
+        "subject": "Push Square",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "The Legend of Zelda",
+        "franchise": "Zelda",
+        "institution": "Nintendo",
+        "target": "fans",
+        "platforms": [
+          "Switch",
+          "Switch 2"
+        ],
+        "topic": "company event"
+      },
+      "modality": "unknown",
+      "topic": "company event",
+      "institution": "Nintendo",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Direct includes footage of Ocarina of Time remake"
+      ],
+      "importance_score": 48,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 48
+      },
+      "last_seen": "2026-09-09T04:46:14.642810+06:00"
+    },
+    "evt_8cf373aab96cab": {
+      "event_id": "evt_8cf373aab96cab",
+      "event_key": "riot games consider premium titles statement",
+      "event_subject": "Game Developer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "riot games consider premium titles statement",
+        "subject": "Game Developer",
+        "event_type": "other",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Riot Games",
+        "target": "industry observers",
+        "platforms": [],
+        "topic": "business strategy"
+      },
+      "modality": "unknown",
+      "topic": "business strategy",
+      "institution": "Riot Games",
+      "sources": [
+        "Game Developer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Co‑founder says company may develop premium‑priced games"
+      ],
+      "importance_score": 48,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 48
+      },
+      "last_seen": "2026-09-09T04:46:14.642818+06:00"
+    },
+    "evt_491c29ce2744d3": {
+      "event_id": "evt_491c29ce2744d3",
+      "event_key": "macron international gaming festival announcement",
+      "event_subject": "PC Gamer",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "macron international gaming festival announcement",
+        "subject": "PC Gamer",
+        "event_type": "announcement",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "French Government",
+        "target": "global gaming community",
+        "platforms": [],
+        "topic": "cultural policy"
+      },
+      "modality": "unknown",
+      "topic": "cultural policy",
+      "institution": "French Government",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "President Macron announces new international gaming festival"
+      ],
+      "importance_score": 43,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 43
+      },
+      "last_seen": "2026-09-09T04:46:14.642825+06:00"
+    },
+    "evt_470fda53cdb3fe": {
+      "event_id": "evt_470fda53cdb3fe",
+      "event_key": "gog 3d printable box art launch",
+      "event_subject": "GOG",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gog 3d printable box art launch",
+        "subject": "GOG",
+        "event_type": "other",
+        "action": "launch",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Various classic titles",
+        "franchise": "Various classic titles",
+        "institution": "GOG.com",
+        "target": "physical game collectors",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "digital storefront"
+      },
+      "modality": "unknown",
+      "topic": "digital storefront",
+      "institution": "GOG.com",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "GOG provides 3D printable box art for classic games"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 38
+      },
+      "last_seen": "2026-09-09T04:46:14.642831+06:00"
+    },
+    "evt_78d4ee379257f3": {
+      "event_id": "evt_78d4ee379257f3",
+      "event_key": "elden ring emergency patch dlc price fix",
+      "event_subject": "GamesRadar+",
+      "event_type": "patch",
+      "event_frame": {
+        "event_key": "elden ring emergency patch dlc price fix",
+        "subject": "GamesRadar+",
+        "event_type": "patch",
+        "action": "release",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Elden Ring",
+        "franchise": "Elden Ring",
+        "institution": "FromSoftware",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "PS5",
+          "Xbox"
+        ],
+        "topic": "post‑launch fix"
+      },
+      "modality": "unknown",
+      "topic": "post‑launch fix",
+      "institution": "FromSoftware",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Patch stops free acquisition of $5 DLC items"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 38
+      },
+      "last_seen": "2026-09-09T04:46:14.642837+06:00"
+    },
+    "evt_af3cd59b3f4d33": {
+      "event_id": "evt_af3cd59b3f4d33",
+      "event_key": "nova games foundation grant program launch 2026",
+      "event_subject": "Nova Games Foundation Grant Program",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nova games foundation grant program launch 2026",
+        "subject": "Nova Games Foundation Grant Program",
+        "event_type": "other",
+        "action": "launch",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Nova Games Foundation",
+        "target": "young game designers",
+        "platforms": [],
+        "topic": "philanthropy"
+      },
+      "modality": "unknown",
+      "topic": "philanthropy",
+      "institution": "Nova Games Foundation",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "$2 million in annual grants for emerging developers"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 38
+      },
+      "last_seen": "2026-09-09T04:46:14.642843+06:00"
+    },
+    "evt_e9b6d37db4dbcc": {
+      "event_id": "evt_e9b6d37db4dbcc",
+      "event_key": "powerwash simulator layoffs communication criticism",
+      "event_subject": "Kotaku",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "powerwash simulator layoffs communication criticism",
+        "subject": "Kotaku",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "PowerWash Simulator",
+        "franchise": "PowerWash Simulator",
+        "institution": "",
+        "target": "industry observers",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "workforce issue"
+      },
+      "modality": "unknown",
+      "topic": "workforce issue",
+      "institution": "",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Execs refer to laid‑off staff as ‘the leavers’ after project cancellation"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-09-09T04:46:14.642849+06:00"
+    },
+    "evt_345d0e49c7eeed": {
+      "event_id": "evt_345d0e49c7eeed",
+      "event_key": "fall2026 indie game releases",
+      "event_subject": "Fall 2026 Indie Game Releases",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "fall2026 indie game releases",
+        "subject": "Fall 2026 Indie Game Releases",
+        "event_type": "release",
+        "action": "release",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "new releases"
+      },
+      "modality": "unknown",
+      "topic": "new releases",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "A collection of new indie games launching in Fall 2026"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-09-09T04:46:14.642855+06:00"
+    },
+    "evt_04a4eb1792659c": {
+      "event_id": "evt_04a4eb1792659c",
+      "event_key": "blood of dawnwalker sequel development start",
+      "event_subject": "PC Gamer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blood of dawnwalker sequel development start",
+        "subject": "PC Gamer",
+        "event_type": "other",
+        "action": "start",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "The Blood of Dawnwalker",
+        "franchise": "The Blood of Dawnwalker",
+        "institution": "Rebel Wolves",
+        "target": "fans of the original",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "post‑launch development"
+      },
+      "modality": "unknown",
+      "topic": "post‑launch development",
+      "institution": "Rebel Wolves",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Developer begins work on sequel shortly after launch"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-09-09T04:46:14.642861+06:00"
+    },
+    "evt_f18b6e2ed1780a": {
+      "event_id": "evt_f18b6e2ed1780a",
+      "event_key": "escape from tarkov sudak tudak location guide",
+      "event_subject": "Insider Gaming",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "escape from tarkov sudak tudak location guide",
+        "subject": "Insider Gaming",
+        "event_type": "other",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Escape from Tarkov",
+        "franchise": "Escape from Tarkov",
+        "institution": "Escape from Tarkov",
+        "target": "players seeking item locations",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "game guide"
+      },
+      "modality": "unknown",
+      "topic": "game guide",
+      "institution": "Escape from Tarkov",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Explains where to find the Sudak‑Tudak item",
+        "Provides hints and answers for Connections puzzle #1186",
+        "Details Gorr the God Butcher addition in Season 10",
+        "Foundation launched to award six‑figure grants to 20 graduates annually"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 15,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-09-09T04:46:14.642867+06:00"
+    },
+    "evt_05267a2d0cb782": {
+      "event_id": "evt_05267a2d0cb782",
+      "event_key": "portable turbo fan product ad",
+      "event_subject": "IGN",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "portable turbo fan product ad",
+        "subject": "IGN",
+        "event_type": "other",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "consumers",
+        "platforms": [],
+        "topic": "product promotion"
+      },
+      "modality": "unknown",
+      "topic": "product promotion",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Promotes a $6 portable turbo fan for heat",
+        "Lists every Zelda title available on Switch and Switch 2 in 2026",
+        "Identifies 40 visual and UI changes in remake",
+        "Cerny and Keighley launch fellowship granting six‑figure scholarships",
+        "Shows lowest‑price memory cards for upcoming Zelda games",
+        "Original designer wants to rebalance the 1992 title",
+        "Tetris‑style game removed from White House site days after launch",
+        "AERO X16 16\" RTX 5070 laptop now $1,340 at Best Buy",
+        "Doom Slayer operator added for Halloween event"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 37
+      },
+      "last_seen": "2026-09-09T04:46:14.642874+06:00"
+    },
+    "evt_b5fd9da9b49f76": {
+      "event_id": "evt_b5fd9da9b49f76",
+      "event_key": "zelda gta6 november sequel launches",
+      "event_subject": "Polygon",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "zelda gta6 november sequel launches",
+        "subject": "Polygon",
+        "event_type": "other",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Various Zelda titles",
+        "franchise": "Zelda",
+        "institution": "Nintendo",
+        "target": "gamers",
+        "platforms": [
+          "Switch",
+          "Switch 2"
+        ],
+        "topic": "release schedule"
+      },
+      "modality": "unknown",
+      "topic": "release schedule",
+      "institution": "Nintendo",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Multiple sequels launching in November including Zelda and GTA 6"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-09T04:46:14.642879+06:00"
+    },
+    "evt_961eca66bbf448": {
+      "event_id": "evt_961eca66bbf448",
+      "event_key": "atlus persona tarot deck collection launch 2026",
+      "event_subject": "Persona Tarot Deck Collection",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "atlus persona tarot deck collection launch 2026",
+        "subject": "Persona Tarot Deck Collection",
+        "event_type": "other",
+        "action": "launch",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Persona",
+        "institution": "Atlus",
+        "target": "",
+        "platforms": [],
+        "topic": "merchandise"
+      },
+      "modality": "unknown",
+      "topic": "merchandise",
+      "institution": "Atlus",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "A tarot deck featuring cards from Persona 3, 4, and 5"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-09-09T04:46:14.642885+06:00"
+    },
+    "evt_86ccf0823f0930": {
+      "event_id": "evt_86ccf0823f0930",
+      "event_key": "magic gathering best board wipes list",
+      "event_subject": "Polygon",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "magic gathering best board wipes list",
+        "subject": "Polygon",
+        "event_type": "other",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Magic: The Gathering",
+        "institution": "",
+        "target": "MTG players",
+        "platforms": [],
+        "topic": "game strategy"
+      },
+      "modality": "unknown",
+      "topic": "game strategy",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Ranks 20 top board‑wipe spells",
+        "Lists beast locations for Beastmaster job",
+        "First teaser trailer for 2027 thriller 'Remain' released",
+        "Provides step‑by‑step guide for 'Home Sweet Home' quest",
+        "Art style of remake divides community"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-09T04:46:14.642891+06:00"
+    },
+    "evt_93f65a36b99e10": {
+      "event_id": "evt_93f65a36b99e10",
+      "event_key": "south park new name announcement",
+      "event_subject": "Polygon",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "south park new name announcement",
+        "subject": "Polygon",
+        "event_type": "announcement",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "South Park",
+        "institution": "",
+        "target": "fans",
+        "platforms": [],
+        "topic": "brand change"
+      },
+      "modality": "unknown",
+      "topic": "brand change",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Series will be renamed 'South America'"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-09T04:46:14.642897+06:00"
+    },
+    "evt_4ec6352f4f2833": {
+      "event_id": "evt_4ec6352f4f2833",
+      "event_key": "god of war laufey actor christopher judge comment",
+      "event_subject": "GamesRadar+",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "god of war laufey actor christopher judge comment",
+        "subject": "GamesRadar+",
+        "event_type": "other",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "God of War",
+        "franchise": "God of War",
+        "institution": "Sony",
+        "target": "fans",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "media reaction"
+      },
+      "modality": "unknown",
+      "topic": "media reaction",
+      "institution": "Sony",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Actor calls Laufey a 'banger' and predicts strong reaction"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-09-09T04:46:14.642903+06:00"
+    },
+    "evt_81dfa80d825a81": {
+      "event_id": "evt_81dfa80d825a81",
+      "event_key": "nintendo zelda mobile sidequest complaint",
+      "event_subject": "Kotaku",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo zelda mobile sidequest complaint",
+        "subject": "Kotaku",
+        "event_type": "other",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "The Legend of Zelda",
+        "franchise": "Zelda",
+        "institution": "Nintendo",
+        "target": "Nintendo fans",
+        "platforms": [
+          "Switch",
+          "Mobile"
+        ],
+        "topic": "player experience"
+      },
+      "modality": "unknown",
+      "topic": "player experience",
+      "institution": "Nintendo",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Players should not need phones for Zelda side quests",
+        "Highlights alteration of a classic sound effect"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-09-09T04:46:14.642909+06:00"
+    },
+    "evt_d8a9987e1afe97": {
+      "event_id": "evt_d8a9987e1afe97",
+      "event_key": "skyrim veteran howard starfield vs tes6 claim",
+      "event_subject": "Kotaku",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "skyrim veteran howard starfield vs tes6 claim",
+        "subject": "Kotaku",
+        "event_type": "other",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Starfield",
+        "franchise": "The Elder Scrolls",
+        "institution": "Bethesda",
+        "target": "gaming community",
+        "platforms": [
+          "PC",
+          "Xbox"
+        ],
+        "topic": "development rumor"
+      },
+      "modality": "unknown",
+      "topic": "development rumor",
+      "institution": "Bethesda",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Alleged that Howard pushed Starfield over TES 6"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-09-09T04:46:14.642915+06:00"
+    },
+    "evt_8183bde73d347d": {
+      "event_id": "evt_8183bde73d347d",
+      "event_key": "fallout 4 mod concert interruption report",
+      "event_subject": "Insider Gaming",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fallout 4 mod concert interruption report",
+        "subject": "Insider Gaming",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Fallout 4",
+        "franchise": "Fallout",
+        "institution": "",
+        "target": "general audience",
+        "platforms": [],
+        "topic": "cultural crossover"
+      },
+      "modality": "unknown",
+      "topic": "cultural crossover",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "A Fallout 4 mod caused a concert pause"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 37
+      },
+      "last_seen": "2026-09-09T04:46:14.642922+06:00"
+    },
+    "evt_f1cab1b4236a34": {
+      "event_id": "evt_f1cab1b4236a34",
+      "event_key": "breaking benjamin concert fallout mod feud",
+      "event_subject": "IGN",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "breaking benjamin concert fallout mod feud",
+        "subject": "IGN",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Fallout 4",
+        "franchise": "Fallout",
+        "institution": "",
+        "target": "music and gaming fans",
+        "platforms": [],
+        "topic": "celebrity‑gaming interaction"
+      },
+      "modality": "unknown",
+      "topic": "celebrity‑gaming interaction",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Band frontman halted concert to discuss Fallout 4 mod feud"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-09T04:46:14.642932+06:00"
+    },
+    "evt_1052865e0d03cc": {
+      "event_id": "evt_1052865e0d03cc",
+      "event_key": "thousand hells tactical narrative review",
+      "event_subject": "PC Gamer",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "thousand hells tactical narrative review",
+        "subject": "PC Gamer",
+        "event_type": "review",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Thousand Hells",
+        "franchise": "Thousand Hells",
+        "institution": "",
+        "target": "strategy RPG fans",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "game review"
+      },
+      "modality": "unknown",
+      "topic": "game review",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Describes narrative depth and brutal difficulty"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-09T04:46:14.642938+06:00"
+    },
+    "evt_4f7880b4e8136c": {
+      "event_id": "evt_4f7880b4e8136c",
+      "event_key": "snoop doggs biopic casting notorious big",
+      "event_subject": "IGN",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "snoop doggs biopic casting notorious big",
+        "subject": "IGN",
+        "event_type": "other",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "biopic fans",
+        "platforms": [],
+        "topic": "film casting"
+      },
+      "modality": "unknown",
+      "topic": "film casting",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Swayvo Twain cast as Notorious B.I.G. in Snoop Dogg biopic"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-09T04:46:14.642945+06:00"
+    }
+  },
+  "posted_event_ids": [
+    "evt_8cf373aab96cab",
+    "evt_491c29ce2744d3",
+    "evt_78d4ee379257f3",
+    "evt_e9b6d37db4dbcc"
+  ],
+  "recent_titles": [
+    "riot games mulls premium titles amid free to play dominance",
+    "emmanuel macron declares videogames cultural heritage and announces international festival",
+    "fromsoftware issues emergency patch to stop free 5 elden ring dlc exploit",
+    "futurlab layoffs spark controversy over the leavers terminology"
+  ],
+  "category_coverage": {
+    "Game Updates": "2026-09-09T04:49:28.628421+06:00",
+    "Major Releases": "2026-09-09T04:49:23.488555+06:00"
+  }
 }
