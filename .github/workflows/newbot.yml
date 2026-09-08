@@ -1,4 +1,4 @@
-name: GamingNewsroom V3.1
+name: Gaming News Bot
 
 on:
   schedule:
@@ -22,7 +22,7 @@ jobs:
       EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
       CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-      TELEGRAM_CHANNEL: "@GamingNewsroom"
+      TELEGRAM_CHANNEL: "@Gaming News Bot"
       NEWS_MODE: "update"
       PYTHONUNBUFFERED: "1"
 
@@ -50,7 +50,7 @@ jobs:
       - name: Run self-test
         run: python main.py --self-test
 
-      - name: Run GamingNewsroom
+      - name: Run Gaming News Bot
         run: python main.py
 
       - name: Save state
@@ -63,6 +63,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No state changes to commit."
           else
-            git commit -m "Update GamingNewsroom state"
+            git commit -m "Update Gaming News Bot state"
             git push
           fi
