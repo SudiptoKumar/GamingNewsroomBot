@@ -1,4 +1,4 @@
-name: GamingNewsroom V2
+name: GamingNewsroom
 
 on:
   schedule:
@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: gamingnewsroom-v2
+  group: gamingnewsroom
   cancel-in-progress: false
 
 jobs:
