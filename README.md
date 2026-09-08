@@ -1,208 +1,100 @@
-# GamingNewsroom V1
+# GamingNewsroom Bot V2
 
-> Automated gaming news intelligence for Telegram, powered by GitHub Actions, Exa, and Cerebras.
+Event-intelligence gaming news publisher for `@GamingNewsroom`.
 
-GamingNewsroom discovers, filters, ranks, verifies, and publishes up to six high-value gaming stories per run. All eligible stories compete in one ranked gaming pool, and the bot publishes the strongest available stories rather than forcing weak category quotas.
+## V2 objective
 
-## Editorial Mission
-
-The channel is for gamers and gaming enthusiasts across PlayStation, Xbox, PC, and mobile. It prioritizes developments with meaningful player, platform, game, studio, publisher, industry, security, pricing, subscription, multiplayer, esports, or hardware impact.
-
-Routine patches, minor fixes, unsupported rumors, promotional material, duplicate coverage, opinion-only pieces, and very niche stories are normally rejected unless the underlying event is genuinely significant.
-
-## Six-Story Hourly Structure
-
-Each scheduled run targets:
+V2 treats a **news event**, not an article, as the unit of selection. It keeps the full evidence cluster, separates coverage/originality/significance, remembers previously published events, detects material updates, selects a diverse slate, and generates a Telegram post only after the event is selected.
 
 ```text
-6 gaming stories
+RSS / Web Sources
+        ↓
+Raw Articles
+        ↓
+Normalize + Hard Dedup
+        ↓
+Gaming Event Frame
+        ↓
+Event Clustering + Cannot-Link Rules
+        ↓
+Persistent Event Record
+        ↓
+Cross-Run Event Matching
+        ↓
+Material-Change Detection
+        ↓
+Coverage + Originality + Significance
+        ↓
+Importance Score 0–100
+        ↓
+Threshold ≥ 80
+        ↓
+Editorial Slate Selection
+        ↓
+Best Representative
+        ↓
+Grounded Post Generation
+        ↓
+Publication Validator
+        ↓
+Telegram
+        ↓
+Event Memory
 ```
 
-All eligible stories compete in one ranked pool. The bot may publish fewer than six when insufficient high-quality candidates remain.
+## Scoring model
 
-## Primary Source Universe
+Every event gets one explainable 0–100 score:
 
-The primary source universe contains 20 gaming publications:
+- Significance: 0–45
+- Coverage: 0–20
+- Originality: 0–15
+- Freshness: 0–10
+- Source trust: 0–10
+- A material-update bonus of up to 5 points is applied inside the 100-point cap when a previously published event has a verified material development.
 
-| Source | Domain |
-|---|---|
-| IGN | `ign.com` |
-| GameSpot | `gamespot.com` |
-| VGC | `vgc.news` / `videogameschronicle.com` |
-| Eurogamer | `eurogamer.net` |
-| Gematsu | `gematsu.com` |
-| PC Gamer | `pcgamer.com` |
-| Polygon | `polygon.com` |
-| Kotaku | `kotaku.com` |
-| GamesRadar+ | `gamesradar.com` |
-| Rock Paper Shotgun | `rockpapershotgun.com` |
-| Game Developer | `gamedeveloper.com` |
-| Insider Gaming | `insider-gaming.com` |
-| Nintendo Life | `nintendolife.com` |
-| Push Square | `pushsquare.com` |
-| Pure Xbox | `purexbox.com` |
-| Shacknews | `shacknews.com` |
-| Siliconera | `siliconera.com` |
-| VG247 | `vg247.com` |
-| TechRaptor | `techraptor.net` |
-| The Escapist | `escapistmagazine.com` |
+Coverage uses distinct sources and a conservative effective-independent-source estimate. Raw article count is never treated as raw corroboration.
 
-RSS is attempted first. Google News RSS and Exa provide gap-fill discovery using the same allowed gaming domains.
+## Event identity
 
-## Editorial Ranking
+The event frame tracks the concrete game, institution, event type, action, target, platforms, modality, and claims. Modalities such as `confirmed`, `reported`, `rumored`, and `denied` are kept distinct. The clustering layer has cannot-link rules so a broad franchise/company match cannot swallow unrelated events.
 
-The ranking pass scores each candidate from 0-10 based on actual significance, not headline excitement.
+## Cross-run memory
 
-```text
-9-10  Exceptional industry/player impact
-7-8   Clearly important gaming news
-4-6   Interesting but usually not publishable
-0-3   Low-value, repetitive, routine, promotional, rumor/speculation, or niche
-```
+`news_state.json` stores the event record, claims, published versions, evidence sources, and score components. A new article about a previously published event is suppressed unless a material new development is verified.
 
-A story is publishable only when its importance score is at least 7. Duplicate events are collapsed before downstream processing.
+`posted_urls.txt` remains as a URL audit/compatibility history, but it is not the primary event-memory mechanism.
 
-## 24-Hour Rolling Window
+## Publication safety
 
-Every run examines a rolling 24-hour discovery window with a small future tolerance for feed timestamp skew. Persistent state, posted URLs, and event memory prevent repeated publication across hourly runs.
+A selected event is the only unit handed to the post generator. Before publication the bot validates required sections, threshold, completeness, and stray Markdown characters such as `*`.
 
-## Discovery Flow
+## Configuration
 
-```text
-RSS feeds
-   ↓
-Google News RSS gap fill
-   ↓
-Exa gap fill
-   ↓
-Source validation
-   ↓
-24-hour filtering
-   ↓
-URL deduplication
-   ↓
-Event deduplication
-   ↓
-LLM editorial ranking
-   ↓
-Top gaming events
-   ↓
-Article extraction
-   ↓
-Story generation
-   ↓
-Numeric grounding + claim verification
-   ↓
-Branded image
-   ↓
-Telegram Rich Message
-   ↓
-Persistent state
-```
+Required GitHub Secrets:
 
-## Telegram Output Structure
+- `EXA_API_KEY`
+- `CEREBRAS_API_KEY`
+- `TELEGRAM_BOT_TOKEN`
 
-Every published story follows this order:
+Optional environment variables:
 
-```text
-Photo
-Headline
-1-sentence news summary
-[platform shown as a centered quote block]
-## KEY HIGHLIGHTS
-• Major fact
-• Major fact
-• Major fact
-... (3-5 dynamically)
-## WHY IT MATTERS
-2-4 sentences of editorial context.
-[WHAT'S NEXT appears inside a collapsed-by-default block]
-#hashtag #hashtag #hashtag
-**Source:** [Publication]
-```
+- `PUBLISH_SCORE_THRESHOLD` (default `80`)
+- `MAX_POSTS_PER_RUN` (default `20`)
+- `EVENT_IDENTITY_BATCH_SIZE` (default `35`)
+- `TELEGRAM_ADMIN_CHAT_ID`
 
-### Dynamic Key Highlights
+## GitHub Actions
 
-The `KEY HIGHLIGHTS` section is dynamic. The generator may produce **3, 4, or 5 concise factual highlights**, choosing the count that best represents the story without padding or repetition.
+The workflow runs hourly from 07:00 through 23:00 Asia/Dhaka and saves `news_state.json` and `posted_urls.txt` after the run.
 
-### Platform Quote Block
+## Testing
 
-The affected platform is shown as a centered quote-style block using exactly one of:
-
-```text
-PlayStation
-Xbox
-PC Game
-Mobile Game
-```
-
-### What's Next
-
-`WHAT'S NEXT` is rendered as a Telegram expandable blockquote and is **collapsed by default**. Players can expand it when they want the forward-looking context.
-
-### Content Rules
-
-- Headline: 6-14 words, accurate and newspaper-style.
-- Summary: exactly one complete sentence.
-- Highlights: 3-5 concise factual points.
-- Why It Matters: 2-4 complete sentences of editorial context.
-- What's Next: 1-2 complete sentences about what players should watch.
-
-## Image Pipeline
-
-The bot extracts an article image where possible, resizes/crops it to the 1200×675 card format, adds the `@GamingNewsroom` brand chip, and uses a generated gaming-news fallback card when no usable source image exists.
-
-## Verification
-
-The bot uses two verification passes:
-
-1. Numeric grounding checks generated numeric facts against the article.
-2. Claim verification checks the generated headline, summary, and highlights against the article.
-
-Failed verification causes regeneration or candidate rejection rather than unsupported publication.
-
-## Scheduling
-
-The included GitHub Actions workflow runs hourly from **07:00 through 23:00 Asia/Dhaka** and also supports manual execution.
-
-## Required Secrets
-
-```text
-EXA_API_KEY
-CEREBRAS_API_KEY
-TELEGRAM_BOT_TOKEN
-```
-
-Optional:
-
-```text
-TELEGRAM_ADMIN_CHAT_ID
-CEREBRAS_MODEL
-```
-
-The workflow sets:
-
-```text
-TELEGRAM_CHANNEL=@GamingNewsroom
-NEWS_MODE=update
-```
-
-## Local Checks
-
-Compile:
+Run locally:
 
 ```bash
-python -m py_compile main.py
+PYTHONPATH=. pytest -q tests
+python -m py_compile main.py event_engine.py article_normalizer.py event_store.py scoring.py slate_selector.py post_validator.py
 ```
 
-Self-test:
-
-```bash
-EXA_API_KEY=dummy CEREBRAS_API_KEY=dummy TELEGRAM_BOT_TOKEN=dummy python main.py --self-test
-```
-
-Normal run:
-
-```bash
-python main.py
-```
+`python main.py --self-test` is also supported after production dependencies and required environment variables are available. The self-test uses fake AI responses and does not publish to Telegram.
