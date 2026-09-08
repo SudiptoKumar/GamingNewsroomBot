@@ -1,4 +1,4 @@
-name: GamingNewsroom V1
+name: GamingNewsroom V2
 
 on:
   schedule:
@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: gamingnewsroom-v1
+  group: gamingnewsroom-v2
   cancel-in-progress: false
 
 jobs:
@@ -45,7 +45,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Verify Python source
-        run: python -m py_compile main.py
+        run: python -m py_compile main.py event_engine.py article_normalizer.py event_store.py scoring.py slate_selector.py post_validator.py
 
       - name: Run self-test
         run: python main.py --self-test
@@ -54,7 +54,7 @@ jobs:
         run: python main.py
 
       - name: Save state
-        if: always()
+        if: success()
         run: |
           git config user.name "Gaming News Bot"
           git config user.email "actions@github.com"
