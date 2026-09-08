@@ -1,125 +1,73 @@
-# GamingNewsroomBot V3.1
+# Gaming News Bot
 
-Automated high-signal gaming news publisher for `@GamingNewsroom`, powered by RSS/Exa discovery, a single Cerebras AI provider, GitHub Actions, and Telegram.
+A single-provider Telegram gaming news bot that checks every configured gaming publication on a short 1–6 hour window, groups coverage by the underlying news event, and selects the strongest unique stories for the audience.
 
-## Editorial goal
-
-Publish important gaming developments without turning one hot game or franchise into the whole edition. The bot is score-based, not quota-driven: the editorial AI considers a broader strong-news pool, then the final gate normally requires **70/100 or higher**. Scores of **80+** are treated as preferred/top-tier stories. A second same-game or same-franchise story is normally suppressed unless it is genuinely independent and exceptionally important.
-
-## Pipeline
+## Core method
 
 ```text
-20 gaming sources
-       ↓
-RSS + Google News + Exa gap-fill
-       ↓
-Normalize + hard URL dedup
-       ↓
-AI event identity
-       ↓
-Event clustering / cannot-link rules
-       ↓
-Cross-run history + material-update check
-       ↓
-AI significance + deterministic evidence scoring
-       ↓
-Importance score 0–100
-       ↓
-Broad editorial candidate pool (default ≥60)
-       ↓
-AI editorial slate selection  ← chooses what should coexist in one run
-       ↓
-Hard publication floor (default ≥70); 80 is the preferred/top-tier score
-       ↓
-Python hard diversity guard
-       ↓
-Best representative article
-       ↓
-Grounded Telegram post generation
-       ↓
-Post validator
-       ↓
+20 configured gaming websites
+        ↓
+1–6 hour news window (default: 3h)
+        ↓
+Check every source
+        ↓
+Normalize + hard deduplicate
+        ↓
+Group articles by underlying event
+        ↓
+100+ articles about the same development
+        → 1 event group
+        ↓
+Choose the best representative coverage
+        ↓
+Cerebras editorial selection
+        ↓
+Normally max 1 story per game/title per run
+        ↓
+Evidence + post validation
+        ↓
 Telegram
-       ↓
-Persistent event memory
 ```
 
-## Scoring
+The bot does **not** use a fixed publishing quota. It can publish zero to `MAX_POSTS_PER_RUN` stories, depending on the news available.
 
-Each event receives:
+## Selection rules
 
-- Significance: 0–45 (AI)
-- Coverage: 0–20
-- Originality: 0–15
-- Freshness: 0–10
-- Source trust: 0–10
-- Material-update bonus: up to 5 within the 100-point cap
+* Every configured source is checked each run.
+* The active window is configurable from 1 to 6 hours. Default is 3 hours.
+* Articles are grouped by the real underlying event, not just headline similarity.
+* Twenty sites covering one GTA 6 development become one event group, not twenty posts.
+* Different developments for the same game are still separate event groups, but the final slate normally publishes only **one story per game/title**.
+* Different games can be published together.
+* The editorial model selects audience value, importance, freshness, originality, impact, and source quality.
+* Python enforces hard duplicate and safety rules after the AI decision.
+* No multi-AI architecture. Cerebras is the only AI provider.
 
-The score measures the event, not how many articles repeat it.
-
-## Editorial slate selection
-
-The strongest broad candidate pool is presented to one final AI editor as a slate. This is deliberately separate from scoring: the AI decides which stories deserve to coexist in one edition rather than simply taking the top numeric scores. The editor is instructed to avoid:
-
-- duplicate events
-- unnecessary multiple stories about the same game
-- unnecessary multiple stories about the same franchise
-- unnecessary multiple stories about the same underlying topic
-
-Different stories from the same publisher or platform are allowed when they are genuinely independent. A second same-franchise story is allowed only when it is materially different and exceptionally important.
-
-Python then applies a deterministic hard guard to reject unsafe AI selections. If the AI selection fails, the deterministic guard remains the fallback.
-
-## Cross-run memory
-
-`news_state.json` stores event frames, evidence, claims, scores, and publication history. Previously published events are suppressed unless a material new development is verified. `posted_urls.txt` remains a secondary URL audit.
-
-## Publication safety
-
-Generation occurs only after event selection. The validator rejects incomplete posts, below-threshold stories, Markdown leaks such as stray `*`, and other structural failures before Telegram publication.
-
-## Configuration
-
-Required GitHub Secrets:
+## Configurable environment
 
 ```text
-EXA_API_KEY
-CEREBRAS_API_KEY
-TELEGRAM_BOT_TOKEN
-```
-
-Optional environment variables:
-
-```text
-PUBLISH_SCORE_THRESHOLD=80
-EDITORIAL_CANDIDATE_THRESHOLD=60
-MIN_PUBLISH_SCORE=70
-MAX_POSTS_PER_RUN=20
-EVENT_IDENTITY_BATCH_SIZE=35
-TELEGRAM_ADMIN_CHAT_ID=
+CEREBRAS_API_KEY=...
 CEREBRAS_MODEL=gpt-oss-120b
+EXA_API_KEY=...
+TELEGRAM_BOT_TOKEN=...
+TELEGRAM_CHANNEL=@GamingNewsroom
+TELEGRAM_ADMIN_CHAT_ID=...        # optional
+NEWS_WINDOW_HOURS=3               # 1–6
+EDITORIAL_EVENT_POOL_SIZE=50      # event groups sent to editor
+MAX_POSTS_PER_RUN=20              # safety ceiling, not a target
 ```
 
-There is **one AI provider only: Cerebras**. No multi-provider router is used.
+## Source universe
 
-## GitHub Actions
+IGN, GameSpot, VGC, Eurogamer, Gematsu, PC Gamer, Polygon, Kotaku, GamesRadar+, Rock Paper Shotgun, Game Developer, Insider Gaming, Nintendo Life, Push Square, Pure Xbox, Shacknews, Siliconera, VG247, TechRaptor, and The Escapist.
 
-The workflow runs hourly from 07:00 through 23:00 Asia/Dhaka and supports manual dispatch. State is committed only after a successful run.
-
-## Local testing
-
-```bash
-PYTHONPATH=. pytest -q tests
-python -m py_compile main.py event_engine.py article_normalizer.py event_store.py scoring.py slate_selector.py post_validator.py
-```
-
-`python main.py --self-test` is an offline regression test of event intelligence and message safety. It does not publish to Telegram.
-
-## Repository tree
+## Repository
 
 ```text
-GamingNewsroomBot/
-├── .github/workflows/newbot.yml
+Gaming News Bot/
+├── .github/
+│   └── workflows/
+│       └── newbot.yml
 ├── tests/
 │   ├── test_event_engine.py
 │   └── test_engine_regression.py
@@ -135,3 +83,18 @@ GamingNewsroomBot/
 ├── requirements.txt
 └── README.md
 ```
+
+## Testing
+
+Run:
+
+```bash
+pytest -q tests
+python -m py_compile main.py event_engine.py article_normalizer.py event_store.py scoring.py slate_selector.py post_validator.py
+python main.py --self-test
+```
+
+The self-test uses mocked AI responses and does not publish to Telegram.
+
+## Repository structure
+This repository intentionally keeps the production tree minimal, matching the requested GitHub view: `.github/workflows/`, `README.md`, `main.py`, `news_state.json`, `posted_urls.txt`, and `requirements.txt`. The supporting production components are consolidated into `main.py` so no additional Python files appear in the repository root.

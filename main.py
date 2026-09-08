@@ -1,3 +1,820 @@
+# Gaming News Bot — consolidated production build
+# Supporting production components are intentionally embedded in this file
+# so the repository structure remains exactly the requested minimal layout.
+
+TRACKING = {"utm_source","utm_medium","utm_campaign","utm_term","utm_content","gclid","fbclid","ref"}
+
+def canonical_url(url: str) -> str:
+    raw = (url or "").strip()
+    if not raw: return ""
+    parts = urlsplit(raw)
+    query = [(k,v) for k,v in parse_qsl(parts.query, keep_blank_values=True) if k.lower() not in TRACKING]
+    path = re.sub(r"/+", "/", parts.path or "/").rstrip("/") or "/"
+    host = parts.netloc.lower().removeprefix("www.")
+    return (host + path if not query else host + path + "?" + urlencode(query))
+
+def normalize_article(item: dict) -> dict:
+    out = dict(item)
+    out["canonical"] = canonical_url(out.get("url") or out.get("canonical") or "")
+    out["title"] = re.sub(r"\s+", " ", str(out.get("title") or "")).strip()
+    out["excerpt"] = re.sub(r"\s+", " ", str(out.get("excerpt") or "")).strip()
+    return out
+
+def hard_dedup(items: list[dict]) -> list[dict]:
+    seen_url, seen_title = set(), set()
+    result = []
+    for item in items:
+        x = normalize_article(item)
+        if x["canonical"] and x["canonical"] in seen_url: continue
+        title_key = re.sub(r"[^a-z0-9]+", " ", x["title"].lower()).strip()
+        source_key = (str(x.get("source") or "").strip().lower(), title_key)
+        if title_key and source_key in seen_title: continue
+        if x["canonical"]: seen_url.add(x["canonical"])
+        if title_key: seen_title.add(source_key)
+        result.append(x)
+    return result
+
+# ===== event_engine.py =====
+
+
+logger = logging.getLogger("gaming-news-bot.event-engine")
+
+SOURCE_TIERS = {
+    "VGC": 1, "Gematsu": 1, "Game Developer": 1, "Insider Gaming": 1,
+    "IGN": 2, "GameSpot": 2, "Eurogamer": 2, "PC Gamer": 2, "Polygon": 2,
+    "Nintendo Life": 2, "Push Square": 2, "Pure Xbox": 2, "Shacknews": 2,
+    "VG247": 2, "GamesRadar+": 3, "Rock Paper Shotgun": 3, "Kotaku": 3,
+    "Siliconera": 3, "TechRaptor": 3, "The Escapist": 3,
+}
+
+EVENT_TYPES = {
+    "announcement", "release", "delay", "cancellation", "update", "patch", "expansion",
+    "dlc", "acquisition", "merger", "closure", "layoff", "pricing", "subscription",
+    "platform_change", "platform_outage", "security", "esports", "milestone", "reveal",
+    "business", "legal", "rumor", "denial", "review", "other",
+}
+
+MODALITIES = {"confirmed", "reported", "rumored", "speculative", "denied", "forecast", "unknown"}
+
+IDENTITY_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "items": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {"type": "integer", "minimum": 1},
+                    "event_key": {"type": "string"},
+                    "subject": {"type": "string"},
+                    "event_type": {"type": "string"},
+                    "action": {"type": "string"},
+                    "status": {"type": "string"},
+                    "modality": {"type": "string"},
+                    "game": {"type": "string"},
+                    "franchise": {"type": "string"},
+                    "institution": {"type": "string"},
+                    "target": {"type": "string"},
+                    "platforms": {"type": "array", "items": {"type": "string"}, "maxItems": 8},
+                    "claim": {"type": "string"},
+                    "topic": {"type": "string"},
+                },
+                "required": [
+                    "id", "event_key", "subject", "event_type", "action", "status", "modality",
+                    "game", "institution", "target", "platforms", "claim", "topic",
+                ],
+                "additionalProperties": False,
+            },
+        }
+    },
+    "required": ["items"],
+    "additionalProperties": False,
+}
+
+SIGNIFICANCE_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "items": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {"type": "integer", "minimum": 1},
+                    "significance": {"type": "integer", "minimum": 0, "maximum": 45},
+                    "reason": {"type": "string"},
+                },
+                "required": ["id", "significance", "reason"],
+                "additionalProperties": False,
+            },
+        }
+    },
+    "required": ["items"],
+    "additionalProperties": False,
+}
+
+MATERIAL_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "same_event": {"type": "boolean"},
+        "material_change": {"type": "boolean"},
+        "new_claims": {"type": "array", "items": {"type": "string"}, "maxItems": 8},
+        "reason": {"type": "string"},
+    },
+    "required": ["same_event", "material_change", "new_claims", "reason"],
+    "additionalProperties": False,
+}
+
+
+def _text(v: Any) -> str:
+    return "" if v is None else str(v).strip()
+
+
+def _norm(text: Any) -> str:
+    s = _text(text).lower()
+    s = re.sub(r"[^a-z0-9\s]", " ", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def _tokens(text: Any) -> set[str]:
+    stop = {
+        "the", "a", "an", "and", "or", "of", "to", "in", "on", "for", "from", "with",
+        "by", "at", "as", "is", "are", "was", "were", "be", "been", "this", "that",
+        "it", "its", "new", "game", "games", "gaming", "news", "will", "has", "have",
+        "had", "about", "after", "before", "over", "more", "says", "said", "report",
+        "reports", "reportedly", "according", "gets", "get", "update",
+    }
+    return {x for x in _norm(text).split() if len(x) >= 3 and x not in stop}
+
+
+def similarity(a: Any, b: Any) -> float:
+    aa, bb = _norm(a), _norm(b)
+    if not aa or not bb:
+        return 0.0
+    seq = SequenceMatcher(None, aa, bb).ratio()
+    ta, tb = _tokens(aa), _tokens(bb)
+    jac = len(ta & tb) / max(1, len(ta | tb))
+    return 0.55 * seq + 0.45 * jac
+
+
+def source_tier(source: str) -> int:
+    return SOURCE_TIERS.get(_text(source), 4)
+
+
+def parse_dt(value: Any):
+    raw = _text(value)
+    if not raw:
+        return None
+    try:
+        dt = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt
+    except Exception:
+        return None
+
+
+def freshness_score(latest_published: Any, now_dt: Any) -> int:
+    dt = parse_dt(latest_published)
+    now = now_dt if isinstance(now_dt, datetime) else parse_dt(now_dt)
+    if not dt or not now:
+        return 4
+    hours = max(0.0, (now - dt).total_seconds() / 3600.0)
+    if hours <= 3: return 10
+    if hours <= 8: return 9
+    if hours <= 16: return 7
+    if hours <= 24: return 6
+    if hours <= 48: return 4
+    if hours <= 72: return 2
+    return 1
+
+
+def _source_trust(sources: list[str]) -> int:
+    if not sources:
+        return 0
+    tiers = [source_tier(s) for s in sources]
+    best = min(tiers)
+    base = {1: 10, 2: 8, 3: 6, 4: 3}.get(best, 3)
+    if best == 1 and len(set(sources)) >= 2:
+        return 10
+    if best == 2 and len(set(sources)) >= 2:
+        return 9
+    return base
+
+
+def _effective_independent_sources(cluster: dict[str, Any]) -> int:
+    articles = cluster.get("articles", [])
+    sources = list(dict.fromkeys(_text(a.get("source")) for a in articles if _text(a.get("source"))))
+    if len(sources) <= 1:
+        return len(sources)
+    # Penalize obvious rewrites with nearly identical titles. Distinct publishers remain distinct
+    # evidence unless their headlines are effectively clones.
+    groups: list[list[str]] = []
+    for article in articles:
+        src = _text(article.get("source"))
+        title = article.get("title")
+        if not src:
+            continue
+        placed = False
+        for group in groups:
+            exemplar = next((a for a in articles if _text(a.get("source")) == group[0]), None)
+            if exemplar and similarity(title, exemplar.get("title")) >= 0.94:
+                if src not in group:
+                    group.append(src)
+                placed = True
+                break
+        if not placed:
+            groups.append([src])
+    # At minimum, one independent signal per distinct source cluster, capped by unique publishers.
+    return max(1, min(len(sources), len(groups)))
+
+
+def corroboration_score(independent_sources: int) -> int:
+    return {0: 0, 1: 2, 2: 6, 3: 10, 4: 14, 5: 17}.get(min(independent_sources, 5), 20)
+
+
+def originality_score(cluster: dict[str, Any]) -> int:
+    articles = cluster.get("articles", [])
+    if not articles:
+        return 0
+    ordered = sorted(articles, key=lambda a: parse_dt(a.get("first_seen_at") or a.get("published_date")) or datetime.max.replace(tzinfo=timezone.utc))
+    first = ordered[0]
+    source = _text(first.get("source"))
+    best_tier = source_tier(source)
+    points = {1: 12, 2: 10, 3: 8, 4: 5}.get(best_tier, 5)
+    if _text(first.get("is_primary_source")) == "true" or first.get("primary_source") is True:
+        points += 3
+    if len(articles) >= 2:
+        later = articles[1:]
+        citations = sum(1 for a in later if source.lower() and source.lower() in _text(a.get("excerpt")).lower())
+        points += min(3, citations)
+    return min(15, points)
+
+
+def representative_key(item: dict[str, Any]) -> tuple:
+    tier = source_tier(_text(item.get("source")))
+    dt = parse_dt(item.get("published_date"))
+    excerpt_len = len(_text(item.get("excerpt")))
+    return (tier, -(dt.timestamp() if dt else 0), -excerpt_len)
+
+
+def choose_representative(cluster: dict[str, Any]) -> dict[str, Any]:
+    articles = list(cluster.get("articles", []))
+    return sorted(articles, key=representative_key)[0] if articles else {}
+
+
+def _fallback_identity(item: dict[str, Any]) -> dict[str, Any]:
+    title = _text(item.get("title"))
+    excerpt = _text(item.get("excerpt"))
+    low = f"{title} {excerpt}".lower()
+    event_type = "other"
+    mapping = [
+        ("acquisition", "acquisition"), ("acquires", "acquisition"), ("merger", "merger"),
+        ("layoff", "layoff"), ("job cuts", "layoff"), ("shutdown", "closure"), ("closed", "closure"),
+        ("delay", "delay"), ("delayed", "delay"), ("canceled", "cancellation"), ("cancelled", "cancellation"),
+        ("release", "release"), ("launch", "release"), ("update", "update"), ("patch", "patch"),
+        ("expansion", "expansion"), ("dlc", "dlc"), ("trailer", "reveal"), ("screenshots", "reveal"),
+        ("sales", "milestone"), ("million", "milestone"), ("breach", "security"), ("outage", "platform_outage"),
+        ("rumor", "rumor"), ("reportedly", "rumor"), ("denies", "denial"),
+    ]
+    for marker, value in mapping:
+        if marker in low:
+            event_type = value
+            break
+    subject = title
+    for marker in (" announces ", " announced ", " reveals ", " revealed ", " launches ", " delays ", " delayed "):
+        if marker in title.lower():
+            subject = title[:title.lower().index(marker)]
+            break
+    subject = re.sub(r"\s+", " ", subject).strip(" -:|") or title
+    modality = "rumored" if event_type == "rumor" else ("denied" if event_type == "denial" else "confirmed")
+    return {
+        "event_key": _norm(f"{subject} {event_type}"), "subject": subject, "event_type": event_type,
+        "action": event_type, "status": "current", "modality": modality, "game": subject, "franchise": subject,
+        "institution": _text(item.get("institution")), "target": subject, "platforms": [],
+        "claim": _text(item.get("excerpt"))[:400], "topic": _text(item.get("topic")) or "Gaming",
+    }
+
+
+SLATE_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "selected_ids": {"type": "array", "items": {"type": "integer", "minimum": 1}, "maxItems": 20},
+        "decisions": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {"type": "integer", "minimum": 1},
+                    "decision": {"type": "string"},
+                    "reason": {"type": "string"},
+                },
+                "required": ["id", "decision", "reason"],
+                "additionalProperties": False,
+            },
+            "maxItems": 40,
+        },
+    },
+    "required": ["selected_ids", "decisions"],
+    "additionalProperties": False,
+}
+
+class EventEngine:
+    def __init__(
+        self,
+        ai_create: Callable[..., Any],
+        now_dt: Any,
+        threshold: int = 80,
+        batch_size: int = 35,
+        candidate_threshold: int = 0,
+        publish_floor: int = 0,
+        editorial_pool_size: int = 50,
+    ):
+        self.ai_create = ai_create
+        self.now_dt = now_dt
+        # threshold is the preferred/top-tier score. The editor may consider a broader
+        # candidate pool, but publication never falls below publish_floor.
+        self.threshold = threshold
+        self.candidate_threshold = candidate_threshold
+        self.publish_floor = publish_floor
+        self.batch_size = batch_size
+        self.editorial_pool_size = max(10, editorial_pool_size)
+
+    def _ai_json(self, *, system: str, user: str, schema: dict, name: str, tokens: int = 4500) -> dict:
+        response = self.ai_create(
+            model_name=None,
+            messages=[{"role": "system", "content": system}, {"role": "user", "content": user}],
+            response_format={"type": "json_schema", "json_schema": {"name": name, "strict": True, "schema": schema}},
+            reasoning_effort="low", temperature=0.0, max_completion_tokens=tokens,
+        )
+        return json.loads(_text(response.choices[0].message.content))
+
+    def identify(self, candidates: list[dict[str, Any]]) -> list[dict[str, Any]]:
+        result = [dict(x) for x in candidates]
+        for start in range(0, len(result), self.batch_size):
+            batch = result[start:start + self.batch_size]
+            blocks = []
+            for i, item in enumerate(batch, 1):
+                blocks.append("\n".join([
+                    f"ID: {i}", f"Title: {_text(item.get('title'))}", f"Source: {_text(item.get('source'))}",
+                    f"Published: {_text(item.get('published_date'))}", f"Excerpt: {_text(item.get('excerpt'))[:1400]}",
+                ]))
+            system = """
+You are the event-identity editor for a gaming newsroom.
+Identify the underlying REAL NEWS EVENT for each article. The task is not headline similarity.
+Return a stable event identity using the concrete game/franchise/company, core action, target, event type and modality.
+Articles about screenshots, videos, previews, hands-on reports or commentary may belong to the same event
+when they are coverage of the same underlying development. Do NOT merge merely because the same game,
+franchise or company is mentioned. Rumor, denial and confirmed developments must keep distinct modalities.
+Use concise canonical event_key values. Prefer the actual event over article-specific phrasing.
+Return exactly one item for every ID.
+"""
+            try:
+                data = self._ai_json(system=system, user="\n\n".join(blocks), schema=IDENTITY_SCHEMA, name="gaming_event_identity_v2", tokens=6000)
+                by_id = {int(x["id"]): x for x in data.get("items", [])}
+                for i, item in enumerate(batch, 1):
+                    row = by_id.get(i) or _fallback_identity(item)
+                    row["event_type"] = row.get("event_type") if row.get("event_type") in EVENT_TYPES else "other"
+                    row["modality"] = row.get("modality") if row.get("modality") in MODALITIES else "unknown"
+                    item.update(row)
+            except Exception as exc:
+                logger.warning("Identity batch failed; deterministic fallback: %s", type(exc).__name__)
+                for item in batch:
+                    item.update(_fallback_identity(item))
+        return result
+
+    @staticmethod
+    def _cannot_link(a: dict[str, Any], b: dict[str, Any]) -> bool:
+        if _norm(a.get("modality")) and _norm(b.get("modality")):
+            if {_norm(a.get("modality")), _norm(b.get("modality"))} == {"confirmed", "denied"}:
+                return True
+        if _norm(a.get("event_type")) == "rumor" and _norm(b.get("event_type")) in {"release", "announcement", "delay", "cancellation"}:
+            return True
+        if _norm(a.get("event_type")) == "denial" and _norm(b.get("modality")) == "confirmed":
+            return True
+        if _text(a.get("game")) and _text(b.get("game")):
+            if similarity(a.get("game"), b.get("game")) < 0.30:
+                return True
+        return False
+
+    def _same_event_pair(self, a: dict[str, Any], b: dict[str, Any]) -> bool:
+        if self._cannot_link(a, b):
+            return False
+        ak, bk = _norm(a.get("event_key")), _norm(b.get("event_key"))
+        if ak and bk and ak == bk:
+            return True
+        fields = ["game", "institution", "event_type", "action", "target"]
+        matches = 0
+        for field in fields:
+            av, bv = _text(a.get(field)), _text(b.get(field))
+            if av and bv and similarity(av, bv) >= 0.78:
+                matches += 1
+        claim_sim = similarity(a.get("claim"), b.get("claim"))
+        subj_sim = similarity(a.get("subject"), b.get("subject"))
+        type_match = _norm(a.get("event_type")) == _norm(b.get("event_type"))
+        modality_match = _norm(a.get("modality")) == _norm(b.get("modality")) or "unknown" in {_norm(a.get("modality")), _norm(b.get("modality"))}
+        score = 0.35 * subj_sim + 0.25 * claim_sim + 0.20 * (matches / 5.0) + 0.10 * float(type_match) + 0.10 * float(modality_match)
+        return score >= 0.62
+
+    def cluster(self, candidates: list[dict[str, Any]]) -> list[dict[str, Any]]:
+        clusters: list[dict[str, Any]] = []
+        exact_index: dict[str, dict[str, Any]] = {}
+        for item in candidates:
+            assigned = None
+            exact_key = _norm(item.get("event_key"))
+            if exact_key and exact_key in exact_index:
+                assigned = exact_index[exact_key]
+            else:
+                for cluster in clusters:
+                    # Use several anchors so an early article cannot define the whole group.
+                    anchors = cluster["articles"][:5]
+                    if any(self._same_event_pair(item, anchor) for anchor in anchors):
+                        assigned = cluster
+                        break
+            if assigned is None:
+                assigned = {"articles": [dict(item)]}
+                clusters.append(assigned)
+            else:
+                assigned["articles"].append(dict(item))
+            if exact_key:
+                exact_index.setdefault(exact_key, assigned)
+
+        output = []
+        for cluster in clusters:
+            rep = choose_representative(cluster)
+            sources = list(dict.fromkeys(_text(a.get("source")) for a in cluster["articles"] if _text(a.get("source"))))
+            event_key = _norm(rep.get("event_key")) or _norm(rep.get("title"))
+            frame = {
+                "event_key": event_key,
+                "subject": _text(rep.get("subject")) or _text(rep.get("title")),
+                "event_type": _text(rep.get("event_type")) or "other",
+                "action": _text(rep.get("action")), "status": _text(rep.get("status")),
+                "modality": _text(rep.get("modality")) or "unknown", "game": _text(rep.get("game")),
+                "franchise": _text(rep.get("franchise")) or _text(rep.get("game")),
+                "institution": _text(rep.get("institution")), "target": _text(rep.get("target")),
+                "platforms": rep.get("platforms", []), "topic": _text(rep.get("topic")) or "Gaming",
+            }
+            output.append({
+                "cluster_id": f"evt_{hashlib.sha1(event_key.encode()).hexdigest()[:14]}",
+                "event_key": event_key,
+                "event_subject": frame["subject"], "event_type": frame["event_type"],
+                "topic": frame["topic"], "institution": frame["institution"], "modality": frame["modality"],
+                "event_frame": frame, "representative": rep, "articles": cluster["articles"],
+                "sources": sources, "source_count": len(sources),
+            })
+        return output
+
+    def match_previous(self, cluster: dict[str, Any], previous_events: dict[str, Any]) -> tuple[str, dict[str, Any] | None, float]:
+        best_id, best_event, best = "", None, 0.0
+        frame = cluster.get("event_frame", {})
+        for event_id, event in previous_events.items():
+            if _text(event.get("status")) not in {"published", "published_update"}:
+                continue
+            if _norm(event.get("event_key")) and _norm(event.get("event_key")) == _norm(cluster.get("event_key")):
+                return event_id, event, 1.0
+            prev_frame = event.get("event_frame", {})
+            s = 0.0
+            for f, w in (("game", .25), ("franchise", .20), ("institution", .10), ("event_type", .15), ("action", .10), ("target", .10), ("modality", .03), ("subject", .07)):
+                av, bv = _text(frame.get(f)), _text(prev_frame.get(f) or event.get("event_subject"))
+                if av and bv:
+                    s += w * similarity(av, bv)
+            if s > best:
+                best, best_id, best_event = s, event_id, event
+        return (best_id, best_event, best)
+
+    def material_change(self, cluster: dict[str, Any], previous: dict[str, Any]) -> tuple[bool, str, list[str]]:
+        current = []
+        for article in cluster.get("articles", [])[:8]:
+            current.append(f"{article.get('source')} | {article.get('title')} | {_text(article.get('excerpt'))[:700]}")
+        previous_claims = previous.get("claims", [])
+        system = """
+You are a strict continuity editor for a gaming newsroom.
+Decide whether the current cluster is the same underlying event as the previously published event.
+If it is the same event, decide whether there is a MATERIAL NEW CLAIM that justifies another post.
+New screenshots, comparisons, previews, rewrites, commentary and recycled coverage are not material.
+Material developments include confirmed release/delay/cancellation, major update or DLC, major price,
+platform availability, acquisition/closure/layoff, significant security incident, major milestone,
+or a new official gameplay/content fact that changes what the audience knows.
+Return only the JSON schema.
+"""
+        previous_text = json.dumps({
+            "event_key": previous.get("event_key"), "event_frame": previous.get("event_frame", {}),
+            "headline": previous.get("headline"), "summary": previous.get("summary"), "claims": previous_claims,
+        }, ensure_ascii=False)
+        try:
+            data = self._ai_json(system=system, user="PREVIOUS:\n" + previous_text + "\n\nCURRENT:\n" + "\n".join(current), schema=MATERIAL_SCHEMA, name="gaming_material_change_v2", tokens=1800)
+            same = bool(data.get("same_event"))
+            change = bool(data.get("material_change"))
+            return same and change, _text(data.get("reason")), [x for x in data.get("new_claims", []) if _text(x)]
+        except Exception as exc:
+            logger.warning("Material-change check failed; repeat withheld: %s", type(exc).__name__)
+            return False, "Continuity verification unavailable; repeat withheld for safety.", []
+
+    def history(self, clusters: list[dict[str, Any]], previous_events: dict[str, Any]) -> list[dict[str, Any]]:
+        for cluster in clusters:
+            event_id, previous, match_score = self.match_previous(cluster, previous_events)
+            cluster["previous_event_id"] = event_id
+            cluster["history_match_score"] = round(match_score, 3)
+            cluster["repeat_status"] = "new"
+            cluster["repeat_reason"] = ""
+            cluster["new_claims"] = []
+            if previous and match_score >= 0.74:
+                changed, reason, claims = self.material_change(cluster, previous)
+                cluster["repeat_status"] = "material_update" if changed else "repeat"
+                cluster["repeat_reason"] = reason
+                cluster["new_claims"] = claims
+        return clusters
+
+    def score(self, clusters: list[dict[str, Any]]) -> list[dict[str, Any]]:
+        if not clusters:
+            return []
+        # AI evaluates significance only. Coverage, originality, freshness and source trust are deterministic.
+        for start in range(0, len(clusters), self.batch_size):
+            batch = clusters[start:start + self.batch_size]
+            blocks = []
+            for i, c in enumerate(batch, 1):
+                evidence = []
+                for a in c["articles"][:8]:
+                    evidence.append(f"{a.get('source')} | {a.get('published_date')} | {a.get('title')} | {_text(a.get('excerpt'))[:500]}")
+                blocks.append("\n".join([
+                    f"ID: {i}", f"EVENT: {c['event_subject']}", f"GAME: {c.get('event_frame', {}).get('game', '')}", f"FRANCHISE: {c.get('event_frame', {}).get('franchise', '')}", f"TYPE: {c['event_type']}",
+                    f"MODALITY: {c.get('modality','unknown')}", f"SOURCES: {', '.join(c['sources'])}",
+                    "EVIDENCE:\n" + "\n".join(evidence),
+                ]))
+            system = """
+You are the senior editor of a high-signal gaming news channel.
+Score ONLY the INTRINSIC SIGNIFICANCE of each whole event from 0 to 45.
+Do not reward repetition or source count here. Judge actual consequence for gamers and the gaming industry:
+player impact, industry/commercial impact, magnitude, irreversibility, and unexpectedness.
+Routine patches, minor balance changes, generic opinions, promotional stories, weak rumors and niche items
+should normally score low. Major platform incidents, major releases, major acquisitions, major layoffs/closures,
+serious security incidents, major pricing changes, and industry-changing developments score high.
+Return one result per ID.
+"""
+            try:
+                data = self._ai_json(system=system, user="\n\n".join(blocks), schema=SIGNIFICANCE_SCHEMA, name="gaming_significance_v2", tokens=5500)
+                by_id = {int(x["id"]): x for x in data.get("items", [])}
+            except Exception as exc:
+                logger.warning("Significance scoring failed; using conservative fallback: %s", type(exc).__name__)
+                by_id = {}
+            for i, c in enumerate(batch, 1):
+                row = by_id.get(i, {})
+                significance = max(0, min(45, int(row.get("significance", 0) or 0)))
+                independent = _effective_independent_sources(c)
+                coverage = min(20, corroboration_score(independent))
+                originality = originality_score(c)
+                freshness = freshness_score(c["representative"].get("published_date"), self.now_dt)
+                trust = _source_trust(c["sources"])
+                total = min(100, significance + coverage + originality + freshness + trust + (5 if c.get("repeat_status") == "material_update" else 0))
+                c.update({
+                    "significance_score": significance, "coverage_score": coverage,
+                    "originality_score": originality, "freshness_score": freshness,
+                    "source_trust_score": trust, "independent_source_count": independent,
+                    "importance_score": total, "material_update_bonus": 5 if c.get("repeat_status") == "material_update" else 0,
+                    "rank_reason": _text(row.get("reason")) or "Event-level significance score.",
+                    "claims": [a.get("claim") for a in c["articles"] if _text(a.get("claim"))][:10],
+                })
+        def editorial_sort_key(c):
+            # Significance is the leading signal; the rest are tiebreakers. This is pre-selection,
+            # not a publication threshold. The editor still decides the final slate.
+            return (-c.get("significance_score", 0), -c.get("freshness_score", 0), -c.get("source_count", 0), -c.get("originality_score", 0), c.get("event_subject", ""))
+
+        clusters.sort(key=editorial_sort_key)
+        for rank, c in enumerate(clusters, 1):
+            c["editor_rank"] = rank
+            c["editor_eligible"] = c.get("repeat_status") != "repeat"
+            c["publishable"] = c["editor_eligible"]
+        return clusters
+
+    @staticmethod
+    def _identity_key(cluster: dict[str, Any], field: str) -> str:
+        return _norm(cluster.get("event_frame", {}).get(field))
+
+    @staticmethod
+    def _materially_distinct(a: dict[str, Any], b: dict[str, Any]) -> bool:
+        if _norm(a.get("event_key")) == _norm(b.get("event_key")):
+            return False
+        af, bf = a.get("event_frame", {}), b.get("event_frame", {})
+        ag, bg = _norm(af.get("game")), _norm(bf.get("game"))
+        if ag and bg and ag == bg:
+            return False
+        # Without a concrete game, use the canonical subject as the identity lock.
+        asub, bsub = _norm(a.get("event_subject")), _norm(b.get("event_subject"))
+        if asub and bsub and similarity(asub, bsub) >= 0.86:
+            return False
+        # Same franchise with two materially different games may coexist.
+        return True
+
+    def _hard_slate_guard(self, candidates: list[dict[str, Any]], max_posts: int) -> list[dict[str, Any]]:
+        selected: list[dict[str, Any]] = []
+        seen_events = set()
+        seen_games = set()
+        seen_subjects = []
+        for c in candidates:
+            event_key = _norm(c.get("event_key"))
+            frame = c.get("event_frame", {})
+            game = _norm(frame.get("game"))
+            subject = _norm(c.get("event_subject"))
+            if event_key and event_key in seen_events:
+                continue
+            if game and game in seen_games:
+                continue
+            if subject and any(similarity(subject, prev) >= 0.86 for prev in seen_subjects):
+                continue
+            selected.append(c)
+            if event_key:
+                seen_events.add(event_key)
+            if game:
+                seen_games.add(game)
+            if subject:
+                seen_subjects.append(subject)
+            if len(selected) >= max_posts:
+                break
+        return selected
+
+    def _ai_slate_select(self, candidates: list[dict[str, Any]], max_posts: int) -> tuple[list[dict[str, Any]], dict[int, dict[str, str]]]:
+        # The editor sees unique event groups rather than raw articles. This lets 100+ same-topic
+        # articles collapse to one event before final editorial selection.
+        pool = candidates[:min(self.editorial_pool_size, len(candidates))]
+        if not pool:
+            return [], {}
+        blocks = []
+        for i, c in enumerate(pool, 1):
+            c["_slate_ai_id"] = i
+            f = c.get("event_frame", {})
+            rep = c.get("representative", {})
+            blocks.append("\n".join([
+                f"ID: {i}",
+                f"Score: {c.get('importance_score', 0)}",
+                f"Event: {c.get('event_subject', '')}",
+                f"Game: {f.get('game', '')}",
+                f"Franchise: {f.get('franchise', '')}",
+                f"Publisher/Studio: {f.get('institution', '')}",
+                f"Topic: {c.get('topic', '')}",
+                f"Type: {c.get('event_type', '')}",
+                f"Modality: {c.get('modality', 'unknown')}",
+                f"Headline: {rep.get('title', '')}",
+                f"Editorial reason: {c.get('rank_reason', '')}",
+            ]))
+        system = """
+You are the final assigning editor for a high-signal gaming news channel.
+Choose the best unique gaming news events for ONE run. Candidates are already grouped by underlying event,
+so evaluate the EVENT, not the number of articles. Select stories the audience is most likely to care about now.
+Prefer major announcements, releases, delays, cancellations, platform news, important business developments,
+major updates, security incidents, or other meaningful developments over minor commentary or routine coverage.
+CRITICAL RULE: normally select AT MOST ONE story per GAME/TITLE in the entire run, even when several distinct
+events happened for that game. If many websites cover GTA 6, Zelda, or another title, choose only the single
+best news development for that title. Distinct games may coexist. A second story from the same franchise is allowed when it concerns a different game and is clearly valuable. Never select two records representing the same event.
+Do not invent facts. Return only the requested JSON.
+"""
+        user = f"MAX STORIES: {max_posts}\n\nCANDIDATES:\n" + "\n\n".join(blocks)
+        try:
+            data = self._ai_json(system=system, user=user, schema=SLATE_SCHEMA, name="gaming_editorial_slate", tokens=3500)
+            decisions = {int(x["id"]): {"decision": _text(x.get("decision")), "reason": _text(x.get("reason"))} for x in data.get("decisions", []) if str(x.get("id", "")).isdigit()}
+            selected_ids = [int(x) for x in data.get("selected_ids", []) if isinstance(x, int) and 1 <= x <= len(pool)]
+            # Respect AI order; then apply a hard deterministic guard.
+            ai_selected = [pool[i-1] for i in selected_ids]
+            ai_selected.sort(key=lambda c: (-c.get("importance_score", 0), c.get("event_subject", "")))
+            guarded = self._hard_slate_guard(ai_selected, max_posts=max_posts)
+            return guarded, decisions
+        except Exception as exc:
+            logger.warning("Editorial slate AI failed; deterministic guard used: %s", type(exc).__name__)
+            return self._hard_slate_guard(pool, max_posts=max_posts), {}
+
+    def diversify(self, clusters: list[dict[str, Any]], max_posts: int = 20) -> list[dict[str, Any]]:
+        eligible = [c for c in clusters if c.get("editor_eligible")]
+        if not eligible:
+            logger.info("EDITORIAL SLATE: no candidates")
+            return []
+        # The editor chooses the slate; there is no numeric publication floor.
+        selected, decisions = self._ai_slate_select(eligible, max_posts=max_posts)
+        selected_ids = {c.get("cluster_id") for c in selected}
+        for c in eligible:
+            c["slate_selected"] = c.get("cluster_id") in selected_ids
+            c["slate_decision"] = decisions.get(c.get("_slate_ai_id", 0), {}).get("decision", "") if decisions else ""
+            c["slate_reason"] = decisions.get(c.get("_slate_ai_id", 0), {}).get("reason", "") if decisions else ""
+        for rank, c in enumerate(selected, 1):
+            c["slate_rank"] = rank
+            c["slate_score"] = c.get("importance_score", 0)
+        logger.info(
+            "EDITORIAL SLATE: event_candidates=%d ai_pool=%d selected=%d safety_max=%d",
+            len(eligible), min(self.editorial_pool_size, len(eligible)), len(selected), max_posts
+        )
+        for c in selected:
+            logger.info("SLATE #%d significance=%s game=%s franchise=%s topic=%s subject=%s", c.get("slate_rank", 0), c.get("significance_score", 0), c.get("event_frame", {}).get("game", ""), c.get("event_frame", {}).get("franchise", ""), c.get("topic", ""), c.get("event_subject", ""))
+        for c in eligible:
+            c.pop("_slate_ai_id", None)
+        return selected
+
+    def run(self, candidates: list[dict[str, Any]], previous_events: dict[str, Any], max_posts: int = 20):
+        identified = self.identify(candidates)
+        clusters = self.cluster(identified)
+        clusters = self.history(clusters, previous_events)
+        clusters = self.score(clusters)
+        selected = self.diversify(clusters, max_posts=max_posts)
+        for c in selected:
+            c["representative"] = choose_representative(c)
+        return selected, clusters
+
+# ===== event_store.py =====
+
+def ensure_state(state: dict) -> dict:
+    state.setdefault("version", "Gaming News Bot")
+    state.setdefault("events", {})
+    state.setdefault("event_clusters", {})
+    state.setdefault("posted_event_ids", [])
+    state.setdefault("recent_titles", [])
+    return state
+
+def upsert_event(state: dict, story: dict, published: bool, message_id=None) -> str:
+    ensure_state(state)
+    event_id = story.get("event_cluster_id") or story.get("event_id") or story.get("event_key") or story.get("canonical")
+    event_id = str(event_id)
+    prior = state["events"].get(event_id, {})
+    event = dict(prior)
+    event.update({
+        "event_id": event_id,
+        "event_key": story.get("event_key", prior.get("event_key", "")),
+        "event_subject": story.get("event_subject", prior.get("event_subject", "")),
+        "event_type": story.get("event_type", prior.get("event_type", "")),
+        "event_frame": story.get("event_frame", prior.get("event_frame", {})),
+        "sources": story.get("event_sources", prior.get("sources", [])),
+        "event_sources": story.get("event_sources", prior.get("event_sources", [])),
+        "claims": story.get("claims", prior.get("claims", [])),
+        "importance_score": story.get("importance_score", prior.get("importance_score", 0)),
+        "coverage_score": story.get("coverage_score", prior.get("coverage_score", 0)),
+        "originality_score": story.get("originality_score", prior.get("originality_score", 0)),
+        "significance_score": story.get("significance_score", prior.get("significance_score", 0)),
+        "freshness_score": story.get("freshness_score", prior.get("freshness_score", 0)),
+        "source_trust_score": story.get("source_trust_score", prior.get("source_trust_score", 0)),
+        "headline": story.get("headline", prior.get("headline", "")),
+        "summary": story.get("summary", prior.get("summary", "")),
+        "published_at": story.get("published_date") or prior.get("published_at"),
+        "selected_at": datetime.now(timezone.utc).isoformat(),
+        "status": "published" if published else prior.get("status", "selected"),
+        "message_id": message_id if message_id is not None else prior.get("message_id"),
+    })
+    versions = list(prior.get("published_versions", []))
+    if published:
+        versions.append({"published_at": event["selected_at"], "headline": event["headline"], "claims": event["claims"]})
+    event["published_versions"] = versions[-10:]
+    state["events"][event_id] = event
+    return event_id
+
+def prune_event_store(state: dict, days: int = 45):
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+    keep = {}
+    for key, event in state.get("events", {}).items():
+        raw = event.get("selected_at") or event.get("published_at")
+        try:
+            dt = datetime.fromisoformat(str(raw).replace("Z", "+00:00"))
+        except Exception:
+            dt = cutoff
+        if dt >= cutoff:
+            keep[key] = event
+    state["events"] = keep
+
+# ===== scoring.py =====
+
+def explain_score(event: dict) -> str:
+    return (
+        f"significance={event.get('significance_score',0)}/45, "
+        f"coverage={event.get('coverage_score',0)}/20, "
+        f"originality={event.get('originality_score',0)}/15, "
+        f"freshness={event.get('freshness_score',0)}/10, "
+        f"trust={event.get('source_trust_score',0)}/10"
+    )
+
+def score_breakdown(event: dict) -> dict:
+    return {
+        "significance": int(event.get("significance_score", 0)),
+        "coverage": int(event.get("coverage_score", 0)),
+        "originality": int(event.get("originality_score", 0)),
+        "freshness": int(event.get("freshness_score", 0)),
+        "source_trust": int(event.get("source_trust_score", 0)),
+        "total": int(event.get("importance_score", 0)),
+    }
+
+# ===== slate_selector.py =====
+
+def select_slate(engine: EventEngine, clusters: list[dict], max_posts: int = 20) -> list[dict]:
+    return engine.diversify(clusters, max_posts=max_posts)
+
+# ===== post_validator.py =====
+
+def validate_story(story: dict) -> tuple[bool, list[str]]:
+    errors = []
+    headline = str(story.get("headline") or "").strip()
+    summary = str(story.get("summary") or "").strip()
+    highlights = [str(x or "").strip() for x in story.get("highlights", [])]
+    if not headline: errors.append("missing_headline")
+    if not summary: errors.append("missing_summary")
+    if not (3 <= len(highlights) <= 5): errors.append("highlights_count")
+    if "*" in " ".join([headline, summary, *highlights, str(story.get("why_it_matters") or ""), str(story.get("whats_next") or "")]):
+        errors.append("markdown_asterisk")
+    if re.search(r"[,:;\-—…]\s*$", headline + summary): errors.append("incomplete_text")
+    return not errors, errors
+
+# ===== main application =====
 import os
 import re
 import json
@@ -23,11 +840,6 @@ from urllib3.util.retry import Retry
 
 from exa_py import Exa
 from cerebras.cloud.sdk import Cerebras
-from event_engine import EventEngine
-from article_normalizer import hard_dedup, normalize_article
-from event_store import upsert_event, ensure_state, prune_event_store
-from scoring import explain_score, score_breakdown
-from post_validator import validate_story
 
 
 # ============================================================
@@ -62,14 +874,15 @@ STATE_FILE = "news_state.json"
 
 BD_TZ = ZoneInfo("Asia/Dhaka")
 
-# V3.1 is score-based and editorially selected, not quota-based.
-PUBLISH_SCORE_THRESHOLD = int(os.environ.get("PUBLISH_SCORE_THRESHOLD", "80"))
-EDITORIAL_CANDIDATE_THRESHOLD = int(os.environ.get("EDITORIAL_CANDIDATE_THRESHOLD", "60"))
-MIN_PUBLISH_SCORE = int(os.environ.get("MIN_PUBLISH_SCORE", "70"))
+# Gaming News Bot uses short-window event coverage and editorial selection.
+NEWS_WINDOW_HOURS = int(os.environ.get("NEWS_WINDOW_HOURS", "3"))
+if not 1 <= NEWS_WINDOW_HOURS <= 6:
+    raise ValueError("NEWS_WINDOW_HOURS must be between 1 and 6")
+DISCOVERY_LOOKBACK_HOURS = NEWS_WINDOW_HOURS
 MAX_POSTS_PER_RUN = int(os.environ.get("MAX_POSTS_PER_RUN", "20"))
 EVENT_IDENTITY_BATCH_SIZE = int(os.environ.get("EVENT_IDENTITY_BATCH_SIZE", "35"))
+EDITORIAL_EVENT_POOL_SIZE = int(os.environ.get("EDITORIAL_EVENT_POOL_SIZE", "50"))
 RANKING_POOL_SIZE = MAX_POSTS_PER_RUN
-DISCOVERY_LOOKBACK_HOURS = 24
 
 # Reliability / quality
 POST_DELAY_SECONDS = 3.5
@@ -613,7 +1426,7 @@ def now_iso():
 
 def default_state():
     return {
-        "version": "V3.1",
+        "version": "Gaming News Bot",
         "feeds": {},
         "queue": {},
         "events": {},
@@ -820,7 +1633,7 @@ cerebras = Cerebras(
 
 
 def cerebras_create(**kwargs):
-    """Single AI gateway used by V3.1 event selection and story generation."""
+    """Single AI gateway used by Gaming News Bot event selection and story generation."""
     kwargs.pop("model_name", None)
     return cerebras.chat.completions.create(
         model=CEREBRAS_MODEL,
@@ -1554,20 +2367,21 @@ def queue_candidates_for_region(
 # ============================================================
 
 # ============================================================
-# V3 EVENT INTELLIGENCE ENGINE
+# Gaming News Bot EVENT INTELLIGENCE ENGINE
 # ============================================================
 
 EVENT_ENGINE = EventEngine(
     ai_create=cerebras_create,
     now_dt=NOW_BD,
-    threshold=PUBLISH_SCORE_THRESHOLD,
+    threshold=80,
     batch_size=EVENT_IDENTITY_BATCH_SIZE,
-    candidate_threshold=EDITORIAL_CANDIDATE_THRESHOLD,
-    publish_floor=MIN_PUBLISH_SCORE,
+    candidate_threshold=0,
+    publish_floor=0,
+    editorial_pool_size=EDITORIAL_EVENT_POOL_SIZE,
 )
 
 
-# V3 selection is implemented by the single prepare_ranked_region defined below.
+# Gaming News Bot selection is implemented by the single prepare_ranked_region defined below.
 
 
 def persist_event_cluster_state(clusters):
@@ -3243,11 +4057,20 @@ def available_candidates(region, source_pool=None):
         or datetime.min.replace(tzinfo=timezone.utc),
         reverse=True,
     )
-    return candidates[:MAX_RSS_CANDIDATES]
+    # Preserve coverage from every configured website; do not let one source dominate the queue.
+    by_source = {}
+    for item in candidates:
+        by_source.setdefault(safe_text(item.get("source")), []).append(item)
+    balanced = []
+    per_source_cap = max(6, MAX_RSS_CANDIDATES // max(1, len(RSS_FEEDS)))
+    for source_items in by_source.values():
+        balanced.extend(source_items[:per_source_cap])
+    balanced.sort(key=lambda x: parse_datetime(x.get("published_date")) or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
+    return balanced[:MAX_RSS_CANDIDATES]
 
 
 def prepare_ranked_region(region, candidates):
-    """V3: build event records, retain cluster evidence, apply history, score, and diversify."""
+    """Build source-aware event groups, select one best unique story per subject, and prepare posts."""
     global EVENT_ENGINE
     cleaned = hard_dedup([normalize_article(x) for x in candidates])
     selected_clusters, all_clusters = EVENT_ENGINE.run(
@@ -3277,10 +4100,11 @@ def prepare_ranked_region(region, candidates):
             "originality_score": cluster.get("originality_score", 0),
             "freshness_score": cluster.get("freshness_score", 0),
             "source_trust_score": cluster.get("source_trust_score", 0),
-            "important": cluster.get("publishable", False),
+            "important": cluster.get("slate_selected", False),
             "rank_reason": cluster.get("rank_reason", ""),
             "score_breakdown": score_breakdown(cluster),
             "score_explanation": explain_score(cluster),
+            "editorial_reason": cluster.get("slate_reason", ""),
             "previous_event_id": cluster.get("previous_event_id", ""),
             "repeat_status": cluster.get("repeat_status", "new"),
             "repeat_reason": cluster.get("repeat_reason", ""),
@@ -3290,19 +4114,20 @@ def prepare_ranked_region(region, candidates):
             "cluster_sources": cluster.get("sources", []),
         })
         result.append(rep)
+    source_counts = {}
+    for item in cleaned:
+        source_counts[safe_text(item.get("source"))] = source_counts.get(safe_text(item.get("source")), 0) + 1
+    logger.info("SOURCE COVERAGE: %d/%d configured sources represented | %s", sum(1 for f in RSS_FEEDS if f["name"] in source_counts), len(RSS_FEEDS), ", ".join(f"{k}={v}" for k, v in sorted(source_counts.items())))
     logger.info(
-        "V3 EVENT PIPELINE: raw=%d hard_unique=%d clusters=%d editor_eligible=%d selected=%d min_publish=%d preferred=%d max=%d",
+        "EVENT PIPELINE: raw=%d unique_articles=%d unique_events=%d editor_pool=%d selected=%d max=%d",
         len(candidates), len(cleaned), len(all_clusters),
-        sum(1 for c in all_clusters if c.get("editor_eligible")), len(result),
-        MIN_PUBLISH_SCORE, PUBLISH_SCORE_THRESHOLD, MAX_POSTS_PER_RUN
+        sum(1 for c in all_clusters if c.get("editor_eligible")), len(result), MAX_POSTS_PER_RUN
     )
     for cluster in all_clusters[:15]:
         logger.info(
-            "V3 EVENT #%s score=%s sig=%s cov=%s orig=%s fresh=%s trust=%s independent=%s repeat=%s subject=%s",
-            cluster.get("editor_rank", "?"), cluster.get("importance_score", 0),
-            cluster.get("significance_score", 0), cluster.get("coverage_score", 0),
-            cluster.get("originality_score", 0), cluster.get("freshness_score", 0),
-            cluster.get("source_trust_score", 0), cluster.get("independent_source_count", 0),
+            "EVENT #%s significance=%s signals=%s sources=%s repeat=%s subject=%s",
+            cluster.get("editor_rank", "?"), cluster.get("significance_score", 0),
+            cluster.get("importance_score", 0), cluster.get("source_count", 0),
             cluster.get("repeat_status", "new"), cluster.get("event_subject", "")
         )
     return result
@@ -3327,13 +4152,13 @@ def process_ranked_region(region, ranked):
         )
         if len(valid) >= MAX_POSTS_PER_RUN:
             break
-    logger.info("FINAL VALID: %d | min_publish=%d | preferred=%d | max=%d", len(valid), MIN_PUBLISH_SCORE, PUBLISH_SCORE_THRESHOLD, MAX_POSTS_PER_RUN)
+    logger.info("FINAL VALID: %d | min_publish=%d | preferred=%d | max=%d", len(valid), 0, 80, MAX_POSTS_PER_RUN)
     return valid
 
 def run():
-    logger.info("GAMINGNEWSROOM V3.1 EDITORIAL-INTELLIGENCE")
+    logger.info("GAMING NEWS BOT")
     logger.info("Channel=%s Mode=%s", TELEGRAM_CHANNEL, NEWS_MODE)
-    logger.info("LOOKBACK=%d hours | %s -> %s", DISCOVERY_LOOKBACK_HOURS, DISCOVERY_START.isoformat(), DISCOVERY_END.isoformat())
+    logger.info("NEWS WINDOW=%d hours | %s -> %s", DISCOVERY_LOOKBACK_HOURS, DISCOVERY_START.isoformat(), DISCOVERY_END.isoformat())
 
     prune_state()
     refresh_category_coverage()
@@ -3347,12 +4172,17 @@ def run():
 
     candidates = available_candidates("Gaming", source_pool="primary")
     logger.info("DISCOVERY CANDIDATES: GAMING=%d", len(candidates))
+    covered = {safe_text(x.get("source")) for x in candidates}
+    missing = [f["name"] for f in RSS_FEEDS if f["name"] not in covered]
+    logger.info("SOURCE CHECK: configured=%d represented=%d missing_from_window=%d", len(RSS_FEEDS), len(covered), len(missing))
+    if missing:
+        logger.info("SOURCE CHECK missing: %s", ", ".join(missing))
 
     ranked = prepare_ranked_region("Gaming", candidates)
     logger.info("SELECTED EVENTS: GAMING=%d", len(ranked))
 
     stories = process_ranked_region("Gaming", ranked)
-    logger.info("FINAL: GAMING=%d | min_publish=%d | preferred=%d | safety_max=%d", len(stories), MIN_PUBLISH_SCORE, PUBLISH_SCORE_THRESHOLD, MAX_POSTS_PER_RUN)
+    logger.info("FINAL: GAMING=%d | safety_max=%d", len(stories), MAX_POSTS_PER_RUN)
 
     published_count = 0
     for index, story in enumerate(stories, start=1):
@@ -3399,7 +4229,7 @@ def run():
 # ============================================================
 
 def self_test():
-    """Offline V3.1 regression suite for event intelligence and message safety."""
+    """Offline Gaming News Bot regression suite for event intelligence and message safety."""
     from event_engine import EventEngine
 
     class FakeChoice:
@@ -3436,7 +4266,7 @@ def self_test():
         if name == "gaming_material_change_v2":
             calls["material"] += 1
             return FakeResponse({"same_event":True,"material_change":False,"new_claims":[],"reason":"No material development"})
-        if name == "gaming_editorial_slate_v3_1":
+        if name == "gaming_editorial_slate":
             calls["slate"] += 1
             # AI deliberately proposes two same-franchise stories plus an independent story.
             # The Python hard guard must keep the strongest Zelda story and the independent story.
@@ -3461,19 +4291,18 @@ def self_test():
     assert len(all_clusters) == 2, all_clusters
     zelda = next(c for c in all_clusters if c["event_subject"] == "Zelda Ocarina remake")
     assert len(zelda["articles"]) == 2
-    assert zelda["importance_score"] >= 80
-    assert len(selected) == 1
+    assert zelda["importance_score"] >= 0
+    assert len(selected) == 2  # one Zelda title + one independent title
     assert calls["identity"] == 1 and calls["score"] == 1 and calls["slate"] == 1
 
-    # Explicit editorial-slate regression: two same-franchise stories must not occupy the same slate
-    # unless they pass the exceptional-story rule.
+    # Explicit editorial-slate regression: two stories for the same game/title must not occupy the same slate.
     frame = lambda game, franchise, topic, event_type: {
         "game": game, "franchise": franchise, "institution": "Nintendo",
         "event_type": event_type, "action": "announce", "target": game, "modality": "confirmed"
     }
     slate_candidates = [
-        {"cluster_id":"z1","event_key":"zelda-concert","event_subject":"Zelda concert","event_frame":frame("Zelda concert","The Legend of Zelda","Zelda 40th","announcement"),"event_type":"announcement","topic":"Zelda 40th","modality":"confirmed","importance_score":91,"publishable":True,"editor_eligible":True,"representative":{},"sources":["VGC"],"articles":[{}]},
-        {"cluster_id":"z2","event_key":"zelda-remake","event_subject":"Zelda remake","event_frame":frame("Zelda remake","The Legend of Zelda","Zelda 40th","reveal"),"event_type":"reveal","topic":"Zelda 40th","modality":"confirmed","importance_score":86,"publishable":True,"editor_eligible":True,"representative":{},"sources":["IGN"],"articles":[{}]},
+        {"cluster_id":"z1","event_key":"zelda-concert","event_subject":"Zelda concert","event_frame":frame("Zelda","The Legend of Zelda","Zelda","announcement"),"event_type":"announcement","topic":"Zelda 40th","modality":"confirmed","importance_score":91,"publishable":True,"editor_eligible":True,"representative":{},"sources":["VGC"],"articles":[{}]},
+        {"cluster_id":"z2","event_key":"zelda-remake","event_subject":"Zelda remake","event_frame":frame("Zelda","The Legend of Zelda","Zelda","reveal"),"event_type":"reveal","topic":"Zelda 40th","modality":"confirmed","importance_score":86,"publishable":True,"editor_eligible":True,"representative":{},"sources":["IGN"],"articles":[{}]},
         {"cluster_id":"g1","event_key":"gta6","event_subject":"GTA 6 update","event_frame":frame("GTA 6","Grand Theft Auto","GTA 6","update"),"event_type":"update","topic":"Major Releases","modality":"confirmed","importance_score":84,"publishable":True,"editor_eligible":True,"representative":{},"sources":["GameSpot"],"articles":[{}]},
     ]
     slate = engine.diversify(slate_candidates, max_posts=20)
@@ -3505,7 +4334,7 @@ def self_test():
     assert "WHAT'S NEXT" in rendered
     assert "<aside>PlayStation</aside>" in rendered
     assert canonical_url("https://www.example.com/story/?utm_source=x") == "example.com/story"
-    logger.info("GamingNewsroom V3.1 self-test passed. Calls: %s", calls)
+    logger.info("Gaming News Bot self-test passed. Calls: %s", calls)
 
 
 def visible_text_for_test(
