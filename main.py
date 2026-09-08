@@ -25,7 +25,7 @@ from exa_py import Exa
 from cerebras.cloud.sdk import Cerebras
 from event_engine import EventEngine
 from article_normalizer import hard_dedup, normalize_article
-from event_store import upsert_event, ensure_v2_state, prune_event_store
+from event_store import upsert_event, ensure_state, prune_event_store
 from scoring import explain_score, score_breakdown
 from post_validator import validate_story
 
@@ -62,8 +62,10 @@ STATE_FILE = "news_state.json"
 
 BD_TZ = ZoneInfo("Asia/Dhaka")
 
-# V3 is threshold-based, not quota-based.
+# V3.1 is score-based and editorially selected, not quota-based.
 PUBLISH_SCORE_THRESHOLD = int(os.environ.get("PUBLISH_SCORE_THRESHOLD", "80"))
+EDITORIAL_CANDIDATE_THRESHOLD = int(os.environ.get("EDITORIAL_CANDIDATE_THRESHOLD", "60"))
+MIN_PUBLISH_SCORE = int(os.environ.get("MIN_PUBLISH_SCORE", "70"))
 MAX_POSTS_PER_RUN = int(os.environ.get("MAX_POSTS_PER_RUN", "20"))
 EVENT_IDENTITY_BATCH_SIZE = int(os.environ.get("EVENT_IDENTITY_BATCH_SIZE", "35"))
 RANKING_POOL_SIZE = MAX_POSTS_PER_RUN
@@ -611,7 +613,7 @@ def now_iso():
 
 def default_state():
     return {
-        "version": "V3",
+        "version": "V3.1",
         "feeds": {},
         "queue": {},
         "events": {},
@@ -757,7 +759,7 @@ def prune_state():
             keep_events[key] = event
 
     STATE["events"] = keep_events
-    ensure_v2_state(STATE)
+    ensure_state(STATE)
     prune_event_store(STATE, days=EVENT_RETENTION_DAYS + 15)
 
     titles = STATE.get(
@@ -818,7 +820,7 @@ cerebras = Cerebras(
 
 
 def cerebras_create(**kwargs):
-    """Single AI gateway used by V3 event selection and story generation."""
+    """Single AI gateway used by V3.1 event selection and story generation."""
     kwargs.pop("model_name", None)
     return cerebras.chat.completions.create(
         model=CEREBRAS_MODEL,
@@ -1560,6 +1562,8 @@ EVENT_ENGINE = EventEngine(
     now_dt=NOW_BD,
     threshold=PUBLISH_SCORE_THRESHOLD,
     batch_size=EVENT_IDENTITY_BATCH_SIZE,
+    candidate_threshold=EDITORIAL_CANDIDATE_THRESHOLD,
+    publish_floor=MIN_PUBLISH_SCORE,
 )
 
 
@@ -3287,10 +3291,10 @@ def prepare_ranked_region(region, candidates):
         })
         result.append(rep)
     logger.info(
-        "V3 EVENT PIPELINE: raw=%d hard_unique=%d clusters=%d eligible=%d selected=%d threshold=%d max=%d",
+        "V3 EVENT PIPELINE: raw=%d hard_unique=%d clusters=%d editor_eligible=%d selected=%d min_publish=%d preferred=%d max=%d",
         len(candidates), len(cleaned), len(all_clusters),
-        sum(1 for c in all_clusters if c.get("publishable")), len(result),
-        PUBLISH_SCORE_THRESHOLD, MAX_POSTS_PER_RUN
+        sum(1 for c in all_clusters if c.get("editor_eligible")), len(result),
+        MIN_PUBLISH_SCORE, PUBLISH_SCORE_THRESHOLD, MAX_POSTS_PER_RUN
     )
     for cluster in all_clusters[:15]:
         logger.info(
@@ -3323,11 +3327,11 @@ def process_ranked_region(region, ranked):
         )
         if len(valid) >= MAX_POSTS_PER_RUN:
             break
-    logger.info("FINAL VALID: %d | threshold=%d | max=%d", len(valid), PUBLISH_SCORE_THRESHOLD, MAX_POSTS_PER_RUN)
+    logger.info("FINAL VALID: %d | min_publish=%d | preferred=%d | max=%d", len(valid), MIN_PUBLISH_SCORE, PUBLISH_SCORE_THRESHOLD, MAX_POSTS_PER_RUN)
     return valid
 
 def run():
-    logger.info("GAMINGNEWSROOM V3 EDITORIAL-INTELLIGENCE")
+    logger.info("GAMINGNEWSROOM V3.1 EDITORIAL-INTELLIGENCE")
     logger.info("Channel=%s Mode=%s", TELEGRAM_CHANNEL, NEWS_MODE)
     logger.info("LOOKBACK=%d hours | %s -> %s", DISCOVERY_LOOKBACK_HOURS, DISCOVERY_START.isoformat(), DISCOVERY_END.isoformat())
 
@@ -3348,7 +3352,7 @@ def run():
     logger.info("SELECTED EVENTS: GAMING=%d", len(ranked))
 
     stories = process_ranked_region("Gaming", ranked)
-    logger.info("FINAL: GAMING=%d | threshold=%d | safety_max=%d", len(stories), PUBLISH_SCORE_THRESHOLD, MAX_POSTS_PER_RUN)
+    logger.info("FINAL: GAMING=%d | min_publish=%d | preferred=%d | safety_max=%d", len(stories), MIN_PUBLISH_SCORE, PUBLISH_SCORE_THRESHOLD, MAX_POSTS_PER_RUN)
 
     published_count = 0
     for index, story in enumerate(stories, start=1):
@@ -3395,7 +3399,7 @@ def run():
 # ============================================================
 
 def self_test():
-    """Offline V3 regression suite for event intelligence and message safety."""
+    """Offline V3.1 regression suite for event intelligence and message safety."""
     from event_engine import EventEngine
 
     class FakeChoice:
@@ -3432,7 +3436,7 @@ def self_test():
         if name == "gaming_material_change_v2":
             calls["material"] += 1
             return FakeResponse({"same_event":True,"material_change":False,"new_claims":[],"reason":"No material development"})
-        if name == "gaming_editorial_slate_v3":
+        if name == "gaming_editorial_slate_v3_1":
             calls["slate"] += 1
             # AI deliberately proposes two same-franchise stories plus an independent story.
             # The Python hard guard must keep the strongest Zelda story and the independent story.
@@ -3468,9 +3472,9 @@ def self_test():
         "event_type": event_type, "action": "announce", "target": game, "modality": "confirmed"
     }
     slate_candidates = [
-        {"cluster_id":"z1","event_key":"zelda-concert","event_subject":"Zelda concert","event_frame":frame("Zelda concert","The Legend of Zelda","Zelda 40th","announcement"),"event_type":"announcement","topic":"Zelda 40th","modality":"confirmed","importance_score":91,"publishable":True,"representative":{},"sources":["VGC"],"articles":[{}]},
-        {"cluster_id":"z2","event_key":"zelda-remake","event_subject":"Zelda remake","event_frame":frame("Zelda remake","The Legend of Zelda","Zelda 40th","reveal"),"event_type":"reveal","topic":"Zelda 40th","modality":"confirmed","importance_score":86,"publishable":True,"representative":{},"sources":["IGN"],"articles":[{}]},
-        {"cluster_id":"g1","event_key":"gta6","event_subject":"GTA 6 update","event_frame":frame("GTA 6","Grand Theft Auto","GTA 6","update"),"event_type":"update","topic":"Major Releases","modality":"confirmed","importance_score":84,"publishable":True,"representative":{},"sources":["GameSpot"],"articles":[{}]},
+        {"cluster_id":"z1","event_key":"zelda-concert","event_subject":"Zelda concert","event_frame":frame("Zelda concert","The Legend of Zelda","Zelda 40th","announcement"),"event_type":"announcement","topic":"Zelda 40th","modality":"confirmed","importance_score":91,"publishable":True,"editor_eligible":True,"representative":{},"sources":["VGC"],"articles":[{}]},
+        {"cluster_id":"z2","event_key":"zelda-remake","event_subject":"Zelda remake","event_frame":frame("Zelda remake","The Legend of Zelda","Zelda 40th","reveal"),"event_type":"reveal","topic":"Zelda 40th","modality":"confirmed","importance_score":86,"publishable":True,"editor_eligible":True,"representative":{},"sources":["IGN"],"articles":[{}]},
+        {"cluster_id":"g1","event_key":"gta6","event_subject":"GTA 6 update","event_frame":frame("GTA 6","Grand Theft Auto","GTA 6","update"),"event_type":"update","topic":"Major Releases","modality":"confirmed","importance_score":84,"publishable":True,"editor_eligible":True,"representative":{},"sources":["GameSpot"],"articles":[{}]},
     ]
     slate = engine.diversify(slate_candidates, max_posts=20)
     assert [c["cluster_id"] for c in slate] == ["z1", "g1"]
@@ -3501,7 +3505,7 @@ def self_test():
     assert "WHAT'S NEXT" in rendered
     assert "<aside>PlayStation</aside>" in rendered
     assert canonical_url("https://www.example.com/story/?utm_source=x") == "example.com/story"
-    logger.info("GamingNewsroom V3 self-test passed. Calls: %s", calls)
+    logger.info("GamingNewsroom V3.1 self-test passed. Calls: %s", calls)
 
 
 def visible_text_for_test(

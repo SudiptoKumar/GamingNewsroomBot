@@ -1,8 +1,8 @@
 from __future__ import annotations
 from datetime import datetime, timedelta, timezone
 
-def ensure_v2_state(state: dict) -> dict:
-    state.setdefault("version", "V3")
+def ensure_state(state: dict) -> dict:
+    state.setdefault("version", "V3.1")
     state.setdefault("events", {})
     state.setdefault("event_clusters", {})
     state.setdefault("posted_event_ids", [])
@@ -10,7 +10,7 @@ def ensure_v2_state(state: dict) -> dict:
     return state
 
 def upsert_event(state: dict, story: dict, published: bool, message_id=None) -> str:
-    ensure_v2_state(state)
+    ensure_state(state)
     event_id = story.get("event_cluster_id") or story.get("event_id") or story.get("event_key") or story.get("canonical")
     event_id = str(event_id)
     prior = state["events"].get(event_id, {})

@@ -290,10 +290,22 @@ SLATE_SCHEMA = {
 }
 
 class EventEngine:
-    def __init__(self, ai_create: Callable[..., Any], now_dt: Any, threshold: int = 80, batch_size: int = 35):
+    def __init__(
+        self,
+        ai_create: Callable[..., Any],
+        now_dt: Any,
+        threshold: int = 80,
+        batch_size: int = 35,
+        candidate_threshold: int = 60,
+        publish_floor: int = 70,
+    ):
         self.ai_create = ai_create
         self.now_dt = now_dt
+        # threshold is the preferred/top-tier score. The editor may consider a broader
+        # candidate pool, but publication never falls below publish_floor.
         self.threshold = threshold
+        self.candidate_threshold = candidate_threshold
+        self.publish_floor = publish_floor
         self.batch_size = batch_size
 
     def _ai_json(self, *, system: str, user: str, schema: dict, name: str, tokens: int = 4500) -> dict:
@@ -525,7 +537,10 @@ Return one result per ID.
         clusters.sort(key=lambda c: (-c.get("importance_score", 0), -c.get("significance_score", 0), -c.get("coverage_score", 0), c.get("event_subject", "")))
         for rank, c in enumerate(clusters, 1):
             c["editor_rank"] = rank
-            c["publishable"] = c.get("repeat_status") != "repeat" and c.get("importance_score", 0) >= self.threshold
+            score = c.get("importance_score", 0)
+            c["editor_eligible"] = c.get("repeat_status") != "repeat" and score >= self.candidate_threshold
+            # Kept for backwards compatibility with downstream state/reporting.
+            c["publishable"] = c.get("repeat_status") != "repeat" and score >= self.publish_floor
         return clusters
 
     @staticmethod
@@ -537,11 +552,19 @@ Return one result per ID.
         af, bf = a.get("event_frame", {}), b.get("event_frame", {})
         if _norm(a.get("event_key")) == _norm(b.get("event_key")):
             return False
-        if _norm(af.get("franchise")) and _norm(af.get("franchise")) == _norm(bf.get("franchise")):
-            at, bt = _norm(a.get("event_type")), _norm(b.get("event_type"))
-            if at != bt and _norm(a.get("topic")) != _norm(b.get("topic")):
-                return max(a.get("importance_score", 0), b.get("importance_score", 0)) >= 92
-        return False
+        same_franchise = bool(_norm(af.get("franchise")) and _norm(af.get("franchise")) == _norm(bf.get("franchise")))
+        if not same_franchise:
+            return False
+        same_game = bool(_norm(af.get("game")) and _norm(af.get("game")) == _norm(bf.get("game")))
+        same_topic = bool(_norm(a.get("topic")) and _norm(a.get("topic")) == _norm(b.get("topic")))
+        different_event = _norm(a.get("event_key")) != _norm(b.get("event_key"))
+        # Same-franchise stories may coexist only when they are genuinely independent,
+        # not the same game/topic, and at least one is exceptional.
+        return (
+            different_event
+            and not (same_game or same_topic)
+            and max(a.get("importance_score", 0), b.get("importance_score", 0)) >= 92
+        )
 
     def _hard_slate_guard(self, candidates: list[dict[str, Any]], max_posts: int) -> list[dict[str, Any]]:
         selected: list[dict[str, Any]] = []
@@ -551,16 +574,14 @@ Return one result per ID.
                 same_event = _norm(c.get("event_key")) == _norm(chosen.get("event_key"))
                 same_game = self._identity_key(c, "game") and self._identity_key(c, "game") == self._identity_key(chosen, "game")
                 same_franchise = self._identity_key(c, "franchise") and self._identity_key(c, "franchise") == self._identity_key(chosen, "franchise")
-                same_topic = bool(_norm(c.get("topic")) and _norm(chosen.get("topic")) and (
-                    _norm(c.get("topic")) == _norm(chosen.get("topic"))
-                    or similarity(c.get("topic"), chosen.get("topic")) >= 0.78
-                ))
+                c_topic, ch_topic = _norm(c.get("topic")), _norm(chosen.get("topic"))
+                same_topic = bool(c_topic and ch_topic and (c_topic == ch_topic or similarity(c_topic, ch_topic) >= 0.90))
+                # Generic topic labels such as "major releases" must not block unrelated games.
+                topic_conflict = same_topic and (same_game or same_franchise)
                 if same_event:
                     conflict = True
                     break
-                # Strong default: one story per game/franchise/topic in a slate.
-                # Exception: genuinely exceptional, materially distinct stories.
-                if (same_game or same_franchise or same_topic) and not self._materially_distinct(c, chosen):
+                if (same_game or same_franchise or topic_conflict) and not self._materially_distinct(c, chosen):
                     conflict = True
                     break
             if not conflict:
@@ -596,17 +617,18 @@ Return one result per ID.
         system = """
 You are the final assigning editor for a high-signal gaming news channel.
 Choose the best set of stories that should appear together in ONE run. This is slate selection, not scoring.
-All candidates already passed the importance threshold. Preserve the strongest stories, but avoid editorial repetition.
-Prefer broad coverage across different games, franchises, companies, platforms and underlying topics.
-Treat two stories as repetitive when they concern the same game/franchise and substantially the same underlying topic,
-even if they are technically different events. A second story about the same game/franchise is justified only when it
-is materially different and exceptionally important. Different stories from the same company or platform are allowed.
+Candidates are a broad strong-news pool, not all guaranteed to publish. Prefer the strongest useful stories, then maximize
+editorial breadth. Avoid unnecessary repetition across the same event, game, franchise, or underlying topic.
+A second story about the same game/franchise should normally be rejected when it adds little new audience value.
+It may be selected when the development is genuinely independent, materially different, and exceptionally important.
+Do not reject two unrelated games merely because they share a generic label such as "major release", "Nintendo", "RPG",
+or "platform news". Different stories from the same company or platform are allowed when genuinely independent.
 Never select two articles representing the same event. Rumor/confirmed/denial distinctions matter.
 Do not invent facts. Return only the requested JSON.
 """
         user = f"MAX STORIES: {max_posts}\n\nCANDIDATES:\n" + "\n\n".join(blocks)
         try:
-            data = self._ai_json(system=system, user=user, schema=SLATE_SCHEMA, name="gaming_editorial_slate_v3", tokens=3500)
+            data = self._ai_json(system=system, user=user, schema=SLATE_SCHEMA, name="gaming_editorial_slate_v3_1", tokens=3500)
             decisions = {int(x["id"]): {"decision": _text(x.get("decision")), "reason": _text(x.get("reason"))} for x in data.get("decisions", []) if str(x.get("id", "")).isdigit()}
             selected_ids = [int(x) for x in data.get("selected_ids", []) if isinstance(x, int) and 1 <= x <= len(pool)]
             # Respect AI order; then apply a hard deterministic guard.
@@ -615,15 +637,17 @@ Do not invent facts. Return only the requested JSON.
             guarded = self._hard_slate_guard(ai_selected, max_posts=max_posts)
             return guarded, decisions
         except Exception as exc:
-            logger.warning("V3 editorial slate AI failed; deterministic guard used: %s", type(exc).__name__)
+            logger.warning("V3.1 editorial slate AI failed; deterministic guard used: %s", type(exc).__name__)
             return self._hard_slate_guard(pool, max_posts=max_posts), {}
 
     def diversify(self, clusters: list[dict[str, Any]], max_posts: int = 20) -> list[dict[str, Any]]:
-        eligible = [c for c in clusters if c.get("publishable")]
+        eligible = [c for c in clusters if c.get("editor_eligible")]
         if not eligible:
+            logger.info("V3.1 EDITORIAL SLATE: no editor-eligible candidates")
             return []
-        # Give the editor enough alternatives to choose a diverse slate, then enforce the choice in Python.
+        # The editor sees a broad pool. Final publication still has a hard minimum floor.
         selected, decisions = self._ai_slate_select(eligible, max_posts=max_posts)
+        selected = [c for c in selected if c.get("importance_score", 0) >= self.publish_floor]
         selected_ids = {c.get("cluster_id") for c in selected}
         for c in eligible:
             c["slate_selected"] = c.get("cluster_id") in selected_ids
@@ -632,9 +656,12 @@ Do not invent facts. Return only the requested JSON.
         for rank, c in enumerate(selected, 1):
             c["slate_rank"] = rank
             c["slate_score"] = c.get("importance_score", 0)
-        logger.info("V3 EDITORIAL SLATE: eligible=%d ai_pool=%d selected=%d", len(eligible), min(30, len(eligible)), len(selected))
+        logger.info(
+            "V3.1 EDITORIAL SLATE: editor_eligible=%d ai_pool=%d selected=%d publish_floor=%d preferred=%d",
+            len(eligible), min(30, len(eligible)), len(selected), self.publish_floor, self.threshold
+        )
         for c in selected:
-            logger.info("V3 SLATE #%d score=%s game=%s franchise=%s topic=%s subject=%s", c.get("slate_rank", 0), c.get("importance_score", 0), c.get("event_frame", {}).get("game", ""), c.get("event_frame", {}).get("franchise", ""), c.get("topic", ""), c.get("event_subject", ""))
+            logger.info("V3.1 SLATE #%d score=%s game=%s franchise=%s topic=%s subject=%s", c.get("slate_rank", 0), c.get("importance_score", 0), c.get("event_frame", {}).get("game", ""), c.get("event_frame", {}).get("franchise", ""), c.get("topic", ""), c.get("event_subject", ""))
         for c in eligible:
             c.pop("_slate_ai_id", None)
         return selected

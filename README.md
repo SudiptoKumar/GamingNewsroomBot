@@ -1,10 +1,10 @@
-# GamingNewsroomBot
+# GamingNewsroomBot V3.1
 
 Automated high-signal gaming news publisher for `@GamingNewsroom`, powered by RSS/Exa discovery, a single Cerebras AI provider, GitHub Actions, and Telegram.
 
 ## Editorial goal
 
-Publish important gaming developments without turning one hot game or franchise into the whole edition. The bot is threshold-based, not quota-driven: normally only events scoring **80/100 or higher** can publish, subject to editorial slate selection and safety validation.
+Publish important gaming developments without turning one hot game or franchise into the whole edition. The bot is score-based, not quota-driven: the editorial AI considers a broader strong-news pool, then the final gate normally requires **70/100 or higher**. Scores of **80+** are treated as preferred/top-tier stories. A second same-game or same-franchise story is normally suppressed unless it is genuinely independent and exceptionally important.
 
 ## Pipeline
 
@@ -25,9 +25,11 @@ AI significance + deterministic evidence scoring
        ↓
 Importance score 0–100
        ↓
-Threshold ≥ 80
+Broad editorial candidate pool (default ≥60)
        ↓
-AI editorial slate selection  ← prevents same-game/topic concentration
+AI editorial slate selection  ← chooses what should coexist in one run
+       ↓
+Hard publication floor (default ≥70); 80 is the preferred/top-tier score
        ↓
 Python hard diversity guard
        ↓
@@ -57,7 +59,7 @@ The score measures the event, not how many articles repeat it.
 
 ## Editorial slate selection
 
-The strongest eligible events are presented to one final AI editor as a slate. The editor is instructed to avoid:
+The strongest broad candidate pool is presented to one final AI editor as a slate. This is deliberately separate from scoring: the AI decides which stories deserve to coexist in one edition rather than simply taking the top numeric scores. The editor is instructed to avoid:
 
 - duplicate events
 - unnecessary multiple stories about the same game
@@ -90,6 +92,8 @@ Optional environment variables:
 
 ```text
 PUBLISH_SCORE_THRESHOLD=80
+EDITORIAL_CANDIDATE_THRESHOLD=60
+MIN_PUBLISH_SCORE=70
 MAX_POSTS_PER_RUN=20
 EVENT_IDENTITY_BATCH_SIZE=35
 TELEGRAM_ADMIN_CHAT_ID=
@@ -118,7 +122,7 @@ GamingNewsroomBot/
 ├── .github/workflows/newbot.yml
 ├── tests/
 │   ├── test_event_engine.py
-│   └── test_v2_engine.py
+│   └── test_engine_regression.py
 ├── main.py
 ├── article_normalizer.py
 ├── event_engine.py
