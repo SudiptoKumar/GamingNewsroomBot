@@ -62,7 +62,7 @@ STATE_FILE = "news_state.json"
 
 BD_TZ = ZoneInfo("Asia/Dhaka")
 
-# V2 is threshold-based, not quota-based.
+# V3 is threshold-based, not quota-based.
 PUBLISH_SCORE_THRESHOLD = int(os.environ.get("PUBLISH_SCORE_THRESHOLD", "80"))
 MAX_POSTS_PER_RUN = int(os.environ.get("MAX_POSTS_PER_RUN", "20"))
 EVENT_IDENTITY_BATCH_SIZE = int(os.environ.get("EVENT_IDENTITY_BATCH_SIZE", "35"))
@@ -611,7 +611,7 @@ def now_iso():
 
 def default_state():
     return {
-        "version": "V2",
+        "version": "V3",
         "feeds": {},
         "queue": {},
         "events": {},
@@ -818,7 +818,7 @@ cerebras = Cerebras(
 
 
 def cerebras_create(**kwargs):
-    """Single AI gateway used by V2 event selection and story generation."""
+    """Single AI gateway used by V3 event selection and story generation."""
     kwargs.pop("model_name", None)
     return cerebras.chat.completions.create(
         model=CEREBRAS_MODEL,
@@ -1552,7 +1552,7 @@ def queue_candidates_for_region(
 # ============================================================
 
 # ============================================================
-# V2 EVENT INTELLIGENCE ENGINE
+# V3 EVENT INTELLIGENCE ENGINE
 # ============================================================
 
 EVENT_ENGINE = EventEngine(
@@ -1563,7 +1563,7 @@ EVENT_ENGINE = EventEngine(
 )
 
 
-# V2 selection is implemented by the single prepare_ranked_region defined below.
+# V3 selection is implemented by the single prepare_ranked_region defined below.
 
 
 def persist_event_cluster_state(clusters):
@@ -3243,7 +3243,7 @@ def available_candidates(region, source_pool=None):
 
 
 def prepare_ranked_region(region, candidates):
-    """V2: build event records, retain cluster evidence, apply history, score, and diversify."""
+    """V3: build event records, retain cluster evidence, apply history, score, and diversify."""
     global EVENT_ENGINE
     cleaned = hard_dedup([normalize_article(x) for x in candidates])
     selected_clusters, all_clusters = EVENT_ENGINE.run(
@@ -3287,14 +3287,14 @@ def prepare_ranked_region(region, candidates):
         })
         result.append(rep)
     logger.info(
-        "V2 EVENT PIPELINE: raw=%d hard_unique=%d clusters=%d eligible=%d selected=%d threshold=%d max=%d",
+        "V3 EVENT PIPELINE: raw=%d hard_unique=%d clusters=%d eligible=%d selected=%d threshold=%d max=%d",
         len(candidates), len(cleaned), len(all_clusters),
         sum(1 for c in all_clusters if c.get("publishable")), len(result),
         PUBLISH_SCORE_THRESHOLD, MAX_POSTS_PER_RUN
     )
     for cluster in all_clusters[:15]:
         logger.info(
-            "V2 EVENT #%s score=%s sig=%s cov=%s orig=%s fresh=%s trust=%s independent=%s repeat=%s subject=%s",
+            "V3 EVENT #%s score=%s sig=%s cov=%s orig=%s fresh=%s trust=%s independent=%s repeat=%s subject=%s",
             cluster.get("editor_rank", "?"), cluster.get("importance_score", 0),
             cluster.get("significance_score", 0), cluster.get("coverage_score", 0),
             cluster.get("originality_score", 0), cluster.get("freshness_score", 0),
@@ -3327,7 +3327,7 @@ def process_ranked_region(region, ranked):
     return valid
 
 def run():
-    logger.info("GAMINGNEWSROOM V2 EVENT-INTELLIGENCE")
+    logger.info("GAMINGNEWSROOM V3 EDITORIAL-INTELLIGENCE")
     logger.info("Channel=%s Mode=%s", TELEGRAM_CHANNEL, NEWS_MODE)
     logger.info("LOOKBACK=%d hours | %s -> %s", DISCOVERY_LOOKBACK_HOURS, DISCOVERY_START.isoformat(), DISCOVERY_END.isoformat())
 
@@ -3395,7 +3395,7 @@ def run():
 # ============================================================
 
 def self_test():
-    """Offline V2 regression suite for event intelligence and message safety."""
+    """Offline V3 regression suite for event intelligence and message safety."""
     from event_engine import EventEngine
 
     class FakeChoice:
@@ -3406,7 +3406,7 @@ def self_test():
         def __init__(self, content):
             self.choices = [FakeChoice(content)]
 
-    calls = {"identity": 0, "score": 0, "material": 0}
+    calls = {"identity": 0, "score": 0, "material": 0, "slate": 0}
 
     def fake_ai_create(**kwargs):
         name = kwargs["response_format"]["json_schema"]["name"]
@@ -3419,11 +3419,11 @@ def self_test():
                 title_m = re.search(r"Title: (.+)", block)
                 title = title_m.group(1) if title_m else ""
                 if "Zelda" in title:
-                    row = {"event_key":"zelda ocarina remake announcement","subject":"Zelda Ocarina remake","event_type":"announcement","action":"announce","status":"current","modality":"confirmed","game":"Zelda Ocarina remake","institution":"Nintendo","target":"remake","platforms":["Switch 2"],"claim":"Nintendo announced the remake","topic":"Nintendo"}
+                    row = {"event_key":"zelda ocarina remake announcement","subject":"Zelda Ocarina remake","event_type":"announcement","action":"announce","status":"current","modality":"confirmed","game":"Zelda Ocarina remake","franchise":"The Legend of Zelda","institution":"Nintendo","target":"remake","platforms":["Switch 2"],"claim":"Nintendo announced the remake","topic":"Nintendo"}
                 elif "GTA" in title:
-                    row = {"event_key":"gta 6 release update","subject":"GTA 6 release update","event_type":"release","action":"update","status":"current","modality":"confirmed","game":"GTA 6","institution":"Rockstar Games","target":"release","platforms":["PS5"],"claim":"GTA 6 release information","topic":"Major Releases"}
+                    row = {"event_key":"gta 6 release update","subject":"GTA 6 release update","event_type":"release","action":"update","status":"current","modality":"confirmed","game":"GTA 6","franchise":"Grand Theft Auto","institution":"Rockstar Games","target":"release","platforms":["PS5"],"claim":"GTA 6 release information","topic":"Major Releases"}
                 else:
-                    row = {"event_key":"minor patch","subject":"Minor patch","event_type":"patch","action":"patch","status":"current","modality":"confirmed","game":"Small game","institution":"Indie","target":"patch","platforms":["PC"],"claim":"Minor patch","topic":"Game Updates"}
+                    row = {"event_key":"minor patch","subject":"Minor patch","event_type":"patch","action":"patch","status":"current","modality":"confirmed","game":"Small game","franchise":"Small game","institution":"Indie","target":"patch","platforms":["PC"],"claim":"Minor patch","topic":"Game Updates"}
                 items.append({"id": i, **row})
             return FakeResponse({"items":items})
         if name == "gaming_significance_v2":
@@ -3432,6 +3432,18 @@ def self_test():
         if name == "gaming_material_change_v2":
             calls["material"] += 1
             return FakeResponse({"same_event":True,"material_change":False,"new_claims":[],"reason":"No material development"})
+        if name == "gaming_editorial_slate_v3":
+            calls["slate"] += 1
+            # AI deliberately proposes two same-franchise stories plus an independent story.
+            # The Python hard guard must keep the strongest Zelda story and the independent story.
+            return FakeResponse({
+                "selected_ids": [1, 2, 3],
+                "decisions": [
+                    {"id": 1, "decision": "select", "reason": "Highest-value Zelda story."},
+                    {"id": 2, "decision": "select", "reason": "AI proposal; should be rejected by the hard diversity guard."},
+                    {"id": 3, "decision": "select", "reason": "Independent high-value story."},
+                ],
+            })
         raise AssertionError(name)
 
     now = NOW_BD
@@ -3447,7 +3459,21 @@ def self_test():
     assert len(zelda["articles"]) == 2
     assert zelda["importance_score"] >= 80
     assert len(selected) == 1
-    assert calls["identity"] == 1 and calls["score"] == 1
+    assert calls["identity"] == 1 and calls["score"] == 1 and calls["slate"] == 1
+
+    # Explicit editorial-slate regression: two same-franchise stories must not occupy the same slate
+    # unless they pass the exceptional-story rule.
+    frame = lambda game, franchise, topic, event_type: {
+        "game": game, "franchise": franchise, "institution": "Nintendo",
+        "event_type": event_type, "action": "announce", "target": game, "modality": "confirmed"
+    }
+    slate_candidates = [
+        {"cluster_id":"z1","event_key":"zelda-concert","event_subject":"Zelda concert","event_frame":frame("Zelda concert","The Legend of Zelda","Zelda 40th","announcement"),"event_type":"announcement","topic":"Zelda 40th","modality":"confirmed","importance_score":91,"publishable":True,"representative":{},"sources":["VGC"],"articles":[{}]},
+        {"cluster_id":"z2","event_key":"zelda-remake","event_subject":"Zelda remake","event_frame":frame("Zelda remake","The Legend of Zelda","Zelda 40th","reveal"),"event_type":"reveal","topic":"Zelda 40th","modality":"confirmed","importance_score":86,"publishable":True,"representative":{},"sources":["IGN"],"articles":[{}]},
+        {"cluster_id":"g1","event_key":"gta6","event_subject":"GTA 6 update","event_frame":frame("GTA 6","Grand Theft Auto","GTA 6","update"),"event_type":"update","topic":"Major Releases","modality":"confirmed","importance_score":84,"publishable":True,"representative":{},"sources":["GameSpot"],"articles":[{}]},
+    ]
+    slate = engine.diversify(slate_candidates, max_posts=20)
+    assert [c["cluster_id"] for c in slate] == ["z1", "g1"]
 
     previous = {
         "evt_old": {
@@ -3475,7 +3501,7 @@ def self_test():
     assert "WHAT'S NEXT" in rendered
     assert "<aside>PlayStation</aside>" in rendered
     assert canonical_url("https://www.example.com/story/?utm_source=x") == "example.com/story"
-    logger.info("GamingNewsroom V2 self-test passed. Calls: %s", calls)
+    logger.info("GamingNewsroom V3 self-test passed. Calls: %s", calls)
 
 
 def visible_text_for_test(

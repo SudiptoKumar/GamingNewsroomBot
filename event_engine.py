@@ -43,6 +43,7 @@ IDENTITY_SCHEMA = {
                     "status": {"type": "string"},
                     "modality": {"type": "string"},
                     "game": {"type": "string"},
+                    "franchise": {"type": "string"},
                     "institution": {"type": "string"},
                     "target": {"type": "string"},
                     "platforms": {"type": "array", "items": {"type": "string"}, "maxItems": 8},
@@ -259,11 +260,34 @@ def _fallback_identity(item: dict[str, Any]) -> dict[str, Any]:
     modality = "rumored" if event_type == "rumor" else ("denied" if event_type == "denial" else "confirmed")
     return {
         "event_key": _norm(f"{subject} {event_type}"), "subject": subject, "event_type": event_type,
-        "action": event_type, "status": "current", "modality": modality, "game": subject,
+        "action": event_type, "status": "current", "modality": modality, "game": subject, "franchise": subject,
         "institution": _text(item.get("institution")), "target": subject, "platforms": [],
         "claim": _text(item.get("excerpt"))[:400], "topic": _text(item.get("topic")) or "Gaming",
     }
 
+
+SLATE_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "selected_ids": {"type": "array", "items": {"type": "integer", "minimum": 1}, "maxItems": 20},
+        "decisions": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {"type": "integer", "minimum": 1},
+                    "decision": {"type": "string"},
+                    "reason": {"type": "string"},
+                },
+                "required": ["id", "decision", "reason"],
+                "additionalProperties": False,
+            },
+            "maxItems": 40,
+        },
+    },
+    "required": ["selected_ids", "decisions"],
+    "additionalProperties": False,
+}
 
 class EventEngine:
     def __init__(self, ai_create: Callable[..., Any], now_dt: Any, threshold: int = 80, batch_size: int = 35):
@@ -294,7 +318,7 @@ class EventEngine:
             system = """
 You are the event-identity editor for a gaming newsroom.
 Identify the underlying REAL NEWS EVENT for each article. The task is not headline similarity.
-Return a stable event identity using the concrete game/company, core action, target, event type and modality.
+Return a stable event identity using the concrete game/franchise/company, core action, target, event type and modality.
 Articles about screenshots, videos, previews, hands-on reports or commentary may belong to the same event
 when they are coverage of the same underlying development. Do NOT merge merely because the same game,
 franchise or company is mentioned. Rumor, denial and confirmed developments must keep distinct modalities.
@@ -310,7 +334,7 @@ Return exactly one item for every ID.
                     row["modality"] = row.get("modality") if row.get("modality") in MODALITIES else "unknown"
                     item.update(row)
             except Exception as exc:
-                logger.warning("V2 identity batch failed; deterministic fallback: %s", type(exc).__name__)
+                logger.warning("V3 identity batch failed; deterministic fallback: %s", type(exc).__name__)
                 for item in batch:
                     item.update(_fallback_identity(item))
         return result
@@ -374,6 +398,7 @@ Return exactly one item for every ID.
                 "event_type": _text(rep.get("event_type")) or "other",
                 "action": _text(rep.get("action")), "status": _text(rep.get("status")),
                 "modality": _text(rep.get("modality")) or "unknown", "game": _text(rep.get("game")),
+                "franchise": _text(rep.get("franchise")) or _text(rep.get("game")),
                 "institution": _text(rep.get("institution")), "target": _text(rep.get("target")),
                 "platforms": rep.get("platforms", []), "topic": _text(rep.get("topic")) or "Gaming",
             }
@@ -397,7 +422,7 @@ Return exactly one item for every ID.
                 return event_id, event, 1.0
             prev_frame = event.get("event_frame", {})
             s = 0.0
-            for f, w in (("game", .30), ("institution", .15), ("event_type", .20), ("action", .10), ("target", .10), ("modality", .05), ("subject", .10)):
+            for f, w in (("game", .25), ("franchise", .20), ("institution", .10), ("event_type", .15), ("action", .10), ("target", .10), ("modality", .03), ("subject", .07)):
                 av, bv = _text(frame.get(f)), _text(prev_frame.get(f) or event.get("event_subject"))
                 if av and bv:
                     s += w * similarity(av, bv)
@@ -430,7 +455,7 @@ Return only the JSON schema.
             change = bool(data.get("material_change"))
             return same and change, _text(data.get("reason")), [x for x in data.get("new_claims", []) if _text(x)]
         except Exception as exc:
-            logger.warning("V2 material-change check failed; repeat withheld: %s", type(exc).__name__)
+            logger.warning("V3 material-change check failed; repeat withheld: %s", type(exc).__name__)
             return False, "Continuity verification unavailable; repeat withheld for safety.", []
 
     def history(self, clusters: list[dict[str, Any]], previous_events: dict[str, Any]) -> list[dict[str, Any]]:
@@ -460,7 +485,7 @@ Return only the JSON schema.
                 for a in c["articles"][:8]:
                     evidence.append(f"{a.get('source')} | {a.get('published_date')} | {a.get('title')} | {_text(a.get('excerpt'))[:500]}")
                 blocks.append("\n".join([
-                    f"ID: {i}", f"EVENT: {c['event_subject']}", f"TYPE: {c['event_type']}",
+                    f"ID: {i}", f"EVENT: {c['event_subject']}", f"GAME: {c.get('event_frame', {}).get('game', '')}", f"FRANCHISE: {c.get('event_frame', {}).get('franchise', '')}", f"TYPE: {c['event_type']}",
                     f"MODALITY: {c.get('modality','unknown')}", f"SOURCES: {', '.join(c['sources'])}",
                     "EVIDENCE:\n" + "\n".join(evidence),
                 ]))
@@ -478,7 +503,7 @@ Return one result per ID.
                 data = self._ai_json(system=system, user="\n\n".join(blocks), schema=SIGNIFICANCE_SCHEMA, name="gaming_significance_v2", tokens=5500)
                 by_id = {int(x["id"]): x for x in data.get("items", [])}
             except Exception as exc:
-                logger.warning("V2 significance scoring failed; using conservative fallback: %s", type(exc).__name__)
+                logger.warning("V3 significance scoring failed; using conservative fallback: %s", type(exc).__name__)
                 by_id = {}
             for i, c in enumerate(batch, 1):
                 row = by_id.get(i, {})
@@ -503,29 +528,115 @@ Return one result per ID.
             c["publishable"] = c.get("repeat_status") != "repeat" and c.get("importance_score", 0) >= self.threshold
         return clusters
 
-    def diversify(self, clusters: list[dict[str, Any]], max_posts: int = 20) -> list[dict[str, Any]]:
+    @staticmethod
+    def _identity_key(cluster: dict[str, Any], field: str) -> str:
+        return _norm(cluster.get("event_frame", {}).get(field))
+
+    @staticmethod
+    def _materially_distinct(a: dict[str, Any], b: dict[str, Any]) -> bool:
+        af, bf = a.get("event_frame", {}), b.get("event_frame", {})
+        if _norm(a.get("event_key")) == _norm(b.get("event_key")):
+            return False
+        if _norm(af.get("franchise")) and _norm(af.get("franchise")) == _norm(bf.get("franchise")):
+            at, bt = _norm(a.get("event_type")), _norm(b.get("event_type"))
+            if at != bt and _norm(a.get("topic")) != _norm(b.get("topic")):
+                return max(a.get("importance_score", 0), b.get("importance_score", 0)) >= 92
+        return False
+
+    def _hard_slate_guard(self, candidates: list[dict[str, Any]], max_posts: int) -> list[dict[str, Any]]:
         selected: list[dict[str, Any]] = []
-        used_games: dict[str, int] = {}
-        used_topics: dict[str, int] = {}
-        used_groups: dict[str, int] = {}
-        for c in clusters:
-            if not c.get("publishable"):
-                continue
-            game = _norm(c.get("event_frame", {}).get("game") or c.get("event_subject"))
-            topic = _norm(c.get("topic"))
-            group = _norm(c.get("event_type"))
-            # Penalize repetition, but allow it when the event itself is substantially stronger.
-            redundancy = (used_games.get(game, 0) * 8) + (used_topics.get(topic, 0) * 3) + (used_groups.get(group, 0) * 2)
-            adjusted = c.get("importance_score", 0) - redundancy
-            c["slate_score"] = adjusted
-            if used_games.get(game, 0) >= 2 and c.get("importance_score", 0) < 92:
-                continue
-            selected.append(c)
-            used_games[game] = used_games.get(game, 0) + 1
-            used_topics[topic] = used_topics.get(topic, 0) + 1
-            used_groups[group] = used_groups.get(group, 0) + 1
+        for c in candidates:
+            conflict = False
+            for chosen in selected:
+                same_event = _norm(c.get("event_key")) == _norm(chosen.get("event_key"))
+                same_game = self._identity_key(c, "game") and self._identity_key(c, "game") == self._identity_key(chosen, "game")
+                same_franchise = self._identity_key(c, "franchise") and self._identity_key(c, "franchise") == self._identity_key(chosen, "franchise")
+                same_topic = bool(_norm(c.get("topic")) and _norm(chosen.get("topic")) and (
+                    _norm(c.get("topic")) == _norm(chosen.get("topic"))
+                    or similarity(c.get("topic"), chosen.get("topic")) >= 0.78
+                ))
+                if same_event:
+                    conflict = True
+                    break
+                # Strong default: one story per game/franchise/topic in a slate.
+                # Exception: genuinely exceptional, materially distinct stories.
+                if (same_game or same_franchise or same_topic) and not self._materially_distinct(c, chosen):
+                    conflict = True
+                    break
+            if not conflict:
+                selected.append(c)
             if len(selected) >= max_posts:
                 break
+        return selected
+
+    def _ai_slate_select(self, candidates: list[dict[str, Any]], max_posts: int) -> tuple[list[dict[str, Any]], dict[int, dict[str, str]]]:
+        # The editor sees only the strongest candidates, so this is one compact AI decision rather than
+        # a second LLM score for hundreds of articles.
+        pool = candidates[:min(30, len(candidates))]
+        if not pool:
+            return [], {}
+        blocks = []
+        for i, c in enumerate(pool, 1):
+            c["_slate_ai_id"] = i
+            f = c.get("event_frame", {})
+            rep = c.get("representative", {})
+            blocks.append("\n".join([
+                f"ID: {i}",
+                f"Score: {c.get('importance_score', 0)}",
+                f"Event: {c.get('event_subject', '')}",
+                f"Game: {f.get('game', '')}",
+                f"Franchise: {f.get('franchise', '')}",
+                f"Publisher/Studio: {f.get('institution', '')}",
+                f"Topic: {c.get('topic', '')}",
+                f"Type: {c.get('event_type', '')}",
+                f"Modality: {c.get('modality', 'unknown')}",
+                f"Headline: {rep.get('title', '')}",
+                f"Editorial reason: {c.get('rank_reason', '')}",
+            ]))
+        system = """
+You are the final assigning editor for a high-signal gaming news channel.
+Choose the best set of stories that should appear together in ONE run. This is slate selection, not scoring.
+All candidates already passed the importance threshold. Preserve the strongest stories, but avoid editorial repetition.
+Prefer broad coverage across different games, franchises, companies, platforms and underlying topics.
+Treat two stories as repetitive when they concern the same game/franchise and substantially the same underlying topic,
+even if they are technically different events. A second story about the same game/franchise is justified only when it
+is materially different and exceptionally important. Different stories from the same company or platform are allowed.
+Never select two articles representing the same event. Rumor/confirmed/denial distinctions matter.
+Do not invent facts. Return only the requested JSON.
+"""
+        user = f"MAX STORIES: {max_posts}\n\nCANDIDATES:\n" + "\n\n".join(blocks)
+        try:
+            data = self._ai_json(system=system, user=user, schema=SLATE_SCHEMA, name="gaming_editorial_slate_v3", tokens=3500)
+            decisions = {int(x["id"]): {"decision": _text(x.get("decision")), "reason": _text(x.get("reason"))} for x in data.get("decisions", []) if str(x.get("id", "")).isdigit()}
+            selected_ids = [int(x) for x in data.get("selected_ids", []) if isinstance(x, int) and 1 <= x <= len(pool)]
+            # Respect AI order; then apply a hard deterministic guard.
+            ai_selected = [pool[i-1] for i in selected_ids]
+            ai_selected.sort(key=lambda c: (-c.get("importance_score", 0), c.get("event_subject", "")))
+            guarded = self._hard_slate_guard(ai_selected, max_posts=max_posts)
+            return guarded, decisions
+        except Exception as exc:
+            logger.warning("V3 editorial slate AI failed; deterministic guard used: %s", type(exc).__name__)
+            return self._hard_slate_guard(pool, max_posts=max_posts), {}
+
+    def diversify(self, clusters: list[dict[str, Any]], max_posts: int = 20) -> list[dict[str, Any]]:
+        eligible = [c for c in clusters if c.get("publishable")]
+        if not eligible:
+            return []
+        # Give the editor enough alternatives to choose a diverse slate, then enforce the choice in Python.
+        selected, decisions = self._ai_slate_select(eligible, max_posts=max_posts)
+        selected_ids = {c.get("cluster_id") for c in selected}
+        for c in eligible:
+            c["slate_selected"] = c.get("cluster_id") in selected_ids
+            c["slate_decision"] = decisions.get(c.get("_slate_ai_id", 0), {}).get("decision", "") if decisions else ""
+            c["slate_reason"] = decisions.get(c.get("_slate_ai_id", 0), {}).get("reason", "") if decisions else ""
+        for rank, c in enumerate(selected, 1):
+            c["slate_rank"] = rank
+            c["slate_score"] = c.get("importance_score", 0)
+        logger.info("V3 EDITORIAL SLATE: eligible=%d ai_pool=%d selected=%d", len(eligible), min(30, len(eligible)), len(selected))
+        for c in selected:
+            logger.info("V3 SLATE #%d score=%s game=%s franchise=%s topic=%s subject=%s", c.get("slate_rank", 0), c.get("importance_score", 0), c.get("event_frame", {}).get("game", ""), c.get("event_frame", {}).get("franchise", ""), c.get("topic", ""), c.get("event_subject", ""))
+        for c in eligible:
+            c.pop("_slate_ai_id", None)
         return selected
 
     def run(self, candidates: list[dict[str, Any]], previous_events: dict[str, Any], max_posts: int = 20):

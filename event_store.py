@@ -2,7 +2,7 @@ from __future__ import annotations
 from datetime import datetime, timedelta, timezone
 
 def ensure_v2_state(state: dict) -> dict:
-    state.setdefault("version", "V2")
+    state.setdefault("version", "V3")
     state.setdefault("events", {})
     state.setdefault("event_clusters", {})
     state.setdefault("posted_event_ids", [])

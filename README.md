@@ -1,100 +1,133 @@
-# GamingNewsroom Bot V2
+# GamingNewsroomBot
 
-Event-intelligence gaming news publisher for `@GamingNewsroom`.
+Automated high-signal gaming news publisher for `@GamingNewsroom`, powered by RSS/Exa discovery, a single Cerebras AI provider, GitHub Actions, and Telegram.
 
-## V2 objective
+## Editorial goal
 
-V2 treats a **news event**, not an article, as the unit of selection. It keeps the full evidence cluster, separates coverage/originality/significance, remembers previously published events, detects material updates, selects a diverse slate, and generates a Telegram post only after the event is selected.
+Publish important gaming developments without turning one hot game or franchise into the whole edition. The bot is threshold-based, not quota-driven: normally only events scoring **80/100 or higher** can publish, subject to editorial slate selection and safety validation.
+
+## Pipeline
 
 ```text
-RSS / Web Sources
-        ↓
-Raw Articles
-        ↓
-Normalize + Hard Dedup
-        ↓
-Gaming Event Frame
-        ↓
-Event Clustering + Cannot-Link Rules
-        ↓
-Persistent Event Record
-        ↓
-Cross-Run Event Matching
-        ↓
-Material-Change Detection
-        ↓
-Coverage + Originality + Significance
-        ↓
-Importance Score 0–100
-        ↓
+20 gaming sources
+       ↓
+RSS + Google News + Exa gap-fill
+       ↓
+Normalize + hard URL dedup
+       ↓
+AI event identity
+       ↓
+Event clustering / cannot-link rules
+       ↓
+Cross-run history + material-update check
+       ↓
+AI significance + deterministic evidence scoring
+       ↓
+Importance score 0–100
+       ↓
 Threshold ≥ 80
-        ↓
-Editorial Slate Selection
-        ↓
-Best Representative
-        ↓
-Grounded Post Generation
-        ↓
-Publication Validator
-        ↓
+       ↓
+AI editorial slate selection  ← prevents same-game/topic concentration
+       ↓
+Python hard diversity guard
+       ↓
+Best representative article
+       ↓
+Grounded Telegram post generation
+       ↓
+Post validator
+       ↓
 Telegram
-        ↓
-Event Memory
+       ↓
+Persistent event memory
 ```
 
-## Scoring model
+## Scoring
 
-Every event gets one explainable 0–100 score:
+Each event receives:
 
-- Significance: 0–45
+- Significance: 0–45 (AI)
 - Coverage: 0–20
 - Originality: 0–15
 - Freshness: 0–10
 - Source trust: 0–10
-- A material-update bonus of up to 5 points is applied inside the 100-point cap when a previously published event has a verified material development.
+- Material-update bonus: up to 5 within the 100-point cap
 
-Coverage uses distinct sources and a conservative effective-independent-source estimate. Raw article count is never treated as raw corroboration.
+The score measures the event, not how many articles repeat it.
 
-## Event identity
+## Editorial slate selection
 
-The event frame tracks the concrete game, institution, event type, action, target, platforms, modality, and claims. Modalities such as `confirmed`, `reported`, `rumored`, and `denied` are kept distinct. The clustering layer has cannot-link rules so a broad franchise/company match cannot swallow unrelated events.
+The strongest eligible events are presented to one final AI editor as a slate. The editor is instructed to avoid:
+
+- duplicate events
+- unnecessary multiple stories about the same game
+- unnecessary multiple stories about the same franchise
+- unnecessary multiple stories about the same underlying topic
+
+Different stories from the same publisher or platform are allowed when they are genuinely independent. A second same-franchise story is allowed only when it is materially different and exceptionally important.
+
+Python then applies a deterministic hard guard to reject unsafe AI selections. If the AI selection fails, the deterministic guard remains the fallback.
 
 ## Cross-run memory
 
-`news_state.json` stores the event record, claims, published versions, evidence sources, and score components. A new article about a previously published event is suppressed unless a material new development is verified.
-
-`posted_urls.txt` remains as a URL audit/compatibility history, but it is not the primary event-memory mechanism.
+`news_state.json` stores event frames, evidence, claims, scores, and publication history. Previously published events are suppressed unless a material new development is verified. `posted_urls.txt` remains a secondary URL audit.
 
 ## Publication safety
 
-A selected event is the only unit handed to the post generator. Before publication the bot validates required sections, threshold, completeness, and stray Markdown characters such as `*`.
+Generation occurs only after event selection. The validator rejects incomplete posts, below-threshold stories, Markdown leaks such as stray `*`, and other structural failures before Telegram publication.
 
 ## Configuration
 
 Required GitHub Secrets:
 
-- `EXA_API_KEY`
-- `CEREBRAS_API_KEY`
-- `TELEGRAM_BOT_TOKEN`
+```text
+EXA_API_KEY
+CEREBRAS_API_KEY
+TELEGRAM_BOT_TOKEN
+```
 
 Optional environment variables:
 
-- `PUBLISH_SCORE_THRESHOLD` (default `80`)
-- `MAX_POSTS_PER_RUN` (default `20`)
-- `EVENT_IDENTITY_BATCH_SIZE` (default `35`)
-- `TELEGRAM_ADMIN_CHAT_ID`
+```text
+PUBLISH_SCORE_THRESHOLD=80
+MAX_POSTS_PER_RUN=20
+EVENT_IDENTITY_BATCH_SIZE=35
+TELEGRAM_ADMIN_CHAT_ID=
+CEREBRAS_MODEL=gpt-oss-120b
+```
+
+There is **one AI provider only: Cerebras**. No multi-provider router is used.
 
 ## GitHub Actions
 
-The workflow runs hourly from 07:00 through 23:00 Asia/Dhaka and saves `news_state.json` and `posted_urls.txt` after the run.
+The workflow runs hourly from 07:00 through 23:00 Asia/Dhaka and supports manual dispatch. State is committed only after a successful run.
 
-## Testing
-
-Run locally:
+## Local testing
 
 ```bash
 PYTHONPATH=. pytest -q tests
 python -m py_compile main.py event_engine.py article_normalizer.py event_store.py scoring.py slate_selector.py post_validator.py
 ```
 
-`python main.py --self-test` is also supported after production dependencies and required environment variables are available. The self-test uses fake AI responses and does not publish to Telegram.
+`python main.py --self-test` is an offline regression test of event intelligence and message safety. It does not publish to Telegram.
+
+## Repository tree
+
+```text
+GamingNewsroomBot/
+├── .github/workflows/newbot.yml
+├── tests/
+│   ├── test_event_engine.py
+│   └── test_v2_engine.py
+├── main.py
+├── article_normalizer.py
+├── event_engine.py
+├── event_store.py
+├── scoring.py
+├── slate_selector.py
+├── post_validator.py
+├── news_state.json
+├── posted_urls.txt
+├── requirements.txt
+└── README.md
+```
