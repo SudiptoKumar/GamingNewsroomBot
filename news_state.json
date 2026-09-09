@@ -2,136 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"25655-cWZJIz55S4KCpM0FsLinu88h0FI\"",
+      "etag": "W/\"25883-kCnN6Y+yGJLmB1ZhQDt7kwQ3zJY\"",
       "last_modified": null,
-      "last_checked": "2026-09-09T11:43:49.497366+06:00",
+      "last_checked": "2026-09-09T16:47:51.064852+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-09T11:43:49.754735+06:00",
+      "last_checked": "2026-09-09T16:47:51.361769+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aa0f133-a63\"",
-      "last_modified": "Wed, 09 Sep 2026 05:40:03 GMT",
-      "last_checked": "2026-09-09T11:43:50.088228+06:00",
+      "etag": "\"6aa138d0-a86\"",
+      "last_modified": "Wed, 09 Sep 2026 10:45:36 GMT",
+      "last_checked": "2026-09-09T16:47:51.650766+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Tue, 08 Sep 2026 15:45:42 GMT",
-      "last_checked": "2026-09-09T11:43:50.736355+06:00",
+      "last_modified": "Wed, 09 Sep 2026 10:34:15 GMT",
+      "last_checked": "2026-09-09T16:47:51.939991+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6aa08884-1211\"",
-      "last_modified": "Wed, 09 Sep 2026 05:40:56 GMT",
-      "last_checked": "2026-09-09T11:43:50.933437+06:00",
+      "etag": "\"6aa13226-1243\"",
+      "last_modified": "Wed, 09 Sep 2026 10:17:10 GMT",
+      "last_checked": "2026-09-09T16:47:52.225731+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-09T11:43:51.227926+06:00",
+      "last_checked": "2026-09-09T16:47:52.465868+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-09T11:43:52.055437+06:00",
+      "last_checked": "2026-09-09T16:47:53.064797+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"67dceebd40935073dd1e878aed9df7fd\"",
-      "last_modified": "Wed, 09 Sep 2026 03:10:30 GMT",
-      "last_checked": "2026-09-09T11:43:52.320649+06:00",
+      "etag": "W/\"3b433590d7b2461068ca73f2e047a8eb\"",
+      "last_modified": "Wed, 09 Sep 2026 10:45:09 GMT",
+      "last_checked": "2026-09-09T16:47:53.333316+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-09T11:43:52.541081+06:00",
+      "last_checked": "2026-09-09T16:47:53.520123+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Tue, 8 Sep 2026 18:59:28 GMT",
-      "last_checked": "2026-09-09T11:43:53.197618+06:00",
+      "last_checked": "2026-09-09T16:47:53.942299+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Wed, 09 Sep 2026 05:43:53 GMT",
-      "last_checked": "2026-09-09T11:43:53.935118+06:00",
+      "last_modified": "Wed, 09 Sep 2026 10:47:54 GMT",
+      "last_checked": "2026-09-09T16:47:54.468874+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"e08fdad9d5aa7dff6befbe4ef5e5ec19\"",
-      "last_modified": "Tue, 08 Sep 2026 22:38:17 GMT",
-      "last_checked": "2026-09-09T11:43:54.375990+06:00",
+      "etag": "W/\"5d1885175f93c47583b2253276a1cd4c\"",
+      "last_modified": "Wed, 09 Sep 2026 10:22:37 GMT",
+      "last_checked": "2026-09-09T16:47:54.873252+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-09T11:43:54.959424+06:00",
+      "last_checked": "2026-09-09T16:47:55.181596+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-09T11:43:55.545149+06:00",
+      "last_checked": "2026-09-09T16:47:55.524680+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-09T11:43:56.089754+06:00",
+      "last_checked": "2026-09-09T16:47:55.850028+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-09T11:43:56.490229+06:00",
-      "fail_count": 2
+      "last_checked": "2026-09-09T16:47:56.088366+06:00",
+      "fail_count": 3,
+      "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"0aa6b2de0fe73495e8b5a262e2013634\"",
       "last_modified": "Tue, 08 Sep 2026 19:02:30 GMT",
-      "last_checked": "2026-09-09T11:43:56.636189+06:00",
+      "last_checked": "2026-09-09T16:48:03.208557+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-09T11:43:56.801949+06:00",
+      "last_checked": "2026-09-09T16:48:03.392612+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-09T11:43:57.105607+06:00",
-      "fail_count": 2
+      "last_checked": "2026-09-09T16:48:03.543735+06:00",
+      "fail_count": 3,
+      "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"d9a4dbf7c8b219bb4b07e5b117c6ee64\"",
       "last_modified": "Tue, 08 Sep 2026 14:37:18 GMT",
-      "last_checked": "2026-09-09T11:43:57.319035+06:00",
+      "last_checked": "2026-09-09T16:48:03.796548+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -957,6 +959,442 @@
       "status": "pending",
       "first_seen": "2026-09-09T11:43:54.980310+06:00",
       "last_seen": "2026-09-09T11:43:54.980315+06:00"
+    },
+    "ign.com/articles/legos-mario-kart-bowsers-castle-set-drops-to-its-lowest-price-yet-at-amazon-before-its-retired": {
+      "title": "LEGO’s Mario Kart Bowser’s Castle Set Drops to Its Lowest Price Yet at Amazon Before It’s Retired",
+      "url": "https://www.ign.com/articles/legos-mario-kart-bowsers-castle-set-drops-to-its-lowest-price-yet-at-amazon-before-its-retired",
+      "canonical": "ign.com/articles/legos-mario-kart-bowsers-castle-set-drops-to-its-lowest-price-yet-at-amazon-before-its-retired",
+      "published_dt": "2026-09-09T16:02:52+06:00",
+      "published_date": "2026-09-09T16:02:52+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "The LEGO Mario Kart Bowser's Castle set is retiring soon, but Amazon still has it available for shoppers to buy, and it's even on sale at its lowest price yet of $65 there.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/08/lego-mario-kart-bowsers-castle1-1788868273160.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:51.181549+06:00",
+      "last_seen": "2026-09-09T16:47:51.181556+06:00"
+    },
+    "ign.com/articles/apparent-steam-leak-reveals-persona-6-and-kingdom-hearts-4-achievements-unannounced-games": {
+      "title": "Apparent Steam Leak Reveals Persona 6 and Kingdom Hearts 4 Achievements, Unannounced Games",
+      "url": "https://www.ign.com/articles/apparent-steam-leak-reveals-persona-6-and-kingdom-hearts-4-achievements-unannounced-games",
+      "canonical": "ign.com/articles/apparent-steam-leak-reveals-persona-6-and-kingdom-hearts-4-achievements-unannounced-games",
+      "published_dt": "2026-09-09T15:48:21+06:00",
+      "published_date": "2026-09-09T15:48:21+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Achievements for various upcoming games have been made public as part of a significant Steam leak.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/09/ss-d77650ae452c636110b10e219d5a685708275684-1920x1080-1788947099371.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:51.181709+06:00",
+      "last_seen": "2026-09-09T16:47:51.181712+06:00"
+    },
+    "ign.com/articles/the-legend-of-zelda-40th-anniversary-switch-2-console-and-accessory-preorders-are-live-in-the-uk": {
+      "title": "The Legend of Zelda 40th Anniversary Switch 2 Console and Accessory Preorders Are Live in the UK",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-40th-anniversary-switch-2-console-and-accessory-preorders-are-live-in-the-uk",
+      "canonical": "ign.com/articles/the-legend-of-zelda-40th-anniversary-switch-2-console-and-accessory-preorders-are-live-in-the-uk",
+      "published_dt": "2026-09-09T15:18:09+06:00",
+      "published_date": "2026-09-09T15:18:09+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Preorders are starting to go live at Nintendo's UK store and Smyths Toys for the Zelda 40th Anniversary Edition Switch 2 console and accessories. But act fast!",
+      "image": "https://assets-prd.ignimgs.com/2026/09/09/zelda-console-article-2-1788945443880.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:51.181826+06:00",
+      "last_seen": "2026-09-09T16:47:51.181829+06:00"
+    },
+    "videogameschronicle.com/news/nintendo-direct-heres-where-to-watch-todays-big-presentation": {
+      "title": "Nintendo Direct: Here’s where to watch today’s big presentation",
+      "url": "https://www.videogameschronicle.com/news/nintendo-direct-heres-where-to-watch-todays-big-presentation/",
+      "canonical": "videogameschronicle.com/news/nintendo-direct-heres-where-to-watch-todays-big-presentation",
+      "published_dt": "2026-09-09T16:45:30+06:00",
+      "published_date": "2026-09-09T16:45:30+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Nintendo is following up Tuesday's Zelda stream with 45 minutes of new announcements",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:51.659429+06:00",
+      "last_seen": "2026-09-09T16:47:51.659434+06:00"
+    },
+    "videogameschronicle.com/news/sonic-racing-crossworlds-final-free-dlc-character-for-year-1-is-amigo-from-samba-de-amigo": {
+      "title": "Sonic Racing CrossWorlds’ final free DLC character for Year 1 is Amigo from Samba de Amigo",
+      "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-final-free-dlc-character-for-year-1-is-amigo-from-samba-de-amigo/",
+      "canonical": "videogameschronicle.com/news/sonic-racing-crossworlds-final-free-dlc-character-for-year-1-is-amigo-from-samba-de-amigo",
+      "published_dt": "2026-09-09T16:08:10+06:00",
+      "published_date": "2026-09-09T16:08:10+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "He brings the total roster up to 57, with a second season of content to come",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:51.659572+06:00",
+      "last_seen": "2026-09-09T16:47:51.659576+06:00"
+    },
+    "videogameschronicle.com/news/huge-steam-leak-shows-achievement-lists-for-hundreds-of-upcoming-games-including-kingdom-hearts-4-and-persona-6": {
+      "title": "Huge Steam leak shows achievement lists for hundreds of upcoming games, including Kingdom Hearts 4 and Persona 6",
+      "url": "https://www.videogameschronicle.com/news/huge-steam-leak-shows-achievement-lists-for-hundreds-of-upcoming-games-including-kingdom-hearts-4-and-persona-6/",
+      "canonical": "videogameschronicle.com/news/huge-steam-leak-shows-achievement-lists-for-hundreds-of-upcoming-games-including-kingdom-hearts-4-and-persona-6",
+      "published_dt": "2026-09-09T14:59:35+06:00",
+      "published_date": "2026-09-09T14:59:35+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "The leak could also include previously unannounced and cancelled games",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-09T16:47:51.659697+06:00",
+      "last_seen": "2026-09-09T16:47:51.659699+06:00",
+      "posted_at": "2026-09-09T16:54:21.568736+06:00"
+    },
+    "eurogamer.net/achievement-leak-persona-6-kingdom-hearts-games-list-steam": {
+      "title": "Persona 6, Kingdom Hearts 4 spoilers may have emerged online amid massive achievements leak for unreleased games",
+      "url": "https://www.eurogamer.net/achievement-leak-persona-6-kingdom-hearts-games-list-steam",
+      "canonical": "eurogamer.net/achievement-leak-persona-6-kingdom-hearts-games-list-steam",
+      "published_dt": "2026-09-09T16:34:15+06:00",
+      "published_date": "2026-09-09T16:34:15+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "A massive information leak appears to have pushed full achievement lists for upcoming and unannounced PC games, including Persona 6 and Kingdom Hearts 4 , onto the internet. Read more",
+      "image": "https://assetsio.gnwcdn.com/KINGDOM-HEARTS-20th-ANNIVERSARY-ANNOUNCEMENT-TRAILER-4-58-screenshot.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:52.022385+06:00",
+      "last_seen": "2026-09-09T16:47:52.022391+06:00"
+    },
+    "eurogamer.net/total-war-warhammer-40000-most-complex-accessible-heres-how": {
+      "title": "Total War: Warhammer 40k is aiming to be the most complex and most accessible game Creative Assembly has ever made - here's how the devs managed both",
+      "url": "https://www.eurogamer.net/total-war-warhammer-40000-most-complex-accessible-heres-how",
+      "canonical": "eurogamer.net/total-war-warhammer-40000-most-complex-accessible-heres-how",
+      "published_dt": "2026-09-09T15:00:12+06:00",
+      "published_date": "2026-09-09T15:00:12+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "The Total War: Warhammer 40,000 team at Creative Assembly has an interesting challenge on its hands. How do you create a game that lives up to the series' reputation as a deep tactical adventure while building a strong enough on-ramp for those new to the Total War series and to Warhammer as a whole? Read more",
+      "image": "https://assetsio.gnwcdn.com/total-war-warhammer-40k-space-marine.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:52.022663+06:00",
+      "last_seen": "2026-09-09T16:47:52.022666+06:00"
+    },
+    "eurogamer.net/the-blood-of-dawnwalker-the-witcher-3-fans": {
+      "title": "It turns out 58% of The Blood of Dawnwalker players have also played The Witcher 3, and roughly 40% of the entire playerbase is on Steam",
+      "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-the-witcher-3-fans",
+      "canonical": "eurogamer.net/the-blood-of-dawnwalker-the-witcher-3-fans",
+      "published_dt": "2026-09-09T14:26:18+06:00",
+      "published_date": "2026-09-09T14:26:18+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "If you're familiar with the lineage of Rebel Wolves, the studio behind the recently-released The Blood of Dawnwalker, it may not surprise you to learn that a lot of the game's players are also fans of a certain other medieval fantasy RPG. Read more",
+      "image": "https://assetsio.gnwcdn.com/the-blood-of-dawnwalker-vampires-shot-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:52.022881+06:00",
+      "last_seen": "2026-09-09T16:47:52.022884+06:00"
+    },
+    "pcgamer.com/software/switzerland-trials-ditching-microsoft-and-using-free-and-open-source-software-available-for-around-3-000-employees-from-the-end-of-2027": {
+      "title": "Switzerland trials ditching Microsoft and using free and open-source software, available for 'around 3,000 employees' from the end of 2027",
+      "url": "https://www.pcgamer.com/software/switzerland-trials-ditching-microsoft-and-using-free-and-open-source-software-available-for-around-3-000-employees-from-the-end-of-2027/",
+      "canonical": "pcgamer.com/software/switzerland-trials-ditching-microsoft-and-using-free-and-open-source-software-available-for-around-3-000-employees-from-the-end-of-2027",
+      "published_dt": "2026-09-09T16:15:18+06:00",
+      "published_date": "2026-09-09T16:15:18+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "The European country joins some others in moving away from Microsoft 365.",
+      "image": "https://cdn.mos.cms.futurecdn.net/8THjbfsgp3iDSHVZLiuLK8-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:52.746491+06:00",
+      "last_seen": "2026-09-09T16:47:52.746497+06:00"
+    },
+    "polygon.com/disney-hexed-interview": {
+      "title": "Disney's Zootopia 2 Follow-up Wants to Resurrect 70-Year-Old Movie Magic",
+      "url": "https://www.polygon.com/disney-hexed-interview/",
+      "canonical": "polygon.com/disney-hexed-interview",
+      "published_dt": "2026-09-09T16:00:14+06:00",
+      "published_date": "2026-09-09T16:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The directors of Hexed discuss their weird, witchy world",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/billie-sits-next-to-beef-while-he-drives-his-trailer-in-hexed.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:53.074982+06:00",
+      "last_seen": "2026-09-09T16:47:53.074989+06:00"
+    },
+    "polygon.com/kingdom-hearts-4-worlds-spoiled-steam-achievements-leak": {
+      "title": "Kingdom Hearts 4 Worlds Spoiled in Massive Steam Achievements Leak",
+      "url": "https://www.polygon.com/kingdom-hearts-4-worlds-spoiled-steam-achievements-leak/",
+      "canonical": "polygon.com/kingdom-hearts-4-worlds-spoiled-steam-achievements-leak",
+      "published_dt": "2026-09-09T15:49:04+06:00",
+      "published_date": "2026-09-09T15:49:04+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Most, if not all, of the worlds featured in Kingdom Hearts 4 have been spoiled in a huge Steam achievements leak.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/kingdom-hearts-4.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:53.075200+06:00",
+      "last_seen": "2026-09-09T16:47:53.075207+06:00"
+    },
+    "polygon.com/the-100-streaming-free-pluto-tv-best-binge": {
+      "title": "'Battlestar Galactica' Meets 'Hunger Games' in 100-Episode Action Thriller That's Free on Streaming",
+      "url": "https://www.polygon.com/the-100-streaming-free-pluto-tv-best-binge/",
+      "canonical": "polygon.com/the-100-streaming-free-pluto-tv-best-binge",
+      "published_dt": "2026-09-09T14:21:14+06:00",
+      "published_date": "2026-09-09T14:21:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The 100 combines Battlestar Galactica and The Hunger Games in a gritty sci-fi thriller spanning exactly 100 episodes, now streaming free on Pluto TV.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/tcdonhu_ec069.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:53.075386+06:00",
+      "last_seen": "2026-09-09T16:47:53.075391+06:00"
+    },
+    "polygon.com/marvels-phase-7-movie-slate-is-hiding-in-plain-sight": {
+      "title": "Marvel Phase 7 and 8 Movie Slate and Release Dates: 'Black Panther 3,' 'Shang-Chi 2' and Beyond",
+      "url": "https://www.polygon.com/marvels-phase-7-movie-slate-is-hiding-in-plain-sight/",
+      "canonical": "polygon.com/marvels-phase-7-movie-slate-is-hiding-in-plain-sight",
+      "published_dt": "2026-09-09T14:00:14+06:00",
+      "published_date": "2026-09-09T14:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The MCU has two untitled movies slated to release in the next two years. Can we predict Marvel Phase 7?",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/2287656599.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:53.075558+06:00",
+      "last_seen": "2026-09-09T16:47:53.075563+06:00"
+    },
+    "gamesradar.com/games/kingdom-hearts/kingdom-hearts-4-persona-6-and-various-unannounced-games-allegedly-see-their-achievements-go-public-as-part-of-massive-steam-leak": {
+      "title": "Kingdom Hearts 4, Persona 6, and various \"unannounced\" games allegedly see their achievements go public as part of massive Steam leak",
+      "url": "https://www.gamesradar.com/games/kingdom-hearts/kingdom-hearts-4-persona-6-and-various-unannounced-games-allegedly-see-their-achievements-go-public-as-part-of-massive-steam-leak/",
+      "canonical": "gamesradar.com/games/kingdom-hearts/kingdom-hearts-4-persona-6-and-various-unannounced-games-allegedly-see-their-achievements-go-public-as-part-of-massive-steam-leak",
+      "published_dt": "2026-09-09T16:24:37+06:00",
+      "published_date": "2026-09-09T16:24:37+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Including Gears of War: E-Day, Silent Hill: Townfall, and many more",
+      "image": "https://cdn.mos.cms.futurecdn.net/jXdyDvoTaThFHXT2QLepvU-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:53.707962+06:00",
+      "last_seen": "2026-09-09T16:47:53.707969+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-movies/avengers-secret-wars-gets-its-best-tease-yet-as-kevin-feige-reveals-it-will-tell-a-new-story-inspired-by-the-comics-featuring-moments-fans-have-always-dreamed-of": {
+      "title": "Avengers: Secret Wars gets its best tease yet as Kevin Feige reveals it will tell a \"new story\" inspired by the comics, featuring moments fans have \"always dreamed of\"",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-secret-wars-gets-its-best-tease-yet-as-kevin-feige-reveals-it-will-tell-a-new-story-inspired-by-the-comics-featuring-moments-fans-have-always-dreamed-of/",
+      "canonical": "gamesradar.com/entertainment/marvel-movies/avengers-secret-wars-gets-its-best-tease-yet-as-kevin-feige-reveals-it-will-tell-a-new-story-inspired-by-the-comics-featuring-moments-fans-have-always-dreamed-of",
+      "published_dt": "2026-09-09T16:21:12+06:00",
+      "published_date": "2026-09-09T16:21:12+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Doctor Doom will be the \"centerpiece\" of Avengers: Secret Wars",
+      "image": "https://cdn.mos.cms.futurecdn.net/Cgu6A65DMX3Uh8m5sbw9bK-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:53.708096+06:00",
+      "last_seen": "2026-09-09T16:47:53.708099+06:00"
+    },
+    "gamesradar.com/entertainment/dc-tv-shows/upcoming-dcu-show-the-people-v-gorilla-grodd-has-started-filming-at-a-us-university-just-weeks-after-it-was-announced": {
+      "title": "Upcoming DCU show The People v. Gorilla Grodd has started filming at a US university just weeks after it was announced",
+      "url": "https://www.gamesradar.com/entertainment/dc-tv-shows/upcoming-dcu-show-the-people-v-gorilla-grodd-has-started-filming-at-a-us-university-just-weeks-after-it-was-announced/",
+      "canonical": "gamesradar.com/entertainment/dc-tv-shows/upcoming-dcu-show-the-people-v-gorilla-grodd-has-started-filming-at-a-us-university-just-weeks-after-it-was-announced",
+      "published_dt": "2026-09-09T16:17:44+06:00",
+      "published_date": "2026-09-09T16:17:44+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The Jimmy Olsen show has started production just two weeks after Man of Tomorrow wrapped",
+      "image": "https://cdn.mos.cms.futurecdn.net/pLKYtY8ctS8cm82RbTxyph-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:53.708210+06:00",
+      "last_seen": "2026-09-09T16:47:53.708213+06:00"
+    },
+    "gamesradar.com/news/live/nintendo-direct-september-2026-everything-announced": {
+      "title": "Nintendo Direct September 2026 live coverage – all the leaks and rumors on the build-up to the showcase",
+      "url": "https://www.gamesradar.com/news/live/nintendo-direct-september-2026-everything-announced/",
+      "canonical": "gamesradar.com/news/live/nintendo-direct-september-2026-everything-announced",
+      "published_dt": "2026-09-09T16:15:53+06:00",
+      "published_date": "2026-09-09T16:15:53+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "We've seen plenty of The Legend of Zelda: Ocarina of Time remake; now it's time to see what else Nintendo is cooking",
+      "image": "https://cdn.mos.cms.futurecdn.net/HdGuSHmRGTQXdfiaKhJ9dX-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:53.708318+06:00",
+      "last_seen": "2026-09-09T16:47:53.708321+06:00"
+    },
+    "gamesradar.com/games/persona/persona-4-revival-lets-atlus-go-more-in-depth-with-yosuke-lead-says-even-if-you-cant-romance-him-there-has-been-something-more-we-could-explore-with-every-character": {
+      "title": "Persona 4 Revival lets Atlus \"go more in-depth\" with Yosuke, lead says, even if you can't romance him: \"There has been something more we could explore with every character\"",
+      "url": "https://www.gamesradar.com/games/persona/persona-4-revival-lets-atlus-go-more-in-depth-with-yosuke-lead-says-even-if-you-cant-romance-him-there-has-been-something-more-we-could-explore-with-every-character/",
+      "canonical": "gamesradar.com/games/persona/persona-4-revival-lets-atlus-go-more-in-depth-with-yosuke-lead-says-even-if-you-cant-romance-him-there-has-been-something-more-we-could-explore-with-every-character",
+      "published_dt": "2026-09-09T16:11:13+06:00",
+      "published_date": "2026-09-09T16:11:13+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Kazuhisa Wada says the Persona 4 spin-offs helped develop characters further",
+      "image": "https://cdn.mos.cms.futurecdn.net/m5zUpTZecnQjk4JvCDaZzQ-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-09T16:47:53.708425+06:00",
+      "last_seen": "2026-09-09T16:47:53.708427+06:00",
+      "posted_at": "2026-09-09T16:54:27.008637+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-movies/it-seems-like-marvel-fans-can-see-avengers-doomsday-2-days-early-in-some-locations-heres-how": {
+      "title": "It seems like Marvel fans can see Avengers: Doomsday 2 days early in some locations – here's how",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/it-seems-like-marvel-fans-can-see-avengers-doomsday-2-days-early-in-some-locations-heres-how/",
+      "canonical": "gamesradar.com/entertainment/marvel-movies/it-seems-like-marvel-fans-can-see-avengers-doomsday-2-days-early-in-some-locations-heres-how",
+      "published_dt": "2026-09-09T14:36:14+06:00",
+      "published_date": "2026-09-09T14:36:14+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Doomsday is coming",
+      "image": "https://cdn.mos.cms.futurecdn.net/C9wvjJD3zi5cNhigC2xu8L-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:53.708522+06:00",
+      "last_seen": "2026-09-09T16:47:53.708525+06:00"
+    },
+    "insider-gaming.com/all-escape-from-tarkov-codes-rewards": {
+      "title": "All Escape from Tarkov Codes—Active Reward Codes and Free Items",
+      "url": "https://insider-gaming.com/all-escape-from-tarkov-codes-rewards/",
+      "canonical": "insider-gaming.com/all-escape-from-tarkov-codes-rewards",
+      "published_dt": "2026-09-09T16:06:41+06:00",
+      "published_date": "2026-09-09T16:06:41+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "If you're hunting for more Escape from Tarkov codes for free items, you'll want to check out this guide, it has all the codes you need. The post All Escape from Tarkov Codes—Active Reward Codes and Free Items appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:54.883586+06:00",
+      "last_seen": "2026-09-09T16:47:54.883591+06:00"
+    },
+    "insider-gaming.com/ea-fc-27-platinum-trophy-incentivizes-microtransactions-ultimate-editions": {
+      "title": "EA FC 27 Platinum Trophy Incentivizes Microtransactions & Ultimate Editions",
+      "url": "https://insider-gaming.com/ea-fc-27-platinum-trophy-incentivizes-microtransactions-ultimate-editions/",
+      "canonical": "insider-gaming.com/ea-fc-27-platinum-trophy-incentivizes-microtransactions-ultimate-editions",
+      "published_dt": "2026-09-09T15:41:27+06:00",
+      "published_date": "2026-09-09T15:41:27+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "The EA FC 27 list of all Trophies and Achievements reveals a hefty grind and a significant splash out are required for completionists. The post EA FC 27 Platinum Trophy Incentivizes Microtransactions & Ultimate Editions appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:54.883844+06:00",
+      "last_seen": "2026-09-09T16:47:54.883848+06:00"
+    },
+    "insider-gaming.com/ea-fc-27-trophy-list-achievements": {
+      "title": "Complete EA FC 27 Trophy List—How To Get All Trophies & Achievements",
+      "url": "https://insider-gaming.com/ea-fc-27-trophy-list-achievements/",
+      "canonical": "insider-gaming.com/ea-fc-27-trophy-list-achievements",
+      "published_dt": "2026-09-09T14:29:07+06:00",
+      "published_date": "2026-09-09T14:29:07+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "All the details on the tasks that lie ahead for EA FC 27 players chasing down every Achievement and Trophy in the title. The post Complete EA FC 27 Trophy List—How To Get All Trophies & Achievements appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:54.884099+06:00",
+      "last_seen": "2026-09-09T16:47:54.884103+06:00"
+    },
+    "nintendolife.com/news/2026/09/video-heres-a-bunch-more-gameplay-from-zelda-ocarina-of-time-on-switch-2": {
+      "title": "Video: Here's A Bunch More Gameplay From Zelda: Ocarina Of Time On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/09/video-heres-a-bunch-more-gameplay-from-zelda-ocarina-of-time-on-switch-2",
+      "canonical": "nintendolife.com/news/2026/09/video-heres-a-bunch-more-gameplay-from-zelda-ocarina-of-time-on-switch-2",
+      "published_dt": "2026-09-09T14:15:00+06:00",
+      "published_date": "2026-09-09T14:15:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Maybe don't watch it, though..? Nintendo showcased a sizeable chunk of gameplay from Zelda: Ocarina of Time for its 40th Anniversary Direct, but there's actually quite a bit more that you might not have seen yet. Nintendo's main site for Japan contains lots of extra bits and bobs, and the lovely folks over at Gamespot have compiled it into one handy video. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/6161ee8a8733d/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:55.198610+06:00",
+      "last_seen": "2026-09-09T16:47:55.198615+06:00"
+    },
+    "pushsquare.com/news/2026/09/beloved-undersea-adventure-dave-the-diver-has-sold-a-whopping-10-million-copies": {
+      "title": "Beloved Undersea Adventure Dave the Diver Has Sold a Whopping 10 Million Copies",
+      "url": "https://www.pushsquare.com/news/2026/09/beloved-undersea-adventure-dave-the-diver-has-sold-a-whopping-10-million-copies",
+      "canonical": "pushsquare.com/news/2026/09/beloved-undersea-adventure-dave-the-diver-has-sold-a-whopping-10-million-copies",
+      "published_dt": "2026-09-09T15:30:00+06:00",
+      "published_date": "2026-09-09T15:30:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Landed a big one. Publisher and developer Mintrocket has announced its acclaimed debut title, Dave the Diver , has now surpassed 10 million total sales. The studio has celebrated the milestone with new artwork, shared across its socials: Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/3ca9ede7618dc/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-09T16:47:55.543599+06:00",
+      "last_seen": "2026-09-09T16:47:55.543604+06:00",
+      "posted_at": "2026-09-09T16:54:32.036817+06:00"
+    },
+    "pushsquare.com/news/2026/09/spoilers-for-major-upcoming-games-made-public-in-achievements-leak": {
+      "title": "Spoilers for Major Upcoming Games Made Public in Achievements Leak",
+      "url": "https://www.pushsquare.com/news/2026/09/spoilers-for-major-upcoming-games-made-public-in-achievements-leak",
+      "canonical": "pushsquare.com/news/2026/09/spoilers-for-major-upcoming-games-made-public-in-achievements-leak",
+      "published_dt": "2026-09-09T14:45:00+06:00",
+      "published_date": "2026-09-09T14:45:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Kingdom Hearts 4 worlds, Persona 6 story info all online. Spoilers for big upcoming PS5 games, and the existence of unannounced titles, have been posted online because of an achievements list leak from PC platform Steam. Overnight, the Exophase website — which we use to view Trophy lists as they go live in the PSN backend — published a long list of Steam achievements for games that shouldn't be public yet. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/db00cae902d1f/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T16:47:55.543918+06:00",
+      "last_seen": "2026-09-09T16:47:55.543923+06:00"
+    },
+    "purexbox.com/news/2026/09/loads-of-ubisoft-games-have-suddenly-joined-xbox-disc-to-digital-overnight": {
+      "title": "Loads Of Ubisoft Games Have Suddenly Joined Xbox Disc To Digital Overnight",
+      "url": "https://www.purexbox.com/news/2026/09/loads-of-ubisoft-games-have-suddenly-joined-xbox-disc-to-digital-overnight",
+      "canonical": "purexbox.com/news/2026/09/loads-of-ubisoft-games-have-suddenly-joined-xbox-disc-to-digital-overnight",
+      "published_dt": "2026-09-09T15:30:00+06:00",
+      "published_date": "2026-09-09T15:30:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "And more companies may follow soon! This is great news to wake up to on a Wednesday! The Xbox Disc to Digital feature, which is still in testing for Xbox Insiders as things stand, has suddenly started to incorporate Ubisoft games for the first time. Yesterday, there was a lot of chatter on social media about how the likes of Ubisoft, SEGA and Square Enix appeared to be avoiding the program, and Ubisoft actually ended up commenting to Kotaku that they should reach out to Xbox about it. A few hours later, their games suddenly started working with the Disc to Digital service. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/9a5f4d3704db6/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-09T16:47:55.868250+06:00",
+      "last_seen": "2026-09-09T16:47:55.868256+06:00",
+      "posted_at": "2026-09-09T16:54:37.453125+06:00"
     }
   },
   "events": {
@@ -1216,6 +1654,236 @@
           "claims": [
             "Nintendo revealed an updated Ocarina of Time for Switch 2 with jump, dash, and modern camera controls",
             "Limited‑edition Zelda Switch 2, Pro Controller and Ocarina of Time amiibo are selling out after release"
+          ]
+        }
+      ]
+    },
+    "evt_ad6bf6c22b71d7": {
+      "event_id": "evt_ad6bf6c22b71d7",
+      "event_key": "steam achievements leak 2026 09 09",
+      "event_subject": "Steam",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "steam achievements leak 2026 09 09",
+        "subject": "Steam",
+        "event_type": "other",
+        "action": "publish",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Multiple (including unannounced titles)",
+        "franchise": "Various",
+        "institution": "Valve/Steam",
+        "target": "upcoming PC games",
+        "platforms": [
+          "PC",
+          "Steam"
+        ],
+        "topic": "Steam leak"
+      },
+      "sources": [
+        "Eurogamer",
+        "GamesRadar+",
+        "Polygon",
+        "IGN",
+        "VGC",
+        "Push Square"
+      ],
+      "event_sources": [
+        "Eurogamer",
+        "GamesRadar+",
+        "Polygon",
+        "IGN",
+        "VGC",
+        "Push Square"
+      ],
+      "claims": [
+        "Massive achievements list leak for upcoming games",
+        "Massive achievements list leak for upcoming games",
+        "Worlds of Kingdom Hearts 4 spoiled via achievements leak",
+        "Achievements for Persona 6 and Kingdom Hearts 4 revealed",
+        "Huge leak shows achievement lists for hundreds of upcoming games",
+        "Spoilers from achievements leak posted online"
+      ],
+      "importance_score": 85,
+      "coverage_score": 17,
+      "originality_score": 10,
+      "significance_score": 38,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Steam API Glitch Exposes Achievements for Kingdom Hearts 4, Persona 6 and Hundreds More",
+      "summary": "A faulty Valve API allowed Exophase to scrape achievement data from Steam, leaking spoilers for upcoming titles like Kingdom Hearts 4, Persona 6 and many others.",
+      "published_at": "2026-09-09T14:59:35+06:00",
+      "selected_at": "2026-09-09T10:54:21.568770+00:00",
+      "status": "published",
+      "message_id": 168,
+      "published_versions": [
+        {
+          "published_at": "2026-09-09T10:54:21.568770+00:00",
+          "headline": "Steam API Glitch Exposes Achievements for Kingdom Hearts 4, Persona 6 and Hundreds More",
+          "claims": [
+            "Massive achievements list leak for upcoming games",
+            "Massive achievements list leak for upcoming games",
+            "Worlds of Kingdom Hearts 4 spoiled via achievements leak",
+            "Achievements for Persona 6 and Kingdom Hearts 4 revealed",
+            "Huge leak shows achievement lists for hundreds of upcoming games",
+            "Spoilers from achievements leak posted online"
+          ]
+        }
+      ]
+    },
+    "evt_64f99879f28471": {
+      "event_id": "evt_64f99879f28471",
+      "event_key": "persona 4 revival announcement 2026",
+      "event_subject": "Atlus",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "persona 4 revival announcement 2026",
+        "subject": "Atlus",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Persona 4 Revival",
+        "franchise": "Persona",
+        "institution": "Atlus",
+        "target": "fans",
+        "platforms": [
+          "Switch",
+          "PS5"
+        ],
+        "topic": "Persona 4 Revival"
+      },
+      "sources": [
+        "GamesRadar+"
+      ],
+      "event_sources": [
+        "GamesRadar+"
+      ],
+      "claims": [
+        "Atlus will explore Yosuke more deeply in Persona 4 Revival"
+      ],
+      "importance_score": 51,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 25,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Atlus promises deeper Yosuke focus in Persona 4 Revival without altering core personalities",
+      "summary": "At Gamescom, producer Kazuhisa Wada revealed that Persona 4 Revival will explore Yosuke and other characters more deeply while keeping their original traits intact.",
+      "published_at": "2026-09-09T16:11:13+06:00",
+      "selected_at": "2026-09-09T10:54:27.008671+00:00",
+      "status": "published",
+      "message_id": 169,
+      "published_versions": [
+        {
+          "published_at": "2026-09-09T10:54:27.008671+00:00",
+          "headline": "Atlus promises deeper Yosuke focus in Persona 4 Revival without altering core personalities",
+          "claims": [
+            "Atlus will explore Yosuke more deeply in Persona 4 Revival"
+          ]
+        }
+      ]
+    },
+    "evt_b88da53e15edad": {
+      "event_id": "evt_b88da53e15edad",
+      "event_key": "dave the diver 10m sales milestone 2026",
+      "event_subject": "Mintrocket",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "dave the diver 10m sales milestone 2026",
+        "subject": "Mintrocket",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Dave the Diver",
+        "franchise": "Dave the Diver",
+        "institution": "Mintrocket",
+        "target": "players",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "Sales milestone"
+      },
+      "sources": [
+        "Push Square"
+      ],
+      "event_sources": [
+        "Push Square"
+      ],
+      "claims": [
+        "Dave the Diver reaches 10 million copies sold"
+      ],
+      "importance_score": 50,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 20,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Mintrocket’s Dave the Diver Surpasses 10 Million Copies Sold",
+      "summary": "The undersea adventure Dave the Diver has reached a cumulative 10 million sales milestone across all platforms since its 2022 PC early‑access launch.",
+      "published_at": "2026-09-09T15:30:00+06:00",
+      "selected_at": "2026-09-09T10:54:32.036848+00:00",
+      "status": "published",
+      "message_id": 170,
+      "published_versions": [
+        {
+          "published_at": "2026-09-09T10:54:32.036848+00:00",
+          "headline": "Mintrocket’s Dave the Diver Surpasses 10 Million Copies Sold",
+          "claims": [
+            "Dave the Diver reaches 10 million copies sold"
+          ]
+        }
+      ]
+    },
+    "evt_782ded22830db4": {
+      "event_id": "evt_782ded22830db4",
+      "event_key": "ubisoft disc to digital integration 2026",
+      "event_subject": "Ubisoft",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ubisoft disc to digital integration 2026",
+        "subject": "Ubisoft",
+        "event_type": "other",
+        "action": "integrate",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Various Ubisoft titles",
+        "franchise": "Various Ubisoft titles",
+        "institution": "Ubisoft",
+        "target": "Xbox users",
+        "platforms": [
+          "Xbox"
+        ],
+        "topic": "Xbox feature"
+      },
+      "sources": [
+        "Pure Xbox"
+      ],
+      "event_sources": [
+        "Pure Xbox"
+      ],
+      "claims": [
+        "Ubisoft games added to Xbox Disc‑to‑Digital program"
+      ],
+      "importance_score": 48,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 18,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Ubisoft Titles Join Xbox Disc‑to‑Digital Service in Surprise Rollout",
+      "summary": "The Xbox Disc‑to‑Digital feature, still in testing, now supports a range of Ubisoft games including Assassin’s Creed, Far Cry and Watch Dogs, after a sudden update.",
+      "published_at": "2026-09-09T15:30:00+06:00",
+      "selected_at": "2026-09-09T10:54:37.453154+00:00",
+      "status": "published",
+      "message_id": 171,
+      "published_versions": [
+        {
+          "published_at": "2026-09-09T10:54:37.453154+00:00",
+          "headline": "Ubisoft Titles Join Xbox Disc‑to‑Digital Service in Surprise Rollout",
+          "claims": [
+            "Ubisoft games added to Xbox Disc‑to‑Digital program"
           ]
         }
       ]
@@ -2592,6 +3260,709 @@
         "total": 33
       },
       "last_seen": "2026-09-09T11:45:16.785524+06:00"
+    },
+    "evt_ad6bf6c22b71d7": {
+      "event_id": "evt_ad6bf6c22b71d7",
+      "event_key": "steam achievements leak 2026 09 09",
+      "event_subject": "Steam",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "steam achievements leak 2026 09 09",
+        "subject": "Steam",
+        "event_type": "other",
+        "action": "publish",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Multiple (including unannounced titles)",
+        "franchise": "Various",
+        "institution": "Valve/Steam",
+        "target": "upcoming PC games",
+        "platforms": [
+          "PC",
+          "Steam"
+        ],
+        "topic": "Steam leak"
+      },
+      "modality": "unknown",
+      "topic": "Steam leak",
+      "institution": "Valve/Steam",
+      "sources": [
+        "Eurogamer",
+        "GamesRadar+",
+        "Polygon",
+        "IGN",
+        "VGC",
+        "Push Square"
+      ],
+      "source_count": 6,
+      "independent_source_count": 6,
+      "claims": [
+        "Massive achievements list leak for upcoming games",
+        "Massive achievements list leak for upcoming games",
+        "Worlds of Kingdom Hearts 4 spoiled via achievements leak",
+        "Achievements for Persona 6 and Kingdom Hearts 4 revealed",
+        "Huge leak shows achievement lists for hundreds of upcoming games",
+        "Spoilers from achievements leak posted online"
+      ],
+      "importance_score": 85,
+      "score_breakdown": {
+        "significance": 38,
+        "coverage": 17,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 85
+      },
+      "last_seen": "2026-09-09T16:49:20.282294+06:00"
+    },
+    "evt_027cc5f164c19d": {
+      "event_id": "evt_027cc5f164c19d",
+      "event_key": "nintendo direct sept 2026",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo direct sept 2026",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Various (Zelda, others)",
+        "franchise": "Nintendo",
+        "institution": "Nintendo",
+        "target": "global audience",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "Nintendo Direct"
+      },
+      "modality": "unknown",
+      "topic": "Nintendo Direct",
+      "institution": "Nintendo",
+      "sources": [
+        "VGC",
+        "GamesRadar+",
+        "IGN",
+        "Nintendo Life"
+      ],
+      "source_count": 4,
+      "independent_source_count": 4,
+      "claims": [
+        "Nintendo Direct scheduled for September 2026 with new announcements",
+        "Live coverage of Nintendo Direct September 2026",
+        "Preorders live in UK for anniversary Switch 2 console and accessories",
+        "Gameplay footage from Zelda: Ocarina of Time shown during Direct"
+      ],
+      "importance_score": 79,
+      "score_breakdown": {
+        "significance": 35,
+        "coverage": 14,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 79
+      },
+      "last_seen": "2026-09-09T16:49:20.282318+06:00"
+    },
+    "evt_64f99879f28471": {
+      "event_id": "evt_64f99879f28471",
+      "event_key": "persona 4 revival announcement 2026",
+      "event_subject": "Atlus",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "persona 4 revival announcement 2026",
+        "subject": "Atlus",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Persona 4 Revival",
+        "franchise": "Persona",
+        "institution": "Atlus",
+        "target": "fans",
+        "platforms": [
+          "Switch",
+          "PS5"
+        ],
+        "topic": "Persona 4 Revival"
+      },
+      "modality": "unknown",
+      "topic": "Persona 4 Revival",
+      "institution": "Atlus",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Atlus will explore Yosuke more deeply in Persona 4 Revival"
+      ],
+      "importance_score": 51,
+      "score_breakdown": {
+        "significance": 25,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 51
+      },
+      "last_seen": "2026-09-09T16:49:20.282326+06:00"
+    },
+    "evt_b88da53e15edad": {
+      "event_id": "evt_b88da53e15edad",
+      "event_key": "dave the diver 10m sales milestone 2026",
+      "event_subject": "Mintrocket",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "dave the diver 10m sales milestone 2026",
+        "subject": "Mintrocket",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Dave the Diver",
+        "franchise": "Dave the Diver",
+        "institution": "Mintrocket",
+        "target": "players",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "Sales milestone"
+      },
+      "modality": "unknown",
+      "topic": "Sales milestone",
+      "institution": "Mintrocket",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Dave the Diver reaches 10 million copies sold"
+      ],
+      "importance_score": 50,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 50
+      },
+      "last_seen": "2026-09-09T16:49:20.282332+06:00"
+    },
+    "evt_782ded22830db4": {
+      "event_id": "evt_782ded22830db4",
+      "event_key": "ubisoft disc to digital integration 2026",
+      "event_subject": "Ubisoft",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ubisoft disc to digital integration 2026",
+        "subject": "Ubisoft",
+        "event_type": "other",
+        "action": "integrate",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Various Ubisoft titles",
+        "franchise": "Various Ubisoft titles",
+        "institution": "Ubisoft",
+        "target": "Xbox users",
+        "platforms": [
+          "Xbox"
+        ],
+        "topic": "Xbox feature"
+      },
+      "modality": "unknown",
+      "topic": "Xbox feature",
+      "institution": "Ubisoft",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Ubisoft games added to Xbox Disc‑to‑Digital program"
+      ],
+      "importance_score": 48,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 48
+      },
+      "last_seen": "2026-09-09T16:49:20.282339+06:00"
+    },
+    "evt_59fb39e9aecb93": {
+      "event_id": "evt_59fb39e9aecb93",
+      "event_key": "ea fc 27 trophy microtransaction controversy 2026",
+      "event_subject": "Electronic Arts",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ea fc 27 trophy microtransaction controversy 2026",
+        "subject": "Electronic Arts",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "EA FC 27",
+        "franchise": "FIFA",
+        "institution": "EA Sports",
+        "target": "players",
+        "platforms": [
+          "PS5",
+          "Xbox Series X"
+        ],
+        "topic": "EA FC 27 trophies"
+      },
+      "modality": "unknown",
+      "topic": "EA FC 27 trophies",
+      "institution": "EA Sports",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Platinum trophy incentivizes microtransactions and Ultimate Editions",
+        "Complete trophy list for EA FC 27 released"
+      ],
+      "importance_score": 47,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 13,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 47
+      },
+      "last_seen": "2026-09-09T16:49:20.282345+06:00"
+    },
+    "evt_5d78f629bdfa3f": {
+      "event_id": "evt_5d78f629bdfa3f",
+      "event_key": "total war warhammer 40k dev insight 2026",
+      "event_subject": "Creative Assembly",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "total war warhammer 40k dev insight 2026",
+        "subject": "Creative Assembly",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Total War: Warhammer 40k",
+        "franchise": "Total War",
+        "institution": "Creative Assembly",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "Game development"
+      },
+      "modality": "unknown",
+      "topic": "Game development",
+      "institution": "Creative Assembly",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Team explains balancing complexity and accessibility"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-09-09T16:49:20.282350+06:00"
+    },
+    "evt_a4d06b0c260f06": {
+      "event_id": "evt_a4d06b0c260f06",
+      "event_key": "sonic racing crossworlds dlc amigo 2026",
+      "event_subject": "Sega",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sonic racing crossworlds dlc amigo 2026",
+        "subject": "Sega",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Sonic Racing CrossWorlds",
+        "franchise": "Sonic",
+        "institution": "Sega",
+        "target": "players",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "Sonic Racing DLC"
+      },
+      "modality": "unknown",
+      "topic": "Sonic Racing DLC",
+      "institution": "Sega",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Amigo from Samba de Amigo added as final free DLC character for Year 1"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-09-09T16:49:20.282355+06:00"
+    },
+    "evt_748ccd234bee1d": {
+      "event_id": "evt_748ccd234bee1d",
+      "event_key": "escape from tarkov codes release 2026",
+      "event_subject": "Battlestate Games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "escape from tarkov codes release 2026",
+        "subject": "Battlestate Games",
+        "event_type": "other",
+        "action": "publish",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Escape from Tarkov",
+        "franchise": "Escape from Tarkov",
+        "institution": "Battlestate Games",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "Reward codes"
+      },
+      "modality": "unknown",
+      "topic": "Reward codes",
+      "institution": "Battlestate Games",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Comprehensive list of active reward codes and free items"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 40
+      },
+      "last_seen": "2026-09-09T16:49:20.282361+06:00"
+    },
+    "evt_b6de82ea633c31": {
+      "event_id": "evt_b6de82ea633c31",
+      "event_key": "marvel phase 7 8 slate announcement 2026",
+      "event_subject": "Marvel Studios",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "marvel phase 7 8 slate announcement 2026",
+        "subject": "Marvel Studios",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Marvel Cinematic Universe",
+        "institution": "Marvel Studios",
+        "target": "fans",
+        "platforms": [],
+        "topic": "Marvel slate"
+      },
+      "modality": "unknown",
+      "topic": "Marvel slate",
+      "institution": "Marvel Studios",
+      "sources": [
+        "GamesRadar+",
+        "Polygon"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Kevin Feige reveals new story inspiration and Doctor Doom focus",
+        "Fans can see Doomsday two days early in some locations",
+        "Phase 7 & 8 movies including Black Panther 3 and Shang‑Chi 2 announced"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 40
+      },
+      "last_seen": "2026-09-09T16:49:20.282367+06:00"
+    },
+    "evt_7da6c2d13382ca": {
+      "event_id": "evt_7da6c2d13382ca",
+      "event_key": "blood of dawnwalker player demographics 2026",
+      "event_subject": "Rebel Wolves",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blood of dawnwalker player demographics 2026",
+        "subject": "Rebel Wolves",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "The Blood of Dawnwalker",
+        "franchise": "The Blood of Dawnwalker",
+        "institution": "Rebel Wolves",
+        "target": "players",
+        "platforms": [
+          "Steam"
+        ],
+        "topic": "Player demographics"
+      },
+      "modality": "unknown",
+      "topic": "Player demographics",
+      "institution": "Rebel Wolves",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "58% of players also played The Witcher 3"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-09T16:49:20.282373+06:00"
+    },
+    "evt_76406a45551c07": {
+      "event_id": "evt_76406a45551c07",
+      "event_key": "switzerland microsoft migration 2027",
+      "event_subject": "Swiss Government",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "switzerland microsoft migration 2027",
+        "subject": "Swiss Government",
+        "event_type": "other",
+        "action": "migrate",
+        "status": "planned",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Swiss Federal Administration",
+        "target": "~3,000 employees",
+        "platforms": [
+          "Windows"
+        ],
+        "topic": "Government IT migration"
+      },
+      "modality": "unknown",
+      "topic": "Government IT migration",
+      "institution": "Swiss Federal Administration",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Switzerland to replace Microsoft 365 with open-source software by end‑2027"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-09T16:49:20.282380+06:00"
+    },
+    "evt_ce30450100f8d0": {
+      "event_id": "evt_ce30450100f8d0",
+      "event_key": "the people v grodd filming start 2026",
+      "event_subject": "Warner Bros. Television",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "the people v grodd filming start 2026",
+        "subject": "Warner Bros. Television",
+        "event_type": "other",
+        "action": "start",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "DCU",
+        "institution": "Warner Bros.",
+        "target": "production crew",
+        "platforms": [],
+        "topic": "DCU show production"
+      },
+      "modality": "unknown",
+      "topic": "DCU show production",
+      "institution": "Warner Bros.",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Filming began at US university for The People v. Gorilla Grodd"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-09-09T16:49:20.282386+06:00"
+    },
+    "evt_9b0b826bd307c8": {
+      "event_id": "evt_9b0b826bd307c8",
+      "event_key": "zootopia 2 development 2026",
+      "event_subject": "Disney Animation",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "zootopia 2 development 2026",
+        "subject": "Disney Animation",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Zootopia 2",
+        "franchise": "Zootopia",
+        "institution": "Disney",
+        "target": "audience",
+        "platforms": [],
+        "topic": "Zootopia sequel"
+      },
+      "modality": "unknown",
+      "topic": "Zootopia sequel",
+      "institution": "Disney",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Directors discuss resurrecting classic movie magic for sequel"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-09T16:49:20.282392+06:00"
+    },
+    "evt_f2bcac61934910": {
+      "event_id": "evt_f2bcac61934910",
+      "event_key": "lego mario kart bowser castle retirement sale 2026",
+      "event_subject": "LEGO",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "lego mario kart bowser castle retirement sale 2026",
+        "subject": "LEGO",
+        "event_type": "other",
+        "action": "retire",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "LEGO Mario Kart Bowser's Castle",
+        "franchise": "Mario Kart",
+        "institution": "LEGO",
+        "target": "collectors",
+        "platforms": [],
+        "topic": "LEGO set retirement"
+      },
+      "modality": "unknown",
+      "topic": "LEGO set retirement",
+      "institution": "LEGO",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Set drops to lowest price before retirement"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-09T16:49:20.282397+06:00"
+    },
+    "evt_6b88cabe132bbb": {
+      "event_id": "evt_6b88cabe132bbb",
+      "event_key": "battlestar galactica hunger games series release 2026",
+      "event_subject": "Pluto TV",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "battlestar galactica hunger games series release 2026",
+        "subject": "Pluto TV",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Pluto TV",
+        "target": "viewers",
+        "platforms": [
+          "Streaming"
+        ],
+        "topic": "Series release"
+      },
+      "modality": "unknown",
+      "topic": "Series release",
+      "institution": "Pluto TV",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "100‑episode action thriller combining Battlestar Galactica and Hunger Games now free on Pluto TV"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-09T16:49:20.282402+06:00"
     }
   },
   "posted_event_ids": [
@@ -2599,17 +3970,27 @@
     "evt_491c29ce2744d3",
     "evt_78d4ee379257f3",
     "evt_e9b6d37db4dbcc",
-    "evt_6925f516761db0"
+    "evt_6925f516761db0",
+    "evt_ad6bf6c22b71d7",
+    "evt_64f99879f28471",
+    "evt_b88da53e15edad",
+    "evt_782ded22830db4"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
     "emmanuel macron declares videogames cultural heritage and announces international festival",
     "fromsoftware issues emergency patch to stop free 5 elden ring dlc exploit",
     "futurlab layoffs spark controversy over the leavers terminology",
-    "nintendo unveils ocarina of time remake with new jump and dash mechanics"
+    "nintendo unveils ocarina of time remake with new jump and dash mechanics",
+    "steam api glitch exposes achievements for kingdom hearts 4 persona 6 and hundreds more",
+    "atlus promises deeper yosuke focus in persona 4 revival without altering core personalities",
+    "mintrocket s dave the diver surpasses 10 million copies sold",
+    "ubisoft titles join xbox disc to digital service in surprise rollout"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-09T11:46:18.982155+06:00",
-    "Major Releases": "2026-09-09T04:49:23.488555+06:00"
+    "Game Updates": "2026-09-09T16:54:32.036862+06:00",
+    "Major Releases": "2026-09-09T04:49:23.488555+06:00",
+    "Steam": "2026-09-09T16:54:21.568787+06:00",
+    "Xbox": "2026-09-09T16:54:37.453168+06:00"
   }
 }
