@@ -2,136 +2,136 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"27b15-wC+D8S0ucrHkL4t8lAodDwOsx2o\"",
+      "etag": "W/\"25655-cWZJIz55S4KCpM0FsLinu88h0FI\"",
       "last_modified": null,
-      "last_checked": "2026-09-09T04:45:48.307102+06:00",
+      "last_checked": "2026-09-09T11:43:49.497366+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-09T04:45:48.712717+06:00",
+      "last_checked": "2026-09-09T11:43:49.754735+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aa08fef-a62\"",
-      "last_modified": "Tue, 08 Sep 2026 22:45:03 GMT",
-      "last_checked": "2026-09-09T04:45:49.013102+06:00",
+      "etag": "\"6aa0f133-a63\"",
+      "last_modified": "Wed, 09 Sep 2026 05:40:03 GMT",
+      "last_checked": "2026-09-09T11:43:50.088228+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Tue, 08 Sep 2026 15:45:42 GMT",
-      "last_checked": "2026-09-09T04:45:49.314862+06:00",
+      "last_checked": "2026-09-09T11:43:50.736355+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
       "etag": "\"6aa08884-1211\"",
-      "last_modified": "Tue, 08 Sep 2026 22:13:24 GMT",
-      "last_checked": "2026-09-09T04:45:49.608544+06:00",
+      "last_modified": "Wed, 09 Sep 2026 05:40:56 GMT",
+      "last_checked": "2026-09-09T11:43:50.933437+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-09T04:45:49.765545+06:00",
+      "last_checked": "2026-09-09T11:43:51.227926+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-09T04:45:50.278858+06:00",
+      "last_checked": "2026-09-09T11:43:52.055437+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"e2769080881bfde278b578c6b2979f41\"",
-      "last_modified": "Tue, 08 Sep 2026 22:30:37 GMT",
-      "last_checked": "2026-09-09T04:45:50.815242+06:00",
+      "etag": "W/\"67dceebd40935073dd1e878aed9df7fd\"",
+      "last_modified": "Wed, 09 Sep 2026 03:10:30 GMT",
+      "last_checked": "2026-09-09T11:43:52.320649+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-09T04:45:50.965397+06:00",
+      "last_checked": "2026-09-09T11:43:52.541081+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Tue, 8 Sep 2026 18:59:28 GMT",
-      "last_checked": "2026-09-09T04:45:51.554758+06:00",
+      "last_checked": "2026-09-09T11:43:53.197618+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Tue, 08 Sep 2026 22:45:52 GMT",
-      "last_checked": "2026-09-09T04:45:52.058271+06:00",
+      "last_modified": "Wed, 09 Sep 2026 05:43:53 GMT",
+      "last_checked": "2026-09-09T11:43:53.935118+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
       "etag": "W/\"e08fdad9d5aa7dff6befbe4ef5e5ec19\"",
       "last_modified": "Tue, 08 Sep 2026 22:38:17 GMT",
-      "last_checked": "2026-09-09T04:45:52.494562+06:00",
+      "last_checked": "2026-09-09T11:43:54.375990+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-09T04:45:52.744148+06:00",
+      "last_checked": "2026-09-09T11:43:54.959424+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-09T04:45:53.003606+06:00",
+      "last_checked": "2026-09-09T11:43:55.545149+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-09T04:45:53.441586+06:00",
+      "last_checked": "2026-09-09T11:43:56.089754+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-09T04:45:53.657265+06:00",
-      "fail_count": 1
+      "last_checked": "2026-09-09T11:43:56.490229+06:00",
+      "fail_count": 2
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"0aa6b2de0fe73495e8b5a262e2013634\"",
       "last_modified": "Tue, 08 Sep 2026 19:02:30 GMT",
-      "last_checked": "2026-09-09T04:45:53.758495+06:00",
+      "last_checked": "2026-09-09T11:43:56.636189+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-09T04:45:54.076996+06:00",
+      "last_checked": "2026-09-09T11:43:56.801949+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-09T04:45:54.339923+06:00",
-      "fail_count": 1
+      "last_checked": "2026-09-09T11:43:57.105607+06:00",
+      "fail_count": 2
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"d9a4dbf7c8b219bb4b07e5b117c6ee64\"",
       "last_modified": "Tue, 08 Sep 2026 14:37:18 GMT",
-      "last_checked": "2026-09-09T04:45:54.454743+06:00",
+      "last_checked": "2026-09-09T11:43:57.319035+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -764,6 +764,199 @@
       "status": "pending",
       "first_seen": "2026-09-09T04:45:53.811909+06:00",
       "last_seen": "2026-09-09T04:45:53.811916+06:00"
+    },
+    "ign.com/articles/chupa-chups-forever-fun-house": {
+      "title": "IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October",
+      "url": "https://www.ign.com/articles/chupa-chups-forever-fun-house",
+      "canonical": "ign.com/articles/chupa-chups-forever-fun-house",
+      "published_dt": "2026-09-09T10:32:02+06:00",
+      "published_date": "2026-09-09T10:32:02+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October",
+      "image": "https://assets-prd.ignimgs.com/2026/09/09/social-games-1-wide-copy-1788928596453.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T11:43:49.638450+06:00",
+      "last_seen": "2026-09-09T11:43:49.638457+06:00"
+    },
+    "ign.com/articles/hands-on-tianji-shadow-of-the-ancients": {
+      "title": "Hands on: Tianji: Shadow of the Ancients",
+      "url": "https://www.ign.com/articles/hands-on-tianji-shadow-of-the-ancients",
+      "canonical": "ign.com/articles/hands-on-tianji-shadow-of-the-ancients",
+      "published_dt": "2026-09-09T10:24:22+06:00",
+      "published_date": "2026-09-09T10:24:22+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Hands on: Tianji: Shadow of the Ancients",
+      "image": "https://assets-prd.ignimgs.com/2026/09/09/en-1920-1080-1788927064977.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T11:43:49.638650+06:00",
+      "last_seen": "2026-09-09T11:43:49.638656+06:00"
+    },
+    "ign.com/articles/netflix-lonesome-dove-series-zoe-kazan": {
+      "title": "Netflix Orders Lonesome Dove TV Series From East of Eden Showrunners",
+      "url": "https://www.ign.com/articles/netflix-lonesome-dove-series-zoe-kazan",
+      "canonical": "ign.com/articles/netflix-lonesome-dove-series-zoe-kazan",
+      "published_dt": "2026-09-09T08:50:01+06:00",
+      "published_date": "2026-09-09T08:50:01+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Netflix is adapting Larry McMurtry’s iconic Western novel Lonesome Dove into a new TV series from East of Eden co-showrunners Zoe Kazan and Jeb Stuart.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/09/lonesome-dove-br-1788922008008.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T11:43:49.638793+06:00",
+      "last_seen": "2026-09-09T11:43:49.638797+06:00"
+    },
+    "gematsu.com/2026/09/seven-games-in-the-oni-series-coming-to-switch-on-january-28-2027-in-japan": {
+      "title": "Seven games in the ONI series coming to Switch on January 28, 2027 in Japan",
+      "url": "https://www.gematsu.com/2026/09/seven-games-in-the-oni-series-coming-to-switch-on-january-28-2027-in-japan",
+      "canonical": "gematsu.com/2026/09/seven-games-in-the-oni-series-coming-to-switch-on-january-28-2027-in-japan",
+      "published_dt": "2026-09-09T11:26:32+06:00",
+      "published_date": "2026-09-09T11:26:32+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "D3 Publisher will re-release seven games in the Japanese RPG series ONI for Switch on …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T11:43:50.957548+06:00",
+      "last_seen": "2026-09-09T11:43:50.957554+06:00"
+    },
+    "gematsu.com/2026/09/gal-guardians-servants-of-the-dark-coming-to-switch-2-on-january-28-2027": {
+      "title": "Gal Guardians: Servants of the Dark coming to Switch 2 on January 28, 2027",
+      "url": "https://www.gematsu.com/2026/09/gal-guardians-servants-of-the-dark-coming-to-switch-2-on-january-28-2027",
+      "canonical": "gematsu.com/2026/09/gal-guardians-servants-of-the-dark-coming-to-switch-2-on-january-28-2027",
+      "published_dt": "2026-09-09T09:28:37+06:00",
+      "published_date": "2026-09-09T09:28:37+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Inti Creates will release a Switch 2 version of side-scrolling action adventure game Gal Guardians: …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T11:43:50.957756+06:00",
+      "last_seen": "2026-09-09T11:43:50.957761+06:00"
+    },
+    "gematsu.com/2026/09/survivors-like-action-game-river-city-survivors-downtown-of-the-dead-announced-for-apple-arcade": {
+      "title": "‘Survivors-like’ action game River City Survivors: Downtown of the Dead announced for Apple Arcade",
+      "url": "https://www.gematsu.com/2026/09/survivors-like-action-game-river-city-survivors-downtown-of-the-dead-announced-for-apple-arcade",
+      "canonical": "gematsu.com/2026/09/survivors-like-action-game-river-city-survivors-downtown-of-the-dead-announced-for-apple-arcade",
+      "published_dt": "2026-09-09T09:17:10+06:00",
+      "published_date": "2026-09-09T09:17:10+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Arc System Works has announced “Survivors-like” action game River City Survivors: Downtown of the Dead …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T11:43:50.957939+06:00",
+      "last_seen": "2026-09-09T11:43:50.957944+06:00"
+    },
+    "pcgamer.com/gaming-industry/steam-may-have-leaked-achievements-for-countless-forthcoming-pc-games-via-a-third-party-site-including-persona-6-ace-combat-8-and-even-some-unannounced-games": {
+      "title": "Steam may have leaked achievements for countless forthcoming PC games via a third party site, including Persona 6, Ace Combat 8, and even some unannounced games",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-may-have-leaked-achievements-for-countless-forthcoming-pc-games-via-a-third-party-site-including-persona-6-ace-combat-8-and-even-some-unannounced-games/",
+      "canonical": "pcgamer.com/gaming-industry/steam-may-have-leaked-achievements-for-countless-forthcoming-pc-games-via-a-third-party-site-including-persona-6-ace-combat-8-and-even-some-unannounced-games",
+      "published_dt": "2026-09-09T10:09:43+06:00",
+      "published_date": "2026-09-09T10:09:43+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Also hinted are a new Thief Dark Project campaign, and a possible new Balatro.",
+      "image": "https://cdn.mos.cms.futurecdn.net/4mskG5jhoQoA7ELJVEXGB9-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T11:43:51.532412+06:00",
+      "last_seen": "2026-09-09T11:43:51.532418+06:00"
+    },
+    "polygon.com/miami-crime-drama-series-streaming-free-tubi": {
+      "title": "Forget 'GTA 6,' The Greatest Miami Action Crime Series Ever Made Is Streaming For Free Right Now",
+      "url": "https://www.polygon.com/miami-crime-drama-series-streaming-free-tubi/",
+      "canonical": "polygon.com/miami-crime-drama-series-streaming-free-tubi",
+      "published_dt": "2026-09-09T10:22:14+06:00",
+      "published_date": "2026-09-09T10:22:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "A visually distinct series that changed television forever.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/image_45.jpeg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T11:43:52.064358+06:00",
+      "last_seen": "2026-09-09T11:43:52.064363+06:00"
+    },
+    "polygon.com/great-pumpkin-charlie-brown-best-quote-peanuts": {
+      "title": "60 Years Later, the Best 'Great Pumpkin, Charlie Brown' Quote Is Still an All-Time 'Peanuts' Classic",
+      "url": "https://www.polygon.com/great-pumpkin-charlie-brown-best-quote-peanuts/",
+      "canonical": "polygon.com/great-pumpkin-charlie-brown-best-quote-peanuts",
+      "published_dt": "2026-09-09T10:00:19+06:00",
+      "published_date": "2026-09-09T10:00:19+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The 1966 TV special, It's the Great Pumpkin, Charlie Brown, written by Charles Schulz is full of classic lines. Here is the most iconic.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/07/it-s-the-great-pumpkin-charlie-brown.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T11:43:52.064512+06:00",
+      "last_seen": "2026-09-09T11:43:52.064517+06:00"
+    },
+    "nintendolife.com/news/2026/09/multiple-amiibo-listings-have-apparently-been-spotted-on-gamestops-internal-database": {
+      "title": "Multiple amiibo Listings Have Apparently Been Spotted On GameStop's Internal Database",
+      "url": "https://www.nintendolife.com/news/2026/09/multiple-amiibo-listings-have-apparently-been-spotted-on-gamestops-internal-database",
+      "canonical": "nintendolife.com/news/2026/09/multiple-amiibo-listings-have-apparently-been-spotted-on-gamestops-internal-database",
+      "published_dt": "2026-09-09T10:55:00+06:00",
+      "published_date": "2026-09-09T10:55:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "New Zelda amiibo were announced yesterday. We're just hours out from today's Nintendo Direct , and GameStop's internal database has reportedly been updated with a \"ton of new unnamed amiibo\". Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/224f64cdd2020/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T11:43:54.979603+06:00",
+      "last_seen": "2026-09-09T11:43:54.979611+06:00"
+    },
+    "nintendolife.com/news/2026/09/icymi-ocarina-of-time-on-switch-2-enhances-links-adventure-with-jump-and-dash-controls": {
+      "title": "ICYMI: Ocarina Of Time On Switch 2 Enhances Link's Adventure With Jump And Dash Controls",
+      "url": "https://www.nintendolife.com/news/2026/09/icymi-ocarina-of-time-on-switch-2-enhances-links-adventure-with-jump-and-dash-controls",
+      "canonical": "nintendolife.com/news/2026/09/icymi-ocarina-of-time-on-switch-2-enhances-links-adventure-with-jump-and-dash-controls",
+      "published_dt": "2026-09-09T09:45:00+06:00",
+      "published_date": "2026-09-09T09:45:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "\"Modern camera movements\" have also been added. Yesterday, Nintendo gave us our first proper look at The Legend of Zelda: Ocarina of Time , revealing an updated version of Link and \"overhauled\" visuals. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/c25b7872862b7/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-09T11:43:54.979955+06:00",
+      "last_seen": "2026-09-09T11:43:54.979960+06:00",
+      "posted_at": "2026-09-09T11:46:18.982098+06:00"
+    },
+    "nintendolife.com/news/2026/09/zeldas-limited-edition-switch-2-and-other-40th-anniversary-items-are-already-selling-out-unsurprisingly": {
+      "title": "Zelda's Limited-Edition Switch 2 And Other 40th Anniversary Items Are Already Selling Out, Unsurprisingly",
+      "url": "https://www.nintendolife.com/news/2026/09/zeldas-limited-edition-switch-2-and-other-40th-anniversary-items-are-already-selling-out-unsurprisingly",
+      "canonical": "nintendolife.com/news/2026/09/zeldas-limited-edition-switch-2-and-other-40th-anniversary-items-are-already-selling-out-unsurprisingly",
+      "published_dt": "2026-09-09T08:45:00+06:00",
+      "published_date": "2026-09-09T08:45:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Scalpers aren't helping the situation, either. Nintendo has only just revealed its new Zelda -themed Switch 2, Pro Controller and Ocarina of Time amiibo, but it seems stock is already running dry in certain locations around the globe. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/da765e3129027/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-09T11:43:54.980310+06:00",
+      "last_seen": "2026-09-09T11:43:54.980315+06:00"
     }
   },
   "events": {
@@ -969,6 +1162,60 @@
           "headline": "FuturLab Layoffs Spark Controversy Over ‘The Leavers’ Terminology",
           "claims": [
             "Execs refer to laid‑off staff as ‘the leavers’ after project cancellation"
+          ]
+        }
+      ]
+    },
+    "evt_6925f516761db0": {
+      "event_id": "evt_6925f516761db0",
+      "event_key": "ocarina of time switch2 reveal",
+      "event_subject": "Nintendo Life",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ocarina of time switch2 reveal",
+        "subject": "Nintendo Life",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time",
+        "franchise": "The Legend of Zelda",
+        "institution": "Nintendo",
+        "target": "Nintendo Switch 2",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "announcement"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [
+        "Nintendo revealed an updated Ocarina of Time for Switch 2 with jump, dash, and modern camera controls",
+        "Limited‑edition Zelda Switch 2, Pro Controller and Ocarina of Time amiibo are selling out after release"
+      ],
+      "importance_score": 55,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 25,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Nintendo Unveils Ocarina of Time Remake with New Jump and Dash Mechanics",
+      "summary": "Nintendo showcased a revamped The Legend of Zelda: Ocarina of Time for Switch 2, adding on‑demand jump, dash, and modern camera controls.",
+      "published_at": "2026-09-09T09:45:00+06:00",
+      "selected_at": "2026-09-09T05:46:18.982138+00:00",
+      "status": "published",
+      "message_id": 167,
+      "published_versions": [
+        {
+          "published_at": "2026-09-09T05:46:18.982138+00:00",
+          "headline": "Nintendo Unveils Ocarina of Time Remake with New Jump and Dash Mechanics",
+          "claims": [
+            "Nintendo revealed an updated Ocarina of Time for Switch 2 with jump, dash, and modern camera controls",
+            "Limited‑edition Zelda Switch 2, Pro Controller and Ocarina of Time amiibo are selling out after release"
           ]
         }
       ]
@@ -1963,22 +2210,406 @@
         "total": 32
       },
       "last_seen": "2026-09-09T04:46:14.642945+06:00"
+    },
+    "evt_6925f516761db0": {
+      "event_id": "evt_6925f516761db0",
+      "event_key": "ocarina of time switch2 reveal",
+      "event_subject": "Nintendo Life",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ocarina of time switch2 reveal",
+        "subject": "Nintendo Life",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time",
+        "franchise": "The Legend of Zelda",
+        "institution": "Nintendo",
+        "target": "Nintendo Switch 2",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "announcement"
+      },
+      "modality": "unknown",
+      "topic": "announcement",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Nintendo revealed an updated Ocarina of Time for Switch 2 with jump, dash, and modern camera controls",
+        "Limited‑edition Zelda Switch 2, Pro Controller and Ocarina of Time amiibo are selling out after release"
+      ],
+      "importance_score": 55,
+      "score_breakdown": {
+        "significance": 25,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 55
+      },
+      "last_seen": "2026-09-09T11:45:16.785477+06:00"
+    },
+    "evt_3760731af5de68": {
+      "event_id": "evt_3760731af5de68",
+      "event_key": "steam achievement leak 2026",
+      "event_subject": "PC Gamer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "steam achievement leak 2026",
+        "subject": "PC Gamer",
+        "event_type": "other",
+        "action": "leak",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "Persona 6; Ace Combat 8; others",
+        "franchise": "Persona 6; Ace Combat 8; others",
+        "institution": "Valve/Steam",
+        "target": "Steam achievement system",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "leak"
+      },
+      "modality": "unknown",
+      "topic": "leak",
+      "institution": "Valve/Steam",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Steam may have leaked achievements for numerous upcoming PC games via a third‑party site"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-09-09T11:45:16.785495+06:00"
+    },
+    "evt_6af4202663107a": {
+      "event_id": "evt_6af4202663107a",
+      "event_key": "oni series switch release 2027",
+      "event_subject": "D3 Publisher",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "oni series switch release 2027",
+        "subject": "D3 Publisher",
+        "event_type": "release",
+        "action": "re-release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "ONI",
+        "franchise": "ONI",
+        "institution": "D3 Publisher",
+        "target": "Nintendo Switch",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "D3 Publisher",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "seven ONI games will be re‑released on Switch on 28 January 2027 in Japan"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 46
+      },
+      "last_seen": "2026-09-09T11:45:16.785501+06:00"
+    },
+    "evt_1c95061395019d": {
+      "event_id": "evt_1c95061395019d",
+      "event_key": "gal guardians switch2 release 2027",
+      "event_subject": "Gematsu",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "gal guardians switch2 release 2027",
+        "subject": "Gematsu",
+        "event_type": "release",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Gal Guardians: Servants of the Dark",
+        "franchise": "Gal Guardians",
+        "institution": "Inti Creates",
+        "target": "Nintendo Switch 2",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "Inti Creates",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Gal Guardians: Servants of the Dark will launch on Switch 2 on 28 January 2027"
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 44
+      },
+      "last_seen": "2026-09-09T11:45:16.785505+06:00"
+    },
+    "evt_ae1b17680b1664": {
+      "event_id": "evt_ae1b17680b1664",
+      "event_key": "river city survivors applearcade announcement",
+      "event_subject": "Gematsu",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "river city survivors applearcade announcement",
+        "subject": "Gematsu",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "River City Survivors: Downtown of the Dead",
+        "franchise": "River City Survivors: Downtown of the Dead",
+        "institution": "Arc System Works",
+        "target": "Apple Arcade",
+        "platforms": [
+          "iOS"
+        ],
+        "topic": "announcement"
+      },
+      "modality": "unknown",
+      "topic": "announcement",
+      "institution": "Arc System Works",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "River City Survivors: Downtown of the Dead announced for Apple Arcade"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-09-09T11:45:16.785509+06:00"
+    },
+    "evt_6d1644d1459d2a": {
+      "event_id": "evt_6d1644d1459d2a",
+      "event_key": "zelda amiibo announcement leak",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "zelda amiibo announcement leak",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "announce",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "The Legend of Zelda",
+        "franchise": "The Legend of Zelda",
+        "institution": "Nintendo",
+        "target": "amiibo",
+        "platforms": [],
+        "topic": "announcement"
+      },
+      "modality": "unknown",
+      "topic": "announcement",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new Zelda amiibo were announced and internal GameStop database shows listings before official release"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-09-09T11:45:16.785513+06:00"
+    },
+    "evt_4a706fd9812148": {
+      "event_id": "evt_4a706fd9812148",
+      "event_key": "tianji shadow of the ancients hands on preview",
+      "event_subject": "IGN",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "tianji shadow of the ancients hands on preview",
+        "subject": "IGN",
+        "event_type": "other",
+        "action": "hands‑on",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Tianji: Shadow of the Ancients",
+        "franchise": "Tianji: Shadow of the Ancients",
+        "institution": "IGN",
+        "target": "",
+        "platforms": [],
+        "topic": "preview"
+      },
+      "modality": "unknown",
+      "topic": "preview",
+      "institution": "IGN",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "hands‑on preview of Tianji: Shadow of the Ancients",
+        "Netflix ordered a Lonesome Dove TV series from East of Eden showrunners"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-09-09T11:45:16.785517+06:00"
+    },
+    "evt_9b3011afaece4b": {
+      "event_id": "evt_9b3011afaece4b",
+      "event_key": "retrogaming funhouse westfieldparramatta oct2026",
+      "event_subject": "IGN Australia & Chupa Chups",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "retrogaming funhouse westfieldparramatta oct2026",
+        "subject": "IGN Australia & Chupa Chups",
+        "event_type": "other",
+        "action": "host",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "IGN Australia",
+        "target": "Westfield Parramatta",
+        "platforms": [],
+        "topic": "event"
+      },
+      "modality": "unknown",
+      "topic": "event",
+      "institution": "IGN Australia",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "retro gaming ‘Fun House’ activation will take place at Westfield Parramatta in October 2026"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-09T11:45:16.785521+06:00"
+    },
+    "evt_aafe38820cbaca": {
+      "event_id": "evt_aafe38820cbaca",
+      "event_key": "miami crime series streaming free",
+      "event_subject": "Polygon",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "miami crime series streaming free",
+        "subject": "Polygon",
+        "event_type": "other",
+        "action": "stream",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "online streaming platforms",
+        "platforms": [],
+        "topic": "streaming"
+      },
+      "modality": "unknown",
+      "topic": "streaming",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "the greatest Miami action crime series is now streaming for free",
+        "the best ‘Great Pumpkin, Charlie Brown’ quote remains an all‑time Peanuts classic"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-09T11:45:16.785524+06:00"
     }
   },
   "posted_event_ids": [
     "evt_8cf373aab96cab",
     "evt_491c29ce2744d3",
     "evt_78d4ee379257f3",
-    "evt_e9b6d37db4dbcc"
+    "evt_e9b6d37db4dbcc",
+    "evt_6925f516761db0"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
     "emmanuel macron declares videogames cultural heritage and announces international festival",
     "fromsoftware issues emergency patch to stop free 5 elden ring dlc exploit",
-    "futurlab layoffs spark controversy over the leavers terminology"
+    "futurlab layoffs spark controversy over the leavers terminology",
+    "nintendo unveils ocarina of time remake with new jump and dash mechanics"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-09T04:49:28.628421+06:00",
+    "Game Updates": "2026-09-09T11:46:18.982155+06:00",
     "Major Releases": "2026-09-09T04:49:23.488555+06:00"
   }
 }
