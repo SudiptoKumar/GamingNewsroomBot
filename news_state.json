@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"28b1b-bxga2No3D14/FrJf6ynecULbPnU\"",
+      "etag": "W/\"21023-cn76kKoAKnknf5SFWllWKwb1pUc\"",
       "last_modified": null,
-      "last_checked": "2026-09-12T11:25:16.631637+06:00",
+      "last_checked": "2026-09-12T16:08:45.404755+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T11:25:16.830718+06:00",
+      "last_checked": "2026-09-12T16:08:45.661043+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aa4e22d-b5a\"",
-      "last_modified": "Sat, 12 Sep 2026 05:25:01 GMT",
-      "last_checked": "2026-09-12T11:25:17.232040+06:00",
+      "etag": "\"6aa523cf-b56\"",
+      "last_modified": "Sat, 12 Sep 2026 10:05:03 GMT",
+      "last_checked": "2026-09-12T16:08:46.067847+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Fri, 11 Sep 2026 19:07:38 GMT",
-      "last_checked": "2026-09-12T11:25:17.380497+06:00",
+      "last_modified": "Sat, 12 Sep 2026 10:03:04 GMT",
+      "last_checked": "2026-09-12T16:08:46.270484+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6aa4d34b-1286\"",
-      "last_modified": "Sat, 12 Sep 2026 04:21:31 GMT",
-      "last_checked": "2026-09-12T11:25:17.659376+06:00",
+      "etag": "\"6aa50954-1287\"",
+      "last_modified": "Sat, 12 Sep 2026 08:12:04 GMT",
+      "last_checked": "2026-09-12T16:08:46.531991+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T11:25:17.816134+06:00",
+      "last_checked": "2026-09-12T16:08:46.704378+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T11:25:18.403418+06:00",
+      "last_checked": "2026-09-12T16:08:47.245451+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"6ef8c9dd0c31b9d0c733434cf4278b85\"",
-      "last_modified": "Fri, 11 Sep 2026 22:52:56 GMT",
-      "last_checked": "2026-09-12T11:25:18.653255+06:00",
+      "etag": "W/\"789ce0b3830236d89e2224e60c91a83a\"",
+      "last_modified": "Sat, 12 Sep 2026 10:08:41 GMT",
+      "last_checked": "2026-09-12T16:08:47.517126+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T11:25:18.805707+06:00",
+      "last_checked": "2026-09-12T16:08:47.683346+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Fri, 11 Sep 2026 17:12:35 GMT",
-      "last_checked": "2026-09-12T11:25:19.157986+06:00",
+      "last_modified": "Sat, 12 Sep 2026 07:58:51 GMT",
+      "last_checked": "2026-09-12T16:08:48.058584+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sat, 12 Sep 2026 05:25:19 GMT",
-      "last_checked": "2026-09-12T11:25:19.901312+06:00",
+      "last_modified": "Sat, 12 Sep 2026 10:08:48 GMT",
+      "last_checked": "2026-09-12T16:08:48.496587+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"df438e548ee2de21efa17049d1fb382b\"",
-      "last_modified": "Fri, 11 Sep 2026 23:06:50 GMT",
-      "last_checked": "2026-09-12T11:25:20.223412+06:00",
+      "etag": "W/\"fb59607d33004946a72d7f68a75cdca3\"",
+      "last_modified": "Sat, 12 Sep 2026 09:00:00 GMT",
+      "last_checked": "2026-09-12T16:08:48.858778+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T11:25:20.595335+06:00",
+      "last_checked": "2026-09-12T16:08:49.110482+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T11:25:20.865477+06:00",
+      "last_checked": "2026-09-12T16:08:49.369970+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T11:25:21.273273+06:00",
+      "last_checked": "2026-09-12T16:08:49.718654+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-12T11:25:21.419986+06:00",
-      "fail_count": 14,
+      "last_checked": "2026-09-12T16:08:49.858234+06:00",
+      "fail_count": 15,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"3a911ea37e53a045d8cbc5b14e0226fe\"",
       "last_modified": "Fri, 11 Sep 2026 17:23:12 GMT",
-      "last_checked": "2026-09-12T11:25:21.517398+06:00",
+      "last_checked": "2026-09-12T16:08:49.912812+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-12T11:25:21.710918+06:00",
+      "last_checked": "2026-09-12T16:08:50.088642+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-12T11:25:21.831074+06:00",
-      "fail_count": 14,
+      "last_checked": "2026-09-12T16:08:50.187459+06:00",
+      "fail_count": 15,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"405d3520c6543858346ca7c8245e44a4\"",
       "last_modified": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "last_checked": "2026-09-12T11:25:21.924035+06:00",
+      "last_checked": "2026-09-12T16:08:50.287959+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -10681,6 +10681,263 @@
       "status": "pending",
       "first_seen": "2026-09-12T11:25:29.353051+06:00",
       "last_seen": "2026-09-12T11:25:29.353056+06:00"
+    },
+    "ign.com/articles/planet-zoo-2-puts-you-right-down-into-the-wild-with-your-animals-ign-preview": {
+      "title": "Planet Zoo 2 Puts You Right Down into the Wild With Your Animals | IGN Preview",
+      "url": "https://www.ign.com/articles/planet-zoo-2-puts-you-right-down-into-the-wild-with-your-animals-ign-preview",
+      "canonical": "ign.com/articles/planet-zoo-2-puts-you-right-down-into-the-wild-with-your-animals-ign-preview",
+      "published_dt": "2026-09-12T15:00:00+06:00",
+      "published_date": "2026-09-12T15:00:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "It wasn't realistic to get a full picture of Planet Zoo 2 from the short time I had with it in this first hands-on, especially when it comes to the business tycoon side, but I'm pretty optimistic overall. I counted 49 species in the encyclopedia, from jellyfish to giraffes, from a variety of environments and biomes. And the ones I got to see in the flesh were marvelously rendered and a joy to watch, especially when I got to release them into the open environment of a nature reserve.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/11/planetzoo2-blogroll-01-1789150060172.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T16:08:45.476325+06:00",
+      "last_seen": "2026-09-12T16:08:45.476332+06:00"
+    },
+    "ign.com/articles/wolverine-developer-insomniac-says-logans-scent-trail-isnt-always-on-amid-fart-gas-toggle-requests": {
+      "title": "Wolverine Developer Insomniac Says Logan's Scent Trail Isn't Always on Amid 'Fart Gas' Toggle Requests",
+      "url": "https://www.ign.com/articles/wolverine-developer-insomniac-says-logans-scent-trail-isnt-always-on-amid-fart-gas-toggle-requests",
+      "canonical": "ign.com/articles/wolverine-developer-insomniac-says-logans-scent-trail-isnt-always-on-amid-fart-gas-toggle-requests",
+      "published_dt": "2026-09-12T13:45:23+06:00",
+      "published_date": "2026-09-12T13:45:23+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "A debate over “fart gas” has emerged around PlayStation 5 exclusive Marvel’s Wolverine, with some people calling for developer Insomniac to add the ability to disable Logan’s scent trail entirely from the game.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/13/wolverine-again-1786621307864.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T16:08:45.476546+06:00",
+      "last_seen": "2026-09-12T16:08:45.476552+06:00"
+    },
+    "eurogamer.net/kingdom-hearts-4-final-fantasy-7-revelation-creative-studio-1": {
+      "title": "Final Fantasy 7 Revelation director confirms his studio is also making Kingdom Hearts 4",
+      "url": "https://www.eurogamer.net/kingdom-hearts-4-final-fantasy-7-revelation-creative-studio-1",
+      "canonical": "eurogamer.net/kingdom-hearts-4-final-fantasy-7-revelation-creative-studio-1",
+      "published_dt": "2026-09-12T16:03:04+06:00",
+      "published_date": "2026-09-12T16:03:04+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Final Fantasy 7 Revelation director Naoki Hamaguchi has confirmed that his own team, Creative Studio 1, is also the studio behind Kingdom Hearts 4 . Read more",
+      "image": "https://assetsio.gnwcdn.com/Screenshot-2026-08-15-at-11.38.20.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T16:08:46.371772+06:00",
+      "last_seen": "2026-09-12T16:08:46.371780+06:00"
+    },
+    "eurogamer.net/chronicles-medieval-gamescom-history-nerds-hands-off-preview": {
+      "title": "With Chronicles Medieval, a team of \"history nerds\" is mixing authentic historical world-building and stimulating strategy to promising effect",
+      "url": "https://www.eurogamer.net/chronicles-medieval-gamescom-history-nerds-hands-off-preview",
+      "canonical": "eurogamer.net/chronicles-medieval-gamescom-history-nerds-hands-off-preview",
+      "published_dt": "2026-09-12T15:00:09+06:00",
+      "published_date": "2026-09-12T15:00:09+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Growing up in the South of England, like I did, history is all around you. Castles and forts, both preserved and ruined, litter the countryside. I, like many children, have fond memories visiting such places and imagining the great battles that were fought there. Read more",
+      "image": "https://assetsio.gnwcdn.com/CM_Screenshot_Logo_005.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T16:08:46.372085+06:00",
+      "last_seen": "2026-09-12T16:08:46.372091+06:00"
+    },
+    "pcgamer.com/games/action/polyarc-creators-of-the-excellent-vr-platforming-series-moss-is-shutting-down-after-12-years-we-are-saying-our-farewells-to-each-other": {
+      "title": "Polyarc, developer of the excellent VR platforming series Moss, is shutting down after 12 years: 'We are saying our farewells to each other'",
+      "url": "https://www.pcgamer.com/games/action/polyarc-creators-of-the-excellent-vr-platforming-series-moss-is-shutting-down-after-12-years-we-are-saying-our-farewells-to-each-other/",
+      "canonical": "pcgamer.com/games/action/polyarc-creators-of-the-excellent-vr-platforming-series-moss-is-shutting-down-after-12-years-we-are-saying-our-farewells-to-each-other",
+      "published_dt": "2026-09-12T15:55:30+06:00",
+      "published_date": "2026-09-12T15:55:30+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "\"Our work is now finished.\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/mdeP7DdGEMC8WEPK2EeoiN-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-12T16:08:47.078934+06:00",
+      "last_seen": "2026-09-12T16:08:47.078941+06:00",
+      "posted_at": "2026-09-12T16:10:05.448243+06:00"
+    },
+    "polygon.com/zelda-ocarina-of-time-horror-game": {
+      "title": "The Legend of Zelda: Ocarina of Time is Actually A Horror Game",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-horror-game/",
+      "canonical": "polygon.com/zelda-ocarina-of-time-horror-game",
+      "published_dt": "2026-09-12T16:00:14+06:00",
+      "published_date": "2026-09-12T16:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Nintendo's N64 version of The Legend of Zelda: Ocarina of Time is full of terrifying visuals. The Switch 2 remake might not be as cute as it looks.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_07.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T16:08:47.255118+06:00",
+      "last_seen": "2026-09-12T16:08:47.255124+06:00"
+    },
+    "polygon.com/shaun-the-sheep-beast-of-mossy-bottom-preview-image": {
+      "title": "Wallace & Gromit's Overlooked Spinoff Is Officially Switching Genres With Its Next Movie",
+      "url": "https://www.polygon.com/shaun-the-sheep-beast-of-mossy-bottom-preview-image/",
+      "canonical": "polygon.com/shaun-the-sheep-beast-of-mossy-bottom-preview-image",
+      "published_dt": "2026-09-12T15:00:14+06:00",
+      "published_date": "2026-09-12T15:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Spooky season starts early this year with Shaun the Sheeps' return. Here's an exclusive preview.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/shaun-the-sheep-image-watermarked.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T16:08:47.255278+06:00",
+      "last_seen": "2026-09-12T16:08:47.255283+06:00"
+    },
+    "polygon.com/star-trek-reboot-trilogy-franchise-future": {
+      "title": "Paramount's Near-Perfect 3-Part Sci-Fi Series Officially Finds a New Streaming Home",
+      "url": "https://www.polygon.com/star-trek-reboot-trilogy-franchise-future/",
+      "canonical": "polygon.com/star-trek-reboot-trilogy-franchise-future",
+      "published_dt": "2026-09-12T14:31:14+06:00",
+      "published_date": "2026-09-12T14:31:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The Kelvin trilogy didn't just reboot Star Trek. It helped revive the franchise when its future looked uncertain.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/star-trek-2009-new-movie.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T16:08:47.255445+06:00",
+      "last_seen": "2026-09-12T16:08:47.255450+06:00"
+    },
+    "polygon.com/steps-netflix-interview": {
+      "title": "Netflix’s 'Kpop Demon Hunters' Replacement Reimagines a Classic Disney Princess",
+      "url": "https://www.polygon.com/steps-netflix-interview/",
+      "canonical": "polygon.com/steps-netflix-interview",
+      "published_dt": "2026-09-12T14:00:14+06:00",
+      "published_date": "2026-09-12T14:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The twisted fairy tale steps focuses on Cinderella’s misunderstood stepsister",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lilith-stands-next-to-a-storybook-with-cinderella-on-the-cover-in-steps.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T16:08:47.255595+06:00",
+      "last_seen": "2026-09-12T16:08:47.255600+06:00"
+    },
+    "gamesradar.com/games/how-to-watch-blizzcon-2026-opening-ceremony": {
+      "title": "BlizzCon 2026 Opening Ceremony: How to watch, start time, and what to expect",
+      "url": "https://www.gamesradar.com/games/how-to-watch-blizzcon-2026-opening-ceremony/",
+      "canonical": "gamesradar.com/games/how-to-watch-blizzcon-2026-opening-ceremony",
+      "published_dt": "2026-09-12T15:25:08+06:00",
+      "published_date": "2026-09-12T15:25:08+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "BlizzCon 2026 is where you'll learn more about the future of the Diablo, Overwatch, StarCraft, and World of Warcraft franchises",
+      "image": "https://cdn.mos.cms.futurecdn.net/bqSr4k5YXwYnRHhAXyeRdN-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T16:08:47.892274+06:00",
+      "last_seen": "2026-09-12T16:08:47.892280+06:00"
+    },
+    "gamesradar.com/tabletop-gaming/sons-of-behemat-2026-review": {
+      "title": "These new Sons of Behemat models are exactly what the Warhammer Age of Sigmar army needs",
+      "url": "https://www.gamesradar.com/tabletop-gaming/sons-of-behemat-2026-review/",
+      "canonical": "gamesradar.com/tabletop-gaming/sons-of-behemat-2026-review",
+      "published_dt": "2026-09-12T15:00:00+06:00",
+      "published_date": "2026-09-12T15:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "I've been hands-on with the new Warhammer Age of Sigmar Sons of Behemat range, and this is what I think about each addition",
+      "image": "https://cdn.mos.cms.futurecdn.net/i7odZVd7w6khHdEaHmCnf3-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T16:08:47.892443+06:00",
+      "last_seen": "2026-09-12T16:08:47.892449+06:00"
+    },
+    "insider-gaming.com/planet-zoo-2-preview-new-king-of-the-jungle-emerges": {
+      "title": "Planet Zoo 2 Preview: New King of The Jungle Emerges",
+      "url": "https://insider-gaming.com/planet-zoo-2-preview-new-king-of-the-jungle-emerges/",
+      "canonical": "insider-gaming.com/planet-zoo-2-preview-new-king-of-the-jungle-emerges",
+      "published_dt": "2026-09-12T15:00:00+06:00",
+      "published_date": "2026-09-12T15:00:00+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Planet Zoo 2 is filled with wonder and it's clear the Frontier Developments 2 title could be the greatest simulation game ever. The post Planet Zoo 2 Preview: New King of The Jungle Emerges appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T16:08:48.870299+06:00",
+      "last_seen": "2026-09-12T16:08:48.870305+06:00"
+    },
+    "nintendolife.com/news/2026/09/we-will-take-this-as-a-lesson-level-5-ceo-doubles-down-on-genai-despite-backlash": {
+      "title": "\"We Will Take This As A Lesson\" - Level-5 CEO Doubles Down On GenAI Despite Backlash",
+      "url": "https://www.nintendolife.com/news/2026/09/we-will-take-this-as-a-lesson-level-5-ceo-doubles-down-on-genai-despite-backlash",
+      "canonical": "nintendolife.com/news/2026/09/we-will-take-this-as-a-lesson-level-5-ceo-doubles-down-on-genai-despite-backlash",
+      "published_dt": "2026-09-12T15:30:00+06:00",
+      "published_date": "2026-09-12T15:30:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "\"It appears that some people felt uncomfortable about this\". It's no secret that Level-5 has embraced Generative AI when it comes to game development, and CEO Akihiro Hino has been very open and honest about the fact that the company is using the technology in its games – but few expected the recent Level-5 Vision 2026 II Showcase to feature so much AI-made content. As a result, Hino posted a statement on social media addressing concerns fans have raised about GenAI. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/4907d0e087859/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T16:08:49.132099+06:00",
+      "last_seen": "2026-09-12T16:08:49.132105+06:00"
+    },
+    "nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-12th-september": {
+      "title": "Talking Point: What Are You Playing This Weekend? (12th September)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-12th-september",
+      "canonical": "nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-12th-september",
+      "published_dt": "2026-09-12T15:00:00+06:00",
+      "published_date": "2026-09-12T15:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "The calm after the storm. Hey y'all. What a week, huh? What a week . The big highlights, of course, were the two Nintendo Directs. First up, Nintendo treated us to a substantial glimpse at The Legend of Zelda: Ocarina of Time for the Switch 2, confirming that it will launch very soon on 5th November 2026 . Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/b610f41303123/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T16:08:49.132552+06:00",
+      "last_seen": "2026-09-12T16:08:49.132557+06:00"
+    },
+    "techraptor.net/tabletop/reviews/warhammer-sons-of-behemat-2026-new-release-review-stompy": {
+      "title": "Warhammer Sons of Behemat 2026 New Release Review - Stompy! | TechRaptor",
+      "url": "https://techraptor.net/tabletop/reviews/warhammer-sons-of-behemat-2026-new-release-review-stompy",
+      "canonical": "techraptor.net/tabletop/reviews/warhammer-sons-of-behemat-2026-new-release-review-stompy",
+      "published_dt": "2026-09-12T15:00:01+06:00",
+      "published_date": "2026-09-12T15:00:01+06:00",
+      "source": "TechRaptor",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-09-12T16:08:55.722033+06:00",
+      "last_seen": "2026-09-12T16:08:55.722038+06:00"
+    },
+    "escapistmagazine.com/keyforge-online-steam-release": {
+      "title": "KeyForge Online: 2028 Steam Target Explained",
+      "url": "https://www.escapistmagazine.com/keyforge-online-steam-release/",
+      "canonical": "escapistmagazine.com/keyforge-online-steam-release",
+      "published_dt": "2026-09-12T15:00:00+06:00",
+      "published_date": "2026-09-12T15:00:00+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-09-12T16:08:56.662316+06:00",
+      "last_seen": "2026-09-12T16:08:56.662320+06:00"
     }
   },
   "events": {
@@ -14731,6 +14988,56 @@
           "headline": "Melty Blood: Twi‑Lumina Set for Multi‑Platform Launch on April 22, 2027",
           "claims": [
             "The fighting game Melty Blood: Twi‑Lumina will launch on April 22, 2027 across multiple platforms."
+          ]
+        }
+      ]
+    },
+    "evt_041c90281ea072": {
+      "event_id": "evt_041c90281ea072",
+      "event_key": "polyarc studio closure announcement",
+      "event_subject": "Polyarc",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "polyarc studio closure announcement",
+        "subject": "Polyarc",
+        "event_type": "other",
+        "action": "shut down",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "studio closure"
+      },
+      "sources": [
+        "PC Gamer"
+      ],
+      "event_sources": [
+        "PC Gamer"
+      ],
+      "claims": [
+        "Polyarc is shutting down after 12 years"
+      ],
+      "importance_score": 45,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "VR Studio Polyarc Shuts Down After 12 Years of Moss Success",
+      "summary": "Polyarc, the creator of the acclaimed Moss VR platformers, announced its closure following a poorly received spinoff and funding shortfalls.",
+      "published_at": "2026-09-12T15:55:30+06:00",
+      "selected_at": "2026-09-12T10:10:05.448277+00:00",
+      "status": "published",
+      "message_id": 242,
+      "published_versions": [
+        {
+          "published_at": "2026-09-12T10:10:05.448277+00:00",
+          "headline": "VR Studio Polyarc Shuts Down After 12 Years of Moss Success",
+          "claims": [
+            "Polyarc is shutting down after 12 years"
           ]
         }
       ]
@@ -36273,6 +36580,590 @@
         "total": 31
       },
       "last_seen": "2026-09-12T11:26:34.829709+06:00"
+    },
+    "evt_c973fdba9d4cc2": {
+      "event_id": "evt_c973fdba9d4cc2",
+      "event_key": "nintendodirect ocarinaoftime switch2 release date announcement",
+      "event_subject": "Nintendo Direct",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "nintendodirect ocarinaoftime switch2 release date announcement",
+        "subject": "Nintendo Direct",
+        "event_type": "announcement",
+        "action": "reveal release date",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Ocarina of Time",
+        "franchise": "The Legend of Zelda",
+        "institution": "Nintendo",
+        "target": "",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "release date"
+      },
+      "modality": "unknown",
+      "topic": "release date",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Ocarina of Time Switch 2 will launch on 5 Nov 2026"
+      ],
+      "importance_score": 60,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 60
+      },
+      "last_seen": "2026-09-12T16:09:03.831842+06:00"
+    },
+    "evt_5bbb37493c57cf": {
+      "event_id": "evt_5bbb37493c57cf",
+      "event_key": "planetzoo2 hands on preview",
+      "event_subject": "Planet Zoo 2",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "planetzoo2 hands on preview",
+        "subject": "Planet Zoo 2",
+        "event_type": "other",
+        "action": "preview",
+        "status": "previewed",
+        "modality": "unknown",
+        "game": "Planet Zoo 2",
+        "franchise": "Planet Zoo 2",
+        "institution": "Frontier Developments",
+        "target": "",
+        "platforms": [],
+        "topic": "game preview"
+      },
+      "modality": "unknown",
+      "topic": "game preview",
+      "institution": "Frontier Developments",
+      "sources": [
+        "IGN",
+        "Insider Gaming"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "First hands‑on with Planet Zoo 2",
+        "Planet Zoo 2 preview article"
+      ],
+      "importance_score": 56,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 56
+      },
+      "last_seen": "2026-09-12T16:09:03.831867+06:00"
+    },
+    "evt_041c90281ea072": {
+      "event_id": "evt_041c90281ea072",
+      "event_key": "polyarc studio closure announcement",
+      "event_subject": "Polyarc",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "polyarc studio closure announcement",
+        "subject": "Polyarc",
+        "event_type": "other",
+        "action": "shut down",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "studio closure"
+      },
+      "modality": "unknown",
+      "topic": "studio closure",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Polyarc is shutting down after 12 years"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-09-12T16:09:03.831877+06:00"
+    },
+    "evt_3485717b67fb64": {
+      "event_id": "evt_3485717b67fb64",
+      "event_key": "squareenix creativestudio1 kingdomhearts4 development confirmation",
+      "event_subject": "Creative Studio 1",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "squareenix creativestudio1 kingdomhearts4 development confirmation",
+        "subject": "Creative Studio 1",
+        "event_type": "other",
+        "action": "confirm involvement",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Kingdom Hearts",
+        "institution": "Square Enix",
+        "target": "",
+        "platforms": [],
+        "topic": "studio involvement"
+      },
+      "modality": "unknown",
+      "topic": "studio involvement",
+      "institution": "Square Enix",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Creative Studio 1 is also the studio behind Kingdom Hearts 4"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-12T16:09:03.831886+06:00"
+    },
+    "evt_8af3e686f1bca5": {
+      "event_id": "evt_8af3e686f1bca5",
+      "event_key": "level5 genai controversy statement",
+      "event_subject": "Level‑5",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "level5 genai controversy statement",
+        "subject": "Level‑5",
+        "event_type": "other",
+        "action": "address backlash",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "GenAI usage"
+      },
+      "modality": "unknown",
+      "topic": "GenAI usage",
+      "institution": "",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "CEO Akihiro Hino defends Level‑5’s use of generative AI"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-12T16:09:03.831892+06:00"
+    },
+    "evt_c526120acef7cf": {
+      "event_id": "evt_c526120acef7cf",
+      "event_key": "insomniac wolverine scent trail toggle statement",
+      "event_subject": "Marvel’s Wolverine",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "insomniac wolverine scent trail toggle statement",
+        "subject": "Marvel’s Wolverine",
+        "event_type": "other",
+        "action": "address toggle request",
+        "status": "responded",
+        "modality": "unknown",
+        "game": "Marvel’s Wolverine",
+        "franchise": "Marvel",
+        "institution": "Insomniac Games",
+        "target": "",
+        "platforms": [
+          "PlayStation 5"
+        ],
+        "topic": "feature request"
+      },
+      "modality": "unknown",
+      "topic": "feature request",
+      "institution": "Insomniac Games",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Insomniac comments on adding a scent‑trail toggle"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-09-12T16:09:03.831901+06:00"
+    },
+    "evt_1547eb685e4745": {
+      "event_id": "evt_1547eb685e4745",
+      "event_key": "blizzcon2026 opening ceremony info",
+      "event_subject": "BlizzCon 2026",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blizzcon2026 opening ceremony info",
+        "subject": "BlizzCon 2026",
+        "event_type": "other",
+        "action": "announce opening ceremony details",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Blizzard Entertainment",
+        "target": "",
+        "platforms": [],
+        "topic": "event logistics"
+      },
+      "modality": "unknown",
+      "topic": "event logistics",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "How to watch BlizzCon 2026 opening ceremony"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-09-12T16:09:03.831909+06:00"
+    },
+    "evt_de30e9a1f8ec1c": {
+      "event_id": "evt_de30e9a1f8ec1c",
+      "event_key": "keyforgeonline 2028 steam target speculation",
+      "event_subject": "KeyForge Online",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "keyforgeonline 2028 steam target speculation",
+        "subject": "KeyForge Online",
+        "event_type": "other",
+        "action": "speculate release target",
+        "status": "speculative",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "KeyForge",
+        "institution": "",
+        "target": "Steam",
+        "platforms": [],
+        "topic": "release speculation"
+      },
+      "modality": "unknown",
+      "topic": "release speculation",
+      "institution": "",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "KeyForge Online aims for a 2028 Steam release"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-09-12T16:09:03.831918+06:00"
+    },
+    "evt_673ceff436b92f": {
+      "event_id": "evt_673ceff436b92f",
+      "event_key": "chroniclesmedieval development preview",
+      "event_subject": "Chronicles Medieval",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "chroniclesmedieval development preview",
+        "subject": "Chronicles Medieval",
+        "event_type": "other",
+        "action": "preview development",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "game preview"
+      },
+      "modality": "unknown",
+      "topic": "game preview",
+      "institution": "",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Team of history nerds mixing authentic world‑building in Chronicles Medieval"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-09-12T16:09:03.831926+06:00"
+    },
+    "evt_4f26d45f26e5f0": {
+      "event_id": "evt_4f26d45f26e5f0",
+      "event_key": "wallacegromit shaunthesheep genre shift movie",
+      "event_subject": "Shaun the Sheep",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "wallacegromit shaunthesheep genre shift movie",
+        "subject": "Shaun the Sheep",
+        "event_type": "other",
+        "action": "switch genre for next movie",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Wallace & Gromit",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "movie development"
+      },
+      "modality": "unknown",
+      "topic": "movie development",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Shaun the Sheep spinoff will change genre in its next film"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-09-12T16:09:03.831935+06:00"
+    },
+    "evt_b32585f6fe0421": {
+      "event_id": "evt_b32585f6fe0421",
+      "event_key": "warhammer ageofsigmar sonsofbehemat 2026 release review",
+      "event_subject": "Sons of Behemoth",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "warhammer ageofsigmar sonsofbehemat 2026 release review",
+        "subject": "Sons of Behemoth",
+        "event_type": "other",
+        "action": "review new release",
+        "status": "released",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Warhammer Age of Sigmar",
+        "institution": "Games Workshop",
+        "target": "",
+        "platforms": [],
+        "topic": "product review"
+      },
+      "modality": "unknown",
+      "topic": "product review",
+      "institution": "Games Workshop",
+      "sources": [
+        "TechRaptor",
+        "GamesRadar+"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Review of the 2026 Sons of Behemoth models",
+        "Hands‑on look at new Sons of Behemoth models"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 6,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 35
+      },
+      "last_seen": "2026-09-12T16:09:03.831943+06:00"
+    },
+    "evt_85ff61b1631325": {
+      "event_id": "evt_85ff61b1631325",
+      "event_key": "nintendo switch2 ocarinaoftime horror speculation",
+      "event_subject": "The Legend of Zelda: Ocarina of Time",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo switch2 ocarinaoftime horror speculation",
+        "subject": "The Legend of Zelda: Ocarina of Time",
+        "event_type": "other",
+        "action": "claim horror elements",
+        "status": "rumored",
+        "modality": "unknown",
+        "game": "Ocarina of Time",
+        "franchise": "The Legend of Zelda",
+        "institution": "Nintendo",
+        "target": "",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "genre speculation"
+      },
+      "modality": "unknown",
+      "topic": "genre speculation",
+      "institution": "Nintendo",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Ocarina of Time Switch 2 remake is actually a horror game"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-12T16:09:03.831951+06:00"
+    },
+    "evt_4fca0f2b84527d": {
+      "event_id": "evt_4fca0f2b84527d",
+      "event_key": "kelvintrilogy streaming home change",
+      "event_subject": "Kelvin Trilogy",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "kelvintrilogy streaming home change",
+        "subject": "Kelvin Trilogy",
+        "event_type": "other",
+        "action": "move to new streaming platform",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Paramount",
+        "target": "",
+        "platforms": [],
+        "topic": "distribution"
+      },
+      "modality": "unknown",
+      "topic": "distribution",
+      "institution": "Paramount",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Kelvin trilogy finds a new streaming home"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-12T16:09:03.831960+06:00"
+    },
+    "evt_b07bc4858e01b1": {
+      "event_id": "evt_b07bc4858e01b1",
+      "event_key": "netflix kpopdemonhunters reimagined cinderella stepsister",
+      "event_subject": "Kpop Demon Hunters",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "netflix kpopdemonhunters reimagined cinderella stepsister",
+        "subject": "Kpop Demon Hunters",
+        "event_type": "other",
+        "action": "reimagine classic Disney princess",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Netflix",
+        "target": "",
+        "platforms": [],
+        "topic": "content update"
+      },
+      "modality": "unknown",
+      "topic": "content update",
+      "institution": "Netflix",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Series reimagines Cinderella’s stepsister"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-12T16:09:03.831968+06:00"
     }
   },
   "posted_event_ids": [
@@ -36354,7 +37245,8 @@
     "evt_0c5387d70a947e",
     "evt_3409a7291b1367",
     "evt_6f00254ce84629",
-    "evt_791270788a825b"
+    "evt_791270788a825b",
+    "evt_041c90281ea072"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -36435,7 +37327,8 @@
     "playstation footage leaks reveal haven studios fairgames shooter",
     "thq nordic unveils early access roadmap for the guild remake europa 1410",
     "nintendo announces switch 2 monster hunter wilds bundle for december release",
-    "melty blood twi lumina set for multi platform launch on april 22 2027"
+    "melty blood twi lumina set for multi platform launch on april 22 2027",
+    "vr studio polyarc shuts down after 12 years of moss success"
   ],
   "category_coverage": {
     "Game Updates": "2026-09-12T11:28:41.348586+06:00",
@@ -36448,6 +37341,7 @@
     "Cybersecurity": "2026-09-10T01:20:12.789492+06:00",
     "Pricing and Monetization": "2026-09-11T00:33:27.401107+06:00",
     "Anti-Cheat": "2026-09-11T00:33:42.084305+06:00",
-    "Cancellations": "2026-09-11T21:14:57.654212+06:00"
+    "Cancellations": "2026-09-11T21:14:57.654212+06:00",
+    "Studio Closures": "2026-09-12T16:10:05.448296+06:00"
   }
 }
