@@ -16,6 +16,7 @@ from urllib.parse import urlparse, urljoin, quote, urlsplit, parse_qsl, urlencod
 from difflib import SequenceMatcher
 from email.utils import parsedate_to_datetime
 from io import BytesIO
+from pathlib import Path
 from typing import Any, Callable
 
 import requests
@@ -3501,6 +3502,219 @@ def branded_card(
     )
 
 
+def _publisher_homepage(story):
+    source = safe_text(story.get("source"))
+    article_url = safe_text(story.get("url"))
+
+    for feed in RSS_FEEDS:
+        if safe_text(feed.get("name")).lower() == source.lower():
+            feed_url = safe_text(feed.get("url"))
+            if feed_url:
+                parsed = urlparse(feed_url)
+                if parsed.scheme and parsed.netloc:
+                    return f"{parsed.scheme}://{parsed.netloc}"
+
+    parsed = urlparse(article_url)
+    if parsed.scheme and parsed.netloc:
+        return f"{parsed.scheme}://{parsed.netloc}"
+
+    return ""
+
+
+def _jsonld_logo_candidates(value):
+    found = []
+
+    def walk(node):
+        if isinstance(node, dict):
+            publisher = node.get("publisher")
+            if isinstance(publisher, dict):
+                logo = publisher.get("logo")
+                if isinstance(logo, str):
+                    found.append(logo)
+                elif isinstance(logo, dict):
+                    for key in ("url", "contentUrl"):
+                        if isinstance(logo.get(key), str):
+                            found.append(logo[key])
+
+            logo = node.get("logo")
+            if isinstance(logo, str):
+                found.append(logo)
+            elif isinstance(logo, dict):
+                for key in ("url", "contentUrl"):
+                    if isinstance(logo.get(key), str):
+                        found.append(logo[key])
+
+            for child in node.values():
+                walk(child)
+
+        elif isinstance(node, list):
+            for child in node:
+                walk(child)
+
+    walk(value)
+    return found
+
+
+def find_source_logo_url(story):
+    """Discover a publisher's own logo from its homepage metadata."""
+    homepage = _publisher_homepage(story)
+    if not homepage:
+        return ""
+
+    try:
+        response = session.get(
+            homepage,
+            headers=HEADERS,
+            timeout=15,
+            allow_redirects=True,
+        )
+        if response.status_code >= 400:
+            return ""
+
+        soup = BeautifulSoup(
+            response.text[:1_500_000],
+            "html.parser",
+        )
+
+        # Highest-confidence publisher identity signals first.
+        for script in soup.find_all("script", attrs={"type": re.compile(r"ld\+json", re.I)}):
+            raw = script.string or script.get_text()
+            if not raw:
+                continue
+            try:
+                data = json.loads(raw)
+            except Exception:
+                continue
+            for candidate in _jsonld_logo_candidates(data):
+                absolute = urljoin(response.url, safe_text(candidate))
+                if absolute:
+                    return absolute
+
+        meta_selectors = [
+            {"property": "og:logo"},
+            {"name": "og:logo"},
+        ]
+        for attrs in meta_selectors:
+            tag = soup.find("meta", attrs=attrs)
+            if tag and safe_text(tag.get("content")):
+                return urljoin(response.url, safe_text(tag.get("content")))
+
+        # Large touch icon is normally a real brand mark rather than a tiny favicon.
+        for rel in (
+            "apple-touch-icon",
+            "apple-touch-icon-precomposed",
+        ):
+            tag = soup.find("link", rel=lambda value: value and rel in str(value).lower())
+            if tag and safe_text(tag.get("href")):
+                return urljoin(response.url, safe_text(tag.get("href")))
+
+        # Favicon is the final logo-level fallback.
+        for tag in soup.find_all("link", href=True):
+            rel_text = " ".join(tag.get("rel") or []).lower()
+            if "icon" in rel_text:
+                return urljoin(response.url, safe_text(tag.get("href")))
+
+    except Exception as exc:
+        logger.warning("Source logo discovery failed for %s: %s", story.get("source"), exc)
+
+    return ""
+
+
+def download_logo(url, referer=""):
+    """Download a source logo with logo-appropriate size validation."""
+    if not url:
+        return None
+
+    try:
+        response = session.get(
+            url,
+            headers={
+                **HEADERS,
+                "Referer": referer or url,
+            },
+            timeout=15,
+            stream=True,
+        )
+
+        if response.status_code >= 400:
+            return None
+
+        content_type = response.headers.get("content-type", "").lower()
+        if content_type and not content_type.startswith("image/"):
+            return None
+
+        buf = BytesIO()
+        for chunk in response.iter_content(65536):
+            if chunk:
+                buf.write(chunk)
+            if buf.tell() > 5_000_000:
+                return None
+
+        buf.seek(0)
+        image = Image.open(buf)
+        image.load()
+
+        if image.width < 64 or image.height < 64:
+            return None
+
+        return image.convert("RGBA")
+
+    except Exception as exc:
+        logger.warning("Logo download failed: %s", exc)
+        return None
+
+
+def source_logo_card(story, logo=None):
+    """Create a logo-first fallback image without the channel name banner."""
+    canvas = Image.new(
+        "RGB",
+        (1200, 675),
+        (28, 38, 50),
+    )
+
+    if logo is not None:
+        logo = logo.copy()
+        max_w, max_h = 620, 360
+        ratio = min(max_w / max(1, logo.width), max_h / max(1, logo.height), 1.0)
+        logo = logo.resize(
+            (
+                max(1, int(logo.width * ratio)),
+                max(1, int(logo.height * ratio)),
+            ),
+            Image.Resampling.LANCZOS,
+        )
+
+        # Composite transparent logos against the dark fallback background.
+        x = (canvas.width - logo.width) // 2
+        y = 125
+        canvas_rgba = canvas.convert("RGBA")
+        canvas_rgba.alpha_composite(logo, (x, y))
+        canvas = canvas_rgba.convert("RGB")
+
+    else:
+        font_path = find_font(bold=True)
+        if font_path:
+            font = ImageFont.truetype(font_path, 62)
+        else:
+            font = ImageFont.load_default()
+
+        source_name = safe_text(story.get("source")) or "Source"
+        draw = ImageDraw.Draw(canvas)
+        bbox = draw.textbbox((0, 0), source_name, font=font)
+        text_w = bbox[2] - bbox[0]
+        text_h = bbox[3] - bbox[1]
+        draw.text(
+            ((1200 - text_w) // 2, 225 - text_h // 2),
+            source_name,
+            font=font,
+            fill="white",
+        )
+
+    # The only channel identifier on the image is the requested right-lower username.
+    branded = branded_card(canvas)
+    return branded
+
+
 def prepare_image(
     story,
     index,
@@ -3514,42 +3728,19 @@ def prepare_image(
     )
 
     if image is None:
-        image = Image.new(
-            "RGB",
-            (1200, 675),
-            (28, 38, 50),
-        )
+        logo_url = find_source_logo_url(story)
+        logo = download_logo(
+            logo_url,
+            _publisher_homepage(story),
+        ) if logo_url else None
+        image = source_logo_card(story, logo=logo)
 
-        font_path = find_font(
-            bold=True
-        )
-
-        if font_path:
-            font = ImageFont.truetype(
-                font_path,
-                48,
-            )
-        else:
-            font = ImageFont.load_default()
-
-        draw = ImageDraw.Draw(
-            image
-        )
-
-        draw.text(
-            (50, 50),
-            "Gaming News",
-            font=font,
-            fill="white",
-        )
-
-    branded = branded_card(
-        image
-    )
+    else:
+        image = branded_card(image)
 
     path = f"/tmp/news_{index}.jpg"
 
-    branded.save(
+    image.save(
         path,
         "JPEG",
         quality=88,
@@ -4332,6 +4523,21 @@ def self_test():
     assert "WHAT'S NEXT" in rendered
     assert "<aside>PlayStation</aside>" in rendered
     assert canonical_url("https://www.example.com/story/?utm_source=x") == "example.com/story"
+
+    # Image fallback regression: no article image must use publisher identity,
+    # never the generic "Gaming News" banner.
+    fallback_story = {"source": "Polygon", "url": "https://www.polygon.com/example-story"}
+    logo = Image.new("RGBA", (420, 180), (255, 255, 255, 255))
+    fallback_logo_card = source_logo_card(fallback_story, logo=logo)
+    assert fallback_logo_card.size == (1200, 675)
+
+    # Source-name fallback must render without the old channel-title banner.
+    source_only_card = source_logo_card({"source": "Polygon"}, logo=None)
+    assert source_only_card.size == (1200, 675)
+    image_source = Path(__file__).read_text(encoding="utf-8")
+    prepare_block = image_source.split("def prepare_image(", 1)[1].split("# TELEGRAM RICH MESSAGES", 1)[0]
+    assert '"Gaming News"' not in prepare_block
+
     logger.info("Gaming News Bot self-test passed. Calls: %s", calls)
 
 

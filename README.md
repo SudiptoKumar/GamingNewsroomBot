@@ -87,3 +87,27 @@ python main.py
 ```
 
 The self-test uses mocked AI responses and does not publish to Telegram. Production calls use the configured Cerebras, Exa, and Telegram secrets.
+
+## Image Fallback
+
+The image pipeline uses the following order:
+
+```text
+Article/RSS image
+        ↓
+Article metadata image
+        ↓
+Exa image
+        ↓
+Publisher website logo
+        ↓
+Publisher name fallback
+```
+
+When a normal article image is available, it is cropped to the existing 1200×675 card and receives only the `@GamingNewsroom` lower-right brand chip.
+
+When the article image is unavailable, the bot attempts to discover the publication's own logo from publisher metadata, JSON-LD, Apple touch icons, or the site's favicon. The recovered logo is displayed prominently in the center of the 1200×675 fallback card.
+
+When no usable publisher logo can be found, the publication name is displayed prominently in bold at the center, with `@GamingNewsroom` below/right as the channel username.
+
+The fallback card never adds a `Gaming News` title or any other extra channel-name banner.
