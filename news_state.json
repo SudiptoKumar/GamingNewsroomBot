@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"21023-cn76kKoAKnknf5SFWllWKwb1pUc\"",
+      "etag": "W/\"23a0b-6sovMsdGbboAElx0ChQtA1bS1Vo\"",
       "last_modified": null,
-      "last_checked": "2026-09-12T16:08:45.404755+06:00",
+      "last_checked": "2026-09-12T19:53:11.187764+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T16:08:45.661043+06:00",
+      "last_checked": "2026-09-12T19:53:11.342607+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aa523cf-b56\"",
-      "last_modified": "Sat, 12 Sep 2026 10:05:03 GMT",
-      "last_checked": "2026-09-12T16:08:46.067847+06:00",
+      "etag": "\"6aa5588b-bd1\"",
+      "last_modified": "Sat, 12 Sep 2026 13:50:03 GMT",
+      "last_checked": "2026-09-12T19:53:11.743736+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Sat, 12 Sep 2026 10:03:04 GMT",
-      "last_checked": "2026-09-12T16:08:46.270484+06:00",
+      "last_modified": "Sat, 12 Sep 2026 11:41:58 GMT",
+      "last_checked": "2026-09-12T19:53:11.941710+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6aa50954-1287\"",
-      "last_modified": "Sat, 12 Sep 2026 08:12:04 GMT",
-      "last_checked": "2026-09-12T16:08:46.531991+06:00",
+      "etag": "\"6aa55738-12b5\"",
+      "last_modified": "Sat, 12 Sep 2026 13:44:24 GMT",
+      "last_checked": "2026-09-12T19:53:12.269384+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T16:08:46.704378+06:00",
+      "last_checked": "2026-09-12T19:53:12.402468+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T16:08:47.245451+06:00",
+      "last_checked": "2026-09-12T19:53:12.921983+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"789ce0b3830236d89e2224e60c91a83a\"",
-      "last_modified": "Sat, 12 Sep 2026 10:08:41 GMT",
-      "last_checked": "2026-09-12T16:08:47.517126+06:00",
+      "etag": "W/\"dbf8b8925cd719127a90b12938de0449\"",
+      "last_modified": "Sat, 12 Sep 2026 13:52:33 GMT",
+      "last_checked": "2026-09-12T19:53:13.135478+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T16:08:47.683346+06:00",
+      "last_checked": "2026-09-12T19:53:13.308657+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Sat, 12 Sep 2026 07:58:51 GMT",
-      "last_checked": "2026-09-12T16:08:48.058584+06:00",
+      "last_checked": "2026-09-12T19:53:13.708828+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sat, 12 Sep 2026 10:08:48 GMT",
-      "last_checked": "2026-09-12T16:08:48.496587+06:00",
+      "last_modified": "Sat, 12 Sep 2026 13:53:14 GMT",
+      "last_checked": "2026-09-12T19:53:14.297717+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"fb59607d33004946a72d7f68a75cdca3\"",
-      "last_modified": "Sat, 12 Sep 2026 09:00:00 GMT",
-      "last_checked": "2026-09-12T16:08:48.858778+06:00",
+      "etag": "W/\"4c63f16255ec81c72a7d9e01d780aab3\"",
+      "last_modified": "Sat, 12 Sep 2026 13:37:09 GMT",
+      "last_checked": "2026-09-12T19:53:14.718502+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T16:08:49.110482+06:00",
+      "last_checked": "2026-09-12T19:53:14.976020+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T16:08:49.369970+06:00",
+      "last_checked": "2026-09-12T19:53:15.387895+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T16:08:49.718654+06:00",
+      "last_checked": "2026-09-12T19:53:15.643790+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-12T16:08:49.858234+06:00",
-      "fail_count": 15,
+      "last_checked": "2026-09-12T19:53:15.861674+06:00",
+      "fail_count": 16,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"3a911ea37e53a045d8cbc5b14e0226fe\"",
-      "last_modified": "Fri, 11 Sep 2026 17:23:12 GMT",
-      "last_checked": "2026-09-12T16:08:49.912812+06:00",
+      "etag": "W/\"8c987894be77db8fbcb201700c34b6e2\"",
+      "last_modified": "Fri, 11 Sep 2026 20:33:31 GMT",
+      "last_checked": "2026-09-12T19:53:15.961463+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-12T16:08:50.088642+06:00",
+      "last_checked": "2026-09-12T19:53:16.126844+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-12T16:08:50.187459+06:00",
-      "fail_count": 15,
+      "last_checked": "2026-09-12T19:53:16.300477+06:00",
+      "fail_count": 16,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"405d3520c6543858346ca7c8245e44a4\"",
-      "last_modified": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "last_checked": "2026-09-12T16:08:50.287959+06:00",
+      "etag": "W/\"fb59607d33004946a72d7f68a75cdca3\"",
+      "last_modified": "Sat, 12 Sep 2026 09:00:00 GMT",
+      "last_checked": "2026-09-12T19:53:16.433083+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -10938,6 +10938,392 @@
       "status": "pending",
       "first_seen": "2026-09-12T16:08:56.662316+06:00",
       "last_seen": "2026-09-12T16:08:56.662320+06:00"
+    },
+    "ign.com/articles/dcu-lanterns-batman-connection-explained": {
+      "title": "Is Lanterns Hiding a Major Batman Connection?",
+      "url": "https://www.ign.com/articles/dcu-lanterns-batman-connection-explained",
+      "canonical": "ign.com/articles/dcu-lanterns-batman-connection-explained",
+      "published_dt": "2026-09-12T19:30:00+06:00",
+      "published_date": "2026-09-12T19:30:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "We may have yet to meet Batman in the DCU, but one character on Lanterns seemingly shares a major connection to the Dark Knight.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/11/mixcollage-11-sep-2026-10-45-am-9313-1789137912622.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:11.252403+06:00",
+      "last_seen": "2026-09-12T19:53:11.252409+06:00"
+    },
+    "ign.com/articles/god-save-birmingham-new-preview-this-medieval-zombie-apocalypse-is-steadily-finding-its-vision": {
+      "title": "God Save Birmingham New Preview: This Medieval Zombie Apocalypse Is Steadily Finding Its Vision",
+      "url": "https://www.ign.com/articles/god-save-birmingham-new-preview-this-medieval-zombie-apocalypse-is-steadily-finding-its-vision",
+      "canonical": "ign.com/articles/god-save-birmingham-new-preview-this-medieval-zombie-apocalypse-is-steadily-finding-its-vision",
+      "published_dt": "2026-09-12T19:11:00+06:00",
+      "published_date": "2026-09-12T19:11:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "The developers at Ocean Drive Studios, Inc. have a great concept here, there’s no question. While I found the early builds somewhat uninteresting in execution, the latest build offers a better tone and a reason to feel more invested in this survival story. Hopefully, with more time and more feedback from new players jumping into the early playtests, God Save Birmingham's open-world survival horror experience will steadily become one that's worth keeping an eye on.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/12/gsb-cbt2026-combat-scythe-1789172472217.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:11.252570+06:00",
+      "last_seen": "2026-09-12T19:53:11.252573+06:00"
+    },
+    "ign.com/articles/how-a-vfx-controversy-propelled-the-strange-journey-of-na-hong-jins-sci-fi-blockbuster-hope": {
+      "title": "How a VFX Controversy Propelled the Strange Journey of Na Hong-Jin's Sci-Fi Blockbuster Hope",
+      "url": "https://www.ign.com/articles/how-a-vfx-controversy-propelled-the-strange-journey-of-na-hong-jins-sci-fi-blockbuster-hope",
+      "canonical": "ign.com/articles/how-a-vfx-controversy-propelled-the-strange-journey-of-na-hong-jins-sci-fi-blockbuster-hope",
+      "published_dt": "2026-09-12T19:00:00+06:00",
+      "published_date": "2026-09-12T19:00:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Ten years after The Wailing, director Na Hong-jin has returned with a wild alien movie that's been marketed to every corner of film fandom — and the effort is paying off.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/11/hope-blog-1789161257900.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:11.252692+06:00",
+      "last_seen": "2026-09-12T19:53:11.252694+06:00"
+    },
+    "ign.com/articles/zeverland-game-designer-discusses-its-unique-take-on-the-zombie-apocalypse": {
+      "title": "Zeverland Game Designer Discusses Its Unique Take on the Zombie Apocalypse",
+      "url": "https://www.ign.com/articles/zeverland-game-designer-discusses-its-unique-take-on-the-zombie-apocalypse",
+      "canonical": "ign.com/articles/zeverland-game-designer-discusses-its-unique-take-on-the-zombie-apocalypse",
+      "published_dt": "2026-09-12T19:00:00+06:00",
+      "published_date": "2026-09-12T19:00:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "",
+      "image": "https://assets-prd.ignimgs.com/2026/09/11/key-art-1789158297255.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:11.252793+06:00",
+      "last_seen": "2026-09-12T19:53:11.252795+06:00"
+    },
+    "ign.com/articles/physint-could-be-xboxs-biggest-gamble-yet": {
+      "title": "Physint Could Be Xbox's Biggest Gamble Yet",
+      "url": "https://www.ign.com/articles/physint-could-be-xboxs-biggest-gamble-yet",
+      "canonical": "ign.com/articles/physint-could-be-xboxs-biggest-gamble-yet",
+      "published_dt": "2026-09-12T18:00:00+06:00",
+      "published_date": "2026-09-12T18:00:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Microsoft's Physint hijack is by no means a guaranteed victory, and could be Xbox's biggest gamble yet.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/11/physint-blog-1789143746190.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-12T19:53:11.252897+06:00",
+      "last_seen": "2026-09-12T19:53:11.252900+06:00",
+      "posted_at": "2026-09-12T20:00:35.715630+06:00"
+    },
+    "eurogamer.net/blizzcon-2026-announcements-live-report-starcraft-diablo-overwatch-wow": {
+      "title": "BlizzCon 2026 Opening Ceremony live report - all the news and announcements as Blizzard's convention returns",
+      "url": "https://www.eurogamer.net/blizzcon-2026-announcements-live-report-starcraft-diablo-overwatch-wow",
+      "canonical": "eurogamer.net/blizzcon-2026-announcements-live-report-starcraft-diablo-overwatch-wow",
+      "published_dt": "2026-09-12T17:41:58+06:00",
+      "published_date": "2026-09-12T17:41:58+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Blizzard's BlizzCon convention returns this weekend after two years' absence, and I'll be covering the news and announcements from today's opening ceremony live, here in this article. The show begins 6.30pm BST (UK time). Read more",
+      "image": "https://assetsio.gnwcdn.com/blizzcon-2026-opening-ceremony.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:12.027313+06:00",
+      "last_seen": "2026-09-12T19:53:12.027319+06:00"
+    },
+    "eurogamer.net/thief-remastered-tarnished-mirror-campaign-confirmed-nightdive": {
+      "title": "Nightdive confirms Thief Remastered's leaked new campaign, The Tarnished Mirror, with a November reveal date",
+      "url": "https://www.eurogamer.net/thief-remastered-tarnished-mirror-campaign-confirmed-nightdive",
+      "canonical": "eurogamer.net/thief-remastered-tarnished-mirror-campaign-confirmed-nightdive",
+      "published_dt": "2026-09-12T17:02:48+06:00",
+      "published_date": "2026-09-12T17:02:48+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Nightdive Studios has officially confirmed The Tarnished Mirror, a new campaign for its upcoming Thief: The Dark Project Remastered, days after the name leaked through a mass Steam achievements leak . Read more",
+      "image": "https://assetsio.gnwcdn.com/thief-remastered-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:12.027641+06:00",
+      "last_seen": "2026-09-12T19:53:12.027646+06:00"
+    },
+    "gematsu.com/2026/09/genshin-impact-version-version-7-1-update-a-rekviem-for-the-underworld-launches-september-23": {
+      "title": "Genshin Impact Version version 7.1 update ‘A Rekviem for the Underworld’ launches September 23",
+      "url": "https://www.gematsu.com/2026/09/genshin-impact-version-version-7-1-update-a-rekviem-for-the-underworld-launches-september-23",
+      "canonical": "gematsu.com/2026/09/genshin-impact-version-version-7-1-update-a-rekviem-for-the-underworld-launches-september-23",
+      "published_dt": "2026-09-12T19:38:31+06:00",
+      "published_date": "2026-09-12T19:38:31+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "The version 7.1 update for Genshin Impact, dubbed “A Rekviem for the Underworld,” will launch …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:12.289834+06:00",
+      "last_seen": "2026-09-12T19:53:12.289839+06:00"
+    },
+    "pcgamer.com/games/the-witcher/cd-projekt-wanted-to-put-a-chain-weapon-in-the-witcher-3-years-ago-but-its-taken-until-songs-of-the-past-because-it-was-impossible-to-do-at-the-time": {
+      "title": "CD Projekt wanted to put a chain weapon in The Witcher 3 years ago, but it's taken until Songs of the Past because it was 'impossible to do at the time'",
+      "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-wanted-to-put-a-chain-weapon-in-the-witcher-3-years-ago-but-its-taken-until-songs-of-the-past-because-it-was-impossible-to-do-at-the-time/",
+      "canonical": "pcgamer.com/games/the-witcher/cd-projekt-wanted-to-put-a-chain-weapon-in-the-witcher-3-years-ago-but-its-taken-until-songs-of-the-past-because-it-was-impossible-to-do-at-the-time",
+      "published_dt": "2026-09-12T19:21:15+06:00",
+      "published_date": "2026-09-12T19:21:15+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "\"A few things had to click together.\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/5aRTjp6FU6xjqztj8FQTma-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:12.756465+06:00",
+      "last_seen": "2026-09-12T19:53:12.756471+06:00"
+    },
+    "pcgamer.com/games/rpg/genshin-impact-codes-7-1-livestream": {
+      "title": "All Genshin Impact 7.1 livestream codes",
+      "url": "https://www.pcgamer.com/games/rpg/genshin-impact-codes-7-1-livestream/",
+      "canonical": "pcgamer.com/games/rpg/genshin-impact-codes-7-1-livestream",
+      "published_dt": "2026-09-12T18:04:33+06:00",
+      "published_date": "2026-09-12T18:04:33+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Claim the Primogems from the latest special program.",
+      "image": "https://cdn.mos.cms.futurecdn.net/dJZk6UGvadinq6en5HQy6k-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:12.756594+06:00",
+      "last_seen": "2026-09-12T19:53:12.756597+06:00"
+    },
+    "pcgamer.com/games/fps/wardogs-sold-over-1-million-copies-in-its-first-24-hours-making-its-launch-a-bright-spot-in-an-otherwise-tough-year-for-multiplayer-shooters": {
+      "title": "Wardogs sold over 1 million copies in its first 24 hours, making its launch a bright spot in an otherwise tough year for multiplayer shooters",
+      "url": "https://www.pcgamer.com/games/fps/wardogs-sold-over-1-million-copies-in-its-first-24-hours-making-its-launch-a-bright-spot-in-an-otherwise-tough-year-for-multiplayer-shooters/",
+      "canonical": "pcgamer.com/games/fps/wardogs-sold-over-1-million-copies-in-its-first-24-hours-making-its-launch-a-bright-spot-in-an-otherwise-tough-year-for-multiplayer-shooters",
+      "published_dt": "2026-09-12T17:15:11+06:00",
+      "published_date": "2026-09-12T17:15:11+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Hard cash.",
+      "image": "https://cdn.mos.cms.futurecdn.net/fQTD7bnbCRNeLVw7XcEoMZ-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:12.756708+06:00",
+      "last_seen": "2026-09-12T19:53:12.756710+06:00"
+    },
+    "polygon.com/ace-combat-8-wings-of-theve-cloud-interview": {
+      "title": "Ace Combat 8’s Developers Are on a Mission To Create the Perfect Clouds",
+      "url": "https://www.polygon.com/ace-combat-8-wings-of-theve-cloud-interview/",
+      "canonical": "polygon.com/ace-combat-8-wings-of-theve-cloud-interview",
+      "published_dt": "2026-09-12T19:00:15+06:00",
+      "published_date": "2026-09-12T19:00:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The brains behind Ace Combat 8: Wings of Theve explain how the team created more realistic clouds through a new tech innovation.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ace-combat-8-wings-of-theve-jet-close-up.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:12.929913+06:00",
+      "last_seen": "2026-09-12T19:53:12.929917+06:00"
+    },
+    "polygon.com/croak-video-game-2026-preview": {
+      "title": "Mario Fans Have A New Platforming Hero To Watch This Fall",
+      "url": "https://www.polygon.com/croak-video-game-2026-preview/",
+      "canonical": "polygon.com/croak-video-game-2026-preview",
+      "published_dt": "2026-09-12T18:00:19+06:00",
+      "published_date": "2026-09-12T18:00:19+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Croak is a new platformer on Steam and you can play the demo now before the fall release.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/croak-demo-final-boss-project.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:12.930048+06:00",
+      "last_seen": "2026-09-12T19:53:12.930051+06:00"
+    },
+    "kotaku.com/youtuber-gets-tackled-on-stage-at-roblox-conference-wearing-t-shirt-that-says-kids-deserve-better-2000733753": {
+      "title": "YouTuber Gets Tackled On Stage At Roblox Conference Wearing T-Shirt That Says ‘Kids Deserve Better’",
+      "url": "https://kotaku.com/youtuber-gets-tackled-on-stage-at-roblox-conference-wearing-t-shirt-that-says-kids-deserve-better-2000733753",
+      "canonical": "kotaku.com/youtuber-gets-tackled-on-stage-at-roblox-conference-wearing-t-shirt-that-says-kids-deserve-better-2000733753",
+      "published_dt": "2026-09-12T19:20:14+06:00",
+      "published_date": "2026-09-12T19:20:14+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Emathiio was escorted out of the event after the stunt",
+      "image": "https://kotaku.com/app/uploads/2026/09/roblox-s-1280x726.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:13.145743+06:00",
+      "last_seen": "2026-09-12T19:53:13.145748+06:00"
+    },
+    "gamesradar.com/games/events-conferences/it-really-is-accepting-of-of-everybody-how-games-done-quick-uses-community-to-make-a-difference": {
+      "title": "\"It really is accepting of of everybody\": How Games Done Quick uses community to make a difference",
+      "url": "https://www.gamesradar.com/games/events-conferences/it-really-is-accepting-of-of-everybody-how-games-done-quick-uses-community-to-make-a-difference/",
+      "canonical": "gamesradar.com/games/events-conferences/it-really-is-accepting-of-of-everybody-how-games-done-quick-uses-community-to-make-a-difference",
+      "published_dt": "2026-09-12T17:00:00+06:00",
+      "published_date": "2026-09-12T17:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "GDQ's Ashley Farkas breaks down the organization's belief in community and acceptance at Gamescom 2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/pkXrPLHRPzwqVCnVgDqKYU-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:13.496202+06:00",
+      "last_seen": "2026-09-12T19:53:13.496208+06:00"
+    },
+    "insider-gaming.com/genshin-impact-7-1-update-coming-out-release-date-info": {
+      "title": "When is Genshin Impact 7.1 Update Coming Out? Release Date and Details, Explained",
+      "url": "https://insider-gaming.com/genshin-impact-7-1-update-coming-out-release-date-info/",
+      "canonical": "insider-gaming.com/genshin-impact-7-1-update-coming-out-release-date-info",
+      "published_dt": "2026-09-12T19:37:08+06:00",
+      "published_date": "2026-09-12T19:37:08+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "HoYoverse has unveiled the full 7.1 Genshin Impact update. Check out here when it's coming out and what it will include. The post When is Genshin Impact 7.1 Update Coming Out? Release Date and Details, Explained appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:14.728329+06:00",
+      "last_seen": "2026-09-12T19:53:14.728335+06:00"
+    },
+    "insider-gaming.com/genshin-impact-7-1-livestream-codes-free-redeem": {
+      "title": "Genshin Impact 7.1 Livestream Codes and How to Redeem Them",
+      "url": "https://insider-gaming.com/genshin-impact-7-1-livestream-codes-free-redeem/",
+      "canonical": "insider-gaming.com/genshin-impact-7-1-livestream-codes-free-redeem",
+      "published_dt": "2026-09-12T19:21:05+06:00",
+      "published_date": "2026-09-12T19:21:05+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "HoYoverse has revealed what's coming in the big 7.1 update for Genshin Impact, and, of course, that means there are livestream codes. The post Genshin Impact 7.1 Livestream Codes and How to Redeem Them appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:14.728569+06:00",
+      "last_seen": "2026-09-12T19:53:14.728572+06:00"
+    },
+    "insider-gaming.com/fallout-new-vegas-remaster-nightmare-fuel-ai": {
+      "title": "Fallout New Vegas ‘Remaster’ Becomes Nightmare Fuel with AI",
+      "url": "https://insider-gaming.com/fallout-new-vegas-remaster-nightmare-fuel-ai/",
+      "canonical": "insider-gaming.com/fallout-new-vegas-remaster-nightmare-fuel-ai",
+      "published_dt": "2026-09-12T18:54:30+06:00",
+      "published_date": "2026-09-12T18:54:30+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Fallout New Vegas has been given the DLSS 5 'remaster' treatment, but it has had some catastrophic results. The post Fallout New Vegas ‘Remaster’ Becomes Nightmare Fuel with AI appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-12T19:53:14.728805+06:00",
+      "last_seen": "2026-09-12T19:53:14.728809+06:00",
+      "posted_at": "2026-09-12T20:00:30.572538+06:00"
+    },
+    "insider-gaming.com/wardogs-players-are-not-stupid": {
+      "title": "WARDOGS is Proof AAA Studios Need to Stop Treating Players Like They Are Stupid",
+      "url": "https://insider-gaming.com/wardogs-players-are-not-stupid/",
+      "canonical": "insider-gaming.com/wardogs-players-are-not-stupid",
+      "published_dt": "2026-09-12T17:50:11+06:00",
+      "published_date": "2026-09-12T17:50:11+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "WARDOGS' success is proof that AAA Studios need to stop treating players like they are stupid. The post WARDOGS is Proof AAA Studios Need to Stop Treating Players Like They Are Stupid appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:14.729024+06:00",
+      "last_seen": "2026-09-12T19:53:14.729027+06:00"
+    },
+    "pushsquare.com/guides/these-25plus-ps5-games-are-coming-out-next-week-14th-20th-september": {
+      "title": "Guide: These 25+ PS5 Games Are Coming Out Next Week (14th-20th September)",
+      "url": "https://www.pushsquare.com/guides/these-25plus-ps5-games-are-coming-out-next-week-14th-20th-september",
+      "canonical": "pushsquare.com/guides/these-25plus-ps5-games-are-coming-out-next-week-14th-20th-september",
+      "published_dt": "2026-09-12T17:00:00+06:00",
+      "published_date": "2026-09-12T17:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Wolverine! RuneScape! Trails! We're properly in the thick of the September madness now. Next week on PS Store sees the release of another 25 or so games, coming off the back of last week's list of 20-odd titles. There are a couple of big ones in the crowd to watch out for, most notably Marvel's Wolverine , but there's also the likes of RuneScape: Dragonwilds , Aniimo , and Trails in the Sky 2nd Chapter . Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/0fd286f81cb6a/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:15.405468+06:00",
+      "last_seen": "2026-09-12T19:53:15.405473+06:00"
+    },
+    "purexbox.com/news/2026/09/seven-games-are-confirmed-for-xbox-game-pass-in-october-2026-so-far": {
+      "title": "Seven Games Are Confirmed For Xbox Game Pass In October 2026 So Far",
+      "url": "https://www.purexbox.com/news/2026/09/seven-games-are-confirmed-for-xbox-game-pass-in-october-2026-so-far",
+      "canonical": "purexbox.com/news/2026/09/seven-games-are-confirmed-for-xbox-game-pass-in-october-2026-so-far",
+      "published_dt": "2026-09-12T19:30:00+06:00",
+      "published_date": "2026-09-12T19:30:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Looking forward at what's to come. We've made a habit of casting our gaze ahead and sharing with you an early look at what's in store for October 2026's Xbox Game Pass lineup. So far, we know of seven games scheduled to arrive in a few weeks' time. The biggest is without a doubt Gears of War: E-Day , but there's plenty of other juicy additions in Deep Dish Dungeon and Valor Mortis . Of course, expect to see plenty more games added to October's offering over the coming weeks. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/a98e9142bdb21/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:15.661732+06:00",
+      "last_seen": "2026-09-12T19:53:15.661737+06:00"
+    },
+    "purexbox.com/features/these-30plus-games-are-coming-to-xbox-next-week-september-14-18": {
+      "title": "Feature: These 30+ Games Are Coming To Xbox Next Week (September 14-18)",
+      "url": "https://www.purexbox.com/features/these-30plus-games-are-coming-to-xbox-next-week-september-14-18",
+      "canonical": "purexbox.com/features/these-30plus-games-are-coming-to-xbox-next-week-september-14-18",
+      "published_dt": "2026-09-12T18:00:00+06:00",
+      "published_date": "2026-09-12T18:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Including at least one highly-anticipated Game Pass title. Welcome to your Xbox games roundup for September 14-18 ! We've got some very interesting releases over the next few days including Aniimo, The Walking Dead: Streets of Survival, Two Point Hospital: Full Health Collection, FEROCIOUS and others, while Xbox Game Pass is treating us to RuneScape: Dragonwilds - a new day one release! Here's what's coming to Xbox next week: Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/200dc03d0598b/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:15.662045+06:00",
+      "last_seen": "2026-09-12T19:53:15.662048+06:00"
+    },
+    "purexbox.com/features/talking-point-what-are-you-playing-this-weekend-september-12-13": {
+      "title": "Talking Point: What Are You Playing This Weekend? (September 12-13)",
+      "url": "https://www.purexbox.com/features/talking-point-what-are-you-playing-this-weekend-september-12-13",
+      "canonical": "purexbox.com/features/talking-point-what-are-you-playing-this-weekend-september-12-13",
+      "published_dt": "2026-09-12T17:00:00+06:00",
+      "published_date": "2026-09-12T17:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "You oni live once. Alright weekend lovers, our time has spun around again and it's time to play some games! As far as weeks go, it's been a pretty tepid one for new releases, but don't forget about the Free Play Days offering, alongside some publisher spotlight sales on the Xbox Store too. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/cda923c09043f/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:15.662349+06:00",
+      "last_seen": "2026-09-12T19:53:15.662353+06:00"
+    },
+    "siliconera.com/2b-virtuous-contract-nier-automata-sword-feels-made-for-cosplay": {
+      "title": "2B Virtuous Contract NieR: Automata Sword Feels Made for Cosplay",
+      "url": "https://www.siliconera.com/2b-virtuous-contract-nier-automata-sword-feels-made-for-cosplay/",
+      "canonical": "siliconera.com/2b-virtuous-contract-nier-automata-sword-feels-made-for-cosplay",
+      "published_dt": "2026-09-12T19:00:00+06:00",
+      "published_date": "2026-09-12T19:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "A lot of the Square Enix and Hibino NieR: Automata Virtuous Contract sword design elements make sense both visually and for cosplay.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T19:53:16.018406+06:00",
+      "last_seen": "2026-09-12T19:53:16.018412+06:00"
     }
   },
   "events": {
@@ -15038,6 +15424,106 @@
           "headline": "VR Studio Polyarc Shuts Down After 12 Years of Moss Success",
           "claims": [
             "Polyarc is shutting down after 12 years"
+          ]
+        }
+      ]
+    },
+    "evt_5fe121da8f7c70": {
+      "event_id": "evt_5fe121da8f7c70",
+      "event_key": "falloutnewvegas ai remaster issue",
+      "event_subject": "Fallout New Vegas AI remaster issues",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "falloutnewvegas ai remaster issue",
+        "subject": "Fallout New Vegas AI remaster issues",
+        "event_type": "other",
+        "action": "report",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "Fallout: New Vegas",
+        "franchise": "Fallout",
+        "institution": "Bethesda",
+        "target": "players",
+        "platforms": [],
+        "topic": "technical"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [
+        "DLSS 5 ‘remaster’ caused catastrophic results"
+      ],
+      "importance_score": 52,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 18,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Fallout New Vegas ‘Remaster’ Turns Nightmarish After Multiple DLSS 5 Passes",
+      "summary": "Fans experimenting with NVIDIA’s DLSS 5 on Fallout New Vegas have produced unsettling AI‑distorted visuals that spark debate over the technology’s limits.",
+      "published_at": "2026-09-12T18:54:30+06:00",
+      "selected_at": "2026-09-12T14:00:30.572577+00:00",
+      "status": "published",
+      "message_id": 243,
+      "published_versions": [
+        {
+          "published_at": "2026-09-12T14:00:30.572577+00:00",
+          "headline": "Fallout New Vegas ‘Remaster’ Turns Nightmarish After Multiple DLSS 5 Passes",
+          "claims": [
+            "DLSS 5 ‘remaster’ caused catastrophic results"
+          ]
+        }
+      ]
+    },
+    "evt_7be7bb19abef11": {
+      "event_id": "evt_7be7bb19abef11",
+      "event_key": "physint xbox gamble analysis",
+      "event_subject": "Physint as Xbox’s biggest gamble",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "physint xbox gamble analysis",
+        "subject": "Physint as Xbox’s biggest gamble",
+        "event_type": "other",
+        "action": "analyze",
+        "status": "analysis",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "industry",
+        "platforms": [],
+        "topic": "business"
+      },
+      "sources": [
+        "IGN"
+      ],
+      "event_sources": [
+        "IGN"
+      ],
+      "claims": [
+        "Physint hijack could be Xbox’s biggest gamble yet"
+      ],
+      "importance_score": 45,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Xbox’s Bold Bet on Kojima’s Physint May Redefine Console Wars",
+      "summary": "Microsoft’s acquisition of Hideo Kojima’s upcoming action‑espionage title Physint marks a high‑stakes gamble that could reshape Xbox’s market position.",
+      "published_at": "2026-09-12T18:00:00+06:00",
+      "selected_at": "2026-09-12T14:00:35.715664+00:00",
+      "status": "published",
+      "message_id": 244,
+      "published_versions": [
+        {
+          "published_at": "2026-09-12T14:00:35.715664+00:00",
+          "headline": "Xbox’s Bold Bet on Kojima’s Physint May Redefine Console Wars",
+          "claims": [
+            "Physint hijack could be Xbox’s biggest gamble yet"
           ]
         }
       ]
@@ -37164,6 +37650,850 @@
         "total": 34
       },
       "last_seen": "2026-09-12T16:09:03.831968+06:00"
+    },
+    "evt_dbfbe4753b63bf": {
+      "event_id": "evt_dbfbe4753b63bf",
+      "event_key": "genshinimpact 7 1 update release",
+      "event_subject": "Genshin Impact 7.1 Update",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "genshinimpact 7 1 update release",
+        "subject": "Genshin Impact 7.1 Update",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Genshin Impact",
+        "franchise": "Genshin Impact",
+        "institution": "HoYoverse",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "PS5",
+          "PS4",
+          "Mobile",
+          "Switch"
+        ],
+        "topic": "update"
+      },
+      "modality": "unknown",
+      "topic": "update",
+      "institution": "HoYoverse",
+      "sources": [
+        "Gematsu",
+        "Insider Gaming",
+        "PC Gamer"
+      ],
+      "source_count": 3,
+      "independent_source_count": 3,
+      "claims": [
+        "Version 7.1 ‘A Rekviem for the Underworld’ launches September 23",
+        "Full details of the 7.1 update release date and contents",
+        "Livestream codes for the 7.1 update and how to redeem them",
+        "Compilation of all livestream codes for 7.1 update"
+      ],
+      "importance_score": 70,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 10,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 70
+      },
+      "last_seen": "2026-09-12T19:54:28.884680+06:00"
+    },
+    "evt_5436d70c4722da": {
+      "event_id": "evt_5436d70c4722da",
+      "event_key": "blizzcon2026 opening ceremony livereport",
+      "event_subject": "BlizzCon 2026 opening ceremony live report",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blizzcon2026 opening ceremony livereport",
+        "subject": "BlizzCon 2026 opening ceremony live report",
+        "event_type": "other",
+        "action": "report",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Blizzard",
+        "target": "attendees",
+        "platforms": [],
+        "topic": "event"
+      },
+      "modality": "unknown",
+      "topic": "event",
+      "institution": "Blizzard",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Coverage of opening ceremony news and announcements"
+      ],
+      "importance_score": 58,
+      "score_breakdown": {
+        "significance": 28,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 58
+      },
+      "last_seen": "2026-09-12T19:54:28.884704+06:00"
+    },
+    "evt_4ddd255e71076f": {
+      "event_id": "evt_4ddd255e71076f",
+      "event_key": "wardogs sales milestone",
+      "event_subject": "WARDOGS first‑day sales milestone",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "wardogs sales milestone",
+        "subject": "WARDOGS first‑day sales milestone",
+        "event_type": "other",
+        "action": "report",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "WARDOGS",
+        "franchise": "WARDOGS",
+        "institution": "",
+        "target": "industry",
+        "platforms": [],
+        "topic": "sales"
+      },
+      "modality": "unknown",
+      "topic": "sales",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Sold over 1 million copies in first 24 hours"
+      ],
+      "importance_score": 52,
+      "score_breakdown": {
+        "significance": 22,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 52
+      },
+      "last_seen": "2026-09-12T19:54:28.884713+06:00"
+    },
+    "evt_aedb00b6fe0241": {
+      "event_id": "evt_aedb00b6fe0241",
+      "event_key": "gamesdonequick community impact feature",
+      "event_subject": "Games Done Quick community impact",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gamesdonequick community impact feature",
+        "subject": "Games Done Quick community impact",
+        "event_type": "other",
+        "action": "highlight",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Games Done Quick",
+        "target": "community",
+        "platforms": [],
+        "topic": "community"
+      },
+      "modality": "unknown",
+      "topic": "community",
+      "institution": "Games Done Quick",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "How GDQ uses community to make a difference"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 46
+      },
+      "last_seen": "2026-09-12T19:54:28.884719+06:00"
+    },
+    "evt_5fe121da8f7c70": {
+      "event_id": "evt_5fe121da8f7c70",
+      "event_key": "falloutnewvegas ai remaster issue",
+      "event_subject": "Fallout New Vegas AI remaster issues",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "falloutnewvegas ai remaster issue",
+        "subject": "Fallout New Vegas AI remaster issues",
+        "event_type": "other",
+        "action": "report",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "Fallout: New Vegas",
+        "franchise": "Fallout",
+        "institution": "Bethesda",
+        "target": "players",
+        "platforms": [],
+        "topic": "technical"
+      },
+      "modality": "unknown",
+      "topic": "technical",
+      "institution": "Bethesda",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "DLSS 5 ‘remaster’ caused catastrophic results"
+      ],
+      "importance_score": 52,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 52
+      },
+      "last_seen": "2026-09-12T19:54:28.884725+06:00"
+    },
+    "evt_b606055a5fd845": {
+      "event_id": "evt_b606055a5fd845",
+      "event_key": "thiefremastered tarnishedmirror announcement",
+      "event_subject": "Thief Remastered new campaign ‘The Tarnished Mirror’",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "thiefremastered tarnishedmirror announcement",
+        "subject": "Thief Remastered new campaign ‘The Tarnished Mirror’",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Thief: The Dark Project Remastered",
+        "franchise": "Thief",
+        "institution": "Nightdive Studios",
+        "target": "players",
+        "platforms": [],
+        "topic": "update"
+      },
+      "modality": "unknown",
+      "topic": "update",
+      "institution": "Nightdive Studios",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "New campaign confirmed with November reveal date"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 16,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 46
+      },
+      "last_seen": "2026-09-12T19:54:28.884731+06:00"
+    },
+    "evt_7be7bb19abef11": {
+      "event_id": "evt_7be7bb19abef11",
+      "event_key": "physint xbox gamble analysis",
+      "event_subject": "Physint as Xbox’s biggest gamble",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "physint xbox gamble analysis",
+        "subject": "Physint as Xbox’s biggest gamble",
+        "event_type": "other",
+        "action": "analyze",
+        "status": "analysis",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "industry",
+        "platforms": [],
+        "topic": "business"
+      },
+      "modality": "unknown",
+      "topic": "business",
+      "institution": "Microsoft",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Physint hijack could be Xbox’s biggest gamble yet"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-09-12T19:54:28.884737+06:00"
+    },
+    "evt_9d7201738ddf43": {
+      "event_id": "evt_9d7201738ddf43",
+      "event_key": "wardogs success commentary",
+      "event_subject": "WARDOGS success commentary",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "wardogs success commentary",
+        "subject": "WARDOGS success commentary",
+        "event_type": "other",
+        "action": "comment",
+        "status": "published",
+        "modality": "unknown",
+        "game": "WARDOGS",
+        "franchise": "WARDOGS",
+        "institution": "",
+        "target": "industry",
+        "platforms": [],
+        "topic": "opinion"
+      },
+      "modality": "unknown",
+      "topic": "opinion",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Success shows AAA studios must stop treating players like idiots"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 46
+      },
+      "last_seen": "2026-09-12T19:54:28.884743+06:00"
+    },
+    "evt_00e9e60389d1e1": {
+      "event_id": "evt_00e9e60389d1e1",
+      "event_key": "xboxgamepass october2026 additions announcement",
+      "event_subject": "Xbox Game Pass October 2026 lineup",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xboxgamepass october2026 additions announcement",
+        "subject": "Xbox Game Pass October 2026 lineup",
+        "event_type": "other",
+        "action": "add",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft/Xbox",
+        "target": "Game Pass subscribers",
+        "platforms": [
+          "Xbox Series X|S",
+          "PC"
+        ],
+        "topic": "service"
+      },
+      "modality": "unknown",
+      "topic": "service",
+      "institution": "Microsoft/Xbox",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Seven games confirmed for October 2026 Game Pass, including Gears of War: E-Day"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-12T19:54:28.884749+06:00"
+    },
+    "evt_8d32b267daa651": {
+      "event_id": "evt_8d32b267daa651",
+      "event_key": "acecombat8 cloudtechnology development",
+      "event_subject": "Ace Combat 8 cloud technology development",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "acecombat8 cloudtechnology development",
+        "subject": "Ace Combat 8 cloud technology development",
+        "event_type": "other",
+        "action": "create",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Ace Combat 8: Wings of Theve",
+        "franchise": "Ace Combat",
+        "institution": "Bandai Namco",
+        "target": "players",
+        "platforms": [],
+        "topic": "technology"
+      },
+      "modality": "unknown",
+      "topic": "technology",
+      "institution": "Bandai Namco",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Team created more realistic clouds using new tech"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-09-12T19:54:28.884754+06:00"
+    },
+    "evt_26f39778e477cf": {
+      "event_id": "evt_26f39778e477cf",
+      "event_key": "croak platformer announcement",
+      "event_subject": "New platformer ‘Croak’ demo release",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "croak platformer announcement",
+        "subject": "New platformer ‘Croak’ demo release",
+        "event_type": "other",
+        "action": "announce",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Croak",
+        "franchise": "Croak",
+        "institution": "",
+        "target": "players",
+        "platforms": [
+          "Steam"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Demo available ahead of fall release"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 9,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 39
+      },
+      "last_seen": "2026-09-12T19:54:28.884760+06:00"
+    },
+    "evt_30906f74dfbd71": {
+      "event_id": "evt_30906f74dfbd71",
+      "event_key": "xbox weekly roundup sept14 18 2026",
+      "event_subject": "Xbox games coming Sep 14‑18",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox weekly roundup sept14 18 2026",
+        "subject": "Xbox games coming Sep 14‑18",
+        "event_type": "other",
+        "action": "list",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "players",
+        "platforms": [],
+        "topic": "schedule"
+      },
+      "modality": "unknown",
+      "topic": "schedule",
+      "institution": "Microsoft",
+      "sources": [
+        "Pure Xbox",
+        "Push Square"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        " roundup of titles including Aniimo, Walking Dead: Streets of Survival, etc.",
+        "Guide to 25+ PS5 titles releasing next week, including Marvel’s Wolverine"
+      ],
+      "importance_score": 43,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 43
+      },
+      "last_seen": "2026-09-12T19:54:28.884766+06:00"
+    },
+    "evt_1a2315ec6645d5": {
+      "event_id": "evt_1a2315ec6645d5",
+      "event_key": "witcher3 chainweapon idea realized songsofthepast",
+      "event_subject": "Chain weapon concept from Witcher 3 realized in Songs of the Past",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "witcher3 chainweapon idea realized songsofthepast",
+        "subject": "Chain weapon concept from Witcher 3 realized in Songs of the Past",
+        "event_type": "other",
+        "action": "realize",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "The Witcher 3",
+        "franchise": "The Witcher",
+        "institution": "CD Projekt",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "PS5",
+          "Xbox Series X|S"
+        ],
+        "topic": "development"
+      },
+      "modality": "unknown",
+      "topic": "development",
+      "institution": "CD Projekt",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Chain weapon idea finally implemented in Songs of the Past"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-09-12T19:54:28.884772+06:00"
+    },
+    "evt_443699c3d995e4": {
+      "event_id": "evt_443699c3d995e4",
+      "event_key": "godsavebirmingham earlypreview",
+      "event_subject": "God Save Birmingham preview",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "godsavebirmingham earlypreview",
+        "subject": "God Save Birmingham preview",
+        "event_type": "other",
+        "action": "preview",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "God Save Birmingham",
+        "franchise": "God Save Birmingham",
+        "institution": "Ocean Drive Studios",
+        "target": "players",
+        "platforms": [],
+        "topic": "preview"
+      },
+      "modality": "unknown",
+      "topic": "preview",
+      "institution": "Ocean Drive Studios",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Early builds improve tone; open‑world survival horror preview"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 37
+      },
+      "last_seen": "2026-09-12T19:54:28.884779+06:00"
+    },
+    "evt_49db3b53aad2fd": {
+      "event_id": "evt_49db3b53aad2fd",
+      "event_key": "roblox conference tackle incident",
+      "event_subject": "YouTuber tackled at Roblox conference",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "roblox conference tackle incident",
+        "subject": "YouTuber tackled at Roblox conference",
+        "event_type": "other",
+        "action": "tackle",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Roblox",
+        "target": "YouTuber",
+        "platforms": [],
+        "topic": "incident"
+      },
+      "modality": "unknown",
+      "topic": "incident",
+      "institution": "Roblox",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Emathiio was tackled on stage after wearing a protest T‑shirt"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 32
+      },
+      "last_seen": "2026-09-12T19:54:28.884785+06:00"
+    },
+    "evt_6026a0ebea9e65": {
+      "event_id": "evt_6026a0ebea9e65",
+      "event_key": "lanterns batman connection rumor",
+      "event_subject": "Potential Batman connection in Lanterns",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "lanterns batman connection rumor",
+        "subject": "Potential Batman connection in Lanterns",
+        "event_type": "rumor",
+        "action": "suggest",
+        "status": "unconfirmed",
+        "modality": "unknown",
+        "game": "Lanterns",
+        "franchise": "Lanterns",
+        "institution": "Nintendo",
+        "target": "players",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "rumor"
+      },
+      "modality": "unknown",
+      "topic": "rumor",
+      "institution": "Nintendo",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "A character in Lanterns may share a major connection to Batman"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-12T19:54:28.884791+06:00"
+    },
+    "evt_8bd1639328b648": {
+      "event_id": "evt_8bd1639328b648",
+      "event_key": "zeverland designer interview",
+      "event_subject": "Zeverland designer discussion",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "zeverland designer interview",
+        "subject": "Zeverland designer discussion",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Zeverland",
+        "franchise": "Zeverland",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "interview"
+      },
+      "modality": "unknown",
+      "topic": "interview",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Designer talks unique take on zombie apocalypse"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-12T19:54:28.884797+06:00"
+    },
+    "evt_ca27bb082e040b": {
+      "event_id": "evt_ca27bb082e040b",
+      "event_key": "nierautomata virtuouscontract sword cosplay feature",
+      "event_subject": "2B Virtuous Contract sword cosplay suitability",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nierautomata virtuouscontract sword cosplay feature",
+        "subject": "2B Virtuous Contract sword cosplay suitability",
+        "event_type": "other",
+        "action": "highlight",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "NieR: Automata",
+        "franchise": "NieR",
+        "institution": "Square Enix",
+        "target": "cosplayers",
+        "platforms": [],
+        "topic": "cosplay"
+      },
+      "modality": "unknown",
+      "topic": "cosplay",
+      "institution": "Square Enix",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Sword design makes sense for cosplay"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-09-12T19:54:28.884802+06:00"
+    },
+    "evt_386c8fe32e468b": {
+      "event_id": "evt_386c8fe32e468b",
+      "event_key": "hope film release announcement",
+      "event_subject": "Na Hong‑jin’s sci‑fi film ‘Hope’",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "hope film release announcement",
+        "subject": "Na Hong‑jin’s sci‑fi film ‘Hope’",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Na Hong‑jin",
+        "target": "audience",
+        "platforms": [],
+        "topic": "film"
+      },
+      "modality": "unknown",
+      "topic": "film",
+      "institution": "Na Hong‑jin",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Sci‑fi blockbuster ‘Hope’ marketed after VFX controversy"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-12T19:54:28.884808+06:00"
+    },
+    "evt_316359650a6e7d": {
+      "event_id": "evt_316359650a6e7d",
+      "event_key": "weekend gaming talkingpoint sept12 13 2026",
+      "event_subject": "Talking Point: What are you playing this weekend?",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "weekend gaming talkingpoint sept12 13 2026",
+        "subject": "Talking Point: What are you playing this weekend?",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Pure Xbox",
+        "target": "players",
+        "platforms": [],
+        "topic": "editorial"
+      },
+      "modality": "unknown",
+      "topic": "editorial",
+      "institution": "Pure Xbox",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Weekend gaming suggestions and free‑play days"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-12T19:54:28.884813+06:00"
     }
   },
   "posted_event_ids": [
@@ -37246,7 +38576,9 @@
     "evt_3409a7291b1367",
     "evt_6f00254ce84629",
     "evt_791270788a825b",
-    "evt_041c90281ea072"
+    "evt_041c90281ea072",
+    "evt_5fe121da8f7c70",
+    "evt_7be7bb19abef11"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -37328,10 +38660,12 @@
     "thq nordic unveils early access roadmap for the guild remake europa 1410",
     "nintendo announces switch 2 monster hunter wilds bundle for december release",
     "melty blood twi lumina set for multi platform launch on april 22 2027",
-    "vr studio polyarc shuts down after 12 years of moss success"
+    "vr studio polyarc shuts down after 12 years of moss success",
+    "fallout new vegas remaster turns nightmarish after multiple dlss 5 passes",
+    "xbox s bold bet on kojima s physint may redefine console wars"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-12T11:28:41.348586+06:00",
+    "Game Updates": "2026-09-12T20:00:35.715684+06:00",
     "Major Releases": "2026-09-11T21:15:22.485969+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
