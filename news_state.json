@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"28259-Hidn4YmwQlNBJ5ve9pd/M8sznsM\"",
+      "etag": "W/\"27738-R4846Pk7IKZxTIuPHCTTukT4sio\"",
       "last_modified": null,
-      "last_checked": "2026-09-12T22:46:03.383046+06:00",
+      "last_checked": "2026-09-13T00:57:56.985552+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T22:46:03.567947+06:00",
+      "last_checked": "2026-09-13T00:57:57.175657+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aa5818f-bd2\"",
-      "last_modified": "Sat, 12 Sep 2026 16:45:03 GMT",
-      "last_checked": "2026-09-12T22:46:03.888375+06:00",
+      "etag": "\"6aa5a007-ad3\"",
+      "last_modified": "Sat, 12 Sep 2026 18:55:03 GMT",
+      "last_checked": "2026-09-13T00:57:57.475277+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Sat, 12 Sep 2026 15:43:49 GMT",
-      "last_checked": "2026-09-12T22:46:04.114179+06:00",
+      "last_checked": "2026-09-13T00:57:57.741878+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6aa579f6-12b5\"",
-      "last_modified": "Sat, 12 Sep 2026 16:12:38 GMT",
-      "last_checked": "2026-09-12T22:46:04.449950+06:00",
+      "etag": "\"6aa59f4a-1247\"",
+      "last_modified": "Sat, 12 Sep 2026 18:51:54 GMT",
+      "last_checked": "2026-09-13T00:57:57.904657+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T22:46:04.638819+06:00",
+      "last_checked": "2026-09-13T00:57:58.019366+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T22:46:05.210645+06:00",
+      "last_checked": "2026-09-13T00:57:58.533973+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"ada2a5caeba33cd83575de18602b3d62\"",
-      "last_modified": "Sat, 12 Sep 2026 16:41:30 GMT",
-      "last_checked": "2026-09-12T22:46:05.463411+06:00",
+      "etag": "W/\"739dbb49ae8bd2d67bea3937e578d743\"",
+      "last_modified": "Sat, 12 Sep 2026 18:51:10 GMT",
+      "last_checked": "2026-09-13T00:57:58.749689+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T22:46:05.591501+06:00",
+      "last_checked": "2026-09-13T00:57:58.889999+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Sat, 12 Sep 2026 07:58:51 GMT",
-      "last_checked": "2026-09-12T22:46:06.138234+06:00",
+      "last_checked": "2026-09-13T00:57:59.283542+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sat, 12 Sep 2026 16:46:06 GMT",
-      "last_checked": "2026-09-12T22:46:06.715844+06:00",
+      "last_modified": "Sat, 12 Sep 2026 18:57:59 GMT",
+      "last_checked": "2026-09-13T00:57:59.779940+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"67b7c3291a5fe8f042faf25299b48bf9\"",
-      "last_modified": "Sat, 12 Sep 2026 16:17:50 GMT",
-      "last_checked": "2026-09-12T22:46:07.096589+06:00",
+      "etag": "W/\"7370670e7edd83f8d4a29dceff57ba74\"",
+      "last_modified": "Sat, 12 Sep 2026 18:40:15 GMT",
+      "last_checked": "2026-09-13T00:58:00.132089+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T22:46:07.242914+06:00",
+      "last_checked": "2026-09-13T00:58:00.530021+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T22:46:07.608435+06:00",
+      "last_checked": "2026-09-13T00:58:00.858257+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T22:46:07.975650+06:00",
+      "last_checked": "2026-09-13T00:58:01.258070+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-12T22:46:08.161414+06:00",
-      "fail_count": 17,
+      "last_checked": "2026-09-13T00:58:01.451360+06:00",
+      "fail_count": 18,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"8c987894be77db8fbcb201700c34b6e2\"",
       "last_modified": "Fri, 11 Sep 2026 20:33:31 GMT",
-      "last_checked": "2026-09-12T22:46:08.295518+06:00",
+      "last_checked": "2026-09-13T00:58:01.583178+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-12T22:46:08.500607+06:00",
+      "last_checked": "2026-09-13T00:58:01.722359+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-12T22:46:08.614775+06:00",
-      "fail_count": 17,
+      "last_checked": "2026-09-13T00:58:01.850973+06:00",
+      "fail_count": 18,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"e8d3f51c83767a56c25af98180345c89\"",
       "last_modified": "Sat, 12 Sep 2026 16:00:00 GMT",
-      "last_checked": "2026-09-12T22:46:08.721072+06:00",
+      "last_checked": "2026-09-13T00:58:02.083863+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -11339,7 +11339,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-12T22:46:03.457798+06:00",
-      "last_seen": "2026-09-12T22:46:03.457805+06:00"
+      "last_seen": "2026-09-13T00:57:57.060408+06:00"
     },
     "ign.com/articles/blizzcon-2026-opening-ceremony-live-blog-the-future-of-warcraft-and-diablo-set-to-be-revealed-amid-starcraft-announcement-rumors": {
       "title": "BlizzCon 2026 Opening Ceremony Live Blog: The Future of Warcraft and Diablo Set to Be Revealed Amid StarCraft Rumors",
@@ -11600,7 +11600,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-12T22:46:05.476098+06:00",
-      "last_seen": "2026-09-12T22:46:05.476102+06:00"
+      "last_seen": "2026-09-13T00:57:58.763863+06:00"
     },
     "kotaku.com/scp-foundation-pushes-back-on-backrooms-studios-new-v-h-s-scp-movie-a24-does-not-and-cannot-have-any-exclusive-rights-2000733756": {
       "title": "SCP Foundation Pushes Back On Backrooms Studio’s New V/H/S: SCP Movie: ‘A24 Does Not And Cannot Have Any Exclusive Rights’",
@@ -11664,7 +11664,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-12T22:46:07.107952+06:00",
-      "last_seen": "2026-09-12T22:46:07.107958+06:00"
+      "last_seen": "2026-09-13T00:58:00.144106+06:00"
     },
     "insider-gaming.com/fortnite-original-footage": {
       "title": "Early Gameplay Footage of Fortnite Surfaces Online 14 Years Later",
@@ -11696,7 +11696,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-12T22:46:07.629310+06:00",
-      "last_seen": "2026-09-12T22:46:07.629317+06:00"
+      "last_seen": "2026-09-13T00:58:00.879368+06:00"
     },
     "purexbox.com/features/poll-which-xbox-startup-animation-will-you-pick-in-the-new-console-update": {
       "title": "Poll: Which Xbox Startup Animation Will You Pick In The New Console Update?",
@@ -11729,6 +11729,951 @@
       "status": "pending",
       "first_seen": "2026-09-12T22:46:08.793199+06:00",
       "last_seen": "2026-09-12T22:46:08.793206+06:00"
+    },
+    "ign.com/articles/diablo-5-announced-release-date-2029": {
+      "title": "Diablo 5 Announced",
+      "url": "https://www.ign.com/articles/diablo-5-announced-release-date-2029",
+      "canonical": "ign.com/articles/diablo-5-announced-release-date-2029",
+      "published_dt": "2026-09-13T00:22:01+06:00",
+      "published_date": "2026-09-13T00:22:01+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Blizzard has officially announced Diablo 5 at BlizzCon 2026. Set entirely in a post-apocalyptic future 100 years after Diablo 4, the ARPG will release in 2029.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/12/diablo-1789237307597.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.059313+06:00",
+      "last_seen": "2026-09-13T00:57:57.059321+06:00"
+    },
+    "ign.com/articles/overwatch-2-gets-new-vampire-inspired-support-hero-map-and-big-character-reworks": {
+      "title": "Overwatch 2 Gets New Vampire-Inspired Support Hero, Map, and Big Character Reworks",
+      "url": "https://www.ign.com/articles/overwatch-2-gets-new-vampire-inspired-support-hero-map-and-big-character-reworks",
+      "canonical": "ign.com/articles/overwatch-2-gets-new-vampire-inspired-support-hero-map-and-big-character-reworks",
+      "published_dt": "2026-09-12T23:59:39+06:00",
+      "published_date": "2026-09-12T23:59:39+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Overwatch is getting a brand-new vampire-inspired support hero, as well as the conclusion of Act III in The Reign of Talon storyline and several big character changes.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/12/overwatch-1789236210678.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.059496+06:00",
+      "last_seen": "2026-09-13T00:57:57.059500+06:00"
+    },
+    "ign.com/articles/next-starcraft-game-announced-at-blizzcon-as-an-open-world-shooter-but-its-not-due-out-until-2030": {
+      "title": "Next StarCraft Game Announced at BlizzCon as an Open-World Shooter, but It’s Not Due Out Until 2030",
+      "url": "https://www.ign.com/articles/next-starcraft-game-announced-at-blizzcon-as-an-open-world-shooter-but-its-not-due-out-until-2030",
+      "canonical": "ign.com/articles/next-starcraft-game-announced-at-blizzcon-as-an-open-world-shooter-but-its-not-due-out-until-2030",
+      "published_dt": "2026-09-12T23:51:46+06:00",
+      "published_date": "2026-09-12T23:51:46+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "It’s been over 15 years since Blizzard’s beloved real-time strategy game, StarCraft 2, came out. Now, a new game in the series has been announced — but it’s still years away.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/12/starcraft-1789236271772.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.059640+06:00",
+      "last_seen": "2026-09-13T00:57:57.059645+06:00"
+    },
+    "ign.com/articles/animated-diablo-show-in-the-works-at-netflix": {
+      "title": "Animated Diablo Show in the Works at Netflix",
+      "url": "https://www.ign.com/articles/animated-diablo-show-in-the-works-at-netflix",
+      "canonical": "ign.com/articles/animated-diablo-show-in-the-works-at-netflix",
+      "published_dt": "2026-09-12T23:49:30+06:00",
+      "published_date": "2026-09-12T23:49:30+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "An animated Diablo show is in the works at Netflix, as announced at Blizzcon 2026, and there could be more to com",
+      "image": "https://assets-prd.ignimgs.com/2026/09/12/netflix-diablo-1789235581140.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.059767+06:00",
+      "last_seen": "2026-09-13T00:57:57.059772+06:00"
+    },
+    "ign.com/articles/heroes-of-the-storm-gets-first-new-character-in-six-years": {
+      "title": "Heroes of the Storm Gets First New Character in Six Years",
+      "url": "https://www.ign.com/articles/heroes-of-the-storm-gets-first-new-character-in-six-years",
+      "canonical": "ign.com/articles/heroes-of-the-storm-gets-first-new-character-in-six-years",
+      "published_dt": "2026-09-12T23:43:35+06:00",
+      "published_date": "2026-09-12T23:43:35+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Announced at Blizzcon 2026, Heroes of the Storm is getting its first new character since Hogger was released in 2020, as well as a new PTR.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/12/blizzcon2026-blogroll-1789235003625.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.059896+06:00",
+      "last_seen": "2026-09-13T00:57:57.059899+06:00"
+    },
+    "ign.com/articles/borderlands-4-dlc-character-and-free-to-play-weekend-attract-resurgence-on-steam": {
+      "title": "Borderlands 4 DLC Character and Free-to-Play Weekend Attract Resurgence on Steam",
+      "url": "https://www.ign.com/articles/borderlands-4-dlc-character-and-free-to-play-weekend-attract-resurgence-on-steam",
+      "canonical": "ign.com/articles/borderlands-4-dlc-character-and-free-to-play-weekend-attract-resurgence-on-steam",
+      "published_dt": "2026-09-12T23:41:24+06:00",
+      "published_date": "2026-09-12T23:41:24+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Borderlands 4 is climbing Steam charts as players fall head over heels for its new DLC character – a Vault Hunter named Loveless the Hacker.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/12/borderlands-4-loveless-1789234281945.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.060018+06:00",
+      "last_seen": "2026-09-13T00:57:57.060022+06:00"
+    },
+    "ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-september-2026": {
+      "title": "The SteelSeries Arctis Nova Pro Wireless Gaming Headset With Infinite Battery Life Drops to $250",
+      "url": "https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-september-2026",
+      "canonical": "ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-september-2026",
+      "published_dt": "2026-09-12T23:20:00+06:00",
+      "published_date": "2026-09-12T23:20:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Wireless free with zero downtime.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/11/steelseriesarctisnovapro-1789085830354.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.060160+06:00",
+      "last_seen": "2026-09-13T00:57:57.060165+06:00"
+    },
+    "ign.com/articles/t-mobiles-apple-iphone-18-pro-on-us-deal-explained": {
+      "title": "T-Mobile's Apple iPhone 18 Pro \"On Us\" Deal Explained",
+      "url": "https://www.ign.com/articles/t-mobiles-apple-iphone-18-pro-on-us-deal-explained",
+      "canonical": "ign.com/articles/t-mobiles-apple-iphone-18-pro-on-us-deal-explained",
+      "published_dt": "2026-09-12T23:20:00+06:00",
+      "published_date": "2026-09-12T23:20:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "",
+      "image": "https://assets-prd.ignimgs.com/2026/09/12/appleiphone18pro-1789233206440.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.060283+06:00",
+      "last_seen": "2026-09-13T00:57:57.060287+06:00"
+    },
+    "gamespot.com/articles/wow-the-last-titan-cinematic-ups-the-stakes-but-first-xalatath": {
+      "title": "WoW: The Last Titan Cinematic Ups The Stakes, But First, Xal’atath",
+      "url": "https://www.gamespot.com/articles/wow-the-last-titan-cinematic-ups-the-stakes-but-first-xalatath/",
+      "canonical": "gamespot.com/articles/wow-the-last-titan-cinematic-ups-the-stakes-but-first-xalatath",
+      "published_dt": "2026-09-13T00:44:46+06:00",
+      "published_date": "2026-09-13T00:44:46+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "As is BlizzCon tradition, a new World of Warcraft cinematic premiered during the BlizzCon 2026 opening ceremony , setting the stage for the MMORPG's next expansion, The Last Titan. In a departure for BlizzCon, that glimpse was just about all fans learned about the new expansion, with Blizzard instead looking to put the focus more on the final content patch of the game's current Midnight expansion. That update, titled Eclipse, will consist of a climactic showdown with the franchise's current main villain, Xal'atath. An in-game cinematic shown during the ceremony revealed Xal'atath's true objective, to merge with Azeroth's worldsoul and become unstoppable. Blizzard additionally teased a new standalone game mode, and yet another expansion Remix experience, will also be coming to Midnight before the expansion's end. As for The Last Titan's setting, it takes players back to Northrend, the continent previously seen in 2008's Wrath of the Lich King expansion. Much like how Blizzard revamped Silvermoon City and the Blood Elf lands of Quel'thalas in Midnight to great results, Northrend will be completely rebuilt from the ground up. Blizzard said more details about The Last Titan will be shared next year. The Last Titan was first announced at BlizzCon 2023, when Blizzard made the unprecedented move of announcing an entire trilogy of expansions all at once. Collectively, Blizzard called the three expansions The Worldsoul Saga, with a goal of bringing together many of WoW's disparate storylines from over the last 20 years into one fitting conclusion. As the end of the trilogy, The Last Titan has a lot of expectations to live up to that the main storyline of WoW's two previous expansions, The War Within and Midnight, haven't exactly met. Regardless, it will still be exciting to see how Blizzard ties two decades' worth of story involving the Void, the Titans, and Azeroth herself together into one cohesive package.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.209323+06:00",
+      "last_seen": "2026-09-13T00:57:57.209331+06:00"
+    },
+    "gamespot.com/articles/blizzcon-2026-opening-ceremony-all-the-biggest-announcements-and-games": {
+      "title": "BlizzCon 2026 Opening Ceremony: All The Biggest Announcements And Games",
+      "url": "https://www.gamespot.com/articles/blizzcon-2026-opening-ceremony-all-the-biggest-announcements-and-games/",
+      "canonical": "gamespot.com/articles/blizzcon-2026-opening-ceremony-all-the-biggest-announcements-and-games",
+      "published_dt": "2026-09-12T23:15:00+06:00",
+      "published_date": "2026-09-12T23:15:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "BlizzCon is a big deal if you're a fan of all things Blizzard, as the weekend event kicks off with a traditional opening ceremony full of announcements and reveals for the company's biggest games. The show is about to begin, and if you're curious, we'll be keeping track of all the announcements as they happen for the 2026 edition. While Blizzard hasn't revealed which of its games will be in the spotlight, we're expecting World of Warcraft, Overwatch, and Diablo to be today's main-eventers, and if we're lucky, we might even see StarCraft back in the spotlight. The show will run for around 75 minutes. Blizzard president Johanna Faries had previously said that 2026 will be Blizzard’s \"biggest year yet,\" with BlizzCon having a major part to play in those plans. You can keep scrolling below to read up on what Blizzard will show off, and we'll also be embedding trailers for each reveal, so don't forget to hit your F5 key for a quick refresh. Heroes of the Storm https://www.youtube.com/watch?v=wks8GLNUHsk&pp=0gcJCf4LAYcqIYzv Heroes of the Storm is adding a new hero to its roster for the first time in six years, as Xal'atath is coming to the Nexus. You can try her out this weekend in the game. For The First Time In 6 Years, Blizzard Is Bringing A New Character To Heroes Of The Storm A Diablo animated series is in development at Netflix The next announcement was about a Diablo animated series in development. Blizzard president Johanna Faries announced that it's being produced by Netflix. \"Diablo, I promise, is just the beginning,\" Faries teased. \"To our Overwatch community, to our Warcraft community, and who knows, perhaps even some of our other universes.\" StarCraft returns in 2030 https://www.youtube.com/watch?v=TIu2tGCCKQw Ubisoft veteran Dan Hay was on stage to announce a brand-new StarCraft, which he described as an open-world shooter. The cinematic trailer showed off some gung-ho Dominion recruits training to be the best in the galaxy, but a few hours later, the remain",
+      "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4293616-blizzcon.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.231622+06:00",
+      "last_seen": "2026-09-13T00:57:57.231637+06:00"
+    },
+    "gamespot.com/articles/hearthstones-first-new-class-in-4-years-and-a-more-story-driven-journal-are-on-the-way": {
+      "title": "Hearthstone’s First New Class In 4 Years And A More Story-Driven Journal Are On The Way",
+      "url": "https://www.gamespot.com/articles/hearthstones-first-new-class-in-4-years-and-a-more-story-driven-journal-are-on-the-way/",
+      "canonical": "gamespot.com/articles/hearthstones-first-new-class-in-4-years-and-a-more-story-driven-journal-are-on-the-way",
+      "published_dt": "2026-09-13T00:33:19+06:00",
+      "published_date": "2026-09-13T00:33:19+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "New class additions to Hearthstone don't come often, but the next one has been announced during BlizzCon 2026's Opening Ceremony : The Monk is coming to the card game, leaving just the Evoker as the lone class to be left out. The Monk's upcoming addition was one of several major pieces of news for Hearthstone revealed. A new expansion called Reign of the Black Empire that is set 10,000 years in the past will focus on the Black Empire and a struggle between the Old Gods and the Titans. https://www.youtube.com/watch?v=Ib5EMar4b1E If that excites the lore enjoyer in you, you'll also be happy to hear that the Journal is being transformed into The Journey. This is meant to give a more narrative-driven wrapper to the game, as it'll seek to tie the story together between expansions, modes, and limited-time events. The Journey will grow as you play through Reign of the Black Empire, tying together quests, achievements, and more elements of the game. As far as the Monk goes, we don't know much in terms of how they'll play. We only got a short teaser for the new class, which marks the first such addition since the Death Knight arrived in 2022. The game originally launched with nine characters before later adding Demon Hunter and then Death Knight. The Monk will arrive in March 2027, with more details coming next year. Other new features coming to Hearthstone include a new keyword, Assemble, which lets you effectively merge two minions into one, which sounds similar to Magnetize; you can pick specific text from their descriptions to create new combos. A new minion type, Aberrations, was also revealed, with their deaths feeding the gods in some way. Aberrations will be specific to Battlegrounds, which is also getting a 2v2 main ranked mode. Reign of the Black Empire releases on October 20.",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/hearthstone-monk.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.232181+06:00",
+      "last_seen": "2026-09-13T00:57:57.232187+06:00"
+    },
+    "gamespot.com/articles/diablo-5-is-coming-in-2029-will-actually-star-diablo": {
+      "title": "Diablo 5 Is Coming In 2029, Will Actually Star Diablo",
+      "url": "https://www.gamespot.com/articles/diablo-5-is-coming-in-2029-will-actually-star-diablo/",
+      "canonical": "gamespot.com/articles/diablo-5-is-coming-in-2029-will-actually-star-diablo",
+      "published_dt": "2026-09-13T00:24:10+06:00",
+      "published_date": "2026-09-13T00:24:10+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Diablo 5 is coming in Spring 2029, and it will take players to a world where Diablo himself reigns supreme. Announced via a short teaser during the BlizzCon 2026 opening ceremony , Blizzard revealed it's already at work on the next installment of the series. Set 100 years after the defeat of Mephisto in Diablo 4: Lord of Hatred, Diablo 5 will see the Lord of Terror return. However, instead of stopping him from destroying all of Sanctuary, he will actually have already won. Blizzard teased Diablo 5's story will revolve around what heroes have to become in a post-apocalyptic world that is already destroyed. More details will be shared about the game's lore, classes, and gameplay features, during a Diablo 5 panel as part of this weekend's convention. https://www.youtube.com/watch?v=Y8HaSFXR7tU Should Diablo 5 actually release in 2029, it will be the shortest gap between Diablo games in the franchise's history. There was a 12-year wait for Diablo 3 after Diablo 2, and another 11 years between Diablo 3 and 4. Diablo 5, in comparison, is slated to come just six years after Diablo 4--still a long time, but much shorter given the franchise's track record. Blizzard has been on record saying it wants to create new Diablo games faster . In an interview earlier this year, Blizzard said that \"over the next 30 years, maybe we get some out faster.\"",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/1000003823.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.232681+06:00",
+      "last_seen": "2026-09-13T00:57:57.232687+06:00"
+    },
+    "gamespot.com/articles/diablo-4s-next-class-is-what-you-expect-but-isnt-coming-with-a-full-expansion": {
+      "title": "Diablo 4’s Next Class Is What You Expect But Isn’t Coming With A Full Expansion",
+      "url": "https://www.gamespot.com/articles/diablo-4s-next-class-is-what-you-expect-but-isnt-coming-with-a-full-expansion/",
+      "canonical": "gamespot.com/articles/diablo-4s-next-class-is-what-you-expect-but-isnt-coming-with-a-full-expansion",
+      "published_dt": "2026-09-13T00:19:45+06:00",
+      "published_date": "2026-09-13T00:19:45+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Diablo 4's next class is Amazon, Blizzard announced during the BlizzCon opening ceremony , but it won't be coming as part of a new expansion. Instead, Blizzard will sell the Amazon as a separate DLC class pack in the first half of next year. The addition of the Amazon isn't exactly a surprise. First, it's an iconic class from Diablo 2, so it's a bit of a no-brainer there. Alongside the nostalgia factor, Diablo 4's latest expansion, Lord of Hatred, also took players to the literal home of the Amazons, Skovos. They featured heavily in the expansion's story but were not a playable class, with the expansion instead adding the Paladin and Warlock to Diablo 4's class roster. While the Amazon isn't coming until 2027, Diablo 4's next season, Hell's Legacy, is coming much sooner. The season kicks off next week on September 15 and will celebrate the franchise's 30th anniversary and feature the return of enemies, locations, and items from previous Diablo games. That will include the return of Deckard Cain, who will take players on a journey to confront Diablo, Baal, and Mephisto, meaning the Lord of Terror himself will finally make an appearance in Diablo 4. Though it leaked ahead of time, Diablo 4 is officially coming to the Switch 2 as well, with a Lord of Hatred collection that includes both of the game's expansions.",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/diablo4amazon.png?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.233014+06:00",
+      "last_seen": "2026-09-13T00:57:57.233019+06:00"
+    },
+    "gamespot.com/articles/overwatch-is-reworking-two-of-its-most-criticized-legacy-characters": {
+      "title": "Overwatch Is Reworking Two Of Its Most Criticized Characters",
+      "url": "https://www.gamespot.com/articles/overwatch-is-reworking-two-of-its-most-criticized-legacy-characters/",
+      "canonical": "gamespot.com/articles/overwatch-is-reworking-two-of-its-most-criticized-legacy-characters",
+      "published_dt": "2026-09-13T00:15:10+06:00",
+      "published_date": "2026-09-13T00:15:10+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "After years of complaints, Overwatch is finally reworking two of its veteran heroes. Announced during BlizzCon 2026's opening ceremony , both Roadhog and Sombra will be receiving major reworks, with Sombra pivoting to being a support hero and Roadhog undergoing changes to make him more of a team player. https://www.youtube.com/watch?v=LBt8q49qD8k Overwatch director Aaron Keller has yet to share the specifics on how the pair will reworked, but mentioned players will be far less annoyed by Roadhog's hook in particular. We will update this story as more specifics on Sombra and Roadhog's changes are revealed.",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/4051619-sombra.webp?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.233441+06:00",
+      "last_seen": "2026-09-13T00:57:57.233447+06:00"
+    },
+    "gamespot.com/articles/overwatchs-newest-blood-sucking-character-pushes-the-game-even-further-into-the-fantasy-genre": {
+      "title": "Overwatch’s Newest Blood-Sucking Character Pushes The Game Even Further Into The Fantasy Genre",
+      "url": "https://www.gamespot.com/articles/overwatchs-newest-blood-sucking-character-pushes-the-game-even-further-into-the-fantasy-genre/",
+      "canonical": "gamespot.com/articles/overwatchs-newest-blood-sucking-character-pushes-the-game-even-further-into-the-fantasy-genre",
+      "published_dt": "2026-09-13T00:09:18+06:00",
+      "published_date": "2026-09-13T00:09:18+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Since its inception, Overwatch has positioned itself as an optimistic, science-fiction-driven world. Although some characters have introduced an element of the fantastical--the addition of the magical Wuxing University being the most notable tonal shift--the team behind the hero shooter has always prioritized scientific explanations for its heroes incredible abilities. Its newest character, however, seems to venture further into fantasy than ever before. https://www.youtube.com/watch?v=gK877kcyMTY Revealed during BlizzCon 2026's opening ceremony , Doctrine is the next support hero coming to Overwatch. Oh and fun fact, he's a vampire--or vampire-inspired, at the very least. With a sceptre that heals and speeds up teammates yet dishes out major damage to enemies, Doctrine is an extremely powerful hero with a high mechanical floor. Interested in putting your skills to the test and giving him a whirl? You're in luck, as Doctrine's limited-time hero trial has officially kicked off and will run until September 14. In addition to his sceptre, Doctrine can also unleash a swarm of bat drones, infuse allies, and \"manipulate life force.\" Blizzard has described the hero as the \"ultimate vampire fantasy.\" Below is a more thorough look at his Hero kit: While Doctrine (real name Tamuka Yeukai) hails from Zimbabwe, he is accompanied by the Escort map Watchpoint: Grimsvotn, which depicts the Icelandic prison he is seen escaping in his debut cinematic. Doctrine joins Overwatch on the side of Talon, his trailer revealing him to be a close friend of Doomfist. This relationship also expresses itself mechanically, as the Overwatch team stated his kit complements Doomfist's extremely well. In other Overwatch news, the team shared that two of its most criticized legacy characters, Sombra and Roadhog, are undergoing major changes .",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/doctrine.png?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.233992+06:00",
+      "last_seen": "2026-09-13T00:57:57.233997+06:00"
+    },
+    "gamespot.com/articles/starcraft-is-officially-back-but-its-taking-a-much-different-form": {
+      "title": "StarCraft Is Officially Back, But It’s Taking A Much Different Form",
+      "url": "https://www.gamespot.com/articles/starcraft-is-officially-back-but-its-taking-a-much-different-form/",
+      "canonical": "gamespot.com/articles/starcraft-is-officially-back-but-its-taking-a-much-different-form",
+      "published_dt": "2026-09-12T23:52:04+06:00",
+      "published_date": "2026-09-12T23:52:04+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Following numerous rumors dating back many months, it's official: StarCraft is returning with a new game, but that game won't be in the traditional real-time-strategy genre the franchise is known for. Instead, the new StarCraft game is described as an open-world shooter. The news was revealed as part of BlizzCon's opening ceremony . However, that's essentially all we know, as the new game-referred to only as StarCraft--won't be released until 2030. As such, there were no further details shared about how it will play or anything else. After Blizzard's Dan Hay said, \"It's about damn time\" that we returned to the interstellar war of StarCraft, we did see a cinematic trailer. Dominion forces are shown being pumped up after being trained as elite warriors. They're then sent onto the battlefield against a massive wave of Zerg forces. https://www.youtube.com/watch?v=TIu2tGCCKQw When it does arrive, this will mark the first original game in the StarCraft franchise since the StarCraft II trilogy wrapped up with Legacy of the Void in 2015. The original game did receive a remaster, StarCraft Remastered, in 2017, but Blizzard's focus has otherwise shifted to its other franchises over the last decade. While a StarCraft shooter had been rumored for some time, the reveal is still sure to come as a contentious piece of news for fans starved for a traditional StarCraft game. (The audible reaction from the crowd when \"open-world shooter\" was said was not necessarily one of elation.) This isn't the first attempt to spin off the series into something else, as StarCraft Ghost was meant to be a stealth-action entry, but it was ultimately canceled prior to release. A recent report indicated that Nexon is seeking the StarCraft license in order to make a new game--possibly StarCraft III--so there may still be some hope for another StarCraft RTS. Teases for a StarCraft revival began earlier this month, after the game's official website started to \"glitch\" and fans discovered hidden text logs",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/starcraft_cf663f.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.234606+06:00",
+      "last_seen": "2026-09-13T00:57:57.234612+06:00"
+    },
+    "gamespot.com/articles/diablo-animated-series-coming-to-netflix-other-blizzard-franchises-teased": {
+      "title": "Diablo Animated Series Coming To Netflix, Other Blizzard Franchises Teased",
+      "url": "https://www.gamespot.com/articles/diablo-animated-series-coming-to-netflix-other-blizzard-franchises-teased/",
+      "canonical": "gamespot.com/articles/diablo-animated-series-coming-to-netflix-other-blizzard-franchises-teased",
+      "published_dt": "2026-09-12T23:51:57+06:00",
+      "published_date": "2026-09-12T23:51:57+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Well, that was unexpected. As part of the BlizzCon 2026 opening ceremony , studio president Johanna Faries announced that Blizzard is partnering with Netflix on an animated Diablo series. The announcement was made as Faries emphasized the studio is called Blizzard Entertainment, meaning it doesn't intend to limit itself to games. Overwatch and Warcraft were also specifically mentioned after the Diablo series' announcement, though Faries did not say if anything is official or concrete at this stage. Blizzard is no stranger to non-interactive adaptations of its games, of course, with the Warcraft movie releasing about a decade ago. That movie didn't exactly light the world on fire, critically or commercially, but an animated series or two may better fit Blizzard's IP. No timeline was given for when we could see the Diablo animated series, but it was just one of several big announcements the company made during its opening ceremony.",
+      "image": "https://www.gamespot.com/wp-content/uploads/original/1647/16470614/4687051-diablo4lordofhatredtwitchdrops.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.234931+06:00",
+      "last_seen": "2026-09-13T00:57:57.234936+06:00"
+    },
+    "gamespot.com/articles/for-the-first-time-in-6-years-blizzard-is-bringing-a-new-character-to-heroes-of-the-storm": {
+      "title": "For The First Time In 6 Years, Blizzard Is Bringing A New Character To Heroes Of The Storm",
+      "url": "https://www.gamespot.com/articles/for-the-first-time-in-6-years-blizzard-is-bringing-a-new-character-to-heroes-of-the-storm/",
+      "canonical": "gamespot.com/articles/for-the-first-time-in-6-years-blizzard-is-bringing-a-new-character-to-heroes-of-the-storm",
+      "published_dt": "2026-09-12T23:42:27+06:00",
+      "published_date": "2026-09-12T23:42:27+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Heroes of the Storm, Blizzard's MOBA mashup of its various franchises, has largely remained unchanged since its developers moved onto other priorities back in 2022. But as WoW's long-running storylines are moving toward a conclusion that involves Xal'atath, that character is set to be added to HotS, and she arrives quite soon. Blizzard revealed the new addition as part of the BlizzCon Opening Ceremony . Xal'atath will join the Public Test Realm beginning this Monday, September 14, with a full release set for September 28. This will mark the first new character since Warcraft's Hogger was added in 2020. https://www.youtube.com/watch?v=wks8GLNUHsk While Xal'atath might turn out to be a one-off addition to the game, it was teased that another character could be added in the future. Given balance updates and a skin have represented the bulk of what's changed since Hogger's launch, it's welcome to see anything of substance arrive for HotS.",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/hots.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.235322+06:00",
+      "last_seen": "2026-09-13T00:57:57.235328+06:00"
+    },
+    "videogameschronicle.com/news/blizzard-announces-diablo-5-for-2029-release": {
+      "title": "Blizzard announces Diablo 5 for 2029 release",
+      "url": "https://www.videogameschronicle.com/news/blizzard-announces-diablo-5-for-2029-release/",
+      "canonical": "videogameschronicle.com/news/blizzard-announces-diablo-5-for-2029-release",
+      "published_dt": "2026-09-13T00:33:14+06:00",
+      "published_date": "2026-09-13T00:33:14+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Diablo 5 has been revealed and takes place in a world without heroes",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.485326+06:00",
+      "last_seen": "2026-09-13T00:57:57.485336+06:00"
+    },
+    "videogameschronicle.com/news/blizzard-reveals-open-world-starcraft-shooter-from-ex-far-cry-boss": {
+      "title": "Blizzard reveals open-world StarCraft shooter from ex-Far Cry boss",
+      "url": "https://www.videogameschronicle.com/news/blizzard-reveals-open-world-starcraft-shooter-from-ex-far-cry-boss/",
+      "canonical": "videogameschronicle.com/news/blizzard-reveals-open-world-starcraft-shooter-from-ex-far-cry-boss",
+      "published_dt": "2026-09-13T00:04:04+06:00",
+      "published_date": "2026-09-13T00:04:04+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "The new StarCraft shooter will release in 2030",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.485541+06:00",
+      "last_seen": "2026-09-13T00:57:57.485546+06:00"
+    },
+    "videogameschronicle.com/news/blizzard-announces-netflix-diablo-series-and-overwatch-could-be-next": {
+      "title": "Blizzard announces Netflix Diablo series, and Overwatch could be next",
+      "url": "https://www.videogameschronicle.com/news/blizzard-announces-netflix-diablo-series-and-overwatch-could-be-next/",
+      "canonical": "videogameschronicle.com/news/blizzard-announces-netflix-diablo-series-and-overwatch-could-be-next",
+      "published_dt": "2026-09-12T23:55:21+06:00",
+      "published_date": "2026-09-12T23:55:21+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Blizzard says it's in discussions around Warcraft and Overwatch",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.485705+06:00",
+      "last_seen": "2026-09-13T00:57:57.485714+06:00"
+    },
+    "gematsu.com/2026/09/diablo-v-announced": {
+      "title": "Diablo V announced",
+      "url": "https://www.gematsu.com/2026/09/diablo-v-announced",
+      "canonical": "gematsu.com/2026/09/diablo-v-announced",
+      "published_dt": "2026-09-13T00:17:40+06:00",
+      "published_date": "2026-09-13T00:17:40+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Blizzard Entertainment has announced Diablo V. It will launch in spring 2029. Platforms were not …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.929999+06:00",
+      "last_seen": "2026-09-13T00:57:57.930006+06:00"
+    },
+    "gematsu.com/2026/09/story-driven-open-world-shooter-starcraft-announced": {
+      "title": "Story-driven open-world shooter STARCRAFT announced",
+      "url": "https://www.gematsu.com/2026/09/story-driven-open-world-shooter-starcraft-announced",
+      "canonical": "gematsu.com/2026/09/story-driven-open-world-shooter-starcraft-announced",
+      "published_dt": "2026-09-12T23:47:23+06:00",
+      "published_date": "2026-09-12T23:47:23+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Blizzard Entertainment has announced STARCRAFT, a story-driven open-world shooter. It will launch in 2030. Platforms …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.930232+06:00",
+      "last_seen": "2026-09-13T00:57:57.930239+06:00"
+    },
+    "gematsu.com/2026/09/diablo-animated-series-in-development-at-netflix": {
+      "title": "Diablo animated series in development at Netflix",
+      "url": "https://www.gematsu.com/2026/09/diablo-animated-series-in-development-at-netflix",
+      "canonical": "gematsu.com/2026/09/diablo-animated-series-in-development-at-netflix",
+      "published_dt": "2026-09-12T23:44:03+06:00",
+      "published_date": "2026-09-12T23:44:03+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "An animated series based on the Diablo video game series is in development at Netflix, …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:57.930424+06:00",
+      "last_seen": "2026-09-13T00:57:57.930430+06:00"
+    },
+    "pcgamer.com/games/fps/overwatchs-newest-hero-is-a-robo-vampire-and-reworks-are-on-the-way-for-roadhog-and-sombra": {
+      "title": "Overwatch's newest hero is a robo-vampire, and reworks are on the way for Roadhog and Sombra",
+      "url": "https://www.pcgamer.com/games/fps/overwatchs-newest-hero-is-a-robo-vampire-and-reworks-are-on-the-way-for-roadhog-and-sombra/",
+      "canonical": "pcgamer.com/games/fps/overwatchs-newest-hero-is-a-robo-vampire-and-reworks-are-on-the-way-for-roadhog-and-sombra",
+      "published_dt": "2026-09-13T00:55:21+06:00",
+      "published_date": "2026-09-13T00:55:21+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Triple threat.",
+      "image": "https://cdn.mos.cms.futurecdn.net/F4KjXnYKQrMwUaNZDRnVpW-1280-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-13T00:57:58.298718+06:00",
+      "last_seen": "2026-09-13T00:57:58.298724+06:00",
+      "posted_at": "2026-09-13T01:06:31.344624+06:00"
+    },
+    "pcgamer.com/games/rts/blizzard-just-dropped-a-new-warcraft-3-campaign-the-first-in-23-years": {
+      "title": "Blizzard just dropped a new Warcraft 3 campaign, the first in 23 years",
+      "url": "https://www.pcgamer.com/games/rts/blizzard-just-dropped-a-new-warcraft-3-campaign-the-first-in-23-years/",
+      "canonical": "pcgamer.com/games/rts/blizzard-just-dropped-a-new-warcraft-3-campaign-the-first-in-23-years",
+      "published_dt": "2026-09-13T00:51:39+06:00",
+      "published_date": "2026-09-13T00:51:39+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "The year of the surprise old game expansion.",
+      "image": "https://cdn.mos.cms.futurecdn.net/LxAwM7hR7oVupVPMBDBXsk-1280-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.298864+06:00",
+      "last_seen": "2026-09-13T00:57:58.298868+06:00"
+    },
+    "pcgamer.com/games/card-games/hearthstone-just-got-its-first-new-class-in-four-years-warcrafts-fire-breathing-panda-monk": {
+      "title": "Hearthstone just got its first new class in four years: Warcraft's fire-breathing panda Monk",
+      "url": "https://www.pcgamer.com/games/card-games/hearthstone-just-got-its-first-new-class-in-four-years-warcrafts-fire-breathing-panda-monk/",
+      "canonical": "pcgamer.com/games/card-games/hearthstone-just-got-its-first-new-class-in-four-years-warcrafts-fire-breathing-panda-monk",
+      "published_dt": "2026-09-13T00:40:05+06:00",
+      "published_date": "2026-09-13T00:40:05+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Have keg, will shuffle.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ibHHVfrYdc5RVgF5zN3MFU-1280-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.298998+06:00",
+      "last_seen": "2026-09-13T00:57:58.299002+06:00"
+    },
+    "pcgamer.com/games/rpg/diablo-5-is-coming-in-2029": {
+      "title": "Diablo 5 is coming in 2029",
+      "url": "https://www.pcgamer.com/games/rpg/diablo-5-is-coming-in-2029/",
+      "canonical": "pcgamer.com/games/rpg/diablo-5-is-coming-in-2029",
+      "published_dt": "2026-09-13T00:25:56+06:00",
+      "published_date": "2026-09-13T00:25:56+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "That dastardly devil is at it again.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ESuiNqxM5SpvSnX4WwGNUJ-1280-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.299165+06:00",
+      "last_seen": "2026-09-13T00:57:58.299171+06:00"
+    },
+    "pcgamer.com/games/rpg/blizzard-announces-animated-diablo-show-coming-to-netflix": {
+      "title": "Blizzard announces animated Diablo show coming to Netflix",
+      "url": "https://www.pcgamer.com/games/rpg/blizzard-announces-animated-diablo-show-coming-to-netflix/",
+      "canonical": "pcgamer.com/games/rpg/blizzard-announces-animated-diablo-show-coming-to-netflix",
+      "published_dt": "2026-09-13T00:18:01+06:00",
+      "published_date": "2026-09-13T00:18:01+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "It just makes sense.",
+      "image": "https://cdn.mos.cms.futurecdn.net/3Vh5Sy25fhumN5CjnNyZwb-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.299304+06:00",
+      "last_seen": "2026-09-13T00:57:58.299308+06:00"
+    },
+    "pcgamer.com/games/fps/new-starcraft-game-is-an-open-world-shooter-coming-in-2030": {
+      "title": "New StarCraft game is an open world shooter coming in 2030",
+      "url": "https://www.pcgamer.com/games/fps/new-starcraft-game-is-an-open-world-shooter-coming-in-2030/",
+      "canonical": "pcgamer.com/games/fps/new-starcraft-game-is-an-open-world-shooter-coming-in-2030",
+      "published_dt": "2026-09-12T23:58:10+06:00",
+      "published_date": "2026-09-12T23:58:10+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "StarCraft Ghost I will never forget you.",
+      "image": "https://cdn.mos.cms.futurecdn.net/DkxbyRG2ehqpGLMZ2EVvGA-1280-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.299438+06:00",
+      "last_seen": "2026-09-13T00:57:58.299442+06:00"
+    },
+    "pcgamer.com/games/moba/heroes-of-the-storm-gets-first-new-hero-after-supposed-death-and-6-year-wait": {
+      "title": "Heroes of the Storm gets first new hero after supposed death and 6 year wait",
+      "url": "https://www.pcgamer.com/games/moba/heroes-of-the-storm-gets-first-new-hero-after-supposed-death-and-6-year-wait/",
+      "canonical": "pcgamer.com/games/moba/heroes-of-the-storm-gets-first-new-hero-after-supposed-death-and-6-year-wait",
+      "published_dt": "2026-09-12T23:44:26+06:00",
+      "published_date": "2026-09-12T23:44:26+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Filling the void.",
+      "image": "https://cdn.mos.cms.futurecdn.net/nmSk3txgtr6DSCAetAY2oH-1280-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.299562+06:00",
+      "last_seen": "2026-09-13T00:57:58.299566+06:00"
+    },
+    "polygon.com/hearthstone-update-monk-class-blizzcon-2026": {
+      "title": "Hearthstone's Next Expansion and New Class Officially Revealed at BlizzCon",
+      "url": "https://www.polygon.com/hearthstone-update-monk-class-blizzcon-2026/",
+      "canonical": "polygon.com/hearthstone-update-monk-class-blizzcon-2026",
+      "published_dt": "2026-09-13T00:37:32+06:00",
+      "published_date": "2026-09-13T00:37:32+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Hearthstone players can look forward to the Reign of the Black Empire expansion and a new Monk class soon, according to BlizzCon 2026.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/37_blackempire_keyart_16x9_final.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.543989+06:00",
+      "last_seen": "2026-09-13T00:57:58.543995+06:00"
+    },
+    "polygon.com/diablo-4-amazon-class-season-hell-legacy-blizzcon-2026": {
+      "title": "Diablo 4 Is Officially Bringing Back a Fan-Favorite Class, Blizzard Confirms",
+      "url": "https://www.polygon.com/diablo-4-amazon-class-season-hell-legacy-blizzcon-2026/",
+      "canonical": "polygon.com/diablo-4-amazon-class-season-hell-legacy-blizzcon-2026",
+      "published_dt": "2026-09-13T00:27:05+06:00",
+      "published_date": "2026-09-13T00:27:05+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Diablo 4 is celebrating its legacy with a new season, the return of the Amazon character class, and Nintendo Switch 2 port, Blizzard announced.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/dia_div_amazon_key_art.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.544168+06:00",
+      "last_seen": "2026-09-13T00:57:58.544173+06:00"
+    },
+    "polygon.com/diablo-5-announced-release-date-blizzcon-2026": {
+      "title": "Blizzard Officially Announces Diablo 5 at BlizzCon 2026",
+      "url": "https://www.polygon.com/diablo-5-announced-release-date-blizzcon-2026/",
+      "canonical": "polygon.com/diablo-5-announced-release-date-blizzcon-2026",
+      "published_dt": "2026-09-13T00:22:13+06:00",
+      "published_date": "2026-09-13T00:22:13+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Diablo 5 is in development and will be released in spring 2029, Blizzard Entertainment announced at BlizzCon 2026's opening ceremony.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/diablo-v-teaser-_-the-return-0-33-screenshot-1.jpeg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.544315+06:00",
+      "last_seen": "2026-09-13T00:57:58.544319+06:00"
+    },
+    "polygon.com/overwatch-new-hero-54-doctrine-blizzcon-2026": {
+      "title": "Overwatch's Next Hero, Doctrine, Officially Revealed at BlizzCon 2026",
+      "url": "https://www.polygon.com/overwatch-new-hero-54-doctrine-blizzcon-2026/",
+      "canonical": "polygon.com/overwatch-new-hero-54-doctrine-blizzcon-2026",
+      "published_dt": "2026-09-13T00:13:42+06:00",
+      "published_date": "2026-09-13T00:13:42+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Blizzard confirms hero 54 for Overwatch, the vampiric support hero Doctrine, alongside a new map, the return of Dokiwatch, and more.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/_ow_s05_key-art_final.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.544453+06:00",
+      "last_seen": "2026-09-13T00:57:58.544458+06:00"
+    },
+    "polygon.com/overwatch-hero-reworks-roadhog-sombra-blizzcon-2026": {
+      "title": "Overwatch's Most Divisive Heroes Are Getting Game-Changing Reworks",
+      "url": "https://www.polygon.com/overwatch-hero-reworks-roadhog-sombra-blizzcon-2026/",
+      "canonical": "polygon.com/overwatch-hero-reworks-roadhog-sombra-blizzcon-2026",
+      "published_dt": "2026-09-13T00:08:05+06:00",
+      "published_date": "2026-09-13T00:08:05+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Blizzard reveals big changes are coming to Overwatch's Roadhog and Sombra at BlizzCon 2026.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24974859/sombra_overwatch_2.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.544585+06:00",
+      "last_seen": "2026-09-13T00:57:58.544589+06:00"
+    },
+    "polygon.com/never-after-dark-the-years-best-haunted-house-movie": {
+      "title": "New Horror Movie Never After Dark Does What The Conjuring Never Could",
+      "url": "https://www.polygon.com/never-after-dark-the-years-best-haunted-house-movie/",
+      "canonical": "polygon.com/never-after-dark-the-years-best-haunted-house-movie",
+      "published_dt": "2026-09-13T00:00:14+06:00",
+      "published_date": "2026-09-13T00:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Dave Boyle lives his dream with Never After Dark, crafting a delicate and surprising nightmare",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/never-after-dark_still1_copyright-signal181.jpeg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.544721+06:00",
+      "last_seen": "2026-09-13T00:57:58.544725+06:00"
+    },
+    "polygon.com/starcraft-new-shooter-announcement-blizzard-blizzcon-2026": {
+      "title": "StarCraft Officially Returns In 2030, Blizzard Confirms at BlizzCon",
+      "url": "https://www.polygon.com/starcraft-new-shooter-announcement-blizzard-blizzcon-2026/",
+      "canonical": "polygon.com/starcraft-new-shooter-announcement-blizzard-blizzcon-2026",
+      "published_dt": "2026-09-12T23:55:38+06:00",
+      "published_date": "2026-09-12T23:55:38+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "A new StarCraft game, simply titled StarCraft, is an open-world shooter launching in 2030",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/starcraft_still_3.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.544852+06:00",
+      "last_seen": "2026-09-13T00:57:58.544856+06:00"
+    },
+    "polygon.com/blizzard-netflix-diablo-animated-series-blizzcon-2026": {
+      "title": "Blizzard and Netflix Officially Reveal Diablo Animated Series in the Works",
+      "url": "https://www.polygon.com/blizzard-netflix-diablo-animated-series-blizzcon-2026/",
+      "canonical": "polygon.com/blizzard-netflix-diablo-animated-series-blizzcon-2026",
+      "published_dt": "2026-09-12T23:50:47+06:00",
+      "published_date": "2026-09-12T23:50:47+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "A Diablo animated series is coming to Netflix, Blizzard president Johanna Faries announced at BlizzCon 2026",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/11/diablo-4-lilith-silhouette.jpeg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.544984+06:00",
+      "last_seen": "2026-09-13T00:57:58.544988+06:00"
+    },
+    "polygon.com/heroes-of-the-storm-update-blizzcon-2026": {
+      "title": "Blizzard's MOBA Is Making An Unexpected Comeback",
+      "url": "https://www.polygon.com/heroes-of-the-storm-update-blizzcon-2026/",
+      "canonical": "polygon.com/heroes-of-the-storm-update-blizzcon-2026",
+      "published_dt": "2026-09-12T23:47:57+06:00",
+      "published_date": "2026-09-12T23:47:57+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Xal’atath from World of Warcraft: Midnight is making his way to Blizzard MOBA Heroes of the Storm later this month.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/xal-key-art.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.545134+06:00",
+      "last_seen": "2026-09-13T00:57:58.545139+06:00"
+    },
+    "polygon.com/blizzcon-2026-news-reveals-trailers-diablo-warcraft-starcraft": {
+      "title": "BlizzCon 2026: All the Big News, Reveals, and Announcements",
+      "url": "https://www.polygon.com/blizzcon-2026-news-reveals-trailers-diablo-warcraft-starcraft/",
+      "canonical": "polygon.com/blizzcon-2026-news-reveals-trailers-diablo-warcraft-starcraft",
+      "published_dt": "2026-09-12T23:19:40+06:00",
+      "published_date": "2026-09-12T23:19:40+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Blizzard Entertainment's annual convention BlizzCon returns in 2026 with big news from Diablo, World of Warcraft, Overwatch, StarCraft and Warcraft 3.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/blizzcon-2026.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.545279+06:00",
+      "last_seen": "2026-09-13T00:57:58.545283+06:00"
+    },
+    "kotaku.com/warcraft-3-reforged-new-campaign-paid-dlc-free-overhaul-2000733793": {
+      "title": "Warcraft 3: Reforged To Get A New Campaign Starring Arthas And Sylvanas, Out Today",
+      "url": "https://kotaku.com/warcraft-3-reforged-new-campaign-paid-dlc-free-overhaul-2000733793",
+      "canonical": "kotaku.com/warcraft-3-reforged-new-campaign-paid-dlc-free-overhaul-2000733793",
+      "published_dt": "2026-09-13T00:51:10+06:00",
+      "published_date": "2026-09-13T00:51:10+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Reforged reforged",
+      "image": "https://kotaku.com/app/uploads/2026/09/BlizzCon-2026-_-Day-1-Main-Stage-2-16-17-screenshot-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.762299+06:00",
+      "last_seen": "2026-09-13T00:57:58.762306+06:00"
+    },
+    "kotaku.com/world-of-warcrafts-next-expansion-the-last-titan-is-out-next-year-2000733784": {
+      "title": "World Of Warcraft’s Next Expansion, The Last Titan, Is Out Next Year",
+      "url": "https://kotaku.com/world-of-warcrafts-next-expansion-the-last-titan-is-out-next-year-2000733784",
+      "canonical": "kotaku.com/world-of-warcrafts-next-expansion-the-last-titan-is-out-next-year-2000733784",
+      "published_dt": "2026-09-13T00:45:27+06:00",
+      "published_date": "2026-09-13T00:45:27+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "RIP to Wyrmrest Temple I guess",
+      "image": "https://kotaku.com/app/uploads/2026/09/BlizzCon-2026-_-Day-1-Main-Stage-2-9-46-screenshot-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.762461+06:00",
+      "last_seen": "2026-09-13T00:57:58.762465+06:00"
+    },
+    "kotaku.com/hearthstone-first-new-class-four-years-next-spring-2000733782": {
+      "title": "Hearthstone To Get Its First New Class In Four Years Next Spring",
+      "url": "https://kotaku.com/hearthstone-first-new-class-four-years-next-spring-2000733782",
+      "canonical": "kotaku.com/hearthstone-first-new-class-four-years-next-spring-2000733782",
+      "published_dt": "2026-09-13T00:33:23+06:00",
+      "published_date": "2026-09-13T00:33:23+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "And even sooner, we'll see the next expansion: Reign of the Black Empire",
+      "image": "https://kotaku.com/app/uploads/2026/09/BlizzCon-2026-_-Day-1-Main-Stage-2-1-1-screenshot-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.762603+06:00",
+      "last_seen": "2026-09-13T00:57:58.762608+06:00"
+    },
+    "kotaku.com/diablo-5-teased-at-blizzcon-but-its-several-years-away-2000733775": {
+      "title": "Diablo 5 Teased At Blizzcon, But It’s Several Years Away",
+      "url": "https://kotaku.com/diablo-5-teased-at-blizzcon-but-its-several-years-away-2000733775",
+      "canonical": "kotaku.com/diablo-5-teased-at-blizzcon-but-its-several-years-away-2000733775",
+      "published_dt": "2026-09-13T00:22:28+06:00",
+      "published_date": "2026-09-13T00:22:28+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "The man himself is back in town",
+      "image": "https://kotaku.com/app/uploads/2026/09/BlizzCon-2026-_-Day-1-Main-Stage-1-49-36-screenshot-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.762741+06:00",
+      "last_seen": "2026-09-13T00:57:58.762746+06:00"
+    },
+    "kotaku.com/overwatchs-next-hero-basically-a-vampire-2000733777": {
+      "title": "Overwatch’s Next Hero Is Basically A Vampire",
+      "url": "https://kotaku.com/overwatchs-next-hero-basically-a-vampire-2000733777",
+      "canonical": "kotaku.com/overwatchs-next-hero-basically-a-vampire-2000733777",
+      "published_dt": "2026-09-13T00:07:29+06:00",
+      "published_date": "2026-09-13T00:07:29+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Lethal doctrine",
+      "image": "https://kotaku.com/app/uploads/2026/09/BlizzCon-2026-_-Day-1-Main-Stage-1-27-33-screenshot-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.762877+06:00",
+      "last_seen": "2026-09-13T00:57:58.762881+06:00"
+    },
+    "kotaku.com/an-animated-diablo-show-is-coming-to-netflix-2000733823": {
+      "title": "An Animated Diablo Show Is Coming To Netflix",
+      "url": "https://kotaku.com/an-animated-diablo-show-is-coming-to-netflix-2000733823",
+      "canonical": "kotaku.com/an-animated-diablo-show-is-coming-to-netflix-2000733823",
+      "published_dt": "2026-09-12T23:53:11+06:00",
+      "published_date": "2026-09-12T23:53:11+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Blizzard Entertainment Johanna Faries revealed at BlizzCon 2026 that an animated Diablo is currently in development",
+      "image": "https://kotaku.com/app/uploads/2026/09/Netflix-Diablo-image-from-BlizzCon-2026-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.763081+06:00",
+      "last_seen": "2026-09-13T00:57:58.763086+06:00"
+    },
+    "kotaku.com/blizzards-starcraft-shooter-real-wait-years-2000733776": {
+      "title": "Blizzard’s Open-World StarCraft Shooter Gets Gruesome Reveal, But You’ll Have To Wait A Long Time For It",
+      "url": "https://kotaku.com/blizzards-starcraft-shooter-real-wait-years-2000733776",
+      "canonical": "kotaku.com/blizzards-starcraft-shooter-real-wait-years-2000733776",
+      "published_dt": "2026-09-12T23:52:20+06:00",
+      "published_date": "2026-09-12T23:52:20+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Ad astra",
+      "image": "https://kotaku.com/app/uploads/2026/09/BlizzCon-2026-_-Day-1-Main-Stage-1-20-20-screenshot-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.763249+06:00",
+      "last_seen": "2026-09-13T00:57:58.763253+06:00"
+    },
+    "kotaku.com/heroes-of-the-storm-new-hero-xalatath-2000733787": {
+      "title": "Heroes Of The Storm Is Getting A Surprise New Hero Later This Month",
+      "url": "https://kotaku.com/heroes-of-the-storm-new-hero-xalatath-2000733787",
+      "canonical": "kotaku.com/heroes-of-the-storm-new-hero-xalatath-2000733787",
+      "published_dt": "2026-09-12T23:45:03+06:00",
+      "published_date": "2026-09-12T23:45:03+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "From the void to the storm",
+      "image": "https://kotaku.com/app/uploads/2026/09/BlizzCon-2026-_-Day-1-Main-Stage-1-9-31-screenshot-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.763382+06:00",
+      "last_seen": "2026-09-13T00:57:58.763386+06:00"
+    },
+    "kotaku.com/a-remaster-of-a-visual-novel-for-the-psp-has-the-most-ridiculous-recommended-pc-specs-2000733814": {
+      "title": "A Remake Of A Visual Novel For The PSP Has The Most Ridiculous Recommended PC Specs",
+      "url": "https://kotaku.com/a-remaster-of-a-visual-novel-for-the-psp-has-the-most-ridiculous-recommended-pc-specs-2000733814",
+      "canonical": "kotaku.com/a-remaster-of-a-visual-novel-for-the-psp-has-the-most-ridiculous-recommended-pc-specs-2000733814",
+      "published_dt": "2026-09-12T23:19:01+06:00",
+      "published_date": "2026-09-12T23:19:01+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "What in the world is going on with Danganronpa 2×2 on Steam?",
+      "image": "https://kotaku.com/app/uploads/2026/09/danganrompa.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:58.763562+06:00",
+      "last_seen": "2026-09-13T00:57:58.763566+06:00"
+    },
+    "gamesradar.com/games/diablo/diablo-5-is-coming-in-2029-and-diablo-has-won": {
+      "title": "Diablo 5 is coming in 2029, and \"Diablo has won\"",
+      "url": "https://www.gamesradar.com/games/diablo/diablo-5-is-coming-in-2029-and-diablo-has-won/",
+      "canonical": "gamesradar.com/games/diablo/diablo-5-is-coming-in-2029-and-diablo-has-won",
+      "published_dt": "2026-09-13T00:30:19+06:00",
+      "published_date": "2026-09-13T00:30:19+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"There are no towns or safe places to protect you\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/BLxtAb7aCyby9oU6Brruse-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:59.125532+06:00",
+      "last_seen": "2026-09-13T00:57:59.125540+06:00"
+    },
+    "gamesradar.com/games/fps/overwatch-season-5-turns-sombra-into-a-support-hero-reworks-roadhog-to-be-less-annoying-and-adds-cool-vampire-doctrine-to-the-roster": {
+      "title": "Overwatch Season 5 turns Sombra into a support hero, reworks Roadhog to be less annoying, and adds \"cool\" vampire Doctrine to the roster",
+      "url": "https://www.gamesradar.com/games/fps/overwatch-season-5-turns-sombra-into-a-support-hero-reworks-roadhog-to-be-less-annoying-and-adds-cool-vampire-doctrine-to-the-roster/",
+      "canonical": "gamesradar.com/games/fps/overwatch-season-5-turns-sombra-into-a-support-hero-reworks-roadhog-to-be-less-annoying-and-adds-cool-vampire-doctrine-to-the-roster",
+      "published_dt": "2026-09-13T00:21:29+06:00",
+      "published_date": "2026-09-13T00:21:29+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "He's not a regular vampire, he's a cool vampire",
+      "image": "https://cdn.mos.cms.futurecdn.net/nGBLTLZDQNaszzR7Mjd83R-1280-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:59.125684+06:00",
+      "last_seen": "2026-09-13T00:57:59.125689+06:00"
+    },
+    "gamesradar.com/games/fps/starcraft-returns-in-2030-with-an-open-world-shooter-the-legendary-blizzard-series-first-new-game-in-almost-a-decade": {
+      "title": "StarCraft returns in 2030 with an open-world shooter, the legendary Blizzard series' first new game in almost a decade",
+      "url": "https://www.gamesradar.com/games/fps/starcraft-returns-in-2030-with-an-open-world-shooter-the-legendary-blizzard-series-first-new-game-in-almost-a-decade/",
+      "canonical": "gamesradar.com/games/fps/starcraft-returns-in-2030-with-an-open-world-shooter-the-legendary-blizzard-series-first-new-game-in-almost-a-decade",
+      "published_dt": "2026-09-13T00:02:59+06:00",
+      "published_date": "2026-09-13T00:02:59+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"It's about damn time!\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/3YWfuhqbzdkKC9cu23sfSa-1280-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:59.125824+06:00",
+      "last_seen": "2026-09-13T00:57:59.125829+06:00"
+    },
+    "gamesradar.com/games/diablo/diablo-is-getting-an-animated-netflix-series-as-blizzard-teases-overwatch-and-warcraft-adaptations": {
+      "title": "Diablo is getting an animated Netflix series as Blizzard teases Overwatch and Warcraft adaptations",
+      "url": "https://www.gamesradar.com/games/diablo/diablo-is-getting-an-animated-netflix-series-as-blizzard-teases-overwatch-and-warcraft-adaptations/",
+      "canonical": "gamesradar.com/games/diablo/diablo-is-getting-an-animated-netflix-series-as-blizzard-teases-overwatch-and-warcraft-adaptations",
+      "published_dt": "2026-09-12T23:52:56+06:00",
+      "published_date": "2026-09-12T23:52:56+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "It is Blizzard Entertainment, after all",
+      "image": "https://cdn.mos.cms.futurecdn.net/Cb9E2Z3LJRokr4DYUEuhCK-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:57:59.125963+06:00",
+      "last_seen": "2026-09-13T00:57:59.125967+06:00"
+    },
+    "insider-gaming.com/diablo-5-coming-in-spring-2029": {
+      "title": "Diablo 5 Coming In Spring 2029",
+      "url": "https://insider-gaming.com/diablo-5-coming-in-spring-2029/",
+      "canonical": "insider-gaming.com/diablo-5-coming-in-spring-2029",
+      "published_dt": "2026-09-13T00:27:37+06:00",
+      "published_date": "2026-09-13T00:27:37+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "The next chapter in the Diablo story has been revealed. At BlizzCon 2026, it was announced that Diablo 5 would arrive in spring 2029. Blizzard also shared some plot details. The post Diablo 5 Coming In Spring 2029 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:58:00.143552+06:00",
+      "last_seen": "2026-09-13T00:58:00.143558+06:00"
+    },
+    "insider-gaming.com/long-rumored-starcraft-shooter-revealed-at-blizzcon-2026": {
+      "title": "Long-Rumored StarCraft Shooter Revealed at BlizzCon 2026",
+      "url": "https://insider-gaming.com/long-rumored-starcraft-shooter-revealed-at-blizzcon-2026/",
+      "canonical": "insider-gaming.com/long-rumored-starcraft-shooter-revealed-at-blizzcon-2026",
+      "published_dt": "2026-09-13T00:04:17+06:00",
+      "published_date": "2026-09-13T00:04:17+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "StarCraft is officially returning. Dan Hay announced it at BlizzCon 2026. The post Long-Rumored StarCraft Shooter Revealed at BlizzCon 2026 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:58:00.143831+06:00",
+      "last_seen": "2026-09-13T00:58:00.143836+06:00"
+    },
+    "nintendolife.com/news/2026/09/diablo-5-is-coming-in-spring-2029-heres-the-first-teaser-trailer": {
+      "title": "Diablo 5 Is Coming In Spring 2029, Here's The First Teaser Trailer",
+      "url": "https://www.nintendolife.com/news/2026/09/diablo-5-is-coming-in-spring-2029-heres-the-first-teaser-trailer",
+      "canonical": "nintendolife.com/news/2026/09/diablo-5-is-coming-in-spring-2029-heres-the-first-teaser-trailer",
+      "published_dt": "2026-09-13T00:25:00+06:00",
+      "published_date": "2026-09-13T00:25:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "\"Sanctuary falls\". B reaking: At BlizzCon 2026 this week, Blizzard has announced Diablo V will be coming in Spring 2029 . Platforms and a specific release date have not been revealed at this stage. \"Prepare for the next era. Diablo V has been announced. Visit Diablo5.Blizzard.com to sign up for future updates.\" Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/bbe2a5c8fdf88/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:58:00.551585+06:00",
+      "last_seen": "2026-09-13T00:58:00.551593+06:00"
+    },
+    "nintendolife.com/news/2026/09/its-official-diablo-4-age-of-hatred-collection-brings-hell-to-switch-2-next-week": {
+      "title": "It's Official, Diablo 4: Age Of Hatred Collection Brings Hell To Switch 2 Next Week",
+      "url": "https://www.nintendolife.com/news/2026/09/its-official-diablo-4-age-of-hatred-collection-brings-hell-to-switch-2-next-week",
+      "canonical": "nintendolife.com/news/2026/09/its-official-diablo-4-age-of-hatred-collection-brings-hell-to-switch-2-next-week",
+      "published_dt": "2026-09-13T00:15:00+06:00",
+      "published_date": "2026-09-13T00:15:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "And it's already been spotted in-stores. After ongoing rumours and even some ratings, Blizzard has finally lifted the lid on Diablo 4 for Switch 2 at BlizzCon 2026 this weekend. Lilith and her army of demons will be unleashed on 15th September 2026 for $69.99 . This version on Switch 2, titled Age of Hatred Collection , includes the expansion content Vessel of Hatred and Lord of Hatred . Copies of the game are already appearing in-store in North America, and it's a code-in-box release. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/aad6d4df7d085/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:58:00.552186+06:00",
+      "last_seen": "2026-09-13T00:58:00.552192+06:00"
+    },
+    "nintendolife.com/news/2026/09/diablo-is-getting-an-animated-netflix-series": {
+      "title": "Diablo Is Getting An Animated Netflix Series",
+      "url": "https://www.nintendolife.com/news/2026/09/diablo-is-getting-an-animated-netflix-series",
+      "canonical": "nintendolife.com/news/2026/09/diablo-is-getting-an-animated-netflix-series",
+      "published_dt": "2026-09-12T23:45:00+06:00",
+      "published_date": "2026-09-12T23:45:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Now in development. Breaking: At BlizzCon 2026, Blizzard has announced its Diablo series is getting an animated Netflix series. Blizzard: \"We are thrilled to share that we are in development on a new animated series for Diablo with Netflix.\" Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/6501aba6688b9/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-13T00:58:00.552585+06:00",
+      "last_seen": "2026-09-13T00:58:00.552590+06:00"
     }
   },
   "events": {
@@ -16194,6 +17139,83 @@
           "headline": "Polyarc Shuts Down After 12 Years of PSVR Success",
           "claims": [
             "studio shuts down after 12 years"
+          ]
+        }
+      ]
+    },
+    "evt_c09f7c47558325": {
+      "event_id": "evt_c09f7c47558325",
+      "event_key": "overwatch blizzcon 2026 changes",
+      "event_subject": "Overwatch",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "overwatch blizzcon 2026 changes",
+        "subject": "Overwatch",
+        "event_type": "announcement",
+        "action": "rework characters and add new hero",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Overwatch 2",
+        "franchise": "Overwatch",
+        "institution": "Blizzard Entertainment",
+        "target": "Roadhog,Sombra,Doctrine",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "character updates"
+      },
+      "sources": [
+        "PC Gamer",
+        "GamesRadar+",
+        "GameSpot",
+        "Polygon",
+        "Kotaku",
+        "IGN"
+      ],
+      "event_sources": [
+        "PC Gamer",
+        "GamesRadar+",
+        "GameSpot",
+        "Polygon",
+        "Kotaku",
+        "IGN"
+      ],
+      "claims": [
+        "Overwatch will receive major hero reworks and a new vampire‑inspired support hero",
+        "Overwatch will receive major hero reworks and a new vampire‑inspired support hero",
+        "Overwatch will receive major hero reworks and a new vampire‑inspired support hero",
+        "Doctrine, a vampire‑inspired support hero, announced for Overwatch",
+        "Doctrine, a vampire‑inspired support hero, announced for Overwatch",
+        "Overwatch will receive major hero reworks and a new vampire‑inspired support hero",
+        "Doctrine, a vampire‑inspired support hero, announced for Overwatch",
+        "Overwatch will receive major hero reworks and a new vampire‑inspired support hero"
+      ],
+      "importance_score": 67,
+      "coverage_score": 17,
+      "originality_score": 11,
+      "significance_score": 20,
+      "freshness_score": 10,
+      "source_trust_score": 9,
+      "headline": "Overwatch Unveils Vampire Hero Doctrine and Announces Reworks for Sombra and Roadhog",
+      "summary": "Blizzard revealed new hero Doctrine, a cyber‑vampire, and promised role‑changing updates for Sombra and less‑annoying gameplay for Roadhog at BlizzCon.",
+      "published_at": "2026-09-13T00:55:21+06:00",
+      "selected_at": "2026-09-12T19:06:31.344660+00:00",
+      "status": "published",
+      "message_id": 250,
+      "published_versions": [
+        {
+          "published_at": "2026-09-12T19:06:31.344660+00:00",
+          "headline": "Overwatch Unveils Vampire Hero Doctrine and Announces Reworks for Sombra and Roadhog",
+          "claims": [
+            "Overwatch will receive major hero reworks and a new vampire‑inspired support hero",
+            "Overwatch will receive major hero reworks and a new vampire‑inspired support hero",
+            "Overwatch will receive major hero reworks and a new vampire‑inspired support hero",
+            "Doctrine, a vampire‑inspired support hero, announced for Overwatch",
+            "Doctrine, a vampire‑inspired support hero, announced for Overwatch",
+            "Overwatch will receive major hero reworks and a new vampire‑inspired support hero",
+            "Doctrine, a vampire‑inspired support hero, announced for Overwatch",
+            "Overwatch will receive major hero reworks and a new vampire‑inspired support hero"
           ]
         }
       ]
@@ -40083,6 +41105,983 @@
         "total": 31
       },
       "last_seen": "2026-09-12T22:50:15.973821+06:00"
+    },
+    "evt_a16e56e814a73f": {
+      "event_id": "evt_a16e56e814a73f",
+      "event_key": "diablo5 blizzcon 2026 announcement",
+      "event_subject": "Diablo V",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "diablo5 blizzcon 2026 announcement",
+        "subject": "Diablo V",
+        "event_type": "announcement",
+        "action": "announce next installment",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Diablo V",
+        "franchise": "Diablo",
+        "institution": "Blizzard Entertainment",
+        "target": "Diablo V",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "new game"
+      },
+      "modality": "unknown",
+      "topic": "new game",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "VGC",
+        "GamesRadar+",
+        "Insider Gaming",
+        "Polygon",
+        "PC Gamer",
+        "Nintendo Life",
+        "GameSpot",
+        "Kotaku",
+        "IGN",
+        "Gematsu"
+      ],
+      "source_count": 10,
+      "independent_source_count": 10,
+      "claims": [
+        "Diablo V will launch in spring 2029",
+        "Diablo V will launch in spring 2029",
+        "Diablo V will launch in spring 2029",
+        "Amazon class returning as a DLC pack in 2027",
+        "Diablo V will launch in spring 2029",
+        "Diablo V will launch in spring 2029",
+        "Diablo V will launch in spring 2029",
+        "Diablo V will launch in spring 2029",
+        "Diablo V will launch in spring 2029",
+        "Diablo V will launch in spring 2029"
+      ],
+      "importance_score": 77,
+      "score_breakdown": {
+        "significance": 28,
+        "coverage": 17,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 77
+      },
+      "last_seen": "2026-09-13T01:00:02.829340+06:00"
+    },
+    "evt_7cecdfb7a15e2a": {
+      "event_id": "evt_7cecdfb7a15e2a",
+      "event_key": "starcraft shooter blizzcon 2026 announcement",
+      "event_subject": "StarCraft",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "starcraft shooter blizzcon 2026 announcement",
+        "subject": "StarCraft",
+        "event_type": "announcement",
+        "action": "reveal open‑world shooter",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "StarCraft (new title)",
+        "franchise": "StarCraft",
+        "institution": "Blizzard Entertainment",
+        "target": "new shooter",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "new game"
+      },
+      "modality": "unknown",
+      "topic": "new game",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "Insider Gaming",
+        "VGC",
+        "GamesRadar+",
+        "PC Gamer"
+      ],
+      "source_count": 4,
+      "independent_source_count": 4,
+      "claims": [
+        "StarCraft open‑world shooter announced for 2030",
+        "StarCraft open‑world shooter announced for 2030",
+        "StarCraft open‑world shooter announced for 2030",
+        "StarCraft open‑world shooter announced for 2030"
+      ],
+      "importance_score": 71,
+      "score_breakdown": {
+        "significance": 27,
+        "coverage": 14,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 71
+      },
+      "last_seen": "2026-09-13T01:00:02.829357+06:00"
+    },
+    "evt_fed9d2e8750ec2": {
+      "event_id": "evt_fed9d2e8750ec2",
+      "event_key": "wow last titan blizzcon 2026 cinematic",
+      "event_subject": "World of Warcraft",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "wow last titan blizzcon 2026 cinematic",
+        "subject": "World of Warcraft",
+        "event_type": "announcement",
+        "action": "reveal expansion cinematic",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "World of Warcraft",
+        "franchise": "Warcraft",
+        "institution": "Blizzard Entertainment",
+        "target": "The Last Titan",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "expansion preview"
+      },
+      "modality": "unknown",
+      "topic": "expansion preview",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "Kotaku",
+        "GameSpot"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Cinematic teaser for the upcoming expansion The Last Titan",
+        "Cinematic teaser for the upcoming expansion The Last Titan"
+      ],
+      "importance_score": 60,
+      "score_breakdown": {
+        "significance": 25,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 60
+      },
+      "last_seen": "2026-09-13T01:00:02.829362+06:00"
+    },
+    "evt_ae68393a88d1da": {
+      "event_id": "evt_ae68393a88d1da",
+      "event_key": "hearthstone blizzcon 2026 monk class",
+      "event_subject": "Hearthstone",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "hearthstone blizzcon 2026 monk class",
+        "subject": "Hearthstone",
+        "event_type": "announcement",
+        "action": "introduce new class and expansion",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Hearthstone",
+        "franchise": "Hearthstone",
+        "institution": "Blizzard Entertainment",
+        "target": "Monk class,Reign of the Black Empire",
+        "platforms": [
+          "PC",
+          "Mobile"
+        ],
+        "topic": "new content"
+      },
+      "modality": "unknown",
+      "topic": "new content",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "PC Gamer",
+        "Polygon",
+        "Kotaku",
+        "GameSpot"
+      ],
+      "source_count": 4,
+      "independent_source_count": 4,
+      "claims": [
+        "First new class in four years – the Monk – and the Reign of the Black Empire expansion",
+        "First new class in four years – the Monk – and the Reign of the Black Empire expansion",
+        "First new class in four years – the Monk – and the Reign of the Black Empire expansion",
+        "First new class in four years – the Monk – and the Reign of the Black Empire expansion"
+      ],
+      "importance_score": 65,
+      "score_breakdown": {
+        "significance": 22,
+        "coverage": 14,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 65
+      },
+      "last_seen": "2026-09-13T01:00:02.829367+06:00"
+    },
+    "evt_c09f7c47558325": {
+      "event_id": "evt_c09f7c47558325",
+      "event_key": "overwatch blizzcon 2026 changes",
+      "event_subject": "Overwatch",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "overwatch blizzcon 2026 changes",
+        "subject": "Overwatch",
+        "event_type": "announcement",
+        "action": "rework characters and add new hero",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Overwatch 2",
+        "franchise": "Overwatch",
+        "institution": "Blizzard Entertainment",
+        "target": "Roadhog,Sombra,Doctrine",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "character updates"
+      },
+      "modality": "unknown",
+      "topic": "character updates",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "PC Gamer",
+        "GamesRadar+",
+        "GameSpot",
+        "Polygon",
+        "Kotaku",
+        "IGN"
+      ],
+      "source_count": 6,
+      "independent_source_count": 6,
+      "claims": [
+        "Overwatch will receive major hero reworks and a new vampire‑inspired support hero",
+        "Overwatch will receive major hero reworks and a new vampire‑inspired support hero",
+        "Overwatch will receive major hero reworks and a new vampire‑inspired support hero",
+        "Doctrine, a vampire‑inspired support hero, announced for Overwatch",
+        "Doctrine, a vampire‑inspired support hero, announced for Overwatch",
+        "Overwatch will receive major hero reworks and a new vampire‑inspired support hero",
+        "Doctrine, a vampire‑inspired support hero, announced for Overwatch",
+        "Overwatch will receive major hero reworks and a new vampire‑inspired support hero"
+      ],
+      "importance_score": 67,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 17,
+        "originality": 11,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 67
+      },
+      "last_seen": "2026-09-13T01:00:02.829370+06:00"
+    },
+    "evt_8e3125c1516e63": {
+      "event_id": "evt_8e3125c1516e63",
+      "event_key": "starcraft open world shooter announcement 2030",
+      "event_subject": "Blizzard Entertainment",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "starcraft open world shooter announcement 2030",
+        "subject": "Blizzard Entertainment",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "StarCraft",
+        "franchise": "StarCraft",
+        "institution": "Blizzard Entertainment",
+        "target": "new open-world shooter titled StarCraft",
+        "platforms": [
+          "PC",
+          "Xbox Series X",
+          "PlayStation 5"
+        ],
+        "topic": "StarCraft franchise revival"
+      },
+      "modality": "unknown",
+      "topic": "StarCraft franchise revival",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "Polygon",
+        "Kotaku",
+        "GameSpot",
+        "IGN",
+        "Gematsu"
+      ],
+      "source_count": 5,
+      "independent_source_count": 5,
+      "claims": [
+        "StarCraft will return as an open‑world shooter releasing in 2030",
+        "StarCraft will return as an open‑world shooter releasing in 2030",
+        "StarCraft will return as an open‑world shooter releasing in 2030",
+        "StarCraft will return as an open‑world shooter releasing in 2030",
+        "StarCraft will return as an open‑world shooter releasing in 2030",
+        "BlizzCon 2026 featured news on Diablo, WoW, Overwatch, StarCraft and Warcraft 3",
+        "Opening ceremony covered Diablo animated series, Heroes of the Storm new hero, and other reveals"
+      ],
+      "importance_score": 67,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 17,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 67
+      },
+      "last_seen": "2026-09-13T01:00:02.829374+06:00"
+    },
+    "evt_4ee7bff9defddb": {
+      "event_id": "evt_4ee7bff9defddb",
+      "event_key": "diablo4 switch2 release",
+      "event_subject": "Diablo IV",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "diablo4 switch2 release",
+        "subject": "Diablo IV",
+        "event_type": "release",
+        "action": "launch Switch 2 version",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Diablo IV",
+        "franchise": "Diablo",
+        "institution": "Blizzard Entertainment",
+        "target": "Switch 2",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "platform launch"
+      },
+      "modality": "unknown",
+      "topic": "platform launch",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Diablo IV: Age of Hatred Collection arriving on Switch 2"
+      ],
+      "importance_score": 48,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 48
+      },
+      "last_seen": "2026-09-13T01:00:02.829377+06:00"
+    },
+    "evt_007b18695f0efa": {
+      "event_id": "evt_007b18695f0efa",
+      "event_key": "no man s sky build feature release",
+      "event_subject": "Hello Games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "no man s sky build feature release",
+        "subject": "Hello Games",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "No Man’s Sky",
+        "franchise": "No Man’s Sky",
+        "institution": "Hello Games",
+        "target": "new building mechanics in space",
+        "platforms": [
+          "PC",
+          "Xbox Series X",
+          "PlayStation 5"
+        ],
+        "topic": "Gameplay update"
+      },
+      "modality": "unknown",
+      "topic": "Gameplay update",
+      "institution": "Hello Games",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "No Man’s Sky finally adds player‑driven building in space"
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 44
+      },
+      "last_seen": "2026-09-13T01:00:02.829380+06:00"
+    },
+    "evt_c7004d76081877": {
+      "event_id": "evt_c7004d76081877",
+      "event_key": "diablo netflix animated series announcement",
+      "event_subject": "Blizzard Entertainment",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "diablo netflix animated series announcement",
+        "subject": "Blizzard Entertainment",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Diablo",
+        "franchise": "Diablo",
+        "institution": "Blizzard Entertainment",
+        "target": "animated series on Netflix",
+        "platforms": [],
+        "topic": "Diablo media adaptation"
+      },
+      "modality": "unknown",
+      "topic": "Diablo media adaptation",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "VGC",
+        "Kotaku",
+        "GamesRadar+",
+        "GameSpot",
+        "Polygon",
+        "IGN",
+        "Nintendo Life",
+        "Gematsu"
+      ],
+      "source_count": 8,
+      "independent_source_count": 8,
+      "claims": [
+        "Diablo animated series is in development with Netflix",
+        "Diablo animated series is in development with Netflix",
+        "Diablo animated series is in development with Netflix",
+        "Diablo animated series is in development with Netflix",
+        "Diablo animated series is in development with Netflix",
+        "Diablo animated series is in development with Netflix",
+        "Diablo animated series is in development with Netflix",
+        "Diablo animated series is in development with Netflix"
+      ],
+      "importance_score": 64,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 17,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 64
+      },
+      "last_seen": "2026-09-13T01:00:02.829384+06:00"
+    },
+    "evt_13cf59f43c5df7": {
+      "event_id": "evt_13cf59f43c5df7",
+      "event_key": "warcraft3 blizzcon 2026 new campaign",
+      "event_subject": "Warcraft III: Reforged",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "warcraft3 blizzcon 2026 new campaign",
+        "subject": "Warcraft III: Reforged",
+        "event_type": "release",
+        "action": "add new campaign",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Warcraft III: Reforged",
+        "franchise": "Warcraft",
+        "institution": "Blizzard Entertainment",
+        "target": "Arthas,Sylvanas",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "content expansion"
+      },
+      "modality": "unknown",
+      "topic": "content expansion",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "PC Gamer",
+        "Kotaku"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "A new campaign starring Arthas and Sylvanas is live",
+        "A new campaign starring Arthas and Sylvanas is live"
+      ],
+      "importance_score": 48,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 6,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 48
+      },
+      "last_seen": "2026-09-13T01:00:02.829387+06:00"
+    },
+    "evt_87cb4ea4a49e34": {
+      "event_id": "evt_87cb4ea4a49e34",
+      "event_key": "heroes of the storm xalathath hero announcement",
+      "event_subject": "Blizzard Entertainment",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "heroes of the storm xalathath hero announcement",
+        "subject": "Blizzard Entertainment",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Heroes of the Storm",
+        "franchise": "Heroes of the Storm",
+        "institution": "Blizzard Entertainment",
+        "target": "new hero Xal'atath",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "Heroes of the Storm roster update"
+      },
+      "modality": "unknown",
+      "topic": "Heroes of the Storm roster update",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "Polygon",
+        "Kotaku",
+        "PC Gamer",
+        "IGN",
+        "GameSpot"
+      ],
+      "source_count": 5,
+      "independent_source_count": 5,
+      "claims": [
+        "Xal'atath will be added as a new hero in Heroes of the Storm",
+        "Xal'atath will be added as a new hero in Heroes of the Storm",
+        "Xal'atath will be added as a new hero in Heroes of the Storm",
+        "Xal'atath will be added as a new hero in Heroes of the Storm",
+        "Xal'atath will be added as a new hero in Heroes of the Storm"
+      ],
+      "importance_score": 58,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 17,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 58
+      },
+      "last_seen": "2026-09-13T01:00:02.829391+06:00"
+    },
+    "evt_dd9f36df13a1fa": {
+      "event_id": "evt_dd9f36df13a1fa",
+      "event_key": "level5 ai backlash apology",
+      "event_subject": "Level‑5",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "level5 ai backlash apology",
+        "subject": "Level‑5",
+        "event_type": "other",
+        "action": "apologize",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Level‑5",
+        "target": "use of generative AI in recent game reveals",
+        "platforms": [],
+        "topic": "AI usage controversy"
+      },
+      "modality": "unknown",
+      "topic": "AI usage controversy",
+      "institution": "Level‑5",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Level‑5 apologised for AI‑generated content in recent showcases"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-09-13T01:00:02.829395+06:00"
+    },
+    "evt_4fd3909a8ea65d": {
+      "event_id": "evt_4fd3909a8ea65d",
+      "event_key": "prince of persia lost crown steam test",
+      "event_subject": "Ubisoft",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "prince of persia lost crown steam test",
+        "subject": "Ubisoft",
+        "event_type": "other",
+        "action": "test",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Prince of Persia: The Lost Crown",
+        "franchise": "Prince of Persia",
+        "institution": "Ubisoft",
+        "target": "Steam integration test via Ubisoft Connect",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "Platform integration testing"
+      },
+      "modality": "unknown",
+      "topic": "Platform integration testing",
+      "institution": "Ubisoft",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Prince of Persia: The Lost Crown used to test Ubisoft Connect services on Steam"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 36
+      },
+      "last_seen": "2026-09-13T01:00:02.829398+06:00"
+    },
+    "evt_d4b082f8b95343": {
+      "event_id": "evt_d4b082f8b95343",
+      "event_key": "borderlands 4 dlc character release",
+      "event_subject": "Gearbox Software",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "borderlands 4 dlc character release",
+        "subject": "Gearbox Software",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Borderlands 4",
+        "franchise": "Borderlands",
+        "institution": "Gearbox Software",
+        "target": "new DLC character Loveless the Hacker",
+        "platforms": [
+          "PC",
+          "Xbox Series X",
+          "PlayStation 5"
+        ],
+        "topic": "Borderlands 4 DLC"
+      },
+      "modality": "unknown",
+      "topic": "Borderlands 4 DLC",
+      "institution": "Gearbox Software",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Borderlands 4 adds a new DLC character named Loveless the Hacker"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-09-13T01:00:02.829402+06:00"
+    },
+    "evt_820209eb956c7e": {
+      "event_id": "evt_820209eb956c7e",
+      "event_key": "steelseries arctis nova pro wireless headset price drop",
+      "event_subject": "SteelSeries",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "steelseries arctis nova pro wireless headset price drop",
+        "subject": "SteelSeries",
+        "event_type": "other",
+        "action": "price_drop",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "SteelSeries",
+        "target": "Arctis Nova Pro Wireless headset",
+        "platforms": [],
+        "topic": "Gaming hardware pricing"
+      },
+      "modality": "unknown",
+      "topic": "Gaming hardware pricing",
+      "institution": "SteelSeries",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Arctis Nova Pro Wireless headset now priced at $250"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-09-13T01:00:02.829405+06:00"
+    },
+    "evt_8447e3d0734617": {
+      "event_id": "evt_8447e3d0734617",
+      "event_key": "never after dark film release",
+      "event_subject": "Never After Dark",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "never after dark film release",
+        "subject": "Never After Dark",
+        "event_type": "release",
+        "action": "premiere horror film",
+        "status": "released",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "general audience",
+        "platforms": [],
+        "topic": "film"
+      },
+      "modality": "unknown",
+      "topic": "film",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Never After Dark horror movie released"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-13T01:00:02.829409+06:00"
+    },
+    "evt_7c9ff463f2c3de": {
+      "event_id": "evt_7c9ff463f2c3de",
+      "event_key": "psplus september 2026 new games",
+      "event_subject": "Sony Interactive Entertainment",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "psplus september 2026 new games",
+        "subject": "Sony Interactive Entertainment",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Sony Interactive Entertainment",
+        "target": "10 new games for PS Plus September lineup",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "Subscription service news"
+      },
+      "modality": "unknown",
+      "topic": "Subscription service news",
+      "institution": "Sony Interactive Entertainment",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "September PS Plus adds ten new titles including RuneScape: Dragonwilds"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-13T01:00:02.829412+06:00"
+    },
+    "evt_b0d9ad9bf7ecdd": {
+      "event_id": "evt_b0d9ad9bf7ecdd",
+      "event_key": "danganronpa 2x2 psp remake spec issues",
+      "event_subject": "Spike Chunsoft",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "danganronpa 2x2 psp remake spec issues",
+        "subject": "Spike Chunsoft",
+        "event_type": "other",
+        "action": "report",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "Danganronpa 2×2",
+        "franchise": "Danganronpa",
+        "institution": "Spike Chunsoft",
+        "target": "PSP remake with high PC specs",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "Remake hardware requirements"
+      },
+      "modality": "unknown",
+      "topic": "Remake hardware requirements",
+      "institution": "Spike Chunsoft",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Remake of Danganronpa 2×2 for PSP lists absurd PC specifications"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-09-13T01:00:02.829415+06:00"
+    },
+    "evt_6c6618612c6e15": {
+      "event_id": "evt_6c6618612c6e15",
+      "event_key": "tmobile iphone 18 pro deal explanation",
+      "event_subject": "T‑Mobile",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "tmobile iphone 18 pro deal explanation",
+        "subject": "T‑Mobile",
+        "event_type": "other",
+        "action": "explain",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "T‑Mobile",
+        "target": "iPhone 18 Pro on‑us deal",
+        "platforms": [],
+        "topic": "Mobile carrier promotion"
+      },
+      "modality": "unknown",
+      "topic": "Mobile carrier promotion",
+      "institution": "T‑Mobile",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Explanation of T‑Mobile's iPhone 18 Pro on‑us promotion"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-13T01:00:02.829419+06:00"
+    },
+    "evt_8805d06135e4c8": {
+      "event_id": "evt_8805d06135e4c8",
+      "event_key": "nyt strands september 2026 puzzle",
+      "event_subject": "The New York Times",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nyt strands september 2026 puzzle",
+        "subject": "The New York Times",
+        "event_type": "other",
+        "action": "publish",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "The New York Times",
+        "target": "Strands puzzle #923 for September 12 2026",
+        "platforms": [],
+        "topic": "Puzzle publishing"
+      },
+      "modality": "unknown",
+      "topic": "Puzzle publishing",
+      "institution": "The New York Times",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "NYT Strands puzzle #923 released with hints and answers"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 35
+      },
+      "last_seen": "2026-09-13T01:00:02.829422+06:00"
+    },
+    "evt_30f15c64feff5c": {
+      "event_id": "evt_30f15c64feff5c",
+      "event_key": "na hongjin interview breakneck monster movie",
+      "event_subject": "Na Hong‑jin",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "na hongjin interview breakneck monster movie",
+        "subject": "Na Hong‑jin",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "new sci‑fi action thriller Hope",
+        "platforms": [],
+        "topic": "Film interview"
+      },
+      "modality": "unknown",
+      "topic": "Film interview",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Director explains shift from slow‑burn horror to fast‑paced monster movie"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-09-13T01:00:02.829425+06:00"
     }
   },
   "posted_event_ids": [
@@ -40172,7 +42171,8 @@
     "evt_f72ee2eb420836",
     "evt_1839990b5e0f87",
     "evt_b632097100f0cd",
-    "evt_1ef331ce89f906"
+    "evt_1ef331ce89f906",
+    "evt_c09f7c47558325"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -40261,10 +42261,11 @@
     "wardogs sells over a million copies and hits 350 000 concurrent players on launch day",
     "square enix patches beastmaster bug that could crash final fantasy 14 servers",
     "guns of eschaton promises the first soulslike fps experience",
-    "polyarc shuts down after 12 years of psvr success"
+    "polyarc shuts down after 12 years of psvr success",
+    "overwatch unveils vampire hero doctrine and announces reworks for sombra and roadhog"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-12T23:00:57.862786+06:00",
+    "Game Updates": "2026-09-13T01:06:31.344680+06:00",
     "Major Releases": "2026-09-11T21:15:22.485969+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
