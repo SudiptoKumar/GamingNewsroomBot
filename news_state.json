@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"33d9d-g8Phg3/ztRv+ewi0QEaNSHbKEkc\"",
+      "etag": "W/\"28b1b-bxga2No3D14/FrJf6ynecULbPnU\"",
       "last_modified": null,
-      "last_checked": "2026-09-12T00:10:50.663480+06:00",
+      "last_checked": "2026-09-12T11:25:16.631637+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T00:10:50.962204+06:00",
+      "last_checked": "2026-09-12T11:25:16.830718+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aa443fa-b5a\"",
-      "last_modified": "Fri, 11 Sep 2026 18:10:02 GMT",
-      "last_checked": "2026-09-12T00:10:51.368555+06:00",
+      "etag": "\"6aa4e22d-b5a\"",
+      "last_modified": "Sat, 12 Sep 2026 05:25:01 GMT",
+      "last_checked": "2026-09-12T11:25:17.232040+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Fri, 11 Sep 2026 18:08:06 GMT",
-      "last_checked": "2026-09-12T00:10:51.567720+06:00",
+      "last_modified": "Fri, 11 Sep 2026 19:07:38 GMT",
+      "last_checked": "2026-09-12T11:25:17.380497+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6aa43745-1258\"",
-      "last_modified": "Fri, 11 Sep 2026 17:15:49 GMT",
-      "last_checked": "2026-09-12T00:10:51.872008+06:00",
+      "etag": "\"6aa4d34b-1286\"",
+      "last_modified": "Sat, 12 Sep 2026 04:21:31 GMT",
+      "last_checked": "2026-09-12T11:25:17.659376+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T00:10:52.040744+06:00",
+      "last_checked": "2026-09-12T11:25:17.816134+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T00:10:52.605835+06:00",
+      "last_checked": "2026-09-12T11:25:18.403418+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"2598ca596691fe23272343854b8e75b8\"",
-      "last_modified": "Fri, 11 Sep 2026 18:00:25 GMT",
-      "last_checked": "2026-09-12T00:10:52.804184+06:00",
+      "etag": "W/\"6ef8c9dd0c31b9d0c733434cf4278b85\"",
+      "last_modified": "Fri, 11 Sep 2026 22:52:56 GMT",
+      "last_checked": "2026-09-12T11:25:18.653255+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T00:10:52.892057+06:00",
+      "last_checked": "2026-09-12T11:25:18.805707+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Fri, 11 Sep 2026 17:12:35 GMT",
-      "last_checked": "2026-09-12T00:10:53.185405+06:00",
+      "last_checked": "2026-09-12T11:25:19.157986+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Fri, 11 Sep 2026 18:10:53 GMT",
-      "last_checked": "2026-09-12T00:10:53.663575+06:00",
+      "last_modified": "Sat, 12 Sep 2026 05:25:19 GMT",
+      "last_checked": "2026-09-12T11:25:19.901312+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"02f9c174dca15c2aad5f81149997306a\"",
-      "last_modified": "Fri, 11 Sep 2026 17:41:08 GMT",
-      "last_checked": "2026-09-12T00:10:54.050536+06:00",
+      "etag": "W/\"df438e548ee2de21efa17049d1fb382b\"",
+      "last_modified": "Fri, 11 Sep 2026 23:06:50 GMT",
+      "last_checked": "2026-09-12T11:25:20.223412+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T00:10:54.265717+06:00",
+      "last_checked": "2026-09-12T11:25:20.595335+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T00:10:54.597634+06:00",
+      "last_checked": "2026-09-12T11:25:20.865477+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T00:10:54.845829+06:00",
+      "last_checked": "2026-09-12T11:25:21.273273+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-12T00:10:54.979897+06:00",
-      "fail_count": 13,
+      "last_checked": "2026-09-12T11:25:21.419986+06:00",
+      "fail_count": 14,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"da9a6cbbb95ff72517ef885cdf2a3818\"",
-      "last_modified": "Fri, 11 Sep 2026 13:56:32 GMT",
-      "last_checked": "2026-09-12T00:10:55.070803+06:00",
+      "etag": "W/\"3a911ea37e53a045d8cbc5b14e0226fe\"",
+      "last_modified": "Fri, 11 Sep 2026 17:23:12 GMT",
+      "last_checked": "2026-09-12T11:25:21.517398+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-12T00:10:55.223093+06:00",
+      "last_checked": "2026-09-12T11:25:21.710918+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-12T00:10:55.435273+06:00",
-      "fail_count": 13,
+      "last_checked": "2026-09-12T11:25:21.831074+06:00",
+      "fail_count": 14,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"405d3520c6543858346ca7c8245e44a4\"",
       "last_modified": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "last_checked": "2026-09-12T00:10:55.685866+06:00",
+      "last_checked": "2026-09-12T11:25:21.924035+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -10567,6 +10567,120 @@
       "status": "pending",
       "first_seen": "2026-09-12T00:10:55.737939+06:00",
       "last_seen": "2026-09-12T00:10:55.737944+06:00"
+    },
+    "gematsu.com/2026/09/melty-blood-twi-lumina-launches-april-22-2027": {
+      "title": "Melty Blood: Twi-Lumina launches April 22, 2027",
+      "url": "https://www.gematsu.com/2026/09/melty-blood-twi-lumina-launches-april-22-2027",
+      "canonical": "gematsu.com/2026/09/melty-blood-twi-lumina-launches-april-22-2027",
+      "published_dt": "2026-09-12T09:06:23+06:00",
+      "published_date": "2026-09-12T09:06:23+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Fighting game Melty Blood: Twi-Lumina will launch for PlayStation 5, Switch 2, PlayStation 4, Xbox …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-12T11:25:17.683122+06:00",
+      "last_seen": "2026-09-12T11:25:17.683127+06:00",
+      "posted_at": "2026-09-12T11:28:41.348533+06:00"
+    },
+    "polygon.com/stephen-king-talisman-3-trilogy": {
+      "title": "Stephen King's Next Book is the Long-Awaited Conclusion To A 42-Year-Old Trilogy",
+      "url": "https://www.polygon.com/stephen-king-talisman-3-trilogy/",
+      "canonical": "polygon.com/stephen-king-talisman-3-trilogy",
+      "published_dt": "2026-09-12T11:00:14+06:00",
+      "published_date": "2026-09-12T11:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Jack Sawyer returns in the second sequel to 1984's The Talisman",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/screenshot-2026-04-07-at-11-11-29-am.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T11:25:18.412304+06:00",
+      "last_seen": "2026-09-12T11:25:18.412309+06:00"
+    },
+    "polygon.com/calvin-and-hobbes-best-quote-meaning-of-life": {
+      "title": "34 Years Later, the Best 'Calvin and Hobbes’ Quote About the Meaning of Life Is Still Second to None",
+      "url": "https://www.polygon.com/calvin-and-hobbes-best-quote-meaning-of-life/",
+      "canonical": "polygon.com/calvin-and-hobbes-best-quote-meaning-of-life",
+      "published_dt": "2026-09-12T10:30:14+06:00",
+      "published_date": "2026-09-12T10:30:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The comic strip Calvin and Hobbes could often be profound in its words. This is the best strip examining the meaning of life",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/calvin_and_hobbes_under_tree.webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T11:25:18.412458+06:00",
+      "last_seen": "2026-09-12T11:25:18.412462+06:00"
+    },
+    "polygon.com/a-fistful-of-dollars-clint-eastwood-free-to-stream": {
+      "title": "62 Years Later, Clint Eastwood's Genre-Redefining Western Is Officially Free on Streaming",
+      "url": "https://www.polygon.com/a-fistful-of-dollars-clint-eastwood-free-to-stream/",
+      "canonical": "polygon.com/a-fistful-of-dollars-clint-eastwood-free-to-stream",
+      "published_dt": "2026-09-12T10:00:18+06:00",
+      "published_date": "2026-09-12T10:00:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The 1964 Spaghetti Western A Fistful of Dollars is availble for free on Youtube. Catch the genre-redefining film that made Clint Eastwood a star",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screen-shot-2026-09-11-at-10-20-13-am.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T11:25:18.412607+06:00",
+      "last_seen": "2026-09-12T11:25:18.412611+06:00"
+    },
+    "nintendolife.com/news/2026/09/nintendo-announces-switch-2-monster-hunter-wilds-bundle": {
+      "title": "Nintendo Announces Switch 2 Monster Hunter Wilds Bundle",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-announces-switch-2-monster-hunter-wilds-bundle",
+      "canonical": "nintendolife.com/news/2026/09/nintendo-announces-switch-2-monster-hunter-wilds-bundle",
+      "published_dt": "2026-09-12T08:35:00+06:00",
+      "published_date": "2026-09-12T08:35:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Launching in Japan this December. The mainline Monster Hunter series will debut on the Switch 2 this December with the release of the new entry Monster Hunter Wilds . Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/49e3eb1fe00a4/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-12T11:25:20.616356+06:00",
+      "last_seen": "2026-09-12T11:25:20.616362+06:00",
+      "posted_at": "2026-09-12T11:28:36.499120+06:00"
+    },
+    "polygon.com/prime-videos-reacher-replacement-neagley-release-date-2-weeks": {
+      "title": "Prime Video’s 'Reacher' Replacement Officially Releases in 2 Weeks",
+      "url": "https://www.polygon.com/prime-videos-reacher-replacement-neagley-release-date-2-weeks/",
+      "canonical": "polygon.com/prime-videos-reacher-replacement-neagley-release-date-2-weeks",
+      "published_dt": "2026-09-12T09:39:14+06:00",
+      "published_date": "2026-09-12T09:39:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-09-12T11:25:27.526503+06:00",
+      "last_seen": "2026-09-12T11:25:27.526507+06:00"
+    },
+    "shacknews.com/article/150703/evening-reading-september-11-2026": {
+      "title": "Evening Reading - September 11, 2026",
+      "url": "https://www.shacknews.com/article/150703/evening-reading-september-11-2026",
+      "canonical": "shacknews.com/article/150703/evening-reading-september-11-2026",
+      "published_dt": "2026-09-12T09:30:00+06:00",
+      "published_date": "2026-09-12T09:30:00+06:00",
+      "source": "Shacknews",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-09-12T11:25:29.353051+06:00",
+      "last_seen": "2026-09-12T11:25:29.353056+06:00"
     }
   },
   "events": {
@@ -14511,6 +14625,113 @@
           "published_at": "2026-09-11T15:15:41.125182+00:00",
           "headline": "THQ Nordic Unveils Early Access Roadmap for The Guild Remake: Europa 1410",
           "claims": []
+        }
+      ]
+    },
+    "evt_6f00254ce84629": {
+      "event_id": "evt_6f00254ce84629",
+      "event_key": "monster hunter wilds switch2 bundle announcement",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "monster hunter wilds switch2 bundle announcement",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "announce_bundle",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Monster Hunter Wilds",
+        "franchise": "Monster Hunter",
+        "institution": "Nintendo Life",
+        "target": "consumers",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [
+        "Nintendo announced a Switch 2 bundle featuring the upcoming Monster Hunter Wilds title, launching in Japan this December."
+      ],
+      "importance_score": 65,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 35,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Nintendo Announces Switch 2 Monster Hunter Wilds Bundle for December Release",
+      "summary": "Nintendo and Capcom revealed a Switch 2 bundle featuring Monster Hunter Wilds, a digital copy, Joy‑Con 2, and a three‑month Switch Online subscription, priced at 61,980 yen.",
+      "published_at": "2026-09-12T08:35:00+06:00",
+      "selected_at": "2026-09-12T05:28:36.499152+00:00",
+      "status": "published",
+      "message_id": 240,
+      "published_versions": [
+        {
+          "published_at": "2026-09-12T05:28:36.499152+00:00",
+          "headline": "Nintendo Announces Switch 2 Monster Hunter Wilds Bundle for December Release",
+          "claims": [
+            "Nintendo announced a Switch 2 bundle featuring the upcoming Monster Hunter Wilds title, launching in Japan this December."
+          ]
+        }
+      ]
+    },
+    "evt_791270788a825b": {
+      "event_id": "evt_791270788a825b",
+      "event_key": "melty blood twi lumina release 2027 04 22",
+      "event_subject": "Melty Blood: Twi‑Lumina",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "melty blood twi lumina release 2027 04 22",
+        "subject": "Melty Blood: Twi‑Lumina",
+        "event_type": "other",
+        "action": "announce_release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Melty Blood: Twi‑Lumina",
+        "franchise": "Melty Blood",
+        "institution": "Gematsu",
+        "target": "players",
+        "platforms": [
+          "PlayStation 5",
+          "Switch 2",
+          "PlayStation 4",
+          "Xbox"
+        ],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Gematsu"
+      ],
+      "event_sources": [
+        "Gematsu"
+      ],
+      "claims": [
+        "The fighting game Melty Blood: Twi‑Lumina will launch on April 22, 2027 across multiple platforms."
+      ],
+      "importance_score": 54,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 20,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Melty Blood: Twi‑Lumina Set for Multi‑Platform Launch on April 22, 2027",
+      "summary": "The fighting title Melty Blood: Twi‑Lumina will debut across PlayStation, Xbox, Switch and PC, offering extensive language support and new characters.",
+      "published_at": "2026-09-12T09:06:23+06:00",
+      "selected_at": "2026-09-12T05:28:41.348566+00:00",
+      "status": "published",
+      "message_id": 241,
+      "published_versions": [
+        {
+          "published_at": "2026-09-12T05:28:41.348566+00:00",
+          "headline": "Melty Blood: Twi‑Lumina Set for Multi‑Platform Launch on April 22, 2027",
+          "claims": [
+            "The fighting game Melty Blood: Twi‑Lumina will launch on April 22, 2027 across multiple platforms."
+          ]
         }
       ]
     }
@@ -35754,6 +35975,304 @@
         "total": 26
       },
       "last_seen": "2026-09-12T00:14:51.441400+06:00"
+    },
+    "evt_6f00254ce84629": {
+      "event_id": "evt_6f00254ce84629",
+      "event_key": "monster hunter wilds switch2 bundle announcement",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "monster hunter wilds switch2 bundle announcement",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "announce_bundle",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Monster Hunter Wilds",
+        "franchise": "Monster Hunter",
+        "institution": "Nintendo Life",
+        "target": "consumers",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Nintendo announced a Switch 2 bundle featuring the upcoming Monster Hunter Wilds title, launching in Japan this December."
+      ],
+      "importance_score": 65,
+      "score_breakdown": {
+        "significance": 35,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 65
+      },
+      "last_seen": "2026-09-12T11:26:34.829629+06:00"
+    },
+    "evt_791270788a825b": {
+      "event_id": "evt_791270788a825b",
+      "event_key": "melty blood twi lumina release 2027 04 22",
+      "event_subject": "Melty Blood: Twi‑Lumina",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "melty blood twi lumina release 2027 04 22",
+        "subject": "Melty Blood: Twi‑Lumina",
+        "event_type": "other",
+        "action": "announce_release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Melty Blood: Twi‑Lumina",
+        "franchise": "Melty Blood",
+        "institution": "Gematsu",
+        "target": "players",
+        "platforms": [
+          "PlayStation 5",
+          "Switch 2",
+          "PlayStation 4",
+          "Xbox"
+        ],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "Gematsu",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The fighting game Melty Blood: Twi‑Lumina will launch on April 22, 2027 across multiple platforms."
+      ],
+      "importance_score": 54,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 54
+      },
+      "last_seen": "2026-09-12T11:26:34.829653+06:00"
+    },
+    "evt_56429094e23ee6": {
+      "event_id": "evt_56429094e23ee6",
+      "event_key": "a fistful of dollars free streaming youtube",
+      "event_subject": "A Fistful of Dollars",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "a fistful of dollars free streaming youtube",
+        "subject": "A Fistful of Dollars",
+        "event_type": "other",
+        "action": "make_available",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "viewers",
+        "platforms": [
+          "YouTube"
+        ],
+        "topic": "Film"
+      },
+      "modality": "unknown",
+      "topic": "Film",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The 1964 spaghetti western A Fistful of Dollars is now available for free streaming on YouTube."
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-12T11:26:34.829663+06:00"
+    },
+    "evt_d8b2a8449fd4e0": {
+      "event_id": "evt_d8b2a8449fd4e0",
+      "event_key": "calvin and hobbes best quote feature",
+      "event_subject": "Calvin and Hobbes",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "calvin and hobbes best quote feature",
+        "subject": "Calvin and Hobbes",
+        "event_type": "other",
+        "action": "feature",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "readers",
+        "platforms": [],
+        "topic": "Comics"
+      },
+      "modality": "unknown",
+      "topic": "Comics",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "A feature highlighting the best Calvin and Hobbes quote about the meaning of life, 34 years after its original publication."
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-12T11:26:34.829670+06:00"
+    },
+    "evt_f1988ac79db85a": {
+      "event_id": "evt_f1988ac79db85a",
+      "event_key": "prime video reacher replacement release 2weeks",
+      "event_subject": "Prime Video",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "prime video reacher replacement release 2weeks",
+        "subject": "Prime Video",
+        "event_type": "other",
+        "action": "announce_release",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "subscribers",
+        "platforms": [
+          "Prime Video"
+        ],
+        "topic": "Television"
+      },
+      "modality": "unknown",
+      "topic": "Television",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Prime Video’s replacement for the series ‘Reacher’ is slated to release in two weeks."
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-12T11:26:34.829696+06:00"
+    },
+    "evt_42ae47ec3243c4": {
+      "event_id": "evt_42ae47ec3243c4",
+      "event_key": "stephen king talisman iii announcement",
+      "event_subject": "Stephen King",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "stephen king talisman iii announcement",
+        "subject": "Stephen King",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "readers",
+        "platforms": [],
+        "topic": "Literature"
+      },
+      "modality": "unknown",
+      "topic": "Literature",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Stephen King’s next book, the long‑awaited conclusion to his 42‑year‑old Talisman trilogy, has been announced."
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-12T11:26:34.829703+06:00"
+    },
+    "evt_f0f32445946494": {
+      "event_id": "evt_f0f32445946494",
+      "event_key": "shacknews evening reading sept11 2026",
+      "event_subject": "Shacknews",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "shacknews evening reading sept11 2026",
+        "subject": "Shacknews",
+        "event_type": "other",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Shacknews",
+        "target": "readers",
+        "platforms": [],
+        "topic": "General"
+      },
+      "modality": "unknown",
+      "topic": "General",
+      "institution": "Shacknews",
+      "sources": [
+        "Shacknews"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Evening Reading column for September 11, 2026."
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-09-12T11:26:34.829709+06:00"
     }
   },
   "posted_event_ids": [
@@ -35833,7 +36352,9 @@
     "evt_0f2f7c0822ea10",
     "evt_0c074a063147d8",
     "evt_0c5387d70a947e",
-    "evt_3409a7291b1367"
+    "evt_3409a7291b1367",
+    "evt_6f00254ce84629",
+    "evt_791270788a825b"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -35912,10 +36433,12 @@
     "double fine returns indie hopes game pass revives after xbox reset",
     "star wars outlaws joins amazon luna library expanding cloud gaming lineup",
     "playstation footage leaks reveal haven studios fairgames shooter",
-    "thq nordic unveils early access roadmap for the guild remake europa 1410"
+    "thq nordic unveils early access roadmap for the guild remake europa 1410",
+    "nintendo announces switch 2 monster hunter wilds bundle for december release",
+    "melty blood twi lumina set for multi platform launch on april 22 2027"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-11T21:15:41.125201+06:00",
+    "Game Updates": "2026-09-12T11:28:41.348586+06:00",
     "Major Releases": "2026-09-11T21:15:22.485969+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
