@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"23a0b-6sovMsdGbboAElx0ChQtA1bS1Vo\"",
+      "etag": "W/\"28259-Hidn4YmwQlNBJ5ve9pd/M8sznsM\"",
       "last_modified": null,
-      "last_checked": "2026-09-12T19:53:11.187764+06:00",
+      "last_checked": "2026-09-12T22:46:03.383046+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T19:53:11.342607+06:00",
+      "last_checked": "2026-09-12T22:46:03.567947+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aa5588b-bd1\"",
-      "last_modified": "Sat, 12 Sep 2026 13:50:03 GMT",
-      "last_checked": "2026-09-12T19:53:11.743736+06:00",
+      "etag": "\"6aa5818f-bd2\"",
+      "last_modified": "Sat, 12 Sep 2026 16:45:03 GMT",
+      "last_checked": "2026-09-12T22:46:03.888375+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Sat, 12 Sep 2026 11:41:58 GMT",
-      "last_checked": "2026-09-12T19:53:11.941710+06:00",
+      "last_modified": "Sat, 12 Sep 2026 15:43:49 GMT",
+      "last_checked": "2026-09-12T22:46:04.114179+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6aa55738-12b5\"",
-      "last_modified": "Sat, 12 Sep 2026 13:44:24 GMT",
-      "last_checked": "2026-09-12T19:53:12.269384+06:00",
+      "etag": "\"6aa579f6-12b5\"",
+      "last_modified": "Sat, 12 Sep 2026 16:12:38 GMT",
+      "last_checked": "2026-09-12T22:46:04.449950+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T19:53:12.402468+06:00",
+      "last_checked": "2026-09-12T22:46:04.638819+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T19:53:12.921983+06:00",
+      "last_checked": "2026-09-12T22:46:05.210645+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"dbf8b8925cd719127a90b12938de0449\"",
-      "last_modified": "Sat, 12 Sep 2026 13:52:33 GMT",
-      "last_checked": "2026-09-12T19:53:13.135478+06:00",
+      "etag": "W/\"ada2a5caeba33cd83575de18602b3d62\"",
+      "last_modified": "Sat, 12 Sep 2026 16:41:30 GMT",
+      "last_checked": "2026-09-12T22:46:05.463411+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T19:53:13.308657+06:00",
+      "last_checked": "2026-09-12T22:46:05.591501+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Sat, 12 Sep 2026 07:58:51 GMT",
-      "last_checked": "2026-09-12T19:53:13.708828+06:00",
+      "last_checked": "2026-09-12T22:46:06.138234+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sat, 12 Sep 2026 13:53:14 GMT",
-      "last_checked": "2026-09-12T19:53:14.297717+06:00",
+      "last_modified": "Sat, 12 Sep 2026 16:46:06 GMT",
+      "last_checked": "2026-09-12T22:46:06.715844+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"4c63f16255ec81c72a7d9e01d780aab3\"",
-      "last_modified": "Sat, 12 Sep 2026 13:37:09 GMT",
-      "last_checked": "2026-09-12T19:53:14.718502+06:00",
+      "etag": "W/\"67b7c3291a5fe8f042faf25299b48bf9\"",
+      "last_modified": "Sat, 12 Sep 2026 16:17:50 GMT",
+      "last_checked": "2026-09-12T22:46:07.096589+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T19:53:14.976020+06:00",
+      "last_checked": "2026-09-12T22:46:07.242914+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T19:53:15.387895+06:00",
+      "last_checked": "2026-09-12T22:46:07.608435+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-12T19:53:15.643790+06:00",
+      "last_checked": "2026-09-12T22:46:07.975650+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-12T19:53:15.861674+06:00",
-      "fail_count": 16,
+      "last_checked": "2026-09-12T22:46:08.161414+06:00",
+      "fail_count": 17,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"8c987894be77db8fbcb201700c34b6e2\"",
       "last_modified": "Fri, 11 Sep 2026 20:33:31 GMT",
-      "last_checked": "2026-09-12T19:53:15.961463+06:00",
+      "last_checked": "2026-09-12T22:46:08.295518+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-12T19:53:16.126844+06:00",
+      "last_checked": "2026-09-12T22:46:08.500607+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-12T19:53:16.300477+06:00",
-      "fail_count": 16,
+      "last_checked": "2026-09-12T22:46:08.614775+06:00",
+      "fail_count": 17,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"fb59607d33004946a72d7f68a75cdca3\"",
-      "last_modified": "Sat, 12 Sep 2026 09:00:00 GMT",
-      "last_checked": "2026-09-12T19:53:16.433083+06:00",
+      "etag": "W/\"e8d3f51c83767a56c25af98180345c89\"",
+      "last_modified": "Sat, 12 Sep 2026 16:00:00 GMT",
+      "last_checked": "2026-09-12T22:46:08.721072+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -10054,7 +10054,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-12T00:10:52.614127+06:00",
-      "last_seen": "2026-09-12T00:10:52.614129+06:00"
+      "last_seen": "2026-09-12T22:46:05.219389+06:00"
     },
     "polygon.com/metroid-ravenous-developer-nintendo-direct": {
       "title": "'Metroid Ravenous' Developer All but Confirms It's Behind Switch 2 Game",
@@ -11324,6 +11324,411 @@
       "status": "pending",
       "first_seen": "2026-09-12T19:53:16.018406+06:00",
       "last_seen": "2026-09-12T19:53:16.018412+06:00"
+    },
+    "ign.com/articles/level-5-boss-addresses-ai-backlash-after-fans-hit-out-at-game-reveal-showcase": {
+      "title": "Level-5 Boss Addresses AI Backlash After Fans Hit Out at Game Reveal Showcase",
+      "url": "https://www.ign.com/articles/level-5-boss-addresses-ai-backlash-after-fans-hit-out-at-game-reveal-showcase",
+      "canonical": "ign.com/articles/level-5-boss-addresses-ai-backlash-after-fans-hit-out-at-game-reveal-showcase",
+      "published_dt": "2026-09-12T22:25:11+06:00",
+      "published_date": "2026-09-12T22:25:11+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Developer Level-5 has apologized for and explained its use of generative AI after fans spotted 'AI slop' in footage of games like Professor Layton and the Curious Village, DecaPolice, and more.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/12/professor-layton-and-the-new-world-of-steam-1789228310265.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:03.457798+06:00",
+      "last_seen": "2026-09-12T22:46:03.457805+06:00"
+    },
+    "ign.com/articles/blizzcon-2026-opening-ceremony-live-blog-the-future-of-warcraft-and-diablo-set-to-be-revealed-amid-starcraft-announcement-rumors": {
+      "title": "BlizzCon 2026 Opening Ceremony Live Blog: The Future of Warcraft and Diablo Set to Be Revealed Amid StarCraft Rumors",
+      "url": "https://www.ign.com/articles/blizzcon-2026-opening-ceremony-live-blog-the-future-of-warcraft-and-diablo-set-to-be-revealed-amid-starcraft-announcement-rumors",
+      "canonical": "ign.com/articles/blizzcon-2026-opening-ceremony-live-blog-the-future-of-warcraft-and-diablo-set-to-be-revealed-amid-starcraft-announcement-rumors",
+      "published_dt": "2026-09-12T22:00:29+06:00",
+      "published_date": "2026-09-12T22:00:29+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "BlizzCon 2026 is upon is, and IGN is reporting live on all the announcements direct from the opening ceremony. Expect big news on everything from World of Warcraft to Diablo, amid strong rumors of a StarCraft announcement.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/12/blizzcon2026-live-blogroll-1789222994545.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-12T22:46:03.458008+06:00",
+      "last_seen": "2026-09-12T22:46:03.458013+06:00",
+      "posted_at": "2026-09-12T23:00:37.784641+06:00"
+    },
+    "ign.com/articles/the-magic-of-disney-animation-proves-walt-disney-worlds-mission-of-thoughtfully-updating-its-historical-attractions-is-working": {
+      "title": "The Magic of Disney Animation Proves Walt Disney World’s Mission of Thoughtfully Updating its Historical Attractions Is Working",
+      "url": "https://www.ign.com/articles/the-magic-of-disney-animation-proves-walt-disney-worlds-mission-of-thoughtfully-updating-its-historical-attractions-is-working",
+      "canonical": "ign.com/articles/the-magic-of-disney-animation-proves-walt-disney-worlds-mission-of-thoughtfully-updating-its-historical-attractions-is-working",
+      "published_dt": "2026-09-12T21:00:00+06:00",
+      "published_date": "2026-09-12T21:00:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "We got an early look at The Magic of Disney Animation at Walt Disney World, and it proves that the theme park's mission of thoughtfully updating its historical attractions is working. Check out our first impressions:",
+      "image": "https://assets-prd.ignimgs.com/2026/09/12/olaf-1789174330599.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:03.458152+06:00",
+      "last_seen": "2026-09-12T22:46:03.458157+06:00"
+    },
+    "ign.com/articles/dragon-quest-monsters-the-withered-world-has-500-beasts-to-collect-and-theyre-all-super-weird-ign-preview": {
+      "title": "Dragon Quest Monsters: The Withered World Has 500 Beasts to Collect, and They're All Super Weird | IGN Preview",
+      "url": "https://www.ign.com/articles/dragon-quest-monsters-the-withered-world-has-500-beasts-to-collect-and-theyre-all-super-weird-ign-preview",
+      "canonical": "ign.com/articles/dragon-quest-monsters-the-withered-world-has-500-beasts-to-collect-and-theyre-all-super-weird-ign-preview",
+      "published_dt": "2026-09-12T20:07:00+06:00",
+      "published_date": "2026-09-12T20:07:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "So far, Dragon Quest Monsters: The Withered World is shaping up to be another solid and charming entry in the sub-series. The monster-collecting style of RPG is a fairly crowded market these days, but Square Enix's efforts to double down on the charm and wholesomeness of Dragon Quest's world are what make this series so unique and fun to dive into. I had a blast with my limited time with Dragon Quest Monsters: The Withered World, and I can't wait to see what other oddities and weird creatures to uncover.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/12/dqm-tww-broll-synthesis-combat-04-0-14-07-51-1789173232367.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:03.458280+06:00",
+      "last_seen": "2026-09-12T22:46:03.458284+06:00"
+    },
+    "eurogamer.net/wardogs-million-copies-sold-steam-early-access": {
+      "title": "UK studio Bulkhead's Wardogs sells over a million copies and tops 350,000 concurrent players on launch day",
+      "url": "https://www.eurogamer.net/wardogs-million-copies-sold-steam-early-access",
+      "canonical": "eurogamer.net/wardogs-million-copies-sold-steam-early-access",
+      "published_dt": "2026-09-12T21:43:49+06:00",
+      "published_date": "2026-09-12T21:43:49+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Wardogs, the new tactical shooter from Derby-based studio Bulkhead, has sold more than a million copies and passed 350,000 concurrent players within hours of launching into Steam early access. Read more",
+      "image": "https://assetsio.gnwcdn.com/Wardogs-screenshot-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-12T22:46:04.215391+06:00",
+      "last_seen": "2026-09-12T22:46:04.215398+06:00",
+      "posted_at": "2026-09-12T23:00:43.201578+06:00"
+    },
+    "eurogamer.net/zelda-40th-anniversary-switch-2-scalpers-ebay-resale": {
+      "title": "Scalpers are already reselling the sold-out Zelda 40th Anniversary Switch 2 for £700+",
+      "url": "https://www.eurogamer.net/zelda-40th-anniversary-switch-2-scalpers-ebay-resale",
+      "canonical": "eurogamer.net/zelda-40th-anniversary-switch-2-scalpers-ebay-resale",
+      "published_dt": "2026-09-12T21:14:54+06:00",
+      "published_date": "2026-09-12T21:14:54+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Nintendo's new Legend of Zelda 40th anniversary Switch 2 sold out within hours of preorders opening, and scalpers are already scalping, with dozens of orders popping up on eBay for close to double its retail price. Read more",
+      "image": "https://assetsio.gnwcdn.com/Screenshot-2026-09-12-at-16.09.04.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:04.215719+06:00",
+      "last_seen": "2026-09-12T22:46:04.215725+06:00"
+    },
+    "pcgamer.com/games/mmo/square-enix-scrambles-to-fix-final-fantasy-14-bug-where-new-beastmaster-could-crash-entire-servers": {
+      "title": "Square Enix scrambles to fix Final Fantasy 14 bug where new beastmaster could crash entire servers",
+      "url": "https://www.pcgamer.com/games/mmo/square-enix-scrambles-to-fix-final-fantasy-14-bug-where-new-beastmaster-could-crash-entire-servers/",
+      "canonical": "pcgamer.com/games/mmo/square-enix-scrambles-to-fix-final-fantasy-14-bug-where-new-beastmaster-could-crash-entire-servers",
+      "published_dt": "2026-09-12T21:23:03+06:00",
+      "published_date": "2026-09-12T21:23:03+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Beast mode activated.",
+      "image": "https://cdn.mos.cms.futurecdn.net/vcsDRSBAnGgs7QgC6cWuHK-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-12T22:46:05.031658+06:00",
+      "last_seen": "2026-09-12T22:46:05.031664+06:00",
+      "posted_at": "2026-09-12T23:00:48.087719+06:00"
+    },
+    "pcgamer.com/games/grand-theft-auto/gta-london-1961-is-full-of-cockney-innuendo-and-harder-than-a-bobbys-helmet": {
+      "title": "GTA: London 1961 is full of cockney innuendo and harder than a bobby’s helmet",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-london-1961-is-full-of-cockney-innuendo-and-harder-than-a-bobbys-helmet/",
+      "canonical": "pcgamer.com/games/grand-theft-auto/gta-london-1961-is-full-of-cockney-innuendo-and-harder-than-a-bobbys-helmet",
+      "published_dt": "2026-09-12T21:20:27+06:00",
+      "published_date": "2026-09-12T21:20:27+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "In your end-o.",
+      "image": "https://cdn.mos.cms.futurecdn.net/rR3qEH6624CJFRbBBji4uX-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:05.031804+06:00",
+      "last_seen": "2026-09-12T22:46:05.031808+06:00"
+    },
+    "pcgamer.com/games/mmo/final-fantasy-14s-funky-new-roguelike-mode-has-me-hyped-for-evercolds-combat-revamp-whichll-be-a-winner-if-its-even-half-as-weird": {
+      "title": "Final Fantasy 14's funky new roguelike mode has me hyped for Evercold's combat revamp, which'll be a winner if it's even half as weird",
+      "url": "https://www.pcgamer.com/games/mmo/final-fantasy-14s-funky-new-roguelike-mode-has-me-hyped-for-evercolds-combat-revamp-whichll-be-a-winner-if-its-even-half-as-weird/",
+      "canonical": "pcgamer.com/games/mmo/final-fantasy-14s-funky-new-roguelike-mode-has-me-hyped-for-evercolds-combat-revamp-whichll-be-a-winner-if-its-even-half-as-weird",
+      "published_dt": "2026-09-12T21:20:20+06:00",
+      "published_date": "2026-09-12T21:20:20+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Who let the dogs out?",
+      "image": "https://cdn.mos.cms.futurecdn.net/UJFsB4QP99i275JiPkYkoV-1280-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:05.031968+06:00",
+      "last_seen": "2026-09-12T22:46:05.031973+06:00"
+    },
+    "pcgamer.com/games/rpg/the-blood-of-dawnwalker-is-a-good-game-but-one-change-would-make-it-a-great-rpg": {
+      "title": "The Blood of Dawnwalker is a good game, but one change would make it a great RPG",
+      "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-is-a-good-game-but-one-change-would-make-it-a-great-rpg/",
+      "canonical": "pcgamer.com/games/rpg/the-blood-of-dawnwalker-is-a-good-game-but-one-change-would-make-it-a-great-rpg",
+      "published_dt": "2026-09-12T21:00:00+06:00",
+      "published_date": "2026-09-12T21:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "The prologue promises something the game never quite delivers.",
+      "image": "https://cdn.mos.cms.futurecdn.net/G8WiCtMgwLbLwvNTW2CHVn-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:05.032098+06:00",
+      "last_seen": "2026-09-12T22:46:05.032101+06:00"
+    },
+    "pcgamer.com/gaming-industry/news/live/blizzcon-2026-opening-ceremony-live-coverage-whats-next-for-warcraft-overwatch-diablo-and-starcraft": {
+      "title": "BlizzCon 2026 Opening Ceremony live coverage and how to watch—what's next for Warcraft, Overwatch, Diablo, and StarCraft",
+      "url": "https://www.pcgamer.com/gaming-industry/news/live/blizzcon-2026-opening-ceremony-live-coverage-whats-next-for-warcraft-overwatch-diablo-and-starcraft/",
+      "canonical": "pcgamer.com/gaming-industry/news/live/blizzcon-2026-opening-ceremony-live-coverage-whats-next-for-warcraft-overwatch-diablo-and-starcraft",
+      "published_dt": "2026-09-12T20:37:21+06:00",
+      "published_date": "2026-09-12T20:37:21+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Big announcements are expected at Blizzard's first fan convention since 2023.",
+      "image": "https://cdn.mos.cms.futurecdn.net/q8f5FytodczmNqb4LUna7V-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:05.032226+06:00",
+      "last_seen": "2026-09-12T22:46:05.032230+06:00"
+    },
+    "pcgamer.com/games/rpg/starfinder-afterlight-a-crpg-based-on-one-of-my-favourite-systems-that-pulled-in-almost-usd1-million-on-kickstarter-is-starting-to-look-ship-shape": {
+      "title": "Starfinder: Afterlight, a CRPG based on one of my favourite systems that pulled in almost $1 million on Kickstarter, is starting to look ship-shape",
+      "url": "https://www.pcgamer.com/games/rpg/starfinder-afterlight-a-crpg-based-on-one-of-my-favourite-systems-that-pulled-in-almost-usd1-million-on-kickstarter-is-starting-to-look-ship-shape/",
+      "canonical": "pcgamer.com/games/rpg/starfinder-afterlight-a-crpg-based-on-one-of-my-favourite-systems-that-pulled-in-almost-usd1-million-on-kickstarter-is-starting-to-look-ship-shape",
+      "published_dt": "2026-09-12T20:00:00+06:00",
+      "published_date": "2026-09-12T20:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Plus, BG3's Neil Newbon voices an insect priest.",
+      "image": "https://cdn.mos.cms.futurecdn.net/5eMkzn6CvPGPaYsZqWfbnG-1280-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:05.032356+06:00",
+      "last_seen": "2026-09-12T22:46:05.032360+06:00"
+    },
+    "polygon.com/hope-director-interview-na-hong-jin": {
+      "title": "Why Na Hong-jin Ditched Slow-Burn Horror for a Breakneck Monster Movie",
+      "url": "https://www.polygon.com/hope-director-interview-na-hong-jin/",
+      "canonical": "polygon.com/hope-director-interview-na-hong-jin",
+      "published_dt": "2026-09-12T22:01:14+06:00",
+      "published_date": "2026-09-12T22:01:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Na Hong-jin discusses the breakneck pacing, bizarre creatures, and human nature at the heart of his ambitious sci-fi action thriller Hope.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/hope.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:05.219540+06:00",
+      "last_seen": "2026-09-12T22:46:05.219545+06:00"
+    },
+    "polygon.com/guns-of-eschaton-preview-gamescom-2026": {
+      "title": "The ‘World’s First Soulslike FPS’ Is a Brutally Fun Take On the Apocalypse",
+      "url": "https://www.polygon.com/guns-of-eschaton-preview-gamescom-2026/",
+      "canonical": "polygon.com/guns-of-eschaton-preview-gamescom-2026",
+      "published_dt": "2026-09-12T21:01:13+06:00",
+      "published_date": "2026-09-12T21:01:13+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Guns of Eschaton is an upcoming Soulslike FPS set in the middle of an apocalypse, where every enemy has very specific weaknesses.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/guns-of-eschaton-gamescom-preview-10-1.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-12T22:46:05.219681+06:00",
+      "last_seen": "2026-09-12T22:46:05.219685+06:00",
+      "posted_at": "2026-09-12T23:00:53.037625+06:00"
+    },
+    "polygon.com/verity-director-interview-preview": {
+      "title": "Anne Hathaway's Next Movie Might Just Be the Sexiest Thriller of 2026",
+      "url": "https://www.polygon.com/verity-director-interview-preview/",
+      "canonical": "polygon.com/verity-director-interview-preview",
+      "published_dt": "2026-09-12T20:00:14+06:00",
+      "published_date": "2026-09-12T20:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Verity director Michael Showalter answers are five biggest questions",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/full-trailer-anne-hathaway-is-verity.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:05.219815+06:00",
+      "last_seen": "2026-09-12T22:46:05.219819+06:00"
+    },
+    "kotaku.com/studio-behind-critically-acclaimed-psvr-game-shuts-down-after-12-years-2000733806": {
+      "title": "Studio Behind Critically-Acclaimed PSVR Game Shuts Down After 12 Years",
+      "url": "https://kotaku.com/studio-behind-critically-acclaimed-psvr-game-shuts-down-after-12-years-2000733806",
+      "canonical": "kotaku.com/studio-behind-critically-acclaimed-psvr-game-shuts-down-after-12-years-2000733806",
+      "published_dt": "2026-09-12T22:41:30+06:00",
+      "published_date": "2026-09-12T22:41:30+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Moss was one of the first standout games for PlayStation's virtual reality headset",
+      "image": "https://kotaku.com/app/uploads/2026/09/26321767178_d9427dd00c_o-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-12T22:46:05.475937+06:00",
+      "last_seen": "2026-09-12T22:46:05.475943+06:00",
+      "posted_at": "2026-09-12T23:00:57.862739+06:00"
+    },
+    "kotaku.com/no-mans-sky-cosmos-update-space-stations-building-2000733761": {
+      "title": "Players Can’t Believe No Man’s Sky Is Finally Letting Them Build In Space",
+      "url": "https://kotaku.com/no-mans-sky-cosmos-update-space-stations-building-2000733761",
+      "canonical": "kotaku.com/no-mans-sky-cosmos-update-space-stations-building-2000733761",
+      "published_dt": "2026-09-12T22:00:34+06:00",
+      "published_date": "2026-09-12T22:00:34+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "In space, no one can hear you scream (about the ever increasing cost of home ownership)",
+      "image": "https://kotaku.com/app/uploads/2026/09/No-Mans-Sky-Cosmos-update-official-image-Hello-Games-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:05.476098+06:00",
+      "last_seen": "2026-09-12T22:46:05.476102+06:00"
+    },
+    "kotaku.com/scp-foundation-pushes-back-on-backrooms-studios-new-v-h-s-scp-movie-a24-does-not-and-cannot-have-any-exclusive-rights-2000733756": {
+      "title": "SCP Foundation Pushes Back On Backrooms Studio’s New V/H/S: SCP Movie: ‘A24 Does Not And Cannot Have Any Exclusive Rights’",
+      "url": "https://kotaku.com/scp-foundation-pushes-back-on-backrooms-studios-new-v-h-s-scp-movie-a24-does-not-and-cannot-have-any-exclusive-rights-2000733756",
+      "canonical": "kotaku.com/scp-foundation-pushes-back-on-backrooms-studios-new-v-h-s-scp-movie-a24-does-not-and-cannot-have-any-exclusive-rights-2000733756",
+      "published_dt": "2026-09-12T20:30:32+06:00",
+      "published_date": "2026-09-12T20:30:32+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "The SCP Foundation stated that A24 has 'not consulted or contacted' it about the planned V/H/S: SCP film, and asserts that anyone 'could upload a copy to YouTube' for free",
+      "image": "https://kotaku.com/app/uploads/2026/09/A24-official-logo-A24.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:05.476288+06:00",
+      "last_seen": "2026-09-12T22:46:05.476293+06:00"
+    },
+    "gamesradar.com/news/live/blizzcon-2026-everything-announced": {
+      "title": "BlizzCon 2026 Opening Ceremony live report – all the Blizzard news and announcements as they happen",
+      "url": "https://www.gamesradar.com/news/live/blizzcon-2026-everything-announced/",
+      "canonical": "gamesradar.com/news/live/blizzcon-2026-everything-announced",
+      "published_dt": "2026-09-12T21:28:18+06:00",
+      "published_date": "2026-09-12T21:28:18+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Discover what's next for StarCraft, Diablo, Overwatch, and World of Warcraft",
+      "image": "https://cdn.mos.cms.futurecdn.net/bqSr4k5YXwYnRHhAXyeRdN-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:05.817726+06:00",
+      "last_seen": "2026-09-12T22:46:05.817733+06:00"
+    },
+    "gamesradar.com/games/rpg/killing-the-blood-of-dawnwalkers-hardest-boss-extremely-early-gave-me-a-devastating-ability-that-carried-me-through-the-whole-rpg": {
+      "title": "Killing The Blood of Dawnwalker's hardest boss extremely early gave me a devastating ability that carried me through the whole RPG",
+      "url": "https://www.gamesradar.com/games/rpg/killing-the-blood-of-dawnwalkers-hardest-boss-extremely-early-gave-me-a-devastating-ability-that-carried-me-through-the-whole-rpg/",
+      "canonical": "gamesradar.com/games/rpg/killing-the-blood-of-dawnwalkers-hardest-boss-extremely-early-gave-me-a-devastating-ability-that-carried-me-through-the-whole-rpg",
+      "published_dt": "2026-09-12T20:00:00+06:00",
+      "published_date": "2026-09-12T20:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Getting Blood Surge early is a happy accident I will not apologize for",
+      "image": "https://cdn.mos.cms.futurecdn.net/cMaAZ8TQB8E2P2XYjsEYZL-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:05.817896+06:00",
+      "last_seen": "2026-09-12T22:46:05.817901+06:00"
+    },
+    "insider-gaming.com/nyt-strands-923-hints-answers-september-12-2026": {
+      "title": "NYT Strands #923 Hints and Answers for September 12",
+      "url": "https://insider-gaming.com/nyt-strands-923-hints-answers-september-12-2026/",
+      "canonical": "insider-gaming.com/nyt-strands-923-hints-answers-september-12-2026",
+      "published_dt": "2026-09-12T22:16:39+06:00",
+      "published_date": "2026-09-12T22:16:39+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Looking for today’s NYT Strands answers? Get Game #923’s theme, helpful clue words, spangram and complete solution for September 12, 2026. The post NYT Strands #923 Hints and Answers for September 12 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:07.107952+06:00",
+      "last_seen": "2026-09-12T22:46:07.107958+06:00"
+    },
+    "insider-gaming.com/fortnite-original-footage": {
+      "title": "Early Gameplay Footage of Fortnite Surfaces Online 14 Years Later",
+      "url": "https://insider-gaming.com/fortnite-original-footage/",
+      "canonical": "insider-gaming.com/fortnite-original-footage",
+      "published_dt": "2026-09-12T21:48:28+06:00",
+      "published_date": "2026-09-12T21:48:28+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Some of the first gameplay footage of Fortnite has surfaced online from a behind-closed-doors event at Comic-Con in 2012. The post Early Gameplay Footage of Fortnite Surfaces Online 14 Years Later appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:07.108237+06:00",
+      "last_seen": "2026-09-12T22:46:07.108242+06:00"
+    },
+    "pushsquare.com/features/poll-are-you-hyped-for-these-10-new-ps-plus-games1": {
+      "title": "Poll: Are You Hyped for These 10 New PS Plus Games?",
+      "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-these-10-new-ps-plus-games1",
+      "canonical": "pushsquare.com/features/poll-are-you-hyped-for-these-10-new-ps-plus-games1",
+      "published_dt": "2026-09-12T22:00:00+06:00",
+      "published_date": "2026-09-12T22:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Plus or minus? 10 new games are being added across PS Plus Extra and PS Plus Premium this month, but compared to August's super strong offering , I can see September's lineup being met with some criticism. Honestly I'm not quite sure what the headline act is for Extra this time around. Co-op survival RPG RuneScape: Dragonwilds launches straight onto the subscription service — and it's highly rated on PC — but I can't see it appealing to everyone. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/698f67f39a2ab/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:07.629310+06:00",
+      "last_seen": "2026-09-12T22:46:07.629317+06:00"
+    },
+    "purexbox.com/features/poll-which-xbox-startup-animation-will-you-pick-in-the-new-console-update": {
+      "title": "Poll: Which Xbox Startup Animation Will You Pick In The New Console Update?",
+      "url": "https://www.purexbox.com/features/poll-which-xbox-startup-animation-will-you-pick-in-the-new-console-update",
+      "canonical": "purexbox.com/features/poll-which-xbox-startup-animation-will-you-pick-in-the-new-console-update",
+      "published_dt": "2026-09-12T21:00:00+06:00",
+      "published_date": "2026-09-12T21:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "It's with Insiders right now, but will soon become totally public. As we covered earlier this week, the latest major console update for Xbox Insiders includes a bunch of cool new features, highlighted by the ability to choose from a series of startup animations from across the Xbox One and Xbox Series X|S eras. You've got the standard Xbox One animation, the special Xbox One X animation, the Xbox Series X and S animation that was used until this year, and then the new \"We are XBOX\" animation that debuted a few months ago as the new default. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/7fcd6713a86f0/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:07.996239+06:00",
+      "last_seen": "2026-09-12T22:46:07.996245+06:00"
+    },
+    "escapistmagazine.com/ubisoft-connect-services-test": {
+      "title": "Prince of Persia: The Lost Crown Leads Ubisoft’s Steam Test",
+      "url": "https://www.escapistmagazine.com/ubisoft-connect-services-test/",
+      "canonical": "escapistmagazine.com/ubisoft-connect-services-test",
+      "published_dt": "2026-09-12T22:00:00+06:00",
+      "published_date": "2026-09-12T22:00:00+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "Ubisoft Connect Services is being tested in Prince of Persia: The Lost Crown, keeping key features while removing the separate launcher. The post Prince of Persia: The Lost Crown Leads Ubisoft’s Steam Test appeared first on The Escapist .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-12T22:46:08.793199+06:00",
+      "last_seen": "2026-09-12T22:46:08.793206+06:00"
     }
   },
   "events": {
@@ -15524,6 +15929,271 @@
           "headline": "Xbox’s Bold Bet on Kojima’s Physint May Redefine Console Wars",
           "claims": [
             "Physint hijack could be Xbox’s biggest gamble yet"
+          ]
+        }
+      ]
+    },
+    "evt_0136ca1e20061e": {
+      "event_id": "evt_0136ca1e20061e",
+      "event_key": "blizzcon 2026 opening ceremony",
+      "event_subject": "BlizzCon 2026",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blizzcon 2026 opening ceremony",
+        "subject": "BlizzCon 2026",
+        "event_type": "other",
+        "action": "opening ceremony",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Blizzard Entertainment",
+        "target": "attendees",
+        "platforms": [],
+        "topic": "industry event"
+      },
+      "sources": [
+        "IGN",
+        "GamesRadar+",
+        "PC Gamer"
+      ],
+      "event_sources": [
+        "IGN",
+        "GamesRadar+",
+        "PC Gamer"
+      ],
+      "claims": [
+        "BlizzCon 2026 opening ceremony live coverage",
+        "BlizzCon 2026 opening ceremony live report – all the Blizzard news and announcements as they happen",
+        "BlizzCon 2026 opening ceremony live coverage and how to watch—what's next for Warcraft, Overwatch, Diablo, and StarCraft"
+      ],
+      "importance_score": 49,
+      "coverage_score": 10,
+      "originality_score": 10,
+      "significance_score": 10,
+      "freshness_score": 10,
+      "source_trust_score": 9,
+      "headline": "BlizzCon 2026 Opening Promises Major Warcraft, Diablo, StarCraft Announcements",
+      "summary": "Blizzard's live opening ceremony will feature President Johanna Faries and franchise heads unveiling new content for Warcraft, Diablo, StarCraft and Overwatch amid fresh rumors.",
+      "published_at": "2026-09-12T22:00:29+06:00",
+      "selected_at": "2026-09-12T17:00:37.784674+00:00",
+      "status": "published",
+      "message_id": 245,
+      "published_versions": [
+        {
+          "published_at": "2026-09-12T17:00:37.784674+00:00",
+          "headline": "BlizzCon 2026 Opening Promises Major Warcraft, Diablo, StarCraft Announcements",
+          "claims": [
+            "BlizzCon 2026 opening ceremony live coverage",
+            "BlizzCon 2026 opening ceremony live report – all the Blizzard news and announcements as they happen",
+            "BlizzCon 2026 opening ceremony live coverage and how to watch—what's next for Warcraft, Overwatch, Diablo, and StarCraft"
+          ]
+        }
+      ]
+    },
+    "evt_f72ee2eb420836": {
+      "event_id": "evt_f72ee2eb420836",
+      "event_key": "wardogs launch sales",
+      "event_subject": "Wardogs",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "wardogs launch sales",
+        "subject": "Wardogs",
+        "event_type": "other",
+        "action": "sell over 1 million copies",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Wardogs",
+        "franchise": "Wardogs",
+        "institution": "Bulkhead Studios",
+        "target": "players",
+        "platforms": [
+          "Steam"
+        ],
+        "topic": "sales"
+      },
+      "sources": [
+        "Eurogamer"
+      ],
+      "event_sources": [
+        "Eurogamer"
+      ],
+      "claims": [
+        "Wardogs sells over a million copies and hits 350k concurrent players on launch day"
+      ],
+      "importance_score": 49,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 14,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Wardogs sells over a million copies and hits 350,000 concurrent players on launch day",
+      "summary": "Derby‑based studio Bulkhead’s tactical shooter Wardogs moved more than a million units and saw 350,000 players online within hours of its Steam early‑access debut.",
+      "published_at": "2026-09-12T21:43:49+06:00",
+      "selected_at": "2026-09-12T17:00:43.201608+00:00",
+      "status": "published",
+      "message_id": 246,
+      "published_versions": [
+        {
+          "published_at": "2026-09-12T17:00:43.201608+00:00",
+          "headline": "Wardogs sells over a million copies and hits 350,000 concurrent players on launch day",
+          "claims": [
+            "Wardogs sells over a million copies and hits 350k concurrent players on launch day"
+          ]
+        }
+      ]
+    },
+    "evt_1839990b5e0f87": {
+      "event_id": "evt_1839990b5e0f87",
+      "event_key": "ff14 beastmaster bug fix",
+      "event_subject": "Square Enix",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ff14 beastmaster bug fix",
+        "subject": "Square Enix",
+        "event_type": "other",
+        "action": "patch server crash bug",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Final Fantasy XIV",
+        "franchise": "Final Fantasy",
+        "institution": "Square Enix",
+        "target": "servers",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "technical"
+      },
+      "sources": [
+        "PC Gamer"
+      ],
+      "event_sources": [
+        "PC Gamer"
+      ],
+      "claims": [
+        "Square Enix scrambles to fix FF14 bug where new beastmaster could crash entire servers",
+        "Final Fantasy 14's funky new roguelike mode has me hyped for Evercold's combat revamp"
+      ],
+      "importance_score": 43,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 13,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Square Enix patches beastmaster bug that could crash Final Fantasy 14 servers",
+      "summary": "A server‑crashing bug tied to the new beastmaster class was fixed on Sep 8, preventing crashes when pets restore the master’s HP during a disconnect.",
+      "published_at": "2026-09-12T21:23:03+06:00",
+      "selected_at": "2026-09-12T17:00:48.087744+00:00",
+      "status": "published",
+      "message_id": 247,
+      "published_versions": [
+        {
+          "published_at": "2026-09-12T17:00:48.087744+00:00",
+          "headline": "Square Enix patches beastmaster bug that could crash Final Fantasy 14 servers",
+          "claims": [
+            "Square Enix scrambles to fix FF14 bug where new beastmaster could crash entire servers",
+            "Final Fantasy 14's funky new roguelike mode has me hyped for Evercold's combat revamp"
+          ]
+        }
+      ]
+    },
+    "evt_b632097100f0cd": {
+      "event_id": "evt_b632097100f0cd",
+      "event_key": "guns of eschaton announcement",
+      "event_subject": "Guns of Eschaton",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "guns of eschaton announcement",
+        "subject": "Guns of Eschaton",
+        "event_type": "announcement",
+        "action": "reveal upcoming game",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Guns of Eschaton",
+        "franchise": "Guns of Eschaton",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "preview"
+      },
+      "sources": [
+        "Polygon"
+      ],
+      "event_sources": [
+        "Polygon"
+      ],
+      "claims": [
+        "The ‘World’s First Soulslike FPS’ Is a Brutally Fun Take On the Apocalypse"
+      ],
+      "importance_score": 40,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 10,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Guns of Eschaton Promises the First Soulslike FPS Experience",
+      "summary": "The upcoming apocalyptic shooter blends Western gunplay with precise weak‑point targeting, delivering a reactive, punishing gameplay loop for FPS fans.",
+      "published_at": "2026-09-12T21:01:13+06:00",
+      "selected_at": "2026-09-12T17:00:53.037654+00:00",
+      "status": "published",
+      "message_id": 248,
+      "published_versions": [
+        {
+          "published_at": "2026-09-12T17:00:53.037654+00:00",
+          "headline": "Guns of Eschaton Promises the First Soulslike FPS Experience",
+          "claims": [
+            "The ‘World’s First Soulslike FPS’ Is a Brutally Fun Take On the Apocalypse"
+          ]
+        }
+      ]
+    },
+    "evt_1ef331ce89f906": {
+      "event_id": "evt_1ef331ce89f906",
+      "event_key": "moss developer closure",
+      "event_subject": "Studio",
+      "event_type": "closure",
+      "event_frame": {
+        "event_key": "moss developer closure",
+        "subject": "Studio",
+        "event_type": "closure",
+        "action": "shut down",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Moss",
+        "franchise": "Moss",
+        "institution": "PlayStation Studios",
+        "target": "studio",
+        "platforms": [],
+        "topic": "industry"
+      },
+      "sources": [
+        "Kotaku"
+      ],
+      "event_sources": [
+        "Kotaku"
+      ],
+      "claims": [
+        "studio shuts down after 12 years"
+      ],
+      "importance_score": 38,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Polyarc Shuts Down After 12 Years of PSVR Success",
+      "summary": "Polyarc, the studio behind the award‑winning Moss VR series, announced its closure, citing a shrinking virtual reality market.",
+      "published_at": "2026-09-12T22:41:30+06:00",
+      "selected_at": "2026-09-12T17:00:57.862768+00:00",
+      "status": "published",
+      "message_id": 249,
+      "published_versions": [
+        {
+          "published_at": "2026-09-12T17:00:57.862768+00:00",
+          "headline": "Polyarc Shuts Down After 12 Years of PSVR Success",
+          "claims": [
+            "studio shuts down after 12 years"
           ]
         }
       ]
@@ -38494,6 +39164,925 @@
         "total": 33
       },
       "last_seen": "2026-09-12T19:54:28.884813+06:00"
+    },
+    "evt_e5124df1b5a8aa": {
+      "event_id": "evt_e5124df1b5a8aa",
+      "event_key": "no man s sky space building feature",
+      "event_subject": "No Man’s Sky",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "no man s sky space building feature",
+        "subject": "No Man’s Sky",
+        "event_type": "other",
+        "action": "enable space building",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "No Man’s Sky",
+        "franchise": "No Man’s Sky",
+        "institution": "Hello Games",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "game update"
+      },
+      "modality": "unknown",
+      "topic": "game update",
+      "institution": "Hello Games",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "No Man’s Sky finally lets players build in space"
+      ],
+      "importance_score": 41,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 41
+      },
+      "last_seen": "2026-09-12T22:50:15.973725+06:00"
+    },
+    "evt_f72ee2eb420836": {
+      "event_id": "evt_f72ee2eb420836",
+      "event_key": "wardogs launch sales",
+      "event_subject": "Wardogs",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "wardogs launch sales",
+        "subject": "Wardogs",
+        "event_type": "other",
+        "action": "sell over 1 million copies",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Wardogs",
+        "franchise": "Wardogs",
+        "institution": "Bulkhead Studios",
+        "target": "players",
+        "platforms": [
+          "Steam"
+        ],
+        "topic": "sales"
+      },
+      "modality": "unknown",
+      "topic": "sales",
+      "institution": "Bulkhead Studios",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Wardogs sells over a million copies and hits 350k concurrent players on launch day"
+      ],
+      "importance_score": 49,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 49
+      },
+      "last_seen": "2026-09-12T22:50:15.973746+06:00"
+    },
+    "evt_1839990b5e0f87": {
+      "event_id": "evt_1839990b5e0f87",
+      "event_key": "ff14 beastmaster bug fix",
+      "event_subject": "Square Enix",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ff14 beastmaster bug fix",
+        "subject": "Square Enix",
+        "event_type": "other",
+        "action": "patch server crash bug",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Final Fantasy XIV",
+        "franchise": "Final Fantasy",
+        "institution": "Square Enix",
+        "target": "servers",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "technical"
+      },
+      "modality": "unknown",
+      "topic": "technical",
+      "institution": "Square Enix",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Square Enix scrambles to fix FF14 bug where new beastmaster could crash entire servers",
+        "Final Fantasy 14's funky new roguelike mode has me hyped for Evercold's combat revamp"
+      ],
+      "importance_score": 43,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 43
+      },
+      "last_seen": "2026-09-12T22:50:15.973753+06:00"
+    },
+    "evt_d2cf19b537bedc": {
+      "event_id": "evt_d2cf19b537bedc",
+      "event_key": "zelda 40th anniversary switch2 sellout scalping",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "zelda 40th anniversary switch2 sellout scalping",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "sell out preorders",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "The Legend of Zelda 40th Anniversary Switch 2",
+        "franchise": "The Legend of Zelda",
+        "institution": "Nintendo",
+        "target": "consumers",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "market"
+      },
+      "modality": "unknown",
+      "topic": "market",
+      "institution": "Nintendo",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Scalpers are already reselling the sold-out Zelda 40th Anniversary Switch 2 for £700+"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-12T22:50:15.973757+06:00"
+    },
+    "evt_371b4bacdd052d": {
+      "event_id": "evt_371b4bacdd052d",
+      "event_key": "starfinder afterlight kickstarter update",
+      "event_subject": "Starfinder: Afterlight",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "starfinder afterlight kickstarter update",
+        "subject": "Starfinder: Afterlight",
+        "event_type": "other",
+        "action": "report progress",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "Starfinder: Afterlight",
+        "franchise": "Starfinder: Afterlight",
+        "institution": "",
+        "target": "backers",
+        "platforms": [],
+        "topic": "development"
+      },
+      "modality": "unknown",
+      "topic": "development",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Starfinder: Afterlight, a CRPG, is starting to look ship-shape after Kickstarter success"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-12T22:50:15.973761+06:00"
+    },
+    "evt_c2381947bafe91": {
+      "event_id": "evt_c2381947bafe91",
+      "event_key": "prince of persia the lost crown steam test",
+      "event_subject": "Prince of Persia: The Lost Crown",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "prince of persia the lost crown steam test",
+        "subject": "Prince of Persia: The Lost Crown",
+        "event_type": "other",
+        "action": "lead Ubisoft Steam test",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "Prince of Persia: The Lost Crown",
+        "franchise": "Prince of Persia",
+        "institution": "Ubisoft",
+        "target": "Steam users",
+        "platforms": [
+          "Steam"
+        ],
+        "topic": "distribution"
+      },
+      "modality": "unknown",
+      "topic": "distribution",
+      "institution": "Ubisoft",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Prince of Persia: The Lost Crown leads Ubisoft’s Steam test"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 38
+      },
+      "last_seen": "2026-09-12T22:50:15.973765+06:00"
+    },
+    "evt_1ef331ce89f906": {
+      "event_id": "evt_1ef331ce89f906",
+      "event_key": "moss developer closure",
+      "event_subject": "Studio",
+      "event_type": "closure",
+      "event_frame": {
+        "event_key": "moss developer closure",
+        "subject": "Studio",
+        "event_type": "closure",
+        "action": "shut down",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Moss",
+        "franchise": "Moss",
+        "institution": "PlayStation Studios",
+        "target": "studio",
+        "platforms": [],
+        "topic": "industry"
+      },
+      "modality": "unknown",
+      "topic": "industry",
+      "institution": "PlayStation Studios",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "studio shuts down after 12 years"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 38
+      },
+      "last_seen": "2026-09-12T22:50:15.973769+06:00"
+    },
+    "evt_0136ca1e20061e": {
+      "event_id": "evt_0136ca1e20061e",
+      "event_key": "blizzcon 2026 opening ceremony",
+      "event_subject": "BlizzCon 2026",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blizzcon 2026 opening ceremony",
+        "subject": "BlizzCon 2026",
+        "event_type": "other",
+        "action": "opening ceremony",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Blizzard Entertainment",
+        "target": "attendees",
+        "platforms": [],
+        "topic": "industry event"
+      },
+      "modality": "unknown",
+      "topic": "industry event",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "IGN",
+        "GamesRadar+",
+        "PC Gamer"
+      ],
+      "source_count": 3,
+      "independent_source_count": 3,
+      "claims": [
+        "BlizzCon 2026 opening ceremony live coverage",
+        "BlizzCon 2026 opening ceremony live report – all the Blizzard news and announcements as they happen",
+        "BlizzCon 2026 opening ceremony live coverage and how to watch—what's next for Warcraft, Overwatch, Diablo, and StarCraft"
+      ],
+      "importance_score": 49,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 10,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 49
+      },
+      "last_seen": "2026-09-12T22:50:15.973772+06:00"
+    },
+    "evt_b632097100f0cd": {
+      "event_id": "evt_b632097100f0cd",
+      "event_key": "guns of eschaton announcement",
+      "event_subject": "Guns of Eschaton",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "guns of eschaton announcement",
+        "subject": "Guns of Eschaton",
+        "event_type": "announcement",
+        "action": "reveal upcoming game",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Guns of Eschaton",
+        "franchise": "Guns of Eschaton",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "preview"
+      },
+      "modality": "unknown",
+      "topic": "preview",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The ‘World’s First Soulslike FPS’ Is a Brutally Fun Take On the Apocalypse"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-09-12T22:50:15.973776+06:00"
+    },
+    "evt_2eed852e6f54c9": {
+      "event_id": "evt_2eed852e6f54c9",
+      "event_key": "gta london 1961 release",
+      "event_subject": "GTA: London 1961",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "gta london 1961 release",
+        "subject": "GTA: London 1961",
+        "event_type": "release",
+        "action": "launch mod/content",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Grand Theft Auto: London 1961",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar Games",
+        "target": "players",
+        "platforms": [],
+        "topic": "game content"
+      },
+      "modality": "unknown",
+      "topic": "game content",
+      "institution": "Rockstar Games",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "GTA: London 1961 is full of cockney innuendo and harder than a bobby’s helmet"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-09-12T22:50:15.973779+06:00"
+    },
+    "evt_d3d157774f65c7": {
+      "event_id": "evt_d3d157774f65c7",
+      "event_key": "level 5 ai use apology",
+      "event_subject": "Level-5",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "level 5 ai use apology",
+        "subject": "Level-5",
+        "event_type": "other",
+        "action": "address backlash",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Level-5",
+        "target": "generative AI usage",
+        "platforms": [],
+        "topic": "technology"
+      },
+      "modality": "unknown",
+      "topic": "technology",
+      "institution": "Level-5",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Level-5 apologizes for AI use after fan backlash"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-09-12T22:50:15.973783+06:00"
+    },
+    "evt_5cc36e491c5bfe": {
+      "event_id": "evt_5cc36e491c5bfe",
+      "event_key": "fortnite early 2012 footage release",
+      "event_subject": "Fortnite",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fortnite early 2012 footage release",
+        "subject": "Fortnite",
+        "event_type": "other",
+        "action": "publish early gameplay footage",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Fortnite",
+        "franchise": "Fortnite",
+        "institution": "Epic Games",
+        "target": "fans",
+        "platforms": [],
+        "topic": "history"
+      },
+      "modality": "unknown",
+      "topic": "history",
+      "institution": "Epic Games",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Early gameplay footage of Fortnite surfaces online 14 years later"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 40
+      },
+      "last_seen": "2026-09-12T22:50:15.973787+06:00"
+    },
+    "evt_3320d8ce92d04c": {
+      "event_id": "evt_3320d8ce92d04c",
+      "event_key": "dragon quest monsters withered world preview",
+      "event_subject": "Square Enix",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "dragon quest monsters withered world preview",
+        "subject": "Square Enix",
+        "event_type": "other",
+        "action": "show early gameplay",
+        "status": "previewed",
+        "modality": "unknown",
+        "game": "Dragon Quest Monsters: The Withered World",
+        "franchise": "Dragon Quest Monsters",
+        "institution": "Square Enix",
+        "target": "players",
+        "platforms": [],
+        "topic": "preview"
+      },
+      "modality": "unknown",
+      "topic": "preview",
+      "institution": "Square Enix",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Dragon Quest Monsters: The Withered World has 500 beasts to collect, previewed by IGN"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-09-12T22:50:15.973790+06:00"
+    },
+    "evt_24b6c560e9c6f4": {
+      "event_id": "evt_24b6c560e9c6f4",
+      "event_key": "psplus september 2026 poll",
+      "event_subject": "PlayStation Plus",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "psplus september 2026 poll",
+        "subject": "PlayStation Plus",
+        "event_type": "other",
+        "action": "gauge hype",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Sony",
+        "target": "subscribers",
+        "platforms": [],
+        "topic": "service"
+      },
+      "modality": "unknown",
+      "topic": "service",
+      "institution": "Sony",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Poll: Are you hyped for these 10 new PS Plus games?"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-12T22:50:15.973794+06:00"
+    },
+    "evt_89e7ebfdd2e375": {
+      "event_id": "evt_89e7ebfdd2e375",
+      "event_key": "xbox startup animation poll",
+      "event_subject": "Xbox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox startup animation poll",
+        "subject": "Xbox",
+        "event_type": "other",
+        "action": "choose startup animation",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "Xbox Insiders",
+        "platforms": [],
+        "topic": "feature"
+      },
+      "modality": "unknown",
+      "topic": "feature",
+      "institution": "Microsoft",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Poll: Which Xbox Startup Animation Will You Pick In The New Console Update?"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-12T22:50:15.973797+06:00"
+    },
+    "evt_1962f77417f058": {
+      "event_id": "evt_1962f77417f058",
+      "event_key": "blood of dawnwalker review",
+      "event_subject": "Blood of Dawnwalker",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "blood of dawnwalker review",
+        "subject": "Blood of Dawnwalker",
+        "event_type": "review",
+        "action": "evaluate game",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Blood of Dawnwalker",
+        "franchise": "Blood of Dawnwalker",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "review"
+      },
+      "modality": "unknown",
+      "topic": "review",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The Blood of Dawnwalker is a good game, but one change would make it a great RPG"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-12T22:50:15.973801+06:00"
+    },
+    "evt_29c9482a176970": {
+      "event_id": "evt_29c9482a176970",
+      "event_key": "blood of dawnwalker boss tip",
+      "event_subject": "Blood of Dawnwalker",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blood of dawnwalker boss tip",
+        "subject": "Blood of Dawnwalker",
+        "event_type": "other",
+        "action": "share boss kill strategy",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Blood of Dawnwalker",
+        "franchise": "Blood of Dawnwalker",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "strategy"
+      },
+      "modality": "unknown",
+      "topic": "strategy",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Killing The Blood of Dawnwalker's hardest boss early gave me a devastating ability"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-09-12T22:50:15.973804+06:00"
+    },
+    "evt_b130756cb681cb": {
+      "event_id": "evt_b130756cb681cb",
+      "event_key": "scp foundation statement vhs scp film",
+      "event_subject": "SCP Foundation",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "scp foundation statement vhs scp film",
+        "subject": "SCP Foundation",
+        "event_type": "other",
+        "action": "push back on film rights claim",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "SCP Foundation",
+        "target": "A24",
+        "platforms": [],
+        "topic": "legal"
+      },
+      "modality": "unknown",
+      "topic": "legal",
+      "institution": "SCP Foundation",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "SCP Foundation pushes back on Backrooms Studio’s new V/H/S: SCP movie rights claim"
+      ],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-09-12T22:50:15.973808+06:00"
+    },
+    "evt_ad674d26939932": {
+      "event_id": "evt_ad674d26939932",
+      "event_key": "nyt strands september 2026 release",
+      "event_subject": "NYT Strands",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nyt strands september 2026 release",
+        "subject": "NYT Strands",
+        "event_type": "other",
+        "action": "publish hints and answers",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "The New York Times",
+        "target": "puzzle community",
+        "platforms": [],
+        "topic": "puzzle"
+      },
+      "modality": "unknown",
+      "topic": "puzzle",
+      "institution": "The New York Times",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "NYT Strands #923 hints and answers released for September 12, 2026"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 36
+      },
+      "last_seen": "2026-09-12T22:50:15.973811+06:00"
+    },
+    "evt_28406021b5375a": {
+      "event_id": "evt_28406021b5375a",
+      "event_key": "disney animation attraction preview",
+      "event_subject": "Walt Disney World",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "disney animation attraction preview",
+        "subject": "Walt Disney World",
+        "event_type": "other",
+        "action": "show early look",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Walt Disney World",
+        "target": "visitors",
+        "platforms": [],
+        "topic": "theme park"
+      },
+      "modality": "unknown",
+      "topic": "theme park",
+      "institution": "Walt Disney World",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The Magic of Disney Animation proves Walt Disney World’s mission of thoughtfully updating its historical attractions is working"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-12T22:50:15.973815+06:00"
+    },
+    "evt_9d7705de949144": {
+      "event_id": "evt_9d7705de949144",
+      "event_key": "anne hathaway next movie",
+      "event_subject": "Anne Hathaway",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "anne hathaway next movie",
+        "subject": "Anne Hathaway",
+        "event_type": "announcement",
+        "action": "announce upcoming thriller",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "audience",
+        "platforms": [],
+        "topic": "film"
+      },
+      "modality": "unknown",
+      "topic": "film",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Anne Hathaway's next movie might just be the sexiest thriller of 2026"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-09-12T22:50:15.973818+06:00"
+    },
+    "evt_e578969a7a5b49": {
+      "event_id": "evt_e578969a7a5b49",
+      "event_key": "na hong jin hope film interview",
+      "event_subject": "Na Hong-jin",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "na hong jin hope film interview",
+        "subject": "Na Hong-jin",
+        "event_type": "other",
+        "action": "discuss film direction",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "film Hope",
+        "platforms": [],
+        "topic": "film"
+      },
+      "modality": "unknown",
+      "topic": "film",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Director Na Hong-jin explains shift to breakneck monster movie in Hope"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-09-12T22:50:15.973821+06:00"
     }
   },
   "posted_event_ids": [
@@ -38578,7 +40167,12 @@
     "evt_791270788a825b",
     "evt_041c90281ea072",
     "evt_5fe121da8f7c70",
-    "evt_7be7bb19abef11"
+    "evt_7be7bb19abef11",
+    "evt_0136ca1e20061e",
+    "evt_f72ee2eb420836",
+    "evt_1839990b5e0f87",
+    "evt_b632097100f0cd",
+    "evt_1ef331ce89f906"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -38662,10 +40256,15 @@
     "melty blood twi lumina set for multi platform launch on april 22 2027",
     "vr studio polyarc shuts down after 12 years of moss success",
     "fallout new vegas remaster turns nightmarish after multiple dlss 5 passes",
-    "xbox s bold bet on kojima s physint may redefine console wars"
+    "xbox s bold bet on kojima s physint may redefine console wars",
+    "blizzcon 2026 opening promises major warcraft diablo starcraft announcements",
+    "wardogs sells over a million copies and hits 350 000 concurrent players on launch day",
+    "square enix patches beastmaster bug that could crash final fantasy 14 servers",
+    "guns of eschaton promises the first soulslike fps experience",
+    "polyarc shuts down after 12 years of psvr success"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-12T20:00:35.715684+06:00",
+    "Game Updates": "2026-09-12T23:00:57.862786+06:00",
     "Major Releases": "2026-09-11T21:15:22.485969+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
