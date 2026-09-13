@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"22019-xf1i2xuY4FSF5Ql56s12XPIJ/r0\"",
+      "etag": "W/\"1fffa-MXnm7/VBUDcdozrwiKDD7ekuwp0\"",
       "last_modified": null,
-      "last_checked": "2026-09-13T21:39:18.632227+06:00",
+      "last_checked": "2026-09-14T00:33:03.903674+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-13T21:39:18.952465+06:00",
+      "last_checked": "2026-09-14T00:33:04.098201+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aa6c2a7-a27\"",
-      "last_modified": "Sun, 13 Sep 2026 15:35:03 GMT",
-      "last_checked": "2026-09-13T21:39:19.292672+06:00",
+      "etag": "\"6aa6ebab-a26\"",
+      "last_modified": "Sun, 13 Sep 2026 18:30:03 GMT",
+      "last_checked": "2026-09-14T00:33:04.438242+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Sun, 13 Sep 2026 15:32:39 GMT",
-      "last_checked": "2026-09-13T21:39:20.084621+06:00",
+      "last_checked": "2026-09-14T00:33:04.954742+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6aa6b024-1208\"",
-      "last_modified": "Sun, 13 Sep 2026 14:16:04 GMT",
-      "last_checked": "2026-09-13T21:39:20.465309+06:00",
+      "etag": "\"6aa6e771-115e\"",
+      "last_modified": "Sun, 13 Sep 2026 18:12:01 GMT",
+      "last_checked": "2026-09-14T00:33:05.159862+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-13T21:39:20.851964+06:00",
+      "last_checked": "2026-09-14T00:33:05.273178+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-13T21:39:21.527339+06:00",
+      "last_checked": "2026-09-14T00:33:06.036607+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"51aae4eb9621f856423b2064ea52d48d\"",
-      "last_modified": "Sun, 13 Sep 2026 15:17:53 GMT",
-      "last_checked": "2026-09-13T21:39:21.825447+06:00",
+      "etag": "W/\"47d88180e399dbe3166da929597fa0c2\"",
+      "last_modified": "Sun, 13 Sep 2026 17:48:01 GMT",
+      "last_checked": "2026-09-14T00:33:06.244001+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-13T21:39:22.089334+06:00",
+      "last_checked": "2026-09-14T00:33:06.544482+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Sun, 13 Sep 2026 11:07:13 GMT",
-      "last_checked": "2026-09-13T21:39:22.762613+06:00",
+      "last_modified": "Sun, 13 Sep 2026 16:58:27 GMT",
+      "last_checked": "2026-09-14T00:33:07.039046+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sun, 13 Sep 2026 15:39:23 GMT",
-      "last_checked": "2026-09-13T21:39:23.387347+06:00",
+      "last_modified": "Sun, 13 Sep 2026 18:33:07 GMT",
+      "last_checked": "2026-09-14T00:33:07.573286+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
       "etag": "W/\"27b8e04fb4b590efc154d4cb37a25473\"",
       "last_modified": "Sun, 13 Sep 2026 01:09:57 GMT",
-      "last_checked": "2026-09-13T21:39:23.883005+06:00",
+      "last_checked": "2026-09-14T00:33:08.012771+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-13T21:39:24.386812+06:00",
+      "last_checked": "2026-09-14T00:33:08.537703+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-13T21:39:25.033133+06:00",
+      "last_checked": "2026-09-14T00:33:09.102189+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-13T21:39:25.611005+06:00",
+      "last_checked": "2026-09-14T00:33:09.624042+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-13T21:39:25.907022+06:00",
-      "fail_count": 21,
+      "last_checked": "2026-09-14T00:33:09.977878+06:00",
+      "fail_count": 22,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"d1961815922886d4aa856c5ef5e3aac2\"",
       "last_modified": "Wed, 09 Sep 2026 20:15:08 GMT",
-      "last_checked": "2026-09-13T21:39:26.041238+06:00",
+      "last_checked": "2026-09-14T00:33:10.038859+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-13T21:39:26.220847+06:00",
+      "last_checked": "2026-09-14T00:33:10.115446+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-13T21:39:26.426739+06:00",
-      "fail_count": 21,
+      "last_checked": "2026-09-14T00:33:10.279066+06:00",
+      "fail_count": 22,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"4f051f35060bdf49a97d35b0c49882d7\"",
       "last_modified": "Sun, 13 Sep 2026 09:00:00 GMT",
-      "last_checked": "2026-09-13T21:39:26.603763+06:00",
+      "last_checked": "2026-09-14T00:33:10.411463+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -10342,6 +10342,329 @@
       "status": "pending",
       "first_seen": "2026-09-13T21:39:37.091943+06:00",
       "last_seen": "2026-09-13T21:39:37.091947+06:00"
+    },
+    "ign.com/articles/world-of-warcraft-forever-wow-2-unlikely": {
+      "title": "World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely",
+      "url": "https://www.ign.com/articles/world-of-warcraft-forever-wow-2-unlikely",
+      "canonical": "ign.com/articles/world-of-warcraft-forever-wow-2-unlikely",
+      "published_dt": "2026-09-14T00:11:54+06:00",
+      "published_date": "2026-09-14T00:11:54+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "World of Warcraft: Forever developers Kris Zierhut and Mike Nuthals detail the game's new features and explain why a WoW 2 sequel is unnecessary.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/13/blizzcon2026-blogroll-1789322991703.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-14T00:33:03.968268+06:00",
+      "last_seen": "2026-09-14T00:33:03.968275+06:00"
+    },
+    "gematsu.com/2026/09/the-legend-of-dark-witch-episode-2-the-price-of-desire-now-available-for-ps5": {
+      "title": "The Legend of Dark Witch Episode 2: The Price of Desire now available for PS5",
+      "url": "https://www.gematsu.com/2026/09/the-legend-of-dark-witch-episode-2-the-price-of-desire-now-available-for-ps5",
+      "canonical": "gematsu.com/2026/09/the-legend-of-dark-witch-episode-2-the-price-of-desire-now-available-for-ps5",
+      "published_dt": "2026-09-13T23:31:33+06:00",
+      "published_date": "2026-09-13T23:31:33+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Inside System has released a PlayStation 5 version of side-scrolling action game The Legend of …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-14T00:33:05.184174+06:00",
+      "last_seen": "2026-09-14T00:33:05.184180+06:00"
+    },
+    "pcgamer.com/games/rts/discussing-20-years-of-company-of-heroes-with-the-team-carrying-its-torch-into-the-future": {
+      "title": "Discussing 20 years of Company of Heroes with the team carrying its torch into the future",
+      "url": "https://www.pcgamer.com/games/rts/discussing-20-years-of-company-of-heroes-with-the-team-carrying-its-torch-into-the-future/",
+      "canonical": "pcgamer.com/games/rts/discussing-20-years-of-company-of-heroes-with-the-team-carrying-its-torch-into-the-future",
+      "published_dt": "2026-09-14T00:08:38+06:00",
+      "published_date": "2026-09-14T00:08:38+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "\"I'm really pleased that we're here, able to support the games, and able to celebrate this 20th anniversary.\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/XAgG5mMHfdYMaM9mjAc6fT-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-14T00:33:05.552815+06:00",
+      "last_seen": "2026-09-14T00:33:05.552821+06:00"
+    },
+    "pcgamer.com/gaming-industry/fallout-dev-tim-cain-says-the-games-industrys-volatility-is-always-gonna-be-around-whats-happening-now-isnt-novel-it-isnt-new": {
+      "title": "Fallout dev Tim Cain says the games industry's volatility is 'always gonna be around': 'What's happening now isn't novel, it isn't new'",
+      "url": "https://www.pcgamer.com/gaming-industry/fallout-dev-tim-cain-says-the-games-industrys-volatility-is-always-gonna-be-around-whats-happening-now-isnt-novel-it-isnt-new/",
+      "canonical": "pcgamer.com/gaming-industry/fallout-dev-tim-cain-says-the-games-industrys-volatility-is-always-gonna-be-around-whats-happening-now-isnt-novel-it-isnt-new",
+      "published_dt": "2026-09-13T23:42:45+06:00",
+      "published_date": "2026-09-13T23:42:45+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "\"Art and technology constantly changing makes the whole industry unstable.\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/8NaUUUYSKGJEUWdEkRLAoD-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-14T00:33:05.552965+06:00",
+      "last_seen": "2026-09-14T00:33:05.552969+06:00"
+    },
+    "pcgamer.com/software/platforms/youtuber-runs-onto-the-stage-at-roblox-developers-conference-shouting-we-deserve-better-gets-tackled-and-ejected-from-show": {
+      "title": "YouTuber runs onto the stage at Roblox Developers Conference shouting 'We deserve better,' gets tackled and ejected from show",
+      "url": "https://www.pcgamer.com/software/platforms/youtuber-runs-onto-the-stage-at-roblox-developers-conference-shouting-we-deserve-better-gets-tackled-and-ejected-from-show/",
+      "canonical": "pcgamer.com/software/platforms/youtuber-runs-onto-the-stage-at-roblox-developers-conference-shouting-we-deserve-better-gets-tackled-and-ejected-from-show",
+      "published_dt": "2026-09-13T22:19:36+06:00",
+      "published_date": "2026-09-13T22:19:36+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Mathieo shared the stunt online and explained his reasoning in a video.",
+      "image": "https://cdn.mos.cms.futurecdn.net/i8vYB5j3dqNTUo9uuovheN-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-14T00:33:05.553106+06:00",
+      "last_seen": "2026-09-14T00:33:05.553111+06:00"
+    },
+    "pcgamer.com/games/puzzle/my-favourite-soundtrack-of-2026-so-far-is-tucked-in-one-of-this-years-biggest-sleeper-hits": {
+      "title": "My favourite soundtrack of 2026 so far is tucked in one of this year's biggest sleeper hits",
+      "url": "https://www.pcgamer.com/games/puzzle/my-favourite-soundtrack-of-2026-so-far-is-tucked-in-one-of-this-years-biggest-sleeper-hits/",
+      "canonical": "pcgamer.com/games/puzzle/my-favourite-soundtrack-of-2026-so-far-is-tucked-in-one-of-this-years-biggest-sleeper-hits",
+      "published_dt": "2026-09-13T22:15:12+06:00",
+      "published_date": "2026-09-13T22:15:12+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Australian duo aksfx have created something truly special.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ejBk7QT7RWdtk9YUuFi945-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-14T00:33:05.553233+06:00",
+      "last_seen": "2026-09-14T00:33:05.553238+06:00"
+    },
+    "pcgamer.com/games/ive-got-a-soft-spot-for-cozy-games-with-flying-in-them-and-these-are-my-4-favorites": {
+      "title": "I've got a soft spot for cozy games with flying in them and these are my 4 favorites",
+      "url": "https://www.pcgamer.com/games/ive-got-a-soft-spot-for-cozy-games-with-flying-in-them-and-these-are-my-4-favorites/",
+      "canonical": "pcgamer.com/games/ive-got-a-soft-spot-for-cozy-games-with-flying-in-them-and-these-are-my-4-favorites",
+      "published_dt": "2026-09-13T22:00:00+06:00",
+      "published_date": "2026-09-13T22:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Let there be flight!",
+      "image": "https://cdn.mos.cms.futurecdn.net/idww9xVcbDqLKH8LyiLX7R-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-14T00:33:05.553384+06:00",
+      "last_seen": "2026-09-14T00:33:05.553389+06:00"
+    },
+    "pcgamer.com/games/survival-crafting/after-more-than-400-hours-of-valheim-in-early-access-i-love-the-journey-from-naked-adventurer-to-godly-viking-now-more-than-ever": {
+      "title": "After more than 400 hours of Valheim in early access, I love the journey from naked adventurer to godly Viking now more than ever",
+      "url": "https://www.pcgamer.com/games/survival-crafting/after-more-than-400-hours-of-valheim-in-early-access-i-love-the-journey-from-naked-adventurer-to-godly-viking-now-more-than-ever/",
+      "canonical": "pcgamer.com/games/survival-crafting/after-more-than-400-hours-of-valheim-in-early-access-i-love-the-journey-from-naked-adventurer-to-godly-viking-now-more-than-ever",
+      "published_dt": "2026-09-13T22:00:00+06:00",
+      "published_date": "2026-09-13T22:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "I threw out the whole Viking and started over from the beginning. I'm still not sick of it.",
+      "image": "https://cdn.mos.cms.futurecdn.net/pNKVZuBS8Mn4tpdLuTYSyM-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-14T00:33:05.553512+06:00",
+      "last_seen": "2026-09-14T00:33:05.553516+06:00"
+    },
+    "polygon.com/buddy-vs-death-to-smoochy": {
+      "title": "'Buddy' is Totally Bonkers, But it Will Never Eclipse My Favorite “I Hate Barney” Thriller",
+      "url": "https://www.polygon.com/buddy-vs-death-to-smoochy/",
+      "canonical": "polygon.com/buddy-vs-death-to-smoochy",
+      "published_dt": "2026-09-14T00:00:14+06:00",
+      "published_date": "2026-09-14T00:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The best anti-Barney movie isn't Buddy, its the 2002 comedy Death to Smoochy starring Robin Williams and Edward Norton with director Danny DeVito",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/image.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-14T00:33:06.046199+06:00",
+      "last_seen": "2026-09-14T00:33:06.046204+06:00"
+    },
+    "polygon.com/cyberpunk-edgerunners-overwatch": {
+      "title": "Cyberpunk: Edgerunners Is Overwatch's Next Big Anime Collaboration",
+      "url": "https://www.polygon.com/cyberpunk-edgerunners-overwatch/",
+      "canonical": "polygon.com/cyberpunk-edgerunners-overwatch",
+      "published_dt": "2026-09-13T23:28:43+06:00",
+      "published_date": "2026-09-13T23:28:43+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Cyberpunk 2077: Ultimate Edition will also come to Battle.net later this year",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/david-martinez-in-cyberpunk-edgerunners.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-14T00:33:06.046374+06:00",
+      "last_seen": "2026-09-14T00:33:06.046379+06:00"
+    },
+    "polygon.com/most-underrated-nintendo-gamecube-games": {
+      "title": "10 Near-Perfect GameCube Games Nobody Played",
+      "url": "https://www.polygon.com/most-underrated-nintendo-gamecube-games/",
+      "canonical": "polygon.com/most-underrated-nintendo-gamecube-games",
+      "published_dt": "2026-09-13T23:00:14+06:00",
+      "published_date": "2026-09-13T23:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The GameCube hosted an assortment of unique and rewarding games that didn't get the response they deserved.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/assets/4489221/gamecube-controller-photo_1280.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-14T00:33:06.046516+06:00",
+      "last_seen": "2026-09-14T00:33:06.046520+06:00"
+    },
+    "kotaku.com/world-of-warcraft-forever-alternate-universe-worth-exploring-2000733865": {
+      "title": "World Of Warcraft: Forever Is An Alternate Universe Worth Exploring",
+      "url": "https://kotaku.com/world-of-warcraft-forever-alternate-universe-worth-exploring-2000733865",
+      "canonical": "kotaku.com/world-of-warcraft-forever-alternate-universe-worth-exploring-2000733865",
+      "published_dt": "2026-09-13T23:40:26+06:00",
+      "published_date": "2026-09-13T23:40:26+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Season after season of discovery",
+      "image": "https://kotaku.com/app/uploads/2026/09/WoW-forever-5-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-14T00:33:06.255967+06:00",
+      "last_seen": "2026-09-14T00:33:06.255973+06:00"
+    },
+    "kotaku.com/anthropic-ceo-says-we-owe-it-to-humanity-to-try-to-prevent-an-ai-swarm-from-taking-over-the-internet-2000733980": {
+      "title": "Anthropic CEO Says ‘We Owe It To Humanity To Try’ To Prevent An AI Swarm From Taking Over The Internet",
+      "url": "https://kotaku.com/anthropic-ceo-says-we-owe-it-to-humanity-to-try-to-prevent-an-ai-swarm-from-taking-over-the-internet-2000733980",
+      "canonical": "kotaku.com/anthropic-ceo-says-we-owe-it-to-humanity-to-try-to-prevent-an-ai-swarm-from-taking-over-the-internet-2000733980",
+      "published_dt": "2026-09-13T22:30:14+06:00",
+      "published_date": "2026-09-13T22:30:14+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Anthropic’s CEO and co-founder, Dario Amodei, states that 'a team of embedded third-party evaluators' must be put in place to curb AI's development, or else an AI 'swarm' botnet will take over the entire internet in '6-12 months'",
+      "image": "https://kotaku.com/app/uploads/2026/09/terminator-2.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-14T00:33:06.256126+06:00",
+      "last_seen": "2026-09-14T00:33:06.256137+06:00"
+    },
+    "gamesradar.com/games/grand-theft-auto/rockstar-wants-gta-6s-jason-and-lucia-to-inspire-the-same-sort-of-emotional-connection-that-red-dead-redemption-2-fans-had-with-arthur": {
+      "title": "Rockstar wants GTA 6's Jason and Lucia to inspire the same sort of \"emotional connection\" that Red Dead Redemption 2 fans had with Arthur",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-wants-gta-6s-jason-and-lucia-to-inspire-the-same-sort-of-emotional-connection-that-red-dead-redemption-2-fans-had-with-arthur/",
+      "canonical": "gamesradar.com/games/grand-theft-auto/rockstar-wants-gta-6s-jason-and-lucia-to-inspire-the-same-sort-of-emotional-connection-that-red-dead-redemption-2-fans-had-with-arthur",
+      "published_dt": "2026-09-13T23:00:00+06:00",
+      "published_date": "2026-09-13T23:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"We wanted to see if we could bring some of those elements into GTA 6\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/oFV96Lzam6D6cjSoxVEn9h-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-14T00:33:06.791043+06:00",
+      "last_seen": "2026-09-14T00:33:06.791049+06:00"
+    },
+    "gamesradar.com/games/mass-effect/bioware-crunched-21-days-on-one-day-off-making-mass-effect-says-former-dev-that-was-really-really-hard-but-really-worth-it": {
+      "title": "BioWare crunched \"21 days on, one day off\" making Mass Effect, says former dev: \"That was really, really hard, but really worth it\"",
+      "url": "https://www.gamesradar.com/games/mass-effect/bioware-crunched-21-days-on-one-day-off-making-mass-effect-says-former-dev-that-was-really-really-hard-but-really-worth-it/",
+      "canonical": "gamesradar.com/games/mass-effect/bioware-crunched-21-days-on-one-day-off-making-mass-effect-says-former-dev-that-was-really-really-hard-but-really-worth-it",
+      "published_dt": "2026-09-13T22:00:00+06:00",
+      "published_date": "2026-09-13T22:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Cinematic designer Armando Troisi says the RPG was developed with \"a level of ambition that I think was just unheard of at the time\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/wUAo85wWFy5R6TmjmciXb3-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-14T00:33:06.791204+06:00",
+      "last_seen": "2026-09-14T00:33:06.791209+06:00"
+    },
+    "rockpapershotgun.com/moss-developer-polyarc-share-that-theyre-shutting-down-just-two-months-after-releasing-a-vr-less-port-of-the-beloved-mousey-adventure-games": {
+      "title": "Moss developer Polyarc share that they're shutting down just two months after releasing a VR-less port of the beloved mousey adventure games",
+      "url": "https://www.rockpapershotgun.com/moss-developer-polyarc-share-that-theyre-shutting-down-just-two-months-after-releasing-a-vr-less-port-of-the-beloved-mousey-adventure-games",
+      "canonical": "rockpapershotgun.com/moss-developer-polyarc-share-that-theyre-shutting-down-just-two-months-after-releasing-a-vr-less-port-of-the-beloved-mousey-adventure-games",
+      "published_dt": "2026-09-13T22:16:16+06:00",
+      "published_date": "2026-09-13T22:16:16+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "Another sad one today, unfortunately. Back in July, Polyarc released Moss: The Forgotten Relic, a new version of the original two games combined together that ditched its VR headset origins. Now, unfortunately, it sounds like the studio is shutting down, as the developer's LinkedIn page shared a message this week noting it's ending \"active development.\" Read more",
+      "image": "https://assetsio.gnwcdn.com/moss_ptJgWIk.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-14T00:33:07.142368+06:00",
+      "last_seen": "2026-09-14T00:33:07.142374+06:00",
+      "posted_at": "2026-09-14T00:35:40.039847+06:00"
+    },
+    "nintendolife.com/news/2026/09/diablo-iv-x-the-witcher-iii-wild-hunt-collab-unveiled-heres-a-first-look": {
+      "title": "Diablo IV x The Witcher III: Wild Hunt Collab Unveiled, Here's A First Look",
+      "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-x-the-witcher-iii-wild-hunt-collab-unveiled-heres-a-first-look",
+      "canonical": "nintendolife.com/news/2026/09/diablo-iv-x-the-witcher-iii-wild-hunt-collab-unveiled-heres-a-first-look",
+      "published_dt": "2026-09-13T23:00:00+06:00",
+      "published_date": "2026-09-13T23:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "As part of a new partnership between Blizzard & CD Projekt Red. At Gamescom this year, CD Projekt Red and Blizzard announced a partnership and teased some announcements. Now, at day two of BlizzCon 2026 this weekend, fans of these companies have got a first look at the Diablo IV x Witcher 3 collab. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/859a08ab4b3ec/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-14T00:33:08.557969+06:00",
+      "last_seen": "2026-09-14T00:33:08.557975+06:00",
+      "posted_at": "2026-09-14T00:35:34.358645+06:00"
+    },
+    "nintendolife.com/news/2026/09/melty-blood-twi-lumina-announced-for-switch-1-and-2-out-2027": {
+      "title": "Melty Blood: ﻿Twi-Lumina Announced For Switch 1 & 2, Out 2027",
+      "url": "https://www.nintendolife.com/news/2026/09/melty-blood-twi-lumina-announced-for-switch-1-and-2-out-2027",
+      "canonical": "nintendolife.com/news/2026/09/melty-blood-twi-lumina-announced-for-switch-1-and-2-out-2027",
+      "published_dt": "2026-09-13T22:00:00+06:00",
+      "published_date": "2026-09-13T22:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Update: April release confirmed in new trailer. : At EVO Japan this weekend, developer French Bread and publisher Aniplex lifted the lid on Melty Blood: Twi-Lumina with a special teaser trailer. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/de5898374613e/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-14T00:33:08.558384+06:00",
+      "last_seen": "2026-09-14T00:33:08.558390+06:00"
+    },
+    "escapistmagazine.com/blizzcon-2026-starcraft-diablo": {
+      "title": "BlizzCon 2026: StarCraft, Diablo 5, WoW Forever",
+      "url": "https://www.escapistmagazine.com/blizzcon-2026-starcraft-diablo/",
+      "canonical": "escapistmagazine.com/blizzcon-2026-starcraft-diablo",
+      "published_dt": "2026-09-13T22:00:00+06:00",
+      "published_date": "2026-09-13T22:00:00+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "posted",
+      "first_seen": "2026-09-14T00:33:15.659031+06:00",
+      "last_seen": "2026-09-14T00:33:15.659036+06:00",
+      "posted_at": "2026-09-14T00:35:28.652840+06:00"
+    },
+    "nintendolife.com/news/2026/09/diablo-iv-x-the-witcher-iii-wild-hunt-collab-unveiled": {
+      "title": "Diablo IV x The Witcher III: Wild Hunt Collab Unveiled | Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-x-the-witcher-iii-wild-hunt-collab-unveiled",
+      "canonical": "nintendolife.com/news/2026/09/diablo-iv-x-the-witcher-iii-wild-hunt-collab-unveiled",
+      "published_dt": "2026-09-13T23:00:00+06:00",
+      "published_date": "2026-09-13T23:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-09-14T00:33:15.659133+06:00",
+      "last_seen": "2026-09-14T00:33:15.659136+06:00"
     }
   },
   "events": {
@@ -15083,6 +15406,158 @@
           "published_at": "2026-09-13T15:40:41.335889+00:00",
           "headline": "Valve Labels Nighthawks Adults Only, Removing It From Steam Search",
           "claims": []
+        }
+      ]
+    },
+    "evt_21494931070481": {
+      "event_id": "evt_21494931070481",
+      "event_key": "blizzcon 2026 lineup preview starcraft diablo v wow forever",
+      "event_subject": "BlizzCon 2026",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blizzcon 2026 lineup preview starcraft diablo v wow forever",
+        "subject": "BlizzCon 2026",
+        "event_type": "other",
+        "action": "announce upcoming titles at convention",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "N/A",
+        "franchise": "Blizzard Entertainment",
+        "institution": "The Escapist",
+        "target": "fans",
+        "platforms": [],
+        "topic": "conference preview"
+      },
+      "sources": [
+        "The Escapist"
+      ],
+      "event_sources": [
+        "The Escapist"
+      ],
+      "claims": [
+        "StarCraft, Diablo V, WoW Forever featured"
+      ],
+      "importance_score": 61,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 35,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "BlizzCon 2026 Unveils Open‑World StarCraft, Diablo 5, and WoW Forever",
+      "summary": "Blizzard announced a new open‑world StarCraft shooter for 2030, surprise Diablo 5 for 2029, and WoW Forever launching November 4, reshaping its flagship franchises.",
+      "published_at": "2026-09-13T22:00:00+06:00",
+      "selected_at": "2026-09-13T18:35:28.652873+00:00",
+      "status": "published",
+      "message_id": 255,
+      "published_versions": [
+        {
+          "published_at": "2026-09-13T18:35:28.652873+00:00",
+          "headline": "BlizzCon 2026 Unveils Open‑World StarCraft, Diablo 5, and WoW Forever",
+          "claims": [
+            "StarCraft, Diablo V, WoW Forever featured"
+          ]
+        }
+      ]
+    },
+    "evt_797315ea064068": {
+      "event_id": "evt_797315ea064068",
+      "event_key": "blizzard cd projekt red partnership diablo iv witcher iii collab preview",
+      "event_subject": "Diablo IV × Witcher III",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blizzard cd projekt red partnership diablo iv witcher iii collab preview",
+        "subject": "Diablo IV × Witcher III",
+        "event_type": "other",
+        "action": "reveal first look at crossover content",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Diablo IV",
+        "franchise": "Diablo",
+        "institution": "Nintendo Life",
+        "target": "fans",
+        "platforms": [],
+        "topic": "crossover"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [
+        "collab unveiled at BlizzCon 2026",
+        "collab unveiled at BlizzCon 2026"
+      ],
+      "importance_score": 58,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 28,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Diablo IV × The Witcher III Collaboration Revealed with Geralt‑Style Barbarian Skin",
+      "summary": "At BlizzCon 2026, Blizzard and CD Projekt Red unveiled a Geralt‑style skin for Diablo IV’s Barbarian, available with the upcoming Witcher III expansion on Battle.net.",
+      "published_at": "2026-09-13T23:00:00+06:00",
+      "selected_at": "2026-09-13T18:35:34.358677+00:00",
+      "status": "published",
+      "message_id": 256,
+      "published_versions": [
+        {
+          "published_at": "2026-09-13T18:35:34.358677+00:00",
+          "headline": "Diablo IV × The Witcher III Collaboration Revealed with Geralt‑Style Barbarian Skin",
+          "claims": [
+            "collab unveiled at BlizzCon 2026",
+            "collab unveiled at BlizzCon 2026"
+          ]
+        }
+      ]
+    },
+    "evt_b5ee19a0409f54": {
+      "event_id": "evt_b5ee19a0409f54",
+      "event_key": "polyarc studio shutdown after moss the forgotten relic release",
+      "event_subject": "Polyarc",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "polyarc studio shutdown after moss the forgotten relic release",
+        "subject": "Polyarc",
+        "event_type": "other",
+        "action": "announce shutdown following non‑VR port release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Moss: The Forgotten Relic",
+        "franchise": "Moss",
+        "institution": "Rock Paper Shotgun",
+        "target": "players",
+        "platforms": [],
+        "topic": "studio closure"
+      },
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "event_sources": [
+        "Rock Paper Shotgun"
+      ],
+      "claims": [
+        "studio ending active development"
+      ],
+      "importance_score": 44,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 18,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Polyarc Announces Studio Closure Two Months After Non‑VR Release of Moss: The Forgotten Relic",
+      "summary": "Polyarc confirmed it will cease active development after releasing the VR‑less Moss: The Forgotten Relic, marking the end of the studio’s 12‑year run.",
+      "published_at": "2026-09-13T22:16:16+06:00",
+      "selected_at": "2026-09-13T18:35:40.039875+00:00",
+      "status": "published",
+      "message_id": 257,
+      "published_versions": [
+        {
+          "published_at": "2026-09-13T18:35:40.039875+00:00",
+          "headline": "Polyarc Announces Studio Closure Two Months After Non‑VR Release of Moss: The Forgotten Relic",
+          "claims": [
+            "studio ending active development"
+          ]
         }
       ]
     }
@@ -41495,6 +41970,751 @@
         "total": 28
       },
       "last_seen": "2026-09-13T21:39:43.417377+06:00"
+    },
+    "evt_21494931070481": {
+      "event_id": "evt_21494931070481",
+      "event_key": "blizzcon 2026 lineup preview starcraft diablo v wow forever",
+      "event_subject": "BlizzCon 2026",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blizzcon 2026 lineup preview starcraft diablo v wow forever",
+        "subject": "BlizzCon 2026",
+        "event_type": "other",
+        "action": "announce upcoming titles at convention",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "N/A",
+        "franchise": "Blizzard Entertainment",
+        "institution": "The Escapist",
+        "target": "fans",
+        "platforms": [],
+        "topic": "conference preview"
+      },
+      "modality": "unknown",
+      "topic": "conference preview",
+      "institution": "The Escapist",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "StarCraft, Diablo V, WoW Forever featured"
+      ],
+      "importance_score": 61,
+      "score_breakdown": {
+        "significance": 35,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 61
+      },
+      "last_seen": "2026-09-14T00:33:29.003206+06:00"
+    },
+    "evt_04c2090645bbcb": {
+      "event_id": "evt_04c2090645bbcb",
+      "event_key": "world of warcraft forever dev interview on sequel prospects",
+      "event_subject": "World of Warcraft: Forever",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "world of warcraft forever dev interview on sequel prospects",
+        "subject": "World of Warcraft: Forever",
+        "event_type": "other",
+        "action": "explain why sequel unlikely",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "World of Warcraft: Forever",
+        "franchise": "World of Warcraft",
+        "institution": "IGN",
+        "target": "players",
+        "platforms": [],
+        "topic": "sequel prospects"
+      },
+      "modality": "unknown",
+      "topic": "sequel prospects",
+      "institution": "IGN",
+      "sources": [
+        "IGN",
+        "Kotaku"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "WoW 2 is unnecessary",
+        "alternate universe worth exploring"
+      ],
+      "importance_score": 63,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 6,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 63
+      },
+      "last_seen": "2026-09-14T00:33:29.003227+06:00"
+    },
+    "evt_797315ea064068": {
+      "event_id": "evt_797315ea064068",
+      "event_key": "blizzard cd projekt red partnership diablo iv witcher iii collab preview",
+      "event_subject": "Diablo IV × Witcher III",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blizzard cd projekt red partnership diablo iv witcher iii collab preview",
+        "subject": "Diablo IV × Witcher III",
+        "event_type": "other",
+        "action": "reveal first look at crossover content",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Diablo IV",
+        "franchise": "Diablo",
+        "institution": "Nintendo Life",
+        "target": "fans",
+        "platforms": [],
+        "topic": "crossover"
+      },
+      "modality": "unknown",
+      "topic": "crossover",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "collab unveiled at BlizzCon 2026",
+        "collab unveiled at BlizzCon 2026"
+      ],
+      "importance_score": 58,
+      "score_breakdown": {
+        "significance": 28,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 58
+      },
+      "last_seen": "2026-09-14T00:33:29.003236+06:00"
+    },
+    "evt_b5ee19a0409f54": {
+      "event_id": "evt_b5ee19a0409f54",
+      "event_key": "polyarc studio shutdown after moss the forgotten relic release",
+      "event_subject": "Polyarc",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "polyarc studio shutdown after moss the forgotten relic release",
+        "subject": "Polyarc",
+        "event_type": "other",
+        "action": "announce shutdown following non‑VR port release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Moss: The Forgotten Relic",
+        "franchise": "Moss",
+        "institution": "Rock Paper Shotgun",
+        "target": "players",
+        "platforms": [],
+        "topic": "studio closure"
+      },
+      "modality": "unknown",
+      "topic": "studio closure",
+      "institution": "Rock Paper Shotgun",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "studio ending active development"
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 44
+      },
+      "last_seen": "2026-09-14T00:33:29.003242+06:00"
+    },
+    "evt_e6f3409f957809": {
+      "event_id": "evt_e6f3409f957809",
+      "event_key": "company of heroes 20th anniversary retrospective interview",
+      "event_subject": "Company of Heroes",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "company of heroes 20th anniversary retrospective interview",
+        "subject": "Company of Heroes",
+        "event_type": "other",
+        "action": "discuss 20‑year history and future plans",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Company of Heroes",
+        "franchise": "Company of Heroes",
+        "institution": "PC Gamer",
+        "target": "fans",
+        "platforms": [],
+        "topic": "anniversary"
+      },
+      "modality": "unknown",
+      "topic": "anniversary",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "celebrate 20th anniversary"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-09-14T00:33:29.003248+06:00"
+    },
+    "evt_cf254bfdff99b2": {
+      "event_id": "evt_cf254bfdff99b2",
+      "event_key": "cyberpunk edgerunners collaboration with overwatch announced",
+      "event_subject": "Cyberpunk: Edgerunners",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "cyberpunk edgerunners collaboration with overwatch announced",
+        "subject": "Cyberpunk: Edgerunners",
+        "event_type": "other",
+        "action": "partner with Overwatch for anime crossover",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Cyberpunk: Edgerunners",
+        "franchise": "Cyberpunk",
+        "institution": "Polygon",
+        "target": "fans",
+        "platforms": [],
+        "topic": "collaboration"
+      },
+      "modality": "unknown",
+      "topic": "collaboration",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "next big anime collaboration"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-14T00:33:29.003254+06:00"
+    },
+    "evt_5bcafee36475dc": {
+      "event_id": "evt_5bcafee36475dc",
+      "event_key": "melty blood twi lumina announced for switch with 2027 release",
+      "event_subject": "Melty Blood: Twi‑Lumina",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "melty blood twi lumina announced for switch with 2027 release",
+        "subject": "Melty Blood: Twi‑Lumina",
+        "event_type": "announcement",
+        "action": "reveal Switch release dates (2026 teaser, 2027 launch)",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Melty Blood: Twi‑Lumina",
+        "franchise": "Melty Blood",
+        "institution": "Nintendo Life",
+        "target": "players",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "announcement"
+      },
+      "modality": "unknown",
+      "topic": "announcement",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "release slated for 2027"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-14T00:33:29.003260+06:00"
+    },
+    "evt_f7a4d4d2add03b": {
+      "event_id": "evt_f7a4d4d2add03b",
+      "event_key": "rockstar gta 6 character emotional connection strategy",
+      "event_subject": "Grand Theft Auto VI",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "rockstar gta 6 character emotional connection strategy",
+        "subject": "Grand Theft Auto VI",
+        "event_type": "other",
+        "action": "aim for emotional connection similar to Red Dead Redemption 2",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "GamesRadar+",
+        "target": "players",
+        "platforms": [],
+        "topic": "character design"
+      },
+      "modality": "unknown",
+      "topic": "character design",
+      "institution": "GamesRadar+",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Jason and Lucia to inspire emotional bond"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 36
+      },
+      "last_seen": "2026-09-14T00:33:29.003267+06:00"
+    },
+    "evt_68090713549257": {
+      "event_id": "evt_68090713549257",
+      "event_key": "the legend of dark witch episode 2 ps5 release",
+      "event_subject": "The Legend of Dark Witch",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "the legend of dark witch episode 2 ps5 release",
+        "subject": "The Legend of Dark Witch",
+        "event_type": "other",
+        "action": "launch Episode 2 on PlayStation 5",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "The Legend of Dark Witch",
+        "franchise": "The Legend of Dark Witch",
+        "institution": "Gematsu",
+        "target": "players",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "Gematsu",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "now available for PS5"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-09-14T00:33:29.003273+06:00"
+    },
+    "evt_1c8fdcea2ec09d": {
+      "event_id": "evt_1c8fdcea2ec09d",
+      "event_key": "roblox developers conference stunt by youtuber mathieo",
+      "event_subject": "Roblox Developers Conference",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "roblox developers conference stunt by youtuber mathieo",
+        "subject": "Roblox Developers Conference",
+        "event_type": "other",
+        "action": "stage intrusion and ejection",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Roblox",
+        "franchise": "Roblox",
+        "institution": "PC Gamer",
+        "target": "attendees",
+        "platforms": [],
+        "topic": "conference incident"
+      },
+      "modality": "unknown",
+      "topic": "conference incident",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "YouTuber shouted ‘We deserve better’ and was tackled"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-14T00:33:29.003280+06:00"
+    },
+    "evt_43e0d5d02ff2c3": {
+      "event_id": "evt_43e0d5d02ff2c3",
+      "event_key": "tim cain interview on industry volatility",
+      "event_subject": "Tim Cain",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "tim cain interview on industry volatility",
+        "subject": "Tim Cain",
+        "event_type": "other",
+        "action": "discuss volatility in games industry",
+        "status": "opinion",
+        "modality": "unknown",
+        "game": "N/A",
+        "franchise": "N/A",
+        "institution": "PC Gamer",
+        "target": "readers",
+        "platforms": [],
+        "topic": "industry trends"
+      },
+      "modality": "unknown",
+      "topic": "industry trends",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "volatility is constant"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-14T00:33:29.003286+06:00"
+    },
+    "evt_839879c6379136": {
+      "event_id": "evt_839879c6379136",
+      "event_key": "mass effect development schedule disclosed by former bioware dev",
+      "event_subject": "Mass Effect",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "mass effect development schedule disclosed by former bioware dev",
+        "subject": "Mass Effect",
+        "event_type": "other",
+        "action": "reveal 21‑day work, 1‑day off schedule",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Mass Effect",
+        "franchise": "Mass Effect",
+        "institution": "GamesRadar+",
+        "target": "players",
+        "platforms": [],
+        "topic": "development process"
+      },
+      "modality": "unknown",
+      "topic": "development process",
+      "institution": "GamesRadar+",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "development was extremely demanding"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-09-14T00:33:29.003292+06:00"
+    },
+    "evt_32b848ae67a9f0": {
+      "event_id": "evt_32b848ae67a9f0",
+      "event_key": "gamecube retrospective of overlooked near perfect titles",
+      "event_subject": "GameCube",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gamecube retrospective of overlooked near perfect titles",
+        "subject": "GameCube",
+        "event_type": "other",
+        "action": "list under‑appreciated games",
+        "status": "opinion",
+        "modality": "unknown",
+        "game": "N/A",
+        "franchise": "Nintendo GameCube",
+        "institution": "Polygon",
+        "target": "readers",
+        "platforms": [],
+        "topic": "retro"
+      },
+      "modality": "unknown",
+      "topic": "retro",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "10 near‑perfect games nobody played"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-14T00:33:29.003322+06:00"
+    },
+    "evt_fefb7107b63cc8": {
+      "event_id": "evt_fefb7107b63cc8",
+      "event_key": "valheim early access marathon playthrough reflection",
+      "event_subject": "Valheim",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "valheim early access marathon playthrough reflection",
+        "subject": "Valheim",
+        "event_type": "other",
+        "action": "share experience after 400 hours in early access",
+        "status": "opinion",
+        "modality": "unknown",
+        "game": "Valheim",
+        "franchise": "Valheim",
+        "institution": "PC Gamer",
+        "target": "players",
+        "platforms": [],
+        "topic": "player experience"
+      },
+      "modality": "unknown",
+      "topic": "player experience",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "journey from naked adventurer to godly Viking"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-14T00:33:29.003330+06:00"
+    },
+    "evt_7e021ed00ebc89": {
+      "event_id": "evt_7e021ed00ebc89",
+      "event_key": "aksfx soundtrack highlighted as 2026 sleeper hit music",
+      "event_subject": "aksfx",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "aksfx soundtrack highlighted as 2026 sleeper hit music",
+        "subject": "aksfx",
+        "event_type": "other",
+        "action": "highlight soundtrack in article",
+        "status": "opinion",
+        "modality": "unknown",
+        "game": "N/A",
+        "franchise": "N/A",
+        "institution": "PC Gamer",
+        "target": "readers",
+        "platforms": [],
+        "topic": "music"
+      },
+      "modality": "unknown",
+      "topic": "music",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "favourite soundtrack of 2026"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-14T00:33:29.003337+06:00"
+    },
+    "evt_78e9ac5f2f25a4": {
+      "event_id": "evt_78e9ac5f2f25a4",
+      "event_key": "anthropic ceo warning about ai swarm threat",
+      "event_subject": "Anthropic",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "anthropic ceo warning about ai swarm threat",
+        "subject": "Anthropic",
+        "event_type": "other",
+        "action": "call for safeguards against AI swarm",
+        "status": "opinion",
+        "modality": "unknown",
+        "game": "N/A",
+        "franchise": "N/A",
+        "institution": "Kotaku",
+        "target": "public",
+        "platforms": [],
+        "topic": "AI safety"
+      },
+      "modality": "unknown",
+      "topic": "AI safety",
+      "institution": "Kotaku",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "AI swarm could take over internet in 6‑12 months"
+      ],
+      "importance_score": 28,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 28
+      },
+      "last_seen": "2026-09-14T00:33:29.003345+06:00"
+    },
+    "evt_a8c37dc038455c": {
+      "event_id": "evt_a8c37dc038455c",
+      "event_key": "cozy games with flight mechanics roundup",
+      "event_subject": "cozy games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "cozy games with flight mechanics roundup",
+        "subject": "cozy games",
+        "event_type": "other",
+        "action": "list four favorite flight‑centric cozy games",
+        "status": "opinion",
+        "modality": "unknown",
+        "game": "N/A",
+        "franchise": "N/A",
+        "institution": "PC Gamer",
+        "target": "readers",
+        "platforms": [],
+        "topic": "game recommendations"
+      },
+      "modality": "unknown",
+      "topic": "game recommendations",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "soft spot for cozy games with flying"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-09-14T00:33:29.003351+06:00"
+    },
+    "evt_dd78099df16d28": {
+      "event_id": "evt_dd78099df16d28",
+      "event_key": "death to smoochy retrospective film commentary",
+      "event_subject": "Death to Smoochy",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "death to smoochy retrospective film commentary",
+        "subject": "Death to Smoochy",
+        "event_type": "other",
+        "action": "compare to Buddy",
+        "status": "opinion",
+        "modality": "unknown",
+        "game": "N/A",
+        "franchise": "N/A",
+        "institution": "Polygon",
+        "target": "readers",
+        "platforms": [],
+        "topic": "film comparison"
+      },
+      "modality": "unknown",
+      "topic": "film comparison",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Death to Smoochy is superior"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-14T00:33:29.003358+06:00"
     }
   },
   "posted_event_ids": [
@@ -41589,7 +42809,10 @@
     "evt_6a5b2a00e0947a",
     "evt_e01c0f972e88eb",
     "evt_1c717796cba398",
-    "evt_3a838d83332d39"
+    "evt_3a838d83332d39",
+    "evt_21494931070481",
+    "evt_797315ea064068",
+    "evt_b5ee19a0409f54"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -41683,10 +42906,13 @@
     "blizzard announces starcraft 2030 and diablo 5 2029 sparking strategy debate",
     "diablo 5 slated for spring 2029 release as netflix series announced",
     "fire emblem fortune s weave requires massive 29 5gb on switch 2",
-    "valve labels nighthawks adults only removing it from steam search"
+    "valve labels nighthawks adults only removing it from steam search",
+    "blizzcon 2026 unveils open world starcraft diablo 5 and wow forever",
+    "diablo iv the witcher iii collaboration revealed with geralt style barbarian skin",
+    "polyarc announces studio closure two months after non vr release of moss the forgotten relic"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-13T21:40:41.335910+06:00",
+    "Game Updates": "2026-09-14T00:35:34.358695+06:00",
     "Major Releases": "2026-09-13T17:09:10.746835+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
@@ -41697,6 +42923,6 @@
     "Pricing and Monetization": "2026-09-11T00:33:27.401107+06:00",
     "Anti-Cheat": "2026-09-11T00:33:42.084305+06:00",
     "Cancellations": "2026-09-11T21:14:57.654212+06:00",
-    "Studio Closures": "2026-09-12T16:10:05.448296+06:00"
+    "Studio Closures": "2026-09-14T00:35:40.039904+06:00"
   }
 }
