@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"23ac7-HpPqGyx4URqtUgxevogxpslK0fc\"",
+      "etag": "W/\"1b1e4-8/zY7mqejOXDC0WQC4FyerZC4P0\"",
       "last_modified": null,
-      "last_checked": "2026-09-16T02:00:17.860828+06:00",
+      "last_checked": "2026-09-16T11:38:51.600503+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-16T02:00:18.167610+06:00",
+      "last_checked": "2026-09-16T11:38:51.821787+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aa9a3c4-b55\"",
-      "last_modified": "Tue, 15 Sep 2026 20:00:04 GMT",
-      "last_checked": "2026-09-16T02:00:18.515872+06:00",
+      "etag": "\"6aaa2a89-b54\"",
+      "last_modified": "Wed, 16 Sep 2026 05:35:05 GMT",
+      "last_checked": "2026-09-16T11:38:52.157086+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Tue, 15 Sep 2026 16:20:23 GMT",
-      "last_checked": "2026-09-16T02:00:18.812222+06:00",
+      "last_modified": "Wed, 16 Sep 2026 01:00:00 GMT",
+      "last_checked": "2026-09-16T11:38:52.438065+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6aa98b69-125c\"",
-      "last_modified": "Tue, 15 Sep 2026 18:16:09 GMT",
-      "last_checked": "2026-09-16T02:00:19.239756+06:00",
+      "etag": "\"a5582c10860a1e64ab91cd6bce73803b\"",
+      "last_modified": "Wed, 16 Sep 2026 05:36:23 GMT",
+      "last_checked": "2026-09-16T11:38:52.711651+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-16T02:00:19.592617+06:00",
+      "last_checked": "2026-09-16T11:38:52.949666+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-16T02:00:20.439593+06:00",
+      "last_checked": "2026-09-16T11:38:53.711743+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"ed746e11ae19ce52b1deb707b5d038aa\"",
-      "last_modified": "Tue, 15 Sep 2026 19:55:10 GMT",
-      "last_checked": "2026-09-16T02:00:21.787172+06:00",
+      "etag": "W/\"3abb6b8f379936ac45a62b57ed4cff3a\"",
+      "last_modified": "Wed, 16 Sep 2026 04:30:48 GMT",
+      "last_checked": "2026-09-16T11:38:53.872536+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-16T02:00:22.061389+06:00",
+      "last_checked": "2026-09-16T11:38:53.955900+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Tue, 15 Sep 2026 18:18:08 GMT",
-      "last_checked": "2026-09-16T02:00:22.789266+06:00",
+      "last_checked": "2026-09-16T11:38:54.283162+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Tue, 15 Sep 2026 20:00:23 GMT",
-      "last_checked": "2026-09-16T02:00:23.356611+06:00",
+      "last_modified": "Wed, 16 Sep 2026 05:38:54 GMT",
+      "last_checked": "2026-09-16T11:38:54.774027+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
       "etag": "W/\"d6008363eafe57c2ba99176ccc607ed6\"",
       "last_modified": "Tue, 15 Sep 2026 19:33:32 GMT",
-      "last_checked": "2026-09-16T02:00:23.777921+06:00",
+      "last_checked": "2026-09-16T11:38:55.233100+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-16T02:00:24.118628+06:00",
+      "last_checked": "2026-09-16T11:38:55.567733+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-16T02:00:24.592889+06:00",
+      "last_checked": "2026-09-16T11:38:55.908531+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-16T02:00:25.119314+06:00",
+      "last_checked": "2026-09-16T11:38:56.253207+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-16T02:00:25.402327+06:00",
-      "fail_count": 29,
+      "last_checked": "2026-09-16T11:38:56.399236+06:00",
+      "fail_count": 30,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"94a4f07121d72a38359cddd5c40e176e\"",
-      "last_modified": "Tue, 15 Sep 2026 16:10:24 GMT",
-      "last_checked": "2026-09-16T02:00:26.264167+06:00",
+      "etag": "W/\"6d70467948e5c494e3e503ee4e029713\"",
+      "last_modified": "Wed, 16 Sep 2026 03:04:39 GMT",
+      "last_checked": "2026-09-16T11:38:56.560141+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-16T02:00:26.566638+06:00",
+      "last_checked": "2026-09-16T11:38:56.811573+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-16T02:00:26.838463+06:00",
-      "fail_count": 29,
+      "last_checked": "2026-09-16T11:38:56.980820+06:00",
+      "fail_count": 30,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"9d43a30314a4939e0361b216e20ebded\"",
       "last_modified": "Tue, 15 Sep 2026 16:00:00 GMT",
-      "last_checked": "2026-09-16T02:00:27.086975+06:00",
+      "last_checked": "2026-09-16T11:38:57.106314+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -170,120 +170,6 @@
       "status": "pending",
       "first_seen": "2026-09-12T00:10:52.614127+06:00",
       "last_seen": "2026-09-12T22:46:05.219389+06:00"
-    },
-    "gematsu.com/2026/09/melty-blood-twi-lumina-launches-april-22-2027": {
-      "title": "Melty Blood: Twi-Lumina launches April 22, 2027",
-      "url": "https://www.gematsu.com/2026/09/melty-blood-twi-lumina-launches-april-22-2027",
-      "canonical": "gematsu.com/2026/09/melty-blood-twi-lumina-launches-april-22-2027",
-      "published_dt": "2026-09-12T09:06:23+06:00",
-      "published_date": "2026-09-12T09:06:23+06:00",
-      "source": "Gematsu",
-      "region": "Gaming",
-      "excerpt": "Fighting game Melty Blood: Twi-Lumina will launch for PlayStation 5, Switch 2, PlayStation 4, Xbox …",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-09-12T11:25:17.683122+06:00",
-      "last_seen": "2026-09-12T11:25:17.683127+06:00",
-      "posted_at": "2026-09-12T11:28:41.348533+06:00"
-    },
-    "polygon.com/stephen-king-talisman-3-trilogy": {
-      "title": "Stephen King's Next Book is the Long-Awaited Conclusion To A 42-Year-Old Trilogy",
-      "url": "https://www.polygon.com/stephen-king-talisman-3-trilogy/",
-      "canonical": "polygon.com/stephen-king-talisman-3-trilogy",
-      "published_dt": "2026-09-12T11:00:14+06:00",
-      "published_date": "2026-09-12T11:00:14+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Jack Sawyer returns in the second sequel to 1984's The Talisman",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/screenshot-2026-04-07-at-11-11-29-am.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-12T11:25:18.412304+06:00",
-      "last_seen": "2026-09-12T11:25:18.412309+06:00"
-    },
-    "polygon.com/calvin-and-hobbes-best-quote-meaning-of-life": {
-      "title": "34 Years Later, the Best 'Calvin and Hobbes’ Quote About the Meaning of Life Is Still Second to None",
-      "url": "https://www.polygon.com/calvin-and-hobbes-best-quote-meaning-of-life/",
-      "canonical": "polygon.com/calvin-and-hobbes-best-quote-meaning-of-life",
-      "published_dt": "2026-09-12T10:30:14+06:00",
-      "published_date": "2026-09-12T10:30:14+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "The comic strip Calvin and Hobbes could often be profound in its words. This is the best strip examining the meaning of life",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/calvin_and_hobbes_under_tree.webp",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-12T11:25:18.412458+06:00",
-      "last_seen": "2026-09-12T11:25:18.412462+06:00"
-    },
-    "polygon.com/a-fistful-of-dollars-clint-eastwood-free-to-stream": {
-      "title": "62 Years Later, Clint Eastwood's Genre-Redefining Western Is Officially Free on Streaming",
-      "url": "https://www.polygon.com/a-fistful-of-dollars-clint-eastwood-free-to-stream/",
-      "canonical": "polygon.com/a-fistful-of-dollars-clint-eastwood-free-to-stream",
-      "published_dt": "2026-09-12T10:00:18+06:00",
-      "published_date": "2026-09-12T10:00:18+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "The 1964 Spaghetti Western A Fistful of Dollars is availble for free on Youtube. Catch the genre-redefining film that made Clint Eastwood a star",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screen-shot-2026-09-11-at-10-20-13-am.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-12T11:25:18.412607+06:00",
-      "last_seen": "2026-09-12T11:25:18.412611+06:00"
-    },
-    "nintendolife.com/news/2026/09/nintendo-announces-switch-2-monster-hunter-wilds-bundle": {
-      "title": "Nintendo Announces Switch 2 Monster Hunter Wilds Bundle",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-announces-switch-2-monster-hunter-wilds-bundle",
-      "canonical": "nintendolife.com/news/2026/09/nintendo-announces-switch-2-monster-hunter-wilds-bundle",
-      "published_dt": "2026-09-12T08:35:00+06:00",
-      "published_date": "2026-09-12T08:35:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Launching in Japan this December. The mainline Monster Hunter series will debut on the Switch 2 this December with the release of the new entry Monster Hunter Wilds . Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/49e3eb1fe00a4/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-09-12T11:25:20.616356+06:00",
-      "last_seen": "2026-09-12T11:25:20.616362+06:00",
-      "posted_at": "2026-09-12T11:28:36.499120+06:00"
-    },
-    "polygon.com/prime-videos-reacher-replacement-neagley-release-date-2-weeks": {
-      "title": "Prime Video’s 'Reacher' Replacement Officially Releases in 2 Weeks",
-      "url": "https://www.polygon.com/prime-videos-reacher-replacement-neagley-release-date-2-weeks/",
-      "canonical": "polygon.com/prime-videos-reacher-replacement-neagley-release-date-2-weeks",
-      "published_dt": "2026-09-12T09:39:14+06:00",
-      "published_date": "2026-09-12T09:39:14+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-09-12T11:25:27.526503+06:00",
-      "last_seen": "2026-09-12T11:25:27.526507+06:00"
-    },
-    "shacknews.com/article/150703/evening-reading-september-11-2026": {
-      "title": "Evening Reading - September 11, 2026",
-      "url": "https://www.shacknews.com/article/150703/evening-reading-september-11-2026",
-      "canonical": "shacknews.com/article/150703/evening-reading-september-11-2026",
-      "published_dt": "2026-09-12T09:30:00+06:00",
-      "published_date": "2026-09-12T09:30:00+06:00",
-      "source": "Shacknews",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-09-12T11:25:29.353051+06:00",
-      "last_seen": "2026-09-12T11:25:29.353056+06:00"
     },
     "ign.com/articles/planet-zoo-2-puts-you-right-down-into-the-wild-with-your-animals-ign-preview": {
       "title": "Planet Zoo 2 Puts You Right Down into the Wild With Your Animals | IGN Preview",
@@ -9243,6 +9129,134 @@
       "status": "pending",
       "first_seen": "2026-09-16T02:00:33.821691+06:00",
       "last_seen": "2026-09-16T02:00:33.821695+06:00"
+    },
+    "pcgamer.com/hardware/networking/heads-up-one-of-australias-most-respected-nbn-providers-is-offering-a-rare-au-usd120-introductory-discount-but-is-it-worth-it": {
+      "title": "Heads up: One of Australia's most respected NBN providers is offering a rare AU$120 introductory discount, but is it worth it?",
+      "url": "https://www.pcgamer.com/hardware/networking/heads-up-one-of-australias-most-respected-nbn-providers-is-offering-a-rare-au-usd120-introductory-discount-but-is-it-worth-it/",
+      "canonical": "pcgamer.com/hardware/networking/heads-up-one-of-australias-most-respected-nbn-providers-is-offering-a-rare-au-usd120-introductory-discount-but-is-it-worth-it",
+      "published_dt": "2026-09-16T10:19:00+06:00",
+      "published_date": "2026-09-16T10:19:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Sizing up NBN introductory prices right now might not be the best way to measure.",
+      "image": "https://cdn.mos.cms.futurecdn.net/4ybosHv394mKDTjPcfVmFS-1280-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-16T11:38:53.559781+06:00",
+      "last_seen": "2026-09-16T11:38:53.559787+06:00"
+    },
+    "polygon.com/5-litrpg-books-to-read-after-dungeon-crawler-carl": {
+      "title": "5 Best LitRPG Books to Read After 'Dungeon Crawler Carl'",
+      "url": "https://www.polygon.com/5-litrpg-books-to-read-after-dungeon-crawler-carl/",
+      "canonical": "polygon.com/5-litrpg-books-to-read-after-dungeon-crawler-carl",
+      "published_dt": "2026-09-16T11:02:14+06:00",
+      "published_date": "2026-09-16T11:02:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Level up with stories of innkeepers, dark lords, and aliens",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/litrpg-covers.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-16T11:38:53.719929+06:00",
+      "last_seen": "2026-09-16T11:38:53.719933+06:00"
+    },
+    "polygon.com/10-darkest-calvin-and-hobbes-snowman-jokes-that-reveal-bill-wattersons-twisted-genius": {
+      "title": "10 Darkest 'Calvin and Hobbes' Snowman Jokes That Reveal Bill Watterson's Twisted Genius",
+      "url": "https://www.polygon.com/10-darkest-calvin-and-hobbes-snowman-jokes-that-reveal-bill-wattersons-twisted-genius/",
+      "canonical": "polygon.com/10-darkest-calvin-and-hobbes-snowman-jokes-that-reveal-bill-wattersons-twisted-genius",
+      "published_dt": "2026-09-16T10:00:19+06:00",
+      "published_date": "2026-09-16T10:00:19+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Bill Watterson's Calvin and Hobbes comic strip featured a recurring series where Calvin made disturbing snowman scultures. These are the best ones.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/its-a-magical-world.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-16T11:38:53.720065+06:00",
+      "last_seen": "2026-09-16T11:38:53.720068+06:00"
+    },
+    "nintendolife.com/news/2026/09/nintendo-explains-why-fire-emblem-fortunes-weave-has-just-a-single-save-file": {
+      "title": "Nintendo Explains Why Fire Emblem: Fortune's Weave Has Just \"A Single Save File\"",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-explains-why-fire-emblem-fortunes-weave-has-just-a-single-save-file",
+      "canonical": "nintendolife.com/news/2026/09/nintendo-explains-why-fire-emblem-fortunes-weave-has-just-a-single-save-file",
+      "published_dt": "2026-09-16T10:55:00+06:00",
+      "published_date": "2026-09-16T10:55:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Separate saves would create \"complications\". Fire Emblem: Fortune's Weave arrives on the Switch 2 this week, and as a heads up, there's only \"a single save file\". This was revealed during Nintendo's latest 'Ask the Developer' chat with the Fire Emblem team. According to Intelligent Systems' director Toshiyuki Kusakihara, the team felt consolidating everything into a single save was the \"best approach\" for this latest entry: Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/45ebe0d894f2f/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-16T11:38:55.585691+06:00",
+      "last_seen": "2026-09-16T11:38:55.585697+06:00"
+    },
+    "nintendolife.com/news/2026/09/sonic-racings-first-free-character-update-of-year-two-is-bayonetta": {
+      "title": "Sonic Racing's First Free Character Update Of 'Year Two' Is Bayonetta",
+      "url": "https://www.nintendolife.com/news/2026/09/sonic-racings-first-free-character-update-of-year-two-is-bayonetta",
+      "canonical": "nintendolife.com/news/2026/09/sonic-racings-first-free-character-update-of-year-two-is-bayonetta",
+      "published_dt": "2026-09-16T08:45:00+06:00",
+      "published_date": "2026-09-16T08:45:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "A 'Year Two' showcase has also been announced. Sonic Racing: CrossWorlds is getting major 'Year Two' updates soon and in a new trailer today, Sega has revealed the legendary Umbra Witch Bayonetta will be bringing her signature style and grace to the racetrack. The Bayonetta x Sonic Racing: CrossWorlds free update is \" coming soon \" and will contain the following items: Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/231e320723ac9/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-16T11:38:55.586086+06:00",
+      "last_seen": "2026-09-16T11:38:55.586091+06:00"
+    },
+    "polygon.com/galindas-wicked-origin-story-arrives-in-just-2-weeks": {
+      "title": "A New 'Wicked' Sequel Officially Arrives in 2 Weeks",
+      "url": "https://www.polygon.com/galindas-wicked-origin-story-arrives-in-just-2-weeks/",
+      "canonical": "polygon.com/galindas-wicked-origin-story-arrives-in-just-2-weeks",
+      "published_dt": "2026-09-16T10:30:14+06:00",
+      "published_date": "2026-09-16T10:30:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-09-16T11:39:02.019637+06:00",
+      "last_seen": "2026-09-16T11:39:02.019642+06:00"
+    },
+    "techraptor.net/gaming/guides/final-fantasy-xiv-beastmaster-beast-locations-complete-masters-bestiary": {
+      "title": "Final Fantasy XIV Beastmaster Beast Locations - Complete Master's Bestiary | TechRaptor",
+      "url": "https://techraptor.net/gaming/guides/final-fantasy-xiv-beastmaster-beast-locations-complete-masters-bestiary",
+      "canonical": "techraptor.net/gaming/guides/final-fantasy-xiv-beastmaster-beast-locations-complete-masters-bestiary",
+      "published_dt": "2026-09-16T10:19:34+06:00",
+      "published_date": "2026-09-16T10:19:34+06:00",
+      "source": "TechRaptor",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-09-16T11:39:05.864701+06:00",
+      "last_seen": "2026-09-16T11:39:05.864706+06:00"
+    },
+    "polygon.com/spider-noir-canceled-emmy-awards-marvel-prime-video": {
+      "title": "'The Boys' Meets Batman in Prime Video's 92% Rotten Tomatoes Detective Series",
+      "url": "https://www.polygon.com/spider-noir-canceled-emmy-awards-marvel-prime-video/",
+      "canonical": "polygon.com/spider-noir-canceled-emmy-awards-marvel-prime-video",
+      "published_dt": "2026-09-16T10:45:14+06:00",
+      "published_date": "2026-09-16T10:45:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-09-16T11:39:07.461431+06:00",
+      "last_seen": "2026-09-16T11:39:07.461436+06:00"
     }
   },
   "events": {
@@ -54286,6 +54300,330 @@
         "total": 30
       },
       "last_seen": "2026-09-16T02:02:43.915581+06:00"
+    },
+    "evt_700385f0ace4e1": {
+      "event_id": "evt_700385f0ace4e1",
+      "event_key": "sonicracing crossworlds bayonetta freeupdate announcement",
+      "event_subject": "Sonic Racing's First Free Character Update Of 'Year Two' Is Bayonetta",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "sonicracing crossworlds bayonetta freeupdate announcement",
+        "subject": "Sonic Racing's First Free Character Update Of 'Year Two' Is Bayonetta",
+        "event_type": "update",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Sonic Racing: CrossWorlds",
+        "franchise": "Sonic",
+        "institution": "Nintendo Life",
+        "target": "Bayonetta character addition",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "game update"
+      },
+      "modality": "unknown",
+      "topic": "game update",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Bayonetta will be added as a free character in Year Two update"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 9,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 39
+      },
+      "last_seen": "2026-09-16T11:41:08.190163+06:00"
+    },
+    "evt_dfb37270da0d9b": {
+      "event_id": "evt_dfb37270da0d9b",
+      "event_key": "fireemblem fortunesweave singlesave announcement",
+      "event_subject": "Nintendo Explains Why Fire Emblem: Fortune's Weave Has Just \"A Single Save File\"",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "fireemblem fortunesweave singlesave announcement",
+        "subject": "Nintendo Explains Why Fire Emblem: Fortune's Weave Has Just \"A Single Save File\"",
+        "event_type": "announcement",
+        "action": "explain",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Fire Emblem: Fortune's Weave",
+        "franchise": "Fire Emblem",
+        "institution": "Nintendo Life",
+        "target": "save system",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "game design"
+      },
+      "modality": "unknown",
+      "topic": "game design",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "single save file is intentional design choice"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-09-16T11:41:08.190194+06:00"
+    },
+    "evt_c5ecf71a6e96f1": {
+      "event_id": "evt_c5ecf71a6e96f1",
+      "event_key": "ffxiv beastmaster bestiary guide",
+      "event_subject": "Final Fantasy XIV Beastmaster Beast Locations - Complete Master's Bestiary",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ffxiv beastmaster bestiary guide",
+        "subject": "Final Fantasy XIV Beastmaster Beast Locations - Complete Master's Bestiary",
+        "event_type": "other",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Final Fantasy XIV",
+        "franchise": "Final Fantasy",
+        "institution": "TechRaptor",
+        "target": "Beastmaster class",
+        "platforms": [
+          "PC",
+          "PS5",
+          "Xbox Series X"
+        ],
+        "topic": "game guide"
+      },
+      "modality": "unknown",
+      "topic": "game guide",
+      "institution": "TechRaptor",
+      "sources": [
+        "TechRaptor"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 32
+      },
+      "last_seen": "2026-09-16T11:41:08.190203+06:00"
+    },
+    "evt_6a420835b868b2": {
+      "event_id": "evt_6a420835b868b2",
+      "event_key": "litrpg books list feature",
+      "event_subject": "5 Best LitRPG Books to Read After 'Dungeon Crawler Carl'",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "litrpg books list feature",
+        "subject": "5 Best LitRPG Books to Read After 'Dungeon Crawler Carl'",
+        "event_type": "other",
+        "action": "list",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "",
+        "platforms": [],
+        "topic": "LitRPG literature"
+      },
+      "modality": "unknown",
+      "topic": "LitRPG literature",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-16T11:41:08.190211+06:00"
+    },
+    "evt_0f344e533dafab": {
+      "event_id": "evt_0f344e533dafab",
+      "event_key": "australian nbn provider discount notice",
+      "event_subject": "Heads up: One of Australia's most respected NBN providers is offering a rare AU$120 introductory discount, but is it worth it?",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "australian nbn provider discount notice",
+        "subject": "Heads up: One of Australia's most respected NBN providers is offering a rare AU$120 introductory discount, but is it worth it?",
+        "event_type": "other",
+        "action": "inform",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PC Gamer",
+        "target": "NBN provider",
+        "platforms": [],
+        "topic": "internet service"
+      },
+      "modality": "unknown",
+      "topic": "internet service",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-16T11:41:08.190217+06:00"
+    },
+    "evt_c9398052989a85": {
+      "event_id": "evt_c9398052989a85",
+      "event_key": "primevideo detectiveseries announcement",
+      "event_subject": "'The Boys' Meets Batman in Prime Video's 92% Rotten Tomatoes Detective Series",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "primevideo detectiveseries announcement",
+        "subject": "'The Boys' Meets Batman in Prime Video's 92% Rotten Tomatoes Detective Series",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "",
+        "platforms": [],
+        "topic": "TV series"
+      },
+      "modality": "unknown",
+      "topic": "TV series",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-16T11:41:08.190223+06:00"
+    },
+    "evt_41d8d8cdc86028": {
+      "event_id": "evt_41d8d8cdc86028",
+      "event_key": "wicked sequel release announcement",
+      "event_subject": "A New 'Wicked' Sequel Officially Arrives in 2 Weeks",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "wicked sequel release announcement",
+        "subject": "A New 'Wicked' Sequel Officially Arrives in 2 Weeks",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "",
+        "platforms": [],
+        "topic": "film sequel"
+      },
+      "modality": "unknown",
+      "topic": "film sequel",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-16T11:41:08.190229+06:00"
+    },
+    "evt_8dfe7563930cd2": {
+      "event_id": "evt_8dfe7563930cd2",
+      "event_key": "calvinandhobbes snowman jokes article",
+      "event_subject": "10 Darkest 'Calvin and Hobbes' Snowman Jokes That Reveal Bill Watterson's Twisted Genius",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "calvinandhobbes snowman jokes article",
+        "subject": "10 Darkest 'Calvin and Hobbes' Snowman Jokes That Reveal Bill Watterson's Twisted Genius",
+        "event_type": "other",
+        "action": "feature",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "",
+        "platforms": [],
+        "topic": "comics"
+      },
+      "modality": "unknown",
+      "topic": "comics",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-16T11:41:08.190235+06:00"
     }
   },
   "posted_event_ids": [
