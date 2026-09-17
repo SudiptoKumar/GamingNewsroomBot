@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1a3b7-mImmlk0QJoxzQ273qPXxKAJScFQ\"",
+      "etag": "W/\"1be18-AYm+qsSYpHpE2oVXd7WevyNgqpc\"",
       "last_modified": null,
-      "last_checked": "2026-09-17T11:45:43.422120+06:00",
+      "last_checked": "2026-09-17T17:00:24.934939+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-17T11:45:43.960058+06:00",
+      "last_checked": "2026-09-17T17:00:25.172608+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aab7e60-bde\"",
-      "last_modified": "Thu, 17 Sep 2026 05:45:04 GMT",
-      "last_checked": "2026-09-17T11:45:44.270501+06:00",
+      "etag": "\"6aabc834-bac\"",
+      "last_modified": "Thu, 17 Sep 2026 11:00:04 GMT",
+      "last_checked": "2026-09-17T17:00:25.426561+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Wed, 16 Sep 2026 19:15:25 GMT",
-      "last_checked": "2026-09-17T11:45:44.601101+06:00",
+      "last_modified": "Thu, 17 Sep 2026 10:55:15 GMT",
+      "last_checked": "2026-09-17T17:00:25.687527+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6aab7151-122b\"",
-      "last_modified": "Thu, 17 Sep 2026 04:49:21 GMT",
-      "last_checked": "2026-09-17T11:45:44.836268+06:00",
+      "etag": "\"6aabc7bd-120f\"",
+      "last_modified": "Thu, 17 Sep 2026 10:58:05 GMT",
+      "last_checked": "2026-09-17T17:00:26.045612+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-17T11:45:45.237175+06:00",
+      "last_checked": "2026-09-17T17:00:26.251512+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-17T11:45:45.833989+06:00",
+      "last_checked": "2026-09-17T17:00:26.894399+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"ded4aeaef64fddf1fab35e9840bb48c5\"",
-      "last_modified": "Wed, 16 Sep 2026 23:00:20 GMT",
-      "last_checked": "2026-09-17T11:45:46.052473+06:00",
+      "etag": "W/\"7d47a6e1b29a8682a4f4f3be3805af95\"",
+      "last_modified": "Thu, 17 Sep 2026 10:15:48 GMT",
+      "last_checked": "2026-09-17T17:00:27.084062+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-17T11:45:46.116999+06:00",
+      "last_checked": "2026-09-17T17:00:27.246099+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Wed, 16 Sep 2026 18:00:55 GMT",
-      "last_checked": "2026-09-17T11:45:46.488137+06:00",
+      "last_checked": "2026-09-17T17:00:27.614571+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Thu, 17 Sep 2026 05:45:47 GMT",
-      "last_checked": "2026-09-17T11:45:47.011623+06:00",
+      "last_modified": "Thu, 17 Sep 2026 11:00:28 GMT",
+      "last_checked": "2026-09-17T17:00:28.783923+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"d2ea35782c239c1c47e8ba5d267b2c33\"",
-      "last_modified": "Thu, 17 Sep 2026 02:07:33 GMT",
-      "last_checked": "2026-09-17T11:45:47.505781+06:00",
+      "etag": "W/\"5f6486a6399e86f41074a954a6799542\"",
+      "last_modified": "Thu, 17 Sep 2026 10:50:40 GMT",
+      "last_checked": "2026-09-17T17:00:29.143981+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-17T11:45:47.746200+06:00",
+      "last_checked": "2026-09-17T17:00:29.490972+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-17T11:45:48.024053+06:00",
+      "last_checked": "2026-09-17T17:00:29.855964+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-17T11:45:48.410075+06:00",
+      "last_checked": "2026-09-17T17:00:30.221505+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-17T11:45:48.574406+06:00",
-      "fail_count": 34,
+      "last_checked": "2026-09-17T17:00:30.426080+06:00",
+      "fail_count": 35,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"684682d385c921183e4f3a02622fbf96\"",
       "last_modified": "Wed, 16 Sep 2026 15:55:09 GMT",
-      "last_checked": "2026-09-17T11:45:48.731777+06:00",
+      "last_checked": "2026-09-17T17:00:30.569582+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-17T11:45:48.916335+06:00",
+      "last_checked": "2026-09-17T17:00:30.736537+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-17T11:45:49.012875+06:00",
-      "fail_count": 34,
+      "last_checked": "2026-09-17T17:00:30.879387+06:00",
+      "fail_count": 35,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"e81060ea6b95014b8084ec9186b15f4b\"",
-      "last_modified": "Wed, 16 Sep 2026 16:00:00 GMT",
-      "last_checked": "2026-09-17T11:45:49.178865+06:00",
+      "etag": "W/\"991f19ad146beb9a05c4ece11ae5ecfa\"",
+      "last_modified": "Thu, 17 Sep 2026 10:05:08 GMT",
+      "last_checked": "2026-09-17T17:00:30.981647+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -10211,6 +10211,833 @@
       "status": "pending",
       "first_seen": "2026-09-17T11:46:00.116086+06:00",
       "last_seen": "2026-09-17T11:46:00.116090+06:00"
+    },
+    "ign.com/articles/call-of-duty-modern-warfare-4-campaign-trailer-reveals-death-stranding-star-mads-mikkelsen": {
+      "title": "Call of Duty: Modern Warfare 4 Campaign Trailer Reveals Death Stranding Star Mads Mikkelsen",
+      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-campaign-trailer-reveals-death-stranding-star-mads-mikkelsen",
+      "canonical": "ign.com/articles/call-of-duty-modern-warfare-4-campaign-trailer-reveals-death-stranding-star-mads-mikkelsen",
+      "published_dt": "2026-09-17T16:26:47+06:00",
+      "published_date": "2026-09-17T16:26:47+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Activision has revealed Casino Royale and Death Stranding star Mads Mikkelsen as a major antagonist in Call of Duty: Modern Warfare 4.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/17/hsaspbgwkaatzcz-1789640377723.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:24.993832+06:00",
+      "last_seen": "2026-09-17T17:00:24.993838+06:00"
+    },
+    "ign.com/articles/zach-creggers-resident-evil-expected-to-break-franchise-box-office-record-topping-2010s-resident-evil-afterlife": {
+      "title": "Zach Cregger's Resident Evil Expected to Break Franchise Box Office Record, Topping 2010's Resident Evil: Afterlife",
+      "url": "https://www.ign.com/articles/zach-creggers-resident-evil-expected-to-break-franchise-box-office-record-topping-2010s-resident-evil-afterlife",
+      "canonical": "ign.com/articles/zach-creggers-resident-evil-expected-to-break-franchise-box-office-record-topping-2010s-resident-evil-afterlife",
+      "published_dt": "2026-09-17T15:15:05+06:00",
+      "published_date": "2026-09-17T15:15:05+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Zach Cregger’s Resident Evil is expected to make more money at the box office on opening weekend than any other Resident Evil movie before it.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/28/zach-cregger-resident-evil-could-be-most-profitable-opening-weekend-in-franchise-history-1787961243239.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:24.994011+06:00",
+      "last_seen": "2026-09-17T17:00:24.994016+06:00"
+    },
+    "ign.com/articles/xbox-tokyo-game-show-2026-everything-announced": {
+      "title": "Xbox Tokyo Game Show 2026 Live Report — Everything Announced",
+      "url": "https://www.ign.com/articles/xbox-tokyo-game-show-2026-everything-announced",
+      "canonical": "ign.com/articles/xbox-tokyo-game-show-2026-everything-announced",
+      "published_dt": "2026-09-17T14:31:53+06:00",
+      "published_date": "2026-09-17T14:31:53+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Microsoft is at Tokyo Game Show 2026 with a special broadcast event, and IGN is reporting live on all the news, trailers, and talking points.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/17/xbox-tgs26-live-blogroll-1789633624991.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:24.994152+06:00",
+      "last_seen": "2026-09-17T17:00:24.994156+06:00"
+    },
+    "ign.com/articles/mtg-marvel-super-heroes-gift-bundle-amazon-deal": {
+      "title": "MTG Marvel Super Heroes Bundles Are Back in Stock on Amazon",
+      "url": "https://www.ign.com/articles/mtg-marvel-super-heroes-gift-bundle-amazon-deal",
+      "canonical": "ign.com/articles/mtg-marvel-super-heroes-gift-bundle-amazon-deal",
+      "published_dt": "2026-09-17T14:09:04+06:00",
+      "published_date": "2026-09-17T14:09:04+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Get Amazon discounts on Magic: The Gathering Marvel Super Heroes bundles, including the hard-to-find Gift Bundle with a Collector Booster.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/17/marvel-mtg-1789632496020.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:24.994278+06:00",
+      "last_seen": "2026-09-17T17:00:24.994282+06:00"
+    },
+    "gamespot.com/articles/xbox-at-tokyo-game-show-2026-all-the-biggest-announcements-and-trailers": {
+      "title": "Xbox At Tokyo Game Show 2026: All The Biggest Announcements And Trailers",
+      "url": "https://www.gamespot.com/articles/xbox-at-tokyo-game-show-2026-all-the-biggest-announcements-and-trailers/",
+      "canonical": "gamespot.com/articles/xbox-at-tokyo-game-show-2026-all-the-biggest-announcements-and-trailers",
+      "published_dt": "2026-09-17T15:45:00+06:00",
+      "published_date": "2026-09-17T15:45:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "The Tokyo Game Show kicked off this week, and Xbox is celebrating its presence with a new broadcast dedicated to showing off what its Japanese partners are up to. The Japanese market has been a tough nut to crack for Microsoft--especially with Sony and Nintendo enjoying a home-field advantage--but Xbox has had a presence there for the last 20 years. Hosted by Misuzu Araki, this year’s Xbox TGS broadcast will offer exclusive content and new gameplay. It's also taking place at a very early hour, and we're betting that you might be sleeping through it. Fear not! As usual, we'll be covering all the announcements during the presentation, and you can scroll below to catch up on all the news and trailers. So, what can you expect from this year's livestream? Microsoft has confirmed that Minecraft Dungeons 2 and Call of Duty: Modern Warfare 4 will be on the show floor, so we wouldn't be too surprised to see new trailers for those games pop up. Gears of War: E-Day is also out soon, so that could be the focus of another trailer, and we're also expecting developers from across Japan and Asia to feature heavily in the broadcast. This was something that Sony did recently with its September State of Play livestream , as it dropped a bunch of trailers for upcoming games such as Stupid Never Dies, WPCA: World Phasebound Control Authority, and SlashZero. Gachiakuta: Breakout https://www.youtube.com/watch?v=UYu__vsFa7k The show is kicking off with a new look at the Gachiakuta: Breakout game. If you haven't seen it, it's a pretty cool anime series about the value of trash--no really--and the manga source material is even better thanks to its cool illustrations. It looks like this will be a faithful adaptation, with plenty of action to enjoy. Crazy Taxi https://youtu.be/cL7btLB6YqA A new Crazy Taxi trailer? Yeah yeah yeah yeah! This fresh gameplay video shows off the new Japanese map you can explore with reckless abandon. Call of Duty: Modern Warfare 4 https://www.youtube.com/watch?v=xg",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-TGS.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:25.231111+06:00",
+      "last_seen": "2026-09-17T17:00:25.231118+06:00"
+    },
+    "gamespot.com/articles/kingdom-hearts-has-invaded-fortnite-and-theres-a-lot-to-collect": {
+      "title": "Kingdom Hearts Has Invaded Fortnite, And There’s A Lot To Collect",
+      "url": "https://www.gamespot.com/articles/kingdom-hearts-has-invaded-fortnite-and-theres-a-lot-to-collect/",
+      "canonical": "gamespot.com/articles/kingdom-hearts-has-invaded-fortnite-and-theres-a-lot-to-collect",
+      "published_dt": "2026-09-17T16:00:00+06:00",
+      "published_date": "2026-09-17T16:00:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Kingdom Hearts has officially landed in Fortnite , and as expected, the update has brought plenty of cosmetics and weapons to the game. The content includes the Kingdom Key, a weapon Epic says can be used to clobber opponents and call down a shocking bolt of lightning when you need to clear the battlefield. If you're running low on health and shields, you can also grab a Sea Salt Ice Cream to top them up for the battles that lie ahead. But once you're underneath the heart-shaped moon on the ol' Fortnite island? That's when you can start using Kingdom Hearts Overrides to your advantage. Players can activate a Recovery Override to gain healing orbs whenever they eliminate another player equipped with a weapon, while the Level Up Override will spawn a Mythic Kingdom Key for each squad member at their current location. Players can also take part in the Kingdom Hearts Power Hour, starting on Saturday, September 19. This will take place at the following times: 11 AM PT - 1 PM / 2 - 4 PM ET 6 - 8 PM PT / 9 - 11 PM ET If you're looking to dress your Fortnite avatar up in some Kingdom Hearts threads, the new Sora, Riku, Kairi, and Roxas will be unlocked in the Fortnite Shop starting September 17 at 5 PM PT / 8 PM ET.  Each one comes with its own Back Bling, Pickaxe, and Lego Fortnite style. While Kingdom Hearts 4 will launch in 2027 , it looks like Fortnite's crossover will help fill the gap until that long-awaited sequel finally arrives--plus, it's cathartic to see Kairi get a chance to kick some butt for once. Ahead of Kingdom Hearts 4's launch, it looks like the game was recently caught up in a massive data breach . If you're not afraid of spoilers, you can click through to take a look at the list of worlds that players can probably explore--if the leaked achievements are correct--which includes Coco and a few other surprise IP in the mix.",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Fortnite-Kingdom-Hearts.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:25.232426+06:00",
+      "last_seen": "2026-09-17T17:00:25.232432+06:00"
+    },
+    "videogameschronicle.com/news/pennywise-actor-bill-skarsgard-will-play-the-lead-role-in-hideo-kojimas-physint": {
+      "title": "Pennywise actor Bill Skarsgård will play the lead role in Hideo Kojima’s Physint",
+      "url": "https://www.videogameschronicle.com/news/pennywise-actor-bill-skarsgard-will-play-the-lead-role-in-hideo-kojimas-physint/",
+      "canonical": "videogameschronicle.com/news/pennywise-actor-bill-skarsgard-will-play-the-lead-role-in-hideo-kojimas-physint",
+      "published_dt": "2026-09-17T16:42:16+06:00",
+      "published_date": "2026-09-17T16:42:16+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "The Xbox-published game is \"the culmination of more than 40 years of my career,\" Kojima says",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-17T17:00:25.436386+06:00",
+      "last_seen": "2026-09-17T17:00:25.436392+06:00",
+      "posted_at": "2026-09-17T17:10:15.081413+06:00"
+    },
+    "videogameschronicle.com/news/zach-creggers-resident-evil-film-becomes-the-highest-rated-video-game-movie-in-rotten-tomatoes-history": {
+      "title": "Zach Cregger’s Resident Evil film becomes the highest rated video game movie in Rotten Tomatoes history",
+      "url": "https://www.videogameschronicle.com/news/zach-creggers-resident-evil-film-becomes-the-highest-rated-video-game-movie-in-rotten-tomatoes-history/",
+      "canonical": "videogameschronicle.com/news/zach-creggers-resident-evil-film-becomes-the-highest-rated-video-game-movie-in-rotten-tomatoes-history",
+      "published_dt": "2026-09-17T15:56:46+06:00",
+      "published_date": "2026-09-17T15:56:46+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Its current score of 97% easily overtakes the previous holder of the top spot",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-17T17:00:25.436549+06:00",
+      "last_seen": "2026-09-17T17:00:25.436554+06:00",
+      "posted_at": "2026-09-17T17:10:40.737471+06:00"
+    },
+    "videogameschronicle.com/guide/all-codes-to-redeem-in-aniimo": {
+      "title": "Aniimo Gift Code Redemption: All codes to redeem in Aniimo",
+      "url": "https://www.videogameschronicle.com/guide/all-codes-to-redeem-in-aniimo/",
+      "canonical": "videogameschronicle.com/guide/all-codes-to-redeem-in-aniimo",
+      "published_dt": "2026-09-17T15:17:27+06:00",
+      "published_date": "2026-09-17T15:17:27+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "All Gift Codes to redeem for rewards in Aniimo",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:25.436692+06:00",
+      "last_seen": "2026-09-17T17:00:25.436696+06:00"
+    },
+    "videogameschronicle.com/news/monster-hunter-wilds-will-stop-charging-players-to-change-their-characters-appearance": {
+      "title": "Monster Hunter Wilds will stop charging players to change their character’s appearance",
+      "url": "https://www.videogameschronicle.com/news/monster-hunter-wilds-will-stop-charging-players-to-change-their-characters-appearance/",
+      "canonical": "videogameschronicle.com/news/monster-hunter-wilds-will-stop-charging-players-to-change-their-characters-appearance",
+      "published_dt": "2026-09-17T15:06:46+06:00",
+      "published_date": "2026-09-17T15:06:46+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Character Edit Vouchers are being scrapped when the Ascendance expansion is released",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-17T17:00:25.436831+06:00",
+      "last_seen": "2026-09-17T17:00:25.436835+06:00",
+      "posted_at": "2026-09-17T17:10:20.487438+06:00"
+    },
+    "eurogamer.net/hideo-kojima-bill-skarsgard-physint-mysterious-horror-game-od": {
+      "title": "Hideo Kojima confirms Bill Skarsgård is Physint's lead actor, gives production update on mysterious horror game OD",
+      "url": "https://www.eurogamer.net/hideo-kojima-bill-skarsgard-physint-mysterious-horror-game-od",
+      "canonical": "eurogamer.net/hideo-kojima-bill-skarsgard-physint-mysterious-horror-game-od",
+      "published_dt": "2026-09-17T16:55:15+06:00",
+      "published_date": "2026-09-17T16:55:15+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Hideo Kojima took to the stage at Xbox's Tokyo Game Show 2026 broadcast today to give us an update on his two in-development games with Xbox, OD and Physint. Both games are now being published by Xbox, after we learned last week that Sony \"stepped away\" from Kojima Production's previously PlayStation-exclusive \"action espionage\" game Physint. Following the announcement, which saw Xbox take over publishing duties for the in-development title, a new report has claimed Sony's decision was the result of concerns over \"budget, potential profitability and exclusivity\". Read more",
+      "image": "https://assetsio.gnwcdn.com/physint-skasgard.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:25.788942+06:00",
+      "last_seen": "2026-09-17T17:00:25.788948+06:00"
+    },
+    "eurogamer.net/wardogs-marathon-revenue-arc-raiders-helldivers-2-steam": {
+      "title": "Wardogs has already made more money than Marathon, and its Steam launch momentum is ahead of Arc Raiders and Helldivers 2",
+      "url": "https://www.eurogamer.net/wardogs-marathon-revenue-arc-raiders-helldivers-2-steam",
+      "canonical": "eurogamer.net/wardogs-marathon-revenue-arc-raiders-helldivers-2-steam",
+      "published_dt": "2026-09-17T16:44:36+06:00",
+      "published_date": "2026-09-17T16:44:36+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Wardogs is already one of the year's biggest PC hits on Steam, but new data has revealed how its success compares to other mega-hits like Arc Raiders and Helldivers 2 , as well as struggling titles like Marathon . This isn't that surprising, given Wardogs managed to sell over 1 million copies within hours of launch . Read more",
+      "image": "https://assetsio.gnwcdn.com/wardogs-screen-4.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:25.789391+06:00",
+      "last_seen": "2026-09-17T17:00:25.789397+06:00"
+    },
+    "eurogamer.net/helldivers-2-horizon-forbidden-west-delisted-steam-uk-sony-valve": {
+      "title": "Helldivers 2 and Horizon Forbidden West mysteriously delisted from Steam in the UK, Sony promises to \"address the issue\" with Valve",
+      "url": "https://www.eurogamer.net/helldivers-2-horizon-forbidden-west-delisted-steam-uk-sony-valve",
+      "canonical": "eurogamer.net/helldivers-2-horizon-forbidden-west-delisted-steam-uk-sony-valve",
+      "published_dt": "2026-09-17T15:52:50+06:00",
+      "published_date": "2026-09-17T15:52:50+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Yesterday, Helldivers 2 and Horizon Forbidden West mysteriously disappeared from the Steam store in the UK. There was no announcement about this move, nor any indication it would happen before players began noticing that neither game was listed on the digital storefront. Users that did not own the games were left unable to purchase them, however people that already had the Sony Interactive Entertainment-published titles in their libraries were still able to boot and play the games. Read more",
+      "image": "https://assetsio.gnwcdn.com/Steam-critter-playstation.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-17T17:00:25.789730+06:00",
+      "last_seen": "2026-09-17T17:00:25.789734+06:00",
+      "posted_at": "2026-09-17T17:10:35.865986+06:00"
+    },
+    "eurogamer.net/monster-hunter-ascendance-teostra-reveal": {
+      "title": "Monster Hunter Wilds upcoming expansion, Ascendance, reveals an infamous returning monster - and it looks like it'll address the difficulty complaints",
+      "url": "https://www.eurogamer.net/monster-hunter-ascendance-teostra-reveal",
+      "canonical": "eurogamer.net/monster-hunter-ascendance-teostra-reveal",
+      "published_dt": "2026-09-17T14:36:26+06:00",
+      "published_date": "2026-09-17T14:36:26+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Brace yourselves, everyone: the Monster Hunter Wilds Ascendance marketing machine is spinning up. Today, at Tokyo Game Show, Capcom released the an extended cut of the first official trailer for Ascendance, revealing the explosion-loving leonine monster, Teostra, as a huntable foe. Read more",
+      "image": "https://assetsio.gnwcdn.com/MHW-teo.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:25.790027+06:00",
+      "last_seen": "2026-09-17T17:00:25.790032+06:00"
+    },
+    "eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature": {
+      "title": "PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature",
+      "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
+      "canonical": "eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
+      "published_dt": "2026-09-17T14:16:11+06:00",
+      "published_date": "2026-09-17T14:16:11+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "A new PlayStation 5 firmware update has officially arrived for everyone, after about a month of testing. The change log for firmware version 26.06-14.00.00 has changed in one major way since the beta first went live in August . Read more",
+      "image": "https://assetsio.gnwcdn.com/ps5pro_5gw0RGb.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:25.790372+06:00",
+      "last_seen": "2026-09-17T17:00:25.790378+06:00"
+    },
+    "gematsu.com/2026/09/physint-lead-to-be-portrayed-by-bill-skarsgard": {
+      "title": "PHYSINT lead to be portrayed by Bill Skarsgard",
+      "url": "https://www.gematsu.com/2026/09/physint-lead-to-be-portrayed-by-bill-skarsgard",
+      "canonical": "gematsu.com/2026/09/physint-lead-to-be-portrayed-by-bill-skarsgard",
+      "published_dt": "2026-09-17T16:37:45+06:00",
+      "published_date": "2026-09-17T16:37:45+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Bill Skarsgard will portray the lead role in action espionage game PHYSINT, publisher Xbox Game …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:26.069379+06:00",
+      "last_seen": "2026-09-17T17:00:26.069385+06:00"
+    },
+    "gematsu.com/2026/09/persona-4-revival-naoto-shirogane-trailer": {
+      "title": "Persona 4 Revival – Naoto Shirogane trailer",
+      "url": "https://www.gematsu.com/2026/09/persona-4-revival-naoto-shirogane-trailer",
+      "canonical": "gematsu.com/2026/09/persona-4-revival-naoto-shirogane-trailer",
+      "published_dt": "2026-09-17T16:09:34+06:00",
+      "published_date": "2026-09-17T16:09:34+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "ATLUS has released a new trailer for Persona 4 Revival introducing Naoto Shirogane. Here is …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-17T17:00:26.069541+06:00",
+      "last_seen": "2026-09-17T17:00:26.069545+06:00",
+      "posted_at": "2026-09-17T17:11:00.876917+06:00"
+    },
+    "gematsu.com/2026/09/call-of-duty-modern-warfare-4-campaign-trailer": {
+      "title": "Call of Duty: Modern Warfare 4 ‘Campaign’ trailer",
+      "url": "https://www.gematsu.com/2026/09/call-of-duty-modern-warfare-4-campaign-trailer",
+      "canonical": "gematsu.com/2026/09/call-of-duty-modern-warfare-4-campaign-trailer",
+      "published_dt": "2026-09-17T16:05:13+06:00",
+      "published_date": "2026-09-17T16:05:13+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Publisher Activision and developer Infinity Ward have released the campaign trailer for Call of Duty: …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-17T17:00:26.069690+06:00",
+      "last_seen": "2026-09-17T17:00:26.069694+06:00",
+      "posted_at": "2026-09-17T17:10:30.735274+06:00"
+    },
+    "gematsu.com/2026/09/crazy-taxi-world-tour-japan-map-trailer": {
+      "title": "Crazy Taxi: World Tour ‘Japan Map’ trailer",
+      "url": "https://www.gematsu.com/2026/09/crazy-taxi-world-tour-japan-map-trailer",
+      "canonical": "gematsu.com/2026/09/crazy-taxi-world-tour-japan-map-trailer",
+      "published_dt": "2026-09-17T16:03:31+06:00",
+      "published_date": "2026-09-17T16:03:31+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "SEGA has released a new trailer for Crazy Taxi: World Tour showcasing the game’s Japan …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:26.069850+06:00",
+      "last_seen": "2026-09-17T17:00:26.069854+06:00"
+    },
+    "gematsu.com/2026/09/gachiakuta-breakout-launches-in-2027": {
+      "title": "GACHIAKUTA: BREAKOUT launches in 2027",
+      "url": "https://www.gematsu.com/2026/09/gachiakuta-breakout-launches-in-2027",
+      "canonical": "gematsu.com/2026/09/gachiakuta-breakout-launches-in-2027",
+      "published_dt": "2026-09-17T16:02:02+06:00",
+      "published_date": "2026-09-17T16:02:02+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Survival action RPG GACHIAKUTA: BREAKOUT, formerly GACHIAKUTA: The Game, will launch for PlayStation 5, Xbox …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-17T17:00:26.069992+06:00",
+      "last_seen": "2026-09-17T17:00:26.069996+06:00",
+      "posted_at": "2026-09-17T17:10:50.841675+06:00"
+    },
+    "pcgamer.com/hardware/graphics-cards/the-leakers-disagree-but-we-might-just-get-one-amd-shaped-mid-range-gpu-through-all-of-2027": {
+      "title": "The leakers disagree, but we might just get one AMD-shaped mid-range GPU through all of 2027",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/the-leakers-disagree-but-we-might-just-get-one-amd-shaped-mid-range-gpu-through-all-of-2027/",
+      "canonical": "pcgamer.com/hardware/graphics-cards/the-leakers-disagree-but-we-might-just-get-one-amd-shaped-mid-range-gpu-through-all-of-2027",
+      "published_dt": "2026-09-17T16:41:59+06:00",
+      "published_date": "2026-09-17T16:41:59+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "2027 could look sparse for GPUs.",
+      "image": "https://cdn.mos.cms.futurecdn.net/6e2eGX2VSocFcNeEdt85NB-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:26.647520+06:00",
+      "last_seen": "2026-09-17T17:00:26.647527+06:00"
+    },
+    "polygon.com/hunger-games-sunrise-on-the-reaping-trailer-september": {
+      "title": "New Hunger Games Trailer Reveals This Will Be the Most Brutal Movie in the Series",
+      "url": "https://www.polygon.com/hunger-games-sunrise-on-the-reaping-trailer-september/",
+      "canonical": "polygon.com/hunger-games-sunrise-on-the-reaping-trailer-september",
+      "published_dt": "2026-09-17T16:43:32+06:00",
+      "published_date": "2026-09-17T16:43:32+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The new trailer for the upcoming Hunger Games movie gives fans a closer look at the brutality of Haymitch's story in Sunrise on the Reaping.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-hunger-games-sunrise-on-the-reaping.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:26.903176+06:00",
+      "last_seen": "2026-09-17T17:00:26.903181+06:00"
+    },
+    "polygon.com/fortnite-kingdom-hearts-cyberpunk-edgerunners-update": {
+      "title": "Kingdom Hearts and Cyberpunk Edgerunners Officially join Fortnite in Latest Update",
+      "url": "https://www.polygon.com/fortnite-kingdom-hearts-cyberpunk-edgerunners-update/",
+      "canonical": "polygon.com/fortnite-kingdom-hearts-cyberpunk-edgerunners-update",
+      "published_dt": "2026-09-17T16:25:53+06:00",
+      "published_date": "2026-09-17T16:25:53+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Fortnite's gaming season has reached a new peak with the introduction of Kingdom Hearts cosmetics and items to the Battle Royale.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/kingdom-hearts-keyart-fortnite.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-17T17:00:26.903351+06:00",
+      "last_seen": "2026-09-17T17:00:26.903356+06:00",
+      "posted_at": "2026-09-17T17:10:26.007017+06:00"
+    },
+    "gamesradar.com/games/action/hideo-kojima-taps-john-wick-4-star-bill-skarsgard-to-play-physints-lead-role-calls-the-metal-gear-succesor-the-culmination-of-more-than-40-years-of-my-career": {
+      "title": "Hideo Kojima taps John Wick 4 star Bill Skarsgard to play Physint's lead role, calls the Metal Gear succesor \"the culmination of more than 40 years of my career\"",
+      "url": "https://www.gamesradar.com/games/action/hideo-kojima-taps-john-wick-4-star-bill-skarsgard-to-play-physints-lead-role-calls-the-metal-gear-succesor-the-culmination-of-more-than-40-years-of-my-career/",
+      "canonical": "gamesradar.com/games/action/hideo-kojima-taps-john-wick-4-star-bill-skarsgard-to-play-physints-lead-role-calls-the-metal-gear-succesor-the-culmination-of-more-than-40-years-of-my-career",
+      "published_dt": "2026-09-17T16:55:44+06:00",
+      "published_date": "2026-09-17T16:55:44+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "I guess he had the IT factor...",
+      "image": "https://cdn.mos.cms.futurecdn.net/9zSAHoS2ZmNoJJQx9ypfCD-1920-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:27.455564+06:00",
+      "last_seen": "2026-09-17T17:00:27.455570+06:00"
+    },
+    "gamesradar.com/platforms/playstation/as-horizon-forbidden-west-and-helldivers-2-vanish-from-steam-in-the-uk-sony-confirms-theres-an-ongoing-issue-and-its-working-with-valve-to-fix-it": {
+      "title": "As Horizon Forbidden West and Helldivers 2 vanish from Steam in the UK, Sony confirms there's an ongoing issue and it's working with Valve to fix it",
+      "url": "https://www.gamesradar.com/platforms/playstation/as-horizon-forbidden-west-and-helldivers-2-vanish-from-steam-in-the-uk-sony-confirms-theres-an-ongoing-issue-and-its-working-with-valve-to-fix-it/",
+      "canonical": "gamesradar.com/platforms/playstation/as-horizon-forbidden-west-and-helldivers-2-vanish-from-steam-in-the-uk-sony-confirms-theres-an-ongoing-issue-and-its-working-with-valve-to-fix-it",
+      "published_dt": "2026-09-17T16:55:14+06:00",
+      "published_date": "2026-09-17T16:55:14+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "I don't blame people for being wary, though",
+      "image": "https://cdn.mos.cms.futurecdn.net/XMppGRYcnDwQuXo9dpWr6B-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:27.455710+06:00",
+      "last_seen": "2026-09-17T17:00:27.455715+06:00"
+    },
+    "gamesradar.com/games/horror/od-is-progressing-smoothly-hideo-kojima-says-teasing-it-as-a-completely-new-kind-of-game-that-tests-the-thresholds-of-fear": {
+      "title": "OD is \"progressing smoothly,\" Hideo Kojima says, teasing it as a \"completely new kind of game that tests the thresholds of fear\"",
+      "url": "https://www.gamesradar.com/games/horror/od-is-progressing-smoothly-hideo-kojima-says-teasing-it-as-a-completely-new-kind-of-game-that-tests-the-thresholds-of-fear/",
+      "canonical": "gamesradar.com/games/horror/od-is-progressing-smoothly-hideo-kojima-says-teasing-it-as-a-completely-new-kind-of-game-that-tests-the-thresholds-of-fear",
+      "published_dt": "2026-09-17T16:54:40+06:00",
+      "published_date": "2026-09-17T16:54:40+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"The project is steadily taking shape\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/zeGXExUEqV8PctsL9RTkSo-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:27.455847+06:00",
+      "last_seen": "2026-09-17T17:00:27.455851+06:00"
+    },
+    "gamesradar.com/hardware/retro/gaime-shows-off-fresh-pro-and-lite-lightgun-prototypes-that-ditch-the-ai-camera-and-they-could-feel-more-like-my-favorite-ps2-gun-for-modern-screens": {
+      "title": "G'AIM'E shows off fresh \"Pro\" and \"Lite\" Lightgun prototypes that ditch the AI camera, and they could feel more like my favorite PS2 gun for modern screens",
+      "url": "https://www.gamesradar.com/hardware/retro/gaime-shows-off-fresh-pro-and-lite-lightgun-prototypes-that-ditch-the-ai-camera-and-they-could-feel-more-like-my-favorite-ps2-gun-for-modern-screens/",
+      "canonical": "gamesradar.com/hardware/retro/gaime-shows-off-fresh-pro-and-lite-lightgun-prototypes-that-ditch-the-ai-camera-and-they-could-feel-more-like-my-favorite-ps2-gun-for-modern-screens",
+      "published_dt": "2026-09-17T16:52:21+06:00",
+      "published_date": "2026-09-17T16:52:21+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Tassei Denki has two new G'AIM'E Time Crisis Lightgun prototypes at Tokyo Game Show 2026, and they both drop the AI sensor for gyro and open-source tech.",
+      "image": "https://cdn.mos.cms.futurecdn.net/LoBnyEJMtZez7PAeKLKy6f-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:27.455977+06:00",
+      "last_seen": "2026-09-17T17:00:27.455981+06:00"
+    },
+    "gamesradar.com/entertainment/anime-shows/despite-winning-an-oscar-michael-b-jordan-jokes-he-might-quit-acting-and-make-anime-the-rest-of-my-life": {
+      "title": "Despite winning an Oscar, Michael B. Jordan jokes he might quit acting and \"make anime the rest of my life\"",
+      "url": "https://www.gamesradar.com/entertainment/anime-shows/despite-winning-an-oscar-michael-b-jordan-jokes-he-might-quit-acting-and-make-anime-the-rest-of-my-life/",
+      "canonical": "gamesradar.com/entertainment/anime-shows/despite-winning-an-oscar-michael-b-jordan-jokes-he-might-quit-acting-and-make-anime-the-rest-of-my-life",
+      "published_dt": "2026-09-17T16:21:28+06:00",
+      "published_date": "2026-09-17T16:21:28+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Michael B. Jordan loves anime",
+      "image": "https://cdn.mos.cms.futurecdn.net/8rrwafUPyWMJXKLSnrNRgG-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:27.456102+06:00",
+      "last_seen": "2026-09-17T17:00:27.456105+06:00"
+    },
+    "gamesradar.com/entertainment/horror-movies/former-ghostface-matthew-lillard-says-returning-for-scream-7-may-not-have-been-the-best-idea": {
+      "title": "Former Ghostface Matthew Lillard says returning for Scream 7 \"may not have been the best idea\"",
+      "url": "https://www.gamesradar.com/entertainment/horror-movies/former-ghostface-matthew-lillard-says-returning-for-scream-7-may-not-have-been-the-best-idea/",
+      "canonical": "gamesradar.com/entertainment/horror-movies/former-ghostface-matthew-lillard-says-returning-for-scream-7-may-not-have-been-the-best-idea",
+      "published_dt": "2026-09-17T16:13:01+06:00",
+      "published_date": "2026-09-17T16:13:01+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The actor has reflected on Melissa Barrera's firing",
+      "image": "https://cdn.mos.cms.futurecdn.net/rzmSK2HKHMKcdgxmCvdUyH-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:27.456223+06:00",
+      "last_seen": "2026-09-17T17:00:27.456227+06:00"
+    },
+    "gamesradar.com/entertainment/sci-fi-movies/backrooms-director-posts-from-valves-office-again-and-portal-movie-speculation-is-intensifying": {
+      "title": "Backrooms director posts from Valve's office again, and Portal movie speculation is intensifying",
+      "url": "https://www.gamesradar.com/entertainment/sci-fi-movies/backrooms-director-posts-from-valves-office-again-and-portal-movie-speculation-is-intensifying/",
+      "canonical": "gamesradar.com/entertainment/sci-fi-movies/backrooms-director-posts-from-valves-office-again-and-portal-movie-speculation-is-intensifying",
+      "published_dt": "2026-09-17T16:00:15+06:00",
+      "published_date": "2026-09-17T16:00:15+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The young director and massive Portal fan continues to tease",
+      "image": "https://cdn.mos.cms.futurecdn.net/iYbJwiXnDe6Rccst38FsBF-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:27.456372+06:00",
+      "last_seen": "2026-09-17T17:00:27.456377+06:00"
+    },
+    "gamesradar.com/games/rpg/the-blood-of-dawnwalker-sequels-might-include-the-rpgs-controversial-time-limit-director-confirms-but-devs-will-not-force-it": {
+      "title": "The Blood of Dawnwalker sequels might include the RPG's controversial time limit, director confirms, but devs \"will not force it\"",
+      "url": "https://www.gamesradar.com/games/rpg/the-blood-of-dawnwalker-sequels-might-include-the-rpgs-controversial-time-limit-director-confirms-but-devs-will-not-force-it/",
+      "canonical": "gamesradar.com/games/rpg/the-blood-of-dawnwalker-sequels-might-include-the-rpgs-controversial-time-limit-director-confirms-but-devs-will-not-force-it",
+      "published_dt": "2026-09-17T15:50:37+06:00",
+      "published_date": "2026-09-17T15:50:37+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "If, and only if, \"it fits, then we will use it\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/89Xf2zb2qay6SHiao2WMW4-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:27.456501+06:00",
+      "last_seen": "2026-09-17T17:00:27.456505+06:00"
+    },
+    "gamesradar.com/games/grand-theft-auto/gta-6-still-needs-marketing-even-if-everyones-heard-of-it-take-two-boss-says-take-awareness-and-turn-it-into-excitement": {
+      "title": "GTA 6 still needs marketing even if everyone's heard of it, Take-Two boss says: \"Take awareness and turn it into excitement\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-still-needs-marketing-even-if-everyones-heard-of-it-take-two-boss-says-take-awareness-and-turn-it-into-excitement/",
+      "canonical": "gamesradar.com/games/grand-theft-auto/gta-6-still-needs-marketing-even-if-everyones-heard-of-it-take-two-boss-says-take-awareness-and-turn-it-into-excitement",
+      "published_dt": "2026-09-17T15:48:40+06:00",
+      "published_date": "2026-09-17T15:48:40+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Strauss Zelnick says \"awareness is one thing; enthusiasm is another thing\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/p5xXjN4jhguPenWLzWb6rh-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:27.456624+06:00",
+      "last_seen": "2026-09-17T17:00:27.456628+06:00"
+    },
+    "gamesradar.com/entertainment/fantasy-shows/game-of-thrones-star-kit-harington-says-he-joined-the-harry-potter-show-because-he-thinks-its-a-great-idea": {
+      "title": "Game of Thrones star Kit Harington says he joined the Harry Potter show because he thinks it's a \"great\" idea",
+      "url": "https://www.gamesradar.com/entertainment/fantasy-shows/game-of-thrones-star-kit-harington-says-he-joined-the-harry-potter-show-because-he-thinks-its-a-great-idea/",
+      "canonical": "gamesradar.com/entertainment/fantasy-shows/game-of-thrones-star-kit-harington-says-he-joined-the-harry-potter-show-because-he-thinks-its-a-great-idea",
+      "published_dt": "2026-09-17T15:30:43+06:00",
+      "published_date": "2026-09-17T15:30:43+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Kit Harington thinks the new show \"can really explore the books at their fullest\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/a9hQ8bcPLVfPdLwtQigeYG-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:27.456746+06:00",
+      "last_seen": "2026-09-17T17:00:27.456750+06:00"
+    },
+    "gamesradar.com/entertainment/star-wars-movies/solo-star-alden-ehrenreich-says-he-has-no-idea-if-hell-play-han-solo-again-after-the-star-wars-prequel-film-flopped": {
+      "title": "Solo star Alden Ehrenreich says he has \"no idea\" if he'll play Han Solo again after the Star Wars prequel film flopped",
+      "url": "https://www.gamesradar.com/entertainment/star-wars-movies/solo-star-alden-ehrenreich-says-he-has-no-idea-if-hell-play-han-solo-again-after-the-star-wars-prequel-film-flopped/",
+      "canonical": "gamesradar.com/entertainment/star-wars-movies/solo-star-alden-ehrenreich-says-he-has-no-idea-if-hell-play-han-solo-again-after-the-star-wars-prequel-film-flopped",
+      "published_dt": "2026-09-17T15:28:50+06:00",
+      "published_date": "2026-09-17T15:28:50+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The young Han Solo star isn't sure he's coming back",
+      "image": "https://cdn.mos.cms.futurecdn.net/yjzrVhMzrf58BTaFZzGLe4-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:27.456868+06:00",
+      "last_seen": "2026-09-17T17:00:27.456871+06:00"
+    },
+    "gamesradar.com/entertainment/horror-movies/zach-creggers-resident-evil-debuts-to-97-percent-on-rotten-tomatoes-making-it-the-highest-rated-live-action-video-game-adaptation-ever": {
+      "title": "Zach Cregger's Resident Evil debuts to 97% on Rotten Tomatoes, making it the highest-rated live-action video game adaptation ever",
+      "url": "https://www.gamesradar.com/entertainment/horror-movies/zach-creggers-resident-evil-debuts-to-97-percent-on-rotten-tomatoes-making-it-the-highest-rated-live-action-video-game-adaptation-ever/",
+      "canonical": "gamesradar.com/entertainment/horror-movies/zach-creggers-resident-evil-debuts-to-97-percent-on-rotten-tomatoes-making-it-the-highest-rated-live-action-video-game-adaptation-ever",
+      "published_dt": "2026-09-17T14:25:26+06:00",
+      "published_date": "2026-09-17T14:25:26+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The Weapons director isn't playing games and delivers another great gorefest.",
+      "image": "https://cdn.mos.cms.futurecdn.net/k84Yjr9Y8mYBns2AELcRZ7-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:27.456989+06:00",
+      "last_seen": "2026-09-17T17:00:27.456993+06:00"
+    },
+    "gamedeveloper.com/business/hyper-light-drifter-developer-heart-machine-has-laid-off-the-majority-of-staff": {
+      "title": "Hyper Light Drifter developer Heart Machine has laid off the majority of staff",
+      "url": "https://www.gamedeveloper.com/business/hyper-light-drifter-developer-heart-machine-has-laid-off-the-majority-of-staff",
+      "canonical": "gamedeveloper.com/business/hyper-light-drifter-developer-heart-machine-has-laid-off-the-majority-of-staff",
+      "published_dt": "2026-09-17T15:13:32+06:00",
+      "published_date": "2026-09-17T15:13:32+06:00",
+      "source": "Game Developer",
+      "region": "Gaming",
+      "excerpt": "The studio has downsized significantly in recent years and has now reached an existential crossroads.",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt5525e9a21436823c/6aabb0d3a934835f7c0ef207/Heart_Header.png?width=720&quality=80&disable=upscale",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-17T17:00:28.815634+06:00",
+      "last_seen": "2026-09-17T17:00:28.815640+06:00",
+      "posted_at": "2026-09-17T17:10:09.895533+06:00"
+    },
+    "insider-gaming.com/bill-skarsgard-physint-lead-role": {
+      "title": "Bill Skarsgård Will Play The Lead in Kojima’s PHYSINT",
+      "url": "https://insider-gaming.com/bill-skarsgard-physint-lead-role/",
+      "canonical": "insider-gaming.com/bill-skarsgard-physint-lead-role",
+      "published_dt": "2026-09-17T16:41:39+06:00",
+      "published_date": "2026-09-17T16:41:39+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Hideo Kojima has confirmed that Bill Skarsgård will play the protagonist role in PHYSINT, his developing tactical espionage shooter. The post Bill Skarsgård Will Play The Lead in Kojima’s PHYSINT appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:29.155633+06:00",
+      "last_seen": "2026-09-17T17:00:29.155638+06:00"
+    },
+    "insider-gaming.com/cheating-loss-of-players-revenue-half-studios": {
+      "title": "Cheating Has Caused a Loss of Players and Revenue For 51% of Game Studios",
+      "url": "https://insider-gaming.com/cheating-loss-of-players-revenue-half-studios/",
+      "canonical": "insider-gaming.com/cheating-loss-of-players-revenue-half-studios",
+      "published_dt": "2026-09-17T16:31:38+06:00",
+      "published_date": "2026-09-17T16:31:38+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "In a recent study, it was revealed that more than half of all games studios have lost players or revenue because of cheating and cheaters. The post Cheating Has Caused a Loss of Players and Revenue For 51% of Game Studios appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-17T17:00:29.155912+06:00",
+      "last_seen": "2026-09-17T17:00:29.155917+06:00",
+      "posted_at": "2026-09-17T17:10:45.647133+06:00"
+    },
+    "insider-gaming.com/call-of-duty-modern-warfare-4-mads-mikkelsen": {
+      "title": "Mads Mikkelsen Revealed As Modern Warfare 4 Antagonist",
+      "url": "https://insider-gaming.com/call-of-duty-modern-warfare-4-mads-mikkelsen/",
+      "canonical": "insider-gaming.com/call-of-duty-modern-warfare-4-mads-mikkelsen",
+      "published_dt": "2026-09-17T16:13:56+06:00",
+      "published_date": "2026-09-17T16:13:56+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "In a new Tokyo Game Show trailer, Mads Mikkelsen has been revealed as an antagonist in this year's Modern Warfare 4. The post Mads Mikkelsen Revealed As Modern Warfare 4 Antagonist appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:29.156169+06:00",
+      "last_seen": "2026-09-17T17:00:29.156174+06:00"
+    },
+    "insider-gaming.com/marvel-rivals-jeffs-superstar-search-every-daily-star-search-mission": {
+      "title": "Marvel Rivals Jeff’s Superstar Search—Every Daily Star Search Mission",
+      "url": "https://insider-gaming.com/marvel-rivals-jeffs-superstar-search-every-daily-star-search-mission/",
+      "canonical": "insider-gaming.com/marvel-rivals-jeffs-superstar-search-every-daily-star-search-mission",
+      "published_dt": "2026-09-17T15:21:21+06:00",
+      "published_date": "2026-09-17T15:21:21+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "It's time for a new event in Marvel Rivals, and this time Jeff needs your help hunting down lost stars across the game's hub areas. The post Marvel Rivals Jeff’s Superstar Search—Every Daily Star Search Mission appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:29.156472+06:00",
+      "last_seen": "2026-09-17T17:00:29.156478+06:00"
+    },
+    "insider-gaming.com/astrae-oratio-hands-on-preview": {
+      "title": "Astrae Oratio Hands-On Preview: Stylish Gameplay, Charming Vibes",
+      "url": "https://insider-gaming.com/astrae-oratio-hands-on-preview/",
+      "canonical": "insider-gaming.com/astrae-oratio-hands-on-preview",
+      "published_dt": "2026-09-17T14:45:08+06:00",
+      "published_date": "2026-09-17T14:45:08+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "At the Tokyo Game Show event, we went hands-on with Astrae Oratio during the game's first public demo. Here's what we thought. The post Astrae Oratio Hands-On Preview: Stylish Gameplay, Charming Vibes appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-17T17:00:29.156732+06:00",
+      "last_seen": "2026-09-17T17:00:29.156737+06:00",
+      "posted_at": "2026-09-17T17:10:56.045354+06:00"
+    },
+    "insider-gaming.com/escape-from-tarkov-arena-biggest-season-yet": {
+      "title": "Escape from Tarkov Arena’s ‘Biggest Season Yet’ is Coming Tomorrow",
+      "url": "https://insider-gaming.com/escape-from-tarkov-arena-biggest-season-yet/",
+      "canonical": "insider-gaming.com/escape-from-tarkov-arena-biggest-season-yet",
+      "published_dt": "2026-09-17T14:11:40+06:00",
+      "published_date": "2026-09-17T14:11:40+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Battlestate Games has confirmed that the next Escape form Tarkov Arena season will be the biggest one since the game launched in 2023. The post Escape from Tarkov Arena’s ‘Biggest Season Yet’ is Coming Tomorrow appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:29.157005+06:00",
+      "last_seen": "2026-09-17T17:00:29.157010+06:00"
+    },
+    "nintendolife.com/news/2026/09/resident-evil-is-now-the-highest-rated-video-game-movie-ever": {
+      "title": "Resident Evil Is Now The Highest-Rated Video Game Movie Ever",
+      "url": "https://www.nintendolife.com/news/2026/09/resident-evil-is-now-the-highest-rated-video-game-movie-ever",
+      "canonical": "nintendolife.com/news/2026/09/resident-evil-is-now-the-highest-rated-video-game-movie-ever",
+      "published_dt": "2026-09-17T16:15:00+06:00",
+      "published_date": "2026-09-17T16:15:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "In Cregger we trust. Reviews for Zach Cregger's new Resident Evil movie have started pouring in, and it's looking like this latest adaptation is a resounding success – critically, at least. Sitting at a whopping 97% on Rotten Tomatoes , Resident Evil is currently the highest-rated video game movie of all time. It's not even close either, with Sonic the Hedgehog 3 coming in second with 86%. Werewolves Within also achieved 86%, but the slightly lower user average of 60% puts it at number three. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/b59a10b4a5107/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:29.512358+06:00",
+      "last_seen": "2026-09-17T17:00:29.512365+06:00"
+    },
+    "nintendolife.com/news/2026/09/hyper-light-drifter-studio-forced-to-lay-off-nearly-everyone-as-publishing-deal-falls-through": {
+      "title": "Hyper Light Drifter Studio Forced To Lay Off \"Nearly Everyone\" As Publishing Deal Falls Through",
+      "url": "https://www.nintendolife.com/news/2026/09/hyper-light-drifter-studio-forced-to-lay-off-nearly-everyone-as-publishing-deal-falls-through",
+      "canonical": "nintendolife.com/news/2026/09/hyper-light-drifter-studio-forced-to-lay-off-nearly-everyone-as-publishing-deal-falls-through",
+      "published_dt": "2026-09-17T15:30:00+06:00",
+      "published_date": "2026-09-17T15:30:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "\"It's devastating\". It's another day of bleak news for the industry. Alx Preston, the founder of Hyper Light Drifter studio Heart Machine, has announced that the studio is facing closure after a key publisher \"decided to no longer move forward\" with an unannounced title, resulting in \"nearly everyone\" on the team being laid off. In a message shared on Preston's LinkedIn , the founder described the news as \"devastating,\" noting that \"everyone will be provided with as much support as possible, including assisting with placement\". Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/3034ea8f9b17e/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:29.512741+06:00",
+      "last_seen": "2026-09-17T17:00:29.512745+06:00"
+    },
+    "pushsquare.com/news/2026/09/crazy-taxi-world-tour-goes-big-in-japan-as-new-location-revealed": {
+      "title": "Crazy Taxi: World Tour Goes Big in Japan as New Location Revealed",
+      "url": "https://www.pushsquare.com/news/2026/09/crazy-taxi-world-tour-goes-big-in-japan-as-new-location-revealed",
+      "canonical": "pushsquare.com/news/2026/09/crazy-taxi-world-tour-goes-big-in-japan-as-new-location-revealed",
+      "published_dt": "2026-09-17T16:30:00+06:00",
+      "published_date": "2026-09-17T16:30:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Tokyo drift. SEGA has officially unveiled the third location you'll be visiting in Crazy Taxi: World Tour , and it's one that comes as no real surprise. Japan is set to feature in the arcade driving game, and you get a decent look at it in this new trailer: Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/5b0789a42bc28/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:29.875940+06:00",
+      "last_seen": "2026-09-17T17:00:29.875945+06:00"
+    },
+    "pushsquare.com/news/2026/09/lollipop-chainsaw-2-officially-announced-for-ps5-early-gameplay-looks-rough-as-heck": {
+      "title": "Lollipop Chainsaw 2 Officially Announced for PS5, Early Gameplay Looks Rough as Heck",
+      "url": "https://www.pushsquare.com/news/2026/09/lollipop-chainsaw-2-officially-announced-for-ps5-early-gameplay-looks-rough-as-heck",
+      "canonical": "pushsquare.com/news/2026/09/lollipop-chainsaw-2-officially-announced-for-ps5-early-gameplay-looks-rough-as-heck",
+      "published_dt": "2026-09-17T16:00:00+06:00",
+      "published_date": "2026-09-17T16:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Juliet returns. As expected, Nada Holdings and Dragami Games have officially unveiled Lollipop Chainsaw 2 Back2Back , a sequel to the cult favourite PS3 action game. Dragami Games revived the original with the remake Lollipop Chainsaw RePOP, and it's now working on a direct follow-up. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/38a1f46a450be/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:29.876275+06:00",
+      "last_seen": "2026-09-17T17:00:29.876280+06:00"
+    },
+    "pushsquare.com/news/2026/09/rumour-media-molecules-next-game-is-out-next-year-and-unlike-anything-its-made-before": {
+      "title": "Rumour: Media Molecule's Next Game Is Out Next Year and Unlike Anything It's Made Before",
+      "url": "https://www.pushsquare.com/news/2026/09/rumour-media-molecules-next-game-is-out-next-year-and-unlike-anything-its-made-before",
+      "canonical": "pushsquare.com/news/2026/09/rumour-media-molecules-next-game-is-out-next-year-and-unlike-anything-its-made-before",
+      "published_dt": "2026-09-17T15:15:00+06:00",
+      "published_date": "2026-09-17T15:15:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "New horizons. If you're anything like me, you'll have been dying to know what's going on over at Media Molecule since it wound down active development on Dreams . Well, a new report from MP1st claims to know what it's making, and when it's coming. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/ecc7d0dff2bcd/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:29.876707+06:00",
+      "last_seen": "2026-09-17T17:00:29.876711+06:00"
+    },
+    "purexbox.com/features/roundup-all-the-reveals-from-the-xbox-showcase-at-tokyo-game-show-2026": {
+      "title": "Roundup: All The Reveals From The Xbox Showcase At Tokyo Game Show 2026",
+      "url": "https://www.purexbox.com/features/roundup-all-the-reveals-from-the-xbox-showcase-at-tokyo-game-show-2026",
+      "canonical": "purexbox.com/features/roundup-all-the-reveals-from-the-xbox-showcase-at-tokyo-game-show-2026",
+      "published_dt": "2026-09-17T16:45:00+06:00",
+      "published_date": "2026-09-17T16:45:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Missed the event? Here's a recap. Weren't able to catch the Xbox showcase at Tokyo Game Show 2026 earlier today? No worries! You can always go back and watch the on-demand version for yourself , which you'll find elsewhere on Pure Xbox. If you don't want to watch it all the way through, we've also detailed all the important reveals in this article. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/98d3688956079/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:30.242933+06:00",
+      "last_seen": "2026-09-17T17:00:30.242938+06:00"
+    },
+    "purexbox.com/features/poll-how-would-you-grade-xboxs-tokyo-game-show-2026-event": {
+      "title": "Poll: How Would You Grade Xbox's Tokyo Game Show 2026 Event?",
+      "url": "https://www.purexbox.com/features/poll-how-would-you-grade-xboxs-tokyo-game-show-2026-event",
+      "canonical": "purexbox.com/features/poll-how-would-you-grade-xboxs-tokyo-game-show-2026-event",
+      "published_dt": "2026-09-17T16:39:00+06:00",
+      "published_date": "2026-09-17T16:39:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Give us your verdict. The dust is now beginning to settle on the Xbox showcase at Tokyo Game Show 2026! If you haven't had a chance to watch it yet, you can catch the full thing over at our live coverage page , and we've also provided a recap of everything that happened as part of the show . Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/bf39489b5f9d5/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:30.243305+06:00",
+      "last_seen": "2026-09-17T17:00:30.243330+06:00"
+    },
+    "escapistmagazine.com/news-denuvo-sues-voices38-game-cracker-lawsuit": {
+      "title": "Denuvo strikes back at prominent cracker ‘voices38’, with lawsuit intended to unmask them",
+      "url": "https://www.escapistmagazine.com/news-denuvo-sues-voices38-game-cracker-lawsuit/",
+      "canonical": "escapistmagazine.com/news-denuvo-sues-voices38-game-cracker-lawsuit",
+      "published_dt": "2026-09-17T16:05:07+06:00",
+      "published_date": "2026-09-17T16:05:07+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "The post Denuvo strikes back at prominent cracker ‘voices38’, with lawsuit intended to unmask them appeared first on The Escapist .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:31.027355+06:00",
+      "last_seen": "2026-09-17T17:00:31.027361+06:00"
+    },
+    "escapistmagazine.com/monster-hunter-wilds-edit-vouchers": {
+      "title": "Monster Hunter Wilds Players Get Free Edits Before Unlimited Changes",
+      "url": "https://www.escapistmagazine.com/monster-hunter-wilds-edit-vouchers/",
+      "canonical": "escapistmagazine.com/monster-hunter-wilds-edit-vouchers",
+      "published_dt": "2026-09-17T15:00:00+06:00",
+      "published_date": "2026-09-17T15:00:00+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "Monster Hunter Wilds players get 10 free edit vouchers on December 3 before unlimited hunter and Palico appearance changes arrive next year. The post Monster Hunter Wilds Players Get Free Edits Before Unlimited Changes appeared first on The Escapist .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T17:00:31.027638+06:00",
+      "last_seen": "2026-09-17T17:00:31.027643+06:00"
     }
   },
   "events": {
@@ -18497,6 +19324,555 @@
         {
           "published_at": "2026-09-17T05:49:13.228047+00:00",
           "headline": "Capcom Unveils Mega Man Dual Override with New Proto Man Trailer at TGS 2026",
+          "claims": []
+        }
+      ]
+    },
+    "evt_a155d309d8cba6": {
+      "event_id": "evt_a155d309d8cba6",
+      "event_key": "heartmachine layoffs 2026 09 17",
+      "event_subject": "Heart Machine",
+      "event_type": "layoff",
+      "event_frame": {
+        "event_key": "heartmachine layoffs 2026 09 17",
+        "subject": "Heart Machine",
+        "event_type": "layoff",
+        "action": "lay off staff",
+        "status": "confirmed",
+        "modality": "confirmed",
+        "game": "Hyper Light Drifter",
+        "franchise": "Hyper Light Drifter",
+        "institution": "Heart Machine",
+        "target": "employees",
+        "platforms": [],
+        "topic": "studio closure"
+      },
+      "sources": [
+        "Nintendo Life",
+        "Game Developer"
+      ],
+      "event_sources": [
+        "Nintendo Life",
+        "Game Developer"
+      ],
+      "claims": [
+        "nearly everyone laid off after publishing deal fell through",
+        "majority of staff laid off after publishing deal collapse"
+      ],
+      "importance_score": 63,
+      "coverage_score": 6,
+      "originality_score": 12,
+      "significance_score": 25,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Heart Machine Lays Off Nearly All Staff After Publisher Pulls Funding",
+      "summary": "Indie studio Heart Machine, creator of Hyper Light Drifter, announced massive layoffs following a publisher’s withdrawal of support for an unannounced title.",
+      "published_at": "2026-09-17T15:13:32+06:00",
+      "selected_at": "2026-09-17T11:10:09.895567+00:00",
+      "status": "published",
+      "message_id": 325,
+      "published_versions": [
+        {
+          "published_at": "2026-09-17T11:10:09.895567+00:00",
+          "headline": "Heart Machine Lays Off Nearly All Staff After Publisher Pulls Funding",
+          "claims": [
+            "nearly everyone laid off after publishing deal fell through",
+            "majority of staff laid off after publishing deal collapse"
+          ]
+        }
+      ]
+    },
+    "evt_558cf424f1c6b1": {
+      "event_id": "evt_558cf424f1c6b1",
+      "event_key": "physint casting bill skarsg rd",
+      "event_subject": "Bill Skarsgård",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "physint casting bill skarsg rd",
+        "subject": "Bill Skarsgård",
+        "event_type": "other",
+        "action": "cast",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Physint",
+        "franchise": "Physint",
+        "institution": "Kojima Productions / Xbox",
+        "target": "lead role",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "GamesRadar+",
+        "Eurogamer",
+        "VGC",
+        "Insider Gaming",
+        "Gematsu"
+      ],
+      "event_sources": [
+        "GamesRadar+",
+        "Eurogamer",
+        "VGC",
+        "Insider Gaming",
+        "Gematsu"
+      ],
+      "claims": [],
+      "importance_score": 61,
+      "coverage_score": 17,
+      "originality_score": 12,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Bill Skarsgård Cast as Lead in Hideo Kojima’s Xbox‑Bound Physint",
+      "summary": "Hideo Kojima announced at Tokyo Game Show 2026 that Bill Skarsgård will star in the action‑espionage title Physint, now partnered with Xbox after Sony’s cancellation.",
+      "published_at": "2026-09-17T16:42:16+06:00",
+      "selected_at": "2026-09-17T11:10:15.081443+00:00",
+      "status": "published",
+      "message_id": 326,
+      "published_versions": [
+        {
+          "published_at": "2026-09-17T11:10:15.081443+00:00",
+          "headline": "Bill Skarsgård Cast as Lead in Hideo Kojima’s Xbox‑Bound Physint",
+          "claims": []
+        }
+      ]
+    },
+    "evt_7ee62830336537": {
+      "event_id": "evt_7ee62830336537",
+      "event_key": "monsterhunterwilds editvouchers free 2026 09 17",
+      "event_subject": "Monster Hunter Wilds",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "monsterhunterwilds editvouchers free 2026 09 17",
+        "subject": "Monster Hunter Wilds",
+        "event_type": "other",
+        "action": "remove charge for character edit vouchers",
+        "status": "confirmed",
+        "modality": "confirmed",
+        "game": "Monster Hunter Wilds",
+        "franchise": "Monster Hunter",
+        "institution": "Capcom",
+        "target": "players",
+        "platforms": [],
+        "topic": "monetisation change"
+      },
+      "sources": [
+        "VGC",
+        "The Escapist",
+        "Eurogamer"
+      ],
+      "event_sources": [
+        "VGC",
+        "The Escapist",
+        "Eurogamer"
+      ],
+      "claims": [
+        "character edit vouchers will be free with Ascendance expansion",
+        "10 free edit vouchers on Dec 3 ahead of unlimited edits",
+        "Teostra returns in Ascendance expansion"
+      ],
+      "importance_score": 61,
+      "coverage_score": 10,
+      "originality_score": 10,
+      "significance_score": 16,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Capcom to End Paid Cosmetic Changes in Monster Hunter Wilds",
+      "summary": "Capcom will remove all character and Palico appearance fees in Monster Hunter Wilds starting with the 2027 Ascendance update, granting unlimited free edits.",
+      "published_at": "2026-09-17T15:06:46+06:00",
+      "selected_at": "2026-09-17T11:10:20.487468+00:00",
+      "status": "published",
+      "message_id": 327,
+      "published_versions": [
+        {
+          "published_at": "2026-09-17T11:10:20.487468+00:00",
+          "headline": "Capcom to End Paid Cosmetic Changes in Monster Hunter Wilds",
+          "claims": [
+            "character edit vouchers will be free with Ascendance expansion",
+            "10 free edit vouchers on Dec 3 ahead of unlimited edits",
+            "Teostra returns in Ascendance expansion"
+          ]
+        }
+      ]
+    },
+    "evt_2d2bac44fd4ea9": {
+      "event_id": "evt_2d2bac44fd4ea9",
+      "event_key": "fortnite kingdom hearts crossover",
+      "event_subject": "Kingdom Hearts",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fortnite kingdom hearts crossover",
+        "subject": "Kingdom Hearts",
+        "event_type": "other",
+        "action": "add",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Fortnite",
+        "franchise": "Fortnite",
+        "institution": "Epic Games",
+        "target": "cosmetics",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Polygon",
+        "GameSpot"
+      ],
+      "event_sources": [
+        "Polygon",
+        "GameSpot"
+      ],
+      "claims": [],
+      "importance_score": 58,
+      "coverage_score": 6,
+      "originality_score": 10,
+      "significance_score": 18,
+      "freshness_score": 10,
+      "source_trust_score": 9,
+      "headline": "Fortnite Update Brings Kingdom Hearts Heroes and Cyberpunk Edgerunners to Battle Royale",
+      "summary": "The v42.20 patch adds Sora, Roxas, Kairi and Riku skins, the Kingdom Key weapon, and early Cyberpunk Edgerunners gear to Fortnite’s island.",
+      "published_at": "2026-09-17T16:25:53+06:00",
+      "selected_at": "2026-09-17T11:10:26.007043+00:00",
+      "status": "published",
+      "message_id": 328,
+      "published_versions": [
+        {
+          "published_at": "2026-09-17T11:10:26.007043+00:00",
+          "headline": "Fortnite Update Brings Kingdom Hearts Heroes and Cyberpunk Edgerunners to Battle Royale",
+          "claims": []
+        }
+      ]
+    },
+    "evt_57c8b1cb7a7f7e": {
+      "event_id": "evt_57c8b1cb7a7f7e",
+      "event_key": "modern warfare 4 campaign trailer",
+      "event_subject": "Call of Duty: Modern Warfare 4",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "modern warfare 4 campaign trailer",
+        "subject": "Call of Duty: Modern Warfare 4",
+        "event_type": "other",
+        "action": "release",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Call of Duty: Modern Warfare 4",
+        "franchise": "Call of Duty: Modern Warfare 4",
+        "institution": "Activision",
+        "target": "campaign",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Gematsu"
+      ],
+      "event_sources": [
+        "Gematsu"
+      ],
+      "claims": [],
+      "importance_score": 54,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 20,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Activision Unveils Call of Duty: Modern Warfare 4 Campaign Trailer",
+      "summary": "The new trailer reveals John Price’s covert ops, a South Korean invasion, and the looming threat of Archer’s world‑shaking weapon.",
+      "published_at": "2026-09-17T16:05:13+06:00",
+      "selected_at": "2026-09-17T11:10:30.735303+00:00",
+      "status": "published",
+      "message_id": 329,
+      "published_versions": [
+        {
+          "published_at": "2026-09-17T11:10:30.735303+00:00",
+          "headline": "Activision Unveils Call of Duty: Modern Warfare 4 Campaign Trailer",
+          "claims": []
+        }
+      ]
+    },
+    "evt_13f261d4bf6786": {
+      "event_id": "evt_13f261d4bf6786",
+      "event_key": "helldivers 2 horizon forbidden west uk steam delisting",
+      "event_subject": "Sony",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "helldivers 2 horizon forbidden west uk steam delisting",
+        "subject": "Sony",
+        "event_type": "other",
+        "action": "delist",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "Helldivers 2; Horizon Forbidden West",
+        "franchise": "Helldivers 2; Horizon Forbidden West",
+        "institution": "Sony",
+        "target": "Steam UK store",
+        "platforms": [
+          "Steam"
+        ],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "GamesRadar+",
+        "Eurogamer"
+      ],
+      "event_sources": [
+        "GamesRadar+",
+        "Eurogamer"
+      ],
+      "claims": [],
+      "importance_score": 50,
+      "coverage_score": 6,
+      "originality_score": 10,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 9,
+      "headline": "Helldivers 2 and Horizon Forbidden West Delisted from Steam in the UK",
+      "summary": "Sony confirmed an accidental removal of Helldivers 2 and Horizon Forbidden West from the UK Steam store, pledging to work with Valve to restore access.",
+      "published_at": "2026-09-17T15:52:50+06:00",
+      "selected_at": "2026-09-17T11:10:35.866015+00:00",
+      "status": "published",
+      "message_id": 330,
+      "published_versions": [
+        {
+          "published_at": "2026-09-17T11:10:35.866015+00:00",
+          "headline": "Helldivers 2 and Horizon Forbidden West Delisted from Steam in the UK",
+          "claims": []
+        }
+      ]
+    },
+    "evt_de99e81e9f4d06": {
+      "event_id": "evt_de99e81e9f4d06",
+      "event_key": "resident evil movie highest rating",
+      "event_subject": "Resident Evil film",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "resident evil movie highest rating",
+        "subject": "Resident Evil film",
+        "event_type": "other",
+        "action": "achieve",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "Rotten Tomatoes",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "event_sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "claims": [],
+      "importance_score": 48,
+      "coverage_score": 6,
+      "originality_score": 12,
+      "significance_score": 10,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Resident Evil Film Sets Record as Highest‑Rated Video Game Movie on Rotten Tomatoes",
+      "summary": "Zach Cregger’s 2026 Resident Evil movie earned a 97% critic score, surpassing the previous record and cementing its place in video‑game cinema history.",
+      "published_at": "2026-09-17T15:56:46+06:00",
+      "selected_at": "2026-09-17T11:10:40.737498+00:00",
+      "status": "published",
+      "message_id": 331,
+      "published_versions": [
+        {
+          "published_at": "2026-09-17T11:10:40.737498+00:00",
+          "headline": "Resident Evil Film Sets Record as Highest‑Rated Video Game Movie on Rotten Tomatoes",
+          "claims": []
+        }
+      ]
+    },
+    "evt_9fd1c8a24ac39b": {
+      "event_id": "evt_9fd1c8a24ac39b",
+      "event_key": "game studios cheating impact study",
+      "event_subject": "Study",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "game studios cheating impact study",
+        "subject": "Study",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "cheating",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [],
+      "importance_score": 47,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 13,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Cheating Costs 51% of Studios Players and Revenue, Study Finds",
+      "summary": "A recent Anybrain survey of 250 UK and US studios reveals that cheating has led to player loss and revenue drops for over half of them.",
+      "published_at": "2026-09-17T16:31:38+06:00",
+      "selected_at": "2026-09-17T11:10:45.647161+00:00",
+      "status": "published",
+      "message_id": 332,
+      "published_versions": [
+        {
+          "published_at": "2026-09-17T11:10:45.647161+00:00",
+          "headline": "Cheating Costs 51% of Studios Players and Revenue, Study Finds",
+          "claims": []
+        }
+      ]
+    },
+    "evt_7d8e2db617c0eb": {
+      "event_id": "evt_7d8e2db617c0eb",
+      "event_key": "gachiakuta breakout launch announcement",
+      "event_subject": "GACHIAKUTA: BREAKOUT",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gachiakuta breakout launch announcement",
+        "subject": "GACHIAKUTA: BREAKOUT",
+        "event_type": "other",
+        "action": "announce",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "GACHIAKUTA: BREAKOUT",
+        "franchise": "GACHIAKUTA: BREAKOUT",
+        "institution": "",
+        "target": "2027",
+        "platforms": [
+          "PS5",
+          "Xbox"
+        ],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Gematsu"
+      ],
+      "event_sources": [
+        "Gematsu"
+      ],
+      "claims": [],
+      "importance_score": 46,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "GACHIAKUTA: BREAKOUT Set for 2027 Release on PlayStation 5, Xbox Series, and PC",
+      "summary": "Survival action RPG GACHIAKUTA: BREAKOUT will debut in 2027 across PlayStation 5, Xbox Series, and Steam PC platforms, according to developer Com2uS.",
+      "published_at": "2026-09-17T16:02:02+06:00",
+      "selected_at": "2026-09-17T11:10:50.841704+00:00",
+      "status": "published",
+      "message_id": 333,
+      "published_versions": [
+        {
+          "published_at": "2026-09-17T11:10:50.841704+00:00",
+          "headline": "GACHIAKUTA: BREAKOUT Set for 2027 Release on PlayStation 5, Xbox Series, and PC",
+          "claims": []
+        }
+      ]
+    },
+    "evt_991a3e1d4c5603": {
+      "event_id": "evt_991a3e1d4c5603",
+      "event_key": "astraeoratio handson tgs 2026 09 17",
+      "event_subject": "Astrae Oratio",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "astraeoratio handson tgs 2026 09 17",
+        "subject": "Astrae Oratio",
+        "event_type": "other",
+        "action": "preview gameplay at Tokyo Game Show",
+        "status": "confirmed",
+        "modality": "confirmed",
+        "game": "Astrae Oratio",
+        "franchise": "Astrae Oratio",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "hands‑on preview"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [
+        "stylish gameplay and charming vibes showcased"
+      ],
+      "importance_score": 45,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 11,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Astrae Oratio Hands‑On Preview Shows Stylish Combat at Tokyo Game Show",
+      "summary": "The new RPG Astrae Oratio dazzles with slick visuals, humor, and turn‑based combat during its limited mobile demo at TGS.",
+      "published_at": "2026-09-17T14:45:08+06:00",
+      "selected_at": "2026-09-17T11:10:56.045385+00:00",
+      "status": "published",
+      "message_id": 334,
+      "published_versions": [
+        {
+          "published_at": "2026-09-17T11:10:56.045385+00:00",
+          "headline": "Astrae Oratio Hands‑On Preview Shows Stylish Combat at Tokyo Game Show",
+          "claims": [
+            "stylish gameplay and charming vibes showcased"
+          ]
+        }
+      ]
+    },
+    "evt_9878ded8c36b34": {
+      "event_id": "evt_9878ded8c36b34",
+      "event_key": "persona 4 revival naoto trailer",
+      "event_subject": "Naoto Shirogane",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "persona 4 revival naoto trailer",
+        "subject": "Naoto Shirogane",
+        "event_type": "other",
+        "action": "release",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Persona 4 Revival",
+        "franchise": "Persona 4 Revival",
+        "institution": "ATLUS",
+        "target": "character",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Gematsu"
+      ],
+      "event_sources": [
+        "Gematsu"
+      ],
+      "claims": [],
+      "importance_score": 45,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 11,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Persona 4 Revival Unveils New Naoto Shirogane Trailer Ahead of 2027 Launch",
+      "summary": "Atlus released a fresh trailer showcasing Naoto Shirogane for Persona 4 Revival, confirming release dates across major consoles and PC.",
+      "published_at": "2026-09-17T16:09:34+06:00",
+      "selected_at": "2026-09-17T11:11:00.876944+00:00",
+      "status": "published",
+      "message_id": 335,
+      "published_versions": [
+        {
+          "published_at": "2026-09-17T11:11:00.876944+00:00",
+          "headline": "Persona 4 Revival Unveils New Naoto Shirogane Trailer Ahead of 2027 Launch",
           "claims": []
         }
       ]
@@ -40720,43 +42096,43 @@
     "evt_4ddd255e71076f": {
       "event_id": "evt_4ddd255e71076f",
       "event_key": "wardogs sales milestone",
-      "event_subject": "WARDOGS first‑day sales milestone",
+      "event_subject": "Wardogs",
       "event_type": "other",
       "event_frame": {
         "event_key": "wardogs sales milestone",
-        "subject": "WARDOGS first‑day sales milestone",
+        "subject": "Wardogs",
         "event_type": "other",
         "action": "report",
-        "status": "reported",
+        "status": "published",
         "modality": "unknown",
-        "game": "WARDOGS",
-        "franchise": "WARDOGS",
+        "game": "Wardogs",
+        "franchise": "Wardogs",
         "institution": "",
-        "target": "industry",
-        "platforms": [],
-        "topic": "sales"
+        "target": "Steam",
+        "platforms": [
+          "Steam"
+        ],
+        "topic": "Gaming"
       },
       "modality": "unknown",
-      "topic": "sales",
+      "topic": "Gaming",
       "institution": "",
       "sources": [
-        "PC Gamer"
+        "Eurogamer"
       ],
       "source_count": 1,
       "independent_source_count": 1,
-      "claims": [
-        "Sold over 1 million copies in first 24 hours"
-      ],
-      "importance_score": 52,
+      "claims": [],
+      "importance_score": 50,
       "score_breakdown": {
-        "significance": 22,
+        "significance": 20,
         "coverage": 2,
         "originality": 10,
         "freshness": 10,
         "source_trust": 8,
-        "total": 52
+        "total": 50
       },
-      "last_seen": "2026-09-12T19:54:28.884713+06:00"
+      "last_seen": "2026-09-17T17:03:39.112186+06:00"
     },
     "evt_aedb00b6fe0241": {
       "event_id": "evt_aedb00b6fe0241",
@@ -63881,6 +65257,1538 @@
         "total": 30
       },
       "last_seen": "2026-09-17T11:47:00.647739+06:00"
+    },
+    "evt_a155d309d8cba6": {
+      "event_id": "evt_a155d309d8cba6",
+      "event_key": "heartmachine layoffs 2026 09 17",
+      "event_subject": "Heart Machine",
+      "event_type": "layoff",
+      "event_frame": {
+        "event_key": "heartmachine layoffs 2026 09 17",
+        "subject": "Heart Machine",
+        "event_type": "layoff",
+        "action": "lay off staff",
+        "status": "confirmed",
+        "modality": "confirmed",
+        "game": "Hyper Light Drifter",
+        "franchise": "Hyper Light Drifter",
+        "institution": "Heart Machine",
+        "target": "employees",
+        "platforms": [],
+        "topic": "studio closure"
+      },
+      "modality": "confirmed",
+      "topic": "studio closure",
+      "institution": "Heart Machine",
+      "sources": [
+        "Nintendo Life",
+        "Game Developer"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "nearly everyone laid off after publishing deal fell through",
+        "majority of staff laid off after publishing deal collapse"
+      ],
+      "importance_score": 63,
+      "score_breakdown": {
+        "significance": 25,
+        "coverage": 6,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 63
+      },
+      "last_seen": "2026-09-17T17:03:39.112158+06:00"
+    },
+    "evt_57c8b1cb7a7f7e": {
+      "event_id": "evt_57c8b1cb7a7f7e",
+      "event_key": "modern warfare 4 campaign trailer",
+      "event_subject": "Call of Duty: Modern Warfare 4",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "modern warfare 4 campaign trailer",
+        "subject": "Call of Duty: Modern Warfare 4",
+        "event_type": "other",
+        "action": "release",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Call of Duty: Modern Warfare 4",
+        "franchise": "Call of Duty: Modern Warfare 4",
+        "institution": "Activision",
+        "target": "campaign",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "Activision",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 54,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 54
+      },
+      "last_seen": "2026-09-17T17:03:39.112178+06:00"
+    },
+    "evt_2d2bac44fd4ea9": {
+      "event_id": "evt_2d2bac44fd4ea9",
+      "event_key": "fortnite kingdom hearts crossover",
+      "event_subject": "Kingdom Hearts",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fortnite kingdom hearts crossover",
+        "subject": "Kingdom Hearts",
+        "event_type": "other",
+        "action": "add",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Fortnite",
+        "franchise": "Fortnite",
+        "institution": "Epic Games",
+        "target": "cosmetics",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "Epic Games",
+      "sources": [
+        "Polygon",
+        "GameSpot"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [],
+      "importance_score": 58,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 58
+      },
+      "last_seen": "2026-09-17T17:03:39.112197+06:00"
+    },
+    "evt_7ee62830336537": {
+      "event_id": "evt_7ee62830336537",
+      "event_key": "monsterhunterwilds editvouchers free 2026 09 17",
+      "event_subject": "Monster Hunter Wilds",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "monsterhunterwilds editvouchers free 2026 09 17",
+        "subject": "Monster Hunter Wilds",
+        "event_type": "other",
+        "action": "remove charge for character edit vouchers",
+        "status": "confirmed",
+        "modality": "confirmed",
+        "game": "Monster Hunter Wilds",
+        "franchise": "Monster Hunter",
+        "institution": "Capcom",
+        "target": "players",
+        "platforms": [],
+        "topic": "monetisation change"
+      },
+      "modality": "confirmed",
+      "topic": "monetisation change",
+      "institution": "Capcom",
+      "sources": [
+        "VGC",
+        "The Escapist",
+        "Eurogamer"
+      ],
+      "source_count": 3,
+      "independent_source_count": 3,
+      "claims": [
+        "character edit vouchers will be free with Ascendance expansion",
+        "10 free edit vouchers on Dec 3 ahead of unlimited edits",
+        "Teostra returns in Ascendance expansion"
+      ],
+      "importance_score": 61,
+      "score_breakdown": {
+        "significance": 16,
+        "coverage": 10,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 61
+      },
+      "last_seen": "2026-09-17T17:03:39.112204+06:00"
+    },
+    "evt_13f261d4bf6786": {
+      "event_id": "evt_13f261d4bf6786",
+      "event_key": "helldivers 2 horizon forbidden west uk steam delisting",
+      "event_subject": "Sony",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "helldivers 2 horizon forbidden west uk steam delisting",
+        "subject": "Sony",
+        "event_type": "other",
+        "action": "delist",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "Helldivers 2; Horizon Forbidden West",
+        "franchise": "Helldivers 2; Horizon Forbidden West",
+        "institution": "Sony",
+        "target": "Steam UK store",
+        "platforms": [
+          "Steam"
+        ],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "Sony",
+      "sources": [
+        "GamesRadar+",
+        "Eurogamer"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [],
+      "importance_score": 50,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 50
+      },
+      "last_seen": "2026-09-17T17:03:39.112211+06:00"
+    },
+    "evt_bb306d96b5a6f0": {
+      "event_id": "evt_bb306d96b5a6f0",
+      "event_key": "gta 6 marketing comment",
+      "event_subject": "GTA 6",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta 6 marketing comment",
+        "subject": "GTA 6",
+        "event_type": "other",
+        "action": "comment",
+        "status": "published",
+        "modality": "unknown",
+        "game": "GTA 6",
+        "franchise": "GTA 6",
+        "institution": "Take-Two",
+        "target": "",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "Take-Two",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 41,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 41
+      },
+      "last_seen": "2026-09-17T17:03:39.112217+06:00"
+    },
+    "evt_22a11cbf8f18bf": {
+      "event_id": "evt_22a11cbf8f18bf",
+      "event_key": "amd mid range gpu 2027 rumor",
+      "event_subject": "AMD",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "amd mid range gpu 2027 rumor",
+        "subject": "AMD",
+        "event_type": "other",
+        "action": "speculate",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "GPU",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 44
+      },
+      "last_seen": "2026-09-17T17:03:39.112222+06:00"
+    },
+    "evt_91bdfd5b8d4b71": {
+      "event_id": "evt_91bdfd5b8d4b71",
+      "event_key": "residentevil film boxoffice forecast 2026 09 17",
+      "event_subject": "Resident Evil (film)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "residentevil film boxoffice forecast 2026 09 17",
+        "subject": "Resident Evil (film)",
+        "event_type": "other",
+        "action": "expected to break franchise record",
+        "status": "forecast",
+        "modality": "forecast",
+        "game": "Resident Evil",
+        "franchise": "Resident Evil",
+        "institution": "Zach Cregger",
+        "target": "franchise box office",
+        "platforms": [],
+        "topic": "box office projection"
+      },
+      "modality": "forecast",
+      "topic": "box office projection",
+      "institution": "Zach Cregger",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "expected to earn more opening weekend than any previous Resident Evil film"
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 44
+      },
+      "last_seen": "2026-09-17T17:03:39.112229+06:00"
+    },
+    "evt_d816c03c9f5517": {
+      "event_id": "evt_d816c03c9f5517",
+      "event_key": "xbox tokyo game show 2026 announcements",
+      "event_subject": "Xbox",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "xbox tokyo game show 2026 announcements",
+        "subject": "Xbox",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Xbox",
+        "target": "TGS 2026",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "Xbox",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 44
+      },
+      "last_seen": "2026-09-17T17:03:39.112235+06:00"
+    },
+    "evt_9fd1c8a24ac39b": {
+      "event_id": "evt_9fd1c8a24ac39b",
+      "event_key": "game studios cheating impact study",
+      "event_subject": "Study",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "game studios cheating impact study",
+        "subject": "Study",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "cheating",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 47,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 47
+      },
+      "last_seen": "2026-09-17T17:03:39.112241+06:00"
+    },
+    "evt_dc75de0594f35b": {
+      "event_id": "evt_dc75de0594f35b",
+      "event_key": "lollipop chainsaw 2 announcement",
+      "event_subject": "Lollipop Chainsaw 2",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "lollipop chainsaw 2 announcement",
+        "subject": "Lollipop Chainsaw 2",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Lollipop Chainsaw 2",
+        "franchise": "Lollipop Chainsaw 2",
+        "institution": "Dragami Games",
+        "target": "PS5",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "Dragami Games",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 43,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 43
+      },
+      "last_seen": "2026-09-17T17:03:39.112247+06:00"
+    },
+    "evt_9d6842fa139301": {
+      "event_id": "evt_9d6842fa139301",
+      "event_key": "xbox tgs2026 livereport 2026 09 17",
+      "event_subject": "Microsoft/Xbox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox tgs2026 livereport 2026 09 17",
+        "subject": "Microsoft/Xbox",
+        "event_type": "other",
+        "action": "report all announcements at Tokyo Game Show",
+        "status": "confirmed",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "audience",
+        "platforms": [],
+        "topic": "event coverage"
+      },
+      "modality": "confirmed",
+      "topic": "event coverage",
+      "institution": "Microsoft",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "live report of Xbox presence and announcements"
+      ],
+      "importance_score": 43,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 43
+      },
+      "last_seen": "2026-09-17T17:03:39.112253+06:00"
+    },
+    "evt_2fbb654d5e10d6": {
+      "event_id": "evt_2fbb654d5e10d6",
+      "event_key": "denuvo lawsuit against voices38",
+      "event_subject": "Denuvo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "denuvo lawsuit against voices38",
+        "subject": "Denuvo",
+        "event_type": "other",
+        "action": "sue",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "voices38",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 39
+      },
+      "last_seen": "2026-09-17T17:03:39.112259+06:00"
+    },
+    "evt_558cf424f1c6b1": {
+      "event_id": "evt_558cf424f1c6b1",
+      "event_key": "physint casting bill skarsg rd",
+      "event_subject": "Bill Skarsgård",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "physint casting bill skarsg rd",
+        "subject": "Bill Skarsgård",
+        "event_type": "other",
+        "action": "cast",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Physint",
+        "franchise": "Physint",
+        "institution": "Kojima Productions / Xbox",
+        "target": "lead role",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "Kojima Productions / Xbox",
+      "sources": [
+        "GamesRadar+",
+        "Eurogamer",
+        "VGC",
+        "Insider Gaming",
+        "Gematsu"
+      ],
+      "source_count": 5,
+      "independent_source_count": 5,
+      "claims": [],
+      "importance_score": 61,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 17,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 61
+      },
+      "last_seen": "2026-09-17T17:03:39.112265+06:00"
+    },
+    "evt_54135955521811": {
+      "event_id": "evt_54135955521811",
+      "event_key": "modern warfare 4 antagonist reveal",
+      "event_subject": "Mads Mikkelsen",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "modern warfare 4 antagonist reveal",
+        "subject": "Mads Mikkelsen",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Call of Duty: Modern Warfare 4",
+        "franchise": "Call of Duty: Modern Warfare 4",
+        "institution": "Activision",
+        "target": "antagonist",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "Activision",
+      "sources": [
+        "IGN",
+        "Insider Gaming"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [],
+      "importance_score": 51,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 6,
+        "originality": 13,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 51
+      },
+      "last_seen": "2026-09-17T17:03:39.112271+06:00"
+    },
+    "evt_7d8e2db617c0eb": {
+      "event_id": "evt_7d8e2db617c0eb",
+      "event_key": "gachiakuta breakout launch announcement",
+      "event_subject": "GACHIAKUTA: BREAKOUT",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gachiakuta breakout launch announcement",
+        "subject": "GACHIAKUTA: BREAKOUT",
+        "event_type": "other",
+        "action": "announce",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "GACHIAKUTA: BREAKOUT",
+        "franchise": "GACHIAKUTA: BREAKOUT",
+        "institution": "",
+        "target": "2027",
+        "platforms": [
+          "PS5",
+          "Xbox"
+        ],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 46
+      },
+      "last_seen": "2026-09-17T17:03:39.112277+06:00"
+    },
+    "evt_9efad16dfd71bc": {
+      "event_id": "evt_9efad16dfd71bc",
+      "event_key": "ps5 firmware 26 06 14 00 00 release 2026 09 17",
+      "event_subject": "PlayStation 5",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ps5 firmware 26 06 14 00 00 release 2026 09 17",
+        "subject": "PlayStation 5",
+        "event_type": "other",
+        "action": "release firmware version 26.06-14.00.00",
+        "status": "confirmed",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "Sony",
+        "target": "PS5 consoles",
+        "platforms": [
+          "PlayStation 5"
+        ],
+        "topic": "firmware update"
+      },
+      "modality": "confirmed",
+      "topic": "firmware update",
+      "institution": "Sony",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Community Activity out of beta, missing key feature"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-17T17:03:39.112283+06:00"
+    },
+    "evt_a4362fda87cb08": {
+      "event_id": "evt_a4362fda87cb08",
+      "event_key": "aldenehrenreich hansolo future 2026 09 17",
+      "event_subject": "Alden Ehrenreich",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "aldenehrenreich hansolo future 2026 09 17",
+        "subject": "Alden Ehrenreich",
+        "event_type": "other",
+        "action": "express uncertainty about reprising role",
+        "status": "confirmed",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "Star Wars",
+        "institution": "Lucasfilm",
+        "target": "Han Solo role",
+        "platforms": [],
+        "topic": "actor future"
+      },
+      "modality": "confirmed",
+      "topic": "actor future",
+      "institution": "Lucasfilm",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "has no idea if he'll play Han Solo again after flop"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 38
+      },
+      "last_seen": "2026-09-17T17:03:39.112289+06:00"
+    },
+    "evt_991a3e1d4c5603": {
+      "event_id": "evt_991a3e1d4c5603",
+      "event_key": "astraeoratio handson tgs 2026 09 17",
+      "event_subject": "Astrae Oratio",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "astraeoratio handson tgs 2026 09 17",
+        "subject": "Astrae Oratio",
+        "event_type": "other",
+        "action": "preview gameplay at Tokyo Game Show",
+        "status": "confirmed",
+        "modality": "confirmed",
+        "game": "Astrae Oratio",
+        "franchise": "Astrae Oratio",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "hands‑on preview"
+      },
+      "modality": "confirmed",
+      "topic": "hands‑on preview",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "stylish gameplay and charming vibes showcased"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 11,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 45
+      },
+      "last_seen": "2026-09-17T17:03:39.112294+06:00"
+    },
+    "evt_9878ded8c36b34": {
+      "event_id": "evt_9878ded8c36b34",
+      "event_key": "persona 4 revival naoto trailer",
+      "event_subject": "Naoto Shirogane",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "persona 4 revival naoto trailer",
+        "subject": "Naoto Shirogane",
+        "event_type": "other",
+        "action": "release",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Persona 4 Revival",
+        "franchise": "Persona 4 Revival",
+        "institution": "ATLUS",
+        "target": "character",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "ATLUS",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 11,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 45
+      },
+      "last_seen": "2026-09-17T17:03:39.112301+06:00"
+    },
+    "evt_de99e81e9f4d06": {
+      "event_id": "evt_de99e81e9f4d06",
+      "event_key": "resident evil movie highest rating",
+      "event_subject": "Resident Evil film",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "resident evil movie highest rating",
+        "subject": "Resident Evil film",
+        "event_type": "other",
+        "action": "achieve",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "Rotten Tomatoes",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [],
+      "importance_score": 48,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 6,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 48
+      },
+      "last_seen": "2026-09-17T17:03:39.112329+06:00"
+    },
+    "evt_45b50e97d0e49e": {
+      "event_id": "evt_45b50e97d0e49e",
+      "event_key": "escapefromtarkovarena biggestseason announcement 2026 09 17",
+      "event_subject": "Escape from Tarkov Arena",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "escapefromtarkovarena biggestseason announcement 2026 09 17",
+        "subject": "Escape from Tarkov Arena",
+        "event_type": "other",
+        "action": "announce biggest season yet",
+        "status": "confirmed",
+        "modality": "confirmed",
+        "game": "Escape from Tarkov Arena",
+        "franchise": "Escape from Tarkov Arena",
+        "institution": "Battlestate Games",
+        "target": "players",
+        "platforms": [],
+        "topic": "season launch"
+      },
+      "modality": "confirmed",
+      "topic": "season launch",
+      "institution": "Battlestate Games",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "next season will be the biggest since launch"
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 44
+      },
+      "last_seen": "2026-09-17T17:03:39.112336+06:00"
+    },
+    "evt_9c4710e6924fc8": {
+      "event_id": "evt_9c4710e6924fc8",
+      "event_key": "mediamolecule nextgame rumor 2026 09 17",
+      "event_subject": "Media Molecule",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "mediamolecule nextgame rumor 2026 09 17",
+        "subject": "Media Molecule",
+        "event_type": "rumor",
+        "action": "report upcoming game details",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Media Molecule",
+        "target": "next game",
+        "platforms": [],
+        "topic": "future game speculation"
+      },
+      "modality": "unknown",
+      "topic": "future game speculation",
+      "institution": "Media Molecule",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new game slated for next year, unlike anything made before"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 9,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 39
+      },
+      "last_seen": "2026-09-17T17:03:39.112342+06:00"
+    },
+    "evt_dbfdbfff701270": {
+      "event_id": "evt_dbfdbfff701270",
+      "event_key": "residentevil film rottentomatoes rating 2026 09 17",
+      "event_subject": "Resident Evil (film)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "residentevil film rottentomatoes rating 2026 09 17",
+        "subject": "Resident Evil (film)",
+        "event_type": "other",
+        "action": "debut at 97% on Rotten Tomatoes",
+        "status": "confirmed",
+        "modality": "confirmed",
+        "game": "Resident Evil",
+        "franchise": "Resident Evil",
+        "institution": "Zach Cregger",
+        "target": "film",
+        "platforms": [],
+        "topic": "critical reception"
+      },
+      "modality": "confirmed",
+      "topic": "critical reception",
+      "institution": "Zach Cregger",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "highest‑rated live‑action video game adaptation ever"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-09-17T17:03:39.112348+06:00"
+    },
+    "evt_d38877b26f45d6": {
+      "event_id": "evt_d38877b26f45d6",
+      "event_key": "crazy taxi world tour japan location reveal",
+      "event_subject": "SEGA",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "crazy taxi world tour japan location reveal",
+        "subject": "SEGA",
+        "event_type": "other",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Crazy Taxi: World Tour",
+        "franchise": "Crazy Taxi: World Tour",
+        "institution": "SEGA",
+        "target": "Japan map",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "SEGA",
+      "sources": [
+        "Push Square",
+        "Gematsu"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 6,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 45
+      },
+      "last_seen": "2026-09-17T17:03:39.112354+06:00"
+    },
+    "evt_32953c5862ec56": {
+      "event_id": "evt_32953c5862ec56",
+      "event_key": "marvelrivals starsearch event 2026 09 17",
+      "event_subject": "Marvel Rivals",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "marvelrivals starsearch event 2026 09 17",
+        "subject": "Marvel Rivals",
+        "event_type": "other",
+        "action": "release daily Star Search mission",
+        "status": "confirmed",
+        "modality": "confirmed",
+        "game": "Marvel Rivals",
+        "franchise": "Marvel",
+        "institution": "Marvel",
+        "target": "players",
+        "platforms": [],
+        "topic": "in‑game event"
+      },
+      "modality": "confirmed",
+      "topic": "in‑game event",
+      "institution": "Marvel",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new daily Star Search mission launched"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 40
+      },
+      "last_seen": "2026-09-17T17:03:39.112361+06:00"
+    },
+    "evt_3d24c30515805c": {
+      "event_id": "evt_3d24c30515805c",
+      "event_key": "g aim e lightgun prototypes reveal",
+      "event_subject": "Tassei Denki",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "g aim e lightgun prototypes reveal",
+        "subject": "Tassei Denki",
+        "event_type": "other",
+        "action": "show",
+        "status": "revealed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Tassei Denki",
+        "target": "lightgun prototypes",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "Tassei Denki",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 32
+      },
+      "last_seen": "2026-09-17T17:03:39.112367+06:00"
+    },
+    "evt_5e00e0d064860c": {
+      "event_id": "evt_5e00e0d064860c",
+      "event_key": "mtg marvelsuperheroes bundles stock 2026 09 17",
+      "event_subject": "Magic: The Gathering – Marvel Super Heroes",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "mtg marvelsuperheroes bundles stock 2026 09 17",
+        "subject": "Magic: The Gathering – Marvel Super Heroes",
+        "event_type": "other",
+        "action": "make bundles available on Amazon",
+        "status": "confirmed",
+        "modality": "confirmed",
+        "game": "Magic: The Gathering – Marvel Super Heroes",
+        "franchise": "Marvel",
+        "institution": "Hasbro",
+        "target": "collectors",
+        "platforms": [],
+        "topic": "product availability"
+      },
+      "modality": "confirmed",
+      "topic": "product availability",
+      "institution": "Hasbro",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "bundles back in stock, including hard‑to‑find Gift Bundle"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-17T17:03:39.112373+06:00"
+    },
+    "evt_90d57ac4604faf": {
+      "event_id": "evt_90d57ac4604faf",
+      "event_key": "blood of dawnwalker sequels time limit comment",
+      "event_subject": "Blood of Dawnwalker",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blood of dawnwalker sequels time limit comment",
+        "subject": "Blood of Dawnwalker",
+        "event_type": "other",
+        "action": "confirm",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Blood of Dawnwalker",
+        "franchise": "Blood of Dawnwalker",
+        "institution": "",
+        "target": "time limit",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-09-17T17:03:39.112379+06:00"
+    },
+    "evt_fcf7a3c8192305": {
+      "event_id": "evt_fcf7a3c8192305",
+      "event_key": "od development update",
+      "event_subject": "Hideo Kojima",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "od development update",
+        "subject": "Hideo Kojima",
+        "event_type": "other",
+        "action": "report progress",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "OD",
+        "franchise": "OD",
+        "institution": "Kojima Productions",
+        "target": "",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "Kojima Productions",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-09-17T17:03:39.112385+06:00"
+    },
+    "evt_890985beabf134": {
+      "event_id": "evt_890985beabf134",
+      "event_key": "xbox tokyo game show 2026 showcase recap",
+      "event_subject": "Xbox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox tokyo game show 2026 showcase recap",
+        "subject": "Xbox",
+        "event_type": "other",
+        "action": "recap",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Xbox",
+        "target": "Tokyo Game Show 2026",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "Xbox",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-17T17:03:39.112391+06:00"
+    },
+    "evt_1e617719e78473": {
+      "event_id": "evt_1e617719e78473",
+      "event_key": "backrooms director valve office post",
+      "event_subject": "Backrooms director",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "backrooms director valve office post",
+        "subject": "Backrooms director",
+        "event_type": "other",
+        "action": "post",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Valve",
+        "target": "",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "Valve",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-09-17T17:03:39.112397+06:00"
+    },
+    "evt_08cd6ec1697a42": {
+      "event_id": "evt_08cd6ec1697a42",
+      "event_key": "aniimo giftcodes published 2026 09 17",
+      "event_subject": "Aniimo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "aniimo giftcodes published 2026 09 17",
+        "subject": "Aniimo",
+        "event_type": "other",
+        "action": "publish gift codes",
+        "status": "confirmed",
+        "modality": "confirmed",
+        "game": "Aniimo",
+        "franchise": "Aniimo",
+        "institution": "Aniimo",
+        "target": "players",
+        "platforms": [],
+        "topic": "gift code release"
+      },
+      "modality": "confirmed",
+      "topic": "gift code release",
+      "institution": "Aniimo",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "all gift codes listed for redemption"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 37
+      },
+      "last_seen": "2026-09-17T17:03:39.112403+06:00"
+    },
+    "evt_b1000a420d480a": {
+      "event_id": "evt_b1000a420d480a",
+      "event_key": "hunger games movie trailer release",
+      "event_subject": "Hunger Games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "hunger games movie trailer release",
+        "subject": "Hunger Games",
+        "event_type": "other",
+        "action": "release",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "movie",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-17T17:03:39.112415+06:00"
+    },
+    "evt_d9ed5aa52bb173": {
+      "event_id": "evt_d9ed5aa52bb173",
+      "event_key": "xbox tgs 2026 poll",
+      "event_subject": "Xbox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox tgs 2026 poll",
+        "subject": "Xbox",
+        "event_type": "other",
+        "action": "conduct",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "event",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-17T17:03:39.112422+06:00"
+    },
+    "evt_bf3d6793a010ca": {
+      "event_id": "evt_bf3d6793a010ca",
+      "event_key": "kit harington harry potter show comment",
+      "event_subject": "Kit Harington",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "kit harington harry potter show comment",
+        "subject": "Kit Harington",
+        "event_type": "other",
+        "action": "comment",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 28,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 28
+      },
+      "last_seen": "2026-09-17T17:03:39.112428+06:00"
+    },
+    "evt_13504e91f1083e": {
+      "event_id": "evt_13504e91f1083e",
+      "event_key": "matthew lillard scream 7 comment",
+      "event_subject": "Matthew Lillard",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "matthew lillard scream 7 comment",
+        "subject": "Matthew Lillard",
+        "event_type": "other",
+        "action": "comment",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Scream 7",
+        "franchise": "Scream 7",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 28,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 28
+      },
+      "last_seen": "2026-09-17T17:03:39.112434+06:00"
+    },
+    "evt_a3082ca1be05dc": {
+      "event_id": "evt_a3082ca1be05dc",
+      "event_key": "michael b jordan anime comment",
+      "event_subject": "Michael B Jordan",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "michael b jordan anime comment",
+        "subject": "Michael B Jordan",
+        "event_type": "other",
+        "action": "comment",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 28,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 28
+      },
+      "last_seen": "2026-09-17T17:03:39.112440+06:00"
     }
   },
   "posted_event_ids": [
@@ -64045,7 +66953,18 @@
     "evt_14789e9fd0a5eb",
     "evt_bca7bc556299e9",
     "evt_ebb705f36b7e5a",
-    "evt_1fd5835f3ff808"
+    "evt_1fd5835f3ff808",
+    "evt_a155d309d8cba6",
+    "evt_558cf424f1c6b1",
+    "evt_7ee62830336537",
+    "evt_2d2bac44fd4ea9",
+    "evt_57c8b1cb7a7f7e",
+    "evt_13f261d4bf6786",
+    "evt_de99e81e9f4d06",
+    "evt_9fd1c8a24ac39b",
+    "evt_7d8e2db617c0eb",
+    "evt_991a3e1d4c5603",
+    "evt_9878ded8c36b34"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -64209,10 +67128,21 @@
     "amplitude launches endless legend 2 1 0 after year long early access",
     "early boons of salvation guide boosts fire emblem fortune s weave progress",
     "solo leveling karma reveals game overview and cinematic trailers at tokyo game show 2026",
-    "capcom unveils mega man dual override with new proto man trailer at tgs 2026"
+    "capcom unveils mega man dual override with new proto man trailer at tgs 2026",
+    "heart machine lays off nearly all staff after publisher pulls funding",
+    "bill skarsg rd cast as lead in hideo kojima s xbox bound physint",
+    "capcom to end paid cosmetic changes in monster hunter wilds",
+    "fortnite update brings kingdom hearts heroes and cyberpunk edgerunners to battle royale",
+    "activision unveils call of duty modern warfare 4 campaign trailer",
+    "helldivers 2 and horizon forbidden west delisted from steam in the uk",
+    "resident evil film sets record as highest rated video game movie on rotten tomatoes",
+    "cheating costs 51 of studios players and revenue study finds",
+    "gachiakuta breakout set for 2027 release on playstation 5 xbox series and pc",
+    "astrae oratio hands on preview shows stylish combat at tokyo game show",
+    "persona 4 revival unveils new naoto shirogane trailer ahead of 2027 launch"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-17T11:49:07.960304+06:00",
+    "Game Updates": "2026-09-17T17:11:00.876961+06:00",
     "Major Releases": "2026-09-17T01:39:29.422766+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
@@ -64223,7 +67153,7 @@
     "Pricing and Monetization": "2026-09-11T00:33:27.401107+06:00",
     "Anti-Cheat": "2026-09-11T00:33:42.084305+06:00",
     "Cancellations": "2026-09-11T21:14:57.654212+06:00",
-    "Studio Closures": "2026-09-14T00:35:40.039904+06:00",
+    "Studio Closures": "2026-09-17T17:10:09.895598+06:00",
     "Layoffs": "2026-09-16T21:41:17.852544+06:00",
     "PC Gaming": "2026-09-17T11:49:13.228064+06:00"
   }
