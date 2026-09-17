@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1f0bb-aaZS1RGIg3Fu1XinhviMzb6Bfjo\"",
+      "etag": "W/\"1a3b7-mImmlk0QJoxzQ273qPXxKAJScFQ\"",
       "last_modified": null,
-      "last_checked": "2026-09-17T01:22:58.496429+06:00",
+      "last_checked": "2026-09-17T11:45:43.422120+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-17T01:22:58.733960+06:00",
+      "last_checked": "2026-09-17T11:45:43.960058+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aaaebe4-bd8\"",
-      "last_modified": "Wed, 16 Sep 2026 19:20:04 GMT",
-      "last_checked": "2026-09-17T01:22:59.101378+06:00",
+      "etag": "\"6aab7e60-bde\"",
+      "last_modified": "Thu, 17 Sep 2026 05:45:04 GMT",
+      "last_checked": "2026-09-17T11:45:44.270501+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Wed, 16 Sep 2026 19:15:25 GMT",
-      "last_checked": "2026-09-17T01:22:59.851657+06:00",
+      "last_checked": "2026-09-17T11:45:44.601101+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"b8048fd9ccfaad9f4c08ebb652aa1423\"",
-      "last_modified": "Wed, 16 Sep 2026 19:20:57 GMT",
-      "last_checked": "2026-09-17T01:23:00.240290+06:00",
+      "etag": "\"6aab7151-122b\"",
+      "last_modified": "Thu, 17 Sep 2026 04:49:21 GMT",
+      "last_checked": "2026-09-17T11:45:44.836268+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-17T01:23:00.418795+06:00",
+      "last_checked": "2026-09-17T11:45:45.237175+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-17T01:23:01.085206+06:00",
+      "last_checked": "2026-09-17T11:45:45.833989+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"e6d4f3290ce8de4217600ee253ccb040\"",
-      "last_modified": "Wed, 16 Sep 2026 19:21:00 GMT",
-      "last_checked": "2026-09-17T01:23:02.419436+06:00",
+      "etag": "W/\"ded4aeaef64fddf1fab35e9840bb48c5\"",
+      "last_modified": "Wed, 16 Sep 2026 23:00:20 GMT",
+      "last_checked": "2026-09-17T11:45:46.052473+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-17T01:23:02.693610+06:00",
+      "last_checked": "2026-09-17T11:45:46.116999+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Wed, 16 Sep 2026 18:00:55 GMT",
-      "last_checked": "2026-09-17T01:23:03.027664+06:00",
+      "last_checked": "2026-09-17T11:45:46.488137+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Wed, 16 Sep 2026 19:23:03 GMT",
-      "last_checked": "2026-09-17T01:23:03.760349+06:00",
+      "last_modified": "Thu, 17 Sep 2026 05:45:47 GMT",
+      "last_checked": "2026-09-17T11:45:47.011623+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"61746a14b0f8afe59f4395d9760b8667\"",
-      "last_modified": "Wed, 16 Sep 2026 18:51:03 GMT",
-      "last_checked": "2026-09-17T01:23:04.391822+06:00",
+      "etag": "W/\"d2ea35782c239c1c47e8ba5d267b2c33\"",
+      "last_modified": "Thu, 17 Sep 2026 02:07:33 GMT",
+      "last_checked": "2026-09-17T11:45:47.505781+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-17T01:23:04.794424+06:00",
+      "last_checked": "2026-09-17T11:45:47.746200+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-17T01:23:05.355882+06:00",
+      "last_checked": "2026-09-17T11:45:48.024053+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-17T01:23:05.908265+06:00",
+      "last_checked": "2026-09-17T11:45:48.410075+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-17T01:23:06.250450+06:00",
-      "fail_count": 33,
+      "last_checked": "2026-09-17T11:45:48.574406+06:00",
+      "fail_count": 34,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"b5442dd35a1319cc58f95bb82291d9fe\"",
-      "last_modified": "Wed, 16 Sep 2026 18:59:18 GMT",
-      "last_checked": "2026-09-17T01:23:06.404184+06:00",
+      "etag": "W/\"684682d385c921183e4f3a02622fbf96\"",
+      "last_modified": "Wed, 16 Sep 2026 15:55:09 GMT",
+      "last_checked": "2026-09-17T11:45:48.731777+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-17T01:23:06.555670+06:00",
+      "last_checked": "2026-09-17T11:45:48.916335+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-17T01:23:06.795770+06:00",
-      "fail_count": 33,
+      "last_checked": "2026-09-17T11:45:49.012875+06:00",
+      "fail_count": 34,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"e81060ea6b95014b8084ec9186b15f4b\"",
       "last_modified": "Wed, 16 Sep 2026 16:00:00 GMT",
-      "last_checked": "2026-09-17T01:23:07.837773+06:00",
+      "last_checked": "2026-09-17T11:45:49.178865+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -154,119 +154,6 @@
       "status": "pending",
       "first_seen": "2026-09-10T01:05:27.227201+06:00",
       "last_seen": "2026-09-14T23:44:31.987456+06:00"
-    },
-    "ign.com/articles/your-mother-your-mother-your-mother-review": {
-      "title": "Your Mother Your Mother Your Mother Review",
-      "url": "https://www.ign.com/articles/your-mother-your-mother-your-mother-review",
-      "canonical": "ign.com/articles/your-mother-your-mother-your-mother-review",
-      "published_dt": "2026-09-13T09:22:00+06:00",
-      "published_date": "2026-09-13T09:22:00+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "Your Mother Your Mother Your Mother review: Mahershala Ali joins his would-be Blade director as a devout sword-wielding assassin.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/27/your-mother-your-mother-your-mother-ymx3-01886-r-rgb-1787852336928.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-13T11:40:22.618266+06:00",
-      "last_seen": "2026-09-13T11:40:22.618273+06:00"
-    },
-    "pcgamer.com/games/rts/why-is-blizzard-still-announcing-games-years-ahead-of-release-we-want-to-convey-confidence-in-some-of-our-biggest-bets-coming-forward": {
-      "title": "Why is Blizzard still announcing games years ahead of release? 'We want to convey confidence in some of our biggest bets coming forward'",
-      "url": "https://www.pcgamer.com/games/rts/why-is-blizzard-still-announcing-games-years-ahead-of-release-we-want-to-convey-confidence-in-some-of-our-biggest-bets-coming-forward/",
-      "canonical": "pcgamer.com/games/rts/why-is-blizzard-still-announcing-games-years-ahead-of-release-we-want-to-convey-confidence-in-some-of-our-biggest-bets-coming-forward",
-      "published_dt": "2026-09-13T09:11:23+06:00",
-      "published_date": "2026-09-13T09:11:23+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "Maybe it's the fact it sounds like a year from the opening crawl of a sci-fi movie, but 2030 sure feels a long way off.",
-      "image": "https://cdn.mos.cms.futurecdn.net/8rQWrR4SvwafPK2bPojPoW-1280-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-09-13T11:40:23.687520+06:00",
-      "last_seen": "2026-09-13T11:40:23.687527+06:00",
-      "posted_at": "2026-09-13T11:41:50.785896+06:00"
-    },
-    "polygon.com/gta-6-stealing-cars": {
-      "title": "GTA 6 Is About to Totally Reinvent One of the Best Experiences in Video Games",
-      "url": "https://www.polygon.com/gta-6-stealing-cars/",
-      "canonical": "polygon.com/gta-6-stealing-cars",
-      "published_dt": "2026-09-13T11:00:14+06:00",
-      "published_date": "2026-09-13T11:00:14+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Rockstar's GTA 6 aims to make the act of stealing cars more immersive and surprising than any Grand Theft Auto game before it",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_11-1.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-13T11:40:23.902197+06:00",
-      "last_seen": "2026-09-13T11:40:23.902202+06:00"
-    },
-    "polygon.com/twin-peaks-streaming-free-pluto-tv": {
-      "title": "35 Years Later, the Greatest Detective Thriller Series of All Time Is Officially Free on Streaming",
-      "url": "https://www.polygon.com/twin-peaks-streaming-free-pluto-tv/",
-      "canonical": "polygon.com/twin-peaks-streaming-free-pluto-tv",
-      "published_dt": "2026-09-13T10:31:14+06:00",
-      "published_date": "2026-09-13T10:31:14+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "One of the best detective shows ever made is free to stream on Pluto TV.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23935756/46__1247_.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-13T11:40:23.902354+06:00",
-      "last_seen": "2026-09-13T11:40:23.902358+06:00"
-    },
-    "polygon.com/strange-things-tales-85-season-2-release-date-1-week": {
-      "title": "'Strange Things' Officially Returns to Netflix This Week with 10 New Episodes",
-      "url": "https://www.polygon.com/strange-things-tales-85-season-2-release-date-1-week/",
-      "canonical": "polygon.com/strange-things-tales-85-season-2-release-date-1-week",
-      "published_dt": "2026-09-13T10:27:14+06:00",
-      "published_date": "2026-09-13T10:27:14+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "The Party is back for another adventure. Here's everything you need to know about Stranger Things: Tales From '85 season 2.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/16386103/ST3_Production_Still_4.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-13T11:40:23.902497+06:00",
-      "last_seen": "2026-09-13T11:40:23.902502+06:00"
-    },
-    "polygon.com/sally-brown-best-line-peanuts": {
-      "title": "63 Years Later, the Best 'Peanuts' Sally Quote Is Still an Iconic Comic Strip Line",
-      "url": "https://www.polygon.com/sally-brown-best-line-peanuts/",
-      "canonical": "polygon.com/sally-brown-best-line-peanuts",
-      "published_dt": "2026-09-13T10:00:18+06:00",
-      "published_date": "2026-09-13T10:00:18+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "The best lines from Peanuts' anti-school activist Sally Brown",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/sally-brown-a-charlie-brown-thanksgiving-1973.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-13T11:40:23.902665+06:00",
-      "last_seen": "2026-09-13T11:40:23.902669+06:00"
-    },
-    "polygon.com/air-force-one-harrison-ford-free-tubi-september-2026": {
-      "title": "Forget Jason Statham, the Best Action Movie of the Last 30 Years Is Free on Streaming",
-      "url": "https://www.polygon.com/air-force-one-harrison-ford-free-tubi-september-2026/",
-      "canonical": "polygon.com/air-force-one-harrison-ford-free-tubi-september-2026",
-      "published_dt": "2026-09-13T10:18:14+06:00",
-      "published_date": "2026-09-13T10:18:14+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-09-13T11:40:47.841114+06:00",
-      "last_seen": "2026-09-13T11:40:47.841119+06:00"
     },
     "eurogamer.net/diablo-5-announced-blizzcon-2026-spring-2029": {
       "title": "Diablo 5 is coming spring 2029, and a Netflix show is in development",
@@ -10033,6 +9920,297 @@
       "status": "pending",
       "first_seen": "2026-09-17T01:23:06.434152+06:00",
       "last_seen": "2026-09-17T01:23:06.434153+06:00"
+    },
+    "gamespot.com/videos/fire-emblem-fortunes-weave-13-tips-we-wish-we-knew-before-playing": {
+      "title": "Fire Emblem Fortunes Weave – 13 Tips We Wish We Knew Before Playing",
+      "url": "https://www.gamespot.com/videos/fire-emblem-fortunes-weave-13-tips-we-wish-we-knew-before-playing/",
+      "canonical": "gamespot.com/videos/fire-emblem-fortunes-weave-13-tips-we-wish-we-knew-before-playing",
+      "published_dt": "2026-09-17T10:00:00+06:00",
+      "published_date": "2026-09-17T10:00:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "With 5 playable characters, multiple story arcs, and dozens of characters, Fire Emblem Fortune’s Weave is Nintendo and Intelligent Systems’ biggest game yet. Here’s everything you need to know before you start.",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Guide_FEFW_site.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T11:45:43.994071+06:00",
+      "last_seen": "2026-09-17T11:45:43.994077+06:00"
+    },
+    "gematsu.com/2026/09/solo-leveling-karma-game-overview-and-cinematic-trailers": {
+      "title": "Solo Leveling: KARMA ‘Game Overview’ and ‘Cinematic’ trailers",
+      "url": "https://www.gematsu.com/2026/09/solo-leveling-karma-game-overview-and-cinematic-trailers",
+      "canonical": "gematsu.com/2026/09/solo-leveling-karma-game-overview-and-cinematic-trailers",
+      "published_dt": "2026-09-17T10:00:54+06:00",
+      "published_date": "2026-09-17T10:00:54+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Publisher Netmarble and developer Netmarble Neo have released a gameplay and cinematic trailers for roguelite …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-17T11:45:44.860914+06:00",
+      "last_seen": "2026-09-17T11:45:44.860919+06:00",
+      "posted_at": "2026-09-17T11:49:07.960252+06:00"
+    },
+    "gematsu.com/2026/09/zero-parades-for-dead-spies-for-ps5-launches-november-3-alongside-directors-cut-update": {
+      "title": "ZERO PARADES: For Dead Spies for PS5 launches November 3 alongside ‘Director’s Cut’ update",
+      "url": "https://www.gematsu.com/2026/09/zero-parades-for-dead-spies-for-ps5-launches-november-3-alongside-directors-cut-update",
+      "canonical": "gematsu.com/2026/09/zero-parades-for-dead-spies-for-ps5-launches-november-3-alongside-directors-cut-update",
+      "published_dt": "2026-09-17T09:12:34+06:00",
+      "published_date": "2026-09-17T09:12:34+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Espionage RPG ZERO PARADES: For Dead Spies will launch for PlayStation 5 on November 3 …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T11:45:44.861081+06:00",
+      "last_seen": "2026-09-17T11:45:44.861085+06:00"
+    },
+    "polygon.com/peanuts-best-charlie-brown-quote": {
+      "title": "60 Years Ago, the Best Charlie Brown Quote Was So Perfect It Made It Into the Movie",
+      "url": "https://www.polygon.com/peanuts-best-charlie-brown-quote/",
+      "canonical": "polygon.com/peanuts-best-charlie-brown-quote",
+      "published_dt": "2026-09-17T11:12:14+06:00",
+      "published_date": "2026-09-17T11:12:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Charlie Brown's bleak outlook on life was perfectly summed up in this 1966 Peanuts comic strip by Charles Schulz",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/charlie-brown-emotional-gut-punch-in-peanuts-comic.avif",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T11:45:45.842601+06:00",
+      "last_seen": "2026-09-17T11:45:45.842606+06:00"
+    },
+    "polygon.com/x-files-deep-throat-33-years-later": {
+      "title": "33 Years Ago, 'X-Files' Introduced Its Weirdest Character in the Most Perfect Way Possible",
+      "url": "https://www.polygon.com/x-files-deep-throat-33-years-later/",
+      "canonical": "polygon.com/x-files-deep-throat-33-years-later",
+      "published_dt": "2026-09-17T10:02:15+06:00",
+      "published_date": "2026-09-17T10:02:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "On the 33rd anniversary of the X-Files episode \"Deep Throat,\" the charcter the episode is named after still has a huge place in the X-Files fandom",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/vs-disney-thex-filesdisney-0-20.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T11:45:45.842782+06:00",
+      "last_seen": "2026-09-17T11:45:45.842787+06:00"
+    },
+    "polygon.com/fire-emblem-fortunes-weave-beginner-tips-tricks": {
+      "title": "23 Fire Emblem Fortune's Weave beginner tips to help you defy fate",
+      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-beginner-tips-tricks/",
+      "canonical": "polygon.com/fire-emblem-fortunes-weave-beginner-tips-tricks",
+      "published_dt": "2026-09-17T10:01:15+06:00",
+      "published_date": "2026-09-17T10:01:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Our Fire Emblem: Fortune's Weave beginner's guide includes essential tips and tricks to help you start on the right foot",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-beginner-tips.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T11:45:45.842929+06:00",
+      "last_seen": "2026-09-17T11:45:45.842933+06:00"
+    },
+    "polygon.com/fire-emblem-fortunes-weave-giants-meat-how-to-get-location-goliath": {
+      "title": "Where to find giants' meat in Fire Emblem Fortune's Weave",
+      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-giants-meat-how-to-get-location-goliath/",
+      "canonical": "polygon.com/fire-emblem-fortunes-weave-giants-meat-how-to-get-location-goliath",
+      "published_dt": "2026-09-17T10:01:15+06:00",
+      "published_date": "2026-09-17T10:01:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Here's how to get giants' meat in Fire Emblem: Fortune's Weave and where to find giants, so you can recruit Goliath.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fefortunesweave_guide_giatnsmeat_lead.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T11:45:45.843069+06:00",
+      "last_seen": "2026-09-17T11:45:45.843073+06:00"
+    },
+    "polygon.com/fire-emblem-fortunes-weave-boons-of-salvation-unlock-early": {
+      "title": "Best Boons of Salvation to unlock early in Fire Emblem Fortune's Weave",
+      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-boons-of-salvation-unlock-early/",
+      "canonical": "polygon.com/fire-emblem-fortunes-weave-boons-of-salvation-unlock-early",
+      "published_dt": "2026-09-17T10:01:15+06:00",
+      "published_date": "2026-09-17T10:01:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "In this guide, we listed all the best Boons of Salvation to unlock early in Fire Emblem: Fortune's Weave so you know how to better spend Karma Shards.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fefortunesweave_guide_boonsofsalvation_lead.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-17T11:45:45.843203+06:00",
+      "last_seen": "2026-09-17T11:45:45.843207+06:00",
+      "posted_at": "2026-09-17T11:49:02.599634+06:00"
+    },
+    "polygon.com/fire-emblem-fortunes-weave-which-character-route-first": {
+      "title": "Which character should you pick first in Fire Emblem: Fortune's Weave?",
+      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-which-character-route-first/",
+      "canonical": "polygon.com/fire-emblem-fortunes-weave-which-character-route-first",
+      "published_dt": "2026-09-17T10:01:15+06:00",
+      "published_date": "2026-09-17T10:01:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Deciding which character and route to play first in Fire Emblem Fortune's Weave depends on what kind of experience you're after",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-review-2.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T11:45:45.843340+06:00",
+      "last_seen": "2026-09-17T11:45:45.843345+06:00"
+    },
+    "polygon.com/fire-emblem-fortunes-weave-chapter-list-how-long-to-beat": {
+      "title": "How long is Fire Emblem Fortune's Weave and how many chapters are there?",
+      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-chapter-list-how-long-to-beat/",
+      "canonical": "polygon.com/fire-emblem-fortunes-weave-chapter-list-how-long-to-beat",
+      "published_dt": "2026-09-17T10:01:15+06:00",
+      "published_date": "2026-09-17T10:01:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "In this guide, you find a list of Fire Emblem: Fortune's Weave quests and also an explanation on how long it takes to finish  the game.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fefortunesweave_guide_quests_lead.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T11:45:45.843477+06:00",
+      "last_seen": "2026-09-17T11:45:45.843481+06:00"
+    },
+    "polygon.com/fire-emblem-fortunes-weave-recruitable-characters-all-support-level": {
+      "title": "All recruitable characters in Fire Emblem Fortune's Weave",
+      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-recruitable-characters-all-support-level/",
+      "canonical": "polygon.com/fire-emblem-fortunes-weave-recruitable-characters-all-support-level",
+      "published_dt": "2026-09-17T10:01:15+06:00",
+      "published_date": "2026-09-17T10:01:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Here's a list with all recruitable characters in Fire Emblem: Fortune's Weave and the requirements to invite each character to your party.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fefortunesweave_guide_recruitable_lead.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T11:45:45.843602+06:00",
+      "last_seen": "2026-09-17T11:45:45.843606+06:00"
+    },
+    "polygon.com/fire-emblem-fortunes-weave-difficulty-explained-classic-casual-normal-hard": {
+      "title": "Should you play Casual mode or Classic mode in Fire Emblem Fortune's Weave?",
+      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-difficulty-explained-classic-casual-normal-hard/",
+      "canonical": "polygon.com/fire-emblem-fortunes-weave-difficulty-explained-classic-casual-normal-hard",
+      "published_dt": "2026-09-17T10:01:15+06:00",
+      "published_date": "2026-09-17T10:01:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Fire Emblem Fortune's Weave difficulty modes make a big difference. Here's what to expect from Casual, Classic, normal, and hard modes",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-difficulty-modes.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T11:45:45.843755+06:00",
+      "last_seen": "2026-09-17T11:45:45.843759+06:00"
+    },
+    "polygon.com/fire-emblem-fortunes-weave-monster-in-the-night-quest-walkthrough": {
+      "title": "'Monster in the Night' Quest Walkthrough in Fire Emblem Fortune's Weave",
+      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-monster-in-the-night-quest-walkthrough/",
+      "canonical": "polygon.com/fire-emblem-fortunes-weave-monster-in-the-night-quest-walkthrough",
+      "published_dt": "2026-09-17T10:01:15+06:00",
+      "published_date": "2026-09-17T10:01:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Fire Emblem Fortune's Weave's \"Monster in the Night\" quest is a little misleading about where to find the monster in question. Here's where to look",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-monster-in-the-night.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T11:45:45.843890+06:00",
+      "last_seen": "2026-09-17T11:45:45.843893+06:00"
+    },
+    "nintendolife.com/news/2026/09/round-up-capcom-spotlight-tgs-2026-showcase-every-switch-2-announcement-and-update": {
+      "title": "Round Up: Capcom Spotlight - TGS 2026 Showcase, Every Switch 2 Announcement And Update",
+      "url": "https://www.nintendolife.com/news/2026/09/round-up-capcom-spotlight-tgs-2026-showcase-every-switch-2-announcement-and-update",
+      "canonical": "nintendolife.com/news/2026/09/round-up-capcom-spotlight-tgs-2026-showcase-every-switch-2-announcement-and-update",
+      "published_dt": "2026-09-17T11:30:00+06:00",
+      "published_date": "2026-09-17T11:30:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Free Mega Man Pragmata outfits, swimsuit reveals & more. The Tokyo Game Show has officially begun and Capcom kicked off the event with another spotlight showcase. If you didn't catch the broadcast, here's a recap covering all the announcements and updates related to multiple upcoming titles. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/b6e026950c7ce/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-17T11:45:47.767501+06:00",
+      "last_seen": "2026-09-17T11:45:47.767507+06:00",
+      "posted_at": "2026-09-17T11:49:13.228019+06:00"
+    },
+    "nintendolife.com/news/2026/09/mario-kart-tour-announces-final-anniversary-tour-ahead-of-shutdown": {
+      "title": "Mario Kart Tour Announces Final Anniversary Tour Ahead Of Shutdown",
+      "url": "https://www.nintendolife.com/news/2026/09/mario-kart-tour-announces-final-anniversary-tour-ahead-of-shutdown",
+      "canonical": "nintendolife.com/news/2026/09/mario-kart-tour-announces-final-anniversary-tour-ahead-of-shutdown",
+      "published_dt": "2026-09-17T09:30:00+06:00",
+      "published_date": "2026-09-17T09:30:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "The mobile game service ends this month. A few months ago, Nintendo announced its free-to-play mobile title Mario Kart Tour would be ending its racing days on 30th September 2026 . As we approach the final lap, Nintendo is now celebrating the game with a final Anniversary Tour. You can see the official trailer in the video above. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/b055082cb565c/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-17T11:45:47.767914+06:00",
+      "last_seen": "2026-09-17T11:45:47.767920+06:00"
+    },
+    "gematsu.com/2026/09/solo-leveling-karma-cinematic-trailer": {
+      "title": "Solo Leveling: KARMA ‘Cinematic’ trailer - Gematsu",
+      "url": "https://www.gematsu.com/2026/09/solo-leveling-karma-cinematic-trailer",
+      "canonical": "gematsu.com/2026/09/solo-leveling-karma-cinematic-trailer",
+      "published_dt": "2026-09-17T09:00:54+06:00",
+      "published_date": "2026-09-17T09:00:54+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-09-17T11:45:56.830660+06:00",
+      "last_seen": "2026-09-17T11:45:56.830665+06:00"
+    },
+    "polygon.com/fire-emblem-fortunes-weave-bird-time-correct-answers": {
+      "title": "Bird Time correct answers in Fire Emblem Fortune's Weave",
+      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-bird-time-correct-answers/",
+      "canonical": "polygon.com/fire-emblem-fortunes-weave-bird-time-correct-answers",
+      "published_dt": "2026-09-17T10:01:15+06:00",
+      "published_date": "2026-09-17T10:01:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-09-17T11:45:58.932716+06:00",
+      "last_seen": "2026-09-17T11:45:58.932722+06:00"
+    },
+    "polygon.com/fire-emblem-fortunes-weave-best-way-spend-free-time-how-to": {
+      "title": "How to spend free time in Fire Emblem Fortune's Weave",
+      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-best-way-spend-free-time-how-to/",
+      "canonical": "polygon.com/fire-emblem-fortunes-weave-best-way-spend-free-time-how-to",
+      "published_dt": "2026-09-17T10:01:15+06:00",
+      "published_date": "2026-09-17T10:01:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-09-17T11:46:00.116086+06:00",
+      "last_seen": "2026-09-17T11:46:00.116090+06:00"
     }
   },
   "events": {
@@ -18178,6 +18356,148 @@
           "claims": [
             "Release after year in early access"
           ]
+        }
+      ]
+    },
+    "evt_bca7bc556299e9": {
+      "event_id": "evt_bca7bc556299e9",
+      "event_key": "fire emblem fortunes weave release",
+      "event_subject": "Fire Emblem: Fortune's Weave",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "fire emblem fortunes weave release",
+        "subject": "Fire Emblem: Fortune's Weave",
+        "event_type": "release",
+        "action": "guide",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Fire Emblem: Fortune's Weave",
+        "franchise": "Fire Emblem",
+        "institution": "Nintendo/Intelligent Systems",
+        "target": "players",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "Best Boons of Salvation"
+      },
+      "sources": [
+        "Polygon",
+        "GameSpot"
+      ],
+      "event_sources": [
+        "Polygon",
+        "GameSpot"
+      ],
+      "claims": [],
+      "importance_score": 65,
+      "coverage_score": 6,
+      "originality_score": 10,
+      "significance_score": 30,
+      "freshness_score": 10,
+      "source_trust_score": 9,
+      "headline": "Early Boons of Salvation Guide Boosts Fire Emblem: Fortune's Weave Progress",
+      "summary": "Unlocking the top Boons of Salvation early with Karma Shards gives players vital experience, discounts, and time savings in Fire Emblem: Fortune's Weave.",
+      "published_at": "2026-09-17T10:01:15+06:00",
+      "selected_at": "2026-09-17T05:49:02.599670+00:00",
+      "status": "published",
+      "message_id": 322,
+      "published_versions": [
+        {
+          "published_at": "2026-09-17T05:49:02.599670+00:00",
+          "headline": "Early Boons of Salvation Guide Boosts Fire Emblem: Fortune's Weave Progress",
+          "claims": []
+        }
+      ]
+    },
+    "evt_ebb705f36b7e5a": {
+      "event_id": "evt_ebb705f36b7e5a",
+      "event_key": "solo leveling karma trailer release",
+      "event_subject": "Solo Leveling: KARMA",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "solo leveling karma trailer release",
+        "subject": "Solo Leveling: KARMA",
+        "event_type": "other",
+        "action": "publish",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Solo Leveling: KARMA",
+        "franchise": "Solo Leveling",
+        "institution": "Netmarble/Netmarble Neo",
+        "target": "public",
+        "platforms": [],
+        "topic": "Game overview and cinematic trailers"
+      },
+      "sources": [
+        "Gematsu"
+      ],
+      "event_sources": [
+        "Gematsu"
+      ],
+      "claims": [],
+      "importance_score": 44,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 10,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Solo Leveling: KARMA Reveals Game Overview and Cinematic Trailers at Tokyo Game Show 2026",
+      "summary": "Netmarble and Netmarble Neo unveiled gameplay and cinematic trailers for the roguelite action RPG Solo Leveling: KARMA, highlighting its universe and battle styles.",
+      "published_at": "2026-09-17T10:00:54+06:00",
+      "selected_at": "2026-09-17T05:49:07.960284+00:00",
+      "status": "published",
+      "message_id": 323,
+      "published_versions": [
+        {
+          "published_at": "2026-09-17T05:49:07.960284+00:00",
+          "headline": "Solo Leveling: KARMA Reveals Game Overview and Cinematic Trailers at Tokyo Game Show 2026",
+          "claims": []
+        }
+      ]
+    },
+    "evt_1fd5835f3ff808": {
+      "event_id": "evt_1fd5835f3ff808",
+      "event_key": "capcom tgs2026 showcase",
+      "event_subject": "Capcom",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "capcom tgs2026 showcase",
+        "subject": "Capcom",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "multiple",
+        "franchise": "multiple",
+        "institution": "Capcom",
+        "target": "Tokyo Game Show 2026",
+        "platforms": [],
+        "topic": "Capcom announcements at TGS 2026"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [],
+      "importance_score": 42,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Capcom Unveils Mega Man Dual Override with New Proto Man Trailer at TGS 2026",
+      "summary": "Capcom’s TGS 2026 showcase revealed Mega Man Dual Override featuring Proto Man, three‑area stages, over 50 custom chips, and a Spring 2027 Switch launch.",
+      "published_at": "2026-09-17T11:30:00+06:00",
+      "selected_at": "2026-09-17T05:49:13.228047+00:00",
+      "status": "published",
+      "message_id": 324,
+      "published_versions": [
+        {
+          "published_at": "2026-09-17T05:49:13.228047+00:00",
+          "headline": "Capcom Unveils Mega Man Dual Override with New Proto Man Trailer at TGS 2026",
+          "claims": []
         }
       ]
     }
@@ -63280,6 +63600,287 @@
         "total": 31
       },
       "last_seen": "2026-09-17T01:31:24.544801+06:00"
+    },
+    "evt_bca7bc556299e9": {
+      "event_id": "evt_bca7bc556299e9",
+      "event_key": "fire emblem fortunes weave release",
+      "event_subject": "Fire Emblem: Fortune's Weave",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "fire emblem fortunes weave release",
+        "subject": "Fire Emblem: Fortune's Weave",
+        "event_type": "release",
+        "action": "guide",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Fire Emblem: Fortune's Weave",
+        "franchise": "Fire Emblem",
+        "institution": "Nintendo/Intelligent Systems",
+        "target": "players",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "Best Boons of Salvation"
+      },
+      "modality": "unknown",
+      "topic": "Best Boons of Salvation",
+      "institution": "Nintendo/Intelligent Systems",
+      "sources": [
+        "Polygon",
+        "GameSpot"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [],
+      "importance_score": 65,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 65
+      },
+      "last_seen": "2026-09-17T11:47:00.647664+06:00"
+    },
+    "evt_526f6645810eb6": {
+      "event_id": "evt_526f6645810eb6",
+      "event_key": "mario kart tour shutdown anniversary",
+      "event_subject": "Mario Kart Tour",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "mario kart tour shutdown anniversary",
+        "subject": "Mario Kart Tour",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Mario Kart Tour",
+        "franchise": "Mario Kart",
+        "institution": "Nintendo",
+        "target": "players",
+        "platforms": [
+          "iOS",
+          "Android"
+        ],
+        "topic": "Final Anniversary Tour ahead of service shutdown"
+      },
+      "modality": "unknown",
+      "topic": "Final Anniversary Tour ahead of service shutdown",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-09-17T11:47:00.647688+06:00"
+    },
+    "evt_1fd5835f3ff808": {
+      "event_id": "evt_1fd5835f3ff808",
+      "event_key": "capcom tgs2026 showcase",
+      "event_subject": "Capcom",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "capcom tgs2026 showcase",
+        "subject": "Capcom",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "multiple",
+        "franchise": "multiple",
+        "institution": "Capcom",
+        "target": "Tokyo Game Show 2026",
+        "platforms": [],
+        "topic": "Capcom announcements at TGS 2026"
+      },
+      "modality": "unknown",
+      "topic": "Capcom announcements at TGS 2026",
+      "institution": "Capcom",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-17T11:47:00.647721+06:00"
+    },
+    "evt_ebb705f36b7e5a": {
+      "event_id": "evt_ebb705f36b7e5a",
+      "event_key": "solo leveling karma trailer release",
+      "event_subject": "Solo Leveling: KARMA",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "solo leveling karma trailer release",
+        "subject": "Solo Leveling: KARMA",
+        "event_type": "other",
+        "action": "publish",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Solo Leveling: KARMA",
+        "franchise": "Solo Leveling",
+        "institution": "Netmarble/Netmarble Neo",
+        "target": "public",
+        "platforms": [],
+        "topic": "Game overview and cinematic trailers"
+      },
+      "modality": "unknown",
+      "topic": "Game overview and cinematic trailers",
+      "institution": "Netmarble/Netmarble Neo",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 44
+      },
+      "last_seen": "2026-09-17T11:47:00.647726+06:00"
+    },
+    "evt_0e7d5b16313a66": {
+      "event_id": "evt_0e7d5b16313a66",
+      "event_key": "zero parades for dead spies ps5 launch announcement",
+      "event_subject": "ZERO PARADES: For Dead Spies",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "zero parades for dead spies ps5 launch announcement",
+        "subject": "ZERO PARADES: For Dead Spies",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "ZERO PARADES: For Dead Spies",
+        "franchise": "ZERO PARADES: For Dead Spies",
+        "institution": "Unknown Publisher",
+        "target": "PlayStation 5",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "PS5 launch on November 3"
+      },
+      "modality": "unknown",
+      "topic": "PS5 launch on November 3",
+      "institution": "Unknown Publisher",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-09-17T11:47:00.647731+06:00"
+    },
+    "evt_0fcf9cd5cac8bd": {
+      "event_id": "evt_0fcf9cd5cac8bd",
+      "event_key": "peanuts 1966 anniversary",
+      "event_subject": "Peanuts",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "peanuts 1966 anniversary",
+        "subject": "Peanuts",
+        "event_type": "other",
+        "action": "reflect",
+        "status": "historical",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Charles Schulz Estate",
+        "target": "1966 comic strip",
+        "platforms": [],
+        "topic": "60‑year anniversary of a Peanuts comic"
+      },
+      "modality": "unknown",
+      "topic": "60‑year anniversary of a Peanuts comic",
+      "institution": "Charles Schulz Estate",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-17T11:47:00.647736+06:00"
+    },
+    "evt_4216994d5015aa": {
+      "event_id": "evt_4216994d5015aa",
+      "event_key": "x files 1993 anniversary",
+      "event_subject": "The X‑Files",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "x files 1993 anniversary",
+        "subject": "The X‑Files",
+        "event_type": "other",
+        "action": "reflect",
+        "status": "historical",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Fox",
+        "target": "Deep Throat episode",
+        "platforms": [],
+        "topic": "33‑year anniversary of X‑Files episode"
+      },
+      "modality": "unknown",
+      "topic": "33‑year anniversary of X‑Files episode",
+      "institution": "Fox",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-17T11:47:00.647739+06:00"
     }
   },
   "posted_event_ids": [
@@ -63441,7 +64042,10 @@
     "evt_be6c1829007060",
     "evt_6fd45728093f9d",
     "evt_91f34200a16f21",
-    "evt_14789e9fd0a5eb"
+    "evt_14789e9fd0a5eb",
+    "evt_bca7bc556299e9",
+    "evt_ebb705f36b7e5a",
+    "evt_1fd5835f3ff808"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -63602,10 +64206,13 @@
     "resident evil film scores near perfect 96 on rotten tomatoes",
     "sega s crazy taxi world tour beta revives classic arcade multiplayer",
     "director konrad tomaszkiewicz says dawnwalker s time mechanic may skip future sequels",
-    "amplitude launches endless legend 2 1 0 after year long early access"
+    "amplitude launches endless legend 2 1 0 after year long early access",
+    "early boons of salvation guide boosts fire emblem fortune s weave progress",
+    "solo leveling karma reveals game overview and cinematic trailers at tokyo game show 2026",
+    "capcom unveils mega man dual override with new proto man trailer at tgs 2026"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-17T01:39:24.510554+06:00",
+    "Game Updates": "2026-09-17T11:49:07.960304+06:00",
     "Major Releases": "2026-09-17T01:39:29.422766+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
@@ -63617,6 +64224,7 @@
     "Anti-Cheat": "2026-09-11T00:33:42.084305+06:00",
     "Cancellations": "2026-09-11T21:14:57.654212+06:00",
     "Studio Closures": "2026-09-14T00:35:40.039904+06:00",
-    "Layoffs": "2026-09-16T21:41:17.852544+06:00"
+    "Layoffs": "2026-09-16T21:41:17.852544+06:00",
+    "PC Gaming": "2026-09-17T11:49:13.228064+06:00"
   }
 }
