@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"2043d-33vdSQy3EPlypTgQsNyX/2uMHaY\"",
+      "etag": "W/\"1ea9c-ZD/sS62BCITpKtmzPxOqJw6YPV0\"",
       "last_modified": null,
-      "last_checked": "2026-09-18T01:59:58.230698+06:00",
+      "last_checked": "2026-09-18T11:33:50.850117+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-18T01:59:58.464627+06:00",
+      "last_checked": "2026-09-18T11:33:51.041862+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aac4598-9fa\"",
-      "last_modified": "Thu, 17 Sep 2026 19:55:04 GMT",
-      "last_checked": "2026-09-18T01:59:59.063635+06:00",
+      "etag": "\"6aaccc5c-a78\"",
+      "last_modified": "Fri, 18 Sep 2026 05:30:04 GMT",
+      "last_checked": "2026-09-18T11:33:51.325588+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Thu, 17 Sep 2026 14:22:34 GMT",
-      "last_checked": "2026-09-18T01:59:59.398799+06:00",
+      "last_checked": "2026-09-18T11:33:51.502353+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6aac2df1-1135\"",
-      "last_modified": "Thu, 17 Sep 2026 18:14:09 GMT",
-      "last_checked": "2026-09-18T01:59:59.739418+06:00",
+      "etag": "\"6aacc8cb-1165\"",
+      "last_modified": "Fri, 18 Sep 2026 05:14:51 GMT",
+      "last_checked": "2026-09-18T11:33:51.683182+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-18T01:59:59.962453+06:00",
+      "last_checked": "2026-09-18T11:33:51.812141+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-18T02:00:00.854112+06:00",
+      "last_checked": "2026-09-18T11:33:52.530704+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"de128e25b8555e2032636f1908b2a20b\"",
-      "last_modified": "Thu, 17 Sep 2026 19:56:10 GMT",
-      "last_checked": "2026-09-18T02:00:01.066472+06:00",
+      "etag": "W/\"7a89125beb1f1f6209629d0ad1e44ab3\"",
+      "last_modified": "Thu, 17 Sep 2026 22:30:18 GMT",
+      "last_checked": "2026-09-18T11:33:52.699428+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-18T02:00:01.279884+06:00",
+      "last_checked": "2026-09-18T11:33:52.793485+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Thu, 17 Sep 2026 12:09:22 GMT",
-      "last_checked": "2026-09-18T02:00:01.806351+06:00",
+      "last_modified": "Fri, 18 Sep 2026 04:17:53 GMT",
+      "last_checked": "2026-09-18T11:33:53.169539+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Thu, 17 Sep 2026 20:00:02 GMT",
-      "last_checked": "2026-09-18T02:00:02.470296+06:00",
+      "last_modified": "Fri, 18 Sep 2026 05:33:53 GMT",
+      "last_checked": "2026-09-18T11:33:53.632592+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"4c250413a66b1b0ec9c6ceec626263da\"",
-      "last_modified": "Thu, 17 Sep 2026 19:48:07 GMT",
-      "last_checked": "2026-09-18T02:00:02.694674+06:00",
+      "etag": "W/\"30b2a8f148f5bf4dd75efe610a7a33ee\"",
+      "last_modified": "Thu, 17 Sep 2026 22:55:08 GMT",
+      "last_checked": "2026-09-18T11:33:53.729940+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-18T02:00:03.223104+06:00",
+      "last_checked": "2026-09-18T11:33:53.978981+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-18T02:00:03.712310+06:00",
+      "last_checked": "2026-09-18T11:33:54.366308+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-18T02:00:04.340293+06:00",
+      "last_checked": "2026-09-18T11:33:54.756584+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-18T02:00:04.672469+06:00",
-      "fail_count": 37,
+      "last_checked": "2026-09-18T11:33:54.942575+06:00",
+      "fail_count": 38,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"8f9e4ff37a42542dfb58685f7786f41e\"",
-      "last_modified": "Thu, 17 Sep 2026 16:54:19 GMT",
-      "last_checked": "2026-09-18T02:00:04.931838+06:00",
+      "etag": "W/\"617bdb35d31e56a26025efec31c05400\"",
+      "last_modified": "Fri, 18 Sep 2026 01:37:28 GMT",
+      "last_checked": "2026-09-18T11:33:55.027189+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-18T02:00:05.346933+06:00",
+      "last_checked": "2026-09-18T11:33:55.248841+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-18T02:00:05.584641+06:00",
-      "fail_count": 37,
+      "last_checked": "2026-09-18T11:33:55.341477+06:00",
+      "fail_count": 38,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"4e330a7e1fe70e5d4a5cca95f95830a3\"",
       "last_modified": "Thu, 17 Sep 2026 16:00:00 GMT",
-      "last_checked": "2026-09-18T02:00:05.804137+06:00",
+      "last_checked": "2026-09-18T11:33:55.472818+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -12521,6 +12521,150 @@
       "status": "pending",
       "first_seen": "2026-09-18T02:00:04.973971+06:00",
       "last_seen": "2026-09-18T02:00:04.973974+06:00"
+    },
+    "videogameschronicle.com/features/interviews/ff7-revelation-director-hamaguchi-discusses-the-games-200gb-size-dlc-plans-and-a-new-tifa-detail": {
+      "title": "FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail",
+      "url": "https://www.videogameschronicle.com/features/interviews/ff7-revelation-director-hamaguchi-discusses-the-games-200gb-size-dlc-plans-and-a-new-tifa-detail/",
+      "canonical": "videogameschronicle.com/features/interviews/ff7-revelation-director-hamaguchi-discusses-the-games-200gb-size-dlc-plans-and-a-new-tifa-detail",
+      "published_dt": "2026-09-18T09:51:43+06:00",
+      "published_date": "2026-09-18T09:51:43+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Final Fantasy 7 Revelation's director isn't concerned it's too big",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-18T11:33:51.334329+06:00",
+      "last_seen": "2026-09-18T11:33:51.334334+06:00"
+    },
+    "gematsu.com/2026/09/sugar-lies-launches-in-late-2026-for-pc-in-spring-2027-for-switch": {
+      "title": "Sugar Lies launches in late 2026 for PC, in spring 2027 for Switch",
+      "url": "https://www.gematsu.com/2026/09/sugar-lies-launches-in-late-2026-for-pc-in-spring-2027-for-switch",
+      "canonical": "gematsu.com/2026/09/sugar-lies-launches-in-late-2026-for-pc-in-spring-2027-for-switch",
+      "published_dt": "2026-09-18T09:50:02+06:00",
+      "published_date": "2026-09-18T09:50:02+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Romance visual novel Sugar Lies will launch for PC via Steam in late 2026 for …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-18T11:33:51.704169+06:00",
+      "last_seen": "2026-09-18T11:33:51.704180+06:00"
+    },
+    "pcgamer.com/games/the-witcher/ahead-of-the-witcher-3-remastered-its-time-to-stop-putting-off-reading-the-books": {
+      "title": "Ahead of The Witcher 3 Remastered, it's time to stop putting off reading the books",
+      "url": "https://www.pcgamer.com/games/the-witcher/ahead-of-the-witcher-3-remastered-its-time-to-stop-putting-off-reading-the-books/",
+      "canonical": "pcgamer.com/games/the-witcher/ahead-of-the-witcher-3-remastered-its-time-to-stop-putting-off-reading-the-books",
+      "published_dt": "2026-09-18T10:21:15+06:00",
+      "published_date": "2026-09-18T10:21:15+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Amazon is flogging the 8 original Witcher books for over 50% off the usual price.",
+      "image": "https://cdn.mos.cms.futurecdn.net/Efk6ecKv8ZzZW5QLWzLVA6-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-18T11:33:52.364554+06:00",
+      "last_seen": "2026-09-18T11:33:52.364560+06:00"
+    },
+    "pcgamer.com/gaming-industry/events-conferences/total-war-warhammer-40-000-alien-isolation-2-modern-warfare-4-and-more-will-be-playable-ahead-of-release-at-pax-australia-next-month": {
+      "title": "Total War: Warhammer 40,000, Alien: Isolation 2, Modern Warfare 4, and more will be playable ahead of release at PAX Australia next month",
+      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/total-war-warhammer-40-000-alien-isolation-2-modern-warfare-4-and-more-will-be-playable-ahead-of-release-at-pax-australia-next-month/",
+      "canonical": "pcgamer.com/gaming-industry/events-conferences/total-war-warhammer-40-000-alien-isolation-2-modern-warfare-4-and-more-will-be-playable-ahead-of-release-at-pax-australia-next-month",
+      "published_dt": "2026-09-18T08:44:17+06:00",
+      "published_date": "2026-09-18T08:44:17+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "I'm gonna start lining up now.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ohE8GP7Y9TgzbmJmVpQpsP-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-18T11:33:52.364691+06:00",
+      "last_seen": "2026-09-18T11:33:52.364693+06:00"
+    },
+    "polygon.com/lollipop-chainsaw-2-tokyo-game-show-2026": {
+      "title": "Lollipop Chainsaw 2 is Officially Bringing Back the Zombie-Slaying Cheerleader Cheesecake Franchise",
+      "url": "https://www.polygon.com/lollipop-chainsaw-2-tokyo-game-show-2026/",
+      "canonical": "polygon.com/lollipop-chainsaw-2-tokyo-game-show-2026",
+      "published_dt": "2026-09-18T10:55:31+06:00",
+      "published_date": "2026-09-18T10:55:31+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "At Tokyo Game Show, Lollipop Chainsaw 2 Back2Back was revealed with a playable demo for the 2027 PlayStation 5 game.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lollipop-chainsaw-2.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-18T11:33:52.537779+06:00",
+      "last_seen": "2026-09-18T11:33:52.537784+06:00"
+    },
+    "polygon.com/stephen-king-procedural-adaptation-streaming-free": {
+      "title": "Stephen King's 10/10 Sci-Fi Detective Series Is Officially Free to Watch on YouTube",
+      "url": "https://www.polygon.com/stephen-king-procedural-adaptation-streaming-free/",
+      "canonical": "polygon.com/stephen-king-procedural-adaptation-streaming-free",
+      "published_dt": "2026-09-18T10:00:20+06:00",
+      "published_date": "2026-09-18T10:00:20+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "An underrated King adaptation that deserves a reappraisal.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/tcddezo_ec093.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-18T11:33:52.537915+06:00",
+      "last_seen": "2026-09-18T11:33:52.537918+06:00"
+    },
+    "polygon.com/the-outer-limits-free-to-stream": {
+      "title": "ABC's Legendary 49-Episode Sci-Fi Anthology Series is Officially Free on Streaming",
+      "url": "https://www.polygon.com/the-outer-limits-free-to-stream/",
+      "canonical": "polygon.com/the-outer-limits-free-to-stream",
+      "published_dt": "2026-09-18T09:00:15+06:00",
+      "published_date": "2026-09-18T09:00:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The sci-fi anthology series The Outer Limits began as a rip-off of The Twilight Zone, but still had plenty of great stories in its two-seon run in the",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/vs-watchtheouterlimitss01e05-thesixthfinger-freetvshowstubi-34-47.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-18T11:33:52.538032+06:00",
+      "last_seen": "2026-09-18T11:33:52.538035+06:00"
+    },
+    "nintendolife.com/news/2026/09/psa-dragons-dogma-2-character-creator-and-storage-app-now-available-on-switch-2": {
+      "title": "PSA: Dragon's Dogma 2 Character Creator & Storage App Now Available On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/09/psa-dragons-dogma-2-character-creator-and-storage-app-now-available-on-switch-2",
+      "canonical": "nintendolife.com/news/2026/09/psa-dragons-dogma-2-character-creator-and-storage-app-now-available-on-switch-2",
+      "published_dt": "2026-09-18T10:30:00+06:00",
+      "published_date": "2026-09-18T10:30:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Updated with new hairstyles & tattoos. Capcom shared a new trailer for Dragon's Dogma 2: Dark Arisen this week, and apart from this, there's now a demon on the eShop. This demo focuses exclusively on the extensive character creator, which has now also been updated with new hairstyles and tattoos. Capcom: \"The Character Creator & Storage app has been updated with the new hairstyles and tattoos you'll get in DD2DA! Characters created with these new parts can be used from Oct. 9 when Dark Arisen launches! Nintendo Switch 2 Arisen, Dragon's Dogma 2: Character Creator & Storage is now available on your platform too!\" Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/eeb31d111dfc2/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-18T11:33:53.996396+06:00",
+      "last_seen": "2026-09-18T11:33:53.996401+06:00"
+    },
+    "nintendolife.com/news/2026/09/tropico-7-confirmed-for-switch-2-out-2027": {
+      "title": "Tropico 7 Confirmed For Switch 2, Out 2027",
+      "url": "https://www.nintendolife.com/news/2026/09/tropico-7-confirmed-for-switch-2-out-2027",
+      "canonical": "nintendolife.com/news/2026/09/tropico-7-confirmed-for-switch-2-out-2027",
+      "published_dt": "2026-09-18T09:30:00+06:00",
+      "published_date": "2026-09-18T09:30:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Includes Joy-Con 2 mouse support. The dictator sim Tropico 7 is on its way to the Switch 2 and will be releasing alongside other versions on 28th January 2027 . This Switch 2 release is being developed by Engine Software, aka the Switch port specialist behind titles such as Ni no Kuni: Wrath Of The White Witch . Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/be308c41ba837/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-18T11:33:53.996774+06:00",
+      "last_seen": "2026-09-18T11:33:53.996778+06:00"
     }
   },
   "events": {
@@ -67964,37 +68108,39 @@
         "event_key": "lollipop chainsaw 2 announcement",
         "subject": "Lollipop Chainsaw 2",
         "event_type": "announcement",
-        "action": "announce",
-        "status": "published",
+        "action": "reveal",
+        "status": "confirmed",
         "modality": "unknown",
         "game": "Lollipop Chainsaw 2",
-        "franchise": "Lollipop Chainsaw 2",
-        "institution": "Dragami Games",
-        "target": "PS5",
+        "franchise": "Lollipop Chainsaw",
+        "institution": "Bandai Namco Entertainment",
+        "target": "players",
         "platforms": [
-          "PS5"
+          "PlayStation 5"
         ],
-        "topic": "Gaming"
+        "topic": "sequel"
       },
       "modality": "unknown",
-      "topic": "Gaming",
-      "institution": "Dragami Games",
+      "topic": "sequel",
+      "institution": "Bandai Namco Entertainment",
       "sources": [
-        "Push Square"
+        "Polygon"
       ],
       "source_count": 1,
       "independent_source_count": 1,
-      "claims": [],
-      "importance_score": 43,
+      "claims": [
+        "The sequel was unveiled with a playable demo at Tokyo Game Show and slated for 2027 release."
+      ],
+      "importance_score": 42,
       "score_breakdown": {
-        "significance": 13,
+        "significance": 12,
         "coverage": 2,
         "originality": 10,
         "freshness": 10,
         "source_trust": 8,
-        "total": 43
+        "total": 42
       },
-      "last_seen": "2026-09-17T17:03:39.112247+06:00"
+      "last_seen": "2026-09-18T11:36:03.984130+06:00"
     },
     "evt_9d6842fa139301": {
       "event_id": "evt_9d6842fa139301",
@@ -73953,6 +74099,345 @@
         "total": 30
       },
       "last_seen": "2026-09-18T02:02:24.547811+06:00"
+    },
+    "evt_caa841b33f50c4": {
+      "event_id": "evt_caa841b33f50c4",
+      "event_key": "pax australia demo showcase of upcoming titles",
+      "event_subject": "Various upcoming games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pax australia demo showcase of upcoming titles",
+        "subject": "Various upcoming games",
+        "event_type": "other",
+        "action": "preview",
+        "status": "scheduled",
+        "modality": "unknown",
+        "game": "Various (Total War: Warhammer 40,000, Alien: Isolation 2, Modern Warfare 4, etc.)",
+        "franchise": "Various",
+        "institution": "PAX Australia",
+        "target": "players",
+        "platforms": [],
+        "topic": "event"
+      },
+      "modality": "unknown",
+      "topic": "event",
+      "institution": "PAX Australia",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Multiple upcoming titles will be playable at PAX Australia next month."
+      ],
+      "importance_score": 48,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 48
+      },
+      "last_seen": "2026-09-18T11:36:03.984109+06:00"
+    },
+    "evt_e3e76f9b44af01": {
+      "event_id": "evt_e3e76f9b44af01",
+      "event_key": "final fantasy vii revelation development update",
+      "event_subject": "Final Fantasy VII Revelation",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "final fantasy vii revelation development update",
+        "subject": "Final Fantasy VII Revelation",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "Final Fantasy VII Revelation",
+        "franchise": "Final Fantasy VII",
+        "institution": "Square Enix",
+        "target": "players",
+        "platforms": [],
+        "topic": "development"
+      },
+      "modality": "unknown",
+      "topic": "development",
+      "institution": "Square Enix",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Director Hamaguchi talked about the game's 200 GB size, DLC plans, and a new Tifa detail."
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 44
+      },
+      "last_seen": "2026-09-18T11:36:03.984143+06:00"
+    },
+    "evt_2069d267a72230": {
+      "event_id": "evt_2069d267a72230",
+      "event_key": "tropico 7 switch 2 release announcement",
+      "event_subject": "Tropico 7",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "tropico 7 switch 2 release announcement",
+        "subject": "Tropico 7",
+        "event_type": "other",
+        "action": "confirm",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "Tropico 7",
+        "franchise": "Tropico",
+        "institution": "Nintendo Life",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Tropico 7 is confirmed for Switch 2 with a January 2027 launch date."
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-09-18T11:36:03.984149+06:00"
+    },
+    "evt_2e148f04f87d25": {
+      "event_id": "evt_2e148f04f87d25",
+      "event_key": "dragon s dogma 2 character creator app release on switch 2",
+      "event_subject": "Dragon's Dogma 2 Character Creator & Storage app",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "dragon s dogma 2 character creator app release on switch 2",
+        "subject": "Dragon's Dogma 2 Character Creator & Storage app",
+        "event_type": "other",
+        "action": "update",
+        "status": "available",
+        "modality": "unknown",
+        "game": "Dragon's Dogma 2",
+        "franchise": "Dragon's Dogma",
+        "institution": "Capcom",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "character customization"
+      },
+      "modality": "unknown",
+      "topic": "character customization",
+      "institution": "Capcom",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The app now includes new hairstyles and tattoos and is downloadable on Switch 2 ahead of Dark Arisen launch."
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-09-18T11:36:03.984156+06:00"
+    },
+    "evt_424523ccd5fc3d": {
+      "event_id": "evt_424523ccd5fc3d",
+      "event_key": "sugar lies launch announcement",
+      "event_subject": "Sugar Lies",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sugar lies launch announcement",
+        "subject": "Sugar Lies",
+        "event_type": "other",
+        "action": "announce",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "Sugar Lies",
+        "franchise": "N/A",
+        "institution": "Gematsu",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "Switch"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "Gematsu",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The visual novel will launch for PC in late 2026 and for Switch in spring 2027."
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 40
+      },
+      "last_seen": "2026-09-18T11:36:03.984161+06:00"
+    },
+    "evt_52412cdfb32dd8": {
+      "event_id": "evt_52412cdfb32dd8",
+      "event_key": "witcher books discount promotion",
+      "event_subject": "The Witcher book series",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "witcher books discount promotion",
+        "subject": "The Witcher book series",
+        "event_type": "other",
+        "action": "discount",
+        "status": "active",
+        "modality": "unknown",
+        "game": "N/A",
+        "franchise": "The Witcher",
+        "institution": "Amazon",
+        "target": "readers",
+        "platforms": [],
+        "topic": "book sales"
+      },
+      "modality": "unknown",
+      "topic": "book sales",
+      "institution": "Amazon",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Amazon is offering over 50% off the original eight Witcher novels."
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-18T11:36:03.984167+06:00"
+    },
+    "evt_dba3c3979018cc": {
+      "event_id": "evt_dba3c3979018cc",
+      "event_key": "stephen king sci fi detective series free streaming",
+      "event_subject": "Stephen King sci‑fi detective series",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "stephen king sci fi detective series free streaming",
+        "subject": "Stephen King sci‑fi detective series",
+        "event_type": "other",
+        "action": "make free",
+        "status": "available",
+        "modality": "unknown",
+        "game": "N/A",
+        "franchise": "N/A",
+        "institution": "YouTube",
+        "target": "viewers",
+        "platforms": [
+          "YouTube"
+        ],
+        "topic": "media streaming"
+      },
+      "modality": "unknown",
+      "topic": "media streaming",
+      "institution": "YouTube",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The series is now free to watch on YouTube."
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-18T11:36:03.984172+06:00"
+    },
+    "evt_494c7f5390b522": {
+      "event_id": "evt_494c7f5390b522",
+      "event_key": "the outer limits free streaming announcement",
+      "event_subject": "The Outer Limits",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "the outer limits free streaming announcement",
+        "subject": "The Outer Limits",
+        "event_type": "other",
+        "action": "make free",
+        "status": "available",
+        "modality": "unknown",
+        "game": "N/A",
+        "franchise": "N/A",
+        "institution": "ABC",
+        "target": "viewers",
+        "platforms": [
+          "Streaming platforms"
+        ],
+        "topic": "media streaming"
+      },
+      "modality": "unknown",
+      "topic": "media streaming",
+      "institution": "ABC",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The 49‑episode sci‑fi anthology series is now free to watch online."
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-18T11:36:03.984177+06:00"
     }
   },
   "posted_event_ids": [
