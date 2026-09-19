@@ -2,432 +2,143 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"209bf-KbCXyvl47zJ1YKyXEHv6WcKvnnc\"",
+      "etag": "W/\"21f56-1hKL+wC9skZJU1fwPbZt9brDdlY\"",
       "last_modified": null,
-      "last_checked": "2026-09-19T11:30:07.106548+06:00",
+      "last_checked": "2026-09-19T16:21:25.848681+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-19T11:30:07.364980+06:00",
+      "last_checked": "2026-09-19T16:21:26.092012+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aae1ddc-a1f\"",
-      "last_modified": "Sat, 19 Sep 2026 05:30:04 GMT",
-      "last_checked": "2026-09-19T11:30:07.695849+06:00",
+      "etag": "\"6aae61d4-a1e\"",
+      "last_modified": "Sat, 19 Sep 2026 10:20:04 GMT",
+      "last_checked": "2026-09-19T16:21:26.412135+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Fri, 18 Sep 2026 19:44:12 GMT",
-      "last_checked": "2026-09-19T11:30:08.431510+06:00",
+      "last_modified": "Sat, 19 Sep 2026 09:00:00 GMT",
+      "last_checked": "2026-09-19T16:21:27.169553+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6aae19cc-11c9\"",
-      "last_modified": "Sat, 19 Sep 2026 05:12:44 GMT",
-      "last_checked": "2026-09-19T11:30:08.840375+06:00",
+      "etag": "\"6aae52d3-11cb\"",
+      "last_modified": "Sat, 19 Sep 2026 09:16:03 GMT",
+      "last_checked": "2026-09-19T16:21:27.574235+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-19T11:30:09.090544+06:00",
+      "last_checked": "2026-09-19T16:21:27.895290+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-19T11:30:10.035668+06:00",
+      "last_checked": "2026-09-19T16:21:28.807895+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"c7bafbb582215ea176b889b47232a82d\"",
-      "last_modified": "Fri, 18 Sep 2026 22:45:32 GMT",
-      "last_checked": "2026-09-19T11:30:10.351206+06:00",
+      "etag": "W/\"75ab982e34d88e8bb36ab8cbef502c1e\"",
+      "last_modified": "Sat, 19 Sep 2026 08:28:00 GMT",
+      "last_checked": "2026-09-19T16:21:29.041952+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-19T11:30:10.673783+06:00",
+      "last_checked": "2026-09-19T16:21:29.196887+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Fri, 18 Sep 2026 19:30:57 GMT",
-      "last_checked": "2026-09-19T11:30:11.065944+06:00",
+      "last_modified": "Sat, 19 Sep 2026 08:30:26 GMT",
+      "last_checked": "2026-09-19T16:21:29.837540+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sat, 19 Sep 2026 05:30:11 GMT",
-      "last_checked": "2026-09-19T11:30:11.825754+06:00",
+      "last_modified": "Sat, 19 Sep 2026 10:21:30 GMT",
+      "last_checked": "2026-09-19T16:21:30.277335+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"35cb28a46ea69a3137f638d076b950f3\"",
-      "last_modified": "Sat, 19 Sep 2026 05:07:51 GMT",
-      "last_checked": "2026-09-19T11:30:11.997258+06:00",
+      "etag": "W/\"6171b95c60f6f3f8003cbd5db4b22d53\"",
+      "last_modified": "Sat, 19 Sep 2026 10:04:22 GMT",
+      "last_checked": "2026-09-19T16:21:30.420959+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-19T11:30:12.595939+06:00",
+      "last_checked": "2026-09-19T16:21:30.940206+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-19T11:30:13.070884+06:00",
+      "last_checked": "2026-09-19T16:21:31.489468+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-19T11:30:13.534741+06:00",
+      "last_checked": "2026-09-19T16:21:32.057187+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-19T11:30:13.856754+06:00",
-      "fail_count": 41,
+      "last_checked": "2026-09-19T16:21:32.377891+06:00",
+      "fail_count": 42,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"b7627060ecdcfd2cc3ae34867892c9da\"",
       "last_modified": "Fri, 18 Sep 2026 17:03:13 GMT",
-      "last_checked": "2026-09-19T11:30:13.983833+06:00",
+      "last_checked": "2026-09-19T16:21:32.492715+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-19T11:30:14.121837+06:00",
+      "last_checked": "2026-09-19T16:21:32.637135+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-19T11:30:14.352494+06:00",
-      "fail_count": 41,
+      "last_checked": "2026-09-19T16:21:32.853141+06:00",
+      "fail_count": 42,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"0b592a93adaf37e05de78d355da17400\"",
       "last_modified": "Fri, 18 Sep 2026 16:00:00 GMT",
-      "last_checked": "2026-09-19T11:30:14.573711+06:00",
+      "last_checked": "2026-09-19T16:21:33.019982+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "gamespot.com/videos/every-marvels-wolverine-costume-and-claw-showcase": {
-      "title": "Every Marvel’s Wolverine Costume and Claw Showcase",
-      "url": "https://www.gamespot.com/videos/every-marvels-wolverine-costume-and-claw-showcase/",
-      "canonical": "gamespot.com/videos/every-marvels-wolverine-costume-and-claw-showcase",
-      "published_dt": "2026-09-15T10:00:00+06:00",
-      "published_date": "2026-09-15T10:00:00+06:00",
-      "source": "GameSpot",
-      "region": "Gaming",
-      "excerpt": "Check out all the various costumes for Wolverine from comics, to games, to movies as well as all the claws you can choose from.",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-15T11:50:41.983576+06:00",
-      "last_seen": "2026-09-15T11:50:41.983581+06:00"
-    },
-    "gematsu.com/2026/09/psychic-force-2012-coming-to-ps5-switch-and-pc-in-2027": {
-      "title": "Psychic Force 2012 coming to PS5, Switch, and PC in 2027",
-      "url": "https://www.gematsu.com/2026/09/psychic-force-2012-coming-to-ps5-switch-and-pc-in-2027",
-      "canonical": "gematsu.com/2026/09/psychic-force-2012-coming-to-ps5-switch-and-pc-in-2027",
-      "published_dt": "2026-09-15T09:54:45+06:00",
-      "published_date": "2026-09-15T09:54:45+06:00",
-      "source": "Gematsu",
-      "region": "Gaming",
-      "excerpt": "Cosmo Machia, in cooperation with TAITO, will release “360-degree all-range fighting game” Psychic Force 2012 …",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-15T11:50:43.399236+06:00",
-      "last_seen": "2026-09-15T11:50:43.399241+06:00"
-    },
-    "gematsu.com/2026/09/jujutsu-kaisen-rumble-survivaton-delayed-to-2027": {
-      "title": "Jujutsu Kaisen Rumble: Survivaton delayed to 2027",
-      "url": "https://www.gematsu.com/2026/09/jujutsu-kaisen-rumble-survivaton-delayed-to-2027",
-      "canonical": "gematsu.com/2026/09/jujutsu-kaisen-rumble-survivaton-delayed-to-2027",
-      "published_dt": "2026-09-15T09:23:51+06:00",
-      "published_date": "2026-09-15T09:23:51+06:00",
-      "source": "Gematsu",
-      "region": "Gaming",
-      "excerpt": "Publisher Shueisha Games and Vampire Survivors developer poncle have delayed multiplayer survival game Jujutsu Kaisen …",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-15T11:50:43.399375+06:00",
-      "last_seen": "2026-09-15T11:50:43.399377+06:00"
-    },
-    "gematsu.com/2026/09/higurashi-no-naku-koro-ni-jong-remaster-announced-for-ps5-switch-and-pc": {
-      "title": "Higurashi no Naku Koro ni Jong REMASTER announced for PS5, Switch, and PC",
-      "url": "https://www.gematsu.com/2026/09/higurashi-no-naku-koro-ni-jong-remaster-announced-for-ps5-switch-and-pc",
-      "canonical": "gematsu.com/2026/09/higurashi-no-naku-koro-ni-jong-remaster-announced-for-ps5-switch-and-pc",
-      "published_dt": "2026-09-15T09:16:59+06:00",
-      "published_date": "2026-09-15T09:16:59+06:00",
-      "source": "Gematsu",
-      "region": "Gaming",
-      "excerpt": "City Connection has announced mahjong adventure game remaster Higurashi no Naku Koro ni Jong REMASTER …",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-15T11:50:43.399496+06:00",
-      "last_seen": "2026-09-15T11:50:43.399498+06:00"
-    },
-    "gematsu.com/2026/09/wizardry-vi-bane-of-the-cosmic-forge-for-super-famicom-coming-to-pc-and-more-in-2027": {
-      "title": "Wizardry VI: Bane of the Cosmic Forge for Super Famicom coming to PC “and more” in 2027",
-      "url": "https://www.gematsu.com/2026/09/wizardry-vi-bane-of-the-cosmic-forge-for-super-famicom-coming-to-pc-and-more-in-2027",
-      "canonical": "gematsu.com/2026/09/wizardry-vi-bane-of-the-cosmic-forge-for-super-famicom-coming-to-pc-and-more-in-2027",
-      "published_dt": "2026-09-15T09:04:30+06:00",
-      "published_date": "2026-09-15T09:04:30+06:00",
-      "source": "Gematsu",
-      "region": "Gaming",
-      "excerpt": "Publisher Drecom and developer D4 Enterprise will release the Super Famicom version of Wizardry VI: …",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-15T11:50:43.399610+06:00",
-      "last_seen": "2026-09-15T11:50:43.399612+06:00"
-    },
-    "gematsu.com/2026/09/psycho-sleuth-launches-november-5": {
-      "title": "Psycho-Sleuth launches November 5",
-      "url": "https://www.gematsu.com/2026/09/psycho-sleuth-launches-november-5",
-      "canonical": "gematsu.com/2026/09/psycho-sleuth-launches-november-5",
-      "published_dt": "2026-09-15T09:02:13+06:00",
-      "published_date": "2026-09-15T09:02:13+06:00",
-      "source": "Gematsu",
-      "region": "Gaming",
-      "excerpt": "Psychological mystery visual novel Psycho-Sleuth will launch for PC via Steam and STOVE on November …",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-15T11:50:43.399718+06:00",
-      "last_seen": "2026-09-15T11:50:43.399720+06:00"
-    },
-    "polygon.com/angel-streaming-rec-tubi": {
-      "title": "27 Years Later, 1 of the Best Detective Thriller Series of All Time is Officially Free on Streaming",
-      "url": "https://www.polygon.com/angel-streaming-rec-tubi/",
-      "canonical": "polygon.com/angel-streaming-rec-tubi",
-      "published_dt": "2026-09-15T10:41:14+06:00",
-      "published_date": "2026-09-15T10:41:14+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "The Buffy: The Vampire Slay spinoff Angel just keeps getting better over five seasons",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/cordelia-charisma-carpenter-on-angel.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-15T11:50:44.507617+06:00",
-      "last_seen": "2026-09-15T11:50:44.507621+06:00"
-    },
-    "polygon.com/marvels-wolverine-bosses-list": {
-      "title": "All bosses in Marvel's Wolverine",
-      "url": "https://www.polygon.com/marvels-wolverine-bosses-list/",
-      "canonical": "polygon.com/marvels-wolverine-bosses-list",
-      "published_dt": "2026-09-15T10:01:15+06:00",
-      "published_date": "2026-09-15T10:01:15+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Marvel's Wolverine features many bosses and villains from the franchise. Here are all the bosses you'll face off against in order.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mw_previews_omegared_4k_2026.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-15T11:50:44.507741+06:00",
-      "last_seen": "2026-09-15T11:50:44.507743+06:00"
-    },
-    "polygon.com/marvels-wolverine-missions-list-length-how-long": {
-      "title": "Marvel's Wolverine mission list and length, explained",
-      "url": "https://www.polygon.com/marvels-wolverine-missions-list-length-how-long/",
-      "canonical": "polygon.com/marvels-wolverine-missions-list-length-how-long",
-      "published_dt": "2026-09-15T10:01:15+06:00",
-      "published_date": "2026-09-15T10:01:15+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "A guide explaining how long Marvel's Wolverine is along with all the missions listed in order.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/marvels-wolverine-parry-fight.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-15T11:50:44.507847+06:00",
-      "last_seen": "2026-09-15T11:50:44.507849+06:00"
-    },
-    "polygon.com/marvels-wolverine-whisky-bottle-locations-collectibles-where-to-find": {
-      "title": "All whisky bottle locations in Marvel's Wolverine",
-      "url": "https://www.polygon.com/marvels-wolverine-whisky-bottle-locations-collectibles-where-to-find/",
-      "canonical": "polygon.com/marvels-wolverine-whisky-bottle-locations-collectibles-where-to-find",
-      "published_dt": "2026-09-15T10:01:15+06:00",
-      "published_date": "2026-09-15T10:01:15+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "A guide explaining where to find all 20 whisky bottles and their locations in Marvel's Wolverine.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/marvels-wolverine-whisky-bottles-blood-and-bourbon-2.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-15T11:50:44.507948+06:00",
-      "last_seen": "2026-09-15T11:50:44.507951+06:00"
-    },
-    "polygon.com/marvels-wolverine-suits-list-all-how-to-get": {
-      "title": "All suits in Marvel's Wolverine and how to get them",
-      "url": "https://www.polygon.com/marvels-wolverine-suits-list-all-how-to-get/",
-      "canonical": "polygon.com/marvels-wolverine-suits-list-all-how-to-get",
-      "published_dt": "2026-09-15T10:01:15+06:00",
-      "published_date": "2026-09-15T10:01:15+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "A list of all suits available for Logan in Marvel's Wolverine, along with how to get each one.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/marvels-wolverine-suits-header.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-15T11:50:44.508047+06:00",
-      "last_seen": "2026-09-15T11:50:44.508050+06:00"
-    },
-    "polygon.com/marvels-wolverine-shiros-keypad-code-closet-bad-blood": {
-      "title": "Where to find the code for Shiro's keypad in Marvel's Wolverine",
-      "url": "https://www.polygon.com/marvels-wolverine-shiros-keypad-code-closet-bad-blood/",
-      "canonical": "polygon.com/marvels-wolverine-shiros-keypad-code-closet-bad-blood",
-      "published_dt": "2026-09-15T10:01:15+06:00",
-      "published_date": "2026-09-15T10:01:15+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "A guide explaining where to find the code for Shiro's closet keypad in Marvel's Wolverine.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/marvels-wolverine-shiros-keypad-header.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-15T11:50:44.508158+06:00",
-      "last_seen": "2026-09-15T11:50:44.508160+06:00"
-    },
-    "polygon.com/best-peanuts-quote-unrequited-love-heartbreak": {
-      "title": "62 Years Later, the Best 'Peanuts' Quote About Love Is Still a Quintessential Comic Strip Line",
-      "url": "https://www.polygon.com/best-peanuts-quote-unrequited-love-heartbreak/",
-      "canonical": "polygon.com/best-peanuts-quote-unrequited-love-heartbreak",
-      "published_dt": "2026-09-15T10:00:19+06:00",
-      "published_date": "2026-09-15T10:00:19+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Despite how sweet Charles Schulz's comic strip Peanuts could be, the series also specialized in the heartbreak of unrequited love",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/image2.webp",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-15T11:50:44.508258+06:00",
-      "last_seen": "2026-09-15T11:50:44.508260+06:00"
-    },
-    "kotaku.com/marvels-wolverine-post-credits-scene-sabretooth-apocalypse-2000734385": {
-      "title": "Marvel’s Wolverine Post-Credits Scene, Explained",
-      "url": "https://kotaku.com/marvels-wolverine-post-credits-scene-sabretooth-apocalypse-2000734385",
-      "canonical": "kotaku.com/marvels-wolverine-post-credits-scene-sabretooth-apocalypse-2000734385",
-      "published_dt": "2026-09-15T10:00:27+06:00",
-      "published_date": "2026-09-15T10:00:27+06:00",
-      "source": "Kotaku",
-      "region": "Gaming",
-      "excerpt": "It wouldn't be a modern Marvel story without something after the credits",
-      "image": "https://kotaku.com/app/uploads/2026/09/wolfie-1280x720.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-15T11:50:44.771610+06:00",
-      "last_seen": "2026-09-15T11:50:44.771613+06:00"
-    },
-    "nintendolife.com/news/2026/09/here-are-the-top-20-best-selling-gamecube-games-in-the-us": {
-      "title": "Here Are The Top 20 Best-Selling GameCube Games In The US",
-      "url": "https://www.nintendolife.com/news/2026/09/here-are-the-top-20-best-selling-gamecube-games-in-the-us",
-      "canonical": "nintendolife.com/news/2026/09/here-are-the-top-20-best-selling-gamecube-games-in-the-us",
-      "published_dt": "2026-09-15T10:45:00+06:00",
-      "published_date": "2026-09-15T10:45:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Celebrating the GameCube's 25th anniversary! This week, Nintendo's GameCube celebrates 25 years since its release in Japan. To celebrate this anniversary, a chart of the system's software sales has been shared by Circana Retail Tracking Service. This includes the \"US top 20 best-selling GameCube games, ranked by unit sales\". This information was shared on BlueSky via Circana's senior director and video game industry advisor, Mat Piscatella. In the top spot, we have Super Smash Bros. Melee , followed by Super Mario Sunshine in second place, and Mario Kart: Double Dash!! in third. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/c13df2d91c00c/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-15T11:50:47.257727+06:00",
-      "last_seen": "2026-09-15T11:50:47.257733+06:00"
-    },
-    "nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration": {
-      "title": "SEGA And Netflix Announce New \"Multi-Title Collaboration\"",
-      "url": "https://www.nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
-      "canonical": "nintendolife.com/news/2026/09/sega-and-netflix-announce-new-multi-title-collaboration",
-      "published_dt": "2026-09-15T09:15:00+06:00",
-      "published_date": "2026-09-15T09:15:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Including a Crazy Taxi live-action movie. SEGA and Netflix are teaming up once again, with the duo announcing three adaptations are now in development. First up is a live-action comedy movie based on the Crazy Taxi series and the new game World Tour . There'll also be another Sonic the Hedgehog kids' animation, and finally is a live-action crime adaptation of Stranger Than Heaven from RGG Studio (the team behind the Yakuza series). Release dates have not been announced. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/8610d93876a3e/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-09-15T11:50:47.258125+06:00",
-      "last_seen": "2026-09-15T11:50:47.258129+06:00",
-      "posted_at": "2026-09-15T11:55:15.860497+06:00"
-    },
-    "pushsquare.com/guides/marvels-wolverine-guide-100percent-collectibles-walkthrough": {
-      "title": "Guide: Marvel's Wolverine Guide: 100% Collectibles Walkthrough",
-      "url": "https://www.pushsquare.com/guides/marvels-wolverine-guide-100percent-collectibles-walkthrough",
-      "canonical": "pushsquare.com/guides/marvels-wolverine-guide-100percent-collectibles-walkthrough",
-      "published_dt": "2026-09-15T10:00:00+06:00",
-      "published_date": "2026-09-15T10:00:00+06:00",
-      "source": "Push Square",
-      "region": "Gaming",
-      "excerpt": "The ultimate Wolverine PS5 collectibles resource. In this Marvel's Wolverine guide , we will reveal a 100% collectibles walkthrough that documents where to find all of the Nightmare Doors , Material Crates , and Whisky Bottles in every Mission. We'll highlight all Suits and how to get them as well as all Missions and Chapters in the game too. <toc expand=\"none\"> Read the full article on pushsquare.com",
-      "image": "https://images.pushsquare.com/895b09527224d/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-15T11:50:47.820719+06:00",
-      "last_seen": "2026-09-15T11:50:47.820723+06:00"
-    },
-    "polygon.com/apple-scifi-series-silo-end-of-era": {
-      "title": "It's Officially the End of an Era for Apple's Most Overlooked Sci-Fi Series",
-      "url": "https://www.polygon.com/apple-scifi-series-silo-end-of-era/",
-      "canonical": "polygon.com/apple-scifi-series-silo-end-of-era",
-      "published_dt": "2026-09-15T10:13:14+06:00",
-      "published_date": "2026-09-15T10:13:14+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-09-15T11:51:14.406392+06:00",
-      "last_seen": "2026-09-15T11:51:14.406396+06:00"
-    },
     "ign.com/articles/us-confirms-for-the-first-time-it-has-deployed-a-space-weapon-in-earths-orbit": {
       "title": "US Confirms for the First Time It Has Deployed a Space Weapon in Earth's Orbit",
       "url": "https://www.ign.com/articles/us-confirms-for-the-first-time-it-has-deployed-a-space-weapon-in-earths-orbit",
@@ -956,7 +667,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-15T17:07:47.305239+06:00",
-      "last_seen": "2026-09-15T17:07:47.305243+06:00"
+      "last_seen": "2026-09-19T16:21:30.428780+06:00"
     },
     "insider-gaming.com/how-to-replay-missions-in-marvels-wolverine": {
       "title": "How to Replay Missions in Marvel’s Wolverine",
@@ -7080,7 +6791,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-17T17:00:29.156472+06:00",
-      "last_seen": "2026-09-18T16:37:13.188972+06:00"
+      "last_seen": "2026-09-19T16:21:30.428984+06:00"
     },
     "insider-gaming.com/astrae-oratio-hands-on-preview": {
       "title": "Astrae Oratio Hands-On Preview: Stylish Gameplay, Charming Vibes",
@@ -11432,6 +11143,183 @@
       "status": "pending",
       "first_seen": "2026-09-19T11:30:20.338188+06:00",
       "last_seen": "2026-09-19T11:30:20.338190+06:00"
+    },
+    "ign.com/articles/as-fans-flood-the-world-of-warcraft-forever-beta-dev-says-its-putting-up-the-craziest-numbers-ive-seen-in-17-years-working-at-blizzard": {
+      "title": "As Fans Flood the World of Warcraft: Forever Beta, Dev Says It's Putting Up 'The Craziest Numbers I've Seen in 17 Years Working at Blizzard'",
+      "url": "https://www.ign.com/articles/as-fans-flood-the-world-of-warcraft-forever-beta-dev-says-its-putting-up-the-craziest-numbers-ive-seen-in-17-years-working-at-blizzard",
+      "canonical": "ign.com/articles/as-fans-flood-the-world-of-warcraft-forever-beta-dev-says-its-putting-up-the-craziest-numbers-ive-seen-in-17-years-working-at-blizzard",
+      "published_dt": "2026-09-19T14:19:37+06:00",
+      "published_date": "2026-09-19T14:19:37+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "World of Warcraft: Forever looks like it could be a smash hit after the launch of the beta was overrun with eager fans, surprising even Blizzard itself.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/19/forever-1789805930640.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-19T16:21:25.917159+06:00",
+      "last_seen": "2026-09-19T16:21:25.917165+06:00",
+      "posted_at": "2026-09-19T16:23:48.681481+06:00"
+    },
+    "ign.com/articles/marvels-wolverine-developer-nerfs-scent-trails-and-audio-sense-indicators-after-fart-gas-backlash": {
+      "title": "Marvel's Wolverine Developer Nerfs Scent Trails and Audio Sense Indicators After 'Fart Gas' Backlash",
+      "url": "https://www.ign.com/articles/marvels-wolverine-developer-nerfs-scent-trails-and-audio-sense-indicators-after-fart-gas-backlash",
+      "canonical": "ign.com/articles/marvels-wolverine-developer-nerfs-scent-trails-and-audio-sense-indicators-after-fart-gas-backlash",
+      "published_dt": "2026-09-19T13:23:42+06:00",
+      "published_date": "2026-09-19T13:23:42+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Insomniac has released an update for Marvel’s Wolverine that nerfs the “fart gas” that had become such a talking point even before the game’s release.",
+      "image": "https://assets-prd.ignimgs.com/2026/06/02/wolverine-main-1780437427510.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-19T16:21:25.917310+06:00",
+      "last_seen": "2026-09-19T16:21:25.917313+06:00"
+    },
+    "eurogamer.net/nodusfall-gamescom-preview": {
+      "title": "HoYoverse's Nodusfall might look like Elden Ring, but there's a promising dark fantasy action game here that took me by surprise",
+      "url": "https://www.eurogamer.net/nodusfall-gamescom-preview",
+      "canonical": "eurogamer.net/nodusfall-gamescom-preview",
+      "published_dt": "2026-09-19T15:00:00+06:00",
+      "published_date": "2026-09-19T15:00:00+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Nodusfall, aesthetically at least, is about as far from a typical HoYoverse game as you can get. Gone are the bright colours, cute creatures, and bountiful anime women. In their place, we get all the familiar trappings of dark fantasy: mysterious magics, vicious monsters, and a dingier kind of realism that - and I'm sure we've all thought it - feels a little bit Elden Ring . But from what I played at Gamescom, Nodusfall has the potential to shake off those FromSoftware comparisons and come into its own. Read more",
+      "image": "https://assetsio.gnwcdn.com/Nodusfall-Preview-Header.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-19T16:21:27.237049+06:00",
+      "last_seen": "2026-09-19T16:21:27.237055+06:00"
+    },
+    "pcgamer.com/games/survival-crafting/dune-awakening-now-has-a-solo-mode-for-players-put-off-by-its-mmo-leanings-while-funcom-has-adjusted-progression-so-you-dont-have-to-lose-things-anymore": {
+      "title": "Dune Awakening now has a solo mode for players put off by its MMO leanings, while Funcom has adjusted progression so 'you don't have to lose things anymore'",
+      "url": "https://www.pcgamer.com/games/survival-crafting/dune-awakening-now-has-a-solo-mode-for-players-put-off-by-its-mmo-leanings-while-funcom-has-adjusted-progression-so-you-dont-have-to-lose-things-anymore/",
+      "canonical": "pcgamer.com/games/survival-crafting/dune-awakening-now-has-a-solo-mode-for-players-put-off-by-its-mmo-leanings-while-funcom-has-adjusted-progression-so-you-dont-have-to-lose-things-anymore",
+      "published_dt": "2026-09-19T16:09:00+06:00",
+      "published_date": "2026-09-19T16:09:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Friction? Who needs it?",
+      "image": "https://cdn.mos.cms.futurecdn.net/cGALeXMuTDGvVZW3P9ruXR-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-19T16:21:28.382150+06:00",
+      "last_seen": "2026-09-19T16:21:28.382156+06:00"
+    },
+    "polygon.com/star-wars-zero-company-characters-ranked": {
+      "title": "Every Star Wars Zero Company Hero, Ranked From Worst to Best",
+      "url": "https://www.polygon.com/star-wars-zero-company-characters-ranked/",
+      "canonical": "polygon.com/star-wars-zero-company-characters-ranked",
+      "published_dt": "2026-09-19T15:00:14+06:00",
+      "published_date": "2026-09-19T15:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Star Wars Zero Company, the new tactical game set in the Clone Wars era, features a unique cast of heroes. Let's rank them.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/trick-luco-star-wars-zero-compan.jpeg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-19T16:21:28.814340+06:00",
+      "last_seen": "2026-09-19T16:21:28.814344+06:00"
+    },
+    "polygon.com/best-anime-to-stream-on-hbo-max": {
+      "title": "The 9 Best Anime You Can Stream on HBO Max",
+      "url": "https://www.polygon.com/best-anime-to-stream-on-hbo-max/",
+      "canonical": "polygon.com/best-anime-to-stream-on-hbo-max",
+      "published_dt": "2026-09-19T14:00:14+06:00",
+      "published_date": "2026-09-19T14:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "You can watch these after going through HBO Max's Studio Ghibli catalogue.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/per2-1.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-19T16:21:28.814444+06:00",
+      "last_seen": "2026-09-19T16:21:28.814447+06:00"
+    },
+    "polygon.com/best-charlie-brown-football-jokes-peanuts-comic-strip": {
+      "title": "The 5 Best Charlie Brown Football Comic Strips in 'Peanuts' History",
+      "url": "https://www.polygon.com/best-charlie-brown-football-jokes-peanuts-comic-strip/",
+      "canonical": "polygon.com/best-charlie-brown-football-jokes-peanuts-comic-strip",
+      "published_dt": "2026-09-19T14:00:14+06:00",
+      "published_date": "2026-09-19T14:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "50 years of exercises in futility",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/charlie-brown-lucy-van-pelt-football.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-19T16:21:28.814537+06:00",
+      "last_seen": "2026-09-19T16:21:28.814539+06:00"
+    },
+    "gamesradar.com/tabletop-gaming/new-warhammer-40k-space-marines-2026": {
+      "title": "I've been hands on with all the new Warhammer 40K Space Marine models, these are the ones you should buy",
+      "url": "https://www.gamesradar.com/tabletop-gaming/new-warhammer-40k-space-marines-2026/",
+      "canonical": "gamesradar.com/tabletop-gaming/new-warhammer-40k-space-marines-2026",
+      "published_dt": "2026-09-19T15:00:00+06:00",
+      "published_date": "2026-09-19T15:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Now with a secret weapon: nostalgia",
+      "image": "https://cdn.mos.cms.futurecdn.net/9nkzS7EzTd7dyncasL6eLJ-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-19T16:21:29.411663+06:00",
+      "last_seen": "2026-09-19T16:21:29.411667+06:00"
+    },
+    "nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-19th-september": {
+      "title": "Talking Point: What Are You Playing This Weekend? (19th September)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-19th-september",
+      "canonical": "nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-19th-september",
+      "published_dt": "2026-09-19T15:00:00+06:00",
+      "published_date": "2026-09-19T15:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "That's Fire, bro. Happy weekend, citizens of Dagsion! This week might have felt a little quiet after the double-Direct blowout of the last, but we still got a new first-party launch, some news from Capcom out of Tokyo Games Show , and Nintendo satiated our need for that electronic Ocarina by finally putting the damn thing up for pre-order . Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/4894080a0908f/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-19T16:21:30.954626+06:00",
+      "last_seen": "2026-09-19T16:21:30.954630+06:00"
+    },
+    "nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2": {
+      "title": "Monster Hunter World Probably Won't Be Coming To Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
+      "canonical": "nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
+      "published_dt": "2026-09-19T13:30:00+06:00",
+      "published_date": "2026-09-19T13:30:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "\"We’d have to completely remake the game\". Capcom is bringing the new entry in the Monster Hunter series to the Switch 2 later this year, but some fans have also been calling for Monster Hunter World . During the Switch generation, Capcom released Monster Hunter Rise (and other Monster Hunter titles) on Nintendo's hardware, but World was only accessible on consoles via PlayStation and Xbox. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/1c2f06a72747d/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-19T16:21:30.954886+06:00",
+      "last_seen": "2026-09-19T16:21:30.954889+06:00"
+    },
+    "polygon.com/the-beekeeper-peacock-jason-statham-perfect-action-movie": {
+      "title": "Jason Statham's 10/10 Action Thriller Officially Scores New Streaming Home Ahead of Sequel",
+      "url": "https://www.polygon.com/the-beekeeper-peacock-jason-statham-perfect-action-movie/",
+      "canonical": "polygon.com/the-beekeeper-peacock-jason-statham-perfect-action-movie",
+      "published_dt": "2026-09-19T14:11:14+06:00",
+      "published_date": "2026-09-19T14:11:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-09-19T16:21:38.870448+06:00",
+      "last_seen": "2026-09-19T16:21:38.870452+06:00"
     }
   },
   "events": {
@@ -21722,6 +21610,56 @@
           "headline": "INTERSCAPE Hands‑On Preview Shows Inception‑Style Dream‑Warp Combat",
           "claims": [
             "The game was playable for the first time at TGS"
+          ]
+        }
+      ]
+    },
+    "evt_c22fd30f534efc": {
+      "event_id": "evt_c22fd30f534efc",
+      "event_key": "world of warcraft forever beta launch numbers",
+      "event_subject": "World of Warcraft: Forever",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "world of warcraft forever beta launch numbers",
+        "subject": "World of Warcraft: Forever",
+        "event_type": "other",
+        "action": "report player numbers",
+        "status": "published",
+        "modality": "unknown",
+        "game": "World of Warcraft: Forever",
+        "franchise": "World of Warcraft",
+        "institution": "IGN",
+        "target": "beta players",
+        "platforms": [],
+        "topic": "beta performance"
+      },
+      "sources": [
+        "IGN"
+      ],
+      "event_sources": [
+        "IGN"
+      ],
+      "claims": [
+        "Beta attracted the highest numbers in 17 years at Blizzard"
+      ],
+      "importance_score": 45,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "World of Warcraft: Forever Beta Overwhelms Blizzard with Record Player Surge",
+      "summary": "The public beta for World of Warcraft: Forever attracted massive queues and lag, delivering the most intense numbers Blizzard has seen in 17 years.",
+      "published_at": "2026-09-19T14:19:37+06:00",
+      "selected_at": "2026-09-19T10:23:48.681512+00:00",
+      "status": "published",
+      "message_id": 366,
+      "published_versions": [
+        {
+          "published_at": "2026-09-19T10:23:48.681512+00:00",
+          "headline": "World of Warcraft: Forever Beta Overwhelms Blizzard with Record Player Surge",
+          "claims": [
+            "Beta attracted the highest numbers in 17 years at Blizzard"
           ]
         }
       ]
@@ -77072,6 +77010,463 @@
         "total": 31
       },
       "last_seen": "2026-09-19T11:30:28.286443+06:00"
+    },
+    "evt_c22fd30f534efc": {
+      "event_id": "evt_c22fd30f534efc",
+      "event_key": "world of warcraft forever beta launch numbers",
+      "event_subject": "World of Warcraft: Forever",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "world of warcraft forever beta launch numbers",
+        "subject": "World of Warcraft: Forever",
+        "event_type": "other",
+        "action": "report player numbers",
+        "status": "published",
+        "modality": "unknown",
+        "game": "World of Warcraft: Forever",
+        "franchise": "World of Warcraft",
+        "institution": "IGN",
+        "target": "beta players",
+        "platforms": [],
+        "topic": "beta performance"
+      },
+      "modality": "unknown",
+      "topic": "beta performance",
+      "institution": "IGN",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Beta attracted the highest numbers in 17 years at Blizzard"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-09-19T16:22:47.020464+06:00"
+    },
+    "evt_a7a2967bb4fd00": {
+      "event_id": "evt_a7a2967bb4fd00",
+      "event_key": "nodusfall gamescom 2026 preview",
+      "event_subject": "Nodusfall",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nodusfall gamescom 2026 preview",
+        "subject": "Nodusfall",
+        "event_type": "other",
+        "action": "showcase at Gamescom",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Nodusfall",
+        "franchise": "HoYoverse",
+        "institution": "Eurogamer",
+        "target": "game",
+        "platforms": [],
+        "topic": "game preview"
+      },
+      "modality": "unknown",
+      "topic": "game preview",
+      "institution": "Eurogamer",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "First look suggests dark‑fantasy action comparable to Elden Ring"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-19T16:22:47.020487+06:00"
+    },
+    "evt_efd6f58af6323e": {
+      "event_id": "evt_efd6f58af6323e",
+      "event_key": "dune awakening solo mode addition",
+      "event_subject": "Dune Awakening",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "dune awakening solo mode addition",
+        "subject": "Dune Awakening",
+        "event_type": "other",
+        "action": "add solo mode; adjust progression",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Dune Awakening",
+        "franchise": "Dune",
+        "institution": "Funcom",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "gameplay changes"
+      },
+      "modality": "unknown",
+      "topic": "gameplay changes",
+      "institution": "Funcom",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Solo mode added and progression tweaked so players no longer lose items"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-09-19T16:22:47.020494+06:00"
+    },
+    "evt_ac6eaff3233973": {
+      "event_id": "evt_ac6eaff3233973",
+      "event_key": "marvel s wolverine update nerf scent trails",
+      "event_subject": "Marvel's Wolverine",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "marvel s wolverine update nerf scent trails",
+        "subject": "Marvel's Wolverine",
+        "event_type": "other",
+        "action": "nerf scent trails and audio sense",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Marvel's Wolverine",
+        "franchise": "Marvel",
+        "institution": "Insomniac Games",
+        "target": "players",
+        "platforms": [],
+        "topic": "game balance"
+      },
+      "modality": "unknown",
+      "topic": "game balance",
+      "institution": "Insomniac Games",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Scent trail and audio sense indicators reduced after backlash"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 37
+      },
+      "last_seen": "2026-09-19T16:22:47.020499+06:00"
+    },
+    "evt_51dbc44fab9f37": {
+      "event_id": "evt_51dbc44fab9f37",
+      "event_key": "monster hunter world switch 2 port denial",
+      "event_subject": "Monster Hunter World",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "monster hunter world switch 2 port denial",
+        "subject": "Monster Hunter World",
+        "event_type": "other",
+        "action": "state game will not be ported",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Monster Hunter World",
+        "franchise": "Monster Hunter",
+        "institution": "Nintendo Life",
+        "target": "Switch 2 users",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "port feasibility"
+      },
+      "modality": "unknown",
+      "topic": "port feasibility",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Port would require a complete remake, so it won’t arrive on Switch 2"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-09-19T16:22:47.020504+06:00"
+    },
+    "evt_0dcb8397180c12": {
+      "event_id": "evt_0dcb8397180c12",
+      "event_key": "warhammer 40k space marine new models hands on",
+      "event_subject": "Warhammer 40K Space Marine models",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "warhammer 40k space marine new models hands on",
+        "subject": "Warhammer 40K Space Marine models",
+        "event_type": "other",
+        "action": "evaluate new models",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Warhammer 40K",
+        "institution": "GamesRadar+",
+        "target": "models",
+        "platforms": [],
+        "topic": "miniature review"
+      },
+      "modality": "unknown",
+      "topic": "miniature review",
+      "institution": "GamesRadar+",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Recommendations on which new Space Marine models to buy"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-09-19T16:22:47.020510+06:00"
+    },
+    "evt_58c381eb80b221": {
+      "event_id": "evt_58c381eb80b221",
+      "event_key": "star wars zero company hero ranking",
+      "event_subject": "Star Wars Zero Company",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "star wars zero company hero ranking",
+        "subject": "Star Wars Zero Company",
+        "event_type": "other",
+        "action": "rank heroes",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Star Wars Zero Company",
+        "franchise": "Star Wars",
+        "institution": "Polygon",
+        "target": "heroes",
+        "platforms": [],
+        "topic": "character evaluation"
+      },
+      "modality": "unknown",
+      "topic": "character evaluation",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Heroes ranked from worst to best"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-19T16:22:47.020515+06:00"
+    },
+    "evt_f08dbc86716cf6": {
+      "event_id": "evt_f08dbc86716cf6",
+      "event_key": "nintendo life weekend gaming roundup sep 19 2026",
+      "event_subject": "Nintendo Life weekend roundup",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo life weekend gaming roundup sep 19 2026",
+        "subject": "Nintendo Life weekend roundup",
+        "event_type": "other",
+        "action": "discuss upcoming games",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Nintendo Life",
+        "target": "readers",
+        "platforms": [],
+        "topic": "gaming weekend"
+      },
+      "modality": "unknown",
+      "topic": "gaming weekend",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Highlights new first‑party launch, Capcom news, and Nintendo pre‑order"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-19T16:22:47.020520+06:00"
+    },
+    "evt_18d994d03c002b": {
+      "event_id": "evt_18d994d03c002b",
+      "event_key": "hbo max anime streaming lineup",
+      "event_subject": "HBO Max anime lineup",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "hbo max anime streaming lineup",
+        "subject": "HBO Max anime lineup",
+        "event_type": "other",
+        "action": "list best anime",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "streaming audience",
+        "platforms": [
+          "HBO Max"
+        ],
+        "topic": "anime streaming"
+      },
+      "modality": "unknown",
+      "topic": "anime streaming",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Nine top anime titles available on HBO Max"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-19T16:22:47.020525+06:00"
+    },
+    "evt_58c44530dd86d3": {
+      "event_id": "evt_58c44530dd86d3",
+      "event_key": "peanuts football comic strip best of list",
+      "event_subject": "Peanuts football comic strips",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "peanuts football comic strip best of list",
+        "subject": "Peanuts football comic strips",
+        "event_type": "other",
+        "action": "select top strips",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Peanuts",
+        "institution": "Polygon",
+        "target": "readers",
+        "platforms": [],
+        "topic": "comic strip history"
+      },
+      "modality": "unknown",
+      "topic": "comic strip history",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Five best Charlie Brown football strips compiled"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-19T16:22:47.020530+06:00"
+    },
+    "evt_c2544db50277ff": {
+      "event_id": "evt_c2544db50277ff",
+      "event_key": "jason statham action thriller streaming home announcement",
+      "event_subject": "Unnamed Jason Statham thriller",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "jason statham action thriller streaming home announcement",
+        "subject": "Unnamed Jason Statham thriller",
+        "event_type": "other",
+        "action": "announce streaming platform",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "viewers",
+        "platforms": [],
+        "topic": "film distribution"
+      },
+      "modality": "unknown",
+      "topic": "film distribution",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "New streaming home confirmed ahead of sequel"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-19T16:22:47.020535+06:00"
     }
   },
   "posted_event_ids": [
@@ -77277,7 +77672,8 @@
     "evt_bbc620c8534b88",
     "evt_8940bc85a92845",
     "evt_7051b59112b9cb",
-    "evt_157fe38e4d8e42"
+    "evt_157fe38e4d8e42",
+    "evt_c22fd30f534efc"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -77482,10 +77878,11 @@
     "fx announces star studded far cry tv adaptation with steve buscemi and brendan gleeson",
     "bruce straley calls modern aaa games boring cites god of war laufey",
     "fareidolia hands on preview shows nexon s project rx blending bishoujo charm with hybrid combat",
-    "interscape hands on preview shows inception style dream warp combat"
+    "interscape hands on preview shows inception style dream warp combat",
+    "world of warcraft forever beta overwhelms blizzard with record player surge"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-19T11:32:36.141450+06:00",
+    "Game Updates": "2026-09-19T16:23:48.681531+06:00",
     "Major Releases": "2026-09-18T21:11:03.816240+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
