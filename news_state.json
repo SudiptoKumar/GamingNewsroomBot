@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1dbef-fows4S1UzR46mUpBkDQhkEbNmCY\"",
+      "etag": "W/\"1e4b8-0CIncpEBQAva/kmGcAty22+VCqM\"",
       "last_modified": null,
-      "last_checked": "2026-09-22T11:52:10.059761+06:00",
+      "last_checked": "2026-09-22T16:59:59.789863+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-22T11:52:10.244983+06:00",
+      "last_checked": "2026-09-22T17:00:00.065172+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ab2170c-a19\"",
-      "last_modified": "Tue, 22 Sep 2026 05:50:04 GMT",
-      "last_checked": "2026-09-22T11:52:10.584541+06:00",
+      "etag": "\"6ab25e87-b51\"",
+      "last_modified": "Tue, 22 Sep 2026 10:55:03 GMT",
+      "last_checked": "2026-09-22T17:00:00.399319+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Mon, 21 Sep 2026 19:23:49 GMT",
-      "last_checked": "2026-09-22T11:52:10.818039+06:00",
+      "last_modified": "Tue, 22 Sep 2026 09:34:13 GMT",
+      "last_checked": "2026-09-22T17:00:00.538947+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ab20e5d-1274\"",
-      "last_modified": "Tue, 22 Sep 2026 05:13:01 GMT",
-      "last_checked": "2026-09-22T11:52:11.119105+06:00",
+      "etag": "\"6ab2474e-1274\"",
+      "last_modified": "Tue, 22 Sep 2026 09:15:58 GMT",
+      "last_checked": "2026-09-22T17:00:00.846351+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-22T11:52:11.303074+06:00",
+      "last_checked": "2026-09-22T17:00:00.962542+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-22T11:52:11.741302+06:00",
+      "last_checked": "2026-09-22T17:00:01.262342+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"84f23c1122b19986b57f49baac032221\"",
-      "last_modified": "Mon, 21 Sep 2026 23:00:25 GMT",
-      "last_checked": "2026-09-22T11:52:11.899263+06:00",
+      "etag": "W/\"9d7c0dfdb7c1c99124c72644e4a710e7\"",
+      "last_modified": "Tue, 22 Sep 2026 10:15:14 GMT",
+      "last_checked": "2026-09-22T17:00:01.535443+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-22T11:52:11.995109+06:00",
+      "last_checked": "2026-09-22T17:00:01.870169+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Mon, 21 Sep 2026 21:17:15 GMT",
-      "last_checked": "2026-09-22T11:52:12.394391+06:00",
+      "last_modified": "Tue, 22 Sep 2026 09:43:51 GMT",
+      "last_checked": "2026-09-22T17:00:02.318094+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Tue, 22 Sep 2026 05:52:12 GMT",
-      "last_checked": "2026-09-22T11:52:12.862578+06:00",
+      "last_modified": "Tue, 22 Sep 2026 11:00:08 GMT",
+      "last_checked": "2026-09-22T17:00:08.946042+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"b0fdc9c5c96a0d6eb451d5ba0a375596\"",
-      "last_modified": "Mon, 21 Sep 2026 21:42:29 GMT",
-      "last_checked": "2026-09-22T11:52:13.040856+06:00",
+      "etag": "W/\"089e5fa8cc4adbeedaaf25e61bce9e72\"",
+      "last_modified": "Tue, 22 Sep 2026 10:03:06 GMT",
+      "last_checked": "2026-09-22T17:00:09.052549+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-22T11:52:13.388042+06:00",
+      "last_checked": "2026-09-22T17:00:09.297414+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-22T11:52:13.759014+06:00",
+      "last_checked": "2026-09-22T17:00:09.727839+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-22T11:52:14.220136+06:00",
+      "last_checked": "2026-09-22T17:00:10.091665+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-22T11:52:14.438172+06:00",
-      "fail_count": 52,
+      "last_checked": "2026-09-22T17:00:10.295103+06:00",
+      "fail_count": 53,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"498336100ddc8d1709056ae501198cf3\"",
       "last_modified": "Mon, 21 Sep 2026 22:20:12 GMT",
-      "last_checked": "2026-09-22T11:52:14.557889+06:00",
+      "last_checked": "2026-09-22T17:00:10.441595+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-22T11:52:14.824003+06:00",
+      "last_checked": "2026-09-22T17:00:10.653506+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-22T11:52:15.025971+06:00",
-      "fail_count": 52,
+      "last_checked": "2026-09-22T17:00:10.833871+06:00",
+      "fail_count": 53,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"6e4230db832f7f3f5b08fc8ec5fff115\"",
-      "last_modified": "Mon, 21 Sep 2026 16:00:00 GMT",
-      "last_checked": "2026-09-22T11:52:15.131770+06:00",
+      "etag": "W/\"28ecadbfb7ecbace26cc7e9956d4c496\"",
+      "last_modified": "Tue, 22 Sep 2026 10:08:00 GMT",
+      "last_checked": "2026-09-22T17:00:10.946679+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -169,460 +169,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-17T17:00:29.156472+06:00",
-      "last_seen": "2026-09-20T16:40:42.671573+06:00"
-    },
-    "ign.com/articles/pokemon-30th-celebration-most-expensive-cards": {
-      "title": "10 Most Valuable Pokémon TCG 30th Celebration Cards So Far",
-      "url": "https://www.ign.com/articles/pokemon-30th-celebration-most-expensive-cards",
-      "canonical": "ign.com/articles/pokemon-30th-celebration-most-expensive-cards",
-      "published_dt": "2026-09-18T16:10:28+06:00",
-      "published_date": "2026-09-18T16:10:28+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "Discover the 10 most expensive and valuable Pokémon TCG 30th Celebration chase cards so far, featuring live market prices for the Mew, Lugia Classic, and SIR Mew ex.",
-      "image": "https://assets-prd.ignimgs.com/2026/09/18/10-most-expensive-30th-anniversary-pokemon-cards-1789726035068.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:08.384337+06:00",
-      "last_seen": "2026-09-18T16:37:08.384345+06:00"
-    },
-    "ign.com/articles/will-scarlet-witch-appear-in-vision-quest-paul-bettany-says-its-a-matter-of-secrecy-and-fans-are-now-hoping-for-her-return": {
-      "title": "Will Scarlet Witch Appear in Vision Quest? Paul Bettany Says It's a 'Matter of Secrecy,' and Fans Are Now Hoping For Her Return",
-      "url": "https://www.ign.com/articles/will-scarlet-witch-appear-in-vision-quest-paul-bettany-says-its-a-matter-of-secrecy-and-fans-are-now-hoping-for-her-return",
-      "canonical": "ign.com/articles/will-scarlet-witch-appear-in-vision-quest-paul-bettany-says-its-a-matter-of-secrecy-and-fans-are-now-hoping-for-her-return",
-      "published_dt": "2026-09-18T16:10:09+06:00",
-      "published_date": "2026-09-18T16:10:09+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "Paul Bettany has claimed he still doesn't know if Elizabeth Olsen's Scarlet Witch will return in Vision Quest, but fans have hope.",
-      "image": "https://assets-prd.ignimgs.com/2023/09/04/wanda-scarlet-witch-1652812067682-1693811666564.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:08.384526+06:00",
-      "last_seen": "2026-09-18T16:37:08.384530+06:00"
-    },
-    "ign.com/articles/the-blood-of-dawnwalker-dev-confirms-new-game-plus-is-on-the-way": {
-      "title": "The Blood of Dawnwalker Dev Confirms New Game Plus Is on the Way",
-      "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-dev-confirms-new-game-plus-is-on-the-way",
-      "canonical": "ign.com/articles/the-blood-of-dawnwalker-dev-confirms-new-game-plus-is-on-the-way",
-      "published_dt": "2026-09-18T15:01:52+06:00",
-      "published_date": "2026-09-18T15:01:52+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "The Blood of Dawnwalker is indeed getting a new game plus mode in the future, according to the game's director.",
-      "image": "https://assets-prd.ignimgs.com/2026/09/18/dawnwalker-1789722104782.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:08.384665+06:00",
-      "last_seen": "2026-09-18T16:37:08.384669+06:00"
-    },
-    "ign.com/articles/professor-layton-developer-level-5-scrambles-to-reupload-trailers-as-ai-backlash-intensifies": {
-      "title": "Professor Layton Developer Level-5 Scrambles to Reupload Trailers as AI Backlash Intensifies",
-      "url": "https://www.ign.com/articles/professor-layton-developer-level-5-scrambles-to-reupload-trailers-as-ai-backlash-intensifies",
-      "canonical": "ign.com/articles/professor-layton-developer-level-5-scrambles-to-reupload-trailers-as-ai-backlash-intensifies",
-      "published_dt": "2026-09-18T14:44:57+06:00",
-      "published_date": "2026-09-18T14:44:57+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "In the wake of fierce online backlash, Professor Layton developer Level-5 has released a new statement apologizing for the mistrust caused by generative AI use in its recent showcase for upcoming titles, insisting some examples spotted by fans were simply human error.",
-      "image": "https://assets-prd.ignimgs.com/2023/11/29/laytonthumb-1701279830123.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-09-18T16:37:08.384818+06:00",
-      "last_seen": "2026-09-18T16:37:08.384823+06:00",
-      "posted_at": "2026-09-18T16:41:36.714597+06:00"
-    },
-    "gamespot.com/articles/new-gta-5-source-code-leak-is-uncovering-a-ton-of-cut-content": {
-      "title": "New GTA 5 Source Code Leak Is Uncovering A Ton Of Cut Content",
-      "url": "https://www.gamespot.com/articles/new-gta-5-source-code-leak-is-uncovering-a-ton-of-cut-content/",
-      "canonical": "gamespot.com/articles/new-gta-5-source-code-leak-is-uncovering-a-ton-of-cut-content",
-      "published_dt": "2026-09-18T15:58:00+06:00",
-      "published_date": "2026-09-18T15:58:00+06:00",
-      "source": "GameSpot",
-      "region": "Gaming",
-      "excerpt": "A huge batch of previously leaked Rockstar files has resurfaced online, giving players a new look at Grand Theft Auto 5' s canceled content, including a surprisingly massive Liberty City expansion and the long-rumored Agent Trevor DLC. The files reportedly total around 192GB, dwarfing the roughly 4GB collection of GTA 5 source code material that surfaced publicly in 2023. GTA modder TJGM has been digging through the newly accessible files and has already highlighted several discoveries, including cut dialogue, canceled missions, development tools, and assets from Rockstar's planned single-player expansions. One of the biggest discoveries so far is a look at the Liberty City expansion that Rockstar had planned for GTA 5, but ultimately was canned. TJGM shared an outline of the Liberty City expansion, reconstructed using shoreline data contained in the files. The map appears substantially larger than the Liberty City featured in GTA 4. \"The outline of this map is drawn based on where shorelines are,\" TJGM explained, noting that the files also contain zones associated with shoreline audio. The discovery provides a clearer picture of how ambitious Rockstar's plans were for bringing Liberty City into GTA 5. Trevor could have had a James Bond-style mission. Another file reportedly contains a development zone that suggests Rockstar had begun setting up additional terrain for the expansion. The presence of the map outline and audio zones could indicate that development progressed considerably further than previously known. The Liberty City content was already known to exist thanks to the 2023 source-code leak, but the new material provides a clearer picture of its intended scale. It also raises the possibility that Rockstar's plans for Liberty City could be pushed toward GTA 6, although that remains purely speculation at this point. The leak also sheds more light on another canceled GTA 5 project: the Agent Trevor DLC. The DLC was set to star GTA 5's Trevor as a secret agen",
-      "image": "https://www.gamespot.com/wp-content/uploads/original/1813/18138562/4240381-gta5promowebsite.png?w=300",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:08.688598+06:00",
-      "last_seen": "2026-09-18T16:37:08.688604+06:00"
-    },
-    "gamespot.com/articles/mega-staraptor-pokemon-go-raids-weaknesses-best-counters-and-best-moveset": {
-      "title": "Mega Staraptor Pokemon Go Raids: Weaknesses, Best Counters, And Best Moveset",
-      "url": "https://www.gamespot.com/articles/mega-staraptor-pokemon-go-raids-weaknesses-best-counters-and-best-moveset/",
-      "canonical": "gamespot.com/articles/mega-staraptor-pokemon-go-raids-weaknesses-best-counters-and-best-moveset",
-      "published_dt": "2026-09-18T14:41:40+06:00",
-      "published_date": "2026-09-18T14:41:40+06:00",
-      "source": "GameSpot",
-      "region": "Gaming",
-      "excerpt": "A formidable new Mega-Evolved Pokemon is swooping into Pokemon Go this weekend. Mega Staraptor will appear in Gyms for a limited time as part of the game's latest Super Mega Raid Day, which takes place on September 19. Like many other Pokemon, Staraptor doesn't just receive a significant stat boost upon Mega Evolving; it also changes types. Whereas its standard form is normal and flying, Mega Staraptor becomes fighting and flying, making it an even more potent force in battle. To help you conquer the new Mega Raid boss, we've put together some tips on how to beat Mega Staraptor, including some recommended counters and the best moves to teach your own Staraptor. In This Article Mega Staraptor Raid Day Hours And Bonuses Mega Staraptor Weaknesses Best Mega Staraptor Counters Best Moves For Mega Staraptor Mega Staraptor Raid Day Hours And Bonuses The Staraptor Super Mega Raid Day takes place on Saturday, September 19 . The Mega-Evolved Pokemon will appear in Raids from 2 to 5 PM local time , giving you a three-hour window to battle and catch the new Raid boss. On top of the Raids, a new Timed Research will also be available during the event hours. Complete these tasks and you'll earn various rewards, including an encounter with the psychic/fairy Pokemon Gardevoir, who will come in handy when battling against Mega Staraptor. Finally, the event will offer a handful of bonuses. As with previous Raid Days, the Remote Raid limit is being increased, and you'll be able to receive even more free Raid Passes when you spin Gym Photo Discs. You can see the full list of bonuses below: Remote Raid limit increased to 20 (September 18-19) Receive up to six free Raid Passes by spinning the Photo Disc at Gyms Staraptor caught from Super Mega Raids will have Mega Level 1 unlocked Increased odds of encountering shiny Staraptor from Super Mega Raids Mega Staraptor Weaknesses Although Staraptor is typically a normal/flying type, it becomes a fighting/flying Pokemon upon Mega Evolving, which",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/PoGo-Mega-Staraptor.jpg?w=300",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:08.713969+06:00",
-      "last_seen": "2026-09-18T16:37:08.713976+06:00"
-    },
-    "gamespot.com/articles/all-active-aniimo-codes-for-free-glimmer-credits-and-how-to-redeem-them": {
-      "title": "All Active Aniimo Codes For Free Glimmer, Credits, And How To Redeem Them",
-      "url": "https://www.gamespot.com/articles/all-active-aniimo-codes-for-free-glimmer-credits-and-how-to-redeem-them/",
-      "canonical": "gamespot.com/articles/all-active-aniimo-codes-for-free-glimmer-credits-and-how-to-redeem-them",
-      "published_dt": "2026-09-18T14:39:38+06:00",
-      "published_date": "2026-09-18T14:39:38+06:00",
-      "source": "GameSpot",
-      "region": "Gaming",
-      "excerpt": "Pawprint Studio's open-world creature-catching RPG has launched with codes that can give you free Glimmer, Credits, and more. Set in the colorful world on Idyll, Aniimo has you exploring a sprawling world, discovering cute creatures, and building a team to take into combat. Along the way there's plenty of customization, resource gathering, quests, and more. If you're just starting your adventure, a few free rewards can make it easier to get established. That's where Aniimo codes come in. Here are all of the currently active Aniimo codes, what each one gives you, and how to redeem them in-game. All active Aniimo codes Here are the currently active Aniimo gift codes: ANIIMOGIFT - 10 Glimmer, 20,000 Credits, 10 Growth Flowers, 5 Aniipod Pro Aniimo2026 - 20 Glimmer There are currently no confirmed expired Aniimo codes, as the game just launched. Codes can expire without warning, so it's worth redeeming them as soon as possible. Both codes are also case-sensitive, meaning you'll need to enter them exactly as they're written above. Aniimo codes can grant multiple rewards. How to redeem Aniimo codes You can't redeem Aniimo codes from the game's website, unlike some other similar games with regular codes. Instead, you'll need to use the redemption option in the game itself. Here's how to redeem codes: Open the main menu in Aniimo Select the Settings option using the cog icon Open the Account section Select Gift Code Redemption Enter one of the active codes above Select Redeem to claim your rewards Open your in-game mailbox to collect the items The code redemption option may not be available immediately when you start the game. Don't panic. You just need to progress through the opening story to unlock the mailbox. Why aren't my Aniimo code rewards showing up? If you've successfully redeemed a code but can't find the rewards, make sure to check your in-game mailbox. Aniimo sends code rewards there rather than immediately adding everything to your inventory. If you've only jus",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/ss_bc7eb6c1f00cad1b659b7fbb9cdf67a64924d1e0.1920x1080.jpg?w=300",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:08.715787+06:00",
-      "last_seen": "2026-09-18T16:37:08.715792+06:00"
-    },
-    "videogameschronicle.com/news/denuvo-sues-game-hacker-for-releasing-cracks-for-26-games-that-remove-its-drm-protection": {
-      "title": "Denuvo sues game hacker for releasing ‘cracks’ for 26 games that remove its DRM protection",
-      "url": "https://www.videogameschronicle.com/news/denuvo-sues-game-hacker-for-releasing-cracks-for-26-games-that-remove-its-drm-protection/",
-      "canonical": "videogameschronicle.com/news/denuvo-sues-game-hacker-for-releasing-cracks-for-26-games-that-remove-its-drm-protection",
-      "published_dt": "2026-09-18T15:57:55+06:00",
-      "published_date": "2026-09-18T15:57:55+06:00",
-      "source": "VGC",
-      "region": "Gaming",
-      "excerpt": "Voices38 has been releasing patches that directly target Denuvo's DRM checks",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-09-18T16:37:08.979043+06:00",
-      "last_seen": "2026-09-18T16:37:08.979049+06:00",
-      "posted_at": "2026-09-18T16:41:31.729644+06:00"
-    },
-    "videogameschronicle.com/news/cd-projekt-reds-move-from-redengine-to-ue5-for-the-witcher-4-wasnt-because-of-cyberpunks-launch-co-ceo-says": {
-      "title": "CD Projekt Red’s move from REDengine to UE5 for The Witcher 4 wasn’t because of Cyberpunk’s launch, co-CEO says",
-      "url": "https://www.videogameschronicle.com/news/cd-projekt-reds-move-from-redengine-to-ue5-for-the-witcher-4-wasnt-because-of-cyberpunks-launch-co-ceo-says/",
-      "canonical": "videogameschronicle.com/news/cd-projekt-reds-move-from-redengine-to-ue5-for-the-witcher-4-wasnt-because-of-cyberpunks-launch-co-ceo-says",
-      "published_dt": "2026-09-18T14:50:54+06:00",
-      "published_date": "2026-09-18T14:50:54+06:00",
-      "source": "VGC",
-      "region": "Gaming",
-      "excerpt": "\"The dream of the company was never to make technology,\" Michał Nowakowski says",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:08.979217+06:00",
-      "last_seen": "2026-09-18T16:37:08.979222+06:00"
-    },
-    "eurogamer.net/gta-6-online-release-date-twitch-ceo": {
-      "title": "Rockstar hasn't said anything about a GTA 6 Online multiplayer mode just yet, but Twitch's CEO reckons it'll land next year",
-      "url": "https://www.eurogamer.net/gta-6-online-release-date-twitch-ceo",
-      "canonical": "eurogamer.net/gta-6-online-release-date-twitch-ceo",
-      "published_dt": "2026-09-18T16:15:25+06:00",
-      "published_date": "2026-09-18T16:15:25+06:00",
-      "source": "Eurogamer",
-      "region": "Gaming",
-      "excerpt": "Rockstar has remained very tight-lipped about GTA 6 's multiplayer component, the potential successor to GTA 5 's incredibly popular Grand Theft Auto Online , not yet commenting on whether it will even launch one. All we know currently is that when Grand Theft Auto 6 arrives on 19th November , it'll only include the single-player campaign. Read more",
-      "image": "https://assetsio.gnwcdn.com/GTA-Online-6_vy3MsZh.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:09.786566+06:00",
-      "last_seen": "2026-09-18T16:37:09.786573+06:00"
-    },
-    "eurogamer.net/japan-game-development-layoffs-exec-money": {
-      "title": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert",
-      "url": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
-      "canonical": "eurogamer.net/japan-game-development-layoffs-exec-money",
-      "published_dt": "2026-09-18T15:08:43+06:00",
-      "published_date": "2026-09-18T15:08:43+06:00",
-      "source": "Eurogamer",
-      "region": "Gaming",
-      "excerpt": "It's been a pretty grim year for video games. Aside from the \"return of Xbox\" new CEO Asha Sharma promised awhen taking over, which enacted the announcement of 3,200 layoffs and four studio departures , we've also seen mass layoffs in other studios, too: Bungie , EA , PUBG Productions , Take-Two , Warner Bros ., Epic , and many, many more have been impacted this year so far. Read more",
-      "image": "https://assetsio.gnwcdn.com/link-layoff-japan.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:09.787190+06:00",
-      "last_seen": "2026-09-18T16:37:09.787196+06:00"
-    },
-    "polygon.com/resident-evil-games-ranked": {
-      "title": "Every Mainline Resident Evil Game, Ranked From Worst to Best",
-      "url": "https://www.polygon.com/resident-evil-games-ranked/",
-      "canonical": "polygon.com/resident-evil-games-ranked",
-      "published_dt": "2026-09-18T16:00:14+06:00",
-      "published_date": "2026-09-18T16:00:14+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "In honor of the latest Resident Evil movie, we ranked the mainline Resident Evil games, including Requiem, from worst to best.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/13690297/capcom_resident_evil_2_more_remakes_leon_claire.jpg.optimal.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:11.472317+06:00",
-      "last_seen": "2026-09-18T16:37:11.472322+06:00"
-    },
-    "polygon.com/solo-leveling-karma-trailer-story-monarch-war": {
-      "title": "Solo Leveling's Big 2026 Project Will Explore a Massive Gap in Jinwoo's Life",
-      "url": "https://www.polygon.com/solo-leveling-karma-trailer-story-monarch-war/",
-      "canonical": "polygon.com/solo-leveling-karma-trailer-story-monarch-war",
-      "published_dt": "2026-09-18T15:55:41+06:00",
-      "published_date": "2026-09-18T15:55:41+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "The upcoming roguelite RPG Solo Leveling: Karma delves into Jinwoo's untold 27-year battle against the Monarchs.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/06/solo-leveling-karma-2016-release-date-update.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-09-18T16:37:11.472473+06:00",
-      "last_seen": "2026-09-18T16:37:11.472478+06:00",
-      "posted_at": "2026-09-18T16:41:47.387163+06:00"
-    },
-    "polygon.com/53-years-later-roadside-picnic-still-ends-with-one-of-sci-fis-most-enduring-lines": {
-      "title": "53 Years Later, The Greatest Closing Line In Sci-Fi History Is Still The Best Book Quote Of The 1970s",
-      "url": "https://www.polygon.com/53-years-later-roadside-picnic-still-ends-with-one-of-sci-fis-most-enduring-lines/",
-      "canonical": "polygon.com/53-years-later-roadside-picnic-still-ends-with-one-of-sci-fis-most-enduring-lines",
-      "published_dt": "2026-09-18T14:30:14+06:00",
-      "published_date": "2026-09-18T14:30:14+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Roadside Picnic ends with one of science fiction’s most beautiful lines, a simple wish for happiness that still resonates more than 50 years later.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/resident-evil-1.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:11.472618+06:00",
-      "last_seen": "2026-09-18T16:37:11.472622+06:00"
-    },
-    "gamesradar.com/games/grand-theft-auto/new-rockstar-leak-allegedly-reveals-gta-6-assets-and-cut-gta-5-liberty-city-dlc-with-nearly-200-gb-of-unseen-content": {
-      "title": "New Rockstar leak allegedly reveals GTA 6 assets and cut GTA 5 Liberty City DLC, with nearly 200 GB of unseen content",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/new-rockstar-leak-allegedly-reveals-gta-6-assets-and-cut-gta-5-liberty-city-dlc-with-nearly-200-gb-of-unseen-content/",
-      "canonical": "gamesradar.com/games/grand-theft-auto/new-rockstar-leak-allegedly-reveals-gta-6-assets-and-cut-gta-5-liberty-city-dlc-with-nearly-200-gb-of-unseen-content",
-      "published_dt": "2026-09-18T16:22:17+06:00",
-      "published_date": "2026-09-18T16:22:17+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "Yes, another one…",
-      "image": "https://cdn.mos.cms.futurecdn.net/38dFMrtxrziEumiDGTPJ97-1920-80.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:12.137243+06:00",
-      "last_seen": "2026-09-18T16:37:12.137249+06:00"
-    },
-    "gamesradar.com/entertainment/horror-movies/resident-evil-movie-is-dividing-the-fanbase-with-debates-over-the-comedy-and-the-ending": {
-      "title": "Resident Evil movie is dividing the fanbase, with debates over the comedy and the ending",
-      "url": "https://www.gamesradar.com/entertainment/horror-movies/resident-evil-movie-is-dividing-the-fanbase-with-debates-over-the-comedy-and-the-ending/",
-      "canonical": "gamesradar.com/entertainment/horror-movies/resident-evil-movie-is-dividing-the-fanbase-with-debates-over-the-comedy-and-the-ending",
-      "published_dt": "2026-09-18T16:16:37+06:00",
-      "published_date": "2026-09-18T16:16:37+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "Fans are reacting to the Resident Evil movie",
-      "image": "https://cdn.mos.cms.futurecdn.net/eTP6iNLYEF6GknqHHtHFwi-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:12.137391+06:00",
-      "last_seen": "2026-09-18T16:37:12.137396+06:00"
-    },
-    "gamesradar.com/entertainment/adventure-shows/far-cry-series-from-alien-earth-creator-adds-spider-noir-and-midnight-mass-stars": {
-      "title": "Far Cry series from Alien: Earth creator adds Spider-Noir and Midnight Mass stars",
-      "url": "https://www.gamesradar.com/entertainment/adventure-shows/far-cry-series-from-alien-earth-creator-adds-spider-noir-and-midnight-mass-stars/",
-      "canonical": "gamesradar.com/entertainment/adventure-shows/far-cry-series-from-alien-earth-creator-adds-spider-noir-and-midnight-mass-stars",
-      "published_dt": "2026-09-18T15:52:50+06:00",
-      "published_date": "2026-09-18T15:52:50+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "Noah Hawley and Rob Mac's project gets some great new additions",
-      "image": "https://cdn.mos.cms.futurecdn.net/kVuXEeVzzyDVVy92zsHZ9a-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-09-18T16:37:12.137528+06:00",
-      "last_seen": "2026-09-18T16:37:12.137532+06:00",
-      "posted_at": "2026-09-18T16:41:52.624476+06:00"
-    },
-    "gamesradar.com/entertainment/horror-movies/resident-evil-fans-have-spotted-some-deep-cut-leon-s-kennedy-easter-eggs-in-the-movie": {
-      "title": "Resident Evil fans have spotted some deep-cut Leon. S Kennedy Easter eggs in the movie",
-      "url": "https://www.gamesradar.com/entertainment/horror-movies/resident-evil-fans-have-spotted-some-deep-cut-leon-s-kennedy-easter-eggs-in-the-movie/",
-      "canonical": "gamesradar.com/entertainment/horror-movies/resident-evil-fans-have-spotted-some-deep-cut-leon-s-kennedy-easter-eggs-in-the-movie",
-      "published_dt": "2026-09-18T15:17:51+06:00",
-      "published_date": "2026-09-18T15:17:51+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "The new movie features several hidden nods to the beloved character",
-      "image": "https://cdn.mos.cms.futurecdn.net/eTP6iNLYEF6GknqHHtHFwi-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:12.137651+06:00",
-      "last_seen": "2026-09-18T16:37:12.137655+06:00"
-    },
-    "gamesradar.com/entertainment/action-movies/zack-snyder-explains-whats-holding-up-the-directors-cut-of-sucker-punch": {
-      "title": "Zack Snyder explains what's holding up the director's cut of Sucker Punch",
-      "url": "https://www.gamesradar.com/entertainment/action-movies/zack-snyder-explains-whats-holding-up-the-directors-cut-of-sucker-punch/",
-      "canonical": "gamesradar.com/entertainment/action-movies/zack-snyder-explains-whats-holding-up-the-directors-cut-of-sucker-punch",
-      "published_dt": "2026-09-18T15:08:53+06:00",
-      "published_date": "2026-09-18T15:08:53+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "\"Obviously there's a lot of conversation.\"",
-      "image": "https://cdn.mos.cms.futurecdn.net/aykPQXhDjMmxV9NDm9kH5c-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:12.137800+06:00",
-      "last_seen": "2026-09-18T16:37:12.137806+06:00"
-    },
-    "gamesradar.com/entertainment/dc-tv-shows/the-lanterns-subtitles-might-have-just-revealed-a-huge-hal-jordan-spoiler": {
-      "title": "The Lanterns' subtitles might have just revealed a huge Hal Jordan spoiler",
-      "url": "https://www.gamesradar.com/entertainment/dc-tv-shows/the-lanterns-subtitles-might-have-just-revealed-a-huge-hal-jordan-spoiler/",
-      "canonical": "gamesradar.com/entertainment/dc-tv-shows/the-lanterns-subtitles-might-have-just-revealed-a-huge-hal-jordan-spoiler",
-      "published_dt": "2026-09-18T14:21:55+06:00",
-      "published_date": "2026-09-18T14:21:55+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "Has Hal kept John in the dark about a secret backup plan?",
-      "image": "https://cdn.mos.cms.futurecdn.net/YQzSRjPtUpYXAHVsXKjhrn-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:12.137937+06:00",
-      "last_seen": "2026-09-18T16:37:12.137941+06:00"
-    },
-    "rockpapershotgun.com/baldurs-gate-3-act-two-expansion-mod-out-now-in-beta-adds-a-whole-new-region-to-explore-after-dealing-with-the-shadow-curse": {
-      "title": "Baldur's Gate 3 Act Two Expansion mod, out now in beta, adds a whole new region to explore after dealing with the Shadow Curse",
-      "url": "https://www.rockpapershotgun.com/baldurs-gate-3-act-two-expansion-mod-out-now-in-beta-adds-a-whole-new-region-to-explore-after-dealing-with-the-shadow-curse",
-      "canonical": "rockpapershotgun.com/baldurs-gate-3-act-two-expansion-mod-out-now-in-beta-adds-a-whole-new-region-to-explore-after-dealing-with-the-shadow-curse",
-      "published_dt": "2026-09-18T15:29:57+06:00",
-      "published_date": "2026-09-18T15:29:57+06:00",
-      "source": "Rock Paper Shotgun",
-      "region": "Gaming",
-      "excerpt": "An ambitious Baldur's Gate 3 custom campaign mod which adds a whole new region to explore between the RPG's second and third acts is finally out in beta. This extra adventure midway through BG3's main quest is the result of nearly two years of work from modder SquallyDaBeanz, who's put together a trip to The Chionthar Wilds full of new missions and dungeons. Read more",
-      "image": "https://assetsio.gnwcdn.com/baldurs-gate-3-act-two-expansion-mod-beta.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:12.545498+06:00",
-      "last_seen": "2026-09-18T16:37:12.545504+06:00"
-    },
-    "rockpapershotgun.com/publishers-are-afraid-of-certain-parts-of-the-world-saber-interactives-message-to-north-american-studios-is-to-get-their-head-out-of-their-own-geography": {
-      "title": "\"Publishers are afraid of certain parts of the world\": Saber Interactive's message to North American studios is to get their head out of their own geography",
-      "url": "https://www.rockpapershotgun.com/publishers-are-afraid-of-certain-parts-of-the-world-saber-interactives-message-to-north-american-studios-is-to-get-their-head-out-of-their-own-geography",
-      "canonical": "rockpapershotgun.com/publishers-are-afraid-of-certain-parts-of-the-world-saber-interactives-message-to-north-american-studios-is-to-get-their-head-out-of-their-own-geography",
-      "published_dt": "2026-09-18T14:15:00+06:00",
-      "published_date": "2026-09-18T14:15:00+06:00",
-      "source": "Rock Paper Shotgun",
-      "region": "Gaming",
-      "excerpt": "Layoffs have been a constant drumbeat in gaming industry news since 2022. Even if the cadence of layoffs seems to have slowed in 2026, the severity of those cuts has not lessened. In July, Microsoft made 1600 staff redundant as part of its great reset , and promised investors they would let 1600 more staff go in the next 12 months. Cuts like those and the ongoing economic pressures plaguing the industry – rising debt rates, a cost of living crisis, and a memory shortage that is making every aspect of making and playing video games pricier – should have the head of any large studio examining their plans for the future. Especially when games are taking longer to make, costing more to make, and up against a much greater volume of competition than even two years ago. With all that in mind, when I wasn't talking to Saber Interactive's chief creative officer Tim Willits about generative AI , I wanted to know what he would do if he ran one of those 200-people big-budget game studios. Because say what you like about Saber (and there's a lot of things people like to say about Saber), but the developer is doing well at a time when a lot of other studios and publishers are struggling. Read more",
-      "image": "https://assetsio.gnwcdn.com/world-war-z-aftermath.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:12.545973+06:00",
-      "last_seen": "2026-09-18T16:37:12.545979+06:00"
-    },
-    "insider-gaming.com/fallout-inspired-atom-rpg-sequel-changed": {
-      "title": "Fallout-Inspired Post-Apocalyptic ‘ATOM RPG’ Reinvented For Sequel",
-      "url": "https://insider-gaming.com/fallout-inspired-atom-rpg-sequel-changed/",
-      "canonical": "insider-gaming.com/fallout-inspired-atom-rpg-sequel-changed",
-      "published_dt": "2026-09-18T16:15:42+06:00",
-      "published_date": "2026-09-18T16:15:42+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Years after the first game dropped, ATOM RPG 2 is shaping up to do everything differently to attract an evolved audience. The post Fallout-Inspired Post-Apocalyptic ‘ATOM RPG’ Reinvented For Sequel appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-09-18T16:37:13.188644+06:00",
-      "last_seen": "2026-09-18T16:37:13.188650+06:00",
-      "posted_at": "2026-09-18T16:41:42.078418+06:00"
-    },
-    "insider-gaming.com/nyt-connections-hints-solutions-september-17-1194-2": {
-      "title": "NYT Connections Hints Today (#1195)—Answers for Friday, September 18",
-      "url": "https://insider-gaming.com/nyt-connections-hints-solutions-september-17-1194-2/",
-      "canonical": "insider-gaming.com/nyt-connections-hints-solutions-september-17-1194-2",
-      "published_dt": "2026-09-18T14:21:08+06:00",
-      "published_date": "2026-09-18T14:21:08+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1195)—Answers for Friday, September 18 appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:13.189251+06:00",
-      "last_seen": "2026-09-18T16:37:13.189256+06:00"
-    },
-    "nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst": {
-      "title": "Japanese Console Market Would Have Been \"Eliminated\" If Switch Failed, Says Analyst",
-      "url": "https://www.nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst",
-      "canonical": "nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst",
-      "published_dt": "2026-09-18T16:00:00+06:00",
-      "published_date": "2026-09-18T16:00:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "A silent guardian, a watchful protector... A Nintendo Switch. We're all aware of just how successful the Switch has been since its launch in 2017. The latest figures put it at a total of 156.59 million units sold worldwide, which means that had Sony not managed to find some extra PS2 sales down the back of the couch in 2024, the Switch would be the best-selling console of all time. Alas, Sony added 5 million to the PS2's sales, totalling 160 million – boo. In a new interview with analyst Dr. Serkan Toto over at The Game Business , however, the Switch may have actually saved the Japanese console market from extinction. Essentially, had the Switch failed in a manner comparable to the Wii U, then Japanese gamers may have gravitated even further to mobile gaming and PC. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/f2a27162dc154/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:13.689487+06:00",
-      "last_seen": "2026-09-18T16:37:13.689493+06:00"
-    },
-    "nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-hides-a-neat-nod-to-three-houses": {
-      "title": "Random: Fire Emblem: Fortune's Weave Switch 2 Physical Hides A Neat Nod To Three Houses",
-      "url": "https://www.nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-hides-a-neat-nod-to-three-houses",
-      "canonical": "nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-hides-a-neat-nod-to-three-houses",
-      "published_dt": "2026-09-18T15:15:00+06:00",
-      "published_date": "2026-09-18T15:15:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Follow the Leda. Fire Emblem: Fortune's Weave is finally here! We're sure that many of you will have been diving into Intelligent Systems' beefy new entry in the RPG series already, but how many of you picked up a physical copy? And those who did, did you notice the Three Houses callback? As brought to our attention by the wonderful Jon Cartwright (formerly of this parish), the new Switch 2 physical's inner design is borrowing more than a little from its spiritual predecessor. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/a9b24bcea4c6d/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:13.689938+06:00",
-      "last_seen": "2026-09-18T16:37:13.689944+06:00"
-    },
-    "purexbox.com/news/2026/09/10plus-xbox-games-are-available-today-including-a-free-trial-of-fc-27-for-game-pass-ultimate-subscribers-september-18": {
-      "title": "10+ Xbox Games Are Available Today, Including A Free Trial Of FC 27 For Game Pass Ultimate Subscribers (September 18)",
-      "url": "https://www.purexbox.com/news/2026/09/10plus-xbox-games-are-available-today-including-a-free-trial-of-fc-27-for-game-pass-ultimate-subscribers-september-18",
-      "canonical": "purexbox.com/news/2026/09/10plus-xbox-games-are-available-today-including-a-free-trial-of-fc-27-for-game-pass-ultimate-subscribers-september-18",
-      "published_dt": "2026-09-18T16:00:00+06:00",
-      "published_date": "2026-09-18T16:00:00+06:00",
-      "source": "Pure Xbox",
-      "region": "Gaming",
-      "excerpt": "Go on, get stuck into the latest batch of newbies. Who's feeling that Friday energy? Well, whether you are or aren't, hopefully today's daily roundup of new Xbox games will put a smile on your face! Today, we've got a few games to cover but the key fixture is EA Sports FC 27 which launched its Early Access through the Ultimate Edition of the game. This also comes with a free 10-hour trial for the annual footie sim for Xbox Game Pass Ultimate members. The trial has been a bit finicky this morning, so best check out our how to download guide . Read the full article on purexbox.com",
-      "image": "https://images.purexbox.com/d7b6b9325b00f/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:14.849518+06:00",
-      "last_seen": "2026-09-18T16:37:14.849524+06:00"
-    },
-    "nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-features-a-neat-nod-to-three-houses": {
-      "title": "Random: Fire Emblem: Fortune's Weave Switch 2 Physical Hides A Neat Nod To Three Houses | Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-features-a-neat-nod-to-three-houses",
-      "canonical": "nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-features-a-neat-nod-to-three-houses",
-      "published_dt": "2026-09-18T15:15:00+06:00",
-      "published_date": "2026-09-18T15:15:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-09-18T16:37:21.416985+06:00",
-      "last_seen": "2026-09-18T16:37:21.416989+06:00"
+      "last_seen": "2026-09-22T17:00:09.066041+06:00"
     },
     "ign.com/articles/v-for-vendetta-new-trailer-revealed-for-the-20th-anniversary-re-release": {
       "title": "V for Vendetta: New Trailer Revealed for the 20th Anniversary Re-Release",
@@ -6896,6 +6443,1003 @@
       "status": "pending",
       "first_seen": "2026-09-22T11:52:23.951989+06:00",
       "last_seen": "2026-09-22T11:52:23.951993+06:00"
+    },
+    "ign.com/articles/the-legend-of-zelda-movie-actress-posts-cryptic-tease-raising-hopes-for-an-imminent-trailer": {
+      "title": "The Legend of Zelda Movie Actress Posts Cryptic Tease, Raising Hopes for an Imminent Trailer",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-movie-actress-posts-cryptic-tease-raising-hopes-for-an-imminent-trailer",
+      "canonical": "ign.com/articles/the-legend-of-zelda-movie-actress-posts-cryptic-tease-raising-hopes-for-an-imminent-trailer",
+      "published_dt": "2026-09-22T16:28:25+06:00",
+      "published_date": "2026-09-22T16:28:25+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "The Legend of Zelda movie star Bo Bragason has raised hopes of an imminent trailer release for Nintendo's upcoming film.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/22/gettyimages-2289053256-1790068836952.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T16:59:59.870266+06:00",
+      "last_seen": "2026-09-22T16:59:59.870274+06:00"
+    },
+    "ign.com/articles/heres-your-first-look-at-3-cards-from-pokmon-tcg-mega-evolution-delta-reign-due-to-launch-this-november": {
+      "title": "Here's Your First Look at 3 Cards From Pokémon TCG: Mega Evolution — Delta Reign, Due to Launch This November",
+      "url": "https://www.ign.com/articles/heres-your-first-look-at-3-cards-from-pokmon-tcg-mega-evolution-delta-reign-due-to-launch-this-november",
+      "canonical": "ign.com/articles/heres-your-first-look-at-3-cards-from-pokmon-tcg-mega-evolution-delta-reign-due-to-launch-this-november",
+      "published_dt": "2026-09-22T15:00:42+06:00",
+      "published_date": "2026-09-22T15:00:42+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "IGN can today reveal three new Pokémon card designs from the upcoming set Pokémon TCG: Mega Evolution — Delta Reign.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/22/untitled-1-1790067425876.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T16:59:59.870468+06:00",
+      "last_seen": "2026-09-22T16:59:59.870473+06:00"
+    },
+    "ign.com/articles/how-long-is-silent-hill-townfall": {
+      "title": "How Long Is Silent Hill: Townfall?",
+      "url": "https://www.ign.com/articles/how-long-is-silent-hill-townfall",
+      "canonical": "ign.com/articles/how-long-is-silent-hill-townfall",
+      "published_dt": "2026-09-22T15:00:00+06:00",
+      "published_date": "2026-09-22T15:00:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Five different IGN editors played through Silent: Hill Townfall in five different ways to find out how long Konami's new survival horror is, depending on playstyle.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/21/silent-blog-1790001615907.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T16:59:59.870611+06:00",
+      "last_seen": "2026-09-22T16:59:59.870615+06:00"
+    },
+    "gamespot.com/articles/minecrafts-next-update-could-be-its-biggest-in-15-years-and-well-find-out-this-weekend": {
+      "title": "Minecraft’s Next Update Could Be Its Biggest In 15 Years, And We’ll Find Out This Weekend",
+      "url": "https://www.gamespot.com/articles/minecrafts-next-update-could-be-its-biggest-in-15-years-and-well-find-out-this-weekend/",
+      "canonical": "gamespot.com/articles/minecrafts-next-update-could-be-its-biggest-in-15-years-and-well-find-out-this-weekend",
+      "published_dt": "2026-09-22T15:54:48+06:00",
+      "published_date": "2026-09-22T15:54:48+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "With the new Minecraft update now live, players have been eagerly looking forward to the next Minecraft Live to learn what comes next for the sandbox game. We now know that the next stream will be this weekend. The Minecraft Live broadcast will begin on September 26, 2026 at 10 AM PT / 1 PM ET / 6 PM GMT / 7 PM CEST. It hasn't been communicated how long that broadcast will run for, but we have a tiny hint of an idea around what could be coming next. The Minecraft Live broadcast date was revealed at the end of Tubbo's stream , after the Blue Creeper Battle concluded. This promotional event started on September 17, 2026 in person at the Tokyo Game Show, online through YouTube, and in-game in Bedrock Edition worlds. The event saw the Illager High Council open rifts to the real world from the Sift--a new dimension being introduced in the upcoming Minecraft Dungeons 2. Soul-corrupted mobs poured in through those rifts to attack, and at TGS that included a huge Blue Creeper. To celebrate, 1 million Corrupted Creeper Cape codes were awarded to participating players, or to those watching via Twitch in the form of Twitch Drops. The Minecraft Live announcement came at the end of Tubbo's stream. After a showdown that saw players finally take down the Blue Creeper, a short cinematic played thanking players for taking part. That cinematic teased the Illagers finding a portal to the Sift. While we already know that the Sift is coming to Minecraft Dungeons 2 , many are speculating that it could also be coming to the Minecraft base game, marking the first new dimension in Mojang's blocky sandbox since 2011's addition of The End. If true, the next Minecraft update could be its biggest in 15 years. To find out, tune in to Minecraft Live this Saturday, September 26. You can watch the broadcast on the Minecraft Twitch channel, YouTube , or directly on the Minecraft Live website .",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/MCD2_Battle_for_Tokyo_header.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:00.112559+06:00",
+      "last_seen": "2026-09-22T17:00:00.112568+06:00"
+    },
+    "videogameschronicle.com/news/trover-saves-the-universe-the-comedy-game-from-high-on-life-studio-squanch-games-appears-to-have-been-delisted": {
+      "title": "Trover Saves the Universe, the comedy game from High on Life studio Squanch Games, appears to have been delisted",
+      "url": "https://www.videogameschronicle.com/news/trover-saves-the-universe-the-comedy-game-from-high-on-life-studio-squanch-games-appears-to-have-been-delisted/",
+      "canonical": "videogameschronicle.com/news/trover-saves-the-universe-the-comedy-game-from-high-on-life-studio-squanch-games-appears-to-have-been-delisted",
+      "published_dt": "2026-09-22T16:11:07+06:00",
+      "published_date": "2026-09-22T16:11:07+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "The game is currently unavailable on any PC or console store",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:00.409446+06:00",
+      "last_seen": "2026-09-22T17:00:00.409453+06:00"
+    },
+    "videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip": {
+      "title": "Monster Hunter Wilds Ascendance devs discuss Switch 2, Wilds feedback, and the expansion’s time skip",
+      "url": "https://www.videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip/",
+      "canonical": "videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip",
+      "published_dt": "2026-09-22T15:25:20+06:00",
+      "published_date": "2026-09-22T15:25:20+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Capcom's Monster Hunter Wilds leaders discuss the expansion",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-22T17:00:00.409618+06:00",
+      "last_seen": "2026-09-22T17:00:00.409622+06:00",
+      "posted_at": "2026-09-22T17:10:39.952176+06:00"
+    },
+    "videogameschronicle.com/news/sega-wanted-to-cancel-the-entire-sonic-series-but-the-first-movie-saved-it-says-sonic-team-head-iizuka": {
+      "title": "Sega wanted to cancel the entire Sonic series but the first movie saved it, says Sonic Team head Iizuka",
+      "url": "https://www.videogameschronicle.com/news/sega-wanted-to-cancel-the-entire-sonic-series-but-the-first-movie-saved-it-says-sonic-team-head-iizuka/",
+      "canonical": "videogameschronicle.com/news/sega-wanted-to-cancel-the-entire-sonic-series-but-the-first-movie-saved-it-says-sonic-team-head-iizuka",
+      "published_dt": "2026-09-22T14:40:07+06:00",
+      "published_date": "2026-09-22T14:40:07+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "The live-action Sonic film \"definitely changed the course of this franchise,\" he says",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:00.409797+06:00",
+      "last_seen": "2026-09-22T17:00:00.409802+06:00"
+    },
+    "eurogamer.net/world-of-warcraft-fans-torn-about-whether-forevers-skyborne-starting-zone-fits-tonally-with-classic-wow": {
+      "title": "World of Warcraft fans are torn about whether Forever's Skyborne starting zone fits tonally with Classic WoW",
+      "url": "https://www.eurogamer.net/world-of-warcraft-fans-torn-about-whether-forevers-skyborne-starting-zone-fits-tonally-with-classic-wow",
+      "canonical": "eurogamer.net/world-of-warcraft-fans-torn-about-whether-forevers-skyborne-starting-zone-fits-tonally-with-classic-wow",
+      "published_dt": "2026-09-22T15:34:13+06:00",
+      "published_date": "2026-09-22T15:34:13+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "World of Warcraft: Forever's beta is here, offering us our first look at WoW's reimagined vanilla or classic experience, and already it's proving extremely popular. But there are points of contention, one being whether the new Skyborne race's starting zone fits tonally with original-race zones. Read more",
+      "image": "https://assetsio.gnwcdn.com/world-of-warcraft-skyborne-jpg.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-22T17:00:00.641192+06:00",
+      "last_seen": "2026-09-22T17:00:00.641200+06:00",
+      "posted_at": "2026-09-22T17:10:44.922377+06:00"
+    },
+    "eurogamer.net/xbox-second-wave-cuts-layoffs-report": {
+      "title": "Second wave of Xbox cuts reported to be happening this week, with \"several\" studios apparently facing consolidation",
+      "url": "https://www.eurogamer.net/xbox-second-wave-cuts-layoffs-report",
+      "canonical": "eurogamer.net/xbox-second-wave-cuts-layoffs-report",
+      "published_dt": "2026-09-22T14:36:03+06:00",
+      "published_date": "2026-09-22T14:36:03+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Xbox is reportedly preparing to lay off hundreds more people this week as the company plans to consolidate several of its studios. Read more",
+      "image": "https://assetsio.gnwcdn.com/xbox-logo_OJRhRlL.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:00.641503+06:00",
+      "last_seen": "2026-09-22T17:00:00.641509+06:00"
+    },
+    "pcgamer.com/games/adventure/beyond-good-and-evil-was-never-worth-20-years-of-angst": {
+      "title": "Beyond Good and Evil was never worth 20 years of angst",
+      "url": "https://www.pcgamer.com/games/adventure/beyond-good-and-evil-was-never-worth-20-years-of-angst/",
+      "canonical": "pcgamer.com/games/adventure/beyond-good-and-evil-was-never-worth-20-years-of-angst",
+      "published_dt": "2026-09-22T16:48:10+06:00",
+      "published_date": "2026-09-22T16:48:10+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "How did a game so sweet and fleeting become a two-decade sticking point for Ubisoft?",
+      "image": "https://cdn.mos.cms.futurecdn.net/tBAobveNvVhbkeASxvTRt3-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.131919+06:00",
+      "last_seen": "2026-09-22T17:00:01.131929+06:00"
+    },
+    "pcgamer.com/games/im-calling-for-an-end-to-smooth-faced-dystopias": {
+      "title": "I'm calling for an end to smooth-faced dystopias",
+      "url": "https://www.pcgamer.com/games/im-calling-for-an-end-to-smooth-faced-dystopias/",
+      "canonical": "pcgamer.com/games/im-calling-for-an-end-to-smooth-faced-dystopias",
+      "published_dt": "2026-09-22T16:45:00+06:00",
+      "published_date": "2026-09-22T16:45:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "I'm calling for an end to smooth-faced dystopias",
+      "image": "https://cdn.mos.cms.futurecdn.net/72pDC97ddEwnzh5vtEAT3P-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.132110+06:00",
+      "last_seen": "2026-09-22T17:00:01.132115+06:00"
+    },
+    "pcgamer.com/games/i-tornado-games": {
+      "title": "I ❤️ tornado games",
+      "url": "https://www.pcgamer.com/games/i-tornado-games/",
+      "canonical": "pcgamer.com/games/i-tornado-games",
+      "published_dt": "2026-09-22T16:30:00+06:00",
+      "published_date": "2026-09-22T16:30:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "I ❤️ tornado games",
+      "image": "https://cdn.mos.cms.futurecdn.net/rYVRrfMSCyvqhKjBZfvK4Q-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.132263+06:00",
+      "last_seen": "2026-09-22T17:00:01.132267+06:00"
+    },
+    "pcgamer.com/hardware/gaming-monitors/intel-reportedly-collaborating-with-auo-on-microled-panels-which-could-help-make-the-ultimate-display-tech-more-mainstream": {
+      "title": "Intel reportedly collaborating with AUO on microLED panels, which could help make the ultimate display tech more mainstream",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/intel-reportedly-collaborating-with-auo-on-microled-panels-which-could-help-make-the-ultimate-display-tech-more-mainstream/",
+      "canonical": "pcgamer.com/hardware/gaming-monitors/intel-reportedly-collaborating-with-auo-on-microled-panels-which-could-help-make-the-ultimate-display-tech-more-mainstream",
+      "published_dt": "2026-09-22T16:24:55+06:00",
+      "published_date": "2026-09-22T16:24:55+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Even better than OLED.",
+      "image": "https://cdn.mos.cms.futurecdn.net/w8UNtwWv6xzFsJeJ2KEbec-1920-80.jpeg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.132406+06:00",
+      "last_seen": "2026-09-22T17:00:01.132410+06:00"
+    },
+    "pcgamer.com/games/final-fantasy/whats-your-back-on-my-bullshit-videogame": {
+      "title": "What's your 'back on my bullshit' videogame?",
+      "url": "https://www.pcgamer.com/games/final-fantasy/whats-your-back-on-my-bullshit-videogame/",
+      "canonical": "pcgamer.com/games/final-fantasy/whats-your-back-on-my-bullshit-videogame",
+      "published_dt": "2026-09-22T16:15:00+06:00",
+      "published_date": "2026-09-22T16:15:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "What's your 'back on my bullshit' videogame?",
+      "image": "https://cdn.mos.cms.futurecdn.net/tyH4brTWuLFQ7nxLYXAGL4-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.132538+06:00",
+      "last_seen": "2026-09-22T17:00:01.132542+06:00"
+    },
+    "pcgamer.com/games/every-game-is-about-goku-eventually": {
+      "title": "Every game is about Goku eventually",
+      "url": "https://www.pcgamer.com/games/every-game-is-about-goku-eventually/",
+      "canonical": "pcgamer.com/games/every-game-is-about-goku-eventually",
+      "published_dt": "2026-09-22T16:00:00+06:00",
+      "published_date": "2026-09-22T16:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Every game is about Goku eventually",
+      "image": "https://cdn.mos.cms.futurecdn.net/oqwUBurdLsUVBqHYaMa5VQ-1920-80.webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.132664+06:00",
+      "last_seen": "2026-09-22T17:00:01.132668+06:00"
+    },
+    "pcgamer.com/games/you-ever-notice-how-much-more-crouch-walking-you-do-in-games-than-real-life": {
+      "title": "You ever notice how much more crouch walking you do in games than real life",
+      "url": "https://www.pcgamer.com/games/you-ever-notice-how-much-more-crouch-walking-you-do-in-games-than-real-life/",
+      "canonical": "pcgamer.com/games/you-ever-notice-how-much-more-crouch-walking-you-do-in-games-than-real-life",
+      "published_dt": "2026-09-22T16:00:00+06:00",
+      "published_date": "2026-09-22T16:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "You ever notice how much more crouch walking you do in games than real life",
+      "image": "https://cdn.mos.cms.futurecdn.net/4jTrzsSpGr9xMQCxRaX7bm-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.132821+06:00",
+      "last_seen": "2026-09-22T17:00:01.132826+06:00"
+    },
+    "pcgamer.com/games/my-favorite-space-warlord-baby-trading-sim-events": {
+      "title": "My favorite Space Warlord Baby Trading Sim events",
+      "url": "https://www.pcgamer.com/games/my-favorite-space-warlord-baby-trading-sim-events/",
+      "canonical": "pcgamer.com/games/my-favorite-space-warlord-baby-trading-sim-events",
+      "published_dt": "2026-09-22T16:00:00+06:00",
+      "published_date": "2026-09-22T16:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "My favorite Space Warlord Baby Trading Sim events",
+      "image": "https://cdn.mos.cms.futurecdn.net/28bXYSEWrPdoZMqYpLgw4W-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.132955+06:00",
+      "last_seen": "2026-09-22T17:00:01.132959+06:00"
+    },
+    "pcgamer.com/hardware/gaming-monitors/sony-inzone-m10s-ii-review": {
+      "title": "Sony Inzone M10S II review",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/sony-inzone-m10s-ii-review/",
+      "canonical": "pcgamer.com/hardware/gaming-monitors/sony-inzone-m10s-ii-review",
+      "published_dt": "2026-09-22T15:57:30+06:00",
+      "published_date": "2026-09-22T15:57:30+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Probably the best ultra-high-refresh esports monitor yet.",
+      "image": "https://cdn.mos.cms.futurecdn.net/rbhYkaGWQadieh6VWsmRKe-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.133084+06:00",
+      "last_seen": "2026-09-22T17:00:01.133088+06:00"
+    },
+    "pcgamer.com/games/rpg/this-guy-just-sold-me-on-his-game-with-the-health-bar-alone": {
+      "title": "This guy just sold me on his game with the health bar alone",
+      "url": "https://www.pcgamer.com/games/rpg/this-guy-just-sold-me-on-his-game-with-the-health-bar-alone/",
+      "canonical": "pcgamer.com/games/rpg/this-guy-just-sold-me-on-his-game-with-the-health-bar-alone",
+      "published_dt": "2026-09-22T15:49:43+06:00",
+      "published_date": "2026-09-22T15:49:43+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "I am in the presence of genius.",
+      "image": "https://cdn.mos.cms.futurecdn.net/2TNK8TdYp85XztpE5vzR3b-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.133214+06:00",
+      "last_seen": "2026-09-22T17:00:01.133218+06:00"
+    },
+    "pcgamer.com/games/slork-in-spirit-if-not-in-name": {
+      "title": "Slork in spirit, if not in name",
+      "url": "https://www.pcgamer.com/games/slork-in-spirit-if-not-in-name/",
+      "canonical": "pcgamer.com/games/slork-in-spirit-if-not-in-name",
+      "published_dt": "2026-09-22T15:45:00+06:00",
+      "published_date": "2026-09-22T15:45:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Slork in spirit, if not in name",
+      "image": "https://cdn.mos.cms.futurecdn.net/64KbeVZmLUJBxcvcp4Grei-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.133337+06:00",
+      "last_seen": "2026-09-22T17:00:01.133341+06:00"
+    },
+    "pcgamer.com/games/cairn-dlc": {
+      "title": "Cairn DLC",
+      "url": "https://www.pcgamer.com/games/cairn-dlc/",
+      "canonical": "pcgamer.com/games/cairn-dlc",
+      "published_dt": "2026-09-22T15:30:00+06:00",
+      "published_date": "2026-09-22T15:30:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Cairn DLC",
+      "image": "https://cdn.mos.cms.futurecdn.net/wC7vqghgo6FNGEumqGLasR-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.133459+06:00",
+      "last_seen": "2026-09-22T17:00:01.133463+06:00"
+    },
+    "pcgamer.com/games/action/wolverine-blinking-is-upsetting-me": {
+      "title": "Wolverine blinking is upsetting me",
+      "url": "https://www.pcgamer.com/games/action/wolverine-blinking-is-upsetting-me/",
+      "canonical": "pcgamer.com/games/action/wolverine-blinking-is-upsetting-me",
+      "published_dt": "2026-09-22T15:30:00+06:00",
+      "published_date": "2026-09-22T15:30:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Wolverine blinking is upsetting me",
+      "image": "https://cdn.mos.cms.futurecdn.net/ThW9mbv8HL2FR5pDKhSP4J-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.133580+06:00",
+      "last_seen": "2026-09-22T17:00:01.133584+06:00"
+    },
+    "pcgamer.com/hardware/motherboards/gigabyte-admits-an-oopsie-with-gigabyte-control-center-software-leaving-kernel-exposed-to-attackers": {
+      "title": "Gigabyte admits an oopsie with Gigabyte Control Center software leaving kernel exposed to attackers",
+      "url": "https://www.pcgamer.com/hardware/motherboards/gigabyte-admits-an-oopsie-with-gigabyte-control-center-software-leaving-kernel-exposed-to-attackers/",
+      "canonical": "pcgamer.com/hardware/motherboards/gigabyte-admits-an-oopsie-with-gigabyte-control-center-software-leaving-kernel-exposed-to-attackers",
+      "published_dt": "2026-09-22T15:17:21+06:00",
+      "published_date": "2026-09-22T15:17:21+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Mitigated version is already available.",
+      "image": "https://cdn.mos.cms.futurecdn.net/WmUXMRVEiSvqg7LfweomfN-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.133704+06:00",
+      "last_seen": "2026-09-22T17:00:01.133708+06:00"
+    },
+    "pcgamer.com/games/i-cant-wait-to-play-a-kodan-in-gw3-concept-art": {
+      "title": "I can't wait to play a Kodan in GW3 concept art",
+      "url": "https://www.pcgamer.com/games/i-cant-wait-to-play-a-kodan-in-gw3-concept-art/",
+      "canonical": "pcgamer.com/games/i-cant-wait-to-play-a-kodan-in-gw3-concept-art",
+      "published_dt": "2026-09-22T15:15:00+06:00",
+      "published_date": "2026-09-22T15:15:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "I can't wait to play a Kodan in GW3 concept art",
+      "image": "https://cdn.mos.cms.futurecdn.net/Qx6o7UV8duXnns5pRHzyTB-1920-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.133873+06:00",
+      "last_seen": "2026-09-22T17:00:01.133878+06:00"
+    },
+    "pcgamer.com/hardware/i-ordered-the-wrong-steam-frame": {
+      "title": "I ordered the wrong Steam Frame 😔",
+      "url": "https://www.pcgamer.com/hardware/i-ordered-the-wrong-steam-frame/",
+      "canonical": "pcgamer.com/hardware/i-ordered-the-wrong-steam-frame",
+      "published_dt": "2026-09-22T15:00:00+06:00",
+      "published_date": "2026-09-22T15:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "I ordered the wrong Steam Frame 😔",
+      "image": "https://cdn.mos.cms.futurecdn.net/KARjyYc5RAjbNVjuJA4E4f-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.134014+06:00",
+      "last_seen": "2026-09-22T17:00:01.134019+06:00"
+    },
+    "pcgamer.com/games/wookiepedia-still-feels-like-home": {
+      "title": "Wookiepedia still feels like home",
+      "url": "https://www.pcgamer.com/games/wookiepedia-still-feels-like-home/",
+      "canonical": "pcgamer.com/games/wookiepedia-still-feels-like-home",
+      "published_dt": "2026-09-22T15:00:00+06:00",
+      "published_date": "2026-09-22T15:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Wookiepedia still feels like home",
+      "image": "https://cdn.mos.cms.futurecdn.net/4hSRRAwpzmV28u6oa3ZbTS-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.134139+06:00",
+      "last_seen": "2026-09-22T17:00:01.134144+06:00"
+    },
+    "pcgamer.com/games/more-games-should-look-like-abyss-x-zero": {
+      "title": "More games should look like Abyss x Zero",
+      "url": "https://www.pcgamer.com/games/more-games-should-look-like-abyss-x-zero/",
+      "canonical": "pcgamer.com/games/more-games-should-look-like-abyss-x-zero",
+      "published_dt": "2026-09-22T15:00:00+06:00",
+      "published_date": "2026-09-22T15:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "More games should look like Abyss x Zero",
+      "image": "https://cdn.mos.cms.futurecdn.net/JJy5LnRhpjK6tSCbGxa8gi-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.134265+06:00",
+      "last_seen": "2026-09-22T17:00:01.134269+06:00"
+    },
+    "pcgamer.com/games/trying-to-pick-the-perfect-autumn-game-paralysis": {
+      "title": "Trying to pick the perfect autumn game paralysis",
+      "url": "https://www.pcgamer.com/games/trying-to-pick-the-perfect-autumn-game-paralysis/",
+      "canonical": "pcgamer.com/games/trying-to-pick-the-perfect-autumn-game-paralysis",
+      "published_dt": "2026-09-22T14:40:00+06:00",
+      "published_date": "2026-09-22T14:40:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Trying to pick the perfect autumn game paralysis",
+      "image": "https://cdn.mos.cms.futurecdn.net/6HHzGXv8XpyyNLkqTzkNxE-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.134388+06:00",
+      "last_seen": "2026-09-22T17:00:01.134392+06:00"
+    },
+    "pcgamer.com/games/just-another-tuesday": {
+      "title": "Just another Tuesday",
+      "url": "https://www.pcgamer.com/games/just-another-tuesday/",
+      "canonical": "pcgamer.com/games/just-another-tuesday",
+      "published_dt": "2026-09-22T14:30:00+06:00",
+      "published_date": "2026-09-22T14:30:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Just another Tuesday",
+      "image": "https://cdn.mos.cms.futurecdn.net/wSjZoEZhsiQFeqqtHuXEk9-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.134509+06:00",
+      "last_seen": "2026-09-22T17:00:01.134513+06:00"
+    },
+    "pcgamer.com/games/world-of-warcraft/wow-forever-will-live-and-die-by-the-valley": {
+      "title": "WoW: Forever will live and die by the valley",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-will-live-and-die-by-the-valley/",
+      "canonical": "pcgamer.com/games/world-of-warcraft/wow-forever-will-live-and-die-by-the-valley",
+      "published_dt": "2026-09-22T14:30:00+06:00",
+      "published_date": "2026-09-22T14:30:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "WoW: Forever will live and die by the valley",
+      "image": "https://cdn.mos.cms.futurecdn.net/nGEgktqvFSg7YMjusbfHAb-1920-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.134633+06:00",
+      "last_seen": "2026-09-22T17:00:01.134636+06:00"
+    },
+    "pcgamer.com/games/i-still-cant-believe-we-call-them-mobas": {
+      "title": "I still can't believe we call them 'MOBAs'",
+      "url": "https://www.pcgamer.com/games/i-still-cant-believe-we-call-them-mobas/",
+      "canonical": "pcgamer.com/games/i-still-cant-believe-we-call-them-mobas",
+      "published_dt": "2026-09-22T14:00:00+06:00",
+      "published_date": "2026-09-22T14:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "I still can't believe we call them 'MOBAs'",
+      "image": "https://cdn.mos.cms.futurecdn.net/6YjdYQi4KDActzVo9w2UZ3-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.134782+06:00",
+      "last_seen": "2026-09-22T17:00:01.134787+06:00"
+    },
+    "pcgamer.com/software/windows/sure-windows-remind-me-in-three-days": {
+      "title": "Sure, Windows: 'Remind me in three days'",
+      "url": "https://www.pcgamer.com/software/windows/sure-windows-remind-me-in-three-days/",
+      "canonical": "pcgamer.com/software/windows/sure-windows-remind-me-in-three-days",
+      "published_dt": "2026-09-22T14:00:00+06:00",
+      "published_date": "2026-09-22T14:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Sure, Windows: 'Remind me in three days'",
+      "image": "https://cdn.mos.cms.futurecdn.net/oXWVxVh6RouwhBnuDKE4FG-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.134913+06:00",
+      "last_seen": "2026-09-22T17:00:01.134917+06:00"
+    },
+    "pcgamer.com/games/desktops-are-meant-to-be-messy": {
+      "title": "Desktops are meant to be messy",
+      "url": "https://www.pcgamer.com/games/desktops-are-meant-to-be-messy/",
+      "canonical": "pcgamer.com/games/desktops-are-meant-to-be-messy",
+      "published_dt": "2026-09-22T14:00:00+06:00",
+      "published_date": "2026-09-22T14:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Desktops are meant to be messy",
+      "image": "https://cdn.mos.cms.futurecdn.net/QryQLj3fNvXvz4kyBTmjqR-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.135034+06:00",
+      "last_seen": "2026-09-22T17:00:01.135037+06:00"
+    },
+    "polygon.com/5-far-side-comics-genius-gary-larson": {
+      "title": "5 Perfect 'Far Side' Comics from the 1980s That Prove Gary Larson is a Genius",
+      "url": "https://www.polygon.com/5-far-side-comics-genius-gary-larson/",
+      "canonical": "polygon.com/5-far-side-comics-genius-gary-larson",
+      "published_dt": "2026-09-22T16:00:15+06:00",
+      "published_date": "2026-09-22T16:00:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The Far Side creator Gary Larson is a true genius and these five comic strips from the 1980s prove it",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/far-side.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.272266+06:00",
+      "last_seen": "2026-09-22T17:00:01.272273+06:00"
+    },
+    "polygon.com/xbox-layoffs-studio-consolidation-halo": {
+      "title": "Xbox Layoffs and Studio Mergers Said to be Imminent as Huge Halo Move Rumored",
+      "url": "https://www.polygon.com/xbox-layoffs-studio-consolidation-halo/",
+      "canonical": "polygon.com/xbox-layoffs-studio-consolidation-halo",
+      "published_dt": "2026-09-22T15:56:37+06:00",
+      "published_date": "2026-09-22T15:56:37+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Reports say Xbox CEO Asha Sharma will consolidate game studios and cut jobs this week, including moving Halo to Activision Blizzard",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/assets_2026_06_1780857686_3b-hce_energy_sword_no_logo_3840x2180.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.272444+06:00",
+      "last_seen": "2026-09-22T17:00:01.272449+06:00"
+    },
+    "polygon.com/xbox-project-helix-physical-disc-support": {
+      "title": "Xbox Is Apparently Still Open to Physical Discs for Project Helix",
+      "url": "https://www.polygon.com/xbox-project-helix-physical-disc-support/",
+      "canonical": "polygon.com/xbox-project-helix-physical-disc-support",
+      "published_dt": "2026-09-22T15:51:08+06:00",
+      "published_date": "2026-09-22T15:51:08+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Xbox has reportedly been asking some players whether physical disc support would be a feature they'd want to see in its next console.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23038561/halo_3_ae.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-22T17:00:01.272595+06:00",
+      "last_seen": "2026-09-22T17:00:01.272599+06:00",
+      "posted_at": "2026-09-22T17:10:55.679183+06:00"
+    },
+    "polygon.com/scifi-greatest-opening-line-book-1950s": {
+      "title": "73 Years Later, the Greatest Opening Line in Sci-fi History Is Still The Best Book Quote Of The 1950s",
+      "url": "https://www.polygon.com/scifi-greatest-opening-line-book-1950s/",
+      "canonical": "polygon.com/scifi-greatest-opening-line-book-1950s",
+      "published_dt": "2026-09-22T15:30:14+06:00",
+      "published_date": "2026-09-22T15:30:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Bradbury’s six-word opening to Fahrenheit 451 remains one of sci-fi’s most powerful lines, especially in an age of declining literacy and AI.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/rasbopg.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.272744+06:00",
+      "last_seen": "2026-09-22T17:00:01.272775+06:00"
+    },
+    "polygon.com/demon-slayer-infinity-castle-release-date-leaked-september-2027-one-piece": {
+      "title": "The Biggest Anime Movie of 2027 May Have Just Gotten a Release Date",
+      "url": "https://www.polygon.com/demon-slayer-infinity-castle-release-date-leaked-september-2027-one-piece/",
+      "canonical": "polygon.com/demon-slayer-infinity-castle-release-date-leaked-september-2027-one-piece",
+      "published_dt": "2026-09-22T15:12:04+06:00",
+      "published_date": "2026-09-22T15:12:04+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "According to movie listing sites, a big Sony/Crunchyroll movie will be released in September 2027",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/demon-slayer-one-piece-tanjiro-luffy.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.272941+06:00",
+      "last_seen": "2026-09-22T17:00:01.272946+06:00"
+    },
+    "polygon.com/battlestar-galactica-free-streaming-pluto-tv": {
+      "title": "23 Years Later, the Most Addictive Sci-Fi Show Ever Made Officially Blasts Onto Free Streaming",
+      "url": "https://www.polygon.com/battlestar-galactica-free-streaming-pluto-tv/",
+      "canonical": "polygon.com/battlestar-galactica-free-streaming-pluto-tv",
+      "published_dt": "2026-09-22T14:00:14+06:00",
+      "published_date": "2026-09-22T14:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Battlestar Galactica is streaming free on Pluto TV, making now the perfect time to binge Ronald D. Moore’s beloved sci-fi series.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/tcdbaga_ec012.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:01.273086+06:00",
+      "last_seen": "2026-09-22T17:00:01.273090+06:00"
+    },
+    "gamesradar.com/games/persona/persona-4-revival-lead-said-atlus-wanted-a-whole-new-cast-but-one-actor-is-reprising-his-role-from-the-og-jrpg-anyway-true": {
+      "title": "Persona 4 Revival lead said Atlus wanted \"a whole new cast,\" but one actor is reprising his role from the OG JRPG anyway: \"True!\"",
+      "url": "https://www.gamesradar.com/games/persona/persona-4-revival-lead-said-atlus-wanted-a-whole-new-cast-but-one-actor-is-reprising-his-role-from-the-og-jrpg-anyway-true/",
+      "canonical": "gamesradar.com/games/persona/persona-4-revival-lead-said-atlus-wanted-a-whole-new-cast-but-one-actor-is-reprising-his-role-from-the-og-jrpg-anyway-true",
+      "published_dt": "2026-09-22T16:13:38+06:00",
+      "published_date": "2026-09-22T16:13:38+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Devil May Cry actor Johnny Yong Bosch has been recast as the game's protagonist, however",
+      "image": "https://cdn.mos.cms.futurecdn.net/EGESrRbtv3aE6kRN4sYwgU-1920-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:02.108980+06:00",
+      "last_seen": "2026-09-22T17:00:02.108986+06:00"
+    },
+    "gamesradar.com/entertainment/horror-movies/zach-cregger-says-resident-evil-was-only-finished-maybe-two-weeks-before-release-and-there-are-unfinished-shots-in-the-international-version": {
+      "title": "Zach Cregger says Resident Evil was only finished \"maybe\" two weeks before release, and there are unfinished shots in the international version",
+      "url": "https://www.gamesradar.com/entertainment/horror-movies/zach-cregger-says-resident-evil-was-only-finished-maybe-two-weeks-before-release-and-there-are-unfinished-shots-in-the-international-version/",
+      "canonical": "gamesradar.com/entertainment/horror-movies/zach-cregger-says-resident-evil-was-only-finished-maybe-two-weeks-before-release-and-there-are-unfinished-shots-in-the-international-version",
+      "published_dt": "2026-09-22T16:10:15+06:00",
+      "published_date": "2026-09-22T16:10:15+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"There are shots I'm not stoked on in the international version\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/dJxxqpqfQ99VmSvpDpWhR6-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:02.109130+06:00",
+      "last_seen": "2026-09-22T17:00:02.109134+06:00"
+    },
+    "gamesradar.com/hardware/retro/it-was-a-bit-of-a-nothing-stops-this-train-moment-the-neo-geo-aes-almost-didnt-happen-thanks-to-ai-but-a-chip-workaround-saved-the-day": {
+      "title": "\"It was a bit of a ‘nothing stops this train’ moment\" - The Neo Geo AES+ almost didn't happen thanks to AI, but a chip workaround saved the day",
+      "url": "https://www.gamesradar.com/hardware/retro/it-was-a-bit-of-a-nothing-stops-this-train-moment-the-neo-geo-aes-almost-didnt-happen-thanks-to-ai-but-a-chip-workaround-saved-the-day/",
+      "canonical": "gamesradar.com/hardware/retro/it-was-a-bit-of-a-nothing-stops-this-train-moment-the-neo-geo-aes-almost-didnt-happen-thanks-to-ai-but-a-chip-workaround-saved-the-day",
+      "published_dt": "2026-09-22T16:08:30+06:00",
+      "published_date": "2026-09-22T16:08:30+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Plaion has revealed that its Neo Geo AES+ remake was almost cancelled thanks to AI data centre demand, but found a workaround involving the physical carts.",
+      "image": "https://cdn.mos.cms.futurecdn.net/rjDwWbbTV6pCvpuqPi5SEK-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:02.109273+06:00",
+      "last_seen": "2026-09-22T17:00:02.109277+06:00"
+    },
+    "gamesradar.com/entertainment/fantasy-shows/game-of-thrones-star-kit-harington-can-see-the-jon-snow-sequel-happening-now-i-feel-more-comfortable-with-that-character-and-that-world-again": {
+      "title": "Game of Thrones star Kit Harington can see the Jon Snow sequel happening \"now I feel more comfortable with that character and that world again\"",
+      "url": "https://www.gamesradar.com/entertainment/fantasy-shows/game-of-thrones-star-kit-harington-can-see-the-jon-snow-sequel-happening-now-i-feel-more-comfortable-with-that-character-and-that-world-again/",
+      "canonical": "gamesradar.com/entertainment/fantasy-shows/game-of-thrones-star-kit-harington-can-see-the-jon-snow-sequel-happening-now-i-feel-more-comfortable-with-that-character-and-that-world-again",
+      "published_dt": "2026-09-22T16:00:51+06:00",
+      "published_date": "2026-09-22T16:00:51+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Kit Harington can now see \"a world\" where the Jon Snow sequel series could still happen",
+      "image": "https://cdn.mos.cms.futurecdn.net/oStRZS9Vwb7TBZHh8bzYBA-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:02.109406+06:00",
+      "last_seen": "2026-09-22T17:00:02.109410+06:00"
+    },
+    "gamesradar.com/games/rpg/nighthawks-is-a-vampire-rpg-that-delivers-what-bloodlines-2-failed-to-accomplish-in-its-first-5-minutes": {
+      "title": "Nighthawks is a vampire RPG that delivers what Bloodlines 2 failed to accomplish in its first 5 minutes",
+      "url": "https://www.gamesradar.com/games/rpg/nighthawks-is-a-vampire-rpg-that-delivers-what-bloodlines-2-failed-to-accomplish-in-its-first-5-minutes/",
+      "canonical": "gamesradar.com/games/rpg/nighthawks-is-a-vampire-rpg-that-delivers-what-bloodlines-2-failed-to-accomplish-in-its-first-5-minutes",
+      "published_dt": "2026-09-22T16:00:00+06:00",
+      "published_date": "2026-09-22T16:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "This fangtastic RPG has brains as well as brawn",
+      "image": "https://cdn.mos.cms.futurecdn.net/buo2JecyP5XAxUgdsYwwPS-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:02.109533+06:00",
+      "last_seen": "2026-09-22T17:00:02.109536+06:00"
+    },
+    "gamesradar.com/entertainment/dc-movies/superman-sequel-man-of-tomorrow-will-focus-on-who-lex-luthor-is-according-to-guy-gardner-star-nathan-fillion": {
+      "title": "Superman sequel Man of Tomorrow will focus on \"who Lex Luthor is\", according to Guy Gardner star Nathan Fillion",
+      "url": "https://www.gamesradar.com/entertainment/dc-movies/superman-sequel-man-of-tomorrow-will-focus-on-who-lex-luthor-is-according-to-guy-gardner-star-nathan-fillion/",
+      "canonical": "gamesradar.com/entertainment/dc-movies/superman-sequel-man-of-tomorrow-will-focus-on-who-lex-luthor-is-according-to-guy-gardner-star-nathan-fillion",
+      "published_dt": "2026-09-22T15:57:52+06:00",
+      "published_date": "2026-09-22T15:57:52+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Nicholas Hoult takes center stage",
+      "image": "https://cdn.mos.cms.futurecdn.net/3Y2dAw4rFVuRo54tCyLGWC-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:02.109659+06:00",
+      "last_seen": "2026-09-22T17:00:02.109662+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-movies/guardians-of-the-galaxys-sean-gunn-has-retired-from-mocapping-rocket-racoon-because-hes-too-old": {
+      "title": "Guardians of the Galaxy's Sean Gunn has \"retired\" from mocapping Rocket Raccoon because he's too old",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/guardians-of-the-galaxys-sean-gunn-has-retired-from-mocapping-rocket-racoon-because-hes-too-old/",
+      "canonical": "gamesradar.com/entertainment/marvel-movies/guardians-of-the-galaxys-sean-gunn-has-retired-from-mocapping-rocket-racoon-because-hes-too-old",
+      "published_dt": "2026-09-22T15:56:12+06:00",
+      "published_date": "2026-09-22T15:56:12+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"Everyone thinks it's my knees but it's really my feet and my ankles\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/H3NZUJFqWKnRUFUqv6o3h9-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:02.109827+06:00",
+      "last_seen": "2026-09-22T17:00:02.109832+06:00"
+    },
+    "gamesradar.com/games/rpg/the-blood-of-dawnwalker-is-getting-an-easier-difficulty-combat-changes-performance-boosts-and-more-early-next-month-director-confirms-it-will-be-the-big-patch": {
+      "title": "The Blood of Dawnwalker is getting an easier difficulty, combat changes, performance boosts, and more early next month, director confirms: \"It will be the big patch\"",
+      "url": "https://www.gamesradar.com/games/rpg/the-blood-of-dawnwalker-is-getting-an-easier-difficulty-combat-changes-performance-boosts-and-more-early-next-month-director-confirms-it-will-be-the-big-patch/",
+      "canonical": "gamesradar.com/games/rpg/the-blood-of-dawnwalker-is-getting-an-easier-difficulty-combat-changes-performance-boosts-and-more-early-next-month-director-confirms-it-will-be-the-big-patch",
+      "published_dt": "2026-09-22T15:48:39+06:00",
+      "published_date": "2026-09-22T15:48:39+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Coming \"in the beginning of October\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/janha2bQaS8GW6Q5MAHysR-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:02.109967+06:00",
+      "last_seen": "2026-09-22T17:00:02.109971+06:00"
+    },
+    "gamesradar.com/tabletop-gaming/this-new-pokemon-card-from-delta-reign-is-shockingly-powerful-get-an-exclusive-first-look-here": {
+      "title": "This new Pokemon card from Delta Reign is 'shockingly' powerful, get an exclusive first look here",
+      "url": "https://www.gamesradar.com/tabletop-gaming/this-new-pokemon-card-from-delta-reign-is-shockingly-powerful-get-an-exclusive-first-look-here/",
+      "canonical": "gamesradar.com/tabletop-gaming/this-new-pokemon-card-from-delta-reign-is-shockingly-powerful-get-an-exclusive-first-look-here",
+      "published_dt": "2026-09-22T15:00:23+06:00",
+      "published_date": "2026-09-22T15:00:23+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "GamesRadar+ can exclusively reveal a new Pokemon Delta Reign card, Raikou ex.",
+      "image": "https://cdn.mos.cms.futurecdn.net/owRoDXSRMqQvrhJ9FyYXY3-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:02.110096+06:00",
+      "last_seen": "2026-09-22T17:00:02.110100+06:00"
+    },
+    "gamesradar.com/entertainment/dc-tv-shows/james-gunn-hits-back-at-dc-fan-angry-at-hal-jordan-being-killed-off-so-early-in-lanterns-sorry-if-you-dont-like-it": {
+      "title": "James Gunn hits back at DC fan angry at Hal Jordan being killed off so early in Lanterns: \"Sorry if you don't like it\"",
+      "url": "https://www.gamesradar.com/entertainment/dc-tv-shows/james-gunn-hits-back-at-dc-fan-angry-at-hal-jordan-being-killed-off-so-early-in-lanterns-sorry-if-you-dont-like-it/",
+      "canonical": "gamesradar.com/entertainment/dc-tv-shows/james-gunn-hits-back-at-dc-fan-angry-at-hal-jordan-being-killed-off-so-early-in-lanterns-sorry-if-you-dont-like-it",
+      "published_dt": "2026-09-22T14:40:27+06:00",
+      "published_date": "2026-09-22T14:40:27+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Hal Jordan's death was quite a twist",
+      "image": "https://cdn.mos.cms.futurecdn.net/Rfem9qxsYFF69BUXdmKfpb-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:02.110220+06:00",
+      "last_seen": "2026-09-22T17:00:02.110223+06:00"
+    },
+    "gamesradar.com/games/action-rpg/jailbreak-codes": {
+      "title": "Jailbreak codes (September 2026) for cosmetics and cash",
+      "url": "https://www.gamesradar.com/games/action-rpg/jailbreak-codes/",
+      "canonical": "gamesradar.com/games/action-rpg/jailbreak-codes",
+      "published_dt": "2026-09-22T14:17:04+06:00",
+      "published_date": "2026-09-22T14:17:04+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "If you're dropping back in for Roblox the Hunt 20, boost your balance or kit out your car with these Jailbreak codes",
+      "image": "https://cdn.mos.cms.futurecdn.net/4FcMyMTuVuSiK9gPS8N57X-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:02.110340+06:00",
+      "last_seen": "2026-09-22T17:00:02.110343+06:00"
+    },
+    "rockpapershotgun.com/xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-consolidate-several-game-studios-in-second-round-of-major-cuts-this-year": {
+      "title": "Xbox reportedly set to lay off hundreds more staff and \"consolidate\" several game studios in second round of major cuts this year",
+      "url": "https://www.rockpapershotgun.com/xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-consolidate-several-game-studios-in-second-round-of-major-cuts-this-year",
+      "canonical": "rockpapershotgun.com/xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-consolidate-several-game-studios-in-second-round-of-major-cuts-this-year",
+      "published_dt": "2026-09-22T15:34:07+06:00",
+      "published_date": "2026-09-22T15:34:07+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "After laying off around 1600 people and parting ways with a number of studios back in July, Microsoft-owned Xbox are reportedly set for another round of job cuts and internal upheaval this week. Read more",
+      "image": "https://assetsio.gnwcdn.com/xbox-logo_R8HemjO.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:02.425344+06:00",
+      "last_seen": "2026-09-22T17:00:02.425352+06:00"
+    },
+    "rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter": {
+      "title": "Nighthawks review – a series of vignettes that sometimes excel but more often falter",
+      "url": "https://www.rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter",
+      "canonical": "rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter",
+      "published_dt": "2026-09-22T14:33:05+06:00",
+      "published_date": "2026-09-22T14:33:05+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "Nighthawks , the 1942 painting by Edward Hopper, is generally described as portraying loneliness. The four people at the diner counter are dwarfed by the empty, cold openness of the street. But the inside of the diner looks warm. One man sits apart, but the other two patrons might be a couple, their hands close. The worker seems to be watching them, perhaps thinking of somebody he’ll return to after his shift. Nighthawks, the 2026 vampire RPG, takes this same sensation, connection in the middle of isolation, and plays it much less subtly. When it works, it manages to tell sub-stories that will stick with me like the glow of a friendly building late at night. But it doesn’t always work. Read more",
+      "image": "https://assetsio.gnwcdn.com/Nighthawks-bartender.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:02.425728+06:00",
+      "last_seen": "2026-09-22T17:00:02.425733+06:00"
+    },
+    "insider-gaming.com/red-bull-ea-fc-27-codes-how-to-claim-1000-sp-all-rewards": {
+      "title": "Red Bull EA FC 27 Codes & How To Claim 1,000 SP—All Rewards",
+      "url": "https://insider-gaming.com/red-bull-ea-fc-27-codes-how-to-claim-1000-sp-all-rewards/",
+      "canonical": "insider-gaming.com/red-bull-ea-fc-27-codes-how-to-claim-1000-sp-all-rewards",
+      "published_dt": "2026-09-22T15:59:54+06:00",
+      "published_date": "2026-09-22T15:59:54+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Red Bull is running a campaign with EA FC 27, offering you the chance to claim some codes and earn a batch of SP. The post Red Bull EA FC 27 Codes & How To Claim 1,000 SP—All Rewards appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:09.065149+06:00",
+      "last_seen": "2026-09-22T17:00:09.065155+06:00"
+    },
+    "insider-gaming.com/fortnitemares-2026-collabs-fortnite-halloween": {
+      "title": "All Fortnitemares 2026 Collabs: All Known & Leaked Fortnite Halloween Content",
+      "url": "https://insider-gaming.com/fortnitemares-2026-collabs-fortnite-halloween/",
+      "canonical": "insider-gaming.com/fortnitemares-2026-collabs-fortnite-halloween",
+      "published_dt": "2026-09-22T15:52:21+06:00",
+      "published_date": "2026-09-22T15:52:21+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "All the details on the major collabs and crossovers set to occur in Fortnite's annual Fortnitemares event, including Chucky. The post All Fortnitemares 2026 Collabs: All Known & Leaked Fortnite Halloween Content appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-22T17:00:09.065445+06:00",
+      "last_seen": "2026-09-22T17:00:09.065450+06:00",
+      "posted_at": "2026-09-22T17:10:50.529235+06:00"
+    },
+    "insider-gaming.com/fortnite-fortnitemares-2026-start-end-dates": {
+      "title": "When is Fortnitemares Coming to Fortnite? Expected Start & End Dates",
+      "url": "https://insider-gaming.com/fortnite-fortnitemares-2026-start-end-dates/",
+      "canonical": "insider-gaming.com/fortnite-fortnitemares-2026-start-end-dates",
+      "published_dt": "2026-09-22T15:31:33+06:00",
+      "published_date": "2026-09-22T15:31:33+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "All the details on when Fortnite's big Fortnitemares 2026 event is slated to kick off and how long it's expected to run for. The post When is Fortnitemares Coming to Fortnite? Expected Start & End Dates appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:09.065716+06:00",
+      "last_seen": "2026-09-22T17:00:09.065721+06:00"
+    },
+    "insider-gaming.com/fortnite-likely-adding-chucky-collab-in-fortnitemares-event": {
+      "title": "Fortnite ‘Likely’ Adding Chucky Collab in Fortnitemares Event",
+      "url": "https://insider-gaming.com/fortnite-likely-adding-chucky-collab-in-fortnitemares-event/",
+      "canonical": "insider-gaming.com/fortnite-likely-adding-chucky-collab-in-fortnitemares-event",
+      "published_dt": "2026-09-22T15:01:36+06:00",
+      "published_date": "2026-09-22T15:01:36+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Another iconic horror character is reportedly being added to Fortnite in the upcoming Fortnitemares collab. The post Fortnite ‘Likely’ Adding Chucky Collab in Fortnitemares Event appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:09.066342+06:00",
+      "last_seen": "2026-09-22T17:00:09.066347+06:00"
+    },
+    "nintendolife.com/news/2026/09/i-had-to-fight-sonic-boss-takashi-iizuka-reveals-sega-wanted-to-cancel-entire-sonic-franchise": {
+      "title": "\"I Had To Fight\" - Sonic Boss Takashi Iizuka Reveals Sega Wanted To Cancel Entire Sonic Franchise",
+      "url": "https://www.nintendolife.com/news/2026/09/i-had-to-fight-sonic-boss-takashi-iizuka-reveals-sega-wanted-to-cancel-entire-sonic-franchise",
+      "canonical": "nintendolife.com/news/2026/09/i-had-to-fight-sonic-boss-takashi-iizuka-reveals-sega-wanted-to-cancel-entire-sonic-franchise",
+      "published_dt": "2026-09-22T16:45:00+06:00",
+      "published_date": "2026-09-22T16:45:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "\"The biggest milestone for me was the first movie\". We all know Sonic has gone through some highs and lows over the years, but according to head honcho Takashi Iizuka, Sega had gotten to the point where it wanted to cancel the entire franchise. As reported by One More Game (thanks, Time Extension ), this came prior to the first movie's release in 2020, with Iizuka having to \"fight... to keep the franchise as long as possible\". Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/6826a81a5156a/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:09.317998+06:00",
+      "last_seen": "2026-09-22T17:00:09.318005+06:00"
+    },
+    "nintendolife.com/news/2026/09/nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2": {
+      "title": "Nintendo Is Doing Its Best To Make Sure Switch Overtakes PS2",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
+      "canonical": "nintendolife.com/news/2026/09/nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
+      "published_dt": "2026-09-22T15:15:00+06:00",
+      "published_date": "2026-09-22T15:15:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "A deal? A succulent Switch deal? What's this? A console doing down in price? What madness is this? Yes, in an apparent effort to shift its remaining stock in Europe, Nintendo is selling a Switch and Mario Kart 8 Deluxe bundle for a discounted price of €199.99 . It's due for release on 29th October 2026 . Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/db642e4460dae/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:09.318461+06:00",
+      "last_seen": "2026-09-22T17:00:09.318466+06:00"
+    },
+    "pushsquare.com/news/2026/09/2-more-september-2026-ps-plus-extra-games-available-to-download-now": {
+      "title": "2 More September 2026 PS Plus Extra Games Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/09/2-more-september-2026-ps-plus-extra-games-available-to-download-now",
+      "canonical": "pushsquare.com/news/2026/09/2-more-september-2026-ps-plus-extra-games-available-to-download-now",
+      "published_dt": "2026-09-22T15:00:00+06:00",
+      "published_date": "2026-09-22T15:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Ball X Pit! Slitterhead! If you're a PS Plus Extra member in the UK, USA, or Japan territories, you've got another two PS5, PS4 games to play as part of your membership starting today. Ball X Pit and Slitterhead join the service in those regions as of 22nd September, though anyone outside these places already gained access to the full September 2026 lineup last week. This is only in the UK, USA, and Japan, where Sony is experimenting with how it rolls out PS Plus Extra titles. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/bab196cf87e0d/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-22T17:00:09.750287+06:00",
+      "last_seen": "2026-09-22T17:00:09.750293+06:00",
+      "posted_at": "2026-09-22T17:11:00.531371+06:00"
+    },
+    "pushsquare.com/news/2026/09/hundreds-more-xbox-layoffs-reportedly-on-the-way-studios-to-be-consolidated": {
+      "title": "'Hundreds' More Xbox Layoffs Reportedly on the Way, Studios to Be Consolidated",
+      "url": "https://www.pushsquare.com/news/2026/09/hundreds-more-xbox-layoffs-reportedly-on-the-way-studios-to-be-consolidated",
+      "canonical": "pushsquare.com/news/2026/09/hundreds-more-xbox-layoffs-reportedly-on-the-way-studios-to-be-consolidated",
+      "published_dt": "2026-09-22T14:30:00+06:00",
+      "published_date": "2026-09-22T14:30:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Halo series to go under Activision, it's suggested. Microsoft will confirm another wave of job losses within its Xbox division, affecting \"hundreds\" of workers, imminently, it is being widely reported. Via outlet The Information , it is claimed hundreds of employees will lose their jobs \"this week\", and in addition, \"several\" developers within Xbox Game Studios will be consolidated. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/a2d27ead301b2/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:09.750639+06:00",
+      "last_seen": "2026-09-22T17:00:09.750643+06:00"
+    },
+    "purexbox.com/news/2026/09/10-xbox-games-are-out-today-including-one-of-2026s-highest-rated-game-pass-titles-september-22": {
+      "title": "10 Xbox Games Are Out Today, Including One Of 2026's Highest-Rated Game Pass Titles (September 22)",
+      "url": "https://www.purexbox.com/news/2026/09/10-xbox-games-are-out-today-including-one-of-2026s-highest-rated-game-pass-titles-september-22",
+      "canonical": "purexbox.com/news/2026/09/10-xbox-games-are-out-today-including-one-of-2026s-highest-rated-game-pass-titles-september-22",
+      "published_dt": "2026-09-22T16:00:00+06:00",
+      "published_date": "2026-09-22T16:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Desert Power! It's time for another daily roundup of all the new games launching on Xbox today - hooray! Today, we're opening things up with the two newbies for Xbox Game Pass. First up is Well Dweller , which unexpectedly is getting insane review scores right now. As it stands, the metroidvania is holding down a 91 on Metacritic . It scored a little lower for Xbox, but what an absolute bag for Ultimate and PC Game Pass members. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/9df29f442d646/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:10.113145+06:00",
+      "last_seen": "2026-09-22T17:00:10.113151+06:00"
+    },
+    "purexbox.com/news/2026/09/report-xbox-layoffs-on-the-way-this-week-multiple-studios-to-be-consolidated": {
+      "title": "Report: Xbox Layoffs On The Way This Week, Multiple Studios To Be 'Consolidated'",
+      "url": "https://www.purexbox.com/news/2026/09/report-xbox-layoffs-on-the-way-this-week-multiple-studios-to-be-consolidated",
+      "canonical": "purexbox.com/news/2026/09/report-xbox-layoffs-on-the-way-this-week-multiple-studios-to-be-consolidated",
+      "published_dt": "2026-09-22T15:06:00+06:00",
+      "published_date": "2026-09-22T15:06:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Brace yourself. It looks like more difficult Xbox news could be on the way, as it's being reported that a new wave of layoffs is set to take place at Xbox at some point this week, and multiple studios will be consolidated in the process. Most of this is coming from a report by The Information , which says that \"hundreds\" of jobs will be cut in this next wave. Asha Sharma announced back in July that Xbox would be cutting 3,200 jobs throughout fiscal year 27 , and only 1,600 of those were affected at the time, leaving another 1,600 to eliminate by the end of June next year. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/99f79a8d962c1/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-22T17:00:10.113548+06:00",
+      "last_seen": "2026-09-22T17:00:10.113554+06:00"
     }
   },
   "events": {
@@ -19320,6 +19864,259 @@
           "claims": [
             "hundreds of jobs",
             "hundreds of jobs"
+          ]
+        }
+      ]
+    },
+    "evt_e6cc7a70332132": {
+      "event_id": "evt_e6cc7a70332132",
+      "event_key": "vgc monsterhunterwilds ascendance dev discussion",
+      "event_subject": "Monster Hunter Wilds Ascendance",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "vgc monsterhunterwilds ascendance dev discussion",
+        "subject": "Monster Hunter Wilds Ascendance",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Monster Hunter Wilds",
+        "franchise": "Monster Hunter",
+        "institution": "VGC",
+        "target": "",
+        "platforms": [],
+        "topic": "development"
+      },
+      "sources": [
+        "VGC"
+      ],
+      "event_sources": [
+        "VGC"
+      ],
+      "claims": [
+        "devs discuss Switch 2, feedback, time skip"
+      ],
+      "importance_score": 47,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 13,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Monster Hunter Wilds Ascendance Expands Gameplay and Embraces Switch 2 Cross‑Play",
+      "summary": "Capcom’s new Ascendance expansion adds Master Rank quests, a vertical Skybound Eyrie, and Boost Bracer mechanics while refining UI based on Wilds feedback.",
+      "published_at": "2026-09-22T15:25:20+06:00",
+      "selected_at": "2026-09-22T11:10:39.952205+00:00",
+      "status": "published",
+      "message_id": 407,
+      "published_versions": [
+        {
+          "published_at": "2026-09-22T11:10:39.952205+00:00",
+          "headline": "Monster Hunter Wilds Ascendance Expands Gameplay and Embraces Switch 2 Cross‑Play",
+          "claims": [
+            "devs discuss Switch 2, feedback, time skip"
+          ]
+        }
+      ]
+    },
+    "evt_5df9bf93e5a458": {
+      "event_id": "evt_5df9bf93e5a458",
+      "event_key": "eurogamer wow forever skyborne zone debate",
+      "event_subject": "WoW Forever Skyborne zone",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "eurogamer wow forever skyborne zone debate",
+        "subject": "WoW Forever Skyborne zone",
+        "event_type": "other",
+        "action": "debate",
+        "status": "published",
+        "modality": "unknown",
+        "game": "World of Warcraft",
+        "franchise": "WoW",
+        "institution": "Eurogamer",
+        "target": "",
+        "platforms": [],
+        "topic": "content"
+      },
+      "sources": [
+        "Eurogamer"
+      ],
+      "event_sources": [
+        "Eurogamer"
+      ],
+      "claims": [
+        "fans divided on tonal fit"
+      ],
+      "importance_score": 47,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 17,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "WoW Forever’s Skyborne Starting Zone Sparks Classic WoW Purist Debate",
+      "summary": "The new Skyborne race’s opening quest on Zephras Isle pits players against an elemental lord, prompting fans to question its fit with Classic WoW’s tone.",
+      "published_at": "2026-09-22T15:34:13+06:00",
+      "selected_at": "2026-09-22T11:10:44.922406+00:00",
+      "status": "published",
+      "message_id": 408,
+      "published_versions": [
+        {
+          "published_at": "2026-09-22T11:10:44.922406+00:00",
+          "headline": "WoW Forever’s Skyborne Starting Zone Sparks Classic WoW Purist Debate",
+          "claims": [
+            "fans divided on tonal fit"
+          ]
+        }
+      ]
+    },
+    "evt_d9a49344c7ffe6": {
+      "event_id": "evt_d9a49344c7ffe6",
+      "event_key": "insidergaming fortnitemares2026 collabs leak",
+      "event_subject": "Fortnitemares 2026 collabs",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "insidergaming fortnitemares2026 collabs leak",
+        "subject": "Fortnitemares 2026 collabs",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Fortnite",
+        "franchise": "Fortnite",
+        "institution": "Insider Gaming",
+        "target": "",
+        "platforms": [],
+        "topic": "event"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [
+        "list of collaborations including Chucky"
+      ],
+      "importance_score": 46,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Fortnite Fortnitemares 2026 Leaks Reveal Five Nights at Freddy’s and Chucky Collabs",
+      "summary": "Epic Games is teasing new horror crossovers for the upcoming Fortnitemares event, with confirmed Five Nights at Freddy’s and rumored Chucky appearances.",
+      "published_at": "2026-09-22T15:52:21+06:00",
+      "selected_at": "2026-09-22T11:10:50.529263+00:00",
+      "status": "published",
+      "message_id": 409,
+      "published_versions": [
+        {
+          "published_at": "2026-09-22T11:10:50.529263+00:00",
+          "headline": "Fortnite Fortnitemares 2026 Leaks Reveal Five Nights at Freddy’s and Chucky Collabs",
+          "claims": [
+            "list of collaborations including Chucky"
+          ]
+        }
+      ]
+    },
+    "evt_ce40ba1409a399": {
+      "event_id": "evt_ce40ba1409a399",
+      "event_key": "polygon projecthelix physical disc interest",
+      "event_subject": "Project Helix disc support",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "polygon projecthelix physical disc interest",
+        "subject": "Project Helix disc support",
+        "event_type": "other",
+        "action": "ask_players",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "sources": [
+        "Polygon"
+      ],
+      "event_sources": [
+        "Polygon"
+      ],
+      "claims": [
+        "Xbox considering physical disc support for next console"
+      ],
+      "importance_score": 44,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 14,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Xbox May Keep Physical Discs on Project Helix, Survey Shows Fan Interest",
+      "summary": "A recent Xbox Insider survey asks fans how important disc support would be for the upcoming Project Helix console, indicating possible physical media inclusion.",
+      "published_at": "2026-09-22T15:51:08+06:00",
+      "selected_at": "2026-09-22T11:10:55.679208+00:00",
+      "status": "published",
+      "message_id": 410,
+      "published_versions": [
+        {
+          "published_at": "2026-09-22T11:10:55.679208+00:00",
+          "headline": "Xbox May Keep Physical Discs on Project Helix, Survey Shows Fan Interest",
+          "claims": [
+            "Xbox considering physical disc support for next console"
+          ]
+        }
+      ]
+    },
+    "evt_2ae237b181d6e1": {
+      "event_id": "evt_2ae237b181d6e1",
+      "event_key": "sony playstation plus extra game addition announcement 2026 09",
+      "event_subject": "Sony",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sony playstation plus extra game addition announcement 2026 09",
+        "subject": "Sony",
+        "event_type": "other",
+        "action": "add_games",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Ball X Pit / Slitterhead",
+        "franchise": "Ball X Pit / Slitterhead",
+        "institution": "Sony",
+        "target": "PS Plus Extra members in UK, USA, Japan",
+        "platforms": [
+          "PS5",
+          "PS4"
+        ],
+        "topic": "subscription service"
+      },
+      "sources": [
+        "Push Square"
+      ],
+      "event_sources": [
+        "Push Square"
+      ],
+      "claims": [
+        "Ball X Pit and Slitterhead have been added to PlayStation Plus Extra in the UK, USA and Japan"
+      ],
+      "importance_score": 36,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 6,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Two New PS Plus Extra Games Join the September Line‑up for UK, US and Japan Players",
+      "summary": "From 22 September, Ball X Pit and Slitterhead become available to PS Plus Extra members in the UK, USA and Japan, expanding the service’s September catalogue.",
+      "published_at": "2026-09-22T15:00:00+06:00",
+      "selected_at": "2026-09-22T11:11:00.531399+00:00",
+      "status": "published",
+      "message_id": 411,
+      "published_versions": [
+        {
+          "published_at": "2026-09-22T11:11:00.531399+00:00",
+          "headline": "Two New PS Plus Extra Games Join the September Line‑up for UK, US and Japan Players",
+          "claims": [
+            "Ball X Pit and Slitterhead have been added to PlayStation Plus Extra in the UK, USA and Japan"
           ]
         }
       ]
@@ -84289,6 +85086,1954 @@
         "total": 30
       },
       "last_seen": "2026-09-22T11:56:25.585081+06:00"
+    },
+    "evt_8e0a38565e92c5": {
+      "event_id": "evt_8e0a38565e92c5",
+      "event_key": "rockpapershotgun xbox second round layoffs report",
+      "event_subject": "Xbox layoffs",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "rockpapershotgun xbox second round layoffs report",
+        "subject": "Xbox layoffs",
+        "event_type": "other",
+        "action": "layoff",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Rock Paper Shotgun",
+        "target": "",
+        "platforms": [],
+        "topic": "layoffs"
+      },
+      "modality": "unknown",
+      "topic": "layoffs",
+      "institution": "Rock Paper Shotgun",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "hundreds more staff to be cut in second round"
+      ],
+      "importance_score": 61,
+      "score_breakdown": {
+        "significance": 35,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 61
+      },
+      "last_seen": "2026-09-22T17:03:12.048401+06:00"
+    },
+    "evt_1dea5279f5bd6b": {
+      "event_id": "evt_1dea5279f5bd6b",
+      "event_key": "microsoft xbox layoffs report 2026 09",
+      "event_subject": "Microsoft",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft xbox layoffs report 2026 09",
+        "subject": "Microsoft",
+        "event_type": "other",
+        "action": "report_layoffs",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "Xbox employees",
+        "platforms": [],
+        "topic": "corporate restructuring"
+      },
+      "modality": "unknown",
+      "topic": "corporate restructuring",
+      "institution": "Microsoft",
+      "sources": [
+        "Pure Xbox",
+        "Eurogamer",
+        "Push Square"
+      ],
+      "source_count": 3,
+      "independent_source_count": 3,
+      "claims": [
+        "Hundreds of Xbox jobs will be cut this week and several studios will be consolidated",
+        "Second wave of Xbox layoffs expected this week with studio consolidations",
+        "Hundreds of Xbox workers to be laid off this week and several studios to be consolidated"
+      ],
+      "importance_score": 69,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 10,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 69
+      },
+      "last_seen": "2026-09-22T17:03:12.048424+06:00"
+    },
+    "evt_3c6704da87ff2f": {
+      "event_id": "evt_3c6704da87ff2f",
+      "event_key": "polygon xbox halo studio consolidation rumor",
+      "event_subject": "Halo studio move",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "polygon xbox halo studio consolidation rumor",
+        "subject": "Halo studio move",
+        "event_type": "rumor",
+        "action": "consolidate",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Halo",
+        "franchise": "Halo",
+        "institution": "Xbox",
+        "target": "",
+        "platforms": [],
+        "topic": "studio"
+      },
+      "modality": "unknown",
+      "topic": "studio",
+      "institution": "Xbox",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Halo to move to Activision Blizzard amid layoffs"
+      ],
+      "importance_score": 60,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 60
+      },
+      "last_seen": "2026-09-22T17:03:12.048433+06:00"
+    },
+    "evt_0ff7a590f8cff6": {
+      "event_id": "evt_0ff7a590f8cff6",
+      "event_key": "sega sonicfranchise cancellation rumor 2020",
+      "event_subject": "Sonic franchise",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "sega sonicfranchise cancellation rumor 2020",
+        "subject": "Sonic franchise",
+        "event_type": "rumor",
+        "action": "cancel",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Sonic the Hedgehog",
+        "franchise": "Sonic",
+        "institution": "Sega",
+        "target": "",
+        "platforms": [],
+        "topic": "franchise"
+      },
+      "modality": "unknown",
+      "topic": "franchise",
+      "institution": "Sega",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Sega wanted to cancel the entire Sonic franchise before 2020 movie"
+      ],
+      "importance_score": 55,
+      "score_breakdown": {
+        "significance": 25,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 55
+      },
+      "last_seen": "2026-09-22T17:03:12.048441+06:00"
+    },
+    "evt_d5023af32e389a": {
+      "event_id": "evt_d5023af32e389a",
+      "event_key": "gamespot minecraftlive 2026 announcement",
+      "event_subject": "Minecraft Live 2026",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gamespot minecraftlive 2026 announcement",
+        "subject": "Minecraft Live 2026",
+        "event_type": "other",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Minecraft",
+        "franchise": "Minecraft",
+        "institution": "GameSpot",
+        "target": "",
+        "platforms": [],
+        "topic": "event"
+      },
+      "modality": "unknown",
+      "topic": "event",
+      "institution": "GameSpot",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Live broadcast scheduled for Sep 26 2026"
+      ],
+      "importance_score": 50,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 50
+      },
+      "last_seen": "2026-09-22T17:03:12.048447+06:00"
+    },
+    "evt_0cb3e064e07504": {
+      "event_id": "evt_0cb3e064e07504",
+      "event_key": "purexbox xboxgamepass september22 launches",
+      "event_subject": "Xbox Game Pass titles Sep 22",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "purexbox xboxgamepass september22 launches",
+        "subject": "Xbox Game Pass titles Sep 22",
+        "event_type": "release",
+        "action": "launch",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Pure Xbox",
+        "target": "",
+        "platforms": [
+          "Xbox"
+        ],
+        "topic": "launch"
+      },
+      "modality": "unknown",
+      "topic": "launch",
+      "institution": "Pure Xbox",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "10 games released, including top-rated title"
+      ],
+      "importance_score": 48,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 48
+      },
+      "last_seen": "2026-09-22T17:03:12.048454+06:00"
+    },
+    "evt_5df9bf93e5a458": {
+      "event_id": "evt_5df9bf93e5a458",
+      "event_key": "eurogamer wow forever skyborne zone debate",
+      "event_subject": "WoW Forever Skyborne zone",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "eurogamer wow forever skyborne zone debate",
+        "subject": "WoW Forever Skyborne zone",
+        "event_type": "other",
+        "action": "debate",
+        "status": "published",
+        "modality": "unknown",
+        "game": "World of Warcraft",
+        "franchise": "WoW",
+        "institution": "Eurogamer",
+        "target": "",
+        "platforms": [],
+        "topic": "content"
+      },
+      "modality": "unknown",
+      "topic": "content",
+      "institution": "Eurogamer",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "fans divided on tonal fit"
+      ],
+      "importance_score": 47,
+      "score_breakdown": {
+        "significance": 17,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 47
+      },
+      "last_seen": "2026-09-22T17:03:12.048460+06:00"
+    },
+    "evt_0b37f260305940": {
+      "event_id": "evt_0b37f260305940",
+      "event_key": "pcgamer sonyinzonem10sii review",
+      "event_subject": "Sony Inzone M10S II monitor",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "pcgamer sonyinzonem10sii review",
+        "subject": "Sony Inzone M10S II monitor",
+        "event_type": "review",
+        "action": "review",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PC Gamer",
+        "target": "",
+        "platforms": [
+          "Monitor"
+        ],
+        "topic": "hardware"
+      },
+      "modality": "unknown",
+      "topic": "hardware",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "best ultra-high-refresh esports monitor yet"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 16,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 46
+      },
+      "last_seen": "2026-09-22T17:03:12.048466+06:00"
+    },
+    "evt_d3143428de9983": {
+      "event_id": "evt_d3143428de9983",
+      "event_key": "nintendo legendofzeldamovie actor tease trailer",
+      "event_subject": "Legend of Zelda movie",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo legendofzeldamovie actor tease trailer",
+        "subject": "Legend of Zelda movie",
+        "event_type": "other",
+        "action": "post_cryptic_tease",
+        "status": "published",
+        "modality": "unknown",
+        "game": "The Legend of Zelda",
+        "franchise": "The Legend of Zelda",
+        "institution": "Nintendo",
+        "target": "",
+        "platforms": [],
+        "topic": "movie"
+      },
+      "modality": "unknown",
+      "topic": "movie",
+      "institution": "Nintendo",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "actress posted cryptic tease for upcoming trailer"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-09-22T17:03:12.048473+06:00"
+    },
+    "evt_ce40ba1409a399": {
+      "event_id": "evt_ce40ba1409a399",
+      "event_key": "polygon projecthelix physical disc interest",
+      "event_subject": "Project Helix disc support",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "polygon projecthelix physical disc interest",
+        "subject": "Project Helix disc support",
+        "event_type": "other",
+        "action": "ask_players",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "modality": "unknown",
+      "topic": "hardware",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Xbox considering physical disc support for next console"
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 44
+      },
+      "last_seen": "2026-09-22T17:03:12.048479+06:00"
+    },
+    "evt_505a1653e92f2b": {
+      "event_id": "evt_505a1653e92f2b",
+      "event_key": "plaion neogeoaesplus ai workaround",
+      "event_subject": "Neo Geo AES+ remake",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "plaion neogeoaesplus ai workaround",
+        "subject": "Neo Geo AES+ remake",
+        "event_type": "other",
+        "action": "save_with_chip_workaround",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Neo Geo AES+",
+        "franchise": "Neo Geo",
+        "institution": "Plaion",
+        "target": "",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "modality": "unknown",
+      "topic": "hardware",
+      "institution": "Plaion",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "AI demand almost cancelled project, chip workaround saved it"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 40
+      },
+      "last_seen": "2026-09-22T17:03:12.048485+06:00"
+    },
+    "evt_e6cc7a70332132": {
+      "event_id": "evt_e6cc7a70332132",
+      "event_key": "vgc monsterhunterwilds ascendance dev discussion",
+      "event_subject": "Monster Hunter Wilds Ascendance",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "vgc monsterhunterwilds ascendance dev discussion",
+        "subject": "Monster Hunter Wilds Ascendance",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Monster Hunter Wilds",
+        "franchise": "Monster Hunter",
+        "institution": "VGC",
+        "target": "",
+        "platforms": [],
+        "topic": "development"
+      },
+      "modality": "unknown",
+      "topic": "development",
+      "institution": "VGC",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "devs discuss Switch 2, feedback, time skip"
+      ],
+      "importance_score": 47,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 47
+      },
+      "last_seen": "2026-09-22T17:03:12.048492+06:00"
+    },
+    "evt_05dabe3d6c4ea5": {
+      "event_id": "evt_05dabe3d6c4ea5",
+      "event_key": "gamesradar nighthawks rpg review",
+      "event_subject": "Nighthawks",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "gamesradar nighthawks rpg review",
+        "subject": "Nighthawks",
+        "event_type": "review",
+        "action": "compare",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Nighthawks",
+        "franchise": "Nighthawks",
+        "institution": "GamesRadar+",
+        "target": "",
+        "platforms": [],
+        "topic": "RPG"
+      },
+      "modality": "unknown",
+      "topic": "RPG",
+      "institution": "GamesRadar+",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "delivers what Bloodlines 2 failed to"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 39
+      },
+      "last_seen": "2026-09-22T17:03:12.048498+06:00"
+    },
+    "evt_d9a49344c7ffe6": {
+      "event_id": "evt_d9a49344c7ffe6",
+      "event_key": "insidergaming fortnitemares2026 collabs leak",
+      "event_subject": "Fortnitemares 2026 collabs",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "insidergaming fortnitemares2026 collabs leak",
+        "subject": "Fortnitemares 2026 collabs",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Fortnite",
+        "franchise": "Fortnite",
+        "institution": "Insider Gaming",
+        "target": "",
+        "platforms": [],
+        "topic": "event"
+      },
+      "modality": "unknown",
+      "topic": "event",
+      "institution": "Insider Gaming",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "list of collaborations including Chucky"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 46
+      },
+      "last_seen": "2026-09-22T17:03:12.048505+06:00"
+    },
+    "evt_3f5803bc56a88a": {
+      "event_id": "evt_3f5803bc56a88a",
+      "event_key": "sega sonic franchise film impact statement interview 2026 09",
+      "event_subject": "Sega",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sega sonic franchise film impact statement interview 2026 09",
+        "subject": "Sega",
+        "event_type": "other",
+        "action": "comment_on_film_impact",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Sonic the Hedgehog (film)",
+        "franchise": "Sonic",
+        "institution": "Sega",
+        "target": "Sonic fans",
+        "platforms": [],
+        "topic": "franchise history"
+      },
+      "modality": "unknown",
+      "topic": "franchise history",
+      "institution": "Sega",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Sonic Team head Iizuka says the first Sonic movie saved the franchise after a planned cancellation"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 46
+      },
+      "last_seen": "2026-09-22T17:03:12.048511+06:00"
+    },
+    "evt_5f6ee2328878e8": {
+      "event_id": "evt_5f6ee2328878e8",
+      "event_key": "intel auo microled collaboration report",
+      "event_subject": "Intel microLED panels",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "intel auo microled collaboration report",
+        "subject": "Intel microLED panels",
+        "event_type": "other",
+        "action": "collaborate",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Intel",
+        "target": "",
+        "platforms": [],
+        "topic": "display_tech"
+      },
+      "modality": "unknown",
+      "topic": "display_tech",
+      "institution": "Intel",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Intel collaborating with AUO on microLED panels"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-22T17:03:12.048517+06:00"
+    },
+    "evt_7a5201caa2c161": {
+      "event_id": "evt_7a5201caa2c161",
+      "event_key": "epicgames fortnite chucky collab rumor 2026 09",
+      "event_subject": "Epic Games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "epicgames fortnite chucky collab rumor 2026 09",
+        "subject": "Epic Games",
+        "event_type": "other",
+        "action": "rumor_addition",
+        "status": "rumored",
+        "modality": "unknown",
+        "game": "Fortnite",
+        "franchise": "Fortnite",
+        "institution": "Epic Games",
+        "target": "Fortnite players",
+        "platforms": [
+          "PC",
+          "PS5",
+          "Xbox Series X",
+          "Switch"
+        ],
+        "topic": "in‑game event"
+      },
+      "modality": "unknown",
+      "topic": "in‑game event",
+      "institution": "Epic Games",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Fortnite is likely to add a Chucky collaboration for the Fortnitemares event"
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 44
+      },
+      "last_seen": "2026-09-22T17:03:12.048524+06:00"
+    },
+    "evt_bd44c02e153d6b": {
+      "event_id": "evt_bd44c02e153d6b",
+      "event_key": "gamesradar bloodofdawnwalker patch october",
+      "event_subject": "Blood of Dawnwalker patch",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "gamesradar bloodofdawnwalker patch october",
+        "subject": "Blood of Dawnwalker patch",
+        "event_type": "update",
+        "action": "announce_patch",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Blood of Dawnwalker",
+        "franchise": "Blood of Dawnwalker",
+        "institution": "GamesRadar+",
+        "target": "",
+        "platforms": [],
+        "topic": "patch"
+      },
+      "modality": "unknown",
+      "topic": "patch",
+      "institution": "GamesRadar+",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "easier difficulty, combat changes, performance boost early Oct"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 36
+      },
+      "last_seen": "2026-09-22T17:03:12.048531+06:00"
+    },
+    "evt_c97283c2d39a0c": {
+      "event_id": "evt_c97283c2d39a0c",
+      "event_key": "atlus persona4revival cast change",
+      "event_subject": "Persona 4 Revival",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "atlus persona4revival cast change",
+        "subject": "Persona 4 Revival",
+        "event_type": "other",
+        "action": "recast_actor",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Persona 4",
+        "franchise": "Persona",
+        "institution": "Atlus",
+        "target": "",
+        "platforms": [],
+        "topic": "casting"
+      },
+      "modality": "unknown",
+      "topic": "casting",
+      "institution": "Atlus",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "actor recast despite desire for new cast"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 36
+      },
+      "last_seen": "2026-09-22T17:03:12.048537+06:00"
+    },
+    "evt_b8e4f00740ca5c": {
+      "event_id": "evt_b8e4f00740ca5c",
+      "event_key": "gamesradar supermanmanoftomorrow sequel focus",
+      "event_subject": "Man of Tomorrow sequel",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gamesradar supermanmanoftomorrow sequel focus",
+        "subject": "Man of Tomorrow sequel",
+        "event_type": "other",
+        "action": "focus_on_lex_luthor",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Superman",
+        "franchise": "Superman",
+        "institution": "GamesRadar+",
+        "target": "",
+        "platforms": [],
+        "topic": "sequel"
+      },
+      "modality": "unknown",
+      "topic": "sequel",
+      "institution": "GamesRadar+",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "focus on Lex Luthor per Nathan Fillion"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 9,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 35
+      },
+      "last_seen": "2026-09-22T17:03:12.048544+06:00"
+    },
+    "evt_80c4b7d76d6f25": {
+      "event_id": "evt_80c4b7d76d6f25",
+      "event_key": "nintendo pok mon tcg delta reign set reveal 2026 09",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo pok mon tcg delta reign set reveal 2026 09",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "reveal_cards",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Pokémon TCG: Mega Evolution — Delta Reign",
+        "franchise": "Pokémon",
+        "institution": "Nintendo",
+        "target": "TCG collectors",
+        "platforms": [],
+        "topic": "trading‑card preview"
+      },
+      "modality": "unknown",
+      "topic": "trading‑card preview",
+      "institution": "Nintendo",
+      "sources": [
+        "IGN",
+        "GamesRadar+"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Three new cards from the upcoming Pokémon TCG: Mega Evolution — Delta Reign set have been revealed",
+        "An exclusive look at the powerful Raikou EX card from the Delta Reign set"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 6,
+        "originality": 9,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 42
+      },
+      "last_seen": "2026-09-22T17:03:12.048550+06:00"
+    },
+    "evt_2ecddc3581f191": {
+      "event_id": "evt_2ecddc3581f191",
+      "event_key": "insidergaming fortnitemares dates schedule",
+      "event_subject": "Fortnitemares dates",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "insidergaming fortnitemares dates schedule",
+        "subject": "Fortnitemares dates",
+        "event_type": "other",
+        "action": "announce_dates",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Fortnite",
+        "franchise": "Fortnite",
+        "institution": "Insider Gaming",
+        "target": "",
+        "platforms": [],
+        "topic": "event"
+      },
+      "modality": "unknown",
+      "topic": "event",
+      "institution": "Insider Gaming",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "start and end dates for 2026 event"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-09-22T17:03:12.048556+06:00"
+    },
+    "evt_bcafcca9a9b8d9": {
+      "event_id": "evt_bcafcca9a9b8d9",
+      "event_key": "squanchgames troversavestheuniverse delisted",
+      "event_subject": "Trover Saves the Universe",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "squanchgames troversavestheuniverse delisted",
+        "subject": "Trover Saves the Universe",
+        "event_type": "other",
+        "action": "delist",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Trover Saves the Universe",
+        "franchise": "Trover Saves the Universe",
+        "institution": "Squanch Games",
+        "target": "",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "availability"
+      },
+      "modality": "unknown",
+      "topic": "availability",
+      "institution": "Squanch Games",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "game removed from all stores"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-09-22T17:03:12.048563+06:00"
+    },
+    "evt_e6f30879d1f621": {
+      "event_id": "evt_e6f30879d1f621",
+      "event_key": "nintendo switch bundle price promotion eu 2026 10 29",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo switch bundle price promotion eu 2026 10 29",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "bundle_release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Switch",
+        "franchise": "Mario Kart 8 Deluxe",
+        "institution": "Nintendo",
+        "target": "European consumers",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "console pricing"
+      },
+      "modality": "unknown",
+      "topic": "console pricing",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Nintendo is selling a Switch + Mario Kart 8 Deluxe bundle for €199.99 on 29 Oct 2026"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-09-22T17:03:12.048569+06:00"
+    },
+    "evt_e7d2cd9957c442": {
+      "event_id": "evt_e7d2cd9957c442",
+      "event_key": "capcom residentevil release finish timing",
+      "event_subject": "Resident Evil",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "capcom residentevil release finish timing",
+        "subject": "Resident Evil",
+        "event_type": "other",
+        "action": "finish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Resident Evil",
+        "franchise": "Resident Evil",
+        "institution": "Capcom",
+        "target": "",
+        "platforms": [],
+        "topic": "production"
+      },
+      "modality": "unknown",
+      "topic": "production",
+      "institution": "Capcom",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "finished only two weeks before release, unfinished shots in intl version"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 33
+      },
+      "last_seen": "2026-09-22T17:03:12.048576+06:00"
+    },
+    "evt_f25311e81fdb87": {
+      "event_id": "evt_f25311e81fdb87",
+      "event_key": "insidergaming redbull eafc27 sp campaign",
+      "event_subject": "Red Bull EA FC 27 campaign",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "insidergaming redbull eafc27 sp campaign",
+        "subject": "Red Bull EA FC 27 campaign",
+        "event_type": "other",
+        "action": "offer_codes",
+        "status": "published",
+        "modality": "unknown",
+        "game": "EA FC 27",
+        "franchise": "FIFA",
+        "institution": "Insider Gaming",
+        "target": "",
+        "platforms": [],
+        "topic": "promotion"
+      },
+      "modality": "unknown",
+      "topic": "promotion",
+      "institution": "Insider Gaming",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "claim 1,000 SP via codes"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 40
+      },
+      "last_seen": "2026-09-22T17:03:12.048583+06:00"
+    },
+    "evt_2ae237b181d6e1": {
+      "event_id": "evt_2ae237b181d6e1",
+      "event_key": "sony playstation plus extra game addition announcement 2026 09",
+      "event_subject": "Sony",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sony playstation plus extra game addition announcement 2026 09",
+        "subject": "Sony",
+        "event_type": "other",
+        "action": "add_games",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Ball X Pit / Slitterhead",
+        "franchise": "Ball X Pit / Slitterhead",
+        "institution": "Sony",
+        "target": "PS Plus Extra members in UK, USA, Japan",
+        "platforms": [
+          "PS5",
+          "PS4"
+        ],
+        "topic": "subscription service"
+      },
+      "modality": "unknown",
+      "topic": "subscription service",
+      "institution": "Sony",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Ball X Pit and Slitterhead have been added to PlayStation Plus Extra in the UK, USA and Japan"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-09-22T17:03:12.048589+06:00"
+    },
+    "evt_49da7bc4489126": {
+      "event_id": "evt_49da7bc4489126",
+      "event_key": "ubisoft beyondgoodandevil legacy discussion",
+      "event_subject": "Beyond Good and Evil",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ubisoft beyondgoodandevil legacy discussion",
+        "subject": "Beyond Good and Evil",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Beyond Good and Evil",
+        "franchise": "Beyond Good and Evil",
+        "institution": "Ubisoft",
+        "target": "",
+        "platforms": [],
+        "topic": "legacy"
+      },
+      "modality": "unknown",
+      "topic": "legacy",
+      "institution": "Ubisoft",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-22T17:03:12.048596+06:00"
+    },
+    "evt_46c1701971e68d": {
+      "event_id": "evt_46c1701971e68d",
+      "event_key": "konami silent hill townfall game release hands on 2026 09",
+      "event_subject": "Konami",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "konami silent hill townfall game release hands on 2026 09",
+        "subject": "Konami",
+        "event_type": "other",
+        "action": "measure_playtime",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Silent Hill: Townfall",
+        "franchise": "Silent Hill",
+        "institution": "Konami",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "PS5",
+          "Xbox Series X"
+        ],
+        "topic": "gameplay length"
+      },
+      "modality": "unknown",
+      "topic": "gameplay length",
+      "institution": "Konami",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Five editors measured how long Silent Hill: Townfall takes to complete under different playstyles"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-22T17:03:12.048602+06:00"
+    },
+    "evt_2146f35c243553": {
+      "event_id": "evt_2146f35c243553",
+      "event_key": "gamesradar seangunn retirement mocap rocketraccoon",
+      "event_subject": "Sean Gunn mocap retirement",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "gamesradar seangunn retirement mocap rocketraccoon",
+        "subject": "Sean Gunn mocap retirement",
+        "event_type": "announcement",
+        "action": "retire",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Guardians of the Galaxy",
+        "institution": "GamesRadar+",
+        "target": "",
+        "platforms": [],
+        "topic": "casting"
+      },
+      "modality": "unknown",
+      "topic": "casting",
+      "institution": "GamesRadar+",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "retired from mocapping Rocket Raccoon due to age"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-09-22T17:03:12.048609+06:00"
+    },
+    "evt_d0fb67fd30935d": {
+      "event_id": "evt_d0fb67fd30935d",
+      "event_key": "unknown nighthawks game review review 2026 09",
+      "event_subject": "Unknown",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "unknown nighthawks game review review 2026 09",
+        "subject": "Unknown",
+        "event_type": "review",
+        "action": "publish_review",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Nighthawks",
+        "franchise": "Nighthawks",
+        "institution": "",
+        "target": "RPG players",
+        "platforms": [],
+        "topic": "game critique"
+      },
+      "modality": "unknown",
+      "topic": "game critique",
+      "institution": "",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Nighthawks review notes strengths and weaknesses of the 2026 vampire RPG"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-09-22T17:03:12.048616+06:00"
+    },
+    "evt_a4508c9368722e": {
+      "event_id": "evt_a4508c9368722e",
+      "event_key": "pcgamer cairn dlc announcement",
+      "event_subject": "Cairn DLC",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "pcgamer cairn dlc announcement",
+        "subject": "Cairn DLC",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PC Gamer",
+        "target": "",
+        "platforms": [],
+        "topic": "DLC"
+      },
+      "modality": "unknown",
+      "topic": "DLC",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-22T17:03:12.048622+06:00"
+    },
+    "evt_f000a960712bd3": {
+      "event_id": "evt_f000a960712bd3",
+      "event_key": "sony crunchyroll anime movie release date announced 2027 09",
+      "event_subject": "Sony/Crunchyroll",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sony crunchyroll anime movie release date announced 2027 09",
+        "subject": "Sony/Crunchyroll",
+        "event_type": "other",
+        "action": "announce_release_date",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Untitled Anime Film",
+        "franchise": "Anime",
+        "institution": "Sony",
+        "target": "global audience",
+        "platforms": [],
+        "topic": "film release"
+      },
+      "modality": "unknown",
+      "topic": "film release",
+      "institution": "Sony",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "A major Sony/Crunchyroll anime movie will be released in September 2027"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-22T17:03:12.048628+06:00"
+    },
+    "evt_25cfe16c7a3bfa": {
+      "event_id": "evt_25cfe16c7a3bfa",
+      "event_key": "gameofthrones kitharington jonsnow sequel interest",
+      "event_subject": "Jon Snow sequel",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gameofthrones kitharington jonsnow sequel interest",
+        "subject": "Jon Snow sequel",
+        "event_type": "other",
+        "action": "express_interest",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Game of Thrones",
+        "institution": "GamesRadar+",
+        "target": "",
+        "platforms": [],
+        "topic": "sequel"
+      },
+      "modality": "unknown",
+      "topic": "sequel",
+      "institution": "GamesRadar+",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Kit Harington feels comfortable with character again"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-09-22T17:03:12.048635+06:00"
+    },
+    "evt_ca38e109c4fe2d": {
+      "event_id": "evt_ca38e109c4fe2d",
+      "event_key": "roblox jailbreak codes release announcement 2026 09",
+      "event_subject": "Roblox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "roblox jailbreak codes release announcement 2026 09",
+        "subject": "Roblox",
+        "event_type": "other",
+        "action": "release_codes",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Jailbreak",
+        "franchise": "Jailbreak",
+        "institution": "Roblox",
+        "target": "Jailbreak players",
+        "platforms": [
+          "Roblox"
+        ],
+        "topic": "game updates"
+      },
+      "modality": "unknown",
+      "topic": "game updates",
+      "institution": "Roblox",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "New September 2026 codes for cosmetics and cash in Jailbreak have been released"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-09-22T17:03:12.048641+06:00"
+    },
+    "evt_7e58f16de091c1": {
+      "event_id": "evt_7e58f16de091c1",
+      "event_key": "plutotv battlestar galactica free streaming announcement 2026 09",
+      "event_subject": "Pluto TV",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "plutotv battlestar galactica free streaming announcement 2026 09",
+        "subject": "Pluto TV",
+        "event_type": "other",
+        "action": "add_free_streaming",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Battlestar Galactica",
+        "franchise": "Battlestar Galactica",
+        "institution": "Pluto TV",
+        "target": "streaming audience",
+        "platforms": [
+          "Pluto TV"
+        ],
+        "topic": "media distribution"
+      },
+      "modality": "unknown",
+      "topic": "media distribution",
+      "institution": "Pluto TV",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Battlestar Galactica is now available for free streaming on Pluto TV"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-22T17:03:12.048648+06:00"
+    },
+    "evt_4a905faccaf7bf": {
+      "event_id": "evt_4a905faccaf7bf",
+      "event_key": "pcgamer health bar game praise",
+      "event_subject": "game health bar",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pcgamer health bar game praise",
+        "subject": "game health bar",
+        "event_type": "other",
+        "action": "praise",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PC Gamer",
+        "target": "",
+        "platforms": [],
+        "topic": "design"
+      },
+      "modality": "unknown",
+      "topic": "design",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "health bar alone sold the game"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-22T17:03:12.048654+06:00"
+    },
+    "evt_ca1455f24f9dcd": {
+      "event_id": "evt_ca1455f24f9dcd",
+      "event_key": "pcgamer smooth faced dystopia critique",
+      "event_subject": "smooth-faced dystopias",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pcgamer smooth faced dystopia critique",
+        "subject": "smooth-faced dystopias",
+        "event_type": "other",
+        "action": "call_for_end",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PC Gamer",
+        "target": "",
+        "platforms": [],
+        "topic": "dystopia"
+      },
+      "modality": "unknown",
+      "topic": "dystopia",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-22T17:03:12.048661+06:00"
+    },
+    "evt_cae2d49397b60b": {
+      "event_id": "evt_cae2d49397b60b",
+      "event_key": "warnerbros dc lanterns director response statement 2026 09",
+      "event_subject": "James Gunn",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "warnerbros dc lanterns director response statement 2026 09",
+        "subject": "James Gunn",
+        "event_type": "other",
+        "action": "respond_to_criticism",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Lanterns",
+        "franchise": "DC",
+        "institution": "Warner Bros.",
+        "target": "DC fans",
+        "platforms": [],
+        "topic": "film controversy"
+      },
+      "modality": "unknown",
+      "topic": "film controversy",
+      "institution": "Warner Bros.",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "James Gunn replied to a fan upset about Hal Jordan’s early death in Lanterns"
+      ],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-09-22T17:03:12.048668+06:00"
+    },
+    "evt_84cf41513717a0": {
+      "event_id": "evt_84cf41513717a0",
+      "event_key": "pcgamer spacewarlordbaby trading sim events",
+      "event_subject": "Space Warlord Baby",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pcgamer spacewarlordbaby trading sim events",
+        "subject": "Space Warlord Baby",
+        "event_type": "other",
+        "action": "list_favorites",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PC Gamer",
+        "target": "",
+        "platforms": [],
+        "topic": "simulation"
+      },
+      "modality": "unknown",
+      "topic": "simulation",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "favorite events in trading sim"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-22T17:03:12.048675+06:00"
+    },
+    "evt_18017e48a8d0cd": {
+      "event_id": "evt_18017e48a8d0cd",
+      "event_key": "pcgamer back on my bullshit game poll",
+      "event_subject": "back on my bullshit videogame",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pcgamer back on my bullshit game poll",
+        "subject": "back on my bullshit videogame",
+        "event_type": "other",
+        "action": "ask",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PC Gamer",
+        "target": "",
+        "platforms": [],
+        "topic": "community"
+      },
+      "modality": "unknown",
+      "topic": "community",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-22T17:03:12.048681+06:00"
+    },
+    "evt_0954a8ea92764c": {
+      "event_id": "evt_0954a8ea92764c",
+      "event_key": "pcgamer crouch walking observation",
+      "event_subject": "crouch walking",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pcgamer crouch walking observation",
+        "subject": "crouch walking",
+        "event_type": "other",
+        "action": "note",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PC Gamer",
+        "target": "",
+        "platforms": [],
+        "topic": "gameplay"
+      },
+      "modality": "unknown",
+      "topic": "gameplay",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "players crouch-walk more than in real life"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-22T17:03:12.048688+06:00"
+    },
+    "evt_5920267fa98033": {
+      "event_id": "evt_5920267fa98033",
+      "event_key": "pcgamer tornado games fan piece",
+      "event_subject": "tornado games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pcgamer tornado games fan piece",
+        "subject": "tornado games",
+        "event_type": "other",
+        "action": "express_love",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PC Gamer",
+        "target": "",
+        "platforms": [],
+        "topic": "fan"
+      },
+      "modality": "unknown",
+      "topic": "fan",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-22T17:03:12.048695+06:00"
+    },
+    "evt_6207d443d94f26": {
+      "event_id": "evt_6207d443d94f26",
+      "event_key": "polygon fahrenheit451 opening line essay",
+      "event_subject": "Fahrenheit 451 opening line",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "polygon fahrenheit451 opening line essay",
+        "subject": "Fahrenheit 451 opening line",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "",
+        "platforms": [],
+        "topic": "literature"
+      },
+      "modality": "unknown",
+      "topic": "literature",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "greatest opening line still best book quote of 1950s"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-09-22T17:03:12.048702+06:00"
+    },
+    "evt_0efe57f7c67602": {
+      "event_id": "evt_0efe57f7c67602",
+      "event_key": "polygon farside comics 1980s feature",
+      "event_subject": "Far Side comics",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "polygon farside comics 1980s feature",
+        "subject": "Far Side comics",
+        "event_type": "other",
+        "action": "showcase",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "",
+        "platforms": [],
+        "topic": "comics"
+      },
+      "modality": "unknown",
+      "topic": "comics",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "five perfect 1980s comics"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-09-22T17:03:12.048708+06:00"
+    },
+    "evt_e342778ddee5db": {
+      "event_id": "evt_e342778ddee5db",
+      "event_key": "pcgamer goku in games opinion",
+      "event_subject": "Goku",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pcgamer goku in games opinion",
+        "subject": "Goku",
+        "event_type": "other",
+        "action": "state",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PC Gamer",
+        "target": "",
+        "platforms": [],
+        "topic": "cultural"
+      },
+      "modality": "unknown",
+      "topic": "cultural",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "every game eventually involves Goku"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-09-22T17:03:12.048714+06:00"
+    },
+    "evt_f51652dba46993": {
+      "event_id": "evt_f51652dba46993",
+      "event_key": "pcgamer slork spirit reference",
+      "event_subject": "Slork",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pcgamer slork spirit reference",
+        "subject": "Slork",
+        "event_type": "other",
+        "action": "reference",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PC Gamer",
+        "target": "",
+        "platforms": [],
+        "topic": "culture"
+      },
+      "modality": "unknown",
+      "topic": "culture",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Slork in spirit, not name"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-09-22T17:03:12.048721+06:00"
     }
   },
   "posted_event_ids": [
@@ -84535,7 +87280,12 @@
     "evt_01aae942ad57b7",
     "evt_88116cbcf8a7a2",
     "evt_c174b4331e20c5",
-    "evt_ba3dc591cd089f"
+    "evt_ba3dc591cd089f",
+    "evt_e6cc7a70332132",
+    "evt_5df9bf93e5a458",
+    "evt_d9a49344c7ffe6",
+    "evt_ce40ba1409a399",
+    "evt_2ae237b181d6e1"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -84781,18 +87531,23 @@
     "final fantasy 7 revelation adds auto level feature after player feedback",
     "kingdom come 2 royal edition launches on nintendo switch 2",
     "xbox game pass expands september perks with new freebies",
-    "xbox to consolidate studios amid second wave of hundreds layoffs"
+    "xbox to consolidate studios amid second wave of hundreds layoffs",
+    "monster hunter wilds ascendance expands gameplay and embraces switch 2 cross play",
+    "wow forever s skyborne starting zone sparks classic wow purist debate",
+    "fortnite fortnitemares 2026 leaks reveal five nights at freddy s and chucky collabs",
+    "xbox may keep physical discs on project helix survey shows fan interest",
+    "two new ps plus extra games join the september line up for uk us and japan players"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-22T00:41:58.193893+06:00",
+    "Game Updates": "2026-09-22T17:10:50.529283+06:00",
     "Major Releases": "2026-09-22T00:41:53.097533+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
     "Nintendo": "2026-09-17T22:26:01.455912+06:00",
     "Expansions and DLC": "2026-09-17T22:25:34.200149+06:00",
-    "Gaming Hardware": "2026-09-16T21:42:36.857844+06:00",
+    "Gaming Hardware": "2026-09-22T17:10:55.679226+06:00",
     "Cybersecurity": "2026-09-10T01:20:12.789492+06:00",
-    "Pricing and Monetization": "2026-09-21T18:18:45.832712+06:00",
+    "Pricing and Monetization": "2026-09-22T17:11:00.531416+06:00",
     "Anti-Cheat": "2026-09-11T00:33:42.084305+06:00",
     "Cancellations": "2026-09-11T21:14:57.654212+06:00",
     "Studio Closures": "2026-09-17T17:10:09.895598+06:00",
