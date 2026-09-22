@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"221b7-B+KXmMkAkju3VtwaD4g4Iq4lPg0\"",
+      "etag": "W/\"21c41-q9lC7VjHnuNqILMBTM4vsZL8tyw\"",
       "last_modified": null,
-      "last_checked": "2026-09-22T21:28:59.119500+06:00",
+      "last_checked": "2026-09-23T01:34:29.199079+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-22T21:28:59.361615+06:00",
+      "last_checked": "2026-09-23T01:34:29.406383+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ab29dcf-aef\"",
-      "last_modified": "Tue, 22 Sep 2026 15:25:03 GMT",
-      "last_checked": "2026-09-22T21:28:59.700955+06:00",
+      "etag": "\"6ab2d73c-a27\"",
+      "last_modified": "Tue, 22 Sep 2026 19:30:04 GMT",
+      "last_checked": "2026-09-23T01:34:29.741737+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Tue, 22 Sep 2026 15:12:52 GMT",
-      "last_checked": "2026-09-22T21:29:00.625502+06:00",
+      "last_modified": "Tue, 22 Sep 2026 16:18:06 GMT",
+      "last_checked": "2026-09-23T01:34:30.220197+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ab29b97-1332\"",
-      "last_modified": "Tue, 22 Sep 2026 15:15:35 GMT",
-      "last_checked": "2026-09-22T21:29:01.054461+06:00",
+      "etag": "\"6ab2d3f4-135e\"",
+      "last_modified": "Tue, 22 Sep 2026 19:16:04 GMT",
+      "last_checked": "2026-09-23T01:34:30.641982+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-22T21:29:01.200571+06:00",
+      "last_checked": "2026-09-23T01:34:30.766344+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-22T21:29:01.801956+06:00",
+      "last_checked": "2026-09-23T01:34:31.124385+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"617805f4ea75b3766f341156a5f8821f\"",
-      "last_modified": "Tue, 22 Sep 2026 15:00:04 GMT",
-      "last_checked": "2026-09-22T21:29:02.043789+06:00",
+      "etag": "W/\"f62621d294b147373d47b895bc3ac06d\"",
+      "last_modified": "Tue, 22 Sep 2026 19:30:18 GMT",
+      "last_checked": "2026-09-23T01:34:31.333978+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-22T21:29:02.650100+06:00",
+      "last_checked": "2026-09-23T01:34:31.483653+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Tue, 22 Sep 2026 14:58:42 GMT",
-      "last_checked": "2026-09-22T21:29:03.006284+06:00",
+      "last_modified": "Tue, 22 Sep 2026 19:31:02 GMT",
+      "last_checked": "2026-09-23T01:34:31.895443+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Tue, 22 Sep 2026 15:29:03 GMT",
-      "last_checked": "2026-09-22T21:29:03.520480+06:00",
+      "last_modified": "Tue, 22 Sep 2026 19:34:32 GMT",
+      "last_checked": "2026-09-23T01:34:32.301219+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"16caeb98047c6f11dc975d183e143b47\"",
-      "last_modified": "Tue, 22 Sep 2026 15:17:56 GMT",
-      "last_checked": "2026-09-22T21:29:03.672303+06:00",
+      "etag": "W/\"a3a1532c1aafc2a353dc0d69873e0e1e\"",
+      "last_modified": "Tue, 22 Sep 2026 19:32:58 GMT",
+      "last_checked": "2026-09-23T01:34:32.481719+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-22T21:29:04.227998+06:00",
+      "last_checked": "2026-09-23T01:34:32.865733+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-22T21:29:04.706287+06:00",
+      "last_checked": "2026-09-23T01:34:33.203668+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-22T21:29:05.294388+06:00",
+      "last_checked": "2026-09-23T01:34:33.481979+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-22T21:29:05.607475+06:00",
-      "fail_count": 54,
+      "last_checked": "2026-09-23T01:34:33.712898+06:00",
+      "fail_count": 55,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"7516715c4a7e103d13f1b1836f7ac193\"",
-      "last_modified": "Tue, 22 Sep 2026 03:48:19 GMT",
-      "last_checked": "2026-09-22T21:29:05.796335+06:00",
+      "etag": "W/\"1d7d3de5f6342a4a4ab678e1def8673e\"",
+      "last_modified": "Tue, 22 Sep 2026 16:19:22 GMT",
+      "last_checked": "2026-09-23T01:34:33.872892+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-22T21:29:06.058279+06:00",
+      "last_checked": "2026-09-23T01:34:34.010812+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-22T21:29:06.283905+06:00",
-      "fail_count": 54,
+      "last_checked": "2026-09-23T01:34:34.208611+06:00",
+      "fail_count": 55,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"36b5899651629866d528cb840823fd3b\"",
       "last_modified": "Tue, 22 Sep 2026 10:12:05 GMT",
-      "last_checked": "2026-09-22T21:29:06.524642+06:00",
+      "last_checked": "2026-09-23T01:34:34.385206+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -4013,7 +4013,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-22T00:29:00.921933+06:00",
-      "last_seen": "2026-09-22T00:29:00.921936+06:00"
+      "last_seen": "2026-09-23T01:34:29.271734+06:00"
     },
     "ign.com/articles/best-deals-for-september-21-2026": {
       "title": "Today’s Top Deals: RTX 5080 GPU, Pokémon Prismatic Evolutions, and Razer BlackShark Headset",
@@ -8129,6 +8129,1041 @@
       "status": "pending",
       "first_seen": "2026-09-22T21:29:05.839149+06:00",
       "last_seen": "2026-09-22T21:29:05.839152+06:00"
+    },
+    "ign.com/articles/darkwing-duck-disney-plus-mark-hamill-seth-rogen-plot-cast-teaser": {
+      "title": "New Darkwing Duck Series Announced for Disney+ Starring Mark Hamill and Seth Rogen",
+      "url": "https://www.ign.com/articles/darkwing-duck-disney-plus-mark-hamill-seth-rogen-plot-cast-teaser",
+      "canonical": "ign.com/articles/darkwing-duck-disney-plus-mark-hamill-seth-rogen-plot-cast-teaser",
+      "published_dt": "2026-09-23T00:32:24+06:00",
+      "published_date": "2026-09-23T00:32:24+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Disney+ has officially greenlit a new Darkwing Duck animated series with a voice cast led by Mark Hamill in the title role and Seth Rogen, who is also one of the new show’s producers.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/22/darkwingduck-2026-logo-1280b-1790101874513.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.270099+06:00",
+      "last_seen": "2026-09-23T01:34:29.270105+06:00"
+    },
+    "ign.com/articles/switch-2-storage-deal-get-a-512gb-memory-card-for-9999": {
+      "title": "Switch 2 Storage Deal: Get a 512GB Memory Card for $99.99",
+      "url": "https://www.ign.com/articles/switch-2-storage-deal-get-a-512gb-memory-card-for-9999",
+      "canonical": "ign.com/articles/switch-2-storage-deal-get-a-512gb-memory-card-for-9999",
+      "published_dt": "2026-09-23T00:23:32+06:00",
+      "published_date": "2026-09-23T00:23:32+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Right now, Amazon has deal on a 512GB Samsung P9 MircroSD Card, bringing it down to $99.99 at checkout. That's the best deal we've seen on that card in months.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/22/untitled-design-1790100798317.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.270269+06:00",
+      "last_seen": "2026-09-23T01:34:29.270273+06:00"
+    },
+    "ign.com/articles/wardogs-season-2-release-date-announced-will-add-weather-including-rain": {
+      "title": "Wardogs Season 2 Release Date Announced, Will Add Weather Including Rain",
+      "url": "https://www.ign.com/articles/wardogs-season-2-release-date-announced-will-add-weather-including-rain",
+      "canonical": "ign.com/articles/wardogs-season-2-release-date-announced-will-add-weather-including-rain",
+      "published_dt": "2026-09-23T00:21:19+06:00",
+      "published_date": "2026-09-23T00:21:19+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Wardogs Season 2 has a release date, and the new content update will add weather effects, including rain.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/10/wardogsthumb-1789046591629.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.270402+06:00",
+      "last_seen": "2026-09-23T01:34:29.270406+06:00"
+    },
+    "ign.com/articles/halo-fans-cant-decide-if-activision-takeover-is-a-good-thing-or-not": {
+      "title": "Halo Fans Can't Decide if Activision Takeover Is a Good Thing or Not",
+      "url": "https://www.ign.com/articles/halo-fans-cant-decide-if-activision-takeover-is-a-good-thing-or-not",
+      "canonical": "ign.com/articles/halo-fans-cant-decide-if-activision-takeover-is-a-good-thing-or-not",
+      "published_dt": "2026-09-23T00:19:40+06:00",
+      "published_date": "2026-09-23T00:19:40+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Call of Duty developer Activision is now taking over creation of the next Halo game, and fans are understandably divided about it.",
+      "image": "https://assets-prd.ignimgs.com/2026/07/09/halo-ce-operation-meteorite-1783609603807.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.270523+06:00",
+      "last_seen": "2026-09-23T01:34:29.270527+06:00"
+    },
+    "ign.com/articles/best-deals-for-september-22-2026": {
+      "title": "Today’s Top Deals: Hogwarts Legacy for Switch, GeForce RTX 5070 GPU, and Optoma 4K Projector",
+      "url": "https://www.ign.com/articles/best-deals-for-september-22-2026",
+      "canonical": "ign.com/articles/best-deals-for-september-22-2026",
+      "published_dt": "2026-09-23T00:10:00+06:00",
+      "published_date": "2026-09-23T00:10:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Don’t miss Adidas’ new Pokémon collab plus discounts a gaming laptop, TV, and more.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/22/untitled-design-21-1790091358799.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.270651+06:00",
+      "last_seen": "2026-09-23T01:34:29.270655+06:00"
+    },
+    "ign.com/articles/walmart-geforce-week-sale-2026-best-deals-on-gaming-pcs": {
+      "title": "The Walmart GeForce Week Sale Has Black Friday Worthy Gaming PC Deals, But They're Selling Out",
+      "url": "https://www.ign.com/articles/walmart-geforce-week-sale-2026-best-deals-on-gaming-pcs",
+      "canonical": "ign.com/articles/walmart-geforce-week-sale-2026-best-deals-on-gaming-pcs",
+      "published_dt": "2026-09-22T23:30:00+06:00",
+      "published_date": "2026-09-22T23:30:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "The best prices I've seen all year on prebuilt gaming PCs with RTX 5060 to 5090.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/22/walmartgamingpc-1790097740162.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.270778+06:00",
+      "last_seen": "2026-09-23T01:34:29.270783+06:00"
+    },
+    "ign.com/articles/sea-of-thieves-fans-fear-for-rares-future-as-studio-gets-put-under-activision-following-xbox-reset": {
+      "title": "Sea of Thieves Fans Fear for Rare's Future as Studio Gets Put Under Activision Following Xbox Reset",
+      "url": "https://www.ign.com/articles/sea-of-thieves-fans-fear-for-rares-future-as-studio-gets-put-under-activision-following-xbox-reset",
+      "canonical": "ign.com/articles/sea-of-thieves-fans-fear-for-rares-future-as-studio-gets-put-under-activision-following-xbox-reset",
+      "published_dt": "2026-09-22T23:25:07+06:00",
+      "published_date": "2026-09-22T23:25:07+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Sea of Thieves fans are concerned for Rare's future, as the studio has been consolidated under Activision as part of Xbox's latest reset.",
+      "image": "https://assets-prd.ignimgs.com/2026/03/19/seathievesthumb-1773933609982.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-23T01:34:29.270897+06:00",
+      "last_seen": "2026-09-23T01:34:29.270901+06:00",
+      "posted_at": "2026-09-23T01:47:59.729205+06:00"
+    },
+    "ign.com/articles/manhattan-under-siege": {
+      "title": "MANHATTAN UNDER SIEGE",
+      "url": "https://www.ign.com/articles/manhattan-under-siege",
+      "canonical": "ign.com/articles/manhattan-under-siege",
+      "published_dt": "2026-09-22T23:00:00+06:00",
+      "published_date": "2026-09-22T23:00:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "",
+      "image": "https://assets-prd.ignimgs.com/2026/09/17/heron-bodies-2-1789676239976.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.271033+06:00",
+      "last_seen": "2026-09-23T01:34:29.271037+06:00"
+    },
+    "ign.com/articles/minecraft-beat-itself-after-nearly-two-billion-simulated-years": {
+      "title": "Minecraft Beat Itself After Nearly 2 Billion Simulated Years",
+      "url": "https://www.ign.com/articles/minecraft-beat-itself-after-nearly-two-billion-simulated-years",
+      "canonical": "ign.com/articles/minecraft-beat-itself-after-nearly-two-billion-simulated-years",
+      "published_dt": "2026-09-22T22:58:13+06:00",
+      "published_date": "2026-09-22T22:58:13+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Minecraft is no stranger to simulations, but it turns out that under the right conditions, the game can beat itself if given billions of years.",
+      "image": "https://assets-prd.ignimgs.com/2026/07/01/new-key-art-01-1782922658372.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.271151+06:00",
+      "last_seen": "2026-09-23T01:34:29.271155+06:00"
+    },
+    "ign.com/articles/msi-codex-z2-rtx-5070-ti-gaming-pc-deal-september-2026": {
+      "title": "The 4K-Ready MSI Codex Z2 GeForce RTX 5070 Ti Gaming PC Drops to $1,699 After a $600 Discount",
+      "url": "https://www.ign.com/articles/msi-codex-z2-rtx-5070-ti-gaming-pc-deal-september-2026",
+      "canonical": "ign.com/articles/msi-codex-z2-rtx-5070-ti-gaming-pc-deal-september-2026",
+      "published_dt": "2026-09-22T22:55:00+06:00",
+      "published_date": "2026-09-22T22:55:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "The GPU alone currently sells for $1,000 or more in today's market.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/22/msicodexz2-1790095505146.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.271267+06:00",
+      "last_seen": "2026-09-23T01:34:29.271271+06:00"
+    },
+    "ign.com/articles/scuf-its-time-to-win-sale-best-deals-on-gaming-controllers-for-ps5-xbox-pc": {
+      "title": "Save Up to 20% Off Tournament-Grade PS5, Xbox, and PC Controllers During SCUF's It's Time to Win Sale",
+      "url": "https://www.ign.com/articles/scuf-its-time-to-win-sale-best-deals-on-gaming-controllers-for-ps5-xbox-pc",
+      "canonical": "ign.com/articles/scuf-its-time-to-win-sale-best-deals-on-gaming-controllers-for-ps5-xbox-pc",
+      "published_dt": "2026-09-22T22:50:00+06:00",
+      "published_date": "2026-09-22T22:50:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Elite in form AND function.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/21/scufomega-1790033640917.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.271389+06:00",
+      "last_seen": "2026-09-23T01:34:29.271393+06:00"
+    },
+    "ign.com/articles/gigabyte-rtx-5070-ti-gaming-pc-deal-september-2026": {
+      "title": "The Gigabyte RTX 5070 Ti Gaming PC with 32GB of RAM and 2TB SSD Drops to $1,999",
+      "url": "https://www.ign.com/articles/gigabyte-rtx-5070-ti-gaming-pc-deal-september-2026",
+      "canonical": "ign.com/articles/gigabyte-rtx-5070-ti-gaming-pc-deal-september-2026",
+      "published_dt": "2026-09-22T22:50:00+06:00",
+      "published_date": "2026-09-22T22:50:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "A rare 4K-capable gaming rig for under $2,000.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/21/gigabyteaorusprime5-1790015180742.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-23T01:34:29.271509+06:00",
+      "last_seen": "2026-09-23T01:34:29.271512+06:00",
+      "posted_at": "2026-09-23T01:47:54.941384+06:00"
+    },
+    "ign.com/articles/msi-vector-rtx-5070-ti-gaming-laptop-deal-september-2026": {
+      "title": "The MSI Vector 16\" RTX 5070 Ti Gaming Laptop Drops to $1,399, Will Probably Beat Upcoming Prime Day Deals",
+      "url": "https://www.ign.com/articles/msi-vector-rtx-5070-ti-gaming-laptop-deal-september-2026",
+      "canonical": "ign.com/articles/msi-vector-rtx-5070-ti-gaming-laptop-deal-september-2026",
+      "published_dt": "2026-09-22T22:50:00+06:00",
+      "published_date": "2026-09-22T22:50:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "The best price I've seen for an RTX 5070 Ti equipped gaming laptop in 2026.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/21/msivector16-1790027127521.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.271620+06:00",
+      "last_seen": "2026-09-23T01:34:29.271624+06:00"
+    },
+    "ign.com/articles/why-best-buy-is-your-secret-weapon-for-getting-hold-of-the-pokemon-30th-celebration-tcg-set": {
+      "title": "How Best Buy Became a Hidden Haven for Authentic Pokémon TCG Drops at MSRP Prices With Anti-Scalper Queues",
+      "url": "https://www.ign.com/articles/why-best-buy-is-your-secret-weapon-for-getting-hold-of-the-pokemon-30th-celebration-tcg-set",
+      "canonical": "ign.com/articles/why-best-buy-is-your-secret-weapon-for-getting-hold-of-the-pokemon-30th-celebration-tcg-set",
+      "published_dt": "2026-09-22T22:39:24+06:00",
+      "published_date": "2026-09-22T22:39:24+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Looking for authentic Pokémon TCG cards? Best Buy offers a wide selection, MSRP pricing, and strong bot protection to beat the scalpers.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/07/pokemon-rare-sets-in-stock-at-amazon-1788778277926.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.271856+06:00",
+      "last_seen": "2026-09-23T01:34:29.271860+06:00"
+    },
+    "gamespot.com/articles/wow-forever-aspires-to-have-a-mandela-effect-on-players": {
+      "title": "WoW: Forever Aspires To Have A “Mandela Effect” On Players",
+      "url": "https://www.gamespot.com/articles/wow-forever-aspires-to-have-a-mandela-effect-on-players/",
+      "canonical": "gamespot.com/articles/wow-forever-aspires-to-have-a-mandela-effect-on-players",
+      "published_dt": "2026-09-23T00:53:02+06:00",
+      "published_date": "2026-09-23T00:53:02+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "World of Warcraft: Forever is reinventing the classic version of Azeroth with all kinds of new content, and if Blizzard does its job, players won't be able to tell the difference between what's old and what's new. Announced during BlizzCon 2026 , Forever introduces four new zones to Azeroth: the Riverglades, Mount Hjyal, Shen'dralas, and Zephras Isle. In an interview with GameSpot, WoW: Forever senior art director Jeff Parrott and senior game designer Josh Greenfield elaborated on how Blizzard approached developing these all-new zones so that they don't feel out of place in a 22-year old game, as well as how they tried to capture how players \"remember\" Azeroth looking. Parrott said the team spent a lot of time looking back at the original, \"vanilla\" version of WoW and trying to understand how zones were designed back in 2004 when the game first released. \"The team did a great job of just digging in there,\" Parrott said. \"Riverglades is a great example. I think that's a full new zone that we have, and really did a great job of leaning into that Vanilla-era kind of ethos for the design, the flow in the way everything kind of moves through the zone, the quests move you through the zone. It does feel extremely of that era, of that time. So it's really just understanding what we're aiming for and staying faithful to it.\" https://www.youtube.com/watch?v=buBZRiQXl8U He said the goal was for Forever's new zones to feel \"familiar, but new.\" \"It feels like going home,\" Parrott said. \"It feels like a place you've been before. Like, 'Did this exist?' You know, if a player asks, 'Did this exist in the game?' then I think we're in a good spot.\" Greenfield added, \"Yeah, the temporary Mandela Effect. It's like, 'I'm pretty sure this was there.' It's like, 'No, it wasn't.' 'I'm pretty sure it was.' It's great.\" WoW: Forever is adding major visual improvements to old Azeroth. Dramatic lighting upgrades and new water tech give zones a new look while still emphasizing their original fe",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-Mandela-Effect.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.509451+06:00",
+      "last_seen": "2026-09-23T01:34:29.509457+06:00"
+    },
+    "gamespot.com/articles/what-is-xbox-game-studios-at-this-point": {
+      "title": "What Is Xbox Game Studios At This Point?",
+      "url": "https://www.gamespot.com/articles/what-is-xbox-game-studios-at-this-point/",
+      "canonical": "gamespot.com/articles/what-is-xbox-game-studios-at-this-point",
+      "published_dt": "2026-09-23T00:04:36+06:00",
+      "published_date": "2026-09-23T00:04:36+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "The organizational structure of Xbox has long been complex and unwieldy, and that hasn't changed after the latest wave of changes and layoffs as part of Xbox's \"reset.\" But Microsoft's latest reshuffling of its studios and workforce does prompt the question of what the \"Xbox Game Studios\" brand even is now, with apparently only a few studios left under that banner. The Xbox division ( formerly named Microsoft Gaming ) consists of Xbox Game Studios, Bethesda parent company ZeniMax Media, and Activision Blizzard, but after some rearranging, Xbox Game Studios appears to only consist of the following companies: The Coalition (Gears of War) inXile Entertainment (Wasteland, Clockwork Revolution) Playground Games (Forza Horizon, Fable) Not included is Mojang, the Minecraft studio that Microsoft has been leaning heavily on -- that studio now reports directly to Xbox CEO Asha Sharma. Graphics like this official Xbox Game Studios image from 2019 have aged poorly. Former studios under the Xbox Game Studios brand include Rare and World's Edge, the developer of Age of Empires, but both now fall under Activision Blizzard. And while it's unclear if Halo Studios as an organization is now formally an Activision Blizzard entity, it's official that Activision is indeed making the next Halo game . Meanwhile, Xbox studio Obsidian Entertainment has jumped to Bethesda, and Turn 10 has merged with Playground Games. ZeniMax now has the following studios: Bethesda Game Studios id Software Obsidian Entertainment MachineGames ZeniMax Online Studios Save for King (which also reports directly to Sharma), a few Call of Duty support studios, and whichever team is making the next Halo game, the major teams at Activision Blizzard consist of: Beenox Blizzard Entertainment High Moon Studios Infinity Ward Raven Software Sledgehammer Games Rare Treyarch World's Edge Technically, all of these development teams are still Xbox studios, and Xbox will continue to publish games from partners, like OD and Phys",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/3928555-0594946278-39285.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.510987+06:00",
+      "last_seen": "2026-09-23T01:34:29.510993+06:00"
+    },
+    "gamespot.com/articles/xbox-layoffs-are-not-done-yet": {
+      "title": "Xbox Layoffs Are Not Done Yet",
+      "url": "https://www.gamespot.com/articles/xbox-layoffs-are-not-done-yet/",
+      "canonical": "gamespot.com/articles/xbox-layoffs-are-not-done-yet",
+      "published_dt": "2026-09-22T23:47:36+06:00",
+      "published_date": "2026-09-22T23:47:36+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Microsoft's \"reset\" of the Xbox business entered its next chapter this week with the announcement of 268 more layoffs, along with other drastic organizational and operational changes for the gaming giant. As part of the announcement, Xbox boss Matt Booty said this latest wave of restructuring, combined with the changes completed in July, brings the company up to \"roughly three-quarters of the way through\" the planned changes. In essence, he’s saying that the Xbox “reset” effort isn't over yet, so further layoffs and other changes are expected. Microsoft's \"reset\" of the Xbox business is not done yet. In July, Xbox announced that it was laying off 1,600 people immediately , with a further 1,600 layoffs to come during Microsoft's fiscal year 2027, which ends June 30, 2027. With 1,600 cuts in July and 268 more today, that leaves 1,332 still to come. Even if that math isn't totally accurate given how microsoft tallies things, it's definitely true that many more staff reductions are coming. According to comments from reporter Jason Schreier this month , layoffs at the Warcraft and Diablo company Blizzard are coming imminently. This would be just after Blizzard made a series of big announcements at BlizzCon . GameSpot has contacted Microsoft seeking comment on the accounting details for the cuts so far and what could come next. The latest wave of cuts at Xbox hit Halo Studios, other first-party game developers, and the Xbox Game Studios management and central functions teams. The impact at Halo Studios appears to be significant, as Booty confirmed that the next Halo game is being made at Activision,  not Halo Studios . Why is Microsoft doing this? Xbox CEO Asha Sharma, who took over the job from Phil Spencer just this year, said the Xbox business was in an unhealthy place and needed to be overhauled. She cited a number of reasons, including Microsoft's big bet on Game Pass simply not working out and the shift away from exclusives promoted by Spencer and Sarah Bond eating ",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/xboxreset-Large.jpeg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.512416+06:00",
+      "last_seen": "2026-09-23T01:34:29.512422+06:00"
+    },
+    "gamespot.com/articles/wow-forever-doesnt-let-shamans-or-warlocks-tank-but-that-could-change": {
+      "title": "WoW: Forever Doesn’t Let Shamans Or Warlocks Tank, But That Could Change",
+      "url": "https://www.gamespot.com/articles/wow-forever-doesnt-let-shamans-or-warlocks-tank-but-that-could-change/",
+      "canonical": "gamespot.com/articles/wow-forever-doesnt-let-shamans-or-warlocks-tank-but-that-could-change",
+      "published_dt": "2026-09-22T23:34:11+06:00",
+      "published_date": "2026-09-22T23:34:11+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "World of Warcraft: Forever is bringing big changes to the WoW Classic sandbox, but don't expect to see Shamans or Warlocks tanking, at least at launch. New roles for classes, like the above-mentioned tanks, as well as Rogue tank and Mage healer, were something Blizzard experimented with in WoW: Classic Season of Discovery. It certainly helped solve the game's tank shortage problem, with more classes than ever before able to taunt enemies and effectively hold aggro. In an interview with GameSpot, WoW: Forever senior game designer Josh Greenfield said that while the team learned many lessons with Season of Discovery and carried many of those forward into Forever, more \"out there\" changes like Warlock tank or Mage healer didn't make the jump. “I think in spirit, a lot of the lessons we learned are carried over, but some of the more out-there things that weren’t originally in original WoW, we tone them back a little bit,” Greenfield said. “Because it’s one of those things…It’s in the name: It’s Forever. We can do a lot of things over years, but we wanted to kind of start from a place where the soul of the class is very coded and original-WoW-centric. But there’s still meaningful changes and really exciting kinds of ways to play, the existing ways to play your class and new ways to play your class. But some of [those], like Warlock tank, Shaman tank, not quite yet, but never say never.\" https://www.youtube.com/watch?v=buBZRiQXl8U Currently in the WoW: Forever beta, the idea of a tank Shaman is much as it was in original WoW: something that is on the cusp of being viable, but is still held back by things like the lack of a true taunt and better damage mitigation. It wouldn't take too many changes for Shaman to become become a proper tank once again, though when or if that will actually happen is up in the air. Some Season of Discovery content that has made its way into Forever. It's been confirmed that certain pieces of the experimental season, like new class quests, the ",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-No-Shaman-Warlock-Tanks.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.513168+06:00",
+      "last_seen": "2026-09-23T01:34:29.513173+06:00"
+    },
+    "gamespot.com/videos/control-story-so-far": {
+      "title": "Control Story So Far",
+      "url": "https://www.gamespot.com/videos/control-story-so-far/",
+      "canonical": "gamespot.com/videos/control-story-so-far",
+      "published_dt": "2026-09-22T23:00:00+06:00",
+      "published_date": "2026-09-22T23:00:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "If you’re planning to jump into Control Resonant and want a refresher of the first game’s story, we’ve got you covered. Here is the story so far in Control. Get ready for a lot of proper nouns.",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Recap_Control_20260921V3.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.513371+06:00",
+      "last_seen": "2026-09-23T01:34:29.513376+06:00"
+    },
+    "gamespot.com/articles/pragmata-is-a-dad-game-dead-space-and-its-a-must-play-thats-now-cheaper-than-ever": {
+      "title": "Pragmata Is A Dad Game Dead Space, And It’s A Must-Play That’s Now Cheaper Than Ever",
+      "url": "https://www.gamespot.com/articles/pragmata-is-a-dad-game-dead-space-and-its-a-must-play-thats-now-cheaper-than-ever/",
+      "canonical": "gamespot.com/articles/pragmata-is-a-dad-game-dead-space-and-its-a-must-play-thats-now-cheaper-than-ever",
+      "published_dt": "2026-09-22T23:00:00+06:00",
+      "published_date": "2026-09-22T23:00:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Pragmata has a bit of a storied development history. It was delayed indefinitely, went missing from multiple showcases, before coming to life once again and eventually being released this year. The reveal was bizarre, the idea looked strange, and yet Capcom continues on an unstoppable roll, making hit after hit, and Pragmata was—thankfully—one of them. With a unique twist on the third-person shooter genre and an interesting take on the ‘dad game’ subgenre, Pragmata is one of my 2026 favorites, and right now, it’s cheaper than ever. In all honesty, I was always one of the Pragmata believers. Despite the utterly strange announcement trailer way back in 2020, it had something that drew me in. Years later, my hope for a new IP from Capcom wasn’t just ‘hopium’; it turned out to be faith, and I was right for believing in it. Pragmata, to put it shortly, is a banger. You play as Hugh, an engineer sent with a support team to investigate why communications between Earth and a mining outpost called The Cradle have suddenly stopped. After being knocked out by a moonquake and waking up to a strange android in the form of a little girl, whom Hugh calls Diana, it turns out that the AI has gone rogue. And not in the ChatGPT kind of way (at least, not yet), but more like a Skynet-style situation. Armed with a variety of guns that you’ll unlock throughout the game, Hugh’s weapons aren’t exactly a huge threat to the robots. In fact, they can sometimes feel like pea shooters. Fortunately, Diana has the ability to hack robots and make them vulnerable, so almost every battle becomes a game of strategy. Not only do you need to worry about being attacked, but you also have to complete a puzzle to hack enemies, with Pragmata dishing out more complex hacking routines as you continue. https://www.youtube.com/watch?v=zCQIA_AsTmw While it may seem quite tedious and cumbersome at first, it quickly becomes Pragmata’s defining feature. Without the hacking and the gimmicks it offers, Pragmata woul",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/fanatical-pragmata-deal-lowest-price.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.514077+06:00",
+      "last_seen": "2026-09-23T01:34:29.514083+06:00"
+    },
+    "videogameschronicle.com/guide/silent-hill-townfall-community-gardens-shed-combination-lock-puzzle-solution": {
+      "title": "Silent Hill Townfall: Community Gardens shed combination lock puzzle solution",
+      "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-community-gardens-shed-combination-lock-puzzle-solution/",
+      "canonical": "videogameschronicle.com/guide/silent-hill-townfall-community-gardens-shed-combination-lock-puzzle-solution",
+      "published_dt": "2026-09-23T00:32:50+06:00",
+      "published_date": "2026-09-23T00:32:50+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Find out the combination for the lock on the shed in Silent Hill Townfall",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.751667+06:00",
+      "last_seen": "2026-09-23T01:34:29.751672+06:00"
+    },
+    "videogameschronicle.com/guide/silent-hill-townfall-medical-clinic-scales-puzzle-solution": {
+      "title": "Silent Hill Townfall: Medical clinic scales puzzle solution",
+      "url": "https://www.videogameschronicle.com/guide/silent-hill-townfall-medical-clinic-scales-puzzle-solution/",
+      "canonical": "videogameschronicle.com/guide/silent-hill-townfall-medical-clinic-scales-puzzle-solution",
+      "published_dt": "2026-09-23T00:00:48+06:00",
+      "published_date": "2026-09-23T00:00:48+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "How to solve the scales puzzle in Zoe's office in Silent Hill Townfall",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:29.751827+06:00",
+      "last_seen": "2026-09-23T01:34:29.751832+06:00"
+    },
+    "gematsu.com/2026/09/middle-earth-shadow-bundle-announced-for-switch-2": {
+      "title": "Middle-earth: Shadow Bundle announced for Switch 2",
+      "url": "https://www.gematsu.com/2026/09/middle-earth-shadow-bundle-announced-for-switch-2",
+      "canonical": "gematsu.com/2026/09/middle-earth-shadow-bundle-announced-for-switch-2",
+      "published_dt": "2026-09-22T23:14:44+06:00",
+      "published_date": "2026-09-22T23:14:44+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Aspyr has announced Middle-earth: Shadow Bundle for Switch 2, which includes Middle-earth: Shadow of Mordor …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:30.666010+06:00",
+      "last_seen": "2026-09-23T01:34:30.666016+06:00"
+    },
+    "pcgamer.com/games/survival-crafting/before-i-starting-making-church-candles-from-dead-bodies-vs-after": {
+      "title": "Before I starting making church candles from dead bodies, vs after",
+      "url": "https://www.pcgamer.com/games/survival-crafting/before-i-starting-making-church-candles-from-dead-bodies-vs-after/",
+      "canonical": "pcgamer.com/games/survival-crafting/before-i-starting-making-church-candles-from-dead-bodies-vs-after",
+      "published_dt": "2026-09-23T01:24:37+06:00",
+      "published_date": "2026-09-23T01:24:37+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Graveyard Keeper 2 is out today and once again there's lots of grisly crafting to do.",
+      "image": "https://cdn.mos.cms.futurecdn.net/N2jk8o6ET4qdZMRkn26BoV-1920-80.gif",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:30.956575+06:00",
+      "last_seen": "2026-09-23T01:34:30.956581+06:00"
+    },
+    "pcgamer.com/games/grand-theft-auto/i-modded-crazy-taxi-into-grand-theft-auto-5": {
+      "title": "I modded Crazy Taxi into Grand Theft Auto 5",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-crazy-taxi-into-grand-theft-auto-5/",
+      "canonical": "pcgamer.com/games/grand-theft-auto/i-modded-crazy-taxi-into-grand-theft-auto-5",
+      "published_dt": "2026-09-22T23:00:00+06:00",
+      "published_date": "2026-09-22T23:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "It's time to make some crazy money.",
+      "image": "https://cdn.mos.cms.futurecdn.net/3McY9f5nXJeTmekKozwWNm-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:30.956718+06:00",
+      "last_seen": "2026-09-23T01:34:30.956723+06:00"
+    },
+    "polygon.com/pixars-best-movie-2010s-huge-moment": {
+      "title": "Pixar’s Best Movie of the 2010s Is Having a Huge Moment",
+      "url": "https://www.polygon.com/pixars-best-movie-2010s-huge-moment/",
+      "canonical": "polygon.com/pixars-best-movie-2010s-huge-moment",
+      "published_dt": "2026-09-23T01:30:20+06:00",
+      "published_date": "2026-09-23T01:30:20+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Coco is having a major resurgence with new Disney Lorcana cards, a Kingdom Hearts 4 world, a theme-park attraction, and an upcoming sequel.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdcoco_ec091.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:31.133535+06:00",
+      "last_seen": "2026-09-23T01:34:31.133541+06:00"
+    },
+    "polygon.com/lord-of-the-rings-one-ring-ttrpg-crowdfunding-campaign": {
+      "title": "New Lord of the Rings Release Soars to Success with $1M in Pre-orders",
+      "url": "https://www.polygon.com/lord-of-the-rings-one-ring-ttrpg-crowdfunding-campaign/",
+      "canonical": "polygon.com/lord-of-the-rings-one-ring-ttrpg-crowdfunding-campaign",
+      "published_dt": "2026-09-23T01:16:13+06:00",
+      "published_date": "2026-09-23T01:16:13+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The One Ring TTRPG is returning with updated core rules, new Middle-earth adventures, a bestiary, and solo play through its latest crowdfunding",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23223425/_MG_3468.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:31.133686+06:00",
+      "last_seen": "2026-09-23T01:34:31.133691+06:00"
+    },
+    "polygon.com/xbox-layoffs-studio-consolidation-xbox-game-studios": {
+      "title": "Xbox is Turning its Back on Xbox Game Studios",
+      "url": "https://www.polygon.com/xbox-layoffs-studio-consolidation-xbox-game-studios/",
+      "canonical": "polygon.com/xbox-layoffs-studio-consolidation-xbox-game-studios",
+      "published_dt": "2026-09-23T01:00:16+06:00",
+      "published_date": "2026-09-23T01:00:16+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "After moving Halo to Activision, Microsoft only has three studios left under Xbox's own publisher",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19742285/halo_infinite_blue_light_7680.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-23T01:34:31.133826+06:00",
+      "last_seen": "2026-09-23T01:34:31.133830+06:00",
+      "posted_at": "2026-09-23T01:47:29.106846+06:00"
+    },
+    "polygon.com/sony-spider-man-brand-new-day-director-destin-daniel-cretton-deal": {
+      "title": "Spider-Man: Brand New Day Director Teams Up With Sony for New Movies",
+      "url": "https://www.polygon.com/sony-spider-man-brand-new-day-director-destin-daniel-cretton-deal/",
+      "canonical": "polygon.com/sony-spider-man-brand-new-day-director-destin-daniel-cretton-deal",
+      "published_dt": "2026-09-23T00:58:15+06:00",
+      "published_date": "2026-09-23T00:58:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Destin Daniel Cretton enters a three-year deal with Sony following the historic success of Spider-Man:Brand New Day",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/spider-man-brand-new-day-tom-holland.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:31.133984+06:00",
+      "last_seen": "2026-09-23T01:34:31.133989+06:00"
+    },
+    "polygon.com/darkwing-duck-new-disney-plus-series": {
+      "title": "Disney Officially Bringing Back Darkwing Duck for New Series",
+      "url": "https://www.polygon.com/darkwing-duck-new-disney-plus-series/",
+      "canonical": "polygon.com/darkwing-duck-new-disney-plus-series",
+      "published_dt": "2026-09-23T00:46:17+06:00",
+      "published_date": "2026-09-23T00:46:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Disney is bringing back Darkwing Duck with a new series starring Mark Hamill, Seth Rogen and Lizzy Caplan.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/darkwingduck_2026_release_image_hd_updated_20260918-logo.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:31.134123+06:00",
+      "last_seen": "2026-09-23T01:34:31.134127+06:00"
+    },
+    "polygon.com/coyote-vs-acme-streaming-release-date": {
+      "title": "'Coyote vs. Acme' Officially Gets Streaming Release Date",
+      "url": "https://www.polygon.com/coyote-vs-acme-streaming-release-date/",
+      "canonical": "polygon.com/coyote-vs-acme-streaming-release-date",
+      "published_dt": "2026-09-22T23:53:28+06:00",
+      "published_date": "2026-09-22T23:53:28+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "After a successful theatrical run, 'Coyote vs. Acme' just got a digital streaming date.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screen-shot-2026-08-25-at-5-17-57-pm.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:31.134253+06:00",
+      "last_seen": "2026-09-23T01:34:31.134257+06:00"
+    },
+    "polygon.com/fire-emblem-fortunes-weave-lost-temple-cat-quest-walkthrough": {
+      "title": "'Lost Temple Cat' quest walkthrough in Fire Emblem Fortune's Weave",
+      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-lost-temple-cat-quest-walkthrough/",
+      "canonical": "polygon.com/fire-emblem-fortunes-weave-lost-temple-cat-quest-walkthrough",
+      "published_dt": "2026-09-22T23:40:06+06:00",
+      "published_date": "2026-09-22T23:40:06+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "If you're looking for the cat in Fire Emblem: Fortune's Weave \"Lost Temple Cat\" quest, here's where to find it.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fefw_guide_losttemplecat_lead.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:31.134383+06:00",
+      "last_seen": "2026-09-23T01:34:31.134387+06:00"
+    },
+    "polygon.com/well-dweller-steam-release": {
+      "title": "Steam Quietly Just Got 2026's Best Silksong Replacement",
+      "url": "https://www.polygon.com/well-dweller-steam-release/",
+      "canonical": "polygon.com/well-dweller-steam-release",
+      "published_dt": "2026-09-22T23:38:04+06:00",
+      "published_date": "2026-09-22T23:38:04+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Well Dweller is the latest Metroidvania from Kyle Thompson. You play as a bird armed with a matchstick in search of his missing family.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/well-dweller-exploration.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:31.134510+06:00",
+      "last_seen": "2026-09-23T01:34:31.134514+06:00"
+    },
+    "polygon.com/kingdom-hearts-union-x-dark-road-fan-port-disney-rpg": {
+      "title": "Unplayable Kingdom Hearts Game Officially Getting an Unexpected Revival",
+      "url": "https://www.polygon.com/kingdom-hearts-union-x-dark-road-fan-port-disney-rpg/",
+      "canonical": "polygon.com/kingdom-hearts-union-x-dark-road-fan-port-disney-rpg",
+      "published_dt": "2026-09-22T23:29:38+06:00",
+      "published_date": "2026-09-22T23:29:38+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Ahead of Kingdom Hearts 4, a fan is making the defunct Union X mobile game playable again",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/sora-kingdom-hearts.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:31.134639+06:00",
+      "last_seen": "2026-09-23T01:34:31.134643+06:00"
+    },
+    "polygon.com/fire-emblem-fortunes-weave-where-to-find-dates-cai-farming": {
+      "title": "Where to find dates in Fire Emblem Fortune's Weave",
+      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-where-to-find-dates-cai-farming/",
+      "canonical": "polygon.com/fire-emblem-fortunes-weave-where-to-find-dates-cai-farming",
+      "published_dt": "2026-09-22T23:16:48+06:00",
+      "published_date": "2026-09-22T23:16:48+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Finding dates in Fire Emblem Fortune's Weave means a trek into the desert or, if you're playing as Cai, a bit of luck and a lot of veggie crates",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-dates.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:31.134765+06:00",
+      "last_seen": "2026-09-23T01:34:31.134769+06:00"
+    },
+    "kotaku.com/halo-developer-gets-promoted-and-laid-off-in-the-same-week-2000736533": {
+      "title": "Halo Developer Gets Promoted And Laid Off In The Same Week",
+      "url": "https://kotaku.com/halo-developer-gets-promoted-and-laid-off-in-the-same-week-2000736533",
+      "canonical": "kotaku.com/halo-developer-gets-promoted-and-laid-off-in-the-same-week-2000736533",
+      "published_dt": "2026-09-23T01:30:18+06:00",
+      "published_date": "2026-09-23T01:30:18+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Xbox laid off many devs at Halo Studios as the Halo franchise moves under Activision",
+      "image": "https://kotaku.com/app/uploads/2024/03/b06d28f7a83d68c92fc1c0c49c9cd2f3-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-23T01:34:31.345888+06:00",
+      "last_seen": "2026-09-23T01:34:31.345901+06:00",
+      "posted_at": "2026-09-23T01:47:34.486912+06:00"
+    },
+    "kotaku.com/star-wars-zero-company-estimated-to-have-reached-1-million-sales-amid-staff-furloughs-2000736532": {
+      "title": "Star Wars Zero Company Estimated To Have Reached 1 Million Sales Amid Staff Furloughs",
+      "url": "https://kotaku.com/star-wars-zero-company-estimated-to-have-reached-1-million-sales-amid-staff-furloughs-2000736532",
+      "canonical": "kotaku.com/star-wars-zero-company-estimated-to-have-reached-1-million-sales-amid-staff-furloughs-2000736532",
+      "published_dt": "2026-09-23T01:00:32+06:00",
+      "published_date": "2026-09-23T01:00:32+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "The XCOM -like is reportedly selling well for the debut project from a new studio",
+      "image": "https://kotaku.com/app/uploads/2026/09/Star-Wars-Zero-Company.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:31.346115+06:00",
+      "last_seen": "2026-09-23T01:34:31.346120+06:00"
+    },
+    "kotaku.com/gears-of-war-e-day-story-director-laid-off-just-four-days-after-celebrating-the-game-going-gold-2000736518": {
+      "title": "Gears of War: E-Day Story Director Laid Off Just Four Days After Celebrating The Game Going Gold",
+      "url": "https://kotaku.com/gears-of-war-e-day-story-director-laid-off-just-four-days-after-celebrating-the-game-going-gold-2000736518",
+      "canonical": "kotaku.com/gears-of-war-e-day-story-director-laid-off-just-four-days-after-celebrating-the-game-going-gold-2000736518",
+      "published_dt": "2026-09-23T00:15:46+06:00",
+      "published_date": "2026-09-23T00:15:46+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "The Gears dev had been at the Coalition since 2022 and was excited for people to play the game",
+      "image": "https://kotaku.com/app/uploads/2026/09/gears-of-war-1280x706.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-23T01:34:31.346264+06:00",
+      "last_seen": "2026-09-23T01:34:31.346268+06:00",
+      "posted_at": "2026-09-23T01:48:09.695473+06:00"
+    },
+    "kotaku.com/xbox-game-studios-looks-like-its-about-to-disappear-completely-2000736477": {
+      "title": "Xbox Game Studios Is Quickly Disappearing",
+      "url": "https://kotaku.com/xbox-game-studios-looks-like-its-about-to-disappear-completely-2000736477",
+      "canonical": "kotaku.com/xbox-game-studios-looks-like-its-about-to-disappear-completely-2000736477",
+      "published_dt": "2026-09-22T23:45:02+06:00",
+      "published_date": "2026-09-22T23:45:02+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "It used to be over a dozen teams and now it's less than five",
+      "image": "https://kotaku.com/app/uploads/2026/06/xbox-green.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:31.346401+06:00",
+      "last_seen": "2026-09-23T01:34:31.346405+06:00"
+    },
+    "kotaku.com/middle-earth-shadow-of-mordor-shadow-of-war-switch-2-2000736508": {
+      "title": "The War Is Over: Middle-Earth: Shadow Of Mordor And Shadow Of War Finally Coming To Switch 2 Next Week",
+      "url": "https://kotaku.com/middle-earth-shadow-of-mordor-shadow-of-war-switch-2-2000736508",
+      "canonical": "kotaku.com/middle-earth-shadow-of-mordor-shadow-of-war-switch-2-2000736508",
+      "published_dt": "2026-09-22T23:17:19+06:00",
+      "published_date": "2026-09-22T23:17:19+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Both versions come with all their extra DLC content, and there's a bundle available too",
+      "image": "https://kotaku.com/app/uploads/2026/09/modrdorrororo-switch-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:31.346541+06:00",
+      "last_seen": "2026-09-23T01:34:31.346545+06:00"
+    },
+    "kotaku.com/internet-reacts-xbox-layoffs-halo-activision-physint-hideo-kojima-2000736479": {
+      "title": "The Internet Reacts To Even More Xbox Layoffs And Studio Shakeups: ‘I Loathe Those Responsible’",
+      "url": "https://kotaku.com/internet-reacts-xbox-layoffs-halo-activision-physint-hideo-kojima-2000736479",
+      "canonical": "kotaku.com/internet-reacts-xbox-layoffs-halo-activision-physint-hideo-kojima-2000736479",
+      "published_dt": "2026-09-22T22:50:25+06:00",
+      "published_date": "2026-09-22T22:50:25+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "'The next time you see Banjo Kazooie will be in heaven'",
+      "image": "https://kotaku.com/app/uploads/2026/09/haloreach-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:31.346673+06:00",
+      "last_seen": "2026-09-23T01:34:31.346677+06:00"
+    },
+    "gamesradar.com/games/after-palworld-and-valheim-more-than-half-of-steams-top-10-best-rated-2026-releases-are-early-access-survivors-that-finally-went-1-0": {
+      "title": "More than half of Steam's top 10 best-rated 2026 releases are early access graduates",
+      "url": "https://www.gamesradar.com/games/after-palworld-and-valheim-more-than-half-of-steams-top-10-best-rated-2026-releases-are-early-access-survivors-that-finally-went-1-0/",
+      "canonical": "gamesradar.com/games/after-palworld-and-valheim-more-than-half-of-steams-top-10-best-rated-2026-releases-are-early-access-survivors-that-finally-went-1-0",
+      "published_dt": "2026-09-23T01:23:01+06:00",
+      "published_date": "2026-09-23T01:23:01+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Early access graduates are dominating the Steam reviews",
+      "image": "https://cdn.mos.cms.futurecdn.net/a7n67yWZwjtprn9k986z8V-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-23T01:34:31.748489+06:00",
+      "last_seen": "2026-09-23T01:34:31.748496+06:00",
+      "posted_at": "2026-09-23T01:48:14.557803+06:00"
+    },
+    "gamesradar.com/games/halo/after-microsofts-latest-bloodbath-former-blizzard-president-mike-ybarra-offers-props-to-xbox-for-dismantling-halo-studios-the-best-decision-to-reset-halo": {
+      "title": "After Microsoft's latest bloodbath, former Blizzard president Mike Ybarra offers \"props to Xbox\"",
+      "url": "https://www.gamesradar.com/games/halo/after-microsofts-latest-bloodbath-former-blizzard-president-mike-ybarra-offers-props-to-xbox-for-dismantling-halo-studios-the-best-decision-to-reset-halo/",
+      "canonical": "gamesradar.com/games/halo/after-microsofts-latest-bloodbath-former-blizzard-president-mike-ybarra-offers-props-to-xbox-for-dismantling-halo-studios-the-best-decision-to-reset-halo",
+      "published_dt": "2026-09-23T00:08:54+06:00",
+      "published_date": "2026-09-23T00:08:54+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"The best news in a decade plus,\" Ybarra says of Halo",
+      "image": "https://cdn.mos.cms.futurecdn.net/6CducqEqTVMxbjY7R4jKgR-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:31.748630+06:00",
+      "last_seen": "2026-09-23T01:34:31.748634+06:00"
+    },
+    "gamesradar.com/games/halo/halo-studios-didnt-have-the-chance-to-launch-even-one-original-title-before-xbox-decided-to-let-call-of-duty-publisher-activision-try-instead": {
+      "title": "Halo Studios didn't get to launch even one original title before Xbox decided to let Activision try",
+      "url": "https://www.gamesradar.com/games/halo/halo-studios-didnt-have-the-chance-to-launch-even-one-original-title-before-xbox-decided-to-let-call-of-duty-publisher-activision-try-instead/",
+      "canonical": "gamesradar.com/games/halo/halo-studios-didnt-have-the-chance-to-launch-even-one-original-title-before-xbox-decided-to-let-call-of-duty-publisher-activision-try-instead",
+      "published_dt": "2026-09-22T23:56:20+06:00",
+      "published_date": "2026-09-22T23:56:20+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "It got Halo: Campaign Evolved, and that's it",
+      "image": "https://cdn.mos.cms.futurecdn.net/HG9dzc6etWG6qqJ8Crh2pV-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:31.748765+06:00",
+      "last_seen": "2026-09-23T01:34:31.748769+06:00"
+    },
+    "gamesradar.com/toys-collectibles/lego-dragon-ball-set-officially-teased-and-clues-suggest-it-could-feature-shenron": {
+      "title": "Lego Dragon Ball set officially teased, and clues suggest it could feature Shenron",
+      "url": "https://www.gamesradar.com/toys-collectibles/lego-dragon-ball-set-officially-teased-and-clues-suggest-it-could-feature-shenron/",
+      "canonical": "gamesradar.com/toys-collectibles/lego-dragon-ball-set-officially-teased-and-clues-suggest-it-could-feature-shenron",
+      "published_dt": "2026-09-22T22:55:17+06:00",
+      "published_date": "2026-09-22T22:55:17+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Lego has officially announced a Dragon Ball set after months of rumors, but we'll have to wait a little longer to see what it is",
+      "image": "https://cdn.mos.cms.futurecdn.net/nooeqfugBXNa34PqF6ADhF-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:31.748892+06:00",
+      "last_seen": "2026-09-23T01:34:31.748896+06:00"
+    },
+    "gamesradar.com/toys-collectibles/adidas-just-dropped-an-entire-pokemon-collection-hitting-everyone-from-pikachu-to-charmander": {
+      "title": "Adidas just dropped an entire Pokémon collection hitting everyone from Pikachu to Charmander",
+      "url": "https://www.gamesradar.com/toys-collectibles/adidas-just-dropped-an-entire-pokemon-collection-hitting-everyone-from-pikachu-to-charmander/",
+      "canonical": "gamesradar.com/toys-collectibles/adidas-just-dropped-an-entire-pokemon-collection-hitting-everyone-from-pikachu-to-charmander",
+      "published_dt": "2026-09-22T22:42:32+06:00",
+      "published_date": "2026-09-22T22:42:32+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Adidas just launched its official Pokémon sneaker collection, but stock might move fast on these Superstars.",
+      "image": "https://cdn.mos.cms.futurecdn.net/WoRzzZ8wRJpe5SjyW6EUmR-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:31.749049+06:00",
+      "last_seen": "2026-09-23T01:34:31.749053+06:00"
+    },
+    "gamesradar.com/games/action/stellar-blade-devs-only-had-enough-money-to-survive-for-about-3-months-at-one-point-ceo-says-several-major-publishers-rejected-them-before-sony": {
+      "title": "Stellar Blade devs only had enough money to survive \"for about 3 months\" at one point",
+      "url": "https://www.gamesradar.com/games/action/stellar-blade-devs-only-had-enough-money-to-survive-for-about-3-months-at-one-point-ceo-says-several-major-publishers-rejected-them-before-sony/",
+      "canonical": "gamesradar.com/games/action/stellar-blade-devs-only-had-enough-money-to-survive-for-about-3-months-at-one-point-ceo-says-several-major-publishers-rejected-them-before-sony",
+      "published_dt": "2026-09-22T22:36:52+06:00",
+      "published_date": "2026-09-22T22:36:52+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The action series almost died before it even started",
+      "image": "https://cdn.mos.cms.futurecdn.net/uY7vzkMceiNzTdGWbA5bxZ-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-23T01:34:31.749176+06:00",
+      "last_seen": "2026-09-23T01:34:31.749180+06:00",
+      "posted_at": "2026-09-23T01:48:04.730585+06:00"
+    },
+    "rockpapershotgun.com/packed-lair-out-today-is-a-tetris-adjacent-base-builder-about-cramming-as-much-as-you-can-into-a-tiny-evil-lair-to-aid-your-army-in-conquering-the-world": {
+      "title": "Packed Lair, out today, is a Tetris-adjacent base builder about cramming as much as you can into a tiny evil lair to aid your army in conquering the world",
+      "url": "https://www.rockpapershotgun.com/packed-lair-out-today-is-a-tetris-adjacent-base-builder-about-cramming-as-much-as-you-can-into-a-tiny-evil-lair-to-aid-your-army-in-conquering-the-world",
+      "canonical": "rockpapershotgun.com/packed-lair-out-today-is-a-tetris-adjacent-base-builder-about-cramming-as-much-as-you-can-into-a-tiny-evil-lair-to-aid-your-army-in-conquering-the-world",
+      "published_dt": "2026-09-23T00:49:01+06:00",
+      "published_date": "2026-09-23T00:49:01+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "Real estate these days! No matter where you look, there's never enough space any more. I imagine this was the impetus for designing Packed Lair, a dungeony fusion of base building, auto battling, roguelikes and Tetris where you play as an evil lord who is trying to cram an entire empire into an incredibly cramped lair that's out today. Read more",
+      "image": "https://assetsio.gnwcdn.com/packed-lair.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:32.000259+06:00",
+      "last_seen": "2026-09-23T01:34:32.000265+06:00"
+    },
+    "rockpapershotgun.com/love-em-or-hate-em-if-it-werent-for-the-sonic-the-hedgehog-films-the-blue-blur-might-have-been-canned-entirely-so-says-series-boss-takashi-iizuka": {
+      "title": "Love 'em or hate 'em, if it weren't for the Sonic the Hedgehog films, the blue blur might have been canned entirely, so says series boss Takashi Iizuka",
+      "url": "https://www.rockpapershotgun.com/love-em-or-hate-em-if-it-werent-for-the-sonic-the-hedgehog-films-the-blue-blur-might-have-been-canned-entirely-so-says-series-boss-takashi-iizuka",
+      "canonical": "rockpapershotgun.com/love-em-or-hate-em-if-it-werent-for-the-sonic-the-hedgehog-films-the-blue-blur-might-have-been-canned-entirely-so-says-series-boss-takashi-iizuka",
+      "published_dt": "2026-09-22T23:15:10+06:00",
+      "published_date": "2026-09-22T23:15:10+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "I like Sonic. He charms me! But that doesn't mean I'm a fool. I know there are very few of his games that could actually be called \"good,\" whatever that word might mean, I just don't care. Except making not good games, and having a reputation for doing so, will obviously result in waning returns financially. So it isn't a surprise to hear from Sonic boss Takashi Iizuka that, once upon a time, the entire series was at risk of cancellation. Which is where those of you that like the games but hate the movies need to say some thank yous. Read more",
+      "image": "https://assetsio.gnwcdn.com/sonic-the-hedgehog-movie_tMaAoCj.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:32.000535+06:00",
+      "last_seen": "2026-09-23T01:34:32.000540+06:00"
+    },
+    "rockpapershotgun.com/prebuilt-steam-machine-faceplate-screens-are-here-delivering-decent-surprisingly-cheaper-alternatives-to-valve-approved-diy-builds": {
+      "title": "Prebuilt Steam Machine faceplate screens are here, delivering decent, surprisingly cheaper alternatives to Valve-approved DIY builds",
+      "url": "https://www.rockpapershotgun.com/prebuilt-steam-machine-faceplate-screens-are-here-delivering-decent-surprisingly-cheaper-alternatives-to-valve-approved-diy-builds",
+      "canonical": "rockpapershotgun.com/prebuilt-steam-machine-faceplate-screens-are-here-delivering-decent-surprisingly-cheaper-alternatives-to-valve-approved-diy-builds",
+      "published_dt": "2026-09-22T23:03:16+06:00",
+      "published_date": "2026-09-22T23:03:16+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "If you own a Steam Machine , and still cling to the misconception that my budget faceplate ideas aren’t good enough for you, you basically have three options for front panel customisation. The first is to grab something off Etsy or suchlike. The second is take advantage of Valve’s open-source Inkterface project to build yourself an E-Ink display, onto which you can electronically daub performance monitoring info. The third is to end up with more or less the same panel as option two, but have someone else make it for you. That’s what arch accessory makers JSAUX are proposing with their Steam Machine E-Ink and Pixel Matrix faceplates , which go on sale today after a few weeks of preening around the case mod scene. I’ve been using both on my Machine at home, and they’re quite good fun. The E-Ink faceplate, for which I sense the greater internet buzz, is a crisp, tidy little black-and-white panel, while the PixelMatrix trades detail density for colour and retro charm. Both have a few different display modes, switchable in SteamOS’s quick settings menu (via some clever integration with the Decky Loader plugin tool), and while I had to set this up manually, JSAUX say the requisite software will be downloadable via Steam itself from early October. Truly, it’s all the results of a DIY mod and more, conveniently pre-prepared for people who don’t own soldering irons. Read more",
+      "image": "https://assetsio.gnwcdn.com/JSAUX-Steam-Machine-panels.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:32.001154+06:00",
+      "last_seen": "2026-09-23T01:34:32.001160+06:00"
+    },
+    "insider-gaming.com/lol-26-19-patch-notes-before-worlds-2026": {
+      "title": "LoL 26.19 Patch Notes: Big Buffs and Nerfs Before Worlds 2026",
+      "url": "https://insider-gaming.com/lol-26-19-patch-notes-before-worlds-2026/",
+      "canonical": "insider-gaming.com/lol-26-19-patch-notes-before-worlds-2026",
+      "published_dt": "2026-09-23T01:31:16+06:00",
+      "published_date": "2026-09-23T01:31:16+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Riot Games has released the patch notes for LoL Patch 26.19 with significant balance changes with LoL Worlds 2026 in mind The post LoL 26.19 Patch Notes: Big Buffs and Nerfs Before Worlds 2026 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:32.492734+06:00",
+      "last_seen": "2026-09-23T01:34:32.492740+06:00"
+    },
+    "insider-gaming.com/studios-affected-latest-xbox-layoffs": {
+      "title": "What Studios Were Affected by the Latest Xbox Layoffs?",
+      "url": "https://insider-gaming.com/studios-affected-latest-xbox-layoffs/",
+      "canonical": "insider-gaming.com/studios-affected-latest-xbox-layoffs",
+      "published_dt": "2026-09-23T01:22:10+06:00",
+      "published_date": "2026-09-23T01:22:10+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Xbox continued with layoffs on Tuesday, but which studios were affected by the latest round of job cuts as the company \"resets\" The post What Studios Were Affected by the Latest Xbox Layoffs? appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-23T01:34:32.493033+06:00",
+      "last_seen": "2026-09-23T01:34:32.493038+06:00",
+      "posted_at": "2026-09-23T01:47:23.872497+06:00"
+    },
+    "insider-gaming.com/heartsteel-live-my-life-league-of-legends-skins-revealed": {
+      "title": "HEARTSTEEL ‘Live My Life’ League of Legends Skins Revealed",
+      "url": "https://insider-gaming.com/heartsteel-live-my-life-league-of-legends-skins-revealed/",
+      "canonical": "insider-gaming.com/heartsteel-live-my-life-league-of-legends-skins-revealed",
+      "published_dt": "2026-09-23T00:57:00+06:00",
+      "published_date": "2026-09-23T00:57:00+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Riot Games has revealed new 'Live My Life' HEARTSEEL skins for Aphelios, Ezreal, Kayn, K'Sante, Sett, and Yone in League of Legends The post HEARTSTEEL ‘Live My Life’ League of Legends Skins Revealed appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:32.493316+06:00",
+      "last_seen": "2026-09-23T01:34:32.493320+06:00"
+    },
+    "insider-gaming.com/new-vegas-online-trailer-classic-fallout-mmo": {
+      "title": "New Vegas: Online Trailer Shows Classic Fallout Title As An MMO",
+      "url": "https://insider-gaming.com/new-vegas-online-trailer-classic-fallout-mmo/",
+      "canonical": "insider-gaming.com/new-vegas-online-trailer-classic-fallout-mmo",
+      "published_dt": "2026-09-23T00:22:29+06:00",
+      "published_date": "2026-09-23T00:22:29+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Fall-Net has unveiled a trailer for New Vegas: Online, a project designed to bring an MMO vibe to the Mojave Wasteland. The post New Vegas: Online Trailer Shows Classic Fallout Title As An MMO appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-23T01:34:32.493573+06:00",
+      "last_seen": "2026-09-23T01:34:32.493577+06:00",
+      "posted_at": "2026-09-23T01:47:39.545976+06:00"
+    },
+    "insider-gaming.com/vice-city-trademark-abandoned-wwe": {
+      "title": "“Vice City” Trademark Abandoned By WWE",
+      "url": "https://insider-gaming.com/vice-city-trademark-abandoned-wwe/",
+      "canonical": "insider-gaming.com/vice-city-trademark-abandoned-wwe",
+      "published_dt": "2026-09-23T00:02:12+06:00",
+      "published_date": "2026-09-23T00:02:12+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "WWE has given up its quest to trademark \"Vice City\", leading to speculation about why they abandoned the request. The post “Vice City” Trademark Abandoned By WWE appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:32.493838+06:00",
+      "last_seen": "2026-09-23T01:34:32.493842+06:00"
+    },
+    "nintendolife.com/news/2026/09/want-more-lord-of-the-rings-on-switch-2-cool-two-ports-are-launching-next-week": {
+      "title": "Want More Lord Of The Rings On Switch 2? Cool, Two Ports Are Launching Next Week",
+      "url": "https://www.nintendolife.com/news/2026/09/want-more-lord-of-the-rings-on-switch-2-cool-two-ports-are-launching-next-week",
+      "canonical": "nintendolife.com/news/2026/09/want-more-lord-of-the-rings-on-switch-2-cool-two-ports-are-launching-next-week",
+      "published_dt": "2026-09-23T00:00:00+06:00",
+      "published_date": "2026-09-23T00:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "In the land of Mordor, where the Switch games lie. Aspyr is back with not one, but two new Switch 2 ports from the Lord of the Rings franchise. Launching on 30th September 2026 , Middle Earth: Shadow of Mordor Game of the Year Edition and Middle Earth: Shadow of War Definitive Edition will be available individually or as part of the Middle-Earth: Shadow Bundle . Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/72d0115041418/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:32.886615+06:00",
+      "last_seen": "2026-09-23T01:34:32.886620+06:00"
+    },
+    "nintendolife.com/reviews/nintendo-switch-2/lego-batman-legacy-of-the-dark-knight": {
+      "title": "Review: LEGO Batman: Legacy Of The Dark Knight (Switch 2) - Open-World Gotham Still Thrills In A Solid Port",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/lego-batman-legacy-of-the-dark-knight",
+      "canonical": "nintendolife.com/reviews/nintendo-switch-2/lego-batman-legacy-of-the-dark-knight",
+      "published_dt": "2026-09-22T23:00:00+06:00",
+      "published_date": "2026-09-22T23:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Bane teaser. Ever since I wrapped up LEGO Star Wars: The Skywalker Saga , I have been waiting to see what franchise TT Games would turn to next. The brick-built blockbuster from a galaxy far, far away felt like the series' most meaningful regeneration since the dev decided to fold multiple films into one release in The Original Trilogy , and I wanted more. LEGO Batman: Legacy of the Dark Knight is more, but it's also something different. This is a far cry from the Marvel Super Heroes , Incredibles , or whatever Jurassic Park/World tie-in we've had of late, but it's also not quite as ambitious an undertaking as The Skywalker Saga. It's very slick, very funny, and royally good to play, even if it doesn't feel wholly revolutionary in the process. The Caped Crusader's journey to Switch 2 has felt like a long one, but I can rest easy knowing that it's every bit as charming on the hybrid as it was on other systems back in May. The Bat is well and truly back. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/77000ac1c57bd/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:32.887199+06:00",
+      "last_seen": "2026-09-23T01:34:32.887205+06:00"
+    },
+    "pushsquare.com/news/2026/09/ps-plus-discount-for-one-of-ps5s-best-new-indie-games": {
+      "title": "PS Plus Discount for One of PS5's Best New Indie Games",
+      "url": "https://www.pushsquare.com/news/2026/09/ps-plus-discount-for-one-of-ps5s-best-new-indie-games",
+      "canonical": "pushsquare.com/news/2026/09/ps-plus-discount-for-one-of-ps5s-best-new-indie-games",
+      "published_dt": "2026-09-23T00:15:00+06:00",
+      "published_date": "2026-09-23T00:15:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Well Dweller opens to 90+ critic reviews. What if I told you a new PS5 game with a Metacritic rating of 91 and an Opencritic score of 90 is coming out today? Silent Hill: Townfall and Control Resonant are not officially releasing until Thursday, so what could it be? Well Dweller is that game, a Metroidvania experience from single developer Kyle Thompson. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/df8d61e3a15e3/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:33.225365+06:00",
+      "last_seen": "2026-09-23T01:34:33.225370+06:00"
+    },
+    "pushsquare.com/news/2026/09/state-of-decay-dev-survives-xbox-layoffs-goes-independent-as-third-game-targets-ps5": {
+      "title": "State of Decay Dev Survives Xbox Layoffs, Goes Independent as Third Game Targets PS5",
+      "url": "https://www.pushsquare.com/news/2026/09/state-of-decay-dev-survives-xbox-layoffs-goes-independent-as-third-game-targets-ps5",
+      "canonical": "pushsquare.com/news/2026/09/state-of-decay-dev-survives-xbox-layoffs-goes-independent-as-third-game-targets-ps5",
+      "published_dt": "2026-09-22T23:30:00+06:00",
+      "published_date": "2026-09-22T23:30:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "The state of things. Undead Labs, the Seattle-based developer behind the State of Decay games, has survived the latest round of Xbox layoffs . However, the studio has reiterated that it'll no longer operate under the Xbox umbrella; it's now an independent outfit. This direction of travel was previously confirmed a few months back , when the developer said that it was \"transitioning out of Xbox\". Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/caf89678da135/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-23T01:34:33.225774+06:00",
+      "last_seen": "2026-09-23T01:34:33.225779+06:00",
+      "posted_at": "2026-09-23T01:47:44.416278+06:00"
+    },
+    "purexbox.com/news/2026/09/heres-your-first-look-at-dune-awakening-on-xbox-series-x-and-series-s": {
+      "title": "Here's Your First Look At Dune: Awakening On Xbox Series X And Series S",
+      "url": "https://www.purexbox.com/news/2026/09/heres-your-first-look-at-dune-awakening-on-xbox-series-x-and-series-s",
+      "canonical": "purexbox.com/news/2026/09/heres-your-first-look-at-dune-awakening-on-xbox-series-x-and-series-s",
+      "published_dt": "2026-09-23T00:30:00+06:00",
+      "published_date": "2026-09-23T00:30:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "It's out now on Xbox Game Pass. Amidst everything going on in the world of Xbox today, we've got a highly-anticipated new Game Pass title dropping on the service in the form of Dune: Awakening , which is now available for Ultimate, PC and Premium members. Therefore, we thought we'd bring you some raw gameplay footage of both the Xbox Series X and Xbox Series S versions courtesy of Fuzion Xbox Testing , showing off how the game looks across both systems. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/2f8c167572abd/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:33.502566+06:00",
+      "last_seen": "2026-09-23T01:34:33.502572+06:00"
+    },
+    "purexbox.com/news/2026/09/arkane-studios-future-with-xbox-remains-a-total-mystery": {
+      "title": "Arkane Studios' Future With Xbox Remains A Total Mystery",
+      "url": "https://www.purexbox.com/news/2026/09/arkane-studios-future-with-xbox-remains-a-total-mystery",
+      "canonical": "purexbox.com/news/2026/09/arkane-studios-future-with-xbox-remains-a-total-mystery",
+      "published_dt": "2026-09-22T23:00:00+06:00",
+      "published_date": "2026-09-22T23:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Will Marvel's Blade ever see the light of day? Xbox has revealed its next steps in the company's continued reset, but it's still uncertain what the future holds for Marvel's Blade developer Arkane Studios. In a company-wide message, Xbox CCO Matt Booty detailed the next wave of layoffs, the future of Halo, Forza and Fable, as well as restructuring Activision, Bethesda and King. He also hinted that we'll have to wait a little longer for any news on the state of Arkane. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/2323f06f50902/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-23T01:34:33.502866+06:00",
+      "last_seen": "2026-09-23T01:34:33.502870+06:00",
+      "posted_at": "2026-09-23T01:47:49.620486+06:00"
+    },
+    "siliconera.com/legend-of-zelda-historical-charms-reference-12-games": {
+      "title": "Legend of Zelda Historical Charms Reference 12 Games",
+      "url": "https://www.siliconera.com/legend-of-zelda-historical-charms-reference-12-games/",
+      "canonical": "siliconera.com/legend-of-zelda-historical-charms-reference-12-games",
+      "published_dt": "2026-09-23T01:00:00+06:00",
+      "published_date": "2026-09-23T01:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "The updated The Legend of Zelda Historical Charms+ collection features Triforce accessories that reference games.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:33.924908+06:00",
+      "last_seen": "2026-09-23T01:34:33.924913+06:00"
+    },
+    "siliconera.com/ffvii-revelation-demo-could-appear-at-more-events-after-tgs": {
+      "title": "FFVII Revelation Demo Could Appear at More Events After TGS",
+      "url": "https://www.siliconera.com/ffvii-revelation-demo-could-appear-at-more-events-after-tgs/",
+      "canonical": "siliconera.com/ffvii-revelation-demo-could-appear-at-more-events-after-tgs",
+      "published_dt": "2026-09-23T00:00:00+06:00",
+      "published_date": "2026-09-23T00:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "After being playable at TGS 2026, Square Enix may bring the FFVII Revelation demo to other events.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:33.925068+06:00",
+      "last_seen": "2026-09-23T01:34:33.925072+06:00"
+    },
+    "siliconera.com/new-game-nendoroid-dolls-come-from-danganronpa-and-doki-doki-literature-club": {
+      "title": "New Game Nendoroid Dolls Come From Danganronpa and Doki Doki Literature Club",
+      "url": "https://www.siliconera.com/new-game-nendoroid-dolls-come-from-danganronpa-and-doki-doki-literature-club/",
+      "canonical": "siliconera.com/new-game-nendoroid-dolls-come-from-danganronpa-and-doki-doki-literature-club",
+      "published_dt": "2026-09-22T23:00:00+06:00",
+      "published_date": "2026-09-22T23:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "The new game Nendoroid Dolls are figures of Danganronpa, Doki Doki Literature Club, and Needy Streamer Overdose characters.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T01:34:33.925190+06:00",
+      "last_seen": "2026-09-23T01:34:33.925194+06:00"
     }
   },
   "events": {
@@ -21187,6 +22222,544 @@
           "headline": "New Your Friendly Neighborhood Spider‑Man Comic Bridges Gap to Season 2",
           "claims": [
             "Explosive new Spider-Man spinoff will bridge the gap after finale"
+          ]
+        }
+      ]
+    },
+    "evt_bf9c7f52a1b3ed": {
+      "event_id": "evt_bf9c7f52a1b3ed",
+      "event_key": "xbox layoffs studio list 2026",
+      "event_subject": "Xbox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox layoffs studio list 2026",
+        "subject": "Xbox",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "studios",
+        "platforms": [],
+        "topic": "staff_reduction"
+      },
+      "sources": [
+        "Insider Gaming",
+        "GameSpot"
+      ],
+      "event_sources": [
+        "Insider Gaming",
+        "GameSpot"
+      ],
+      "claims": [
+        "which studios were affected by the latest round of job cuts",
+        "268 more layoffs as part of Xbox reset"
+      ],
+      "importance_score": 72,
+      "coverage_score": 6,
+      "originality_score": 11,
+      "significance_score": 35,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Xbox Announces 268 Job Cuts Across Halo, Coalition, and Other Studios",
+      "summary": "Xbox confirmed 268 layoffs, affecting studios such as Halo, The Coalition, World’s Edge, Treyarch and broader Xbox Game Studios in its ongoing restructuring.",
+      "published_at": "2026-09-23T01:22:10+06:00",
+      "selected_at": "2026-09-22T19:47:23.872526+00:00",
+      "status": "published",
+      "message_id": 419,
+      "published_versions": [
+        {
+          "published_at": "2026-09-22T19:47:23.872526+00:00",
+          "headline": "Xbox Announces 268 Job Cuts Across Halo, Coalition, and Other Studios",
+          "claims": [
+            "which studios were affected by the latest round of job cuts",
+            "268 more layoffs as part of Xbox reset"
+          ]
+        }
+      ]
+    },
+    "evt_7a6ea4356a7b67": {
+      "event_id": "evt_7a6ea4356a7b67",
+      "event_key": "xbox game studios structure change 2026",
+      "event_subject": "Xbox Game Studios",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox game studios structure change 2026",
+        "subject": "Xbox Game Studios",
+        "event_type": "other",
+        "action": "reduce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "studios",
+        "platforms": [],
+        "topic": "structure"
+      },
+      "sources": [
+        "Polygon",
+        "GameSpot",
+        "Kotaku"
+      ],
+      "event_sources": [
+        "Polygon",
+        "GameSpot",
+        "Kotaku"
+      ],
+      "claims": [
+        "only three studios left under Xbox's own publisher after Halo move to Activision",
+        "what Xbox Game Studios is at this point after reshuffling",
+        "Xbox Game Studios quickly disappearing, now less than five teams"
+      ],
+      "importance_score": 70,
+      "coverage_score": 10,
+      "originality_score": 8,
+      "significance_score": 33,
+      "freshness_score": 10,
+      "source_trust_score": 9,
+      "headline": "Xbox Trims Game Studios, Shifts Halo and Rare to Activision",
+      "summary": "Microsoft’s latest layoffs slash Xbox Game Studios, moving Halo, Rare and other studios to Activision while leaving only a handful of internal teams.",
+      "published_at": "2026-09-23T01:00:16+06:00",
+      "selected_at": "2026-09-22T19:47:29.106880+00:00",
+      "status": "published",
+      "message_id": 420,
+      "published_versions": [
+        {
+          "published_at": "2026-09-22T19:47:29.106880+00:00",
+          "headline": "Xbox Trims Game Studios, Shifts Halo and Rare to Activision",
+          "claims": [
+            "only three studios left under Xbox's own publisher after Halo move to Activision",
+            "what Xbox Game Studios is at this point after reshuffling",
+            "Xbox Game Studios quickly disappearing, now less than five teams"
+          ]
+        }
+      ]
+    },
+    "evt_b017a1b5b4ec73": {
+      "event_id": "evt_b017a1b5b4ec73",
+      "event_key": "halo studios staff changes 2026",
+      "event_subject": "Halo Studios",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "halo studios staff changes 2026",
+        "subject": "Halo Studios",
+        "event_type": "other",
+        "action": "promote_and_layoff",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Halo",
+        "franchise": "Halo",
+        "institution": "Xbox/Activision",
+        "target": "employees",
+        "platforms": [],
+        "topic": "organizational"
+      },
+      "sources": [
+        "Kotaku"
+      ],
+      "event_sources": [
+        "Kotaku"
+      ],
+      "claims": [],
+      "importance_score": 56,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 30,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Halo Studios Promoted Developer Josh Daniels Laid Off Amid Xbox Restructuring",
+      "summary": "Xbox’s latest corporate reset saw Halo Studios cut, with cinematic director Josh Daniels promoted then dismissed within 48 hours, highlighting chaotic layoffs.",
+      "published_at": "2026-09-23T01:30:18+06:00",
+      "selected_at": "2026-09-22T19:47:34.486985+00:00",
+      "status": "published",
+      "message_id": 421,
+      "published_versions": [
+        {
+          "published_at": "2026-09-22T19:47:34.486985+00:00",
+          "headline": "Halo Studios Promoted Developer Josh Daniels Laid Off Amid Xbox Restructuring",
+          "claims": []
+        }
+      ]
+    },
+    "evt_5fdb4c3decab39": {
+      "event_id": "evt_5fdb4c3decab39",
+      "event_key": "new vegas online trailer release 2026",
+      "event_subject": "New Vegas: Online",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "new vegas online trailer release 2026",
+        "subject": "New Vegas: Online",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "New Vegas: Online",
+        "franchise": "Fallout",
+        "institution": "Fall‑Net",
+        "target": "players",
+        "platforms": [],
+        "topic": "marketing"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [
+        "MMO‑style trailer unveiled"
+      ],
+      "importance_score": 52,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 18,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Fall-Net Studios Unveils New Vegas: Online Mod Turning Classic Fallout Into MMO",
+      "summary": "Fall-Net Studios released a trailer for New Vegas: Online, a free‑to‑play mod that adds multiplayer, new factions, creatures and locations to Fallout: New Vegas on PC.",
+      "published_at": "2026-09-23T00:22:29+06:00",
+      "selected_at": "2026-09-22T19:47:39.546001+00:00",
+      "status": "published",
+      "message_id": 422,
+      "published_versions": [
+        {
+          "published_at": "2026-09-22T19:47:39.546001+00:00",
+          "headline": "Fall-Net Studios Unveils New Vegas: Online Mod Turning Classic Fallout Into MMO",
+          "claims": [
+            "MMO‑style trailer unveiled"
+          ]
+        }
+      ]
+    },
+    "evt_70d0d6434c38c2": {
+      "event_id": "evt_70d0d6434c38c2",
+      "event_key": "undead labs independence post xbox layoffs",
+      "event_subject": "Undead Labs independence",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "undead labs independence post xbox layoffs",
+        "subject": "Undead Labs independence",
+        "event_type": "other",
+        "action": "become_independent",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "State of Decay",
+        "institution": "Undead Labs",
+        "target": "",
+        "platforms": [],
+        "topic": "studio"
+      },
+      "sources": [
+        "Push Square"
+      ],
+      "event_sources": [
+        "Push Square"
+      ],
+      "claims": [],
+      "importance_score": 48,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 18,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Undead Labs Gains Independence, Targets State of Decay 3 for PS5 Release",
+      "summary": "Seattle studio Undead Labs exits Microsoft, remaining afloat after Xbox layoffs and aims to launch State of Decay 3 on PS5 in 2027.",
+      "published_at": "2026-09-22T23:30:00+06:00",
+      "selected_at": "2026-09-22T19:47:44.416303+00:00",
+      "status": "published",
+      "message_id": 423,
+      "published_versions": [
+        {
+          "published_at": "2026-09-22T19:47:44.416303+00:00",
+          "headline": "Undead Labs Gains Independence, Targets State of Decay 3 for PS5 Release",
+          "claims": []
+        }
+      ]
+    },
+    "evt_47d11aca5fba4b": {
+      "event_id": "evt_47d11aca5fba4b",
+      "event_key": "arkane studios future xbox uncertainty",
+      "event_subject": "Arkane Studios future with Xbox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "arkane studios future xbox uncertainty",
+        "subject": "Arkane Studios future with Xbox",
+        "event_type": "other",
+        "action": "report_uncertainty",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Arkane Studios",
+        "target": "",
+        "platforms": [],
+        "topic": "studio"
+      },
+      "sources": [
+        "Pure Xbox"
+      ],
+      "event_sources": [
+        "Pure Xbox"
+      ],
+      "claims": [],
+      "importance_score": 45,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Xbox’s Uncertain Future for Arkane Studios Leaves Blade in Limbo",
+      "summary": "Xbox announced further layoffs and studio consultations, but the fate of Arkane Studios and its Blade project remains unclear through year‑end.",
+      "published_at": "2026-09-22T23:00:00+06:00",
+      "selected_at": "2026-09-22T19:47:49.620515+00:00",
+      "status": "published",
+      "message_id": 424,
+      "published_versions": [
+        {
+          "published_at": "2026-09-22T19:47:49.620515+00:00",
+          "headline": "Xbox’s Uncertain Future for Arkane Studios Leaves Blade in Limbo",
+          "claims": []
+        }
+      ]
+    },
+    "evt_1bb5bc3e740316": {
+      "event_id": "evt_1bb5bc3e740316",
+      "event_key": "gigabyte rtx 5070 ti pc price drop",
+      "event_subject": "Gigabyte RTX 5070 Ti PC price drop",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gigabyte rtx 5070 ti pc price drop",
+        "subject": "Gigabyte RTX 5070 Ti PC price drop",
+        "event_type": "other",
+        "action": "discount",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Gigabyte",
+        "target": "gaming PC",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "sources": [
+        "IGN"
+      ],
+      "event_sources": [
+        "IGN"
+      ],
+      "claims": [],
+      "importance_score": 42,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Gigabyte RTX 5070 Ti Gaming PC Slashed to $1,999 at Walmart",
+      "summary": "Walmart now offers the Gigabyte AORUS Prime 5 with an AMD Ryzen 7 9700X, 32 GB DDR5 RAM and 2 TB SSD for $1,999, free shipping included.",
+      "published_at": "2026-09-22T22:50:00+06:00",
+      "selected_at": "2026-09-22T19:47:54.941414+00:00",
+      "status": "published",
+      "message_id": 425,
+      "published_versions": [
+        {
+          "published_at": "2026-09-22T19:47:54.941414+00:00",
+          "headline": "Gigabyte RTX 5070 Ti Gaming PC Slashed to $1,999 at Walmart",
+          "claims": []
+        }
+      ]
+    },
+    "evt_efe8e8effe11c4": {
+      "event_id": "evt_efe8e8effe11c4",
+      "event_key": "rare under activision concerns sea of thieves fans",
+      "event_subject": "Rare under Activision",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "rare under activision concerns sea of thieves fans",
+        "subject": "Rare under Activision",
+        "event_type": "other",
+        "action": "consolidate",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Sea of Thieves",
+        "franchise": "Sea of Thieves",
+        "institution": "Rare",
+        "target": "",
+        "platforms": [],
+        "topic": "studio"
+      },
+      "sources": [
+        "IGN"
+      ],
+      "event_sources": [
+        "IGN"
+      ],
+      "claims": [],
+      "importance_score": 42,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Rare Studio Shifted Under Activision Sparks Xbox Community Concerns",
+      "summary": "Fans worry that Rare’s placement under Activision could turn Sea of Thieves into another support role, echoing past studio consolidations.",
+      "published_at": "2026-09-22T23:25:07+06:00",
+      "selected_at": "2026-09-22T19:47:59.729235+00:00",
+      "status": "published",
+      "message_id": 426,
+      "published_versions": [
+        {
+          "published_at": "2026-09-22T19:47:59.729235+00:00",
+          "headline": "Rare Studio Shifted Under Activision Sparks Xbox Community Concerns",
+          "claims": []
+        }
+      ]
+    },
+    "evt_a1c73fcad70deb": {
+      "event_id": "evt_a1c73fcad70deb",
+      "event_key": "stellar blade devs funding crisis report",
+      "event_subject": "Stellar Blade funding crisis",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "stellar blade devs funding crisis report",
+        "subject": "Stellar Blade funding crisis",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Stellar Blade",
+        "franchise": "Stellar Blade",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "studio"
+      },
+      "sources": [
+        "GamesRadar+"
+      ],
+      "event_sources": [
+        "GamesRadar+"
+      ],
+      "claims": [],
+      "importance_score": 39,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 13,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Shift Up’s Stellar Blade teetered on bankruptcy before Sony rescued the studio",
+      "summary": "Shift Up disclosed that at one point they could only cover salaries for roughly three months after multiple publishers rejected Stellar Blade.",
+      "published_at": "2026-09-22T22:36:52+06:00",
+      "selected_at": "2026-09-22T19:48:04.730615+00:00",
+      "status": "published",
+      "message_id": 427,
+      "published_versions": [
+        {
+          "published_at": "2026-09-22T19:48:04.730615+00:00",
+          "headline": "Shift Up’s Stellar Blade teetered on bankruptcy before Sony rescued the studio",
+          "claims": []
+        }
+      ]
+    },
+    "evt_2e26a3b363ecb5": {
+      "event_id": "evt_2e26a3b363ecb5",
+      "event_key": "gears of war e day story director layoff 2026",
+      "event_subject": "Gears of War: E‑Day",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gears of war e day story director layoff 2026",
+        "subject": "Gears of War: E‑Day",
+        "event_type": "other",
+        "action": "layoff",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Gears of War: E‑Day",
+        "franchise": "Gears of War",
+        "institution": "The Coalition",
+        "target": "employees",
+        "platforms": [],
+        "topic": "staff_change"
+      },
+      "sources": [
+        "Kotaku"
+      ],
+      "event_sources": [
+        "Kotaku"
+      ],
+      "claims": [
+        "story director laid off four days after gold"
+      ],
+      "importance_score": 36,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 10,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Story Director on Gears of War: E‑Day Laid Off Days After Game Goes Gold",
+      "summary": "The Gears of War: E‑Day story director was dismissed in Xbox’s latest layoff wave just four days after announcing the title had gone gold.",
+      "published_at": "2026-09-23T00:15:46+06:00",
+      "selected_at": "2026-09-22T19:48:09.695498+00:00",
+      "status": "published",
+      "message_id": 428,
+      "published_versions": [
+        {
+          "published_at": "2026-09-22T19:48:09.695498+00:00",
+          "headline": "Story Director on Gears of War: E‑Day Laid Off Days After Game Goes Gold",
+          "claims": [
+            "story director laid off four days after gold"
+          ]
+        }
+      ]
+    },
+    "evt_03b413418c92c4": {
+      "event_id": "evt_03b413418c92c4",
+      "event_key": "steam early access graduates dominance 2026",
+      "event_subject": "Steam",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "steam early access graduates dominance 2026",
+        "subject": "Steam",
+        "event_type": "other",
+        "action": "dominate",
+        "status": "observed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Valve",
+        "target": "games",
+        "platforms": [],
+        "topic": "sales_trends"
+      },
+      "sources": [
+        "GamesRadar+"
+      ],
+      "event_sources": [
+        "GamesRadar+"
+      ],
+      "claims": [
+        "more than half of top‑10 best‑rated 2026 releases are early‑access graduates"
+      ],
+      "importance_score": 36,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 10,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Early‑Access Graduates Dominate Steam’s Top‑Rated 2026 Releases",
+      "summary": "Six of Steam’s ten highest‑rated 2026 games are early‑access titles that finally launched full versions, highlighting the model’s growing impact.",
+      "published_at": "2026-09-23T01:23:01+06:00",
+      "selected_at": "2026-09-22T19:48:14.557830+00:00",
+      "status": "published",
+      "message_id": 429,
+      "published_versions": [
+        {
+          "published_at": "2026-09-22T19:48:14.557830+00:00",
+          "headline": "Early‑Access Graduates Dominate Steam’s Top‑Rated 2026 Releases",
+          "claims": [
+            "more than half of top‑10 best‑rated 2026 releases are early‑access graduates"
           ]
         }
       ]
@@ -90253,6 +91826,2309 @@
         "total": 30
       },
       "last_seen": "2026-09-22T21:34:04.327288+06:00"
+    },
+    "evt_bf9c7f52a1b3ed": {
+      "event_id": "evt_bf9c7f52a1b3ed",
+      "event_key": "xbox layoffs studio list 2026",
+      "event_subject": "Xbox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox layoffs studio list 2026",
+        "subject": "Xbox",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "studios",
+        "platforms": [],
+        "topic": "staff_reduction"
+      },
+      "modality": "unknown",
+      "topic": "staff_reduction",
+      "institution": "Microsoft",
+      "sources": [
+        "Insider Gaming",
+        "GameSpot"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "which studios were affected by the latest round of job cuts",
+        "268 more layoffs as part of Xbox reset"
+      ],
+      "importance_score": 72,
+      "score_breakdown": {
+        "significance": 35,
+        "coverage": 6,
+        "originality": 11,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 72
+      },
+      "last_seen": "2026-09-23T01:39:34.265767+06:00"
+    },
+    "evt_7a6ea4356a7b67": {
+      "event_id": "evt_7a6ea4356a7b67",
+      "event_key": "xbox game studios structure change 2026",
+      "event_subject": "Xbox Game Studios",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox game studios structure change 2026",
+        "subject": "Xbox Game Studios",
+        "event_type": "other",
+        "action": "reduce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "studios",
+        "platforms": [],
+        "topic": "structure"
+      },
+      "modality": "unknown",
+      "topic": "structure",
+      "institution": "Microsoft",
+      "sources": [
+        "Polygon",
+        "GameSpot",
+        "Kotaku"
+      ],
+      "source_count": 3,
+      "independent_source_count": 3,
+      "claims": [
+        "only three studios left under Xbox's own publisher after Halo move to Activision",
+        "what Xbox Game Studios is at this point after reshuffling",
+        "Xbox Game Studios quickly disappearing, now less than five teams"
+      ],
+      "importance_score": 70,
+      "score_breakdown": {
+        "significance": 33,
+        "coverage": 10,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 70
+      },
+      "last_seen": "2026-09-23T01:39:34.265787+06:00"
+    },
+    "evt_b017a1b5b4ec73": {
+      "event_id": "evt_b017a1b5b4ec73",
+      "event_key": "halo studios staff changes 2026",
+      "event_subject": "Halo Studios",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "halo studios staff changes 2026",
+        "subject": "Halo Studios",
+        "event_type": "other",
+        "action": "promote_and_layoff",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Halo",
+        "franchise": "Halo",
+        "institution": "Xbox/Activision",
+        "target": "employees",
+        "platforms": [],
+        "topic": "organizational"
+      },
+      "modality": "unknown",
+      "topic": "organizational",
+      "institution": "Xbox/Activision",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 56,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 56
+      },
+      "last_seen": "2026-09-23T01:39:34.265795+06:00"
+    },
+    "evt_da465bf604c7f8": {
+      "event_id": "evt_da465bf604c7f8",
+      "event_key": "wow forever zone announcement 2026",
+      "event_subject": "World of Warcraft: Forever",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "wow forever zone announcement 2026",
+        "subject": "World of Warcraft: Forever",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "World of Warcraft",
+        "franchise": "WoW",
+        "institution": "Blizzard Entertainment",
+        "target": "players",
+        "platforms": [],
+        "topic": "content"
+      },
+      "modality": "unknown",
+      "topic": "content",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "four new zones aiming for a ‘Mandela Effect’"
+      ],
+      "importance_score": 55,
+      "score_breakdown": {
+        "significance": 25,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 55
+      },
+      "last_seen": "2026-09-23T01:39:34.265802+06:00"
+    },
+    "evt_544264e143bebe": {
+      "event_id": "evt_544264e143bebe",
+      "event_key": "halo activision takeover fan reaction 2026",
+      "event_subject": "Halo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "halo activision takeover fan reaction 2026",
+        "subject": "Halo",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "observed",
+        "modality": "unknown",
+        "game": "Halo",
+        "franchise": "Halo",
+        "institution": "Activision",
+        "target": "fans",
+        "platforms": [],
+        "topic": "opinion"
+      },
+      "modality": "unknown",
+      "topic": "opinion",
+      "institution": "Activision",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "fans divided on Activision takeover"
+      ],
+      "importance_score": 50,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 50
+      },
+      "last_seen": "2026-09-23T01:39:34.265809+06:00"
+    },
+    "evt_9bc37f8e8844e0": {
+      "event_id": "evt_9bc37f8e8844e0",
+      "event_key": "wow forever shaman warlock tank exclusion",
+      "event_subject": "WoW: Forever",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "wow forever shaman warlock tank exclusion",
+        "subject": "WoW: Forever",
+        "event_type": "other",
+        "action": "exclude_class_role",
+        "status": "published",
+        "modality": "unknown",
+        "game": "World of Warcraft: Forever",
+        "franchise": "World of Warcraft",
+        "institution": "Blizzard Entertainment",
+        "target": "Shaman, Warlock",
+        "platforms": [],
+        "topic": "class_balance"
+      },
+      "modality": "unknown",
+      "topic": "class_balance",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 50,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 50
+      },
+      "last_seen": "2026-09-23T01:39:34.265814+06:00"
+    },
+    "evt_5fdb4c3decab39": {
+      "event_id": "evt_5fdb4c3decab39",
+      "event_key": "new vegas online trailer release 2026",
+      "event_subject": "New Vegas: Online",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "new vegas online trailer release 2026",
+        "subject": "New Vegas: Online",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "New Vegas: Online",
+        "franchise": "Fallout",
+        "institution": "Fall‑Net",
+        "target": "players",
+        "platforms": [],
+        "topic": "marketing"
+      },
+      "modality": "unknown",
+      "topic": "marketing",
+      "institution": "Fall‑Net",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "MMO‑style trailer unveiled"
+      ],
+      "importance_score": 52,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 52
+      },
+      "last_seen": "2026-09-23T01:39:34.265821+06:00"
+    },
+    "evt_70d0d6434c38c2": {
+      "event_id": "evt_70d0d6434c38c2",
+      "event_key": "undead labs independence post xbox layoffs",
+      "event_subject": "Undead Labs independence",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "undead labs independence post xbox layoffs",
+        "subject": "Undead Labs independence",
+        "event_type": "other",
+        "action": "become_independent",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "State of Decay",
+        "institution": "Undead Labs",
+        "target": "",
+        "platforms": [],
+        "topic": "studio"
+      },
+      "modality": "unknown",
+      "topic": "studio",
+      "institution": "Undead Labs",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 48,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 48
+      },
+      "last_seen": "2026-09-23T01:39:34.265827+06:00"
+    },
+    "evt_47d11aca5fba4b": {
+      "event_id": "evt_47d11aca5fba4b",
+      "event_key": "arkane studios future xbox uncertainty",
+      "event_subject": "Arkane Studios future with Xbox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "arkane studios future xbox uncertainty",
+        "subject": "Arkane Studios future with Xbox",
+        "event_type": "other",
+        "action": "report_uncertainty",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Arkane Studios",
+        "target": "",
+        "platforms": [],
+        "topic": "studio"
+      },
+      "modality": "unknown",
+      "topic": "studio",
+      "institution": "Arkane Studios",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-09-23T01:39:34.265834+06:00"
+    },
+    "evt_7884dd7b601964": {
+      "event_id": "evt_7884dd7b601964",
+      "event_key": "dune awakening xbox game pass launch 2026",
+      "event_subject": "Dune: Awakening",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "dune awakening xbox game pass launch 2026",
+        "subject": "Dune: Awakening",
+        "event_type": "other",
+        "action": "launch",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Dune: Awakening",
+        "franchise": "Dune",
+        "institution": "Xbox Game Pass",
+        "target": "players",
+        "platforms": [
+          "Xbox Series X",
+          "Xbox Series S"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "Xbox Game Pass",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "first‑look gameplay footage on Xbox Series X/S"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-09-23T01:39:34.265840+06:00"
+    },
+    "evt_ef39c1af14bb2b": {
+      "event_id": "evt_ef39c1af14bb2b",
+      "event_key": "one ring ttrpg crowdfunding success 2026",
+      "event_subject": "One Ring TTRPG",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "one ring ttrpg crowdfunding success 2026",
+        "subject": "One Ring TTRPG",
+        "event_type": "other",
+        "action": "launch",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "One Ring TTRPG",
+        "franchise": "Lord of the Rings",
+        "institution": "Fantasy Flight Games",
+        "target": "players",
+        "platforms": [],
+        "topic": "crowdfunding"
+      },
+      "modality": "unknown",
+      "topic": "crowdfunding",
+      "institution": "Fantasy Flight Games",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "$1M in pre‑orders"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-09-23T01:39:34.265847+06:00"
+    },
+    "evt_114d239f224f47": {
+      "event_id": "evt_114d239f224f47",
+      "event_key": "well dweller ps5 indie discount 2026",
+      "event_subject": "Well Dweller",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "well dweller ps5 indie discount 2026",
+        "subject": "Well Dweller",
+        "event_type": "other",
+        "action": "discount",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Well Dweller",
+        "franchise": "Well Dweller",
+        "institution": "Push Square",
+        "target": "players",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "sale"
+      },
+      "modality": "unknown",
+      "topic": "sale",
+      "institution": "Push Square",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "PS Plus discount for one of PS5's best new indie games"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-09-23T01:39:34.265853+06:00"
+    },
+    "evt_a1c73fcad70deb": {
+      "event_id": "evt_a1c73fcad70deb",
+      "event_key": "stellar blade devs funding crisis report",
+      "event_subject": "Stellar Blade funding crisis",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "stellar blade devs funding crisis report",
+        "subject": "Stellar Blade funding crisis",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Stellar Blade",
+        "franchise": "Stellar Blade",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "studio"
+      },
+      "modality": "unknown",
+      "topic": "studio",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 39
+      },
+      "last_seen": "2026-09-23T01:39:34.265859+06:00"
+    },
+    "evt_5cccb509f3cadf": {
+      "event_id": "evt_5cccb509f3cadf",
+      "event_key": "league of legends patch 26 19 release",
+      "event_subject": "League of Legends",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "league of legends patch 26 19 release",
+        "subject": "League of Legends",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "League of Legends",
+        "franchise": "League of Legends",
+        "institution": "Riot Games",
+        "target": "players",
+        "platforms": [],
+        "topic": "balance_changes"
+      },
+      "modality": "unknown",
+      "topic": "balance_changes",
+      "institution": "Riot Games",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 46
+      },
+      "last_seen": "2026-09-23T01:39:34.265865+06:00"
+    },
+    "evt_df2bbb8dd94293": {
+      "event_id": "evt_df2bbb8dd94293",
+      "event_key": "destin daniel cretton sony deal 2026",
+      "event_subject": "Destin Daniel Cretton",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "destin daniel cretton sony deal 2026",
+        "subject": "Destin Daniel Cretton",
+        "event_type": "other",
+        "action": "sign",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Spider‑Man",
+        "institution": "Sony Pictures",
+        "target": "movies",
+        "platforms": [],
+        "topic": "film"
+      },
+      "modality": "unknown",
+      "topic": "film",
+      "institution": "Sony Pictures",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "three‑year deal following Spider‑Man: Brand New Day success"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-23T01:39:34.265872+06:00"
+    },
+    "evt_1bb5bc3e740316": {
+      "event_id": "evt_1bb5bc3e740316",
+      "event_key": "gigabyte rtx 5070 ti pc price drop",
+      "event_subject": "Gigabyte RTX 5070 Ti PC price drop",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gigabyte rtx 5070 ti pc price drop",
+        "subject": "Gigabyte RTX 5070 Ti PC price drop",
+        "event_type": "other",
+        "action": "discount",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Gigabyte",
+        "target": "gaming PC",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "modality": "unknown",
+      "topic": "hardware",
+      "institution": "Gigabyte",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-23T01:39:34.265877+06:00"
+    },
+    "evt_bed39dc0a2d427": {
+      "event_id": "evt_bed39dc0a2d427",
+      "event_key": "graveyard keeper 2 release 2026",
+      "event_subject": "Graveyard Keeper 2",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "graveyard keeper 2 release 2026",
+        "subject": "Graveyard Keeper 2",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Graveyard Keeper 2",
+        "franchise": "Graveyard Keeper",
+        "institution": "TinyBuild",
+        "target": "players",
+        "platforms": [],
+        "topic": "new_content"
+      },
+      "modality": "unknown",
+      "topic": "new_content",
+      "institution": "TinyBuild",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-23T01:39:34.265883+06:00"
+    },
+    "evt_88a833e8cdccca": {
+      "event_id": "evt_88a833e8cdccca",
+      "event_key": "lord of the rings switch 2 ports release 2026",
+      "event_subject": "Lord of the Rings games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "lord of the rings switch 2 ports release 2026",
+        "subject": "Lord of the Rings games",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Middle‑Earth: Shadow of Mordor GOTY Edition, Middle‑Earth: Shadow of War Definitive Edition",
+        "franchise": "Lord of the Rings",
+        "institution": "Aspyr",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "Aspyr",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "two ports launching next week"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-23T01:39:34.265889+06:00"
+    },
+    "evt_6a3ff84707471c": {
+      "event_id": "evt_6a3ff84707471c",
+      "event_key": "msi codex z2 rtx 5070 ti pc price drop",
+      "event_subject": "MSI Codex Z2 price drop",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "msi codex z2 rtx 5070 ti pc price drop",
+        "subject": "MSI Codex Z2 price drop",
+        "event_type": "other",
+        "action": "discount",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "MSI",
+        "target": "gaming PC",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "modality": "unknown",
+      "topic": "hardware",
+      "institution": "MSI",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-23T01:39:34.265895+06:00"
+    },
+    "evt_efe8e8effe11c4": {
+      "event_id": "evt_efe8e8effe11c4",
+      "event_key": "rare under activision concerns sea of thieves fans",
+      "event_subject": "Rare under Activision",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "rare under activision concerns sea of thieves fans",
+        "subject": "Rare under Activision",
+        "event_type": "other",
+        "action": "consolidate",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Sea of Thieves",
+        "franchise": "Sea of Thieves",
+        "institution": "Rare",
+        "target": "",
+        "platforms": [],
+        "topic": "studio"
+      },
+      "modality": "unknown",
+      "topic": "studio",
+      "institution": "Rare",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-23T01:39:34.265901+06:00"
+    },
+    "evt_d0234573e098e8": {
+      "event_id": "evt_d0234573e098e8",
+      "event_key": "heartsteel live my life skins release 2026",
+      "event_subject": "HEARTSTEEL ‘Live My Life’ skins",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "heartsteel live my life skins release 2026",
+        "subject": "HEARTSTEEL ‘Live My Life’ skins",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "League of Legends",
+        "franchise": "League of Legends",
+        "institution": "Riot Games",
+        "target": "players",
+        "platforms": [],
+        "topic": "cosmetics"
+      },
+      "modality": "unknown",
+      "topic": "cosmetics",
+      "institution": "Riot Games",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new skins for Aphelios, Ezreal, Kayn, K'Sante, Sett, Yone"
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 44
+      },
+      "last_seen": "2026-09-23T01:39:34.265907+06:00"
+    },
+    "evt_2ecbac10bda906": {
+      "event_id": "evt_2ecbac10bda906",
+      "event_key": "pragmata release review",
+      "event_subject": "Pragmata review",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "pragmata release review",
+        "subject": "Pragmata review",
+        "event_type": "review",
+        "action": "evaluate",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Pragmata",
+        "franchise": "Pragmata",
+        "institution": "Capcom",
+        "target": "",
+        "platforms": [],
+        "topic": "game"
+      },
+      "modality": "unknown",
+      "topic": "game",
+      "institution": "Capcom",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-09-23T01:39:34.265913+06:00"
+    },
+    "evt_2e26a3b363ecb5": {
+      "event_id": "evt_2e26a3b363ecb5",
+      "event_key": "gears of war e day story director layoff 2026",
+      "event_subject": "Gears of War: E‑Day",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gears of war e day story director layoff 2026",
+        "subject": "Gears of War: E‑Day",
+        "event_type": "other",
+        "action": "layoff",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Gears of War: E‑Day",
+        "franchise": "Gears of War",
+        "institution": "The Coalition",
+        "target": "employees",
+        "platforms": [],
+        "topic": "staff_change"
+      },
+      "modality": "unknown",
+      "topic": "staff_change",
+      "institution": "The Coalition",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "story director laid off four days after gold"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 36
+      },
+      "last_seen": "2026-09-23T01:39:34.265918+06:00"
+    },
+    "evt_03b413418c92c4": {
+      "event_id": "evt_03b413418c92c4",
+      "event_key": "steam early access graduates dominance 2026",
+      "event_subject": "Steam",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "steam early access graduates dominance 2026",
+        "subject": "Steam",
+        "event_type": "other",
+        "action": "dominate",
+        "status": "observed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Valve",
+        "target": "games",
+        "platforms": [],
+        "topic": "sales_trends"
+      },
+      "modality": "unknown",
+      "topic": "sales_trends",
+      "institution": "Valve",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "more than half of top‑10 best‑rated 2026 releases are early‑access graduates"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 36
+      },
+      "last_seen": "2026-09-23T01:39:34.265925+06:00"
+    },
+    "evt_78f4b1e2dd8568": {
+      "event_id": "evt_78f4b1e2dd8568",
+      "event_key": "union x mobile game revival fan mod",
+      "event_subject": "Union X revival",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "union x mobile game revival fan mod",
+        "subject": "Union X revival",
+        "event_type": "other",
+        "action": "make_playable",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Union X",
+        "franchise": "Kingdom Hearts",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "fan_mod"
+      },
+      "modality": "unknown",
+      "topic": "fan_mod",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-09-23T01:39:34.265957+06:00"
+    },
+    "evt_633ada65900b3d": {
+      "event_id": "evt_633ada65900b3d",
+      "event_key": "halo studios original title absence 2026",
+      "event_subject": "Halo Studios",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "halo studios original title absence 2026",
+        "subject": "Halo Studios",
+        "event_type": "other",
+        "action": "report",
+        "status": "observed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Halo",
+        "institution": "Xbox",
+        "target": "public",
+        "platforms": [],
+        "topic": "development"
+      },
+      "modality": "unknown",
+      "topic": "development",
+      "institution": "Xbox",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "didn't launch any original title before Activision takeover"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-09-23T01:39:34.265966+06:00"
+    },
+    "evt_ab97b135396915": {
+      "event_id": "evt_ab97b135396915",
+      "event_key": "packed lair release 2026",
+      "event_subject": "Packed Lair",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "packed lair release 2026",
+        "subject": "Packed Lair",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Packed Lair",
+        "franchise": "Packed Lair",
+        "institution": "Unknown_Dev",
+        "target": "players",
+        "platforms": [],
+        "topic": "new_game"
+      },
+      "modality": "unknown",
+      "topic": "new_game",
+      "institution": "Unknown_Dev",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Tetris‑adjacent base‑builder about cramming an evil lair"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-09-23T01:39:34.265974+06:00"
+    },
+    "evt_f3aa6feab7d9b5": {
+      "event_id": "evt_f3aa6feab7d9b5",
+      "event_key": "star wars zero sales milestone 2026",
+      "event_subject": "Star Wars Zero",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "star wars zero sales milestone 2026",
+        "subject": "Star Wars Zero",
+        "event_type": "other",
+        "action": "reach",
+        "status": "rumor",
+        "modality": "speculative",
+        "game": "",
+        "franchise": "Star Wars",
+        "institution": "Unknown_Studio",
+        "target": "consumers",
+        "platforms": [],
+        "topic": "sales"
+      },
+      "modality": "speculative",
+      "topic": "sales",
+      "institution": "Unknown_Studio",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "estimated 1 million sales amid staff furloughs"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-09-23T01:39:34.265981+06:00"
+    },
+    "evt_0314bf5ba1024d": {
+      "event_id": "evt_0314bf5ba1024d",
+      "event_key": "wardogs season 2 release date 2026",
+      "event_subject": "Wardogs",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "wardogs season 2 release date 2026",
+        "subject": "Wardogs",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Wardogs",
+        "franchise": "Wardogs",
+        "institution": "Unknown_Dev",
+        "target": "players",
+        "platforms": [],
+        "topic": "update"
+      },
+      "modality": "unknown",
+      "topic": "update",
+      "institution": "Unknown_Dev",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "season 2 adds weather including rain"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 37
+      },
+      "last_seen": "2026-09-23T01:39:34.265988+06:00"
+    },
+    "evt_041fbe580f57fd": {
+      "event_id": "evt_041fbe580f57fd",
+      "event_key": "ffvii revelation demo event plans 2026",
+      "event_subject": "FFVII Revelation",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ffvii revelation demo event plans 2026",
+        "subject": "FFVII Revelation",
+        "event_type": "other",
+        "action": "plan",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Final Fantasy VII Revelation",
+        "franchise": "Final Fantasy",
+        "institution": "Square Enix",
+        "target": "players",
+        "platforms": [],
+        "topic": "demo"
+      },
+      "modality": "unknown",
+      "topic": "demo",
+      "institution": "Square Enix",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "could appear at more events after TGS"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 32
+      },
+      "last_seen": "2026-09-23T01:39:34.265995+06:00"
+    },
+    "evt_1e9959ab6bc5c6": {
+      "event_id": "evt_1e9959ab6bc5c6",
+      "event_key": "middle earth shadow bundle switch2 release",
+      "event_subject": "Middle‑earth: Shadow Bundle",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "middle earth shadow bundle switch2 release",
+        "subject": "Middle‑earth: Shadow Bundle",
+        "event_type": "release",
+        "action": "announce_port",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Middle‑earth: Shadow of Mordor / Shadow of War",
+        "franchise": "Middle‑earth",
+        "institution": "Aspyr",
+        "target": "Switch 2",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "port"
+      },
+      "modality": "unknown",
+      "topic": "port",
+      "institution": "Aspyr",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 32
+      },
+      "last_seen": "2026-09-23T01:39:34.265998+06:00"
+    },
+    "evt_473ea3e5815b8c": {
+      "event_id": "evt_473ea3e5815b8c",
+      "event_key": "zelda historical charms collection update 2026",
+      "event_subject": "The Legend of Zelda Historical Charms+",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "zelda historical charms collection update 2026",
+        "subject": "The Legend of Zelda Historical Charms+",
+        "event_type": "other",
+        "action": "update",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "The Legend of Zelda",
+        "franchise": "Zelda",
+        "institution": "Nintendo",
+        "target": "collectors",
+        "platforms": [],
+        "topic": "accessories"
+      },
+      "modality": "unknown",
+      "topic": "accessories",
+      "institution": "Nintendo",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "features Triforce accessories referencing 12 games"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 32
+      },
+      "last_seen": "2026-09-23T01:39:34.266002+06:00"
+    },
+    "evt_71146a4af0382c": {
+      "event_id": "evt_71146a4af0382c",
+      "event_key": "middle earth shadow bundle switch2 announcement",
+      "event_subject": "Middle‑earth: Shadow Bundle",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "middle earth shadow bundle switch2 announcement",
+        "subject": "Middle‑earth: Shadow Bundle",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Middle‑earth: Shadow of Mordor / Shadow of War",
+        "franchise": "Middle‑earth",
+        "institution": "Aspyr",
+        "target": "Switch 2",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "port"
+      },
+      "modality": "unknown",
+      "topic": "port",
+      "institution": "Aspyr",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-09-23T01:39:34.266006+06:00"
+    },
+    "evt_66f3f0992217a3": {
+      "event_id": "evt_66f3f0992217a3",
+      "event_key": "silent hill townfall shed puzzle solution 2026",
+      "event_subject": "Silent Hill: Townfall",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "silent hill townfall shed puzzle solution 2026",
+        "subject": "Silent Hill: Townfall",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Silent Hill: Townfall",
+        "franchise": "Silent Hill",
+        "institution": "Unknown_Dev",
+        "target": "players",
+        "platforms": [],
+        "topic": "puzzle"
+      },
+      "modality": "unknown",
+      "topic": "puzzle",
+      "institution": "Unknown_Dev",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "combination lock puzzle solution for community gardens shed",
+        "solution for scales puzzle in Zoe's office"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-09-23T01:39:34.266009+06:00"
+    },
+    "evt_e129f37d640f5e": {
+      "event_id": "evt_e129f37d640f5e",
+      "event_key": "coco resurgence media expansion",
+      "event_subject": "Coco",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "coco resurgence media expansion",
+        "subject": "Coco",
+        "event_type": "other",
+        "action": "expand",
+        "status": "rumor",
+        "modality": "speculative",
+        "game": "",
+        "franchise": "",
+        "institution": "Disney",
+        "target": "audience",
+        "platforms": [],
+        "topic": "franchise_revival"
+      },
+      "modality": "speculative",
+      "topic": "franchise_revival",
+      "institution": "Disney",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new Disney Lorcana cards, Kingdom Hearts 4 world, theme‑park attraction, sequel"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-23T01:39:34.266013+06:00"
+    },
+    "evt_de779295af9ce2": {
+      "event_id": "evt_de779295af9ce2",
+      "event_key": "lego batman legacy of the dark knight switch2 review",
+      "event_subject": "LEGO Batman: Legacy of the Dark Knight review",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "lego batman legacy of the dark knight switch2 review",
+        "subject": "LEGO Batman: Legacy of the Dark Knight review",
+        "event_type": "review",
+        "action": "evaluate",
+        "status": "published",
+        "modality": "unknown",
+        "game": "LEGO Batman: Legacy of the Dark Knight",
+        "franchise": "LEGO Batman",
+        "institution": "TT Games",
+        "target": "Switch 2",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "game"
+      },
+      "modality": "unknown",
+      "topic": "game",
+      "institution": "TT Games",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-23T01:39:34.266016+06:00"
+    },
+    "evt_f6678ce390adee": {
+      "event_id": "evt_f6678ce390adee",
+      "event_key": "well dweller silksong replacement release",
+      "event_subject": "Well Dweller",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "well dweller silksong replacement release",
+        "subject": "Well Dweller",
+        "event_type": "release",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Well Dweller",
+        "franchise": "Well Dweller",
+        "institution": "Kyle Thompson",
+        "target": "",
+        "platforms": [],
+        "topic": "new_game"
+      },
+      "modality": "unknown",
+      "topic": "new_game",
+      "institution": "Kyle Thompson",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-23T01:39:34.266020+06:00"
+    },
+    "evt_ef7a4d3236d6f2": {
+      "event_id": "evt_ef7a4d3236d6f2",
+      "event_key": "adidas pokemon collection release",
+      "event_subject": "Adidas Pokémon collection",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "adidas pokemon collection release",
+        "subject": "Adidas Pokémon collection",
+        "event_type": "other",
+        "action": "launch",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Pokémon",
+        "institution": "Adidas",
+        "target": "",
+        "platforms": [],
+        "topic": "apparel"
+      },
+      "modality": "unknown",
+      "topic": "apparel",
+      "institution": "Adidas",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-09-23T01:39:34.266024+06:00"
+    },
+    "evt_e564d69e1718ca": {
+      "event_id": "evt_e564d69e1718ca",
+      "event_key": "lego dragon ball set teaser",
+      "event_subject": "LEGO Dragon Ball set tease",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "lego dragon ball set teaser",
+        "subject": "LEGO Dragon Ball set tease",
+        "event_type": "other",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Dragon Ball",
+        "institution": "LEGO",
+        "target": "",
+        "platforms": [],
+        "topic": "collectibles"
+      },
+      "modality": "unknown",
+      "topic": "collectibles",
+      "institution": "LEGO",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-09-23T01:39:34.266027+06:00"
+    },
+    "evt_9a1f752117aec2": {
+      "event_id": "evt_9a1f752117aec2",
+      "event_key": "mike ybarra comments on xbox after microsoft layoffs 2026",
+      "event_subject": "Mike Ybarra",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "mike ybarra comments on xbox after microsoft layoffs 2026",
+        "subject": "Mike Ybarra",
+        "event_type": "other",
+        "action": "comment",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "public",
+        "platforms": [],
+        "topic": "statement"
+      },
+      "modality": "unknown",
+      "topic": "statement",
+      "institution": "Microsoft",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "offers props to Xbox after latest bloodbath"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-09-23T01:39:34.266030+06:00"
+    },
+    "evt_7a1aad0a3e9e95": {
+      "event_id": "evt_7a1aad0a3e9e95",
+      "event_key": "sonic series cancellation risk interview iizuka",
+      "event_subject": "Sonic series risk of cancellation",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sonic series cancellation risk interview iizuka",
+        "subject": "Sonic series risk of cancellation",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Sonic the Hedgehog",
+        "franchise": "Sonic",
+        "institution": "Sega",
+        "target": "",
+        "platforms": [],
+        "topic": "series_history"
+      },
+      "modality": "unknown",
+      "topic": "series_history",
+      "institution": "Sega",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-09-23T01:39:34.266034+06:00"
+    },
+    "evt_04bcf899743d1a": {
+      "event_id": "evt_04bcf899743d1a",
+      "event_key": "darkwing duck series greenlight 2026",
+      "event_subject": "Darkwing Duck",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "darkwing duck series greenlight 2026",
+        "subject": "Darkwing Duck",
+        "event_type": "other",
+        "action": "greenlight",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Darkwing Duck",
+        "institution": "Disney",
+        "target": "viewers",
+        "platforms": [],
+        "topic": "animation"
+      },
+      "modality": "unknown",
+      "topic": "animation",
+      "institution": "Disney",
+      "sources": [
+        "Polygon",
+        "IGN"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "new series starring Mark Hamill, Seth Rogen, Lizzy Caplan",
+        "streaming release date with Mark Hamill and Seth Rogen"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 39
+      },
+      "last_seen": "2026-09-23T01:39:34.266038+06:00"
+    },
+    "evt_5eef8296f49ea3": {
+      "event_id": "evt_5eef8296f49ea3",
+      "event_key": "coyote vs acme streaming release date 2026",
+      "event_subject": "Coyote vs. Acme",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "coyote vs acme streaming release date 2026",
+        "subject": "Coyote vs. Acme",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "viewers",
+        "platforms": [],
+        "topic": "distribution"
+      },
+      "modality": "unknown",
+      "topic": "distribution",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "official streaming release date set"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-23T01:39:34.266042+06:00"
+    },
+    "evt_7e16b3b2b015c6": {
+      "event_id": "evt_7e16b3b2b015c6",
+      "event_key": "hogwarts legacy switch deal 2026",
+      "event_subject": "Hogwarts Legacy",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "hogwarts legacy switch deal 2026",
+        "subject": "Hogwarts Legacy",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Hogwarts Legacy",
+        "franchise": "Harry Potter",
+        "institution": "IGN",
+        "target": "consumers",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "discount"
+      },
+      "modality": "unknown",
+      "topic": "discount",
+      "institution": "IGN",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "top deals include Hogwarts Legacy for Switch"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-23T01:39:34.266045+06:00"
+    },
+    "evt_98b8b7e9b48ba0": {
+      "event_id": "evt_98b8b7e9b48ba0",
+      "event_key": "walmart geforce week pc sale",
+      "event_subject": "Walmart GeForce Week Sale",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "walmart geforce week pc sale",
+        "subject": "Walmart GeForce Week Sale",
+        "event_type": "other",
+        "action": "offer_discount",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Walmart",
+        "target": "gaming PCs",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "modality": "unknown",
+      "topic": "hardware",
+      "institution": "Walmart",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-23T01:39:34.266049+06:00"
+    },
+    "evt_7a620bd569db63": {
+      "event_id": "evt_7a620bd569db63",
+      "event_key": "danganronpa doki doki literature club nendoroid release",
+      "event_subject": "Game Nendoroid dolls",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "danganronpa doki doki literature club nendoroid release",
+        "subject": "Game Nendoroid dolls",
+        "event_type": "other",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Danganronpa, Doki Doki Literature Club",
+        "institution": "Good Smile Company",
+        "target": "",
+        "platforms": [],
+        "topic": "collectibles"
+      },
+      "modality": "unknown",
+      "topic": "collectibles",
+      "institution": "Good Smile Company",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-09-23T01:39:34.266053+06:00"
+    },
+    "evt_821c739ca54803": {
+      "event_id": "evt_821c739ca54803",
+      "event_key": "xbox layoffs studio shakeup reaction",
+      "event_subject": "Internet reaction to Xbox layoffs",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox layoffs studio shakeup reaction",
+        "subject": "Internet reaction to Xbox layoffs",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Xbox",
+        "target": "",
+        "platforms": [],
+        "topic": "industry"
+      },
+      "modality": "unknown",
+      "topic": "industry",
+      "institution": "Xbox",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-09-23T01:39:34.266057+06:00"
+    },
+    "evt_494af0f02a94a5": {
+      "event_id": "evt_494af0f02a94a5",
+      "event_key": "vice city trademark abandonment wwe 2026",
+      "event_subject": "Vice City",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "vice city trademark abandonment wwe 2026",
+        "subject": "Vice City",
+        "event_type": "other",
+        "action": "abandon",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "WWE",
+        "target": "public",
+        "platforms": [],
+        "topic": "legal"
+      },
+      "modality": "unknown",
+      "topic": "legal",
+      "institution": "WWE",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "WWE abandoned Vice City trademark"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 37
+      },
+      "last_seen": "2026-09-23T01:39:34.266061+06:00"
+    },
+    "evt_1c142027f795c3": {
+      "event_id": "evt_1c142027f795c3",
+      "event_key": "crazy taxi mod gta5 integration",
+      "event_subject": "Crazy Taxi mod for GTA V",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "crazy taxi mod gta5 integration",
+        "subject": "Crazy Taxi mod for GTA V",
+        "event_type": "other",
+        "action": "integrate",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto V",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "modding"
+      },
+      "modality": "unknown",
+      "topic": "modding",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-23T01:39:34.266065+06:00"
+    },
+    "evt_6ef35194c86072": {
+      "event_id": "evt_6ef35194c86072",
+      "event_key": "fire emblem fortunes weave lost temple cat quest walkthrough",
+      "event_subject": "Lost Temple Cat quest",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fire emblem fortunes weave lost temple cat quest walkthrough",
+        "subject": "Lost Temple Cat quest",
+        "event_type": "other",
+        "action": "provide_location",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Fire Emblem: Fortune's Weave",
+        "franchise": "Fire Emblem",
+        "institution": "Nintendo",
+        "target": "",
+        "platforms": [],
+        "topic": "gameplay"
+      },
+      "modality": "unknown",
+      "topic": "gameplay",
+      "institution": "Nintendo",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-23T01:39:34.266068+06:00"
+    },
+    "evt_4a78e05b6c4e0f": {
+      "event_id": "evt_4a78e05b6c4e0f",
+      "event_key": "minecraft beats itself simulation",
+      "event_subject": "Minecraft beats itself",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "minecraft beats itself simulation",
+        "subject": "Minecraft beats itself",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Minecraft",
+        "franchise": "Minecraft",
+        "institution": "Mojang",
+        "target": "",
+        "platforms": [],
+        "topic": "simulation"
+      },
+      "modality": "unknown",
+      "topic": "simulation",
+      "institution": "Mojang",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-23T01:39:34.266072+06:00"
+    },
+    "evt_89576ababe2b1c": {
+      "event_id": "evt_89576ababe2b1c",
+      "event_key": "scuf tournament controllers sale",
+      "event_subject": "SCUF tournament‑grade controller sale",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "scuf tournament controllers sale",
+        "subject": "SCUF tournament‑grade controller sale",
+        "event_type": "other",
+        "action": "offer_discount",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "SCUF Gaming",
+        "target": "controllers",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "modality": "unknown",
+      "topic": "hardware",
+      "institution": "SCUF Gaming",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-23T01:39:34.266076+06:00"
+    },
+    "evt_1416db5563174d": {
+      "event_id": "evt_1416db5563174d",
+      "event_key": "switch 2 512gb microsd deal 2026",
+      "event_subject": "Switch 2",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "switch 2 512gb microsd deal 2026",
+        "subject": "Switch 2",
+        "event_type": "other",
+        "action": "offer",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Amazon",
+        "target": "consumers",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "topic": "accessories"
+      },
+      "modality": "unknown",
+      "topic": "accessories",
+      "institution": "Amazon",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "512GB Samsung P9 MicroSD Card for $99.99"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-23T01:39:34.266080+06:00"
+    },
+    "evt_98584e3dcff4a7": {
+      "event_id": "evt_98584e3dcff4a7",
+      "event_key": "steam machine eink faceplates release",
+      "event_subject": "Steam Machine E‑Ink faceplates",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "steam machine eink faceplates release",
+        "subject": "Steam Machine E‑Ink faceplates",
+        "event_type": "other",
+        "action": "release",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Steam Machine",
+        "franchise": "Steam Machine",
+        "institution": "JSAUX",
+        "target": "",
+        "platforms": [],
+        "topic": "modding"
+      },
+      "modality": "unknown",
+      "topic": "modding",
+      "institution": "JSAUX",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-09-23T01:39:34.266083+06:00"
+    },
+    "evt_4c659043b5b7f8": {
+      "event_id": "evt_4c659043b5b7f8",
+      "event_key": "control story summary",
+      "event_subject": "Control story so far",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "control story summary",
+        "subject": "Control story so far",
+        "event_type": "other",
+        "action": "provide_overview",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Control",
+        "franchise": "Control",
+        "institution": "Remedy Entertainment",
+        "target": "",
+        "platforms": [],
+        "topic": "story"
+      },
+      "modality": "unknown",
+      "topic": "story",
+      "institution": "Remedy Entertainment",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-23T01:39:34.266086+06:00"
+    },
+    "evt_a59790e0609748": {
+      "event_id": "evt_a59790e0609748",
+      "event_key": "fire emblem fortunes weave date locations guide",
+      "event_subject": "Finding dates",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fire emblem fortunes weave date locations guide",
+        "subject": "Finding dates",
+        "event_type": "other",
+        "action": "provide_locations",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Fire Emblem: Fortune's Weave",
+        "franchise": "Fire Emblem",
+        "institution": "Nintendo",
+        "target": "",
+        "platforms": [],
+        "topic": "gameplay"
+      },
+      "modality": "unknown",
+      "topic": "gameplay",
+      "institution": "Nintendo",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-23T01:39:34.266090+06:00"
+    },
+    "evt_08103ee386f531": {
+      "event_id": "evt_08103ee386f531",
+      "event_key": "manhattan under siege announcement",
+      "event_subject": "Manhattan Under Siege",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "manhattan under siege announcement",
+        "subject": "Manhattan Under Siege",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "title"
+      },
+      "modality": "unknown",
+      "topic": "title",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-23T01:39:34.266093+06:00"
     }
   },
   "posted_event_ids": [
@@ -90511,7 +94387,18 @@
     "evt_ee9599d991e11b",
     "evt_02c091f565770f",
     "evt_547ca4e7d6afa6",
-    "evt_ea80151ef35e3d"
+    "evt_ea80151ef35e3d",
+    "evt_bf9c7f52a1b3ed",
+    "evt_7a6ea4356a7b67",
+    "evt_b017a1b5b4ec73",
+    "evt_5fdb4c3decab39",
+    "evt_70d0d6434c38c2",
+    "evt_47d11aca5fba4b",
+    "evt_1bb5bc3e740316",
+    "evt_efe8e8effe11c4",
+    "evt_a1c73fcad70deb",
+    "evt_2e26a3b363ecb5",
+    "evt_03b413418c92c4"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -90769,16 +94656,27 @@
     "rockstar tightens modding rules ahead of gta vi pc release",
     "bethesda takes over obsidian management amid xbox game studios reshuffle",
     "mr records expands to ps5 and xbox series with new pc demo",
-    "new your friendly neighborhood spider man comic bridges gap to season 2"
+    "new your friendly neighborhood spider man comic bridges gap to season 2",
+    "xbox announces 268 job cuts across halo coalition and other studios",
+    "xbox trims game studios shifts halo and rare to activision",
+    "halo studios promoted developer josh daniels laid off amid xbox restructuring",
+    "fall net studios unveils new vegas online mod turning classic fallout into mmo",
+    "undead labs gains independence targets state of decay 3 for ps5 release",
+    "xbox s uncertain future for arkane studios leaves blade in limbo",
+    "gigabyte rtx 5070 ti gaming pc slashed to 1 999 at walmart",
+    "rare studio shifted under activision sparks xbox community concerns",
+    "shift up s stellar blade teetered on bankruptcy before sony rescued the studio",
+    "story director on gears of war e day laid off days after game goes gold",
+    "early access graduates dominate steam s top rated 2026 releases"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-22T21:38:28.524056+06:00",
+    "Game Updates": "2026-09-23T01:48:14.557848+06:00",
     "Major Releases": "2026-09-22T00:41:53.097533+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
     "Nintendo": "2026-09-17T22:26:01.455912+06:00",
     "Expansions and DLC": "2026-09-22T21:38:39.294173+06:00",
-    "Gaming Hardware": "2026-09-22T17:10:55.679226+06:00",
+    "Gaming Hardware": "2026-09-23T01:47:54.941434+06:00",
     "Cybersecurity": "2026-09-10T01:20:12.789492+06:00",
     "Pricing and Monetization": "2026-09-22T17:11:00.531416+06:00",
     "Anti-Cheat": "2026-09-11T00:33:42.084305+06:00",
