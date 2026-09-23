@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"21c41-q9lC7VjHnuNqILMBTM4vsZL8tyw\"",
+      "etag": "W/\"1bade-62D+v4ra3CE9tofymt+mYhMgiTM\"",
       "last_modified": null,
-      "last_checked": "2026-09-23T01:34:29.199079+06:00",
+      "last_checked": "2026-09-23T11:30:19.331398+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-23T01:34:29.406383+06:00",
+      "last_checked": "2026-09-23T11:30:19.593596+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ab2d73c-a27\"",
-      "last_modified": "Tue, 22 Sep 2026 19:30:04 GMT",
-      "last_checked": "2026-09-23T01:34:29.741737+06:00",
+      "etag": "\"6ab363dc-9c7\"",
+      "last_modified": "Wed, 23 Sep 2026 05:30:04 GMT",
+      "last_checked": "2026-09-23T11:30:19.983055+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Tue, 22 Sep 2026 16:18:06 GMT",
-      "last_checked": "2026-09-23T01:34:30.220197+06:00",
+      "last_checked": "2026-09-23T11:30:20.675928+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ab2d3f4-135e\"",
-      "last_modified": "Tue, 22 Sep 2026 19:16:04 GMT",
-      "last_checked": "2026-09-23T01:34:30.641982+06:00",
+      "etag": "\"6ab36019-135d\"",
+      "last_modified": "Wed, 23 Sep 2026 05:14:01 GMT",
+      "last_checked": "2026-09-23T11:30:20.858869+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-23T01:34:30.766344+06:00",
+      "last_checked": "2026-09-23T11:30:21.079957+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-23T01:34:31.124385+06:00",
+      "last_checked": "2026-09-23T11:30:21.542434+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"f62621d294b147373d47b895bc3ac06d\"",
-      "last_modified": "Tue, 22 Sep 2026 19:30:18 GMT",
-      "last_checked": "2026-09-23T01:34:31.333978+06:00",
+      "etag": "W/\"4c47e1069483bd0bc4288da12f973c86\"",
+      "last_modified": "Tue, 22 Sep 2026 22:24:05 GMT",
+      "last_checked": "2026-09-23T11:30:21.806991+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-23T01:34:31.483653+06:00",
+      "last_checked": "2026-09-23T11:30:22.000070+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Tue, 22 Sep 2026 19:31:02 GMT",
-      "last_checked": "2026-09-23T01:34:31.895443+06:00",
+      "last_modified": "Tue, 22 Sep 2026 22:46:27 GMT",
+      "last_checked": "2026-09-23T11:30:22.424277+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Tue, 22 Sep 2026 19:34:32 GMT",
-      "last_checked": "2026-09-23T01:34:32.301219+06:00",
+      "last_modified": "Wed, 23 Sep 2026 05:30:22 GMT",
+      "last_checked": "2026-09-23T11:30:22.874800+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"a3a1532c1aafc2a353dc0d69873e0e1e\"",
-      "last_modified": "Tue, 22 Sep 2026 19:32:58 GMT",
-      "last_checked": "2026-09-23T01:34:32.481719+06:00",
+      "etag": "W/\"b3222635a4d825cbc7032865621ec348\"",
+      "last_modified": "Tue, 22 Sep 2026 22:56:51 GMT",
+      "last_checked": "2026-09-23T11:30:22.991293+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-23T01:34:32.865733+06:00",
+      "last_checked": "2026-09-23T11:30:23.428594+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-23T01:34:33.203668+06:00",
+      "last_checked": "2026-09-23T11:30:23.698054+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-23T01:34:33.481979+06:00",
+      "last_checked": "2026-09-23T11:30:24.055244+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-23T01:34:33.712898+06:00",
-      "fail_count": 55,
+      "last_checked": "2026-09-23T11:30:24.267845+06:00",
+      "fail_count": 56,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"1d7d3de5f6342a4a4ab678e1def8673e\"",
-      "last_modified": "Tue, 22 Sep 2026 16:19:22 GMT",
-      "last_checked": "2026-09-23T01:34:33.872892+06:00",
+      "etag": "W/\"d498afea332384c279638fce020ac1c1\"",
+      "last_modified": "Tue, 22 Sep 2026 23:31:14 GMT",
+      "last_checked": "2026-09-23T11:30:24.340066+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-23T01:34:34.010812+06:00",
+      "last_checked": "2026-09-23T11:30:24.451810+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-23T01:34:34.208611+06:00",
-      "fail_count": 55,
+      "last_checked": "2026-09-23T11:30:24.581048+06:00",
+      "fail_count": 56,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"36b5899651629866d528cb840823fd3b\"",
       "last_modified": "Tue, 22 Sep 2026 10:12:05 GMT",
-      "last_checked": "2026-09-23T01:34:34.385206+06:00",
+      "last_checked": "2026-09-23T11:30:25.335400+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -170,104 +170,6 @@
       "status": "pending",
       "first_seen": "2026-09-17T17:00:29.156472+06:00",
       "last_seen": "2026-09-22T17:00:09.066041+06:00"
-    },
-    "polygon.com/best-psychological-thriller-movies-free-streaming": {
-      "title": "5 Near-Perfect Psychological Thriller Movies Streaming for Free",
-      "url": "https://www.polygon.com/best-psychological-thriller-movies-free-streaming/",
-      "canonical": "polygon.com/best-psychological-thriller-movies-free-streaming",
-      "published_dt": "2026-09-19T11:01:14+06:00",
-      "published_date": "2026-09-19T11:01:14+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "These tense genre picks are well worth your time.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/time-outs-50-greatest-japanese-movies-of-all-time-v0-8px5-ngeptneeincyosgdiml-zor46abfcqc4v1dppy-1.webp",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-19T11:30:10.042082+06:00",
-      "last_seen": "2026-09-19T11:30:10.042086+06:00"
-    },
-    "polygon.com/calvin-and-hobbes-last-comic-strip-lets-go-exploring": {
-      "title": "31 Years Later, the Final 'Calvin and Hobbes' Comic Strip is Still a Perfect Sendoff",
-      "url": "https://www.polygon.com/calvin-and-hobbes-last-comic-strip-lets-go-exploring/",
-      "canonical": "polygon.com/calvin-and-hobbes-last-comic-strip-lets-go-exploring",
-      "published_dt": "2026-09-19T10:00:20+06:00",
-      "published_date": "2026-09-19T10:00:20+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Back in 1995, catoonist Bill Watterson brought Calvin and Hobbes to a perfect conclusion",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/1200x800-ch-fam-exhib-page.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-19T11:30:10.042198+06:00",
-      "last_seen": "2026-09-19T11:30:10.042200+06:00"
-    },
-    "polygon.com/netflix-weekend-binge-september-2026-shows": {
-      "title": "3 Netflix Shows You Need to Binge This Weekend (Sept. 18-20)",
-      "url": "https://www.polygon.com/netflix-weekend-binge-september-2026-shows/",
-      "canonical": "polygon.com/netflix-weekend-binge-september-2026-shows",
-      "published_dt": "2026-09-19T09:53:15+06:00",
-      "published_date": "2026-09-19T09:53:15+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Go deep on classic sci-fi, epic anime, and a hidden Netflix gem.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/images-3.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-19T11:30:10.042293+06:00",
-      "last_seen": "2026-09-19T11:30:10.042295+06:00"
-    },
-    "insider-gaming.com/interscape-preview-inception-interstellar-incredible": {
-      "title": "INTERSCAPE Is Inception Meets Control, And It’s Incredible",
-      "url": "https://insider-gaming.com/interscape-preview-inception-interstellar-incredible/",
-      "canonical": "insider-gaming.com/interscape-preview-inception-interstellar-incredible",
-      "published_dt": "2026-09-19T11:03:49+06:00",
-      "published_date": "2026-09-19T11:03:49+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "At the Tokyo Game Show, we went hands-on with INTERSCAPE, a game heavily inspired by the works of Christopher Nolan. The post INTERSCAPE Is Inception Meets Control, And It’s Incredible appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-09-19T11:30:12.005511+06:00",
-      "last_seen": "2026-09-19T11:30:12.005515+06:00",
-      "posted_at": "2026-09-19T11:32:36.141402+06:00"
-    },
-    "insider-gaming.com/fareidolia-hands-on-preview-tokyo-game-show-nexon": {
-      "title": "Fareidolia Hands-On Preview: Nexon’s Project RX Boasts Unique Combat Mechanics",
-      "url": "https://insider-gaming.com/fareidolia-hands-on-preview-tokyo-game-show-nexon/",
-      "canonical": "insider-gaming.com/fareidolia-hands-on-preview-tokyo-game-show-nexon",
-      "published_dt": "2026-09-19T10:27:08+06:00",
-      "published_date": "2026-09-19T10:27:08+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Nexon's Project RX has been unveiled as Fareidolia, and at the Tokyo Game Show, it was playable for the first time. We went hands-on with it. The post Fareidolia Hands-On Preview: Nexon’s Project RX Boasts Unique Combat Mechanics appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-09-19T11:30:12.005745+06:00",
-      "last_seen": "2026-09-19T11:30:12.005747+06:00",
-      "posted_at": "2026-09-19T11:32:30.678999+06:00"
-    },
-    "nintendolife.com/news/2026/09/nintendo-appears-to-have-updated-the-super-mario-logo": {
-      "title": "Nintendo Appears To Have Updated The Super Mario Logo",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-appears-to-have-updated-the-super-mario-logo",
-      "canonical": "nintendolife.com/news/2026/09/nintendo-appears-to-have-updated-the-super-mario-logo",
-      "published_dt": "2026-09-19T09:30:00+06:00",
-      "published_date": "2026-09-19T09:30:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "40 years and counting. Following the recent conclusion of the Super Mario 40th anniversary, Nintendo has reportedly updated the series' logo and also released some new renders. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/6726189978453/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-19T11:30:12.613597+06:00",
-      "last_seen": "2026-09-19T11:30:12.613602+06:00"
     },
     "polygon.com/star-trek-kelvin-era-idw-classic-collection-comics-returning-november": {
       "title": "10 Years Later, Star Trek's Best Era Is Officially Making a Comeback",
@@ -9164,6 +9066,55 @@
       "status": "pending",
       "first_seen": "2026-09-23T01:34:33.925190+06:00",
       "last_seen": "2026-09-23T01:34:33.925194+06:00"
+    },
+    "pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card": {
+      "title": "Where can Australians buy R18+ PC games without a credit card? Pretty much everywhere but Steam",
+      "url": "https://www.pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card/",
+      "canonical": "pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card",
+      "published_dt": "2026-09-23T09:38:59+06:00",
+      "published_date": "2026-09-23T09:38:59+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Valve has dropped the ball on implementing reasonable age verification measures, so it's time to look further afield.",
+      "image": "https://cdn.mos.cms.futurecdn.net/DZKZDSWUzBbPNghUTiW3bc-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T11:30:21.271497+06:00",
+      "last_seen": "2026-09-23T11:30:21.271503+06:00"
+    },
+    "polygon.com/x-files-the-host-flukeman-best-monter-of-the-week": {
+      "title": "32 Years Ago, a Crucial 'X-Files' Episode Introduced the Show’s Best Monster Ever",
+      "url": "https://www.polygon.com/x-files-the-host-flukeman-best-monter-of-the-week/",
+      "canonical": "polygon.com/x-files-the-host-flukeman-best-monter-of-the-week",
+      "published_dt": "2026-09-23T10:00:20+06:00",
+      "published_date": "2026-09-23T10:00:20+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The X-Files epsiode \"The Host\" premiered 32 years ago. find out why the flukeman is the show's best monster.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/msdxfil_fe024.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-23T11:30:21.550346+06:00",
+      "last_seen": "2026-09-23T11:30:21.550351+06:00"
+    },
+    "nintendolife.com/news/2026/09/well-be-creating-a-whole-new-kind-of-gameplay-experience-iizuka-says-the-new-sonic-game-is-now-in-development": {
+      "title": "\"We'll Be Creating A Whole New Kind Of Gameplay Experience\" - Iizuka Says The New Sonic Game Is Now In Development",
+      "url": "https://www.nintendolife.com/news/2026/09/well-be-creating-a-whole-new-kind-of-gameplay-experience-iizuka-says-the-new-sonic-game-is-now-in-development",
+      "canonical": "nintendolife.com/news/2026/09/well-be-creating-a-whole-new-kind-of-gameplay-experience-iizuka-says-the-new-sonic-game-is-now-in-development",
+      "published_dt": "2026-09-23T10:45:00+06:00",
+      "published_date": "2026-09-23T10:45:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "35 years of speed and counting. As we heard in a recent story, there have been \" good times, and there have been bad times \" for blue blur, and right now Sonic the Hedgehog 's future seems rather bright with another live-action movie on the horizon and more video games guaranteed to follow. Of course, a bit like Nintendo and Super Mario , Sega is always working on what's next for Sonic, and in a new interview with Japanese outlet 4Gamer , it seems we might have got the first proper update from the Sonic Team about the next major project. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/00e56437cf8dc/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-23T11:30:23.446827+06:00",
+      "last_seen": "2026-09-23T11:30:23.446832+06:00",
+      "posted_at": "2026-09-23T11:34:42.129887+06:00"
     }
   },
   "events": {
@@ -22760,6 +22711,61 @@
           "headline": "Early‑Access Graduates Dominate Steam’s Top‑Rated 2026 Releases",
           "claims": [
             "more than half of top‑10 best‑rated 2026 releases are early‑access graduates"
+          ]
+        }
+      ]
+    },
+    "evt_b7885ac4b5aec1": {
+      "event_id": "evt_b7885ac4b5aec1",
+      "event_key": "sonicteam new game development announcement",
+      "event_subject": "Sonic the Hedgehog",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sonicteam new game development announcement",
+        "subject": "Sonic the Hedgehog",
+        "event_type": "other",
+        "action": "announce",
+        "status": "ongoing",
+        "modality": "confirmed",
+        "game": "Sonic the Hedgehog (new title)",
+        "franchise": "Sonic the Hedgehog",
+        "institution": "Sega",
+        "target": "new game",
+        "platforms": [
+          "Nintendo Switch",
+          "PlayStation",
+          "Xbox",
+          "PC"
+        ],
+        "topic": "game development"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [
+        "Sonic Team is developing a new Sonic game"
+      ],
+      "importance_score": 42,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Sega Confirms New Sonic Game in Development, Promises Fresh Gameplay",
+      "summary": "Sonic boss Takashi Iizuka revealed at TGS that a new Sonic the Hedgehog title is in development, aiming to reinvent gameplay through characters, story, and systems.",
+      "published_at": "2026-09-23T10:45:00+06:00",
+      "selected_at": "2026-09-23T05:34:42.129922+00:00",
+      "status": "published",
+      "message_id": 430,
+      "published_versions": [
+        {
+          "published_at": "2026-09-23T05:34:42.129922+00:00",
+          "headline": "Sega Confirms New Sonic Game in Development, Promises Fresh Gameplay",
+          "claims": [
+            "Sonic Team is developing a new Sonic game"
           ]
         }
       ]
@@ -94129,6 +94135,136 @@
         "total": 32
       },
       "last_seen": "2026-09-23T01:39:34.266093+06:00"
+    },
+    "evt_b7885ac4b5aec1": {
+      "event_id": "evt_b7885ac4b5aec1",
+      "event_key": "sonicteam new game development announcement",
+      "event_subject": "Sonic the Hedgehog",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sonicteam new game development announcement",
+        "subject": "Sonic the Hedgehog",
+        "event_type": "other",
+        "action": "announce",
+        "status": "ongoing",
+        "modality": "confirmed",
+        "game": "Sonic the Hedgehog (new title)",
+        "franchise": "Sonic the Hedgehog",
+        "institution": "Sega",
+        "target": "new game",
+        "platforms": [
+          "Nintendo Switch",
+          "PlayStation",
+          "Xbox",
+          "PC"
+        ],
+        "topic": "game development"
+      },
+      "modality": "confirmed",
+      "topic": "game development",
+      "institution": "Sega",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Sonic Team is developing a new Sonic game"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-23T11:32:39.725725+06:00"
+    },
+    "evt_fcb3344e9be6aa": {
+      "event_id": "evt_fcb3344e9be6aa",
+      "event_key": "valve age verification failure report",
+      "event_subject": "Valve",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "valve age verification failure report",
+        "subject": "Valve",
+        "event_type": "other",
+        "action": "report",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Valve Corporation",
+        "target": "R18+ PC games age verification",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "regulation"
+      },
+      "modality": "unknown",
+      "topic": "regulation",
+      "institution": "Valve Corporation",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Valve has not implemented adequate age‑verification for adult PC games"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-09-23T11:32:39.725750+06:00"
+    },
+    "evt_07022d890f026c": {
+      "event_id": "evt_07022d890f026c",
+      "event_key": "x files episode anniversary report",
+      "event_subject": "The X-Files",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "x files episode anniversary report",
+        "subject": "The X-Files",
+        "event_type": "other",
+        "action": "recap",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Fox",
+        "target": "episode \"The Host\"",
+        "platforms": [],
+        "topic": "media"
+      },
+      "modality": "unknown",
+      "topic": "media",
+      "institution": "Fox",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "32‑year anniversary of the episode introducing the Flukeman"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-23T11:32:39.725760+06:00"
     }
   },
   "posted_event_ids": [
@@ -94398,7 +94534,8 @@
     "evt_efe8e8effe11c4",
     "evt_a1c73fcad70deb",
     "evt_2e26a3b363ecb5",
-    "evt_03b413418c92c4"
+    "evt_03b413418c92c4",
+    "evt_b7885ac4b5aec1"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -94667,10 +94804,11 @@
     "rare studio shifted under activision sparks xbox community concerns",
     "shift up s stellar blade teetered on bankruptcy before sony rescued the studio",
     "story director on gears of war e day laid off days after game goes gold",
-    "early access graduates dominate steam s top rated 2026 releases"
+    "early access graduates dominate steam s top rated 2026 releases",
+    "sega confirms new sonic game in development promises fresh gameplay"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-23T01:48:14.557848+06:00",
+    "Game Updates": "2026-09-23T11:34:42.129944+06:00",
     "Major Releases": "2026-09-22T00:41:53.097533+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
