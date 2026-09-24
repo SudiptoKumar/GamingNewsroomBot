@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1e9bc-eu4RXPoaPcznXAodar+dIJynWzI\"",
+      "etag": "W/\"1da70-D86eu4hVkTcK8TiGDLo6whWB3cY\"",
       "last_modified": null,
-      "last_checked": "2026-09-24T11:52:02.290672+06:00",
+      "last_checked": "2026-09-24T17:09:15.453225+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-24T11:52:02.487574+06:00",
+      "last_checked": "2026-09-24T17:09:15.726069+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ab4ba0a-ac7\"",
-      "last_modified": "Thu, 24 Sep 2026 05:50:02 GMT",
-      "last_checked": "2026-09-24T11:52:02.760222+06:00",
+      "etag": "\"6ab503df-ae7\"",
+      "last_modified": "Thu, 24 Sep 2026 11:05:03 GMT",
+      "last_checked": "2026-09-24T17:09:15.984660+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Wed, 23 Sep 2026 18:55:20 GMT",
-      "last_checked": "2026-09-24T11:52:03.431006+06:00",
+      "last_modified": "Thu, 24 Sep 2026 10:45:03 GMT",
+      "last_checked": "2026-09-24T17:09:18.100699+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ab4a340-12b9\"",
-      "last_modified": "Thu, 24 Sep 2026 04:12:48 GMT",
-      "last_checked": "2026-09-24T11:52:03.639924+06:00",
+      "etag": "\"6ab4fc26-1231\"",
+      "last_modified": "Thu, 24 Sep 2026 10:32:06 GMT",
+      "last_checked": "2026-09-24T17:09:18.456575+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-24T11:52:03.853362+06:00",
+      "last_checked": "2026-09-24T17:09:18.639508+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-24T11:52:04.589456+06:00",
+      "last_checked": "2026-09-24T17:09:19.204248+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"e850e4980f35ac52c859df413fdddd50\"",
-      "last_modified": "Wed, 23 Sep 2026 22:11:20 GMT",
-      "last_checked": "2026-09-24T11:52:04.799280+06:00",
+      "etag": "W/\"65068b16c280e995a186d393ff40abf5\"",
+      "last_modified": "Thu, 24 Sep 2026 10:34:00 GMT",
+      "last_checked": "2026-09-24T17:09:19.383070+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-24T11:52:05.019849+06:00",
+      "last_checked": "2026-09-24T17:09:19.467377+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Wed, 23 Sep 2026 16:36:42 GMT",
-      "last_checked": "2026-09-24T11:52:05.479399+06:00",
+      "last_modified": "Thu, 24 Sep 2026 09:58:38 GMT",
+      "last_checked": "2026-09-24T17:09:19.861513+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
       "last_modified": "Wed, 23 Sep 2026 19:26:58 GMT",
-      "last_checked": "2026-09-24T11:52:06.214371+06:00",
+      "last_checked": "2026-09-24T17:09:20.460165+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"06330304100a7520ce326e0fdb3bef0c\"",
-      "last_modified": "Thu, 24 Sep 2026 00:23:13 GMT",
-      "last_checked": "2026-09-24T11:52:06.335747+06:00",
+      "etag": "W/\"3c9ff38db1bb35e4bd8511c9198f9fb5\"",
+      "last_modified": "Thu, 24 Sep 2026 10:57:37 GMT",
+      "last_checked": "2026-09-24T17:09:20.644565+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-24T11:52:06.844021+06:00",
+      "last_checked": "2026-09-24T17:09:20.994899+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-24T11:52:07.375206+06:00",
+      "last_checked": "2026-09-24T17:09:21.418342+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-24T11:52:07.939377+06:00",
+      "last_checked": "2026-09-24T17:09:21.774131+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-24T11:52:08.256572+06:00",
-      "fail_count": 60,
+      "last_checked": "2026-09-24T17:09:21.894439+06:00",
+      "fail_count": 61,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"a3cd37eb92fe83182659a73fe7148602\"",
       "last_modified": "Wed, 23 Sep 2026 18:50:00 GMT",
-      "last_checked": "2026-09-24T11:52:08.378040+06:00",
+      "last_checked": "2026-09-24T17:09:22.046470+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-24T11:52:08.515679+06:00",
+      "last_checked": "2026-09-24T17:09:22.205281+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-24T11:52:08.708164+06:00",
-      "fail_count": 60,
+      "last_checked": "2026-09-24T17:09:22.422539+06:00",
+      "fail_count": 61,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"d3ddb710f7e57201e9e480555e3d1d3c\"",
-      "last_modified": "Wed, 23 Sep 2026 16:00:00 GMT",
-      "last_checked": "2026-09-24T11:52:08.803971+06:00",
+      "etag": "W/\"cfa1fae0878afb33d79e7ca0164a00b8\"",
+      "last_modified": "Thu, 24 Sep 2026 09:00:00 GMT",
+      "last_checked": "2026-09-24T17:09:22.559430+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -153,184 +153,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-17T17:00:29.156472+06:00",
-      "last_seen": "2026-09-23T16:49:00.717273+06:00"
-    },
-    "videogameschronicle.com/news/a-demo-of-castlevania-belmonts-curse-has-been-officially-announced": {
-      "title": "A demo of Castlevania Belmont’s Curse has been officially announced",
-      "url": "https://www.videogameschronicle.com/news/a-demo-of-castlevania-belmonts-curse-has-been-officially-announced/",
-      "canonical": "videogameschronicle.com/news/a-demo-of-castlevania-belmonts-curse-has-been-officially-announced",
-      "published_dt": "2026-09-20T16:37:13+06:00",
-      "published_date": "2026-09-20T16:37:13+06:00",
-      "source": "VGC",
-      "region": "Gaming",
-      "excerpt": "Save data from the the demo will be transferred to the full version",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-09-20T16:40:40.095351+06:00",
-      "last_seen": "2026-09-20T16:40:40.095357+06:00",
-      "posted_at": "2026-09-20T16:41:01.842835+06:00"
-    },
-    "eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign": {
-      "title": "Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign",
-      "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
-      "canonical": "eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
-      "published_dt": "2026-09-20T15:20:36+06:00",
-      "published_date": "2026-09-20T15:20:36+06:00",
-      "source": "Eurogamer",
-      "region": "Gaming",
-      "excerpt": "Wolverine developer Insomniac has denied using generative AI after fans jumped on social media to share screenshots of a bizarre restroom sign. Read more",
-      "image": "https://assetsio.gnwcdn.com/Screenshot-2026-09-20-at-10.09.46.png?width=690&quality=85&format=jpg&auto=webp",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-20T16:40:40.366375+06:00",
-      "last_seen": "2026-09-20T16:40:40.366383+06:00"
-    },
-    "pcgamer.com/games/action/tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole-in-my-life": {
-      "title": "Tokyo Walled City looks set to fill the Deus Ex-shaped hole in my life",
-      "url": "https://www.pcgamer.com/games/action/tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole-in-my-life/",
-      "canonical": "pcgamer.com/games/action/tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole-in-my-life",
-      "published_dt": "2026-09-20T16:01:30+06:00",
-      "published_date": "2026-09-20T16:01:30+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "I am definitely asking for this.",
-      "image": "https://cdn.mos.cms.futurecdn.net/CsrW6er8jn85dGabqZwf6Y-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-20T16:40:41.081178+06:00",
-      "last_seen": "2026-09-20T16:40:41.081185+06:00"
-    },
-    "polygon.com/8-years-ago-critical-role-mollymauk-death": {
-      "title": "8 Years Ago, Critical Role Changed Forever with Its Most Shocking Character Death",
-      "url": "https://www.polygon.com/8-years-ago-critical-role-mollymauk-death/",
-      "canonical": "polygon.com/8-years-ago-critical-role-mollymauk-death",
-      "published_dt": "2026-09-20T15:00:15+06:00",
-      "published_date": "2026-09-20T15:00:15+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Campaign 2 of Critical Role broke Critters' hearts in a way that has (thankfully) yet to be replicated even 8 years later.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/critical-role.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-20T16:40:41.283364+06:00",
-      "last_seen": "2026-09-20T16:40:41.283370+06:00"
-    },
-    "polygon.com/gta-timeline-doesnt-matter": {
-      "title": "The GTA Timeline Is Completely Irrelevant",
-      "url": "https://www.polygon.com/gta-timeline-doesnt-matter/",
-      "canonical": "polygon.com/gta-timeline-doesnt-matter",
-      "published_dt": "2026-09-20T14:30:14+06:00",
-      "published_date": "2026-09-20T14:30:14+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Rockstar's Grand Theft Auto games are loosely connected, but they all stand alone for a reason",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_08.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-20T16:40:41.283530+06:00",
-      "last_seen": "2026-09-20T16:40:41.283534+06:00"
-    },
-    "gamesradar.com/games/persona/persona-4-revival-adds-a-fan-favorite-character-from-the-anime-as-a-social-link-hinting-we-might-get-new-personas-in-the-remake": {
-      "title": "Persona 4 Revival adds a fan-favorite character from the anime as a social link, hinting we might get new Personas in the remake",
-      "url": "https://www.gamesradar.com/games/persona/persona-4-revival-adds-a-fan-favorite-character-from-the-anime-as-a-social-link-hinting-we-might-get-new-personas-in-the-remake/",
-      "canonical": "gamesradar.com/games/persona/persona-4-revival-adds-a-fan-favorite-character-from-the-anime-as-a-social-link-hinting-we-might-get-new-personas-in-the-remake",
-      "published_dt": "2026-09-20T16:32:35+06:00",
-      "published_date": "2026-09-20T16:32:35+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "Aika is here!",
-      "image": "https://cdn.mos.cms.futurecdn.net/GdQKTm3pczMYNySq6b6tWd-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-20T16:40:41.864177+06:00",
-      "last_seen": "2026-09-20T16:40:41.864185+06:00"
-    },
-    "gamesradar.com/games/action/a-castlevania-belmonts-curse-demo-kicks-off-the-halloween-season-in-october-with-save-data-transferring-to-the-full-game": {
-      "title": "A Castlevania: Belmont's Curse demo kicks off the Halloween season in October, with save data transferring to the full game",
-      "url": "https://www.gamesradar.com/games/action/a-castlevania-belmonts-curse-demo-kicks-off-the-halloween-season-in-october-with-save-data-transferring-to-the-full-game/",
-      "canonical": "gamesradar.com/games/action/a-castlevania-belmonts-curse-demo-kicks-off-the-halloween-season-in-october-with-save-data-transferring-to-the-full-game",
-      "published_dt": "2026-09-20T16:07:19+06:00",
-      "published_date": "2026-09-20T16:07:19+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "A couple weeks before the Metroidvania's full launch",
-      "image": "https://cdn.mos.cms.futurecdn.net/V9kivspRjp2p2CXFbXeo6-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-20T16:40:41.864329+06:00",
-      "last_seen": "2026-09-20T16:40:41.864333+06:00"
-    },
-    "rockpapershotgun.com/the-sunday-papers-828": {
-      "title": "The Sunday Papers",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-828",
-      "canonical": "rockpapershotgun.com/the-sunday-papers-828",
-      "published_dt": "2026-09-20T15:00:00+06:00",
-      "published_date": "2026-09-20T15:00:00+06:00",
-      "source": "Rock Paper Shotgun",
-      "region": "Gaming",
-      "excerpt": "Sundays - well, very early Sunday mornings - are for watching a whole queue of hungry wild animals pass your kitchen window, because a neighbour has decided to leave a bollard-sized catfood dispenser outside the block entrance while they're away on holiday. I'm pretty sure the neighbour's cat wouldn't eat from the dispenser even if there wasn't a badger wedged eagerly inside it. She's an aloof and disdainful creature, who hates going near the front door because that's where those stinky humans come from. Will I try to feed the poor moggy, denied her dinner by a bunch of Farthing Wood rejects? No I will not, because I'm too busy reading articles about videogames, and things that are vaguely in the orbit of videogames. Here are a few of those articles. Look, please stop fretting about the cat. She's perfectly plump and glossy, whereas that badger looks like he hasn't had a square meal since August. Read more",
-      "image": "https://assetsio.gnwcdn.com/the-sunday-papers-big.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-20T16:40:42.211944+06:00",
-      "last_seen": "2026-09-20T16:40:42.211951+06:00"
-    },
-    "nintendolife.com/features/box-art-brawl-duel-cubivore-survival-of-the-fittest": {
-      "title": "Feature: Box Art Brawl - Duel: Cubivore: Survival Of The Fittest",
-      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-cubivore-survival-of-the-fittest",
-      "canonical": "nintendolife.com/features/box-art-brawl-duel-cubivore-survival-of-the-fittest",
-      "published_dt": "2026-09-20T15:00:00+06:00",
-      "published_date": "2026-09-20T15:00:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Remember this one? Hello folks, and welcome back to another edition of Box Art Brawl ! Last week , our resident Layton fanatic put Spectre's Call under the microscope, pitting Europe against North America and Japan. The latter two nabbed the trophy this time, gaining 66% of the vote. Well done! Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/0b9f6bce2e9d0/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-20T16:40:42.993185+06:00",
-      "last_seen": "2026-09-20T16:40:42.993192+06:00"
-    },
-    "nintendolife.com/news/2026/09/konami-releasing-castlevania-belmonts-curse-demo-next-month": {
-      "title": "Konami Releasing Castlevania: Belmont's Curse Demo Next Month",
-      "url": "https://www.nintendolife.com/news/2026/09/konami-releasing-castlevania-belmonts-curse-demo-next-month",
-      "canonical": "nintendolife.com/news/2026/09/konami-releasing-castlevania-belmonts-curse-demo-next-month",
-      "published_dt": "2026-09-20T14:05:00+06:00",
-      "published_date": "2026-09-20T14:05:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Save data will carry over. Konami is reviving the Castlevania series next month with the release of Castlevania: Belmont's Curse on the Switch. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/9be15c9f1f1ce/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-20T16:40:42.993604+06:00",
-      "last_seen": "2026-09-20T16:40:42.993610+06:00"
-    },
-    "escapistmagazine.com/nodusfall-coop-boss-battles": {
-      "title": "Nodusfall Co-Op Boss Battles Preview",
-      "url": "https://www.escapistmagazine.com/nodusfall-coop-boss-battles/",
-      "canonical": "escapistmagazine.com/nodusfall-coop-boss-battles",
-      "published_dt": "2026-09-20T15:00:00+06:00",
-      "published_date": "2026-09-20T15:00:00+06:00",
-      "source": "The Escapist",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-09-20T16:40:50.466988+06:00",
-      "last_seen": "2026-09-20T16:40:50.466993+06:00"
+      "last_seen": "2026-09-24T17:09:20.655885+06:00"
     },
     "videogameschronicle.com/news/terrifying-phenomenon-seen-in-new-york-city": {
       "title": "‘Terrifying’ phenomenon seen in New York City",
@@ -11104,6 +10927,666 @@
       "first_seen": "2026-09-24T11:52:06.866694+06:00",
       "last_seen": "2026-09-24T11:52:06.866699+06:00",
       "posted_at": "2026-09-24T11:57:17.501529+06:00"
+    },
+    "ign.com/articles/nintendo-switch-2-uk-deal-lowest-price-ever": {
+      "title": "Nintendo Switch 2 Drops to Record-Low £355 in the UK",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-uk-deal-lowest-price-ever",
+      "canonical": "ign.com/articles/nintendo-switch-2-uk-deal-lowest-price-ever",
+      "published_dt": "2026-09-24T16:33:22+06:00",
+      "published_date": "2026-09-24T16:33:22+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Despite a price rise at the start of September (jumping to £419.99 RRP), Nintendo Switch 2 consoles are now at their lowest price ever in the UK as part of a limited-time sale. Here's where you can pick up the console for just £354.99 right now.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/24/switch-2-deal-uk-ign-1790245761638.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:15.509336+06:00",
+      "last_seen": "2026-09-24T17:09:15.509343+06:00"
+    },
+    "ign.com/articles/injustice-3-rumors-sparks-response-from-netherrealms-ed-boon": {
+      "title": "Injustice 3 Rumor Sparks Response From NetherRealm's Ed Boon",
+      "url": "https://www.ign.com/articles/injustice-3-rumors-sparks-response-from-netherrealms-ed-boon",
+      "canonical": "ign.com/articles/injustice-3-rumors-sparks-response-from-netherrealms-ed-boon",
+      "published_dt": "2026-09-24T16:04:29+06:00",
+      "published_date": "2026-09-24T16:04:29+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "NetherRealm development chief Ed Boon has responded to rumors doing the rounds about the studio’s next game, including reports indicating Injustice 3 is in the works.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/24/quinn-1790244047729.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:15.509527+06:00",
+      "last_seen": "2026-09-24T17:09:15.509531+06:00"
+    },
+    "ign.com/articles/the-lord-of-the-rings-star-andy-serkis-is-working-on-a-sci-fi-adaptation-of-the-odyssey-for-audible": {
+      "title": "The Lord of the Rings Star Andy Serkis is Working on a Sci-Fi Adaptation of The Odyssey for Audible",
+      "url": "https://www.ign.com/articles/the-lord-of-the-rings-star-andy-serkis-is-working-on-a-sci-fi-adaptation-of-the-odyssey-for-audible",
+      "canonical": "ign.com/articles/the-lord-of-the-rings-star-andy-serkis-is-working-on-a-sci-fi-adaptation-of-the-odyssey-for-audible",
+      "published_dt": "2026-09-24T15:32:30+06:00",
+      "published_date": "2026-09-24T15:32:30+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "The Lord of the Rings star Andy Serkis is working on a sci-fi version of The Odyssey, written by acclaimed author Adrian Tchaikovsky.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/24/gettyimages-2209806887-1790241271690.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:15.509655+06:00",
+      "last_seen": "2026-09-24T17:09:15.509658+06:00"
+    },
+    "ign.com/articles/pokemon-tcg-30th-anniversary-celebration-booster-bundles-where-to-buy": {
+      "title": "Pokémon TCG: 30th Anniversary Celebration Booster Bundles Are In Stock at Amazon",
+      "url": "https://www.ign.com/articles/pokemon-tcg-30th-anniversary-celebration-booster-bundles-where-to-buy",
+      "canonical": "ign.com/articles/pokemon-tcg-30th-anniversary-celebration-booster-bundles-where-to-buy",
+      "published_dt": "2026-09-24T14:53:40+06:00",
+      "published_date": "2026-09-24T14:53:40+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Amazon has recently restocked its allocation of Pokémon TCG's 30th Celebration Booster Bundles, which are currently available for just $45. That's considerably under current market rates, which sit around $122.64 at TCGplayer.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/24/pokemon-30th-set-preorders-amazon-where-to-buy-ign-1790240002143.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:15.509769+06:00",
+      "last_seen": "2026-09-24T17:09:15.509771+06:00"
+    },
+    "ign.com/articles/this-has-to-be-a-sick-joke-the-next-ace-attorney-game-is-a-vr-exclusive-and-fans-cant-quite-believe-it": {
+      "title": "'This Has to Be a Sick Joke' — the Next Ace Attorney Game Is a VR Exclusive and Fans Can't Quite Believe It",
+      "url": "https://www.ign.com/articles/this-has-to-be-a-sick-joke-the-next-ace-attorney-game-is-a-vr-exclusive-and-fans-cant-quite-believe-it",
+      "canonical": "ign.com/articles/this-has-to-be-a-sick-joke-the-next-ace-attorney-game-is-a-vr-exclusive-and-fans-cant-quite-believe-it",
+      "published_dt": "2026-09-24T14:42:35+06:00",
+      "published_date": "2026-09-24T14:42:35+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Finally! A new Ace Attorney game was announced! But hold on, it’s not actually a brand new Ace Attorney game. Oh, and it’s VR exclusive.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/24/image-01-ja-1790239119098.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-24T17:09:15.509885+06:00",
+      "last_seen": "2026-09-24T17:09:15.509887+06:00",
+      "posted_at": "2026-09-24T17:18:40.590444+06:00"
+    },
+    "ign.com/articles/legos-smart-play-millennium-falcon-set-is-down-to-its-lowest-price-yet-at-amazon-with-20-discount": {
+      "title": "LEGO’s SMART Play: Millennium Falcon Set Is Down to Its Lowest Price Yet at Amazon With $20 Discount",
+      "url": "https://www.ign.com/articles/legos-smart-play-millennium-falcon-set-is-down-to-its-lowest-price-yet-at-amazon-with-20-discount",
+      "canonical": "ign.com/articles/legos-smart-play-millennium-falcon-set-is-down-to-its-lowest-price-yet-at-amazon-with-20-discount",
+      "published_dt": "2026-09-24T14:28:17+06:00",
+      "published_date": "2026-09-24T14:28:17+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "LEGO's Star Wars SMART Play: Millennium Falcon set has dropped to its lowest price so far at Amazon of $79.95. That's just over $20 off its full price.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/23/lego-smart-play-millennium-falcon1-1790170460210.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:15.509990+06:00",
+      "last_seen": "2026-09-24T17:09:15.509992+06:00"
+    },
+    "videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update": {
+      "title": "The day before EA Sports FC 27 is released, Konami’s Switch 2 rival eFootball Kick-Off gets a major new update",
+      "url": "https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/",
+      "canonical": "videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update",
+      "published_dt": "2026-09-24T15:58:02+06:00",
+      "published_date": "2026-09-24T15:58:02+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "A Leagues mode with 25 league tournaments has been added, along with 13 new legends",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:15.993251+06:00",
+      "last_seen": "2026-09-24T17:09:15.993256+06:00"
+    },
+    "videogameschronicle.com/news/a-mixed-reality-reinvention-of-tetris-effect-is-coming-next-year": {
+      "title": "A mixed reality ‘reinvention’ of Tetris Effect is coming next year",
+      "url": "https://www.videogameschronicle.com/news/a-mixed-reality-reinvention-of-tetris-effect-is-coming-next-year/",
+      "canonical": "videogameschronicle.com/news/a-mixed-reality-reinvention-of-tetris-effect-is-coming-next-year",
+      "published_dt": "2026-09-24T15:11:24+06:00",
+      "published_date": "2026-09-24T15:11:24+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Tetris Effect: Mixed Realities is coming to Meta Quest 3 and the upcoming Meta VR Glasses",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-24T17:09:15.993397+06:00",
+      "last_seen": "2026-09-24T17:09:15.993400+06:00",
+      "posted_at": "2026-09-24T17:18:24.551972+06:00"
+    },
+    "eurogamer.net/xbox-mythic-platinum-achievement": {
+      "title": "Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long",
+      "url": "https://www.eurogamer.net/xbox-mythic-platinum-achievement",
+      "canonical": "eurogamer.net/xbox-mythic-platinum-achievement",
+      "published_dt": "2026-09-24T16:45:03+06:00",
+      "published_date": "2026-09-24T16:45:03+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "I'm not sure what's more surprising: that Xbox never had a Platinum Trophy equivalent, that Xbox feels the need to have a Platinum Trophy equivalent, or that it's adding a Platinum Trophy equivalent now while restructuring the company. Read more",
+      "image": "https://assetsio.gnwcdn.com/xbox-mythic-achievement.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:18.184228+06:00",
+      "last_seen": "2026-09-24T17:09:18.184235+06:00"
+    },
+    "eurogamer.net/world-of-warcraft-forever-pants-smelter-professions": {
+      "title": "Player discovers game-changing pair of pants in World of Warcraft: Forever",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-pants-smelter-professions",
+      "canonical": "eurogamer.net/world-of-warcraft-forever-pants-smelter-professions",
+      "published_dt": "2026-09-24T15:43:58+06:00",
+      "published_date": "2026-09-24T15:43:58+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "The times when a pair of pants prove newsworthy are tragically rare, and when they are it's usually not a good thing. Thankfully, a community discovery in World of Warcraft: Forever has remedied that. Read more",
+      "image": "https://assetsio.gnwcdn.com/world-of-warcraft-forever-camp.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:18.184481+06:00",
+      "last_seen": "2026-09-24T17:09:18.184485+06:00"
+    },
+    "eurogamer.net/destiny-2-unvaulted-content-details-report": {
+      "title": "Don't expect regular Destiny 2 updates to return, despite the surprise \"unvaulting\" of game additions",
+      "url": "https://www.eurogamer.net/destiny-2-unvaulted-content-details-report",
+      "canonical": "eurogamer.net/destiny-2-unvaulted-content-details-report",
+      "published_dt": "2026-09-24T14:52:40+06:00",
+      "published_date": "2026-09-24T14:52:40+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "After announcing the end of Destiny 2 development and laying off almost the game's entire team , Bungie surprised fans earlier this week with news that it's working on \"unvaulting\" Destiny 2 campaigns, raids and destinations - bringing them back to the game after they were removed. The developer offered few specifics at the time, but new information has now emerged about what we can expect. Read more",
+      "image": "https://assetsio.gnwcdn.com/destiny-2-cayde-6_1596993179.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:18.184803+06:00",
+      "last_seen": "2026-09-24T17:09:18.184807+06:00"
+    },
+    "pcgamer.com/hardware/i-applied-dlss-5-to-my-miku-hatsune-game-of-choice-and-i-have-some-regrets": {
+      "title": "I applied DLSS 5 to my Miku Hatsune game of choice, and I have some regrets",
+      "url": "https://www.pcgamer.com/hardware/i-applied-dlss-5-to-my-miku-hatsune-game-of-choice-and-i-have-some-regrets/",
+      "canonical": "pcgamer.com/hardware/i-applied-dlss-5-to-my-miku-hatsune-game-of-choice-and-i-have-some-regrets",
+      "published_dt": "2026-09-24T17:03:24+06:00",
+      "published_date": "2026-09-24T17:03:24+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Welcome to anime Hell.",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ja6npo7oBRfFwGTeJHMWkS-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:18.995397+06:00",
+      "last_seen": "2026-09-24T17:09:18.995403+06:00"
+    },
+    "pcgamer.com/gaming-industry/bethesda-says-that-obsidians-creative-identity-will-be-preserved-just-months-after-multiple-projects-were-cancelled-and-it-was-told-to-make-a-fallout-game": {
+      "title": "Bethesda says that Obsidian's 'creative identity' will be preserved, just months after multiple projects were cancelled and it was told to make a Fallout game",
+      "url": "https://www.pcgamer.com/gaming-industry/bethesda-says-that-obsidians-creative-identity-will-be-preserved-just-months-after-multiple-projects-were-cancelled-and-it-was-told-to-make-a-fallout-game/",
+      "canonical": "pcgamer.com/gaming-industry/bethesda-says-that-obsidians-creative-identity-will-be-preserved-just-months-after-multiple-projects-were-cancelled-and-it-was-told-to-make-a-fallout-game",
+      "published_dt": "2026-09-24T16:34:27+06:00",
+      "published_date": "2026-09-24T16:34:27+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "I don't know about that one, chief.",
+      "image": "https://cdn.mos.cms.futurecdn.net/emMNB4JSxUjoJCd2NYw8Vm-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:18.995532+06:00",
+      "last_seen": "2026-09-24T17:09:18.995535+06:00"
+    },
+    "pcgamer.com/hardware/gaming-monitors/alienware-is-working-on-a-fix-for-the-one-thing-that-stops-its-new-39-inch-5k2k-oled-gaming-monitor-from-being-perfect": {
+      "title": "Alienware is working on a fix for the one thing that stops its new 39-inch 5K2K OLED gaming monitor from being perfect",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-is-working-on-a-fix-for-the-one-thing-that-stops-its-new-39-inch-5k2k-oled-gaming-monitor-from-being-perfect/",
+      "canonical": "pcgamer.com/hardware/gaming-monitors/alienware-is-working-on-a-fix-for-the-one-thing-that-stops-its-new-39-inch-5k2k-oled-gaming-monitor-from-being-perfect",
+      "published_dt": "2026-09-24T16:23:59+06:00",
+      "published_date": "2026-09-24T16:23:59+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "This fix could hurt my wallet.",
+      "image": "https://cdn.mos.cms.futurecdn.net/AXnX49E2EcBtzURHGE8PhB-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:18.995661+06:00",
+      "last_seen": "2026-09-24T17:09:18.995664+06:00"
+    },
+    "pcgamer.com/hardware/vr-hardware/metas-new-vr-headset-isnt-really-a-headset-and-doesnt-look-like-its-meant-for-gamers": {
+      "title": "Meta's new VR headset isn't really a headset and doesn't look like it's meant for gamers",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/metas-new-vr-headset-isnt-really-a-headset-and-doesnt-look-like-its-meant-for-gamers/",
+      "canonical": "pcgamer.com/hardware/vr-hardware/metas-new-vr-headset-isnt-really-a-headset-and-doesnt-look-like-its-meant-for-gamers",
+      "published_dt": "2026-09-24T16:10:29+06:00",
+      "published_date": "2026-09-24T16:10:29+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Lightweight glasses with a pocket-size compute puck, micro-OLED displays, Snapdragon XR2 Gen 3 chip; however, just a 70-degree FOV and no controllers included.",
+      "image": "https://cdn.mos.cms.futurecdn.net/wkKTs3kfCrzu38RbpRhEDH-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:18.995770+06:00",
+      "last_seen": "2026-09-24T17:09:18.995772+06:00"
+    },
+    "pcgamer.com/games/world-of-warcraft/my-first-mmo-character-3-steve-haines": {
+      "title": "My first MMO character #3: Steve Haines",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-3-steve-haines/",
+      "canonical": "pcgamer.com/games/world-of-warcraft/my-first-mmo-character-3-steve-haines",
+      "published_dt": "2026-09-24T15:00:00+06:00",
+      "published_date": "2026-09-24T15:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "My first MMO character #3: Steve Haines",
+      "image": "https://cdn.mos.cms.futurecdn.net/QXbzZyXRydap5Vd7Mafx3X-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:18.995867+06:00",
+      "last_seen": "2026-09-24T17:09:18.995869+06:00"
+    },
+    "polygon.com/spielberg-always-netflix": {
+      "title": "Steven Spielberg's Forgotten Fantasy Masterpiece Officially Says Goodbye to Netflix",
+      "url": "https://www.polygon.com/spielberg-always-netflix/",
+      "canonical": "polygon.com/spielberg-always-netflix",
+      "published_dt": "2026-09-24T17:00:15+06:00",
+      "published_date": "2026-09-24T17:00:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "As you may be aware, they didn't invent irony until 1996, so 'Always' has none of it",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/steven-spielberg.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.212017+06:00",
+      "last_seen": "2026-09-24T17:09:19.212037+06:00"
+    },
+    "polygon.com/fire-emblem-fortunes-weave-heroes-ranked": {
+      "title": "Fire Emblem: Fortune’s Weave Heroes, Ranked By How Fun They'd Be to Party With",
+      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-heroes-ranked/",
+      "canonical": "polygon.com/fire-emblem-fortunes-weave-heroes-ranked",
+      "published_dt": "2026-09-24T16:00:14+06:00",
+      "published_date": "2026-09-24T16:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Fire Emblem: Fortune's Weave has a memorable cast of heroes, but which one would be the best hang?",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-cast.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.212177+06:00",
+      "last_seen": "2026-09-24T17:09:19.212180+06:00"
+    },
+    "polygon.com/avengers-doomsday-uk-release-date-earlier": {
+      "title": "Avengers: Doomsday Just Got a Big Release Date Update",
+      "url": "https://www.polygon.com/avengers-doomsday-uk-release-date-earlier/",
+      "canonical": "polygon.com/avengers-doomsday-uk-release-date-earlier",
+      "published_dt": "2026-09-24T15:39:02+06:00",
+      "published_date": "2026-09-24T15:39:02+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Avengers: Doomsday's release date has been moved up in the UK, where it will be available two days before its US premiere.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/avengers-doomsday-thor.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.212296+06:00",
+      "last_seen": "2026-09-24T17:09:19.212299+06:00"
+    },
+    "polygon.com/matthew-lillard-daredevil-born-again-season-3": {
+      "title": "Matthew Lillard's Best Performance of 2026 Deserves to Live on Past Its Canceled Series",
+      "url": "https://www.polygon.com/matthew-lillard-daredevil-born-again-season-3/",
+      "canonical": "polygon.com/matthew-lillard-daredevil-born-again-season-3",
+      "published_dt": "2026-09-24T15:30:15+06:00",
+      "published_date": "2026-09-24T15:30:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Daredevil: Born Again will end after season 3 on Disney, which hopefully doesn't spell the end for Matthew Lillard in the MCU",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/otk-201-02041_r.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.212407+06:00",
+      "last_seen": "2026-09-24T17:09:19.212410+06:00"
+    },
+    "polygon.com/gremlins-3-teaser-release-date-delay": {
+      "title": "Gremlins 3 Gets an Official Teaser, But There's Some Bad News",
+      "url": "https://www.polygon.com/gremlins-3-teaser-release-date-delay/",
+      "canonical": "polygon.com/gremlins-3-teaser-release-date-delay",
+      "published_dt": "2026-09-24T14:46:17+06:00",
+      "published_date": "2026-09-24T14:46:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Fans won't get to see their favorite Mogwai as early as they'd like, as Warner Bros. pushes back Gremlins 3's release date.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gizmo-gremlins.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.212514+06:00",
+      "last_seen": "2026-09-24T17:09:19.212517+06:00"
+    },
+    "polygon.com/best-fantasy-book-ending-lord-of-the-rings": {
+      "title": "70 Years Later, The Greatest Closing Line In Fantasy History Is Still The Wisest Book Quote Of The 1950s",
+      "url": "https://www.polygon.com/best-fantasy-book-ending-lord-of-the-rings/",
+      "canonical": "polygon.com/best-fantasy-book-ending-lord-of-the-rings",
+      "published_dt": "2026-09-24T14:30:14+06:00",
+      "published_date": "2026-09-24T14:30:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Why the quiet simplicity of Tolkien's ending remains fantasy's best",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22756887/amazon_lord_of_the_rings_city_crop_7680.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.212616+06:00",
+      "last_seen": "2026-09-24T17:09:19.212618+06:00"
+    },
+    "gamesradar.com/games/simulation/loot-to-forge-codes": {
+      "title": "All +1 Loot to Forge codes (September 2026) and how to redeem them for coins",
+      "url": "https://www.gamesradar.com/games/simulation/loot-to-forge-codes/",
+      "canonical": "gamesradar.com/games/simulation/loot-to-forge-codes",
+      "published_dt": "2026-09-24T17:01:59+06:00",
+      "published_date": "2026-09-24T17:01:59+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Use these Loot to Forge codes to boost your coin balance, letting you unlock useful upgrades like increased storage capacity",
+      "image": "https://cdn.mos.cms.futurecdn.net/GBxZXy9sb2oGVETamLBZyE-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.693382+06:00",
+      "last_seen": "2026-09-24T17:09:19.693388+06:00"
+    },
+    "gamesradar.com/games/third-person-shooter/arc-raiders-will-finally-let-players-unlock-weapons-and-items-without-hunting-down-blueprints": {
+      "title": "Arc Raiders will finally let players unlock weapons and items without hunting down blueprints",
+      "url": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-will-finally-let-players-unlock-weapons-and-items-without-hunting-down-blueprints/",
+      "canonical": "gamesradar.com/games/third-person-shooter/arc-raiders-will-finally-let-players-unlock-weapons-and-items-without-hunting-down-blueprints",
+      "published_dt": "2026-09-24T17:00:00+06:00",
+      "published_date": "2026-09-24T17:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Frozen Trail update addresses one of the oldest RNG complaints",
+      "image": "https://cdn.mos.cms.futurecdn.net/b4sZTXTqaEyuSfvMq36nsS-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.693511+06:00",
+      "last_seen": "2026-09-24T17:09:19.693514+06:00"
+    },
+    "gamesradar.com/platforms/nintendo-switch/psa-nintendos-customer-appreciation-sale-ends-in-two-days-these-are-the-games-you-need-to-see": {
+      "title": "PSA: Nintendo's Customer Appreciation Sale ends in two days, these are the games you need to see",
+      "url": "https://www.gamesradar.com/platforms/nintendo-switch/psa-nintendos-customer-appreciation-sale-ends-in-two-days-these-are-the-games-you-need-to-see/",
+      "canonical": "gamesradar.com/platforms/nintendo-switch/psa-nintendos-customer-appreciation-sale-ends-in-two-days-these-are-the-games-you-need-to-see",
+      "published_dt": "2026-09-24T16:59:44+06:00",
+      "published_date": "2026-09-24T16:59:44+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Nintendo's Customer Appreciation Sale will come to an end on September 26, and with so many games on offer we've whittled the list down to our highlights.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ASs92MzpBnQCvbLqSJWEMh-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.693629+06:00",
+      "last_seen": "2026-09-24T17:09:19.693632+06:00"
+    },
+    "gamesradar.com/games/adventure/as-the-agonizing-wait-for-ace-attorney-7-continues-capcom-announces-port-of-one-of-the-series-least-beloved-games-in-a-format-no-one-asked-for": {
+      "title": "As the wait for Ace Attorney 7 continues, Capcom announces a VR port of Dual Destinies",
+      "url": "https://www.gamesradar.com/games/adventure/as-the-agonizing-wait-for-ace-attorney-7-continues-capcom-announces-port-of-one-of-the-series-least-beloved-games-in-a-format-no-one-asked-for/",
+      "canonical": "gamesradar.com/games/adventure/as-the-agonizing-wait-for-ace-attorney-7-continues-capcom-announces-port-of-one-of-the-series-least-beloved-games-in-a-format-no-one-asked-for",
+      "published_dt": "2026-09-24T16:59:23+06:00",
+      "published_date": "2026-09-24T16:59:23+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Worst Ace Attorney is still pretty good, mind you... but fans aren't exactly thrilled with a Dual Destinies VR port",
+      "image": "https://cdn.mos.cms.futurecdn.net/Led8MKdaEhJzPHbQzNsQna-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.693736+06:00",
+      "last_seen": "2026-09-24T17:09:19.693739+06:00"
+    },
+    "gamesradar.com/games/action-rpg/control-resonant-instant-photos-camera-freeze-frame": {
+      "title": "All Instant Photo and Camera locations and puzzle solutions in Control Resonant",
+      "url": "https://www.gamesradar.com/games/action-rpg/control-resonant-instant-photos-camera-freeze-frame/",
+      "canonical": "gamesradar.com/games/action-rpg/control-resonant-instant-photos-camera-freeze-frame",
+      "published_dt": "2026-09-24T16:47:31+06:00",
+      "published_date": "2026-09-24T16:47:31+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The Freeze Frame questline in Control Resonant has players hunt down a camera by tracing the instant photos it left behind",
+      "image": "https://cdn.mos.cms.futurecdn.net/MUioq8GPtVXmwNcTfkATDa-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.693836+06:00",
+      "last_seen": "2026-09-24T17:09:19.693839+06:00"
+    },
+    "gamesradar.com/games/fps/wardogs-boss-says-games-need-to-cost-more-and-gta-6-shouldve-been-the-game-to-make-the-change": {
+      "title": "Wardogs boss says \"games need to cost more\" and GTA 6 should've been the game to make the change",
+      "url": "https://www.gamesradar.com/games/fps/wardogs-boss-says-games-need-to-cost-more-and-gta-6-shouldve-been-the-game-to-make-the-change/",
+      "canonical": "gamesradar.com/games/fps/wardogs-boss-says-games-need-to-cost-more-and-gta-6-shouldve-been-the-game-to-make-the-change",
+      "published_dt": "2026-09-24T16:22:10+06:00",
+      "published_date": "2026-09-24T16:22:10+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Joe Brammer says Rockstar \"had a chance to raise the bar and they didn't do it, so we'll keep going round\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/wTUMRtmV4K6K22oDvuehKd-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.693934+06:00",
+      "last_seen": "2026-09-24T17:09:19.693936+06:00"
+    },
+    "gamesradar.com/tabletop-gaming/what-sorcery-is-this-warhammer-tone-pro-seems-so-good-fans-are-literally-watching-paint-dry": {
+      "title": "\"What sorcery is this\": Warhammer Tone Pro seems so good fans are literally watching paint dry",
+      "url": "https://www.gamesradar.com/tabletop-gaming/what-sorcery-is-this-warhammer-tone-pro-seems-so-good-fans-are-literally-watching-paint-dry/",
+      "canonical": "gamesradar.com/tabletop-gaming/what-sorcery-is-this-warhammer-tone-pro-seems-so-good-fans-are-literally-watching-paint-dry",
+      "published_dt": "2026-09-24T16:12:00+06:00",
+      "published_date": "2026-09-24T16:12:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "New Warhammer Tone Pro seems able to do what used to be impossible, and its blowing fans' minds",
+      "image": "https://cdn.mos.cms.futurecdn.net/wxm3wVrtjMG4i8Q9BRMw9Z-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.694048+06:00",
+      "last_seen": "2026-09-24T17:09:19.694053+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-movies/the-avengers-endgame-encore-footage-has-me-convinced-that-victor-von-doom-is-a-tony-stark-variant": {
+      "title": "The Avengers: Endgame Encore footage has me convinced that Victor Von Doom is a Tony Stark variant",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/the-avengers-endgame-encore-footage-has-me-convinced-that-victor-von-doom-is-a-tony-stark-variant/",
+      "canonical": "gamesradar.com/entertainment/marvel-movies/the-avengers-endgame-encore-footage-has-me-convinced-that-victor-von-doom-is-a-tony-stark-variant",
+      "published_dt": "2026-09-24T16:10:05+06:00",
+      "published_date": "2026-09-24T16:10:05+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "A post-credits sting could confirm the theory",
+      "image": "https://cdn.mos.cms.futurecdn.net/evkSfbeNLAwyb4KGHvCUJX-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.694153+06:00",
+      "last_seen": "2026-09-24T17:09:19.694156+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-movies/7-years-after-it-released-avengers-endgame-is-on-track-to-top-the-box-office-again-this-weekend": {
+      "title": "7 years after it released, Avengers: Endgame is on track to top the box office again this weekend",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/7-years-after-it-released-avengers-endgame-is-on-track-to-top-the-box-office-again-this-weekend/",
+      "canonical": "gamesradar.com/entertainment/marvel-movies/7-years-after-it-released-avengers-endgame-is-on-track-to-top-the-box-office-again-this-weekend",
+      "published_dt": "2026-09-24T16:07:03+06:00",
+      "published_date": "2026-09-24T16:07:03+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Avengers: Endgame Encore looks set to win big at the box office",
+      "image": "https://cdn.mos.cms.futurecdn.net/ScsrYCwSQb6jtsPxLdCtX4-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.694252+06:00",
+      "last_seen": "2026-09-24T17:09:19.694254+06:00"
+    },
+    "gamesradar.com/entertainment/superhero-movies/spider-man-brand-new-day-writer-reveals-that-the-mcu-movie-almost-involved-a-british-spider-man-and-a-nod-to-spider-noir": {
+      "title": "Spider-Man: Brand New Day writer reveals the MCU movie almost involved a British Spider-Man and a nod to Spider-Noir",
+      "url": "https://www.gamesradar.com/entertainment/superhero-movies/spider-man-brand-new-day-writer-reveals-that-the-mcu-movie-almost-involved-a-british-spider-man-and-a-nod-to-spider-noir/",
+      "canonical": "gamesradar.com/entertainment/superhero-movies/spider-man-brand-new-day-writer-reveals-that-the-mcu-movie-almost-involved-a-british-spider-man-and-a-nod-to-spider-noir",
+      "published_dt": "2026-09-24T16:00:18+06:00",
+      "published_date": "2026-09-24T16:00:18+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Spider-Man: Brand New Day almost featured a nod to a Spidey variant",
+      "image": "https://cdn.mos.cms.futurecdn.net/3fwhQWeFuiwgQJrVXZhHw4-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.694349+06:00",
+      "last_seen": "2026-09-24T17:09:19.694351+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-movies/robert-downey-jr-says-he-returned-to-the-mcu-to-redefine-the-genre-of-superhero-movies": {
+      "title": "Robert Downey Jr. says he returned to the MCU to \"redefine the genre of superhero movies\"",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/robert-downey-jr-says-he-returned-to-the-mcu-to-redefine-the-genre-of-superhero-movies/",
+      "canonical": "gamesradar.com/entertainment/marvel-movies/robert-downey-jr-says-he-returned-to-the-mcu-to-redefine-the-genre-of-superhero-movies",
+      "published_dt": "2026-09-24T15:15:45+06:00",
+      "published_date": "2026-09-24T15:15:45+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The Iron Man actor has big ambitions for his return",
+      "image": "https://cdn.mos.cms.futurecdn.net/foeQhBQWKy7KjM9gNZaSCa-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.694442+06:00",
+      "last_seen": "2026-09-24T17:09:19.694444+06:00"
+    },
+    "rockpapershotgun.com/following-id-layoffs-quake-champions-drops-free-to-play-nonsense-and-becomes-a-9-game-on-steam": {
+      "title": "Following id layoffs, Quake Champions drops free-to-play nonsense and becomes a £9 game on Steam",
+      "url": "https://www.rockpapershotgun.com/following-id-layoffs-quake-champions-drops-free-to-play-nonsense-and-becomes-a-9-game-on-steam",
+      "canonical": "rockpapershotgun.com/following-id-layoffs-quake-champions-drops-free-to-play-nonsense-and-becomes-a-9-game-on-steam",
+      "published_dt": "2026-09-24T15:19:58+06:00",
+      "published_date": "2026-09-24T15:19:58+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "After nearly a decade as a free-to-play game, Quake Champions is dropping all that nonsense in favour of being a nice and simple premium release on Steam . That means no more battle passes, no more loot boxes, no more premium currencies. They've even got rid of the store. If you've played the game through any free events on Steam in the past, then you will be upgraded to a full version of the game automatically. And if you've bought any premium currencies in the past two months will be refunded. However, while this is a welcome change, it should be seen in the context of Xbox's mission to fire 3200 developers . Read more",
+      "image": "https://assetsio.gnwcdn.com/ss_934c0c5ce0f338805847fcfc451ec04208e40ef7.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:19.949812+06:00",
+      "last_seen": "2026-09-24T17:09:19.949818+06:00"
+    },
+    "insider-gaming.com/destined-for-glory-team-1-in-ea-fc-27-ultimate-team-leaked-players-upgrade-path-start-date": {
+      "title": "Destined For Glory Team 1 In EA FC 27 Ultimate Team—Leaked Players, Upgrade Path & Start Date",
+      "url": "https://insider-gaming.com/destined-for-glory-team-1-in-ea-fc-27-ultimate-team-leaked-players-upgrade-path-start-date/",
+      "canonical": "insider-gaming.com/destined-for-glory-team-1-in-ea-fc-27-ultimate-team-leaked-players-upgrade-path-start-date",
+      "published_dt": "2026-09-24T16:57:35+06:00",
+      "published_date": "2026-09-24T16:57:35+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Destined for Glory is the first promo in EA FC 27 Ultimate Team, and it's introducing a host of upgradeable live cards. The post Destined For Glory Team 1 In EA FC 27 Ultimate Team—Leaked Players, Upgrade Path & Start Date appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:20.655175+06:00",
+      "last_seen": "2026-09-24T17:09:20.655181+06:00"
+    },
+    "insider-gaming.com/minecraft-live-september-2026-date-start-times-how-to-watch": {
+      "title": "Minecraft Live September 2026—Date, Start Times & How To Watch",
+      "url": "https://insider-gaming.com/minecraft-live-september-2026-date-start-times-how-to-watch/",
+      "canonical": "insider-gaming.com/minecraft-live-september-2026-date-start-times-how-to-watch",
+      "published_dt": "2026-09-24T16:29:04+06:00",
+      "published_date": "2026-09-24T16:29:04+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Here's everything you need to know about the Minecraft Live scheduled for September 2026, including the start date, times, and how to watch. The post Minecraft Live September 2026—Date, Start Times & How To Watch appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-24T17:09:20.655428+06:00",
+      "last_seen": "2026-09-24T17:09:20.655432+06:00",
+      "posted_at": "2026-09-24T17:18:35.054070+06:00"
+    },
+    "insider-gaming.com/how-to-claim-costume-coin-marvel-rivals-all-free-skins-galactas-gift-vol-3": {
+      "title": "How To Claim Costume Coin In Marvel Rivals—All Free Skins During Galacta’s Gift Vol. 3",
+      "url": "https://insider-gaming.com/how-to-claim-costume-coin-marvel-rivals-all-free-skins-galactas-gift-vol-3/",
+      "canonical": "insider-gaming.com/how-to-claim-costume-coin-marvel-rivals-all-free-skins-galactas-gift-vol-3",
+      "published_dt": "2026-09-24T16:02:40+06:00",
+      "published_date": "2026-09-24T16:02:40+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Here's how to claim your free Costume Coin in Marvel Rivals, as well as every skin that's available during the event. The post How To Claim Costume Coin In Marvel Rivals—All Free Skins During Galacta’s Gift Vol. 3 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:20.655666+06:00",
+      "last_seen": "2026-09-24T17:09:20.655669+06:00"
+    },
+    "nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer": {
+      "title": "1080° Snowboarding Had \"A Ton Of Questionable Stuff\" Removed, Says Veteran Nintendo Producer",
+      "url": "https://www.nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer",
+      "canonical": "nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer",
+      "published_dt": "2026-09-24T16:30:00+06:00",
+      "published_date": "2026-09-24T16:30:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "See, now we want to know more. 1080° Snowboarding is one of the most commercially successful and critically-acclaimed N64 titles, bringing gorgeous visuals, realistic gameplay, and some kick-ass music to the console, making it one of the coolest titles around at the time. In an interview with Hyrule Interviews , however, veteran Nintendo producer and graphic designer Jim Wornell states that the game actually had \"a ton of questionable stuff\" removed in order to clear certification. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/d9b55a6465497/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:21.014076+06:00",
+      "last_seen": "2026-09-24T17:09:21.014083+06:00"
+    },
+    "purexbox.com/news/2026/09/were-not-resetting-our-roadmap-bethesda-boss-on-obsidian-and-the-xbox-studios-shakeup": {
+      "title": "'We're Not Resetting Our Roadmap' - Bethesda Boss On Obsidian And The Xbox Studios Shakeup",
+      "url": "https://www.purexbox.com/news/2026/09/were-not-resetting-our-roadmap-bethesda-boss-on-obsidian-and-the-xbox-studios-shakeup",
+      "canonical": "purexbox.com/news/2026/09/were-not-resetting-our-roadmap-bethesda-boss-on-obsidian-and-the-xbox-studios-shakeup",
+      "published_dt": "2026-09-24T17:00:00+06:00",
+      "published_date": "2026-09-24T17:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "It's said to be mainly a change in reporting structure. When Xbox announced its major shakeup of studios earlier this week, one of the companies that was affected was Obsidian, which is now officially part of the Bethesda group rather than Xbox Game Studios as it was beforehand. This has naturally led to questions about what the future holds for Obsidian, but according to Bethesda boss Jill Braff, it's primarily just a \"change in reporting structure\" and won't lead to a roadmap reset (on Bethesda's side at least). Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/4263346c367d2/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-24T17:09:21.791364+06:00",
+      "last_seen": "2026-09-24T17:09:21.791369+06:00",
+      "posted_at": "2026-09-24T17:18:30.101407+06:00"
+    },
+    "purexbox.com/news/2026/09/15plus-xbox-games-are-out-today-including-one-of-the-biggest-releases-of-the-year-september-24": {
+      "title": "15+ Xbox Games Are Out Today, Including One Of The Biggest Releases Of The Year (September 24)",
+      "url": "https://www.purexbox.com/news/2026/09/15plus-xbox-games-are-out-today-including-one-of-the-biggest-releases-of-the-year-september-24",
+      "canonical": "purexbox.com/news/2026/09/15plus-xbox-games-are-out-today-including-one-of-the-biggest-releases-of-the-year-september-24",
+      "published_dt": "2026-09-24T16:00:00+06:00",
+      "published_date": "2026-09-24T16:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Remember, don't eat the mould. Welcome back to your daily fix of new games launching on Xbox today! Looks like we've got a haul and a half to get through. The biggest of which is Remedy's latest supernatural, superhero, super action-RPG, Control Resonant , which also happens to be a super game overall. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/fc91fb726414a/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:21.791659+06:00",
+      "last_seen": "2026-09-24T17:09:21.791662+06:00"
+    },
+    "escapistmagazine.com/meta-vr-glasses-quest-games": {
+      "title": "Meta VR Glasses Will Launch With Every Quest Game in 2027",
+      "url": "https://www.escapistmagazine.com/meta-vr-glasses-quest-games/",
+      "canonical": "escapistmagazine.com/meta-vr-glasses-quest-games",
+      "published_dt": "2026-09-24T15:00:00+06:00",
+      "published_date": "2026-09-24T15:00:00+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "Meta VR Glasses arrive in spring 2027 with a 100-gram design, every Quest game at launch, and new hand-tracking titles including Beat Saber: Flux. The post Meta VR Glasses Will Launch With Every Quest Game in 2027 appeared first on The Escapist .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-24T17:09:22.594580+06:00",
+      "last_seen": "2026-09-24T17:09:22.594586+06:00"
     }
   },
   "events": {
@@ -25456,6 +25939,212 @@
           "published_at": "2026-09-24T05:57:17.501561+00:00",
           "headline": "Xbox Layoffs Likely Below 3,200 as Restructuring Continues",
           "claims": []
+        }
+      ]
+    },
+    "evt_5c624f761b1a83": {
+      "event_id": "evt_5c624f761b1a83",
+      "event_key": "tetris effect mixed realities 2027 meta quest3 release",
+      "event_subject": "VGC",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "tetris effect mixed realities 2027 meta quest3 release",
+        "subject": "VGC",
+        "event_type": "other",
+        "action": "announced",
+        "status": "upcoming",
+        "modality": "confirmed",
+        "game": "Tetris Effect: Mixed Realities",
+        "franchise": "Tetris Effect",
+        "institution": "Meta",
+        "target": "",
+        "platforms": [
+          "Meta Quest 3"
+        ],
+        "topic": "VR"
+      },
+      "sources": [
+        "VGC"
+      ],
+      "event_sources": [
+        "VGC"
+      ],
+      "claims": [
+        "Mixed reality reinvention coming next year"
+      ],
+      "importance_score": 47,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 13,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Mixed Reality Reinvention of Tetris Effect Arrives on Meta Quest 3 in 2027",
+      "summary": "A new Tetris Effect: Mixed Realities will launch in 2027 for Meta Quest 3, Quest 3S, and the upcoming Meta VR Glasses, blending hand‑tracking and controllers.",
+      "published_at": "2026-09-24T15:11:24+06:00",
+      "selected_at": "2026-09-24T11:18:24.552006+00:00",
+      "status": "published",
+      "message_id": 445,
+      "published_versions": [
+        {
+          "published_at": "2026-09-24T11:18:24.552006+00:00",
+          "headline": "Mixed Reality Reinvention of Tetris Effect Arrives on Meta Quest 3 in 2027",
+          "claims": [
+            "Mixed reality reinvention coming next year"
+          ]
+        }
+      ]
+    },
+    "evt_79391a488364aa": {
+      "event_id": "evt_79391a488364aa",
+      "event_key": "obsidian reporting structure change bethesda statement",
+      "event_subject": "Pure Xbox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "obsidian reporting structure change bethesda statement",
+        "subject": "Pure Xbox",
+        "event_type": "other",
+        "action": "clarified",
+        "status": "completed",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "Bethesda",
+        "target": "",
+        "platforms": [],
+        "topic": "studio restructuring"
+      },
+      "sources": [
+        "Pure Xbox"
+      ],
+      "event_sources": [
+        "Pure Xbox"
+      ],
+      "claims": [
+        "Obsidian now reports to Bethesda, roadmap unchanged",
+        "15+ Xbox games released, biggest being Control Resonant"
+      ],
+      "importance_score": 42,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Bethesda Boss Jill Braff Says Obsidian’s Xbox Shakeup Won’t Reset Roadmap",
+      "summary": "Obsidian moves from Xbox Game Studios to Bethesda reporting, but Jill Braff assures its creative identity stays intact and no project timelines will be altered.",
+      "published_at": "2026-09-24T17:00:00+06:00",
+      "selected_at": "2026-09-24T11:18:30.101442+00:00",
+      "status": "published",
+      "message_id": 446,
+      "published_versions": [
+        {
+          "published_at": "2026-09-24T11:18:30.101442+00:00",
+          "headline": "Bethesda Boss Jill Braff Says Obsidian’s Xbox Shakeup Won’t Reset Roadmap",
+          "claims": [
+            "Obsidian now reports to Bethesda, roadmap unchanged",
+            "15+ Xbox games released, biggest being Control Resonant"
+          ]
+        }
+      ]
+    },
+    "evt_ec9bdef4ba08cd": {
+      "event_id": "evt_ec9bdef4ba08cd",
+      "event_key": "minecraft live september 2026 details",
+      "event_subject": "Insider Gaming",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "minecraft live september 2026 details",
+        "subject": "Insider Gaming",
+        "event_type": "other",
+        "action": "announced",
+        "status": "upcoming",
+        "modality": "confirmed",
+        "game": "Minecraft",
+        "franchise": "Minecraft",
+        "institution": "Mojang",
+        "target": "viewers",
+        "platforms": [],
+        "topic": "live_event"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [
+        "Date, start times and watch info for Minecraft Live Sep 2026"
+      ],
+      "importance_score": 41,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 7,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Minecraft Live Returns September 26 with New Chapter Teasers",
+      "summary": "Mojang’s Minecraft Live will stream on September 26 at 10 AM PT, promising the next chapter reveal and a look at Minecraft Dungeons 2.",
+      "published_at": "2026-09-24T16:29:04+06:00",
+      "selected_at": "2026-09-24T11:18:35.054100+00:00",
+      "status": "published",
+      "message_id": 447,
+      "published_versions": [
+        {
+          "published_at": "2026-09-24T11:18:35.054100+00:00",
+          "headline": "Minecraft Live Returns September 26 with New Chapter Teasers",
+          "claims": [
+            "Date, start times and watch info for Minecraft Live Sep 2026"
+          ]
+        }
+      ]
+    },
+    "evt_8aa8094a33d3b6": {
+      "event_id": "evt_8aa8094a33d3b6",
+      "event_key": "ace attorney vr exclusive announced by capcom",
+      "event_subject": "Ace Attorney",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "ace attorney vr exclusive announced by capcom",
+        "subject": "Ace Attorney",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Ace Attorney",
+        "institution": "Capcom",
+        "target": "new Ace Attorney VR game",
+        "platforms": [
+          "VR"
+        ],
+        "topic": "game announcement"
+      },
+      "sources": [
+        "IGN"
+      ],
+      "event_sources": [
+        "IGN"
+      ],
+      "claims": [
+        "Next Ace Attorney title will be VR‑only"
+      ],
+      "importance_score": 39,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 9,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Meta Announces Phoenix Wright: Ace Attorney Dual Destinies VR as 2027 VR‑Only Release",
+      "summary": "Capcom revealed a VR remake of the 2013 Dual Destinies title, exclusive to Meta Quest devices, sparking fan disappointment over the delayed Ace Attorney 7.",
+      "published_at": "2026-09-24T14:42:35+06:00",
+      "selected_at": "2026-09-24T11:18:40.590474+00:00",
+      "status": "published",
+      "message_id": 448,
+      "published_versions": [
+        {
+          "published_at": "2026-09-24T11:18:40.590474+00:00",
+          "headline": "Meta Announces Phoenix Wright: Ace Attorney Dual Destinies VR as 2027 VR‑Only Release",
+          "claims": [
+            "Next Ace Attorney title will be VR‑only"
+          ]
         }
       ]
     }
@@ -103672,6 +104361,1065 @@
         "total": 33
       },
       "last_seen": "2026-09-24T11:55:14.775925+06:00"
+    },
+    "evt_c94325297de6e9": {
+      "event_id": "evt_c94325297de6e9",
+      "event_key": "meta vr glasses 2027 launch all quest games included",
+      "event_subject": "The Escapist",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "meta vr glasses 2027 launch all quest games included",
+        "subject": "The Escapist",
+        "event_type": "other",
+        "action": "announced",
+        "status": "upcoming",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "Meta",
+        "target": "",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "modality": "confirmed",
+      "topic": "hardware",
+      "institution": "Meta",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Meta VR Glasses to launch 2027 with every Quest game"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 46
+      },
+      "last_seen": "2026-09-24T17:14:22.909461+06:00"
+    },
+    "evt_0a72a5072a4d70": {
+      "event_id": "evt_0a72a5072a4d70",
+      "event_key": "quake champions f2p to premium price change steam",
+      "event_subject": "Rock Paper Shotgun",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "quake champions f2p to premium price change steam",
+        "subject": "Rock Paper Shotgun",
+        "event_type": "other",
+        "action": "converted",
+        "status": "completed",
+        "modality": "confirmed",
+        "game": "Quake Champions",
+        "franchise": "Quake Champions",
+        "institution": "",
+        "target": "players",
+        "platforms": [
+          "Steam"
+        ],
+        "topic": "pricing"
+      },
+      "modality": "confirmed",
+      "topic": "pricing",
+      "institution": "",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Quake Champions switches from free‑to‑play to £9 premium on Steam"
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 44
+      },
+      "last_seen": "2026-09-24T17:14:22.909482+06:00"
+    },
+    "evt_6d100d32af43a4": {
+      "event_id": "evt_6d100d32af43a4",
+      "event_key": "destiny 2 unvaulting announced by bungie",
+      "event_subject": "Destiny 2",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "destiny 2 unvaulting announced by bungie",
+        "subject": "Destiny 2",
+        "event_type": "other",
+        "action": "unvault",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Destiny 2",
+        "franchise": "Destiny",
+        "institution": "Bungie",
+        "target": "Destiny 2 live content",
+        "platforms": [
+          "PC",
+          "PlayStation",
+          "Xbox"
+        ],
+        "topic": "post‑live support"
+      },
+      "modality": "unknown",
+      "topic": "post‑live support",
+      "institution": "Bungie",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Bungie will bring back removed campaigns, raids and destinations"
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 44
+      },
+      "last_seen": "2026-09-24T17:14:22.909490+06:00"
+    },
+    "evt_5c624f761b1a83": {
+      "event_id": "evt_5c624f761b1a83",
+      "event_key": "tetris effect mixed realities 2027 meta quest3 release",
+      "event_subject": "VGC",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "tetris effect mixed realities 2027 meta quest3 release",
+        "subject": "VGC",
+        "event_type": "other",
+        "action": "announced",
+        "status": "upcoming",
+        "modality": "confirmed",
+        "game": "Tetris Effect: Mixed Realities",
+        "franchise": "Tetris Effect",
+        "institution": "Meta",
+        "target": "",
+        "platforms": [
+          "Meta Quest 3"
+        ],
+        "topic": "VR"
+      },
+      "modality": "confirmed",
+      "topic": "VR",
+      "institution": "Meta",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Mixed reality reinvention coming next year"
+      ],
+      "importance_score": 47,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 47
+      },
+      "last_seen": "2026-09-24T17:14:22.909496+06:00"
+    },
+    "evt_79391a488364aa": {
+      "event_id": "evt_79391a488364aa",
+      "event_key": "obsidian reporting structure change bethesda statement",
+      "event_subject": "Pure Xbox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "obsidian reporting structure change bethesda statement",
+        "subject": "Pure Xbox",
+        "event_type": "other",
+        "action": "clarified",
+        "status": "completed",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "Bethesda",
+        "target": "",
+        "platforms": [],
+        "topic": "studio restructuring"
+      },
+      "modality": "confirmed",
+      "topic": "studio restructuring",
+      "institution": "Bethesda",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Obsidian now reports to Bethesda, roadmap unchanged",
+        "15+ Xbox games released, biggest being Control Resonant"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-24T17:14:22.909502+06:00"
+    },
+    "evt_2395703001efb0": {
+      "event_id": "evt_2395703001efb0",
+      "event_key": "efootball kick off switch 2 rival update leagues mode",
+      "event_subject": "VGC",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "efootball kick off switch 2 rival update leagues mode",
+        "subject": "VGC",
+        "event_type": "update",
+        "action": "added",
+        "status": "completed",
+        "modality": "confirmed",
+        "game": "eFootball Kick‑Off",
+        "franchise": "eFootball Kick‑Off",
+        "institution": "Konami",
+        "target": "players",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "update"
+      },
+      "modality": "confirmed",
+      "topic": "update",
+      "institution": "Konami",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Leagues mode with 25 tournaments and 13 new legends added"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 11,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 45
+      },
+      "last_seen": "2026-09-24T17:14:22.909508+06:00"
+    },
+    "evt_833333741105f5": {
+      "event_id": "evt_833333741105f5",
+      "event_key": "nintendo switch 2 uk price drop 355",
+      "event_subject": "IGN",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo switch 2 uk price drop 355",
+        "subject": "IGN",
+        "event_type": "other",
+        "action": "dropped",
+        "status": "completed",
+        "modality": "confirmed",
+        "game": "Nintendo Switch 2",
+        "franchise": "Nintendo Switch 2",
+        "institution": "Nintendo",
+        "target": "consumers",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "modality": "confirmed",
+      "topic": "hardware",
+      "institution": "Nintendo",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Switch 2 price fell to record‑low £355 in UK"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-09-24T17:14:22.909513+06:00"
+    },
+    "evt_8aa8094a33d3b6": {
+      "event_id": "evt_8aa8094a33d3b6",
+      "event_key": "ace attorney vr exclusive announced by capcom",
+      "event_subject": "Ace Attorney",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "ace attorney vr exclusive announced by capcom",
+        "subject": "Ace Attorney",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Ace Attorney",
+        "institution": "Capcom",
+        "target": "new Ace Attorney VR game",
+        "platforms": [
+          "VR"
+        ],
+        "topic": "game announcement"
+      },
+      "modality": "unknown",
+      "topic": "game announcement",
+      "institution": "Capcom",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Next Ace Attorney title will be VR‑only"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 9,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 39
+      },
+      "last_seen": "2026-09-24T17:14:22.909520+06:00"
+    },
+    "evt_715b5a15905b44": {
+      "event_id": "evt_715b5a15905b44",
+      "event_key": "bethesda obsidian creative identity preserved statement",
+      "event_subject": "PC Gamer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "bethesda obsidian creative identity preserved statement",
+        "subject": "PC Gamer",
+        "event_type": "other",
+        "action": "stated",
+        "status": "completed",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "Bethesda",
+        "target": "",
+        "platforms": [],
+        "topic": "studio"
+      },
+      "modality": "confirmed",
+      "topic": "studio",
+      "institution": "Bethesda",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Obsidian's creative identity will be preserved despite recent cancellations"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 9,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 39
+      },
+      "last_seen": "2026-09-24T17:14:22.909525+06:00"
+    },
+    "evt_0dde038da3c857": {
+      "event_id": "evt_0dde038da3c857",
+      "event_key": "capcom announces dual destinies vr port",
+      "event_subject": "GamesRadar+",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "capcom announces dual destinies vr port",
+        "subject": "GamesRadar+",
+        "event_type": "announcement",
+        "action": "announced",
+        "status": "upcoming",
+        "modality": "confirmed",
+        "game": "Ace Attorney Dual Destinies",
+        "franchise": "Ace Attorney",
+        "institution": "Capcom",
+        "target": "players",
+        "platforms": [
+          "VR"
+        ],
+        "topic": "port"
+      },
+      "modality": "confirmed",
+      "topic": "port",
+      "institution": "Capcom",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "VR port of Dual Destinies announced while waiting for Ace Attorney 7"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-09-24T17:14:22.909532+06:00"
+    },
+    "evt_ec9bdef4ba08cd": {
+      "event_id": "evt_ec9bdef4ba08cd",
+      "event_key": "minecraft live september 2026 details",
+      "event_subject": "Insider Gaming",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "minecraft live september 2026 details",
+        "subject": "Insider Gaming",
+        "event_type": "other",
+        "action": "announced",
+        "status": "upcoming",
+        "modality": "confirmed",
+        "game": "Minecraft",
+        "franchise": "Minecraft",
+        "institution": "Mojang",
+        "target": "viewers",
+        "platforms": [],
+        "topic": "live_event"
+      },
+      "modality": "confirmed",
+      "topic": "live_event",
+      "institution": "Mojang",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Date, start times and watch info for Minecraft Live Sep 2026"
+      ],
+      "importance_score": 41,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 41
+      },
+      "last_seen": "2026-09-24T17:14:22.909538+06:00"
+    },
+    "evt_93ab1870667225": {
+      "event_id": "evt_93ab1870667225",
+      "event_key": "ea fc 27 ultimate team destined for glory leak",
+      "event_subject": "Insider Gaming",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ea fc 27 ultimate team destined for glory leak",
+        "subject": "Insider Gaming",
+        "event_type": "other",
+        "action": "leaked",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "EA FC 27",
+        "franchise": "FIFA",
+        "institution": "EA Sports",
+        "target": "players",
+        "platforms": [],
+        "topic": "UT"
+      },
+      "modality": "unknown",
+      "topic": "UT",
+      "institution": "EA Sports",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Leaked players and upgrade path for Destined For Glory promo"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 40
+      },
+      "last_seen": "2026-09-24T17:14:22.909545+06:00"
+    },
+    "evt_4197fc02e95cd8": {
+      "event_id": "evt_4197fc02e95cd8",
+      "event_key": "injustice 3 rumor response ed boon",
+      "event_subject": "IGN",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "injustice 3 rumor response ed boon",
+        "subject": "IGN",
+        "event_type": "other",
+        "action": "responded",
+        "status": "completed",
+        "modality": "confirmed",
+        "game": "Injustice",
+        "franchise": "Injustice",
+        "institution": "NetherRealm Studios",
+        "target": "",
+        "platforms": [],
+        "topic": "rumor"
+      },
+      "modality": "confirmed",
+      "topic": "rumor",
+      "institution": "NetherRealm Studios",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Ed Boon addresses rumors of Injustice 3",
+        "Andy Serkis working on sci‑fi adaptation of The Odyssey for Audible"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-09-24T17:14:22.909551+06:00"
+    },
+    "evt_c196ad4ed50129": {
+      "event_id": "evt_c196ad4ed50129",
+      "event_key": "xbox platinum trophy leak sound effect",
+      "event_subject": "Eurogamer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox platinum trophy leak sound effect",
+        "subject": "Eurogamer",
+        "event_type": "other",
+        "action": "leaked",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Xbox",
+        "target": "",
+        "platforms": [],
+        "topic": "achievement"
+      },
+      "modality": "unknown",
+      "topic": "achievement",
+      "institution": "Xbox",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Leak of Xbox's Platinum Trophy with 15‑second sound effect",
+        "Player finds game‑changing pair of pants"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-24T17:14:22.909556+06:00"
+    },
+    "evt_85c3e4c822892c": {
+      "event_id": "evt_85c3e4c822892c",
+      "event_key": "dlss5 application hatsune miku game",
+      "event_subject": "PC Gamer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "dlss5 application hatsune miku game",
+        "subject": "PC Gamer",
+        "event_type": "other",
+        "action": "applied",
+        "status": "completed",
+        "modality": "confirmed",
+        "game": "[Game of choice]",
+        "franchise": "Hatsune Miku",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "graphics"
+      },
+      "modality": "confirmed",
+      "topic": "graphics",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "DLSS 5 applied to a Hatsune Miku game",
+        "Fix being developed for Alienware 39‑inch 5K2K OLED monitor issue",
+        "Meta's new headset lacks typical gamer features",
+        "First MMO character series entry: Steve Haines"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-24T17:14:22.909566+06:00"
+    },
+    "evt_f2947baa2d3753": {
+      "event_id": "evt_f2947baa2d3753",
+      "event_key": "avengers doomsday release date uk advance",
+      "event_subject": "Polygon",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "avengers doomsday release date uk advance",
+        "subject": "Polygon",
+        "event_type": "other",
+        "action": "moved_up",
+        "status": "completed",
+        "modality": "confirmed",
+        "game": "Avengers: Doomsday",
+        "franchise": "Marvel",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "release"
+      },
+      "modality": "confirmed",
+      "topic": "release",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "UK release date moved two days earlier than US"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-24T17:14:22.909572+06:00"
+    },
+    "evt_d08f9518490e5f": {
+      "event_id": "evt_d08f9518490e5f",
+      "event_key": "marvel rivals galacta gift vol3 costume coin claim guide",
+      "event_subject": "Insider Gaming",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "marvel rivals galacta gift vol3 costume coin claim guide",
+        "subject": "Insider Gaming",
+        "event_type": "other",
+        "action": "published",
+        "status": "completed",
+        "modality": "confirmed",
+        "game": "Marvel Rivals",
+        "franchise": "Marvel Rivals",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "event"
+      },
+      "modality": "confirmed",
+      "topic": "event",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "How to claim Costume Coin and free skins during Galacta’s Gift Vol. 3"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 38
+      },
+      "last_seen": "2026-09-24T17:14:22.909578+06:00"
+    },
+    "evt_ac0d78fd8ab6cf": {
+      "event_id": "evt_ac0d78fd8ab6cf",
+      "event_key": "1080 snowboarding questionable content removed",
+      "event_subject": "Nintendo Life",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "1080 snowboarding questionable content removed",
+        "subject": "Nintendo Life",
+        "event_type": "other",
+        "action": "revealed",
+        "status": "completed",
+        "modality": "confirmed",
+        "game": "1080° Snowboarding",
+        "franchise": "1080° Snowboarding",
+        "institution": "Nintendo",
+        "target": "",
+        "platforms": [],
+        "topic": "retro"
+      },
+      "modality": "confirmed",
+      "topic": "retro",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Veteran producer says questionable content was removed for certification"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-24T17:14:22.909584+06:00"
+    },
+    "evt_58374c550a164f": {
+      "event_id": "evt_58374c550a164f",
+      "event_key": "pok mon tcg 30th anniversary booster bundles restock amazon",
+      "event_subject": "Pokémon Trading Card Game",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pok mon tcg 30th anniversary booster bundles restock amazon",
+        "subject": "Pokémon Trading Card Game",
+        "event_type": "other",
+        "action": "restock",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Pokémon TCG",
+        "franchise": "Pokémon",
+        "institution": "The Pokémon Company",
+        "target": "Amazon",
+        "platforms": [
+          "Amazon"
+        ],
+        "topic": "retail"
+      },
+      "modality": "unknown",
+      "topic": "retail",
+      "institution": "The Pokémon Company",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Booster bundles back in stock at $45, below market price"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-24T17:14:22.909591+06:00"
+    },
+    "evt_31e62449b2614f": {
+      "event_id": "evt_31e62449b2614f",
+      "event_key": "loot to forge codes september 2026 coins",
+      "event_subject": "GamesRadar+",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "loot to forge codes september 2026 coins",
+        "subject": "GamesRadar+",
+        "event_type": "other",
+        "action": "redeem",
+        "status": "ongoing",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "in‑game currency"
+      },
+      "modality": "confirmed",
+      "topic": "in‑game currency",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Loot to Forge codes can be redeemed for coins",
+        "Frozen Trail update adds weapon/item unlocks without blueprints",
+        "Nintendo's Customer Appreciation Sale ends September 26",
+        "All instant photo and camera locations and puzzle solutions listed",
+        "Wardogs boss says games need higher price and GTA 6 missed the chance",
+        "Warhammer Tone Pro demo wowed fans",
+        "Post‑credits scene may suggest Victor Von Doom is a Tony Stark variant",
+        "Endgame Encore expected to top box office again 7 years after release",
+        "Writer says MCU script once considered a British Spider‑Man and Spider‑Noir nod",
+        "Robert Downey Jr. says his MCU return aims to redefine superhero movies"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-09-24T17:14:22.909597+06:00"
+    },
+    "evt_b664f24e27add2": {
+      "event_id": "evt_b664f24e27add2",
+      "event_key": "gremlins 3 release date delayed by warner bros",
+      "event_subject": "Gremlins 3",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gremlins 3 release date delayed by warner bros",
+        "subject": "Gremlins 3",
+        "event_type": "other",
+        "action": "delay",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Gremlins",
+        "institution": "Warner Bros.",
+        "target": "Gremlins 3 film",
+        "platforms": [],
+        "topic": "film"
+      },
+      "modality": "unknown",
+      "topic": "film",
+      "institution": "Warner Bros.",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Release pushed back from original date"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-24T17:14:22.909603+06:00"
+    },
+    "evt_5d1f7f201c000a": {
+      "event_id": "evt_5d1f7f201c000a",
+      "event_key": "steven spielberg fantasy masterpiece exit netflix",
+      "event_subject": "Polygon",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "steven spielberg fantasy masterpiece exit netflix",
+        "subject": "Polygon",
+        "event_type": "other",
+        "action": "removed",
+        "status": "completed",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "Netflix",
+        "target": "",
+        "platforms": [],
+        "topic": "streaming"
+      },
+      "modality": "confirmed",
+      "topic": "streaming",
+      "institution": "Netflix",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Steven Spielberg's fantasy series leaving Netflix",
+        "Lillard's performance praised despite series cancellation"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-24T17:14:22.909609+06:00"
+    },
+    "evt_9d382bcfe94966": {
+      "event_id": "evt_9d382bcfe94966",
+      "event_key": "fire emblem fortune weave hero party ranking",
+      "event_subject": "Polygon",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fire emblem fortune weave hero party ranking",
+        "subject": "Polygon",
+        "event_type": "other",
+        "action": "ranked",
+        "status": "completed",
+        "modality": "confirmed",
+        "game": "Fire Emblem: Fortune’s Weave",
+        "franchise": "Fire Emblem",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "character"
+      },
+      "modality": "confirmed",
+      "topic": "character",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Heroes ranked by how fun they'd be to party with"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-24T17:14:22.909616+06:00"
+    },
+    "evt_df25737fa92156": {
+      "event_id": "evt_df25737fa92156",
+      "event_key": "analysis of tolkien s closing line published by polygon",
+      "event_subject": "J.R.R. Tolkien",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "analysis of tolkien s closing line published by polygon",
+        "subject": "J.R.R. Tolkien",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "opinion",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "Tolkien's ending line",
+        "platforms": [],
+        "topic": "literary analysis"
+      },
+      "modality": "unknown",
+      "topic": "literary analysis",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Tolkien's closing line remains the wisest quote of the 1950s"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-24T17:14:22.909622+06:00"
+    },
+    "evt_380766e5bd406e": {
+      "event_id": "evt_380766e5bd406e",
+      "event_key": "lego star wars millennium falcon set price drop on amazon",
+      "event_subject": "LEGO Star Wars Millennium Falcon",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "lego star wars millennium falcon set price drop on amazon",
+        "subject": "LEGO Star Wars Millennium Falcon",
+        "event_type": "other",
+        "action": "discount",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Star Wars",
+        "institution": "LEGO",
+        "target": "Amazon",
+        "platforms": [
+          "Amazon"
+        ],
+        "topic": "retail"
+      },
+      "modality": "unknown",
+      "topic": "retail",
+      "institution": "LEGO",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Set discounted $20 to $79.95"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-24T17:14:22.909628+06:00"
     }
   },
   "posted_event_ids": [
@@ -103956,7 +105704,11 @@
     "evt_ce6a2ed0c79c56",
     "evt_dabe29ffc6371e",
     "evt_b5cfaaac1d2852",
-    "evt_52a96072e10316"
+    "evt_52a96072e10316",
+    "evt_5c624f761b1a83",
+    "evt_79391a488364aa",
+    "evt_ec9bdef4ba08cd",
+    "evt_8aa8094a33d3b6"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -104240,10 +105992,14 @@
     "halo shifts to activision amid xbox layoffs fans fear lore reboot",
     "obsidian entertainment shifted under bethesda amid xbox restructuring",
     "xbox announces 268 job cuts across halo coalition and other studios",
-    "xbox layoffs likely below 3 200 as restructuring continues"
+    "xbox layoffs likely below 3 200 as restructuring continues",
+    "mixed reality reinvention of tetris effect arrives on meta quest 3 in 2027",
+    "bethesda boss jill braff says obsidian s xbox shakeup won t reset roadmap",
+    "minecraft live returns september 26 with new chapter teasers",
+    "meta announces phoenix wright ace attorney dual destinies vr as 2027 vr only release"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-24T01:32:17.583494+06:00",
+    "Game Updates": "2026-09-24T17:18:40.590495+06:00",
     "Major Releases": "2026-09-22T00:41:53.097533+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
