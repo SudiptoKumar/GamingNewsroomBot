@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1a71f-A0pfVPf2QHVChJeArtJsC0pnkWA\"",
+      "etag": "W/\"1b1a5-SQMs/bJyxXCFY6wn5dtLkZ+vOyo\"",
       "last_modified": null,
-      "last_checked": "2026-09-25T11:50:38.641749+06:00",
+      "last_checked": "2026-09-25T17:12:32.661688+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-25T11:50:38.994356+06:00",
+      "last_checked": "2026-09-25T17:12:33.011530+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ab60b8c-b63\"",
-      "last_modified": "Fri, 25 Sep 2026 05:50:04 GMT",
-      "last_checked": "2026-09-25T11:50:39.337526+06:00",
+      "etag": "\"6ab6568c-ba8\"",
+      "last_modified": "Fri, 25 Sep 2026 11:10:04 GMT",
+      "last_checked": "2026-09-25T17:12:33.327312+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Thu, 24 Sep 2026 16:52:27 GMT",
-      "last_checked": "2026-09-25T11:50:39.985303+06:00",
+      "last_modified": "Fri, 25 Sep 2026 11:00:43 GMT",
+      "last_checked": "2026-09-25T17:12:33.721477+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ab6003b-12fe\"",
-      "last_modified": "Fri, 25 Sep 2026 05:01:47 GMT",
-      "last_checked": "2026-09-25T11:50:40.330998+06:00",
+      "etag": "\"6ab64a34-1300\"",
+      "last_modified": "Fri, 25 Sep 2026 10:17:24 GMT",
+      "last_checked": "2026-09-25T17:12:34.080250+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-25T11:50:40.652671+06:00",
+      "last_checked": "2026-09-25T17:12:34.346903+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-25T11:50:41.456284+06:00",
+      "last_checked": "2026-09-25T17:12:34.908164+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"94b19e71151b7a5f9a6c81f34e1178d6\"",
-      "last_modified": "Thu, 24 Sep 2026 21:54:52 GMT",
-      "last_checked": "2026-09-25T11:50:43.640663+06:00",
+      "etag": "W/\"df93f06eabf1af8e7d32c2b5f0cc026d\"",
+      "last_modified": "Fri, 25 Sep 2026 10:15:27 GMT",
+      "last_checked": "2026-09-25T17:12:35.127470+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-25T11:50:43.938919+06:00",
+      "last_checked": "2026-09-25T17:12:35.349147+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Thu, 24 Sep 2026 23:26:53 GMT",
-      "last_checked": "2026-09-25T11:50:44.363332+06:00",
+      "last_checked": "2026-09-25T17:12:35.774852+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
       "last_modified": "Wed, 23 Sep 2026 19:26:58 GMT",
-      "last_checked": "2026-09-25T11:50:45.060050+06:00",
+      "last_checked": "2026-09-25T17:12:36.231832+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"90373c84684d4e2d90b8e06803baeef6\"",
-      "last_modified": "Fri, 25 Sep 2026 00:16:06 GMT",
-      "last_checked": "2026-09-25T11:50:46.076805+06:00",
+      "etag": "W/\"3e11aad7ea01fa459b868d69c4cdcc33\"",
+      "last_modified": "Fri, 25 Sep 2026 10:50:55 GMT",
+      "last_checked": "2026-09-25T17:12:36.771391+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-25T11:50:46.457141+06:00",
+      "last_checked": "2026-09-25T17:12:37.121925+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-25T11:50:46.839500+06:00",
+      "last_checked": "2026-09-25T17:12:37.518449+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-25T11:50:47.360797+06:00",
+      "last_checked": "2026-09-25T17:12:37.835902+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-25T11:50:47.707064+06:00",
-      "fail_count": 64,
+      "last_checked": "2026-09-25T17:12:38.008617+06:00",
+      "fail_count": 65,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"e58fb1b47e327b132d5952b632f6e786\"",
       "last_modified": "Thu, 24 Sep 2026 17:28:23 GMT",
-      "last_checked": "2026-09-25T11:50:47.862075+06:00",
+      "last_checked": "2026-09-25T17:12:38.265913+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-25T11:50:48.071023+06:00",
+      "last_checked": "2026-09-25T17:12:38.484929+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-25T11:50:48.285884+06:00",
-      "fail_count": 64,
+      "last_checked": "2026-09-25T17:12:38.738294+06:00",
+      "fail_count": 65,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"b7f86f69a29c298424f5d9d5b0f28376\"",
-      "last_modified": "Thu, 24 Sep 2026 16:00:00 GMT",
-      "last_checked": "2026-09-25T11:50:48.520362+06:00",
+      "etag": "W/\"3d6a7f3a1e04cd08d2c97fb75bccac13\"",
+      "last_modified": "Fri, 25 Sep 2026 09:15:22 GMT",
+      "last_checked": "2026-09-25T17:12:38.882983+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -153,104 +153,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-17T17:00:29.156472+06:00",
-      "last_seen": "2026-09-24T17:09:20.655885+06:00"
-    },
-    "gematsu.com/2026/09/this-weeks-japanese-game-releases-silent-hill-townfall-gobble-more": {
-      "title": "This Week’s Japanese Game Releases: Silent Hill: Townfall, GOBBLE, more",
-      "url": "https://www.gematsu.com/2026/09/this-weeks-japanese-game-releases-silent-hill-townfall-gobble-more",
-      "canonical": "gematsu.com/2026/09/this-weeks-japanese-game-releases-silent-hill-townfall-gobble-more",
-      "published_dt": "2026-09-21T10:42:39+06:00",
-      "published_date": "2026-09-21T10:42:39+06:00",
-      "source": "Gematsu",
-      "region": "Gaming",
-      "excerpt": "Silent Hill: Townfall for PlayStation 5 and PC, and GOBBLE for PlayStation 5, Switch 2, …",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-09-21T11:54:52.240248+06:00",
-      "last_seen": "2026-09-21T11:54:52.240254+06:00",
-      "posted_at": "2026-09-21T12:02:14.115237+06:00"
-    },
-    "pcgamer.com/gaming-industry/steam-week-in-review-this-indie-publisher-released-29-terrible-looking-steam-games-in-a-single-day-will-they-make-any-money": {
-      "title": "Steam Week in Review: This indie publisher released 29 terrible-looking Steam games in a single day—will they make any money?",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-this-indie-publisher-released-29-terrible-looking-steam-games-in-a-single-day-will-they-make-any-money/",
-      "canonical": "pcgamer.com/gaming-industry/steam-week-in-review-this-indie-publisher-released-29-terrible-looking-steam-games-in-a-single-day-will-they-make-any-money",
-      "published_dt": "2026-09-21T10:24:25+06:00",
-      "published_date": "2026-09-21T10:24:25+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "All the interesting Steam facts for the week ending September 20.",
-      "image": "https://cdn.mos.cms.futurecdn.net/EhFFGoxwMsioVA6nvnvdvL-1920-80.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-21T11:54:52.530188+06:00",
-      "last_seen": "2026-09-21T11:54:52.530195+06:00"
-    },
-    "polygon.com/j-j-abrams-cult-sci-fi-series-streaming-free": {
-      "title": "J.J. Abrams' Near-Perfect \"Lost Meets X-Files\" Sci-Fi Series Is Officially Free on Streaming",
-      "url": "https://www.polygon.com/j-j-abrams-cult-sci-fi-series-streaming-free/",
-      "canonical": "polygon.com/j-j-abrams-cult-sci-fi-series-streaming-free",
-      "published_dt": "2026-09-21T10:00:20+06:00",
-      "published_date": "2026-09-21T10:00:20+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Watch this underrated classic if you're fond of fantasy and hard sci-fi.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mv5byzningjiogitzdkyzs00ndy3lwjjnjmtnjy3n2uzzwu2zjlkxkeyxkfqcgc-_v1_-1-1.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-21T11:54:52.713658+06:00",
-      "last_seen": "2026-09-21T11:54:52.713664+06:00"
-    },
-    "polygon.com/gamecube-launch-games-ranked": {
-      "title": "25 Years Later, the GameCube’s 5 Best Launch Games Are Still As Good as Ever",
-      "url": "https://www.polygon.com/gamecube-launch-games-ranked/",
-      "canonical": "polygon.com/gamecube-launch-games-ranked",
-      "published_dt": "2026-09-21T09:30:14+06:00",
-      "published_date": "2026-09-21T09:30:14+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "For the GameCube's 25th anniversary, we looked back at an unexpectedly solid launch lineup full of surprises/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/switch_luigismansion3_e3_artwork_21.jpeg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-21T11:54:52.713862+06:00",
-      "last_seen": "2026-09-21T11:54:52.713868+06:00"
-    },
-    "pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-this-week-21st-27th-september": {
-      "title": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out This Week (21st - 27th September)",
-      "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-this-week-21st-27th-september",
-      "canonical": "pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-this-week-21st-27th-september",
-      "published_dt": "2026-09-21T11:30:00+06:00",
-      "published_date": "2026-09-21T11:30:00+06:00",
-      "source": "Push Square",
-      "region": "Gaming",
-      "excerpt": "Silent Hill! Control Resonant! Dune! September continues to be ridiculous; this week sees the arrival of another 26 games on PS5 and PS4. As we often say in our staff chat, there are simply too many games. Among the chaos are a handful of bigger titles to look out for. They include the likes of Control Resonant , Silent Hill: Townfall , and Dune: Awakening . Read the full article on pushsquare.com",
-      "image": "https://images.pushsquare.com/f641f4f8f36a6/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-21T11:54:54.765682+06:00",
-      "last_seen": "2026-09-21T11:54:54.765688+06:00"
-    },
-    "pushsquare.com/news/2026/09/sonys-acclaimed-resident-evil-movie-breaks-box-office-records": {
-      "title": "Sony's Acclaimed Resident Evil Movie Breaks Box Office Records",
-      "url": "https://www.pushsquare.com/news/2026/09/sonys-acclaimed-resident-evil-movie-breaks-box-office-records",
-      "canonical": "pushsquare.com/news/2026/09/sonys-acclaimed-resident-evil-movie-breaks-box-office-records",
-      "published_dt": "2026-09-21T11:00:00+06:00",
-      "published_date": "2026-09-21T11:00:00+06:00",
-      "source": "Push Square",
-      "region": "Gaming",
-      "excerpt": "That's how you do it. It’s shaping up to be a particularly big quarter for Sony Pictures, following the record-breaking success of Spider-Man: Brand New Day . (Now the highest-grossing movie of all time in North America.) The firm’s new Resident Evil movie – directed by Zach Cregger – has blown past all expectations , collecting $60 million at the Box Office domestically. Read the full article on pushsquare.com",
-      "image": "https://images.pushsquare.com/16d7d6a115d76/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-21T11:54:54.766204+06:00",
-      "last_seen": "2026-09-21T11:54:54.766209+06:00"
+      "last_seen": "2026-09-25T17:12:36.778825+06:00"
     },
     "ign.com/articles/spider-man-brand-new-day-story-changed-repeatedly-as-sony-launched-those-terrible-villain-spinoff-films": {
       "title": "Spider-Man: Brand New Day Story Changed Repeatedly as Sony Launched Those Terrible Villain Spinoff Films",
@@ -12803,6 +12706,678 @@
       "status": "pending",
       "first_seen": "2026-09-25T11:50:55.919869+06:00",
       "last_seen": "2026-09-25T11:50:55.919873+06:00"
+    },
+    "ign.com/articles/target-pokemon-tcg-restock-30th-anniversary-etb": {
+      "title": "Target Restocks Rare Pokémon TCG Sets Today, Including 30th Anniversary ETBs and More",
+      "url": "https://www.ign.com/articles/target-pokemon-tcg-restock-30th-anniversary-etb",
+      "canonical": "ign.com/articles/target-pokemon-tcg-restock-30th-anniversary-etb",
+      "published_dt": "2026-09-25T16:35:44+06:00",
+      "published_date": "2026-09-25T16:35:44+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Target just dropped a massive Pokémon TCG restock featuring rare 30th anniversary ETBs at MSRP and loads more — here is how to grab yours before they sell out.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/25/target-pokemon-tcg-restock-1790332390787.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:32.791392+06:00",
+      "last_seen": "2026-09-25T17:12:32.791399+06:00"
+    },
+    "ign.com/articles/woots-fall-in-love-with-video-games-sale-early-prime-day-deals": {
+      "title": "Woot's New Sale Includes the Best Switch 2 Console Deal of the Year, But it Expires Today",
+      "url": "https://www.ign.com/articles/woots-fall-in-love-with-video-games-sale-early-prime-day-deals",
+      "canonical": "ign.com/articles/woots-fall-in-love-with-video-games-sale-early-prime-day-deals",
+      "published_dt": "2026-09-25T16:01:09+06:00",
+      "published_date": "2026-09-25T16:01:09+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Woot's new 'Fall in Love with Video Games' sale includes the best Switch 2 console deal of the year so far, but it expires before the end of the day (September 25, 2026).",
+      "image": "https://assets-prd.ignimgs.com/2026/09/25/woot-switch-2-sale-love-video-games-ign-1790330351692.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:32.791509+06:00",
+      "last_seen": "2026-09-25T17:12:32.791511+06:00"
+    },
+    "ign.com/articles/thats-where-doomsday-is-born-avengers-director-discusses-endgame-encores-new-ending-that-rewrites-steve-rogers-story": {
+      "title": "'That's Where Doomsday is Born': Avengers Director Discusses Endgame Encore's New Ending That Rewrites Steve Rogers' Story",
+      "url": "https://www.ign.com/articles/thats-where-doomsday-is-born-avengers-director-discusses-endgame-encores-new-ending-that-rewrites-steve-rogers-story",
+      "canonical": "ign.com/articles/thats-where-doomsday-is-born-avengers-director-discusses-endgame-encores-new-ending-that-rewrites-steve-rogers-story",
+      "published_dt": "2026-09-25T15:49:40+06:00",
+      "published_date": "2026-09-25T15:49:40+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Avengers: Endgame director Anthony Russo has discussed the movie's newly-extended final scene, and how it leads directly into Avengers: Doomsday.",
+      "image": "https://assets-prd.ignimgs.com/2022/08/20/avengersendgame-10bestmoments-blogroll-1564703094919-1660966839450.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-25T17:12:32.791590+06:00",
+      "last_seen": "2026-09-25T17:12:32.791592+06:00",
+      "posted_at": "2026-09-25T17:31:51.144899+06:00"
+    },
+    "ign.com/articles/forza-horizon-6-dev-responds-to-itasha-car-ban-backlash-says-explicit-sexual-content-or-sexually-suggestive-content-is-forbidden": {
+      "title": "Forza Horizon 6 Dev Responds to 'Itasha' Car Ban Backlash, Says 'Explicit Sexual Content' or 'Sexually Suggestive Content' Is Forbidden",
+      "url": "https://www.ign.com/articles/forza-horizon-6-dev-responds-to-itasha-car-ban-backlash-says-explicit-sexual-content-or-sexually-suggestive-content-is-forbidden",
+      "canonical": "ign.com/articles/forza-horizon-6-dev-responds-to-itasha-car-ban-backlash-says-explicit-sexual-content-or-sexually-suggestive-content-is-forbidden",
+      "published_dt": "2026-09-25T15:03:52+06:00",
+      "published_date": "2026-09-25T15:03:52+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Over the last few months, Forza Horizon 6 has received an outpouring of negative comments on social media and Steam about the game’s moderating system, which has been perceived as unfairly targeting players who create Itasha-style designs. To address this, Microsoft recently released an updated code of conduct in an attempt to clarify what kind of user generated content will get players banned in Forza Horizon 6.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/25/ss-383ace7815eaa8f8f5128a58fd8ca7df911d3e14-1920x1080-1790326952278.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:32.791660+06:00",
+      "last_seen": "2026-09-25T17:12:32.791662+06:00"
+    },
+    "ign.com/articles/ebon-moss-bachrach-in-final-talks-for-heat-2-role": {
+      "title": "Ebon Moss-Bachrach in Final Talks for Heat 2 Role",
+      "url": "https://www.ign.com/articles/ebon-moss-bachrach-in-final-talks-for-heat-2-role",
+      "canonical": "ign.com/articles/ebon-moss-bachrach-in-final-talks-for-heat-2-role",
+      "published_dt": "2026-09-25T14:27:23+06:00",
+      "published_date": "2026-09-25T14:27:23+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Michael Mann’s Heat 2 is set to start shooting in November, with The Bear's Ebon Moss-Bachrach in final talks to play Kelso, previously portrayed by Tom Noonan.",
+      "image": "https://assets-prd.ignimgs.com/2023/12/14/best-character-2023-richie-1702554357482.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-25T17:12:32.791734+06:00",
+      "last_seen": "2026-09-25T17:12:32.791736+06:00",
+      "posted_at": "2026-09-25T17:32:06.356937+06:00"
+    },
+    "videogameschronicle.com/news/court-orders-reddit-moderator-who-widely-pirated-switch-games-to-pay-nintendo-4-5-million-in-damages": {
+      "title": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages",
+      "url": "https://www.videogameschronicle.com/news/court-orders-reddit-moderator-who-widely-pirated-switch-games-to-pay-nintendo-4-5-million-in-damages/",
+      "canonical": "videogameschronicle.com/news/court-orders-reddit-moderator-who-widely-pirated-switch-games-to-pay-nintendo-4-5-million-in-damages",
+      "published_dt": "2026-09-25T16:02:21+06:00",
+      "published_date": "2026-09-25T16:02:21+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "James 'Archbox' Williams copied and distributed \"hundreds, or thousands\" of Switch games",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-25T17:12:33.333160+06:00",
+      "last_seen": "2026-09-25T17:12:33.333163+06:00",
+      "posted_at": "2026-09-25T17:31:07.703156+06:00"
+    },
+    "videogameschronicle.com/news/bethesda-president-tells-obsidian-staff-that-the-studio-will-keep-its-creative-identity-after-its-move": {
+      "title": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move",
+      "url": "https://www.videogameschronicle.com/news/bethesda-president-tells-obsidian-staff-that-the-studio-will-keep-its-creative-identity-after-its-move/",
+      "canonical": "videogameschronicle.com/news/bethesda-president-tells-obsidian-staff-that-the-studio-will-keep-its-creative-identity-after-its-move",
+      "published_dt": "2026-09-25T15:21:48+06:00",
+      "published_date": "2026-09-25T15:21:48+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Jill Braff says Obsidian's move to Bethesda is \"primarily a change in reporting structure\"",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-25T17:12:33.333265+06:00",
+      "last_seen": "2026-09-25T17:12:33.333267+06:00",
+      "posted_at": "2026-09-25T17:31:02.244070+06:00"
+    },
+    "videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week": {
+      "title": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week",
+      "url": "https://www.videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week/",
+      "canonical": "videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week",
+      "published_dt": "2026-09-25T14:29:53+06:00",
+      "published_date": "2026-09-25T14:29:53+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Nintendo's latest Game Trial gives you access to the full game until Wednesday",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-25T17:12:33.333381+06:00",
+      "last_seen": "2026-09-25T17:12:33.333383+06:00",
+      "posted_at": "2026-09-25T17:31:36.006686+06:00"
+    },
+    "eurogamer.net/sony-playstation-disc-ending-survey-report": {
+      "title": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
+      "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
+      "canonical": "eurogamer.net/sony-playstation-disc-ending-survey-report",
+      "published_dt": "2026-09-25T17:00:43+06:00",
+      "published_date": "2026-09-25T17:00:43+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Is Sony having second thoughts about ending PlayStation disc support? The question has arisen following a report that says Sony sent \"a bigger survey than they've sent almost ever before\" to developers asking for feedback about the decision to stop producing disc-based games. Read more",
+      "image": "https://assetsio.gnwcdn.com/wolverine-disc.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:33.776535+06:00",
+      "last_seen": "2026-09-25T17:12:33.776540+06:00"
+    },
+    "eurogamer.net/marathon-bungie-future-roadmap-beyond-extraction": {
+      "title": "As Marathon's player slump continues, Bungie announces plans to grow it \"beyond extraction\"",
+      "url": "https://www.eurogamer.net/marathon-bungie-future-roadmap-beyond-extraction",
+      "canonical": "eurogamer.net/marathon-bungie-future-roadmap-beyond-extraction",
+      "published_dt": "2026-09-25T16:32:41+06:00",
+      "published_date": "2026-09-25T16:32:41+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Bungie has announced drastic changes coming to its struggling shooter Marathon, including a shift away from its extraction roots in the coming months. The new mission statement? Making more \"approachable\" experiences with \"different levels of intensity and commitment.\" Read more",
+      "image": "https://assetsio.gnwcdn.com/Marathon_2.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-25T17:12:33.776719+06:00",
+      "last_seen": "2026-09-25T17:12:33.776721+06:00",
+      "posted_at": "2026-09-25T17:32:01.496894+06:00"
+    },
+    "pcgamer.com/games/horror/could-the-pc-gamer-team-survive-silent-hill-townfall": {
+      "title": "Could the PC Gamer team survive Silent Hill: Townfall?",
+      "url": "https://www.pcgamer.com/games/horror/could-the-pc-gamer-team-survive-silent-hill-townfall/",
+      "canonical": "pcgamer.com/games/horror/could-the-pc-gamer-team-survive-silent-hill-townfall",
+      "published_dt": "2026-09-25T16:26:32+06:00",
+      "published_date": "2026-09-25T16:26:32+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Could the PC Gamer team survive Silent Hill: Townfall?",
+      "image": "https://cdn.mos.cms.futurecdn.net/K8Rp35jyBNXxoSySn7AfM3-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:34.548564+06:00",
+      "last_seen": "2026-09-25T17:12:34.548569+06:00"
+    },
+    "pcgamer.com/games/my-first-mmo-character-6-jacob-ridley": {
+      "title": "My first MMO character #6: Jacob Ridley",
+      "url": "https://www.pcgamer.com/games/my-first-mmo-character-6-jacob-ridley/",
+      "canonical": "pcgamer.com/games/my-first-mmo-character-6-jacob-ridley",
+      "published_dt": "2026-09-25T15:00:00+06:00",
+      "published_date": "2026-09-25T15:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "My first MMO character #6: Jacob Ridley",
+      "image": "https://cdn.mos.cms.futurecdn.net/QXbzZyXRydap5Vd7Mafx3X-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:34.548650+06:00",
+      "last_seen": "2026-09-25T17:12:34.548652+06:00"
+    },
+    "polygon.com/magic-mtg-spider-man-commander-deck-christmas": {
+      "title": "New Magic Leak Confirms Fully-Foil Spider-Man Commander Deck",
+      "url": "https://www.polygon.com/magic-mtg-spider-man-commander-deck-christmas/",
+      "canonical": "polygon.com/magic-mtg-spider-man-commander-deck-christmas",
+      "published_dt": "2026-09-25T16:32:20+06:00",
+      "published_date": "2026-09-25T16:32:20+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "A new leak seems to confirm that Marvel's Spider-Man will finally get an MTG Commander deck this Christmas.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/screenshot-2025-09-02-at-11-45-00-am.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:34.914068+06:00",
+      "last_seen": "2026-09-25T17:12:34.914071+06:00"
+    },
+    "polygon.com/fire-emblem-fortunes-weave-play-dietrichs-path": {
+      "title": "Fire Emblem: Three Houses Fans Must Play Dietrich in Fortune's Weave",
+      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-play-dietrichs-path/",
+      "canonical": "polygon.com/fire-emblem-fortunes-weave-play-dietrichs-path",
+      "published_dt": "2026-09-25T16:00:16+06:00",
+      "published_date": "2026-09-25T16:00:16+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Dietrich's route in Fire Emblem Fortune's Weave contains some of the game's best storytelling and essential Three Houses connections",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-dietrich.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-25T17:12:34.914159+06:00",
+      "last_seen": "2026-09-25T17:12:34.914160+06:00",
+      "posted_at": "2026-09-25T17:32:16.988533+06:00"
+    },
+    "polygon.com/saw-new-movie-reveal-announcement": {
+      "title": "Saw Creators Return to the Franchise for New Movie from Wrong Turn Director",
+      "url": "https://www.polygon.com/saw-new-movie-reveal-announcement/",
+      "canonical": "polygon.com/saw-new-movie-reveal-announcement",
+      "published_dt": "2026-09-25T15:56:04+06:00",
+      "published_date": "2026-09-25T15:56:04+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Blumhouse and Lionsgate confirm the eleventh installment in the Saw series and reveal the upcoming movie's director.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jigsaw.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:34.914238+06:00",
+      "last_seen": "2026-09-25T17:12:34.914239+06:00"
+    },
+    "polygon.com/heroes-series-free-streaming-september-2026": {
+      "title": "20 Years Later, the Most Inventive Sci-Fi Superhero Series of the Century is Officially Free on Streaming",
+      "url": "https://www.polygon.com/heroes-series-free-streaming-september-2026/",
+      "canonical": "polygon.com/heroes-series-free-streaming-september-2026",
+      "published_dt": "2026-09-25T15:30:14+06:00",
+      "published_date": "2026-09-25T15:30:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "There's been no better time to revisit one of the best superhero shows ever made.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/heroes-nbcuniversal.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-25T17:12:34.914323+06:00",
+      "last_seen": "2026-09-25T17:12:34.914325+06:00",
+      "posted_at": "2026-09-25T17:31:56.355015+06:00"
+    },
+    "polygon.com/playstation-dualsense-nfc-payments": {
+      "title": "PlayStation Wants You to Use Your Controller to Simplify Payments",
+      "url": "https://www.polygon.com/playstation-dualsense-nfc-payments/",
+      "canonical": "polygon.com/playstation-dualsense-nfc-payments",
+      "published_dt": "2026-09-25T14:12:45+06:00",
+      "published_date": "2026-09-25T14:12:45+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "PlayStation has filed a patent that allows the DualSense controller to read cards via NFC to pay for digital goods.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/grand-theft-auto-vi-limited-edition-dualsense-controllers-ps5.jpeg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:34.914396+06:00",
+      "last_seen": "2026-09-25T17:12:34.914397+06:00"
+    },
+    "gamesradar.com/games/pokemon/everything-youll-need-to-bring-to-your-first-pokemon-organised-play-event": {
+      "title": "Everything you'll need to bring to your first Pokémon Organised Play Event",
+      "url": "https://www.gamesradar.com/games/pokemon/everything-youll-need-to-bring-to-your-first-pokemon-organised-play-event/",
+      "canonical": "gamesradar.com/games/pokemon/everything-youll-need-to-bring-to-your-first-pokemon-organised-play-event",
+      "published_dt": "2026-09-25T16:49:53+06:00",
+      "published_date": "2026-09-25T16:49:53+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Everything you'll need to bring to your first Pokémon Organised Play Event",
+      "image": "https://cdn.mos.cms.futurecdn.net/3uqy4jxuoNAXyfEdBLvzSb-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:35.491025+06:00",
+      "last_seen": "2026-09-25T17:12:35.491033+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-movies/avengers-doomsday-co-director-responds-to-fan-theory-that-robert-downey-jr-s-tony-stark-and-victor-von-doom-are-somehow-connected": {
+      "title": "Avengers Doomsday co-director responds to fan theory that Robert Downey Jr.'s Tony Stark and Doctor Doom are connected",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-co-director-responds-to-fan-theory-that-robert-downey-jr-s-tony-stark-and-victor-von-doom-are-somehow-connected/",
+      "canonical": "gamesradar.com/entertainment/marvel-movies/avengers-doomsday-co-director-responds-to-fan-theory-that-robert-downey-jr-s-tony-stark-and-victor-von-doom-are-somehow-connected",
+      "published_dt": "2026-09-25T16:48:23+06:00",
+      "published_date": "2026-09-25T16:48:23+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "You'll have to wait until Avengers Doomsday hits screens to see if Iron Man and Doctor Doom are linked",
+      "image": "https://cdn.mos.cms.futurecdn.net/C9wvjJD3zi5cNhigC2xu8L-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:35.491130+06:00",
+      "last_seen": "2026-09-25T17:12:35.491131+06:00"
+    },
+    "gamesradar.com/black-friday-ps5-deals-sales-prices": {
+      "title": "The best early Black Friday PS5 deals in 2026: the biggest Sony savings so far",
+      "url": "https://www.gamesradar.com/black-friday-ps5-deals-sales-prices/",
+      "canonical": "gamesradar.com/black-friday-ps5-deals-sales-prices",
+      "published_dt": "2026-09-25T16:45:51+06:00",
+      "published_date": "2026-09-25T16:45:51+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Black Friday is incoming, and I've gathered the best early Sony savings that can be found in the lead-up to this year's holiday sale season.",
+      "image": "https://cdn.mos.cms.futurecdn.net/5ZZmJExqgA4qhqKfqaq27a-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:35.491209+06:00",
+      "last_seen": "2026-09-25T17:12:35.491211+06:00"
+    },
+    "gamesradar.com/entertainment/dc-movies/robert-pattinson-doesnt-think-he-can-be-the-dcus-batman-it-would-be-kind-of-tough": {
+      "title": "Robert Pattinson doesn't think he can be the DCU's Batman: \"It would be kind of tough\"",
+      "url": "https://www.gamesradar.com/entertainment/dc-movies/robert-pattinson-doesnt-think-he-can-be-the-dcus-batman-it-would-be-kind-of-tough/",
+      "canonical": "gamesradar.com/entertainment/dc-movies/robert-pattinson-doesnt-think-he-can-be-the-dcus-batman-it-would-be-kind-of-tough",
+      "published_dt": "2026-09-25T16:41:41+06:00",
+      "published_date": "2026-09-25T16:41:41+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The DCU still doesn't have its Batman",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ay9LcTEJFUXjAh5MJhixpQ-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:35.491295+06:00",
+      "last_seen": "2026-09-25T17:12:35.491297+06:00"
+    },
+    "gamesradar.com/games/the-legend-of-zelda/ubisoft-was-reportedly-working-on-a-new-legend-of-zelda-game-starring-ganondorf-only-for-nintendo-to-shoot-it-down": {
+      "title": "Ubisoft was reportedly working on a new Legend of Zelda game starring Ganondorf, only for Nintendo to shoot it down",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/ubisoft-was-reportedly-working-on-a-new-legend-of-zelda-game-starring-ganondorf-only-for-nintendo-to-shoot-it-down/",
+      "canonical": "gamesradar.com/games/the-legend-of-zelda/ubisoft-was-reportedly-working-on-a-new-legend-of-zelda-game-starring-ganondorf-only-for-nintendo-to-shoot-it-down",
+      "published_dt": "2026-09-25T16:22:26+06:00",
+      "published_date": "2026-09-25T16:22:26+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "It reportedly starred a new character until Nintendo suggested Ganon",
+      "image": "https://cdn.mos.cms.futurecdn.net/hnDiGgQNBL987HbpwKpa6R-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:35.491368+06:00",
+      "last_seen": "2026-09-25T17:12:35.491370+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-movies/ryan-reynolds-suited-up-as-deadpool-on-the-set-of-an-apple-tv-movie-for-deadpool-and-wolverine-pick-ups": {
+      "title": "Ryan Reynolds suited up as Deadpool on the set of an Apple TV movie for Deadpool & Wolverine pick-ups",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/ryan-reynolds-suited-up-as-deadpool-on-the-set-of-an-apple-tv-movie-for-deadpool-and-wolverine-pick-ups/",
+      "canonical": "gamesradar.com/entertainment/marvel-movies/ryan-reynolds-suited-up-as-deadpool-on-the-set-of-an-apple-tv-movie-for-deadpool-and-wolverine-pick-ups",
+      "published_dt": "2026-09-25T16:20:40+06:00",
+      "published_date": "2026-09-25T16:20:40+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "A last-minute Deadpool & Wolverine shot was captured on an entirely different film set",
+      "image": "https://cdn.mos.cms.futurecdn.net/BXZFFC973bZVrznEbcBEhQ-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:35.491444+06:00",
+      "last_seen": "2026-09-25T17:12:35.491445+06:00"
+    },
+    "gamesradar.com/games/world-of-warcraft/no-sympathy-as-world-of-warcraft-forever-players-face-bans-for-inappropriate-names-senior-dev-suggests-anyone-affected-be-a-better-human-next-time": {
+      "title": "World of Warcraft: Forever cracks down on inappropriate names, senior dev offers \"no sympathy\"",
+      "url": "https://www.gamesradar.com/games/world-of-warcraft/no-sympathy-as-world-of-warcraft-forever-players-face-bans-for-inappropriate-names-senior-dev-suggests-anyone-affected-be-a-better-human-next-time/",
+      "canonical": "gamesradar.com/games/world-of-warcraft/no-sympathy-as-world-of-warcraft-forever-players-face-bans-for-inappropriate-names-senior-dev-suggests-anyone-affected-be-a-better-human-next-time",
+      "published_dt": "2026-09-25T16:01:59+06:00",
+      "published_date": "2026-09-25T16:01:59+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Blizzard devs \"read through every\" affected account carefully",
+      "image": "https://cdn.mos.cms.futurecdn.net/ieQSaiDGnawf2Ucp4pc7Hm-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:35.491512+06:00",
+      "last_seen": "2026-09-25T17:12:35.491514+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-movies/anthony-russo-says-they-havent-announced-the-full-avengers-doomsday-cast-yet-and-he-gets-confused-about-who-has-been-announced-and-who-hasnt": {
+      "title": "Anthony Russo says they haven't announced the full Avengers: Doomsday cast yet",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/anthony-russo-says-they-havent-announced-the-full-avengers-doomsday-cast-yet-and-he-gets-confused-about-who-has-been-announced-and-who-hasnt/",
+      "canonical": "gamesradar.com/entertainment/marvel-movies/anthony-russo-says-they-havent-announced-the-full-avengers-doomsday-cast-yet-and-he-gets-confused-about-who-has-been-announced-and-who-hasnt",
+      "published_dt": "2026-09-25T16:01:17+06:00",
+      "published_date": "2026-09-25T16:01:17+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The Russos haven't finished announcing the cast of Avengers: Doomsday yet",
+      "image": "https://cdn.mos.cms.futurecdn.net/oYw5TiPM7VMeFV8h9hnqS8-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:35.491583+06:00",
+      "last_seen": "2026-09-25T17:12:35.491585+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-movies/anthony-russo-breaks-down-the-steve-and-peggy-avengers-endgame-encore-bonus-footage-thats-where-doomsday-is-born": {
+      "title": "Anthony Russo breaks down the Steve and Peggy Avengers: Endgame Encore bonus footage: \"That's where Doomsday is born\"",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/anthony-russo-breaks-down-the-steve-and-peggy-avengers-endgame-encore-bonus-footage-thats-where-doomsday-is-born/",
+      "canonical": "gamesradar.com/entertainment/marvel-movies/anthony-russo-breaks-down-the-steve-and-peggy-avengers-endgame-encore-bonus-footage-thats-where-doomsday-is-born",
+      "published_dt": "2026-09-25T15:20:57+06:00",
+      "published_date": "2026-09-25T15:20:57+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Avengers: Endgame Encore changes the original ending",
+      "image": "https://cdn.mos.cms.futurecdn.net/siYBxzhsmnGUgbftRWo7M8-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:35.491650+06:00",
+      "last_seen": "2026-09-25T17:12:35.491651+06:00"
+    },
+    "gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers": {
+      "title": "'This shows the power that comes from employees joining forces:' King signs collective bargaining agreement with union workers",
+      "url": "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
+      "canonical": "gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
+      "published_dt": "2026-09-25T15:42:53+06:00",
+      "published_date": "2026-09-25T15:42:53+06:00",
+      "source": "Game Developer",
+      "region": "Gaming",
+      "excerpt": "'This is an important step for King, the gaming industry and for the Swedish model.'",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt002bdf889d6bbe46/6ab6443eb9fa09891d6b1217/King_Header.png?width=720&quality=80&disable=upscale",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:36.248960+06:00",
+      "last_seen": "2026-09-25T17:12:36.248966+06:00"
+    },
+    "insider-gaming.com/the-witcher-3-remastered-changes": {
+      "title": "All The Witcher 3: Wild Hunt Remastered Changes in 2026 Update",
+      "url": "https://insider-gaming.com/the-witcher-3-remastered-changes/",
+      "canonical": "insider-gaming.com/the-witcher-3-remastered-changes",
+      "published_dt": "2026-09-25T16:50:53+06:00",
+      "published_date": "2026-09-25T16:50:53+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "The next-gen update adds many new features to The Witcher 3, and we're running through everything new in the Remastered update. The post All The Witcher 3: Wild Hunt Remastered Changes in 2026 Update appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-25T17:12:36.778304+06:00",
+      "last_seen": "2026-09-25T17:12:36.778308+06:00",
+      "posted_at": "2026-09-25T17:30:56.573554+06:00"
+    },
+    "insider-gaming.com/pokemon-tcg-pocket-deluxe-pack-mega-release-date": {
+      "title": "When is the Next Pokémon TCG Pocket Expansion? Deluxe Pack Mega Release Date & Launch Times",
+      "url": "https://insider-gaming.com/pokemon-tcg-pocket-deluxe-pack-mega-release-date/",
+      "canonical": "insider-gaming.com/pokemon-tcg-pocket-deluxe-pack-mega-release-date",
+      "published_dt": "2026-09-25T16:31:49+06:00",
+      "published_date": "2026-09-25T16:31:49+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "All the release date details for the Pokémon TCG Pocket Deluxe Pack Mega expansion, bringing the B Series to a close. The post When is the Next Pokémon TCG Pocket Expansion? Deluxe Pack Mega Release Date & Launch Times appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-25T17:12:36.778494+06:00",
+      "last_seen": "2026-09-25T17:12:36.778496+06:00",
+      "posted_at": "2026-09-25T17:31:46.060098+06:00"
+    },
+    "insider-gaming.com/hytale-creator-offering-big-cash-prize-for-defeating-chapter-1-gobliterator-boss": {
+      "title": "Hytale Creator Offering Big Cash Prize For Defeating Chapter 1 Gobliterator Boss",
+      "url": "https://insider-gaming.com/hytale-creator-offering-big-cash-prize-for-defeating-chapter-1-gobliterator-boss/",
+      "canonical": "insider-gaming.com/hytale-creator-offering-big-cash-prize-for-defeating-chapter-1-gobliterator-boss",
+      "published_dt": "2026-09-25T16:17:58+06:00",
+      "published_date": "2026-09-25T16:17:58+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "If you love Hytale, you can get rewarded for your efforts with a sensational cash prize for pulling off an impressive boss feat. The post Hytale Creator Offering Big Cash Prize For Defeating Chapter 1 Gobliterator Boss appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-25T17:12:36.778654+06:00",
+      "last_seen": "2026-09-25T17:12:36.778656+06:00",
+      "posted_at": "2026-09-25T17:31:30.475862+06:00"
+    },
+    "insider-gaming.com/gears-of-war-e-day-review-embargo": {
+      "title": "Gears of War: E-Day Review Embargo Date & Times",
+      "url": "https://insider-gaming.com/gears-of-war-e-day-review-embargo/",
+      "canonical": "insider-gaming.com/gears-of-war-e-day-review-embargo",
+      "published_dt": "2026-09-25T15:44:51+06:00",
+      "published_date": "2026-09-25T15:44:51+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "All the details on when the Gears of War: E-Day review embargo lifts and when you can start reading initial impressions of the game. The post Gears of War: E-Day Review Embargo Date & Times appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-25T17:12:36.778975+06:00",
+      "last_seen": "2026-09-25T17:12:36.778976+06:00",
+      "posted_at": "2026-09-25T17:31:18.136053+06:00"
+    },
+    "insider-gaming.com/xbox-asha-sharma-microsoft-veteran-slams-approach": {
+      "title": "Former Microsoft Veteran Slams Asha Sharma’s XBOX Leadership Approach",
+      "url": "https://insider-gaming.com/xbox-asha-sharma-microsoft-veteran-slams-approach/",
+      "canonical": "insider-gaming.com/xbox-asha-sharma-microsoft-veteran-slams-approach",
+      "published_dt": "2026-09-25T15:34:37+06:00",
+      "published_date": "2026-09-25T15:34:37+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "In a now-deleted post on social media, a former Microsoft veteran slammed XBOX CEO Asha Sharma's leadership style. The post Former Microsoft Veteran Slams Asha Sharma’s XBOX Leadership Approach appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-25T17:12:36.779131+06:00",
+      "last_seen": "2026-09-25T17:12:36.779133+06:00",
+      "posted_at": "2026-09-25T17:31:12.969545+06:00"
+    },
+    "insider-gaming.com/gta-6-breaking-records-for-xbox-pre-orders": {
+      "title": "GTA 6 ‘Breaking Records’ For XBOX Pre-Orders",
+      "url": "https://insider-gaming.com/gta-6-breaking-records-for-xbox-pre-orders/",
+      "canonical": "insider-gaming.com/gta-6-breaking-records-for-xbox-pre-orders",
+      "published_dt": "2026-09-25T15:28:55+06:00",
+      "published_date": "2026-09-25T15:28:55+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Amid reports of PlayStation pre-orders for GTA 6 heavily outskewing XBOX, it's been revealed the title is breaking records for Microsoft. The post GTA 6 ‘Breaking Records’ For XBOX Pre-Orders appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:36.779563+06:00",
+      "last_seen": "2026-09-25T17:12:36.779566+06:00"
+    },
+    "insider-gaming.com/the-division-2-goes-free-registration-opens-survivors-test": {
+      "title": "The Division 2 Goes Free As Registration Opens For Survivors Test",
+      "url": "https://insider-gaming.com/the-division-2-goes-free-registration-opens-survivors-test/",
+      "canonical": "insider-gaming.com/the-division-2-goes-free-registration-opens-survivors-test",
+      "published_dt": "2026-09-25T14:53:58+06:00",
+      "published_date": "2026-09-25T14:53:58+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Ubisoft has made The Division 2 free-to-play for the next few days as a test announcement surfaces for the upcoming Survivors expansion. The post The Division 2 Goes Free As Registration Opens For Survivors Test appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-25T17:12:36.779717+06:00",
+      "last_seen": "2026-09-25T17:12:36.779719+06:00",
+      "posted_at": "2026-09-25T17:31:41.078487+06:00"
+    },
+    "insider-gaming.com/the-division-2-survivors-test-how-to-play": {
+      "title": "How to Play The Division 2: Survivors Test—Beta Access, Explained",
+      "url": "https://insider-gaming.com/the-division-2-survivors-test-how-to-play/",
+      "canonical": "insider-gaming.com/the-division-2-survivors-test-how-to-play",
+      "published_dt": "2026-09-25T14:43:23+06:00",
+      "published_date": "2026-09-25T14:43:23+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Eager to explore The Division 2: Survivors test to see what this new extraction mode is all about? Here's how to get access to that test. The post How to Play The Division 2: Survivors Test—Beta Access, Explained appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-25T17:12:36.779867+06:00",
+      "last_seen": "2026-09-25T17:12:36.779869+06:00",
+      "posted_at": "2026-09-25T17:31:25.187693+06:00"
+    },
+    "nintendolife.com/news/2026/09/reddit-mod-ordered-to-cough-up-usd4500000-to-nintendo-in-long-running-switch-piracy-case": {
+      "title": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case",
+      "url": "https://www.nintendolife.com/news/2026/09/reddit-mod-ordered-to-cough-up-usd4500000-to-nintendo-in-long-running-switch-piracy-case",
+      "canonical": "nintendolife.com/news/2026/09/reddit-mod-ordered-to-cough-up-usd4500000-to-nintendo-in-long-running-switch-piracy-case",
+      "published_dt": "2026-09-25T17:00:00+06:00",
+      "published_date": "2026-09-25T17:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Update: The 'Archbox' case finally comes to a close. Back in July, Nintendo dished out a handful of lawsuits in its continued clampdown on Switch piracy. Four months on, one of these legal claims has come back as another win for Nintendo after the defendant failed to plead or otherwise respond within the court's given time. The case in question was against James 'Archbox' Williams, the lead moderator of the r/SwitchPirates subreddit, who Nintendo accused of offering \"massive libraries of pirated Nintendo Switch games\" via several \"pirate shops\". Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/2f35e20433ff4/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:37.134632+06:00",
+      "last_seen": "2026-09-25T17:12:37.134636+06:00"
+    },
+    "nintendolife.com/news/2026/09/unicorn-overlord-directors-upcoming-action-rpg-looks-expectedly-beautiful": {
+      "title": "Unicorn Overlord Director's Upcoming Action RPG Looks Expectedly Beautiful",
+      "url": "https://www.nintendolife.com/news/2026/09/unicorn-overlord-directors-upcoming-action-rpg-looks-expectedly-beautiful",
+      "canonical": "nintendolife.com/news/2026/09/unicorn-overlord-directors-upcoming-action-rpg-looks-expectedly-beautiful",
+      "published_dt": "2026-09-25T15:00:00+06:00",
+      "published_date": "2026-09-25T15:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "2028 can't come soon enough. Unicorn Overlord was one of our very favourite games of 2024, so you can imagine our excitement this morning when we found out that the game's director and former Vanillaware dev, Takafumi Noma, has unveiled his next project, and it looks expectedly stunning. Dawngazer is an action RPG from Noma's new fantasy-based studio, Ignisphere. We know very little about the game itself for the time being, but the dev and publisher Good Smile has announced that it'll launch on Switch 2 at some point in 2028 . Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/d4e1e5e3da9b5/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:37.134873+06:00",
+      "last_seen": "2026-09-25T17:12:37.134875+06:00"
+    },
+    "pushsquare.com/news/2026/09/enjoy-1986s-castlevania-for-free-on-your-phone-for-40th-anniversary": {
+      "title": "Enjoy 1986's Castlevania for Free on Your Phone for 40th Anniversary",
+      "url": "https://www.pushsquare.com/news/2026/09/enjoy-1986s-castlevania-for-free-on-your-phone-for-40th-anniversary",
+      "canonical": "pushsquare.com/news/2026/09/enjoy-1986s-castlevania-for-free-on-your-phone-for-40th-anniversary",
+      "published_dt": "2026-09-25T17:00:00+06:00",
+      "published_date": "2026-09-25T17:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Up to 80% off on PS Store compilations. Okay, Push Square isn’t a mobile gaming website, but I think it’d be remiss of me to not point you in the direction of a free game. Castlevania , the 1986 classic from Konami, is currently free to download in its entirety on iOS and Android until 24th October. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/af9d4e40f21d5/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-25T17:12:37.532317+06:00",
+      "last_seen": "2026-09-25T17:12:37.532322+06:00",
+      "posted_at": "2026-09-25T17:32:12.064212+06:00"
+    },
+    "purexbox.com/news/2026/09/report-xbox-studio-rare-working-on-various-projects-but-activision-will-decide-their-future": {
+      "title": "Report: Xbox Studio 'Rare' Working On Various Projects, But Activision Will Decide Their Future",
+      "url": "https://www.purexbox.com/news/2026/09/report-xbox-studio-rare-working-on-various-projects-but-activision-will-decide-their-future",
+      "canonical": "purexbox.com/news/2026/09/report-xbox-studio-rare-working-on-various-projects-but-activision-will-decide-their-future",
+      "published_dt": "2026-09-25T17:00:00+06:00",
+      "published_date": "2026-09-25T17:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "\"Rare is a unique studio in Microsoft’s portfolio.\". One of the big surprises of the Xbox reorganisation announcement this week was that legendary studio Rare was being transitioned to Activision rather than remaining under the Xbox Game Studios banner, effective immediately. This doesn't mean a whole lot on the face of it — Rare remains an Xbox-owned studio and the money will continue filtering in to Microsoft — but the company will supposedly report to Activision rather than Xbox Game Studios directly. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/56a5f8cb60448/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:37.847833+06:00",
+      "last_seen": "2026-09-25T17:12:37.847837+06:00"
+    },
+    "purexbox.com/news/2026/09/10plus-xbox-games-are-out-today-plus-a-pair-of-bangers-across-various-tiers-of-game-pass-september-25": {
+      "title": "10+ Xbox Games Are Out Today, Plus A Pair Of Bangers Across Various Tiers Of Game Pass (September 25)",
+      "url": "https://www.purexbox.com/news/2026/09/10plus-xbox-games-are-out-today-plus-a-pair-of-bangers-across-various-tiers-of-game-pass-september-25",
+      "canonical": "purexbox.com/news/2026/09/10plus-xbox-games-are-out-today-plus-a-pair-of-bangers-across-various-tiers-of-game-pass-september-25",
+      "published_dt": "2026-09-25T16:00:00+06:00",
+      "published_date": "2026-09-25T16:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Plenty of top bin potential. Happy Friday everyone! To celebrate we're back with you daily fix of all the new games coming to Xbox. For starters, Xbox Game Pass members have much to be excited about. The Essential tier is getting a new game today in Rematch , whilst Premium subscribers are being treated to another solid FPS, Call of Duty: Black Ops 6 . On top of all of that, if you're subbed to Ultimate, EA Sports FC 27 has a 10-hour trial via EA Play up for grabs, and the full game is out now for if you fancy bagging it for good! Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/3e5fb940194bc/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:37.848102+06:00",
+      "last_seen": "2026-09-25T17:12:37.848104+06:00"
+    },
+    "escapistmagazine.com/dawnwalker-timer-rebalanced": {
+      "title": "Rebel Wolves Gave Dawnwalker Players More Time to Explore",
+      "url": "https://www.escapistmagazine.com/dawnwalker-timer-rebalanced/",
+      "canonical": "escapistmagazine.com/dawnwalker-timer-rebalanced",
+      "published_dt": "2026-09-25T15:15:22+06:00",
+      "published_date": "2026-09-25T15:15:22+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "The Dawnwalker timer was softened before launch, giving players more room to explore while keeping skill upgrades costly and meaningful by design. The post Rebel Wolves Gave Dawnwalker Players More Time to Explore appeared first on The Escapist .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T17:12:38.908184+06:00",
+      "last_seen": "2026-09-25T17:12:38.908188+06:00"
     }
   },
   "events": {
@@ -28170,6 +28745,806 @@
           "headline": "Takafumi Noma Unveils New Fantasy IP IGNISPHERE and Action RPG DAWNGAZER",
           "claims": [
             "new fantasy IP IGNISPHERE and action RPG DAWNGAZER announced"
+          ]
+        }
+      ]
+    },
+    "evt_40526798c45616": {
+      "event_id": "evt_40526798c45616",
+      "event_key": "all the witcher 3 wild hunt remastered changes in 2026 update update",
+      "event_subject": "All The Witcher 3: Wild Hunt Remastered Changes in 2026 Update",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "all the witcher 3 wild hunt remastered changes in 2026 update update",
+        "subject": "All The Witcher 3: Wild Hunt Remastered Changes in 2026 Update",
+        "event_type": "update",
+        "action": "update",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "All The Witcher 3: Wild Hunt Remastered Changes in 2026 Update",
+        "franchise": "All The Witcher 3: Wild Hunt Remastered Changes in 2026 Update",
+        "institution": "",
+        "target": "All The Witcher 3: Wild Hunt Remastered Changes in 2026 Update",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [
+        "The next-gen update adds many new features to The Witcher 3, and we're running through everything new in the Remastered update. The post All The Witcher 3: Wild Hunt Remastered Changes in 2026 Update appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 0,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Witcher 3 Remastered Update Overhauls Visuals, Combat, and Platform Support",
+      "summary": "The 2026 next‑gen patch for The Witcher 3: Wild Hunt Remastered adds upgraded graphics, revamped combat, and new cross‑play features across PC, consoles, and Switch.",
+      "published_at": "2026-09-25T16:50:53+06:00",
+      "selected_at": "2026-09-25T11:30:56.573589+00:00",
+      "status": "published",
+      "message_id": 465,
+      "published_versions": [
+        {
+          "published_at": "2026-09-25T11:30:56.573589+00:00",
+          "headline": "Witcher 3 Remastered Update Overhauls Visuals, Combat, and Platform Support",
+          "claims": [
+            "The next-gen update adds many new features to The Witcher 3, and we're running through everything new in the Remastered update. The post All The Witcher 3: Wild Hunt Remastered Changes in 2026 Update appeared first on Insider Gaming ."
+          ]
+        }
+      ]
+    },
+    "evt_28e419050edb00": {
+      "event_id": "evt_28e419050edb00",
+      "event_key": "bethesda president tells obsidian staff that the studio will keep its creative identity after its move other",
+      "event_subject": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "bethesda president tells obsidian staff that the studio will keep its creative identity after its move other",
+        "subject": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move",
+        "franchise": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move",
+        "institution": "",
+        "target": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "VGC"
+      ],
+      "event_sources": [
+        "VGC"
+      ],
+      "claims": [
+        "Jill Braff says Obsidian's move to Bethesda is \"primarily a change in reporting structure\""
+      ],
+      "importance_score": 34,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 0,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Bethesda assures Obsidian it will retain its creative identity after move",
+      "summary": "Bethesda president Jill Braff emailed staff saying the studio’s reporting shift won’t alter Obsidian’s distinct creative principles as it joins the Bethesda umbrella.",
+      "published_at": "2026-09-25T15:21:48+06:00",
+      "selected_at": "2026-09-25T11:31:02.244102+00:00",
+      "status": "published",
+      "message_id": 466,
+      "published_versions": [
+        {
+          "published_at": "2026-09-25T11:31:02.244102+00:00",
+          "headline": "Bethesda assures Obsidian it will retain its creative identity after move",
+          "claims": [
+            "Jill Braff says Obsidian's move to Bethesda is \"primarily a change in reporting structure\""
+          ]
+        }
+      ]
+    },
+    "evt_20de138679d806": {
+      "event_id": "evt_20de138679d806",
+      "event_key": "court orders reddit moderator who widely pirated switch games to pay nintendo 4 5 million in damages milestone",
+      "event_subject": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages",
+      "event_type": "milestone",
+      "event_frame": {
+        "event_key": "court orders reddit moderator who widely pirated switch games to pay nintendo 4 5 million in damages milestone",
+        "subject": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages",
+        "event_type": "milestone",
+        "action": "milestone",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages",
+        "franchise": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages",
+        "institution": "",
+        "target": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "VGC"
+      ],
+      "event_sources": [
+        "VGC"
+      ],
+      "claims": [
+        "James 'Archbox' Williams copied and distributed \"hundreds, or thousands\" of Switch games"
+      ],
+      "importance_score": 34,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 0,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Nintendo Wins $4.5 Million Judgment Against Reddit Moderator for Switch Piracy",
+      "summary": "A US court ordered Reddit moderator James Williams, known as Archbox, to pay Nintendo $4.5 million after he ran extensive pirated Switch game operations.",
+      "published_at": "2026-09-25T16:02:21+06:00",
+      "selected_at": "2026-09-25T11:31:07.703190+00:00",
+      "status": "published",
+      "message_id": 467,
+      "published_versions": [
+        {
+          "published_at": "2026-09-25T11:31:07.703190+00:00",
+          "headline": "Nintendo Wins $4.5 Million Judgment Against Reddit Moderator for Switch Piracy",
+          "claims": [
+            "James 'Archbox' Williams copied and distributed \"hundreds, or thousands\" of Switch games"
+          ]
+        }
+      ]
+    },
+    "evt_f633a5377aa420": {
+      "event_id": "evt_f633a5377aa420",
+      "event_key": "former microsoft veteran slams asha sharma s xbox leadership approach other",
+      "event_subject": "Former Microsoft Veteran Slams Asha Sharma’s XBOX Leadership Approach",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "former microsoft veteran slams asha sharma s xbox leadership approach other",
+        "subject": "Former Microsoft Veteran Slams Asha Sharma’s XBOX Leadership Approach",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Former Microsoft Veteran Slams Asha Sharma’s XBOX Leadership Approach",
+        "franchise": "Former Microsoft Veteran Slams Asha Sharma’s XBOX Leadership Approach",
+        "institution": "",
+        "target": "Former Microsoft Veteran Slams Asha Sharma’s XBOX Leadership Approach",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [
+        "In a now-deleted post on social media, a former Microsoft veteran slammed XBOX CEO Asha Sharma's leadership style. The post Former Microsoft Veteran Slams Asha Sharma’s XBOX Leadership Approach appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 0,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Veteran Microsoft Exec Criticizes Xbox CEO Asha Sharma’s Leadership Tactics",
+      "summary": "Former World’s Edge director Shannon Loftis publicly denounced Asha Sharma’s handling of recent Xbox layoffs, calling the proclaimed “clarity” approach contradictory and insensitive.",
+      "published_at": "2026-09-25T15:34:37+06:00",
+      "selected_at": "2026-09-25T11:31:12.969577+00:00",
+      "status": "published",
+      "message_id": 468,
+      "published_versions": [
+        {
+          "published_at": "2026-09-25T11:31:12.969577+00:00",
+          "headline": "Veteran Microsoft Exec Criticizes Xbox CEO Asha Sharma’s Leadership Tactics",
+          "claims": [
+            "In a now-deleted post on social media, a former Microsoft veteran slammed XBOX CEO Asha Sharma's leadership style. The post Former Microsoft Veteran Slams Asha Sharma’s XBOX Leadership Approach appeared first on Insider Gaming ."
+          ]
+        }
+      ]
+    },
+    "evt_a6d3ce88479a97": {
+      "event_id": "evt_a6d3ce88479a97",
+      "event_key": "gears of war e day review embargo date times other",
+      "event_subject": "Gears of War: E-Day Review Embargo Date & Times",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gears of war e day review embargo date times other",
+        "subject": "Gears of War: E-Day Review Embargo Date & Times",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Gears of War: E-Day Review Embargo Date & Times",
+        "franchise": "Gears of War: E-Day Review Embargo Date & Times",
+        "institution": "",
+        "target": "Gears of War: E-Day Review Embargo Date & Times",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [
+        "All the details on when the Gears of War: E-Day review embargo lifts and when you can start reading initial impressions of the game. The post Gears of War: E-Day Review Embargo Date & Times appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 0,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Xbox’s Gears of War: E-Day Review Embargo Set for October 1",
+      "summary": "The review embargo for Gears of War: E-Day lifts on October 1, 2026, just before its early‑access launch on October 2.",
+      "published_at": "2026-09-25T15:44:51+06:00",
+      "selected_at": "2026-09-25T11:31:18.136084+00:00",
+      "status": "published",
+      "message_id": 469,
+      "published_versions": [
+        {
+          "published_at": "2026-09-25T11:31:18.136084+00:00",
+          "headline": "Xbox’s Gears of War: E-Day Review Embargo Set for October 1",
+          "claims": [
+            "All the details on when the Gears of War: E-Day review embargo lifts and when you can start reading initial impressions of the game. The post Gears of War: E-Day Review Embargo Date & Times appeared first on Insider Gaming ."
+          ]
+        }
+      ]
+    },
+    "evt_0d0f69dd1e3d57": {
+      "event_id": "evt_0d0f69dd1e3d57",
+      "event_key": "how to play the division 2 survivors test beta access explained other",
+      "event_subject": "How to Play The Division 2: Survivors Test—Beta Access, Explained",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "how to play the division 2 survivors test beta access explained other",
+        "subject": "How to Play The Division 2: Survivors Test—Beta Access, Explained",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "How to Play The Division 2: Survivors Test—Beta Access, Explained",
+        "franchise": "How to Play The Division 2: Survivors Test—Beta Access, Explained",
+        "institution": "",
+        "target": "How to Play The Division 2: Survivors Test—Beta Access, Explained",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [
+        "Eager to explore The Division 2: Survivors test to see what this new extraction mode is all about? Here's how to get access to that test. The post How to Play The Division 2: Survivors Test—Beta Access, Explained appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 0,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Ubisoft Opens Beta for The Division 2: Survivors Extraction Mode",
+      "summary": "Ubisoft invites PC players to test the winter‑themed, PvPvE extraction mode in The Division 2: Survivors, a free standalone build requiring feedback.",
+      "published_at": "2026-09-25T14:43:23+06:00",
+      "selected_at": "2026-09-25T11:31:25.187720+00:00",
+      "status": "published",
+      "message_id": 470,
+      "published_versions": [
+        {
+          "published_at": "2026-09-25T11:31:25.187720+00:00",
+          "headline": "Ubisoft Opens Beta for The Division 2: Survivors Extraction Mode",
+          "claims": [
+            "Eager to explore The Division 2: Survivors test to see what this new extraction mode is all about? Here's how to get access to that test. The post How to Play The Division 2: Survivors Test—Beta Access, Explained appeared first on Insider Gaming ."
+          ]
+        }
+      ]
+    },
+    "evt_783ec3cc4f3818": {
+      "event_id": "evt_783ec3cc4f3818",
+      "event_key": "hytale creator offering big cash prize for defeating chapter 1 gobliterator boss other",
+      "event_subject": "Hytale Creator Offering Big Cash Prize For Defeating Chapter 1 Gobliterator Boss",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "hytale creator offering big cash prize for defeating chapter 1 gobliterator boss other",
+        "subject": "Hytale Creator Offering Big Cash Prize For Defeating Chapter 1 Gobliterator Boss",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Hytale Creator Offering Big Cash Prize For Defeating Chapter 1 Gobliterator Boss",
+        "franchise": "Hytale Creator Offering Big Cash Prize For Defeating Chapter 1 Gobliterator Boss",
+        "institution": "",
+        "target": "Hytale Creator Offering Big Cash Prize For Defeating Chapter 1 Gobliterator Boss",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [
+        "If you love Hytale, you can get rewarded for your efforts with a sensational cash prize for pulling off an impressive boss feat. The post Hytale Creator Offering Big Cash Prize For Defeating Chapter 1 Gobliterator Boss appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 0,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Hytale Director Offers $15,000 Prize for Solo Hard‑Mode Gobliterator Kill",
+      "summary": "Creator Simon Collins‑Laflamme will award $15,000 to the first streamer who defeats the new Gobliterator boss in hard mode under strict solo, no‑armor conditions when Chapter 1 launches.",
+      "published_at": "2026-09-25T16:17:58+06:00",
+      "selected_at": "2026-09-25T11:31:30.475892+00:00",
+      "status": "published",
+      "message_id": 471,
+      "published_versions": [
+        {
+          "published_at": "2026-09-25T11:31:30.475892+00:00",
+          "headline": "Hytale Director Offers $15,000 Prize for Solo Hard‑Mode Gobliterator Kill",
+          "claims": [
+            "If you love Hytale, you can get rewarded for your efforts with a sensational cash prize for pulling off an impressive boss feat. The post Hytale Creator Offering Big Cash Prize For Defeating Chapter 1 Gobliterator Boss appeared first on Insider Gaming ."
+          ]
+        }
+      ]
+    },
+    "evt_c1cf623a377218": {
+      "event_id": "evt_c1cf623a377218",
+      "event_key": "prince of persia the lost crown is free to play in its entirety on switch for the next week other",
+      "event_subject": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "prince of persia the lost crown is free to play in its entirety on switch for the next week other",
+        "subject": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week",
+        "franchise": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week",
+        "institution": "",
+        "target": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "VGC"
+      ],
+      "event_sources": [
+        "VGC"
+      ],
+      "claims": [
+        "Nintendo's latest Game Trial gives you access to the full game until Wednesday"
+      ],
+      "importance_score": 34,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 0,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Prince of Persia: The Lost Crown Free on Nintendo Switch for One Week",
+      "summary": "Ubisoft’s 2.5D action platformer Prince of Persia: The Lost Crown is available to download and play fully via Nintendo Switch Online until September 30.",
+      "published_at": "2026-09-25T14:29:53+06:00",
+      "selected_at": "2026-09-25T11:31:36.006716+00:00",
+      "status": "published",
+      "message_id": 472,
+      "published_versions": [
+        {
+          "published_at": "2026-09-25T11:31:36.006716+00:00",
+          "headline": "Prince of Persia: The Lost Crown Free on Nintendo Switch for One Week",
+          "claims": [
+            "Nintendo's latest Game Trial gives you access to the full game until Wednesday"
+          ]
+        }
+      ]
+    },
+    "evt_e1c7d52f186b73": {
+      "event_id": "evt_e1c7d52f186b73",
+      "event_key": "the division 2 goes free as registration opens for survivors test expansion",
+      "event_subject": "The Division 2 Goes Free As Registration Opens For Survivors Test",
+      "event_type": "expansion",
+      "event_frame": {
+        "event_key": "the division 2 goes free as registration opens for survivors test expansion",
+        "subject": "The Division 2 Goes Free As Registration Opens For Survivors Test",
+        "event_type": "expansion",
+        "action": "expansion",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "The Division 2 Goes Free As Registration Opens For Survivors Test",
+        "franchise": "The Division 2 Goes Free As Registration Opens For Survivors Test",
+        "institution": "",
+        "target": "The Division 2 Goes Free As Registration Opens For Survivors Test",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [
+        "Ubisoft has made The Division 2 free-to-play for the next few days as a test announcement surfaces for the upcoming Survivors expansion. The post The Division 2 Goes Free As Registration Opens For Survivors Test appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 0,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Ubisoft Offers Free‑Play Weekend for The Division 2 Ahead of Survivors Test",
+      "summary": "Ubisoft is giving players free access to The Division 2 from September 24‑28, while opening registration for the upcoming Survivors extraction mode test.",
+      "published_at": "2026-09-25T14:53:58+06:00",
+      "selected_at": "2026-09-25T11:31:41.078519+00:00",
+      "status": "published",
+      "message_id": 473,
+      "published_versions": [
+        {
+          "published_at": "2026-09-25T11:31:41.078519+00:00",
+          "headline": "Ubisoft Offers Free‑Play Weekend for The Division 2 Ahead of Survivors Test",
+          "claims": [
+            "Ubisoft has made The Division 2 free-to-play for the next few days as a test announcement surfaces for the upcoming Survivors expansion. The post The Division 2 Goes Free As Registration Opens For Survivors Test appeared first on Insider Gaming ."
+          ]
+        }
+      ]
+    },
+    "evt_352398e7eeebd9": {
+      "event_id": "evt_352398e7eeebd9",
+      "event_key": "when is the next pok mon tcg pocket expansion deluxe pack mega release date launch times release",
+      "event_subject": "When is the Next Pokémon TCG Pocket Expansion? Deluxe Pack Mega Release Date & Launch Times",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "when is the next pok mon tcg pocket expansion deluxe pack mega release date launch times release",
+        "subject": "When is the Next Pokémon TCG Pocket Expansion? Deluxe Pack Mega Release Date & Launch Times",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "When is the Next Pokémon TCG Pocket Expansion? Deluxe Pack Mega Release Date & Launch Times",
+        "franchise": "When is the Next Pokémon TCG Pocket Expansion? Deluxe Pack Mega Release Date & Launch Times",
+        "institution": "",
+        "target": "When is the Next Pokémon TCG Pocket Expansion? Deluxe Pack Mega Release Date & Launch Times",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [
+        "All the release date details for the Pokémon TCG Pocket Deluxe Pack Mega expansion, bringing the B Series to a close. The post When is the Next Pokémon TCG Pocket Expansion? Deluxe Pack Mega Release Date & Launch Times appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 0,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Deluxe Pack Mega Expansion Launches September 30, Closing Pokémon TCG Pocket’s B Series",
+      "summary": "The new Deluxe Pack Mega set for Pokémon TCG Pocket drops on September 30 at 1 AM UTC, ending the B Series before the upcoming C Series begins.",
+      "published_at": "2026-09-25T16:31:49+06:00",
+      "selected_at": "2026-09-25T11:31:46.060127+00:00",
+      "status": "published",
+      "message_id": 474,
+      "published_versions": [
+        {
+          "published_at": "2026-09-25T11:31:46.060127+00:00",
+          "headline": "Deluxe Pack Mega Expansion Launches September 30, Closing Pokémon TCG Pocket’s B Series",
+          "claims": [
+            "All the release date details for the Pokémon TCG Pocket Deluxe Pack Mega expansion, bringing the B Series to a close. The post When is the Next Pokémon TCG Pocket Expansion? Deluxe Pack Mega Release Date & Launch Times appeared first on Insider Gaming ."
+          ]
+        }
+      ]
+    },
+    "evt_4b738a4f2ebddd": {
+      "event_id": "evt_4b738a4f2ebddd",
+      "event_key": "that s where doomsday is born avengers director discusses endgame encore s new ending that rewrites steve rogers story other",
+      "event_subject": "'That's Where Doomsday is Born': Avengers Director Discusses Endgame Encore's New Ending That Rewrites Steve Rogers' Story",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "that s where doomsday is born avengers director discusses endgame encore s new ending that rewrites steve rogers story other",
+        "subject": "'That's Where Doomsday is Born': Avengers Director Discusses Endgame Encore's New Ending That Rewrites Steve Rogers' Story",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "'That's Where Doomsday is Born': Avengers Director Discusses Endgame Encore's New Ending That Rewrites Steve Rogers' Story",
+        "franchise": "'That's Where Doomsday is Born': Avengers Director Discusses Endgame Encore's New Ending That Rewrites Steve Rogers' Story",
+        "institution": "",
+        "target": "'That's Where Doomsday is Born': Avengers Director Discusses Endgame Encore's New Ending That Rewrites Steve Rogers' Story",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "IGN"
+      ],
+      "event_sources": [
+        "IGN"
+      ],
+      "claims": [
+        "Avengers: Endgame director Anthony Russo has discussed the movie's newly-extended final scene, and how it leads directly into Avengers: Doomsday."
+      ],
+      "importance_score": 30,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 0,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Avengers Director Reveals Endgame Encore Twist That Sets Up Doomsday",
+      "summary": "Anthony Russo explains how the new ending of Avengers: Endgame Encore, featuring Loki’s surprise visit, directly seeds the upcoming Avengers: Doomsday storyline.",
+      "published_at": "2026-09-25T15:49:40+06:00",
+      "selected_at": "2026-09-25T11:31:51.144929+00:00",
+      "status": "published",
+      "message_id": 475,
+      "published_versions": [
+        {
+          "published_at": "2026-09-25T11:31:51.144929+00:00",
+          "headline": "Avengers Director Reveals Endgame Encore Twist That Sets Up Doomsday",
+          "claims": [
+            "Avengers: Endgame director Anthony Russo has discussed the movie's newly-extended final scene, and how it leads directly into Avengers: Doomsday."
+          ]
+        }
+      ]
+    },
+    "evt_1ee3bb6a44a6c6": {
+      "event_id": "evt_1ee3bb6a44a6c6",
+      "event_key": "20 years later the most inventive sci fi superhero series of the century is officially free on streaming other",
+      "event_subject": "20 Years Later, the Most Inventive Sci-Fi Superhero Series of the Century is Officially Free on Streaming",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "20 years later the most inventive sci fi superhero series of the century is officially free on streaming other",
+        "subject": "20 Years Later, the Most Inventive Sci-Fi Superhero Series of the Century is Officially Free on Streaming",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "20 Years Later, the Most Inventive Sci-Fi Superhero Series of the Century is Officially Free on Streaming",
+        "franchise": "20 Years Later, the Most Inventive Sci-Fi Superhero Series of the Century is Officially Free on Streaming",
+        "institution": "",
+        "target": "20 Years Later, the Most Inventive Sci-Fi Superhero Series of the Century is Officially Free on Streaming",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Polygon"
+      ],
+      "event_sources": [
+        "Polygon"
+      ],
+      "claims": [
+        "There's been no better time to revisit one of the best superhero shows ever made."
+      ],
+      "importance_score": 30,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 0,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Heroes Becomes Free to Stream, Reviving Groundbreaking Sci‑Fi Superhero Series",
+      "summary": "The cult classic Heroes is now free on Pluto TV and Tubi, offering new viewers a chance to experience its human‑focused superpower drama.",
+      "published_at": "2026-09-25T15:30:14+06:00",
+      "selected_at": "2026-09-25T11:31:56.355046+00:00",
+      "status": "published",
+      "message_id": 476,
+      "published_versions": [
+        {
+          "published_at": "2026-09-25T11:31:56.355046+00:00",
+          "headline": "Heroes Becomes Free to Stream, Reviving Groundbreaking Sci‑Fi Superhero Series",
+          "claims": [
+            "There's been no better time to revisit one of the best superhero shows ever made."
+          ]
+        }
+      ]
+    },
+    "evt_c51bba031cfb1b": {
+      "event_id": "evt_c51bba031cfb1b",
+      "event_key": "as marathon s player slump continues bungie other",
+      "event_subject": "As Marathon's player slump continues, Bungie",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "as marathon s player slump continues bungie other",
+        "subject": "As Marathon's player slump continues, Bungie",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "As Marathon's player slump continues, Bungie",
+        "franchise": "As Marathon's player slump continues, Bungie",
+        "institution": "",
+        "target": "As Marathon's player slump continues, Bungie",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Eurogamer"
+      ],
+      "event_sources": [
+        "Eurogamer"
+      ],
+      "claims": [
+        "Bungie has announced drastic changes coming to its struggling shooter Marathon, including a shift away from its extraction roots in the coming months. The new mission statement? Making more \"approachable\" experiences with \"different levels of intensity and commitment.\" Read more"
+      ],
+      "importance_score": 30,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 0,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Bungie vows to revive Marathon with new PvE, PvP and lower‑intensity modes",
+      "summary": "Bungie announced a series of updates for Marathon aiming to broaden appeal by adding approachable PvE, PvP and hybrid experiences while preserving its extraction roots.",
+      "published_at": "2026-09-25T16:32:41+06:00",
+      "selected_at": "2026-09-25T11:32:01.496925+00:00",
+      "status": "published",
+      "message_id": 477,
+      "published_versions": [
+        {
+          "published_at": "2026-09-25T11:32:01.496925+00:00",
+          "headline": "Bungie vows to revive Marathon with new PvE, PvP and lower‑intensity modes",
+          "claims": [
+            "Bungie has announced drastic changes coming to its struggling shooter Marathon, including a shift away from its extraction roots in the coming months. The new mission statement? Making more \"approachable\" experiences with \"different levels of intensity and commitment.\" Read more"
+          ]
+        }
+      ]
+    },
+    "evt_84b0ec3d2da133": {
+      "event_id": "evt_84b0ec3d2da133",
+      "event_key": "ebon moss bachrach in final talks for heat 2 role other",
+      "event_subject": "Ebon Moss-Bachrach in Final Talks for Heat 2 Role",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ebon moss bachrach in final talks for heat 2 role other",
+        "subject": "Ebon Moss-Bachrach in Final Talks for Heat 2 Role",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Ebon Moss-Bachrach in Final Talks for Heat 2 Role",
+        "franchise": "Ebon Moss-Bachrach in Final Talks for Heat 2 Role",
+        "institution": "",
+        "target": "Ebon Moss-Bachrach in Final Talks for Heat 2 Role",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "IGN"
+      ],
+      "event_sources": [
+        "IGN"
+      ],
+      "claims": [
+        "Michael Mann’s Heat 2 is set to start shooting in November, with The Bear's Ebon Moss-Bachrach in final talks to play Kelso, previously portrayed by Tom Noonan."
+      ],
+      "importance_score": 30,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 0,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Ebon Moss‑Bachrach Nears Deal to Play Kelso in Michael Mann’s Heat 2",
+      "summary": "Ebon Moss‑Bachrach is in final talks to portray the mysterious DARPA hacker Kelso in the upcoming film Heat 2, joining a star‑studded cast.",
+      "published_at": "2026-09-25T14:27:23+06:00",
+      "selected_at": "2026-09-25T11:32:06.356970+00:00",
+      "status": "published",
+      "message_id": 478,
+      "published_versions": [
+        {
+          "published_at": "2026-09-25T11:32:06.356970+00:00",
+          "headline": "Ebon Moss‑Bachrach Nears Deal to Play Kelso in Michael Mann’s Heat 2",
+          "claims": [
+            "Michael Mann’s Heat 2 is set to start shooting in November, with The Bear's Ebon Moss-Bachrach in final talks to play Kelso, previously portrayed by Tom Noonan."
+          ]
+        }
+      ]
+    },
+    "evt_1746bb9e6e1cce": {
+      "event_id": "evt_1746bb9e6e1cce",
+      "event_key": "enjoy 1986 s castlevania for free on your phone for 40th anniversary other",
+      "event_subject": "Enjoy 1986's Castlevania for Free on Your Phone for 40th Anniversary",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "enjoy 1986 s castlevania for free on your phone for 40th anniversary other",
+        "subject": "Enjoy 1986's Castlevania for Free on Your Phone for 40th Anniversary",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Enjoy 1986's Castlevania for Free on Your Phone for 40th Anniversary",
+        "franchise": "Enjoy 1986's Castlevania for Free on Your Phone for 40th Anniversary",
+        "institution": "",
+        "target": "Enjoy 1986's Castlevania for Free on Your Phone for 40th Anniversary",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Push Square"
+      ],
+      "event_sources": [
+        "Push Square"
+      ],
+      "claims": [
+        "Up to 80% off on PS Store compilations. Okay, Push Square isn’t a mobile gaming website, but I think it’d be remiss of me to not point you in the direction of a free game. Castlevania , the 1986 classic from Konami, is currently free to download in its entirety on iOS and Android until 24th October. Read the full article on pushsquare.com"
+      ],
+      "importance_score": 30,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 0,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Konami Gives 1986 Castlevania Free on Mobile for 40th Anniversary",
+      "summary": "The original 1986 Castlevania is now downloadable for free on iOS and Android, with no ads or in‑app purchases, until 24 October.",
+      "published_at": "2026-09-25T17:00:00+06:00",
+      "selected_at": "2026-09-25T11:32:12.064243+00:00",
+      "status": "published",
+      "message_id": 479,
+      "published_versions": [
+        {
+          "published_at": "2026-09-25T11:32:12.064243+00:00",
+          "headline": "Konami Gives 1986 Castlevania Free on Mobile for 40th Anniversary",
+          "claims": [
+            "Up to 80% off on PS Store compilations. Okay, Push Square isn’t a mobile gaming website, but I think it’d be remiss of me to not point you in the direction of a free game. Castlevania , the 1986 classic from Konami, is currently free to download in its entirety on iOS and Android until 24th October. Read the full article on pushsquare.com"
+          ]
+        }
+      ]
+    },
+    "evt_660240205a32ee": {
+      "event_id": "evt_660240205a32ee",
+      "event_key": "fire emblem three houses fans must play dietrich in fortune s weave other",
+      "event_subject": "Fire Emblem: Three Houses Fans Must Play Dietrich in Fortune's Weave",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fire emblem three houses fans must play dietrich in fortune s weave other",
+        "subject": "Fire Emblem: Three Houses Fans Must Play Dietrich in Fortune's Weave",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Fire Emblem: Three Houses Fans Must Play Dietrich in Fortune's Weave",
+        "franchise": "Fire Emblem: Three Houses Fans Must Play Dietrich in Fortune's Weave",
+        "institution": "",
+        "target": "Fire Emblem: Three Houses Fans Must Play Dietrich in Fortune's Weave",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "sources": [
+        "Polygon"
+      ],
+      "event_sources": [
+        "Polygon"
+      ],
+      "claims": [
+        "Dietrich's route in Fire Emblem Fortune's Weave contains some of the game's best storytelling and essential Three Houses connections"
+      ],
+      "importance_score": 30,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 0,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Fire Emblem: Fortune’s Weave’s Dietrich Route Offers Deep Three Houses Lore",
+      "summary": "Fans of Fire Emblem: Fortune’s Weave should dive into Dietrich’s path for its rich connections to Three Houses, fresh mythology, and inclusive storytelling.",
+      "published_at": "2026-09-25T16:00:16+06:00",
+      "selected_at": "2026-09-25T11:32:16.988563+00:00",
+      "status": "published",
+      "message_id": 480,
+      "published_versions": [
+        {
+          "published_at": "2026-09-25T11:32:16.988563+00:00",
+          "headline": "Fire Emblem: Fortune’s Weave’s Dietrich Route Offers Deep Three Houses Lore",
+          "claims": [
+            "Dietrich's route in Fire Emblem Fortune's Weave contains some of the game's best storytelling and essential Three Houses connections"
           ]
         }
       ]
@@ -112797,6 +114172,1687 @@
         "total": 30
       },
       "last_seen": "2026-09-25T11:52:02.225269+06:00"
+    },
+    "evt_c68b0c5d7df318": {
+      "event_id": "evt_c68b0c5d7df318",
+      "event_key": "this shows the power that comes from employees joining forces king signs collective bargaining agreement with union workers other",
+      "event_subject": "'This shows the power that comes from employees joining forces:' King signs collective bargaining agreement with union workers",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "this shows the power that comes from employees joining forces king signs collective bargaining agreement with union workers other",
+        "subject": "'This shows the power that comes from employees joining forces:' King signs collective bargaining agreement with union workers",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "'This shows the power that comes from employees joining forces:' King signs collective bargaining agreement with union workers",
+        "franchise": "'This shows the power that comes from employees joining forces:' King signs collective bargaining agreement with union workers",
+        "institution": "",
+        "target": "'This shows the power that comes from employees joining forces:' King signs collective bargaining agreement with union workers",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Game Developer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "'This is an important step for King, the gaming industry and for the Swedish model.'"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-09-25T17:15:54.162931+06:00"
+    },
+    "evt_40526798c45616": {
+      "event_id": "evt_40526798c45616",
+      "event_key": "all the witcher 3 wild hunt remastered changes in 2026 update update",
+      "event_subject": "All The Witcher 3: Wild Hunt Remastered Changes in 2026 Update",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "all the witcher 3 wild hunt remastered changes in 2026 update update",
+        "subject": "All The Witcher 3: Wild Hunt Remastered Changes in 2026 Update",
+        "event_type": "update",
+        "action": "update",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "All The Witcher 3: Wild Hunt Remastered Changes in 2026 Update",
+        "franchise": "All The Witcher 3: Wild Hunt Remastered Changes in 2026 Update",
+        "institution": "",
+        "target": "All The Witcher 3: Wild Hunt Remastered Changes in 2026 Update",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The next-gen update adds many new features to The Witcher 3, and we're running through everything new in the Remastered update. The post All The Witcher 3: Wild Hunt Remastered Changes in 2026 Update appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-09-25T17:15:54.162951+06:00"
+    },
+    "evt_28e419050edb00": {
+      "event_id": "evt_28e419050edb00",
+      "event_key": "bethesda president tells obsidian staff that the studio will keep its creative identity after its move other",
+      "event_subject": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "bethesda president tells obsidian staff that the studio will keep its creative identity after its move other",
+        "subject": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move",
+        "franchise": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move",
+        "institution": "",
+        "target": "Bethesda president tells Obsidian staff that the studio will keep its ‘creative identity’ after its move",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Jill Braff says Obsidian's move to Bethesda is \"primarily a change in reporting structure\""
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-09-25T17:15:54.162957+06:00"
+    },
+    "evt_20de138679d806": {
+      "event_id": "evt_20de138679d806",
+      "event_key": "court orders reddit moderator who widely pirated switch games to pay nintendo 4 5 million in damages milestone",
+      "event_subject": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages",
+      "event_type": "milestone",
+      "event_frame": {
+        "event_key": "court orders reddit moderator who widely pirated switch games to pay nintendo 4 5 million in damages milestone",
+        "subject": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages",
+        "event_type": "milestone",
+        "action": "milestone",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages",
+        "franchise": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages",
+        "institution": "",
+        "target": "Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "James 'Archbox' Williams copied and distributed \"hundreds, or thousands\" of Switch games"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-09-25T17:15:54.162962+06:00"
+    },
+    "evt_f633a5377aa420": {
+      "event_id": "evt_f633a5377aa420",
+      "event_key": "former microsoft veteran slams asha sharma s xbox leadership approach other",
+      "event_subject": "Former Microsoft Veteran Slams Asha Sharma’s XBOX Leadership Approach",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "former microsoft veteran slams asha sharma s xbox leadership approach other",
+        "subject": "Former Microsoft Veteran Slams Asha Sharma’s XBOX Leadership Approach",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Former Microsoft Veteran Slams Asha Sharma’s XBOX Leadership Approach",
+        "franchise": "Former Microsoft Veteran Slams Asha Sharma’s XBOX Leadership Approach",
+        "institution": "",
+        "target": "Former Microsoft Veteran Slams Asha Sharma’s XBOX Leadership Approach",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "In a now-deleted post on social media, a former Microsoft veteran slammed XBOX CEO Asha Sharma's leadership style. The post Former Microsoft Veteran Slams Asha Sharma’s XBOX Leadership Approach appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-09-25T17:15:54.162966+06:00"
+    },
+    "evt_cf6fef8feff251": {
+      "event_id": "evt_cf6fef8feff251",
+      "event_key": "gta 6 breaking records for xbox pre orders other",
+      "event_subject": "GTA 6 ‘Breaking Records’ For XBOX Pre-Orders",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta 6 breaking records for xbox pre orders other",
+        "subject": "GTA 6 ‘Breaking Records’ For XBOX Pre-Orders",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "GTA 6 ‘Breaking Records’ For XBOX Pre-Orders",
+        "franchise": "GTA 6 ‘Breaking Records’ For XBOX Pre-Orders",
+        "institution": "",
+        "target": "GTA 6 ‘Breaking Records’ For XBOX Pre-Orders",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Amid reports of PlayStation pre-orders for GTA 6 heavily outskewing XBOX, it's been revealed the title is breaking records for Microsoft. The post GTA 6 ‘Breaking Records’ For XBOX Pre-Orders appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-09-25T17:15:54.162969+06:00"
+    },
+    "evt_a6d3ce88479a97": {
+      "event_id": "evt_a6d3ce88479a97",
+      "event_key": "gears of war e day review embargo date times other",
+      "event_subject": "Gears of War: E-Day Review Embargo Date & Times",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gears of war e day review embargo date times other",
+        "subject": "Gears of War: E-Day Review Embargo Date & Times",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Gears of War: E-Day Review Embargo Date & Times",
+        "franchise": "Gears of War: E-Day Review Embargo Date & Times",
+        "institution": "",
+        "target": "Gears of War: E-Day Review Embargo Date & Times",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "All the details on when the Gears of War: E-Day review embargo lifts and when you can start reading initial impressions of the game. The post Gears of War: E-Day Review Embargo Date & Times appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-09-25T17:15:54.162971+06:00"
+    },
+    "evt_0d0f69dd1e3d57": {
+      "event_id": "evt_0d0f69dd1e3d57",
+      "event_key": "how to play the division 2 survivors test beta access explained other",
+      "event_subject": "How to Play The Division 2: Survivors Test—Beta Access, Explained",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "how to play the division 2 survivors test beta access explained other",
+        "subject": "How to Play The Division 2: Survivors Test—Beta Access, Explained",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "How to Play The Division 2: Survivors Test—Beta Access, Explained",
+        "franchise": "How to Play The Division 2: Survivors Test—Beta Access, Explained",
+        "institution": "",
+        "target": "How to Play The Division 2: Survivors Test—Beta Access, Explained",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Eager to explore The Division 2: Survivors test to see what this new extraction mode is all about? Here's how to get access to that test. The post How to Play The Division 2: Survivors Test—Beta Access, Explained appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-09-25T17:15:54.162974+06:00"
+    },
+    "evt_783ec3cc4f3818": {
+      "event_id": "evt_783ec3cc4f3818",
+      "event_key": "hytale creator offering big cash prize for defeating chapter 1 gobliterator boss other",
+      "event_subject": "Hytale Creator Offering Big Cash Prize For Defeating Chapter 1 Gobliterator Boss",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "hytale creator offering big cash prize for defeating chapter 1 gobliterator boss other",
+        "subject": "Hytale Creator Offering Big Cash Prize For Defeating Chapter 1 Gobliterator Boss",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Hytale Creator Offering Big Cash Prize For Defeating Chapter 1 Gobliterator Boss",
+        "franchise": "Hytale Creator Offering Big Cash Prize For Defeating Chapter 1 Gobliterator Boss",
+        "institution": "",
+        "target": "Hytale Creator Offering Big Cash Prize For Defeating Chapter 1 Gobliterator Boss",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "If you love Hytale, you can get rewarded for your efforts with a sensational cash prize for pulling off an impressive boss feat. The post Hytale Creator Offering Big Cash Prize For Defeating Chapter 1 Gobliterator Boss appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-09-25T17:15:54.162976+06:00"
+    },
+    "evt_c1cf623a377218": {
+      "event_id": "evt_c1cf623a377218",
+      "event_key": "prince of persia the lost crown is free to play in its entirety on switch for the next week other",
+      "event_subject": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "prince of persia the lost crown is free to play in its entirety on switch for the next week other",
+        "subject": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week",
+        "franchise": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week",
+        "institution": "",
+        "target": "Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Nintendo's latest Game Trial gives you access to the full game until Wednesday"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-09-25T17:15:54.162979+06:00"
+    },
+    "evt_e1c7d52f186b73": {
+      "event_id": "evt_e1c7d52f186b73",
+      "event_key": "the division 2 goes free as registration opens for survivors test expansion",
+      "event_subject": "The Division 2 Goes Free As Registration Opens For Survivors Test",
+      "event_type": "expansion",
+      "event_frame": {
+        "event_key": "the division 2 goes free as registration opens for survivors test expansion",
+        "subject": "The Division 2 Goes Free As Registration Opens For Survivors Test",
+        "event_type": "expansion",
+        "action": "expansion",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "The Division 2 Goes Free As Registration Opens For Survivors Test",
+        "franchise": "The Division 2 Goes Free As Registration Opens For Survivors Test",
+        "institution": "",
+        "target": "The Division 2 Goes Free As Registration Opens For Survivors Test",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Ubisoft has made The Division 2 free-to-play for the next few days as a test announcement surfaces for the upcoming Survivors expansion. The post The Division 2 Goes Free As Registration Opens For Survivors Test appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-09-25T17:15:54.162982+06:00"
+    },
+    "evt_352398e7eeebd9": {
+      "event_id": "evt_352398e7eeebd9",
+      "event_key": "when is the next pok mon tcg pocket expansion deluxe pack mega release date launch times release",
+      "event_subject": "When is the Next Pokémon TCG Pocket Expansion? Deluxe Pack Mega Release Date & Launch Times",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "when is the next pok mon tcg pocket expansion deluxe pack mega release date launch times release",
+        "subject": "When is the Next Pokémon TCG Pocket Expansion? Deluxe Pack Mega Release Date & Launch Times",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "When is the Next Pokémon TCG Pocket Expansion? Deluxe Pack Mega Release Date & Launch Times",
+        "franchise": "When is the Next Pokémon TCG Pocket Expansion? Deluxe Pack Mega Release Date & Launch Times",
+        "institution": "",
+        "target": "When is the Next Pokémon TCG Pocket Expansion? Deluxe Pack Mega Release Date & Launch Times",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "All the release date details for the Pokémon TCG Pocket Deluxe Pack Mega expansion, bringing the B Series to a close. The post When is the Next Pokémon TCG Pocket Expansion? Deluxe Pack Mega Release Date & Launch Times appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-09-25T17:15:54.162984+06:00"
+    },
+    "evt_4b738a4f2ebddd": {
+      "event_id": "evt_4b738a4f2ebddd",
+      "event_key": "that s where doomsday is born avengers director discusses endgame encore s new ending that rewrites steve rogers story other",
+      "event_subject": "'That's Where Doomsday is Born': Avengers Director Discusses Endgame Encore's New Ending That Rewrites Steve Rogers' Story",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "that s where doomsday is born avengers director discusses endgame encore s new ending that rewrites steve rogers story other",
+        "subject": "'That's Where Doomsday is Born': Avengers Director Discusses Endgame Encore's New Ending That Rewrites Steve Rogers' Story",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "'That's Where Doomsday is Born': Avengers Director Discusses Endgame Encore's New Ending That Rewrites Steve Rogers' Story",
+        "franchise": "'That's Where Doomsday is Born': Avengers Director Discusses Endgame Encore's New Ending That Rewrites Steve Rogers' Story",
+        "institution": "",
+        "target": "'That's Where Doomsday is Born': Avengers Director Discusses Endgame Encore's New Ending That Rewrites Steve Rogers' Story",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Avengers: Endgame director Anthony Russo has discussed the movie's newly-extended final scene, and how it leads directly into Avengers: Doomsday."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.162987+06:00"
+    },
+    "evt_3f0cab7ed6bb25": {
+      "event_id": "evt_3f0cab7ed6bb25",
+      "event_key": "10 xbox games are out today plus a pair of bangers across various tiers of game pass september 25 other",
+      "event_subject": "10+ Xbox Games Are Out Today, Plus A Pair Of Bangers Across Various Tiers Of Game Pass (September 25)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "10 xbox games are out today plus a pair of bangers across various tiers of game pass september 25 other",
+        "subject": "10+ Xbox Games Are Out Today, Plus A Pair Of Bangers Across Various Tiers Of Game Pass (September 25)",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "10+ Xbox Games Are Out Today, Plus A Pair Of Bangers Across Various Tiers Of Game Pass (September 25)",
+        "franchise": "10+ Xbox Games Are Out Today, Plus A Pair Of Bangers Across Various Tiers Of Game Pass (September 25)",
+        "institution": "",
+        "target": "10+ Xbox Games Are Out Today, Plus A Pair Of Bangers Across Various Tiers Of Game Pass (September 25)",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Plenty of top bin potential. Happy Friday everyone! To celebrate we're back with you daily fix of all the new games coming to Xbox. For starters, Xbox Game Pass members have much to be excited about. The Essential tier is getting a new game today in Rematch , whilst Premium subscribers are being treated to another solid FPS, Call of Duty: Black Ops 6 . On top of all of that, if you're subbed to Ul"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.162990+06:00"
+    },
+    "evt_1ee3bb6a44a6c6": {
+      "event_id": "evt_1ee3bb6a44a6c6",
+      "event_key": "20 years later the most inventive sci fi superhero series of the century is officially free on streaming other",
+      "event_subject": "20 Years Later, the Most Inventive Sci-Fi Superhero Series of the Century is Officially Free on Streaming",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "20 years later the most inventive sci fi superhero series of the century is officially free on streaming other",
+        "subject": "20 Years Later, the Most Inventive Sci-Fi Superhero Series of the Century is Officially Free on Streaming",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "20 Years Later, the Most Inventive Sci-Fi Superhero Series of the Century is Officially Free on Streaming",
+        "franchise": "20 Years Later, the Most Inventive Sci-Fi Superhero Series of the Century is Officially Free on Streaming",
+        "institution": "",
+        "target": "20 Years Later, the Most Inventive Sci-Fi Superhero Series of the Century is Officially Free on Streaming",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "There's been no better time to revisit one of the best superhero shows ever made."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.162992+06:00"
+    },
+    "evt_c51bba031cfb1b": {
+      "event_id": "evt_c51bba031cfb1b",
+      "event_key": "as marathon s player slump continues bungie other",
+      "event_subject": "As Marathon's player slump continues, Bungie",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "as marathon s player slump continues bungie other",
+        "subject": "As Marathon's player slump continues, Bungie",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "As Marathon's player slump continues, Bungie",
+        "franchise": "As Marathon's player slump continues, Bungie",
+        "institution": "",
+        "target": "As Marathon's player slump continues, Bungie",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Bungie has announced drastic changes coming to its struggling shooter Marathon, including a shift away from its extraction roots in the coming months. The new mission statement? Making more \"approachable\" experiences with \"different levels of intensity and commitment.\" Read more"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.162995+06:00"
+    },
+    "evt_779630d3e59c75": {
+      "event_id": "evt_779630d3e59c75",
+      "event_key": "could the pc gamer team survive silent hill townfall other",
+      "event_subject": "Could the PC Gamer team survive Silent Hill: Townfall?",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "could the pc gamer team survive silent hill townfall other",
+        "subject": "Could the PC Gamer team survive Silent Hill: Townfall?",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Could the PC Gamer team survive Silent Hill: Townfall?",
+        "franchise": "Could the PC Gamer team survive Silent Hill: Townfall?",
+        "institution": "",
+        "target": "Could the PC Gamer team survive Silent Hill: Townfall?",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Could the PC Gamer team survive Silent Hill: Townfall?"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.162997+06:00"
+    },
+    "evt_84b0ec3d2da133": {
+      "event_id": "evt_84b0ec3d2da133",
+      "event_key": "ebon moss bachrach in final talks for heat 2 role other",
+      "event_subject": "Ebon Moss-Bachrach in Final Talks for Heat 2 Role",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ebon moss bachrach in final talks for heat 2 role other",
+        "subject": "Ebon Moss-Bachrach in Final Talks for Heat 2 Role",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Ebon Moss-Bachrach in Final Talks for Heat 2 Role",
+        "franchise": "Ebon Moss-Bachrach in Final Talks for Heat 2 Role",
+        "institution": "",
+        "target": "Ebon Moss-Bachrach in Final Talks for Heat 2 Role",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Michael Mann’s Heat 2 is set to start shooting in November, with The Bear's Ebon Moss-Bachrach in final talks to play Kelso, previously portrayed by Tom Noonan."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.163000+06:00"
+    },
+    "evt_1746bb9e6e1cce": {
+      "event_id": "evt_1746bb9e6e1cce",
+      "event_key": "enjoy 1986 s castlevania for free on your phone for 40th anniversary other",
+      "event_subject": "Enjoy 1986's Castlevania for Free on Your Phone for 40th Anniversary",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "enjoy 1986 s castlevania for free on your phone for 40th anniversary other",
+        "subject": "Enjoy 1986's Castlevania for Free on Your Phone for 40th Anniversary",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Enjoy 1986's Castlevania for Free on Your Phone for 40th Anniversary",
+        "franchise": "Enjoy 1986's Castlevania for Free on Your Phone for 40th Anniversary",
+        "institution": "",
+        "target": "Enjoy 1986's Castlevania for Free on Your Phone for 40th Anniversary",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Up to 80% off on PS Store compilations. Okay, Push Square isn’t a mobile gaming website, but I think it’d be remiss of me to not point you in the direction of a free game. Castlevania , the 1986 classic from Konami, is currently free to download in its entirety on iOS and Android until 24th October. Read the full article on pushsquare.com"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.163003+06:00"
+    },
+    "evt_660240205a32ee": {
+      "event_id": "evt_660240205a32ee",
+      "event_key": "fire emblem three houses fans must play dietrich in fortune s weave other",
+      "event_subject": "Fire Emblem: Three Houses Fans Must Play Dietrich in Fortune's Weave",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fire emblem three houses fans must play dietrich in fortune s weave other",
+        "subject": "Fire Emblem: Three Houses Fans Must Play Dietrich in Fortune's Weave",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Fire Emblem: Three Houses Fans Must Play Dietrich in Fortune's Weave",
+        "franchise": "Fire Emblem: Three Houses Fans Must Play Dietrich in Fortune's Weave",
+        "institution": "",
+        "target": "Fire Emblem: Three Houses Fans Must Play Dietrich in Fortune's Weave",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Dietrich's route in Fire Emblem Fortune's Weave contains some of the game's best storytelling and essential Three Houses connections"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.163006+06:00"
+    },
+    "evt_14fd287c41822d": {
+      "event_id": "evt_14fd287c41822d",
+      "event_key": "forza horizon 6 dev responds to itasha car ban backlash says explicit sexual content or sexually suggestive content is forbidden release",
+      "event_subject": "Forza Horizon 6 Dev Responds to 'Itasha' Car Ban Backlash, Says 'Explicit Sexual Content' or 'Sexually Suggestive Content' Is Forbidden",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "forza horizon 6 dev responds to itasha car ban backlash says explicit sexual content or sexually suggestive content is forbidden release",
+        "subject": "Forza Horizon 6 Dev Responds to 'Itasha' Car Ban Backlash, Says 'Explicit Sexual Content' or 'Sexually Suggestive Content' Is Forbidden",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Forza Horizon 6 Dev Responds to 'Itasha' Car Ban Backlash, Says 'Explicit Sexual Content' or 'Sexually Suggestive Content' Is Forbidden",
+        "franchise": "Forza Horizon 6 Dev Responds to 'Itasha' Car Ban Backlash, Says 'Explicit Sexual Content' or 'Sexually Suggestive Content' Is Forbidden",
+        "institution": "",
+        "target": "Forza Horizon 6 Dev Responds to 'Itasha' Car Ban Backlash, Says 'Explicit Sexual Content' or 'Sexually Suggestive Content' Is Forbidden",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Over the last few months, Forza Horizon 6 has received an outpouring of negative comments on social media and Steam about the game’s moderating system, which has been perceived as unfairly targeting players who create Itasha-style designs. To address this, Microsoft recently released an updated code of conduct in an attempt to clarify what kind of user generated content will get players banned in "
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.163008+06:00"
+    },
+    "evt_e9e26923771a91": {
+      "event_id": "evt_e9e26923771a91",
+      "event_key": "my first mmo character 6 jacob ridley other",
+      "event_subject": "My first MMO character #6: Jacob Ridley",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "my first mmo character 6 jacob ridley other",
+        "subject": "My first MMO character #6: Jacob Ridley",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "My first MMO character #6: Jacob Ridley",
+        "franchise": "My first MMO character #6: Jacob Ridley",
+        "institution": "",
+        "target": "My first MMO character #6: Jacob Ridley",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "My first MMO character #6: Jacob Ridley"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.163011+06:00"
+    },
+    "evt_3ef30eaf2d0d0e": {
+      "event_id": "evt_3ef30eaf2d0d0e",
+      "event_key": "new magic leak confirms fully foil spider man commander deck other",
+      "event_subject": "New Magic Leak Confirms Fully-Foil Spider-Man Commander Deck",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "new magic leak confirms fully foil spider man commander deck other",
+        "subject": "New Magic Leak Confirms Fully-Foil Spider-Man Commander Deck",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "New Magic Leak Confirms Fully-Foil Spider-Man Commander Deck",
+        "franchise": "New Magic Leak Confirms Fully-Foil Spider-Man Commander Deck",
+        "institution": "",
+        "target": "New Magic Leak Confirms Fully-Foil Spider-Man Commander Deck",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "A new leak seems to confirm that Marvel's Spider-Man will finally get an MTG Commander deck this Christmas."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.163013+06:00"
+    },
+    "evt_a07d5025896ceb": {
+      "event_id": "evt_a07d5025896ceb",
+      "event_key": "playstation wants you to use your controller to simplify payments other",
+      "event_subject": "PlayStation Wants You to Use Your Controller to Simplify Payments",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "playstation wants you to use your controller to simplify payments other",
+        "subject": "PlayStation Wants You to Use Your Controller to Simplify Payments",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "PlayStation Wants You to Use Your Controller to Simplify Payments",
+        "franchise": "PlayStation Wants You to Use Your Controller to Simplify Payments",
+        "institution": "",
+        "target": "PlayStation Wants You to Use Your Controller to Simplify Payments",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "PlayStation has filed a patent that allows the DualSense controller to read cards via NFC to pay for digital goods."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.163015+06:00"
+    },
+    "evt_2f6c42f65a02eb": {
+      "event_id": "evt_2f6c42f65a02eb",
+      "event_key": "reddit mod ordered to cough up 4 500 000 to nintendo in long running switch piracy case update",
+      "event_subject": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "reddit mod ordered to cough up 4 500 000 to nintendo in long running switch piracy case update",
+        "subject": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case",
+        "event_type": "update",
+        "action": "update",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case",
+        "franchise": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case",
+        "institution": "",
+        "target": "Reddit Mod Ordered To Cough Up $4,500,000 To Nintendo In Long-Running Switch Piracy Case",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Update: The 'Archbox' case finally comes to a close. Back in July, Nintendo dished out a handful of lawsuits in its continued clampdown on Switch piracy. Four months on, one of these legal claims has come back as another win for Nintendo after the defendant failed to plead or otherwise respond within the court's given time. The case in question was against James 'Archbox' Williams, the lead modera"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.163018+06:00"
+    },
+    "evt_727383ebbce75b": {
+      "event_id": "evt_727383ebbce75b",
+      "event_key": "report xbox studio rare working on various projects but activision will decide their future other",
+      "event_subject": "Report: Xbox Studio 'Rare' Working On Various Projects, But Activision Will Decide Their Future",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "report xbox studio rare working on various projects but activision will decide their future other",
+        "subject": "Report: Xbox Studio 'Rare' Working On Various Projects, But Activision Will Decide Their Future",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Report: Xbox Studio 'Rare' Working On Various Projects, But Activision Will Decide Their Future",
+        "franchise": "Report: Xbox Studio 'Rare' Working On Various Projects, But Activision Will Decide Their Future",
+        "institution": "",
+        "target": "Report: Xbox Studio 'Rare' Working On Various Projects, But Activision Will Decide Their Future",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "\"Rare is a unique studio in Microsoft’s portfolio.\". One of the big surprises of the Xbox reorganisation announcement this week was that legendary studio Rare was being transitioned to Activision rather than remaining under the Xbox Game Studios banner, effective immediately. This doesn't mean a whole lot on the face of it — Rare remains an Xbox-owned studio and the money will continue filtering i"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.163025+06:00"
+    },
+    "evt_ac2db91598d193": {
+      "event_id": "evt_ac2db91598d193",
+      "event_key": "saw creators return to the franchise for new movie from wrong turn director other",
+      "event_subject": "Saw Creators Return to the Franchise for New Movie from Wrong Turn Director",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "saw creators return to the franchise for new movie from wrong turn director other",
+        "subject": "Saw Creators Return to the Franchise for New Movie from Wrong Turn Director",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Saw Creators Return to the Franchise for New Movie from Wrong Turn Director",
+        "franchise": "Saw Creators Return to the Franchise for New Movie from Wrong Turn Director",
+        "institution": "",
+        "target": "Saw Creators Return to the Franchise for New Movie from Wrong Turn Director",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Blumhouse and Lionsgate confirm the eleventh installment in the Saw series and reveal the upcoming movie's director."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.163030+06:00"
+    },
+    "evt_9ec2dba8544226": {
+      "event_id": "evt_9ec2dba8544226",
+      "event_key": "sony reportedly surveying developers about playstation disc ending decision is it having second thoughts rumor",
+      "event_subject": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "sony reportedly surveying developers about playstation disc ending decision is it having second thoughts rumor",
+        "subject": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
+        "event_type": "rumor",
+        "action": "rumor",
+        "status": "current",
+        "modality": "rumored",
+        "game": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
+        "franchise": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
+        "institution": "",
+        "target": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "rumored",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Is Sony having second thoughts about ending PlayStation disc support? The question has arisen following a report that says Sony sent \"a bigger survey than they've sent almost ever before\" to developers asking for feedback about the decision to stop producing disc-based games. Read more"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.163034+06:00"
+    },
+    "evt_7c87bfcb978b1b": {
+      "event_id": "evt_7c87bfcb978b1b",
+      "event_key": "target restocks rare pok mon tcg sets today including 30th anniversary etbs and more other",
+      "event_subject": "Target Restocks Rare Pokémon TCG Sets Today, Including 30th Anniversary ETBs and More",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "target restocks rare pok mon tcg sets today including 30th anniversary etbs and more other",
+        "subject": "Target Restocks Rare Pokémon TCG Sets Today, Including 30th Anniversary ETBs and More",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Target Restocks Rare Pokémon TCG Sets Today, Including 30th Anniversary ETBs and More",
+        "franchise": "Target Restocks Rare Pokémon TCG Sets Today, Including 30th Anniversary ETBs and More",
+        "institution": "",
+        "target": "Target Restocks Rare Pokémon TCG Sets Today, Including 30th Anniversary ETBs and More",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Target just dropped a massive Pokémon TCG restock featuring rare 30th anniversary ETBs at MSRP and loads more — here is how to grab yours before they sell out."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.163038+06:00"
+    },
+    "evt_40627623039503": {
+      "event_id": "evt_40627623039503",
+      "event_key": "unicorn overlord director s upcoming action rpg looks expectedly beautiful release",
+      "event_subject": "Unicorn Overlord Director's Upcoming Action RPG Looks Expectedly Beautiful",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "unicorn overlord director s upcoming action rpg looks expectedly beautiful release",
+        "subject": "Unicorn Overlord Director's Upcoming Action RPG Looks Expectedly Beautiful",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Unicorn Overlord Director's Upcoming Action RPG Looks Expectedly Beautiful",
+        "franchise": "Unicorn Overlord Director's Upcoming Action RPG Looks Expectedly Beautiful",
+        "institution": "",
+        "target": "Unicorn Overlord Director's Upcoming Action RPG Looks Expectedly Beautiful",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "2028 can't come soon enough. Unicorn Overlord was one of our very favourite games of 2024, so you can imagine our excitement this morning when we found out that the game's director and former Vanillaware dev, Takafumi Noma, has unveiled his next project, and it looks expectedly stunning. Dawngazer is an action RPG from Noma's new fantasy-based studio, Ignisphere. We know very little about the game"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.163042+06:00"
+    },
+    "evt_c224ba77d2118f": {
+      "event_id": "evt_c224ba77d2118f",
+      "event_key": "woot s new sale includes the best switch 2 console deal of the year but it expires today other",
+      "event_subject": "Woot's New Sale Includes the Best Switch 2 Console Deal of the Year, But it Expires Today",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "woot s new sale includes the best switch 2 console deal of the year but it expires today other",
+        "subject": "Woot's New Sale Includes the Best Switch 2 Console Deal of the Year, But it Expires Today",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Woot's New Sale Includes the Best Switch 2 Console Deal of the Year, But it Expires Today",
+        "franchise": "Woot's New Sale Includes the Best Switch 2 Console Deal of the Year, But it Expires Today",
+        "institution": "",
+        "target": "Woot's New Sale Includes the Best Switch 2 Console Deal of the Year, But it Expires Today",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Woot's new 'Fall in Love with Video Games' sale includes the best Switch 2 console deal of the year so far, but it expires before the end of the day (September 25, 2026)."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T17:15:54.163045+06:00"
+    },
+    "evt_11bd24b1df49ef": {
+      "event_id": "evt_11bd24b1df49ef",
+      "event_key": "anthony russo breaks down the steve and peggy avengers endgame encore bonus footage that s where doomsday is born other",
+      "event_subject": "Anthony Russo breaks down the Steve and Peggy Avengers: Endgame Encore bonus footage: \"That's where Doomsday is born\"",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "anthony russo breaks down the steve and peggy avengers endgame encore bonus footage that s where doomsday is born other",
+        "subject": "Anthony Russo breaks down the Steve and Peggy Avengers: Endgame Encore bonus footage: \"That's where Doomsday is born\"",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Anthony Russo breaks down the Steve and Peggy Avengers: Endgame Encore bonus footage: \"That's where Doomsday is born\"",
+        "franchise": "Anthony Russo breaks down the Steve and Peggy Avengers: Endgame Encore bonus footage: \"That's where Doomsday is born\"",
+        "institution": "",
+        "target": "Anthony Russo breaks down the Steve and Peggy Avengers: Endgame Encore bonus footage: \"That's where Doomsday is born\"",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Avengers: Endgame Encore changes the original ending"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-09-25T17:15:54.163049+06:00"
+    },
+    "evt_b3f8b98ef6dd71": {
+      "event_id": "evt_b3f8b98ef6dd71",
+      "event_key": "anthony russo says they haven t other",
+      "event_subject": "Anthony Russo says they haven't",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "anthony russo says they haven t other",
+        "subject": "Anthony Russo says they haven't",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Anthony Russo says they haven't",
+        "franchise": "Anthony Russo says they haven't",
+        "institution": "",
+        "target": "Anthony Russo says they haven't",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The Russos haven't finished announcing the cast of Avengers: Doomsday yet"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-09-25T17:15:54.163058+06:00"
+    },
+    "evt_39ebf7a0158423": {
+      "event_id": "evt_39ebf7a0158423",
+      "event_key": "avengers doomsday co director responds to fan theory that robert downey jr s tony stark and doctor doom are connected other",
+      "event_subject": "Avengers Doomsday co-director responds to fan theory that Robert Downey Jr.'s Tony Stark and Doctor Doom are connected",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "avengers doomsday co director responds to fan theory that robert downey jr s tony stark and doctor doom are connected other",
+        "subject": "Avengers Doomsday co-director responds to fan theory that Robert Downey Jr.'s Tony Stark and Doctor Doom are connected",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Avengers Doomsday co-director responds to fan theory that Robert Downey Jr.'s Tony Stark and Doctor Doom are connected",
+        "franchise": "Avengers Doomsday co-director responds to fan theory that Robert Downey Jr.'s Tony Stark and Doctor Doom are connected",
+        "institution": "",
+        "target": "Avengers Doomsday co-director responds to fan theory that Robert Downey Jr.'s Tony Stark and Doctor Doom are connected",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "You'll have to wait until Avengers Doomsday hits screens to see if Iron Man and Doctor Doom are linked"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-09-25T17:15:54.163062+06:00"
+    },
+    "evt_5caf5406016dbf": {
+      "event_id": "evt_5caf5406016dbf",
+      "event_key": "everything you ll need to bring to your first pok mon organised play event other",
+      "event_subject": "Everything you'll need to bring to your first Pokémon Organised Play Event",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "everything you ll need to bring to your first pok mon organised play event other",
+        "subject": "Everything you'll need to bring to your first Pokémon Organised Play Event",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Everything you'll need to bring to your first Pokémon Organised Play Event",
+        "franchise": "Everything you'll need to bring to your first Pokémon Organised Play Event",
+        "institution": "",
+        "target": "Everything you'll need to bring to your first Pokémon Organised Play Event",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Everything you'll need to bring to your first Pokémon Organised Play Event"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-09-25T17:15:54.163067+06:00"
+    },
+    "evt_d7480d136ac955": {
+      "event_id": "evt_d7480d136ac955",
+      "event_key": "rebel wolves gave dawnwalker players more time to explore release",
+      "event_subject": "Rebel Wolves Gave Dawnwalker Players More Time to Explore",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "rebel wolves gave dawnwalker players more time to explore release",
+        "subject": "Rebel Wolves Gave Dawnwalker Players More Time to Explore",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Rebel Wolves Gave Dawnwalker Players More Time to Explore",
+        "franchise": "Rebel Wolves Gave Dawnwalker Players More Time to Explore",
+        "institution": "",
+        "target": "Rebel Wolves Gave Dawnwalker Players More Time to Explore",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The Dawnwalker timer was softened before launch, giving players more room to explore while keeping skill upgrades costly and meaningful by design. The post Rebel Wolves Gave Dawnwalker Players More Time to Explore appeared first on The Escapist ."
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-09-25T17:15:54.163070+06:00"
+    },
+    "evt_969dbfb5bdc639": {
+      "event_id": "evt_969dbfb5bdc639",
+      "event_key": "robert pattinson doesn t think he can be the dcu s batman it would be kind of tough other",
+      "event_subject": "Robert Pattinson doesn't think he can be the DCU's Batman: \"It would be kind of tough\"",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "robert pattinson doesn t think he can be the dcu s batman it would be kind of tough other",
+        "subject": "Robert Pattinson doesn't think he can be the DCU's Batman: \"It would be kind of tough\"",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Robert Pattinson doesn't think he can be the DCU's Batman: \"It would be kind of tough\"",
+        "franchise": "Robert Pattinson doesn't think he can be the DCU's Batman: \"It would be kind of tough\"",
+        "institution": "",
+        "target": "Robert Pattinson doesn't think he can be the DCU's Batman: \"It would be kind of tough\"",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The DCU still doesn't have its Batman"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-09-25T17:15:54.163074+06:00"
+    },
+    "evt_a77485048a479b": {
+      "event_id": "evt_a77485048a479b",
+      "event_key": "ryan reynolds suited up as deadpool on the set of an apple tv movie for deadpool wolverine pick ups other",
+      "event_subject": "Ryan Reynolds suited up as Deadpool on the set of an Apple TV movie for Deadpool & Wolverine pick-ups",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ryan reynolds suited up as deadpool on the set of an apple tv movie for deadpool wolverine pick ups other",
+        "subject": "Ryan Reynolds suited up as Deadpool on the set of an Apple TV movie for Deadpool & Wolverine pick-ups",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Ryan Reynolds suited up as Deadpool on the set of an Apple TV movie for Deadpool & Wolverine pick-ups",
+        "franchise": "Ryan Reynolds suited up as Deadpool on the set of an Apple TV movie for Deadpool & Wolverine pick-ups",
+        "institution": "",
+        "target": "Ryan Reynolds suited up as Deadpool on the set of an Apple TV movie for Deadpool & Wolverine pick-ups",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "A last-minute Deadpool & Wolverine shot was captured on an entirely different film set"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-09-25T17:15:54.163077+06:00"
+    },
+    "evt_a671df6b074192": {
+      "event_id": "evt_a671df6b074192",
+      "event_key": "the best early black friday ps5 deals in 2026 the biggest sony savings so far other",
+      "event_subject": "The best early Black Friday PS5 deals in 2026: the biggest Sony savings so far",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "the best early black friday ps5 deals in 2026 the biggest sony savings so far other",
+        "subject": "The best early Black Friday PS5 deals in 2026: the biggest Sony savings so far",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "The best early Black Friday PS5 deals in 2026: the biggest Sony savings so far",
+        "franchise": "The best early Black Friday PS5 deals in 2026: the biggest Sony savings so far",
+        "institution": "",
+        "target": "The best early Black Friday PS5 deals in 2026: the biggest Sony savings so far",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Black Friday is incoming, and I've gathered the best early Sony savings that can be found in the lead-up to this year's holiday sale season."
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-09-25T17:15:54.163080+06:00"
+    },
+    "evt_dff20dd0bb9f7e": {
+      "event_id": "evt_dff20dd0bb9f7e",
+      "event_key": "ubisoft was reportedly working on a new legend of zelda game starring ganondorf only for nintendo to shoot it down rumor",
+      "event_subject": "Ubisoft was reportedly working on a new Legend of Zelda game starring Ganondorf, only for Nintendo to shoot it down",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "ubisoft was reportedly working on a new legend of zelda game starring ganondorf only for nintendo to shoot it down rumor",
+        "subject": "Ubisoft was reportedly working on a new Legend of Zelda game starring Ganondorf, only for Nintendo to shoot it down",
+        "event_type": "rumor",
+        "action": "rumor",
+        "status": "current",
+        "modality": "rumored",
+        "game": "Ubisoft was reportedly working on a new Legend of Zelda game starring Ganondorf, only for Nintendo to shoot it down",
+        "franchise": "Ubisoft was reportedly working on a new Legend of Zelda game starring Ganondorf, only for Nintendo to shoot it down",
+        "institution": "",
+        "target": "Ubisoft was reportedly working on a new Legend of Zelda game starring Ganondorf, only for Nintendo to shoot it down",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "rumored",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "It reportedly starred a new character until Nintendo suggested Ganon"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-09-25T17:15:54.163083+06:00"
+    },
+    "evt_6735eb7e1c6989": {
+      "event_id": "evt_6735eb7e1c6989",
+      "event_key": "world of warcraft forever cracks down on inappropriate names senior dev offers no sympathy other",
+      "event_subject": "World of Warcraft: Forever cracks down on inappropriate names, senior dev offers \"no sympathy\"",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "world of warcraft forever cracks down on inappropriate names senior dev offers no sympathy other",
+        "subject": "World of Warcraft: Forever cracks down on inappropriate names, senior dev offers \"no sympathy\"",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "World of Warcraft: Forever cracks down on inappropriate names, senior dev offers \"no sympathy\"",
+        "franchise": "World of Warcraft: Forever cracks down on inappropriate names, senior dev offers \"no sympathy\"",
+        "institution": "",
+        "target": "World of Warcraft: Forever cracks down on inappropriate names, senior dev offers \"no sympathy\"",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Blizzard devs \"read through every\" affected account carefully"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-09-25T17:15:54.163087+06:00"
     }
   },
   "posted_event_ids": [
@@ -113101,7 +116157,23 @@
     "evt_cfaf8ed0f91a07",
     "evt_a4aecb910c599c",
     "evt_375a204bd9f45a",
-    "evt_8451d2a735b272"
+    "evt_8451d2a735b272",
+    "evt_40526798c45616",
+    "evt_28e419050edb00",
+    "evt_20de138679d806",
+    "evt_f633a5377aa420",
+    "evt_a6d3ce88479a97",
+    "evt_0d0f69dd1e3d57",
+    "evt_783ec3cc4f3818",
+    "evt_c1cf623a377218",
+    "evt_e1c7d52f186b73",
+    "evt_352398e7eeebd9",
+    "evt_4b738a4f2ebddd",
+    "evt_1ee3bb6a44a6c6",
+    "evt_c51bba031cfb1b",
+    "evt_84b0ec3d2da133",
+    "evt_1746bb9e6e1cce",
+    "evt_660240205a32ee"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -113405,10 +116477,26 @@
     "ubisoft milan s ambitious zelda spinoff goliath cancelled after nintendo rejection",
     "natalie francis takes helm at massive entertainment amid ubisoft restructuring",
     "meta unveils 1 300 lightweight vr glasses with hand tracking",
-    "takafumi noma unveils new fantasy ip ignisphere and action rpg dawngazer"
+    "takafumi noma unveils new fantasy ip ignisphere and action rpg dawngazer",
+    "witcher 3 remastered update overhauls visuals combat and platform support",
+    "bethesda assures obsidian it will retain its creative identity after move",
+    "nintendo wins 4 5 million judgment against reddit moderator for switch piracy",
+    "veteran microsoft exec criticizes xbox ceo asha sharma s leadership tactics",
+    "xbox s gears of war e day review embargo set for october 1",
+    "ubisoft opens beta for the division 2 survivors extraction mode",
+    "hytale director offers 15 000 prize for solo hard mode gobliterator kill",
+    "prince of persia the lost crown free on nintendo switch for one week",
+    "ubisoft offers free play weekend for the division 2 ahead of survivors test",
+    "deluxe pack mega expansion launches september 30 closing pok mon tcg pocket s b series",
+    "avengers director reveals endgame encore twist that sets up doomsday",
+    "heroes becomes free to stream reviving groundbreaking sci fi superhero series",
+    "bungie vows to revive marathon with new pve pvp and lower intensity modes",
+    "ebon moss bachrach nears deal to play kelso in michael mann s heat 2",
+    "konami gives 1986 castlevania free on mobile for 40th anniversary",
+    "fire emblem fortune s weave s dietrich route offers deep three houses lore"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-25T11:56:04.931016+06:00",
+    "Game Updates": "2026-09-25T17:32:16.988581+06:00",
     "Major Releases": "2026-09-22T00:41:53.097533+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
