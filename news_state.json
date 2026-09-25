@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1ff57-7hPnWJTD0wenWS5qHaGD2t83pqs\"",
+      "etag": "W/\"1a71f-A0pfVPf2QHVChJeArtJsC0pnkWA\"",
       "last_modified": null,
-      "last_checked": "2026-09-25T02:16:21.690450+06:00",
+      "last_checked": "2026-09-25T11:50:38.641749+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-25T02:16:21.968686+06:00",
+      "last_checked": "2026-09-25T11:50:38.994356+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ab584c7-b63\"",
-      "last_modified": "Thu, 24 Sep 2026 20:15:03 GMT",
-      "last_checked": "2026-09-25T02:16:22.460075+06:00",
+      "etag": "\"6ab60b8c-b63\"",
+      "last_modified": "Fri, 25 Sep 2026 05:50:04 GMT",
+      "last_checked": "2026-09-25T11:50:39.337526+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Thu, 24 Sep 2026 16:52:27 GMT",
-      "last_checked": "2026-09-25T02:16:23.180432+06:00",
+      "last_checked": "2026-09-25T11:50:39.985303+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ab57716-122a\"",
-      "last_modified": "Thu, 24 Sep 2026 19:16:38 GMT",
-      "last_checked": "2026-09-25T02:16:23.547109+06:00",
+      "etag": "\"6ab6003b-12fe\"",
+      "last_modified": "Fri, 25 Sep 2026 05:01:47 GMT",
+      "last_checked": "2026-09-25T11:50:40.330998+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-25T02:16:23.831279+06:00",
+      "last_checked": "2026-09-25T11:50:40.652671+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-25T02:16:24.504232+06:00",
+      "last_checked": "2026-09-25T11:50:41.456284+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"7e1a4f40088c8d1863e782c101be66dc\"",
-      "last_modified": "Thu, 24 Sep 2026 20:00:48 GMT",
-      "last_checked": "2026-09-25T02:16:25.939530+06:00",
+      "etag": "W/\"94b19e71151b7a5f9a6c81f34e1178d6\"",
+      "last_modified": "Thu, 24 Sep 2026 21:54:52 GMT",
+      "last_checked": "2026-09-25T11:50:43.640663+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-25T02:16:26.115284+06:00",
+      "last_checked": "2026-09-25T11:50:43.938919+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Thu, 24 Sep 2026 18:59:12 GMT",
-      "last_checked": "2026-09-25T02:16:26.642440+06:00",
+      "last_modified": "Thu, 24 Sep 2026 23:26:53 GMT",
+      "last_checked": "2026-09-25T11:50:44.363332+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
       "last_modified": "Wed, 23 Sep 2026 19:26:58 GMT",
-      "last_checked": "2026-09-25T02:16:27.246283+06:00",
+      "last_checked": "2026-09-25T11:50:45.060050+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"1a3095ea1e5ae14ed7a92beae93a9e58\"",
-      "last_modified": "Thu, 24 Sep 2026 20:00:24 GMT",
-      "last_checked": "2026-09-25T02:16:27.420156+06:00",
+      "etag": "W/\"90373c84684d4e2d90b8e06803baeef6\"",
+      "last_modified": "Fri, 25 Sep 2026 00:16:06 GMT",
+      "last_checked": "2026-09-25T11:50:46.076805+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-25T02:16:27.948050+06:00",
+      "last_checked": "2026-09-25T11:50:46.457141+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-25T02:16:28.441715+06:00",
+      "last_checked": "2026-09-25T11:50:46.839500+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-25T02:16:28.895218+06:00",
+      "last_checked": "2026-09-25T11:50:47.360797+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-25T02:16:29.193699+06:00",
-      "fail_count": 63,
+      "last_checked": "2026-09-25T11:50:47.707064+06:00",
+      "fail_count": 64,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"1658019b9cd4182f029533539a4b3b37\"",
-      "last_modified": "Thu, 24 Sep 2026 15:53:05 GMT",
-      "last_checked": "2026-09-25T02:16:29.359735+06:00",
+      "etag": "W/\"e58fb1b47e327b132d5952b632f6e786\"",
+      "last_modified": "Thu, 24 Sep 2026 17:28:23 GMT",
+      "last_checked": "2026-09-25T11:50:47.862075+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-25T02:16:29.558724+06:00",
+      "last_checked": "2026-09-25T11:50:48.071023+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-25T02:16:29.860081+06:00",
-      "fail_count": 63,
+      "last_checked": "2026-09-25T11:50:48.285884+06:00",
+      "fail_count": 64,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"b7f86f69a29c298424f5d9d5b0f28376\"",
       "last_modified": "Thu, 24 Sep 2026 16:00:00 GMT",
-      "last_checked": "2026-09-25T02:16:30.121005+06:00",
+      "last_checked": "2026-09-25T11:50:48.520362+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -12674,6 +12674,135 @@
       "status": "pending",
       "first_seen": "2026-09-25T02:16:29.406220+06:00",
       "last_seen": "2026-09-25T02:16:29.406223+06:00"
+    },
+    "gematsu.com/2026/09/unicorn-overlord-director-takafumi-noma-announces-fantasy-ip-ignisphere-and-action-rpg-dawngazer-for-ps5-switch-2-and-pc": {
+      "title": "Unicorn Overlord director Takafumi Noma announces fantasy IP IGNISPHERE and action RPG DAWNGAZER for PS5, Switch 2, and PC",
+      "url": "https://www.gematsu.com/2026/09/unicorn-overlord-director-takafumi-noma-announces-fantasy-ip-ignisphere-and-action-rpg-dawngazer-for-ps5-switch-2-and-pc",
+      "canonical": "gematsu.com/2026/09/unicorn-overlord-director-takafumi-noma-announces-fantasy-ip-ignisphere-and-action-rpg-dawngazer-for-ps5-switch-2-and-pc",
+      "published_dt": "2026-09-25T09:00:18+06:00",
+      "published_date": "2026-09-25T09:00:18+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Publisher Good Smile Company and developer Monochrome Corporation have announced new fantasy intellectual property IGNISPHERE, …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-25T11:50:40.359541+06:00",
+      "last_seen": "2026-09-25T11:50:40.359547+06:00",
+      "posted_at": "2026-09-25T11:56:04.930955+06:00"
+    },
+    "pcgamer.com/games/fallout/tim-cain-among-other-things-that-steve-jackson-games-didnt-like-about-fallout-was-vault-boy": {
+      "title": "Tim Cain: 'Among other things that Steve Jackson Games didn't like about Fallout was Vault Boy'",
+      "url": "https://www.pcgamer.com/games/fallout/tim-cain-among-other-things-that-steve-jackson-games-didnt-like-about-fallout-was-vault-boy/",
+      "canonical": "pcgamer.com/games/fallout/tim-cain-among-other-things-that-steve-jackson-games-didnt-like-about-fallout-was-vault-boy",
+      "published_dt": "2026-09-25T11:25:59+06:00",
+      "published_date": "2026-09-25T11:25:59+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "It wasn't just the violence that Fallout's original partner took issue with.",
+      "image": "https://cdn.mos.cms.futurecdn.net/eZchApT79NHYKaXf3KTUyF-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T11:50:40.969585+06:00",
+      "last_seen": "2026-09-25T11:50:40.969591+06:00"
+    },
+    "pcgamer.com/games/this-chill-procgen-driving-game-has-a-very-clever-ui-feature": {
+      "title": "This chill procgen driving game has a very clever UI feature",
+      "url": "https://www.pcgamer.com/games/this-chill-procgen-driving-game-has-a-very-clever-ui-feature/",
+      "canonical": "pcgamer.com/games/this-chill-procgen-driving-game-has-a-very-clever-ui-feature",
+      "published_dt": "2026-09-25T10:11:45+06:00",
+      "published_date": "2026-09-25T10:11:45+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Bigger games should adopt this.",
+      "image": "https://cdn.mos.cms.futurecdn.net/akE4sPKLPR9hic8VnTW6nJ-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T11:50:40.969726+06:00",
+      "last_seen": "2026-09-25T11:50:40.969730+06:00"
+    },
+    "polygon.com/backrooms-hbo-max-streaming-september-2026": {
+      "title": "2026’s Most Inventive Sci-Fi Thriller Is Officially Making Its Streaming Debut",
+      "url": "https://www.polygon.com/backrooms-hbo-max-streaming-september-2026/",
+      "canonical": "polygon.com/backrooms-hbo-max-streaming-september-2026",
+      "published_dt": "2026-09-25T10:00:20+06:00",
+      "published_date": "2026-09-25T10:00:20+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "A liminal horror masterpiece finally releases on HBO Max.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/mcdback_ec084.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T11:50:41.465507+06:00",
+      "last_seen": "2026-09-25T11:50:41.465512+06:00"
+    },
+    "polygon.com/teen-titans-2003-dc-comics-rec": {
+      "title": "One of DC’s Best Superhero Shows Is Now Free to Stream",
+      "url": "https://www.polygon.com/teen-titans-2003-dc-comics-rec/",
+      "canonical": "polygon.com/teen-titans-2003-dc-comics-rec",
+      "published_dt": "2026-09-25T09:00:15+06:00",
+      "published_date": "2026-09-25T09:00:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "'Teen Titans', Cartoon Network and DC's most engaging release that tackles teen struggles and superhero action, is now streaming on Tubi.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/slade.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T11:50:41.465644+06:00",
+      "last_seen": "2026-09-25T11:50:41.465647+06:00"
+    },
+    "nintendolife.com/news/2026/09/rumour-new-leak-suggests-professor-layton-and-phoenix-wrights-3ds-crossover-is-returning": {
+      "title": "Rumour: New Leak Suggests Professor Layton And Phoenix Wright's 3DS Crossover Is Returning",
+      "url": "https://www.nintendolife.com/news/2026/09/rumour-new-leak-suggests-professor-layton-and-phoenix-wrights-3ds-crossover-is-returning",
+      "canonical": "nintendolife.com/news/2026/09/rumour-new-leak-suggests-professor-layton-and-phoenix-wrights-3ds-crossover-is-returning",
+      "published_dt": "2026-09-25T10:55:00+06:00",
+      "published_date": "2026-09-25T10:55:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "\"Every puzzle has an answer\". Phoenix Wright celebrates his 25th anniversary next month, and Professor Layton is also returning in a new outing later this year. On top of this, rumours about the 3DS title Professor Layton vs. Phoenix Wright: Ace Attorney getting a modern release are now doing the rounds online. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/5e9cfe52d018e/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T11:50:46.477548+06:00",
+      "last_seen": "2026-09-25T11:50:46.477554+06:00"
+    },
+    "nintendolife.com/news/2026/09/so-long-sweet-prince-ubisofts-rogue-prince-of-persia-game-rolls-out-its-final-update": {
+      "title": "\"So Long, Sweet Prince\" - Ubisoft's Rogue Prince Of Persia Game Rolls Out Its Final Update",
+      "url": "https://www.nintendolife.com/news/2026/09/so-long-sweet-prince-ubisofts-rogue-prince-of-persia-game-rolls-out-its-final-update",
+      "canonical": "nintendolife.com/news/2026/09/so-long-sweet-prince-ubisofts-rogue-prince-of-persia-game-rolls-out-its-final-update",
+      "published_dt": "2026-09-25T09:30:00+06:00",
+      "published_date": "2026-09-25T09:30:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Developer Evil Empire says it's been \"one hell of a run\". If you haven't already had enough news related to Ubisoft for one day, here's a story tied to the Prince of Persia series. Following a free \"first anniversary\" update for Rogue Prince of Persia last week, developer Evil Empire has now revealed this was actually the \"final update\" for the title . There were originally \"two updates\" planned, but these ideas were merged into one. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/eba7bac85cff2/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-25T11:50:46.477970+06:00",
+      "last_seen": "2026-09-25T11:50:46.477974+06:00"
+    },
+    "shacknews.com/article/150822/tesla-semi-launches-in-high-volume-production": {
+      "title": "Tesla Semi launches in high volume production | Shacknews",
+      "url": "https://www.shacknews.com/article/150822/tesla-semi-launches-in-high-volume-production",
+      "canonical": "shacknews.com/article/150822/tesla-semi-launches-in-high-volume-production",
+      "published_dt": "2026-09-25T10:35:00+06:00",
+      "published_date": "2026-09-25T10:35:00+06:00",
+      "source": "Shacknews",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-09-25T11:50:55.919869+06:00",
+      "last_seen": "2026-09-25T11:50:55.919873+06:00"
     }
   },
   "events": {
@@ -27987,6 +28116,60 @@
           "headline": "Meta unveils $1,300 lightweight VR glasses with hand‑tracking",
           "claims": [
             "100 g glasses costing $1,300"
+          ]
+        }
+      ]
+    },
+    "evt_8451d2a735b272": {
+      "event_id": "evt_8451d2a735b272",
+      "event_key": "ignisphere and dawngazer new ip announcement",
+      "event_subject": "IGNISPHERE and DAWNGAZER announcement",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "ignisphere and dawngazer new ip announcement",
+        "subject": "IGNISPHERE and DAWNGAZER announcement",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "DAWNGAZER",
+        "franchise": "DAWNGAZER",
+        "institution": "Good Smile Company / Monochrome Corporation",
+        "target": "new fantasy IPs",
+        "platforms": [
+          "PS5",
+          "Switch 2",
+          "PC"
+        ],
+        "topic": "new IP"
+      },
+      "sources": [
+        "Gematsu"
+      ],
+      "event_sources": [
+        "Gematsu"
+      ],
+      "claims": [
+        "new fantasy IP IGNISPHERE and action RPG DAWNGAZER announced"
+      ],
+      "importance_score": 46,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Takafumi Noma Unveils New Fantasy IP IGNISPHERE and Action RPG DAWNGAZER",
+      "summary": "Monochrome and Good Smile Company announced the original universe IGNISPHERE with its first title DAWNGAZER, slated for PlayStation 5, Switch 2, and PC in 2028.",
+      "published_at": "2026-09-25T09:00:18+06:00",
+      "selected_at": "2026-09-25T05:56:04.930984+00:00",
+      "status": "published",
+      "message_id": 464,
+      "published_versions": [
+        {
+          "published_at": "2026-09-25T05:56:04.930984+00:00",
+          "headline": "Takafumi Noma Unveils New Fantasy IP IGNISPHERE and Action RPG DAWNGAZER",
+          "claims": [
+            "new fantasy IP IGNISPHERE and action RPG DAWNGAZER announced"
           ]
         }
       ]
@@ -112276,6 +112459,344 @@
         "total": 27
       },
       "last_seen": "2026-09-25T02:23:30.191775+06:00"
+    },
+    "evt_8451d2a735b272": {
+      "event_id": "evt_8451d2a735b272",
+      "event_key": "ignisphere and dawngazer new ip announcement",
+      "event_subject": "IGNISPHERE and DAWNGAZER announcement",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "ignisphere and dawngazer new ip announcement",
+        "subject": "IGNISPHERE and DAWNGAZER announcement",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "DAWNGAZER",
+        "franchise": "DAWNGAZER",
+        "institution": "Good Smile Company / Monochrome Corporation",
+        "target": "new fantasy IPs",
+        "platforms": [
+          "PS5",
+          "Switch 2",
+          "PC"
+        ],
+        "topic": "new IP"
+      },
+      "modality": "unknown",
+      "topic": "new IP",
+      "institution": "Good Smile Company / Monochrome Corporation",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new fantasy IP IGNISPHERE and action RPG DAWNGAZER announced"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 46
+      },
+      "last_seen": "2026-09-25T11:52:02.225205+06:00"
+    },
+    "evt_215b866098b3a4": {
+      "event_id": "evt_215b866098b3a4",
+      "event_key": "rogue prince of persia final update release",
+      "event_subject": "Rogue Prince of Persia final update",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "rogue prince of persia final update release",
+        "subject": "Rogue Prince of Persia final update",
+        "event_type": "other",
+        "action": "roll out",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Rogue Prince of Persia",
+        "franchise": "Prince of Persia",
+        "institution": "Ubisoft / Evil Empire",
+        "target": "final update",
+        "platforms": [],
+        "topic": "game update"
+      },
+      "modality": "unknown",
+      "topic": "game update",
+      "institution": "Ubisoft / Evil Empire",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "final update for Rogue Prince of Persia released"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-09-25T11:52:02.225229+06:00"
+    },
+    "evt_70ec19b491f690": {
+      "event_id": "evt_70ec19b491f690",
+      "event_key": "fallout steve jackson games criticism of vault boy statement",
+      "event_subject": "Tim Cain interview",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fallout steve jackson games criticism of vault boy statement",
+        "subject": "Tim Cain interview",
+        "event_type": "other",
+        "action": "comment",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "Fallout",
+        "franchise": "Fallout",
+        "institution": "Steve Jackson Games",
+        "target": "Vault Boy imagery",
+        "platforms": [],
+        "topic": "controversy"
+      },
+      "modality": "unknown",
+      "topic": "controversy",
+      "institution": "Steve Jackson Games",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Steve Jackson Games disliked Vault Boy"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-25T11:52:02.225240+06:00"
+    },
+    "evt_45a60c0e529bf7": {
+      "event_id": "evt_45a60c0e529bf7",
+      "event_key": "professor layton vs phoenix wright 3ds re release rumor",
+      "event_subject": "Rumour leak",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "professor layton vs phoenix wright 3ds re release rumor",
+        "subject": "Rumour leak",
+        "event_type": "rumor",
+        "action": "suggest",
+        "status": "unconfirmed",
+        "modality": "unknown",
+        "game": "Professor Layton vs. Phoenix Wright",
+        "franchise": "Professor Layton / Ace Attorney",
+        "institution": "Nintendo Life",
+        "target": "3DS crossover re-release",
+        "platforms": [
+          "Nintendo 3DS"
+        ],
+        "topic": "leak"
+      },
+      "modality": "unknown",
+      "topic": "leak",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new leak suggests re-release"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-25T11:52:02.225247+06:00"
+    },
+    "evt_869c295974f82f": {
+      "event_id": "evt_869c295974f82f",
+      "event_key": "unnamed procgen driving game ui feature highlight",
+      "event_subject": "Procgen driving game feature",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "unnamed procgen driving game ui feature highlight",
+        "subject": "Procgen driving game feature",
+        "event_type": "other",
+        "action": "showcase",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PC Gamer",
+        "target": "clever UI feature",
+        "platforms": [],
+        "topic": "game design"
+      },
+      "modality": "unknown",
+      "topic": "game design",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "chill procgen driving game has clever UI feature"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-25T11:52:02.225253+06:00"
+    },
+    "evt_e023bc1211fbd0": {
+      "event_id": "evt_e023bc1211fbd0",
+      "event_key": "sci fi thriller streaming debut on hbo max",
+      "event_subject": "Sci-Fi Thriller streaming debut",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sci fi thriller streaming debut on hbo max",
+        "subject": "Sci-Fi Thriller streaming debut",
+        "event_type": "other",
+        "action": "debut",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "HBO Max",
+        "target": "streaming debut",
+        "platforms": [
+          "HBO Max"
+        ],
+        "topic": "streaming"
+      },
+      "modality": "unknown",
+      "topic": "streaming",
+      "institution": "HBO Max",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "2026’s most inventive sci-fi thriller is officially making its streaming debut"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T11:52:02.225259+06:00"
+    },
+    "evt_48fcb649223c35": {
+      "event_id": "evt_48fcb649223c35",
+      "event_key": "teen titans free streaming on tubi",
+      "event_subject": "Teen Titans free streaming",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "teen titans free streaming on tubi",
+        "subject": "Teen Titans free streaming",
+        "event_type": "other",
+        "action": "make available",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Teen Titans",
+        "institution": "DC / Cartoon Network",
+        "target": "free streaming on Tubi",
+        "platforms": [
+          "Tubi"
+        ],
+        "topic": "streaming"
+      },
+      "modality": "unknown",
+      "topic": "streaming",
+      "institution": "DC / Cartoon Network",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Teen Titans now free to stream on Tubi"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T11:52:02.225264+06:00"
+    },
+    "evt_05cd30ca9dc4bb": {
+      "event_id": "evt_05cd30ca9dc4bb",
+      "event_key": "tesla semi high volume production launch",
+      "event_subject": "Tesla Semi launch",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "tesla semi high volume production launch",
+        "subject": "Tesla Semi launch",
+        "event_type": "other",
+        "action": "launch",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Tesla",
+        "target": "high volume production",
+        "platforms": [],
+        "topic": "automotive"
+      },
+      "modality": "unknown",
+      "topic": "automotive",
+      "institution": "Tesla",
+      "sources": [
+        "Shacknews"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Tesla Semi launches in high volume production"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-25T11:52:02.225269+06:00"
     }
   },
   "posted_event_ids": [
@@ -112579,7 +113100,8 @@
     "evt_b72c5720b655e0",
     "evt_cfaf8ed0f91a07",
     "evt_a4aecb910c599c",
-    "evt_375a204bd9f45a"
+    "evt_375a204bd9f45a",
+    "evt_8451d2a735b272"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -112882,10 +113404,11 @@
     "the witcher 3 remastered launches globally on september 29 at 10 am utc",
     "ubisoft milan s ambitious zelda spinoff goliath cancelled after nintendo rejection",
     "natalie francis takes helm at massive entertainment amid ubisoft restructuring",
-    "meta unveils 1 300 lightweight vr glasses with hand tracking"
+    "meta unveils 1 300 lightweight vr glasses with hand tracking",
+    "takafumi noma unveils new fantasy ip ignisphere and action rpg dawngazer"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-25T02:34:37.299170+06:00",
+    "Game Updates": "2026-09-25T11:56:04.931016+06:00",
     "Major Releases": "2026-09-22T00:41:53.097533+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
