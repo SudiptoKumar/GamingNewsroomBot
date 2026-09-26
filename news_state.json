@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"237e1-/gxdzSJxG5Hnbg2U2Sw3LQEiSNc\"",
+      "etag": "W/\"21885-FUbyrbhM1g7du0V2XPVFaSOGmSM\"",
       "last_modified": null,
-      "last_checked": "2026-09-26T11:51:48.621254+06:00",
+      "last_checked": "2026-09-26T16:51:26.805873+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-26T11:51:48.909184+06:00",
+      "last_checked": "2026-09-26T16:51:27.141757+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ab75d0b-aa5\"",
-      "last_modified": "Sat, 26 Sep 2026 05:50:03 GMT",
-      "last_checked": "2026-09-26T11:51:49.277607+06:00",
+      "etag": "\"6ab7a35c-aa4\"",
+      "last_modified": "Sat, 26 Sep 2026 10:50:04 GMT",
+      "last_checked": "2026-09-26T16:51:27.661914+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Fri, 25 Sep 2026 19:02:39 GMT",
-      "last_checked": "2026-09-26T11:51:49.644856+06:00",
+      "last_modified": "Sat, 26 Sep 2026 10:18:58 GMT",
+      "last_checked": "2026-09-26T16:51:28.386448+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ab7547d-11d8\"",
-      "last_modified": "Sat, 26 Sep 2026 05:13:33 GMT",
-      "last_checked": "2026-09-26T11:51:49.921737+06:00",
+      "etag": "\"6ab78cdb-11d8\"",
+      "last_modified": "Sat, 26 Sep 2026 09:14:03 GMT",
+      "last_checked": "2026-09-26T16:51:28.758589+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-26T11:51:50.136306+06:00",
+      "last_checked": "2026-09-26T16:51:28.992186+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-26T11:51:50.626728+06:00",
+      "last_checked": "2026-09-26T16:51:29.694105+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"10a5897738ae20ed1d15b0d74ee83e80\"",
-      "last_modified": "Fri, 25 Sep 2026 21:00:43 GMT",
-      "last_checked": "2026-09-26T11:51:50.820741+06:00",
+      "etag": "W/\"6ed112eabda75c397fc9480d7edd6eba\"",
+      "last_modified": "Sat, 26 Sep 2026 08:15:57 GMT",
+      "last_checked": "2026-09-26T16:51:29.886249+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-26T11:51:50.984143+06:00",
+      "last_checked": "2026-09-26T16:51:30.099322+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Fri, 25 Sep 2026 18:59:12 GMT",
-      "last_checked": "2026-09-26T11:51:51.404935+06:00",
+      "last_modified": "Sat, 26 Sep 2026 09:59:31 GMT",
+      "last_checked": "2026-09-26T16:51:30.746650+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
       "last_modified": "Wed, 23 Sep 2026 19:26:58 GMT",
-      "last_checked": "2026-09-26T11:51:52.023369+06:00",
+      "last_checked": "2026-09-26T16:51:31.295368+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"5c8e256179eb50b93c2111168c1e2b3f\"",
-      "last_modified": "Fri, 25 Sep 2026 22:47:00 GMT",
-      "last_checked": "2026-09-26T11:51:52.883124+06:00",
+      "etag": "W/\"a8e0fbba8c6348b72bdee6c167f26162\"",
+      "last_modified": "Sat, 26 Sep 2026 09:16:00 GMT",
+      "last_checked": "2026-09-26T16:51:31.465682+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-26T11:51:53.292737+06:00",
+      "last_checked": "2026-09-26T16:51:31.831838+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-26T11:51:53.620247+06:00",
+      "last_checked": "2026-09-26T16:51:32.340121+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-26T11:51:54.112633+06:00",
+      "last_checked": "2026-09-26T16:51:32.894297+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-26T11:51:54.426509+06:00",
-      "fail_count": 68,
+      "last_checked": "2026-09-26T16:51:33.186679+06:00",
+      "fail_count": 69,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"9e34f7c3667a2257a3999e01f40b5e3f\"",
       "last_modified": "Sat, 26 Sep 2026 00:23:55 GMT",
-      "last_checked": "2026-09-26T11:51:54.645100+06:00",
+      "last_checked": "2026-09-26T16:51:33.344695+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-26T11:51:54.985631+06:00",
+      "last_checked": "2026-09-26T16:51:33.530615+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-26T11:51:55.123017+06:00",
-      "fail_count": 68,
+      "last_checked": "2026-09-26T16:51:33.762794+06:00",
+      "fail_count": 69,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"bab197822da3afe855ac34d4691392e8\"",
-      "last_modified": "Fri, 25 Sep 2026 12:37:41 GMT",
-      "last_checked": "2026-09-26T11:51:55.964874+06:00",
+      "etag": "W/\"a0e976c311d97c71913c3ddb5f6ecae4\"",
+      "last_modified": "Sat, 26 Sep 2026 09:00:00 GMT",
+      "last_checked": "2026-09-26T16:51:33.953022+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -153,7 +153,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-17T17:00:29.156472+06:00",
-      "last_seen": "2026-09-25T17:12:36.778825+06:00"
+      "last_seen": "2026-09-26T16:51:31.475571+06:00"
     },
     "ign.com/articles/amazon-audible-deal-september-2026": {
       "title": "The New Fall Amazon Audible Deal Is the Best One I've Seen This Year: Get 4 Months for $0.99 Per Month",
@@ -170,199 +170,6 @@
       "status": "pending",
       "first_seen": "2026-09-22T00:29:00.921933+06:00",
       "last_seen": "2026-09-26T02:15:54.253428+06:00"
-    },
-    "ign.com/articles/the-love-hypothesis-review": {
-      "title": "The Love Hypothesis Review",
-      "url": "https://www.ign.com/articles/the-love-hypothesis-review",
-      "canonical": "ign.com/articles/the-love-hypothesis-review",
-      "published_dt": "2026-09-22T10:00:00+06:00",
-      "published_date": "2026-09-22T10:00:00+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "The Love Hypothesis review: Ali Hazelwood’s New York Times bestseller gets adapted into a charming rom-com.",
-      "image": "https://assets-prd.ignimgs.com/2026/09/21/lvhy-2026-ut-250728-bosphi-04142rc-1-700-1790020315154.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-22T11:52:10.120384+06:00",
-      "last_seen": "2026-09-22T11:52:10.120390+06:00"
-    },
-    "videogameschronicle.com/news/xbox-will-reportedly-consolidate-several-studios-in-new-major-wave-of-layoffs": {
-      "title": "Xbox will reportedly ‘consolidate several studios’ in new major wave of layoffs",
-      "url": "https://www.videogameschronicle.com/news/xbox-will-reportedly-consolidate-several-studios-in-new-major-wave-of-layoffs/",
-      "canonical": "videogameschronicle.com/news/xbox-will-reportedly-consolidate-several-studios-in-new-major-wave-of-layoffs",
-      "published_dt": "2026-09-22T10:18:39+06:00",
-      "published_date": "2026-09-22T10:18:39+06:00",
-      "source": "VGC",
-      "region": "Gaming",
-      "excerpt": "Microsoft is reportedly planning to cut hundreds more Xbox jobs this week",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-09-22T11:52:10.594156+06:00",
-      "last_seen": "2026-09-22T11:52:10.594162+06:00",
-      "posted_at": "2026-09-22T11:57:28.040491+06:00"
-    },
-    "gematsu.com/2026/09/the-information-xbox-to-cut-hundreds-of-jobs-consolidate-game-studios": {
-      "title": "The Information: Xbox to cut “hundreds” of jobs, consolidate game studios",
-      "url": "https://www.gematsu.com/2026/09/the-information-xbox-to-cut-hundreds-of-jobs-consolidate-game-studios",
-      "canonical": "gematsu.com/2026/09/the-information-xbox-to-cut-hundreds-of-jobs-consolidate-game-studios",
-      "published_dt": "2026-09-22T09:49:21+06:00",
-      "published_date": "2026-09-22T09:49:21+06:00",
-      "source": "Gematsu",
-      "region": "Gaming",
-      "excerpt": "Xbox plans to lay off hundreds of employees this week in its second major staff …",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-22T11:52:11.143198+06:00",
-      "last_seen": "2026-09-22T11:52:11.143203+06:00"
-    },
-    "pcgamer.com/games/rpg/nighthawks-review-a-novel-vampire-rpg-thats-also-a-vampire-novels-worth-of-writing": {
-      "title": "Nighthawks review",
-      "url": "https://www.pcgamer.com/games/rpg/nighthawks-review-a-novel-vampire-rpg-thats-also-a-vampire-novels-worth-of-writing/",
-      "canonical": "pcgamer.com/games/rpg/nighthawks-review-a-novel-vampire-rpg-thats-also-a-vampire-novels-worth-of-writing",
-      "published_dt": "2026-09-22T10:01:00+06:00",
-      "published_date": "2026-09-22T10:01:00+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "Postcards from Bat Country.",
-      "image": "https://cdn.mos.cms.futurecdn.net/CTX4t93mDgJDzrW36ZwqZR-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-22T11:52:11.540711+06:00",
-      "last_seen": "2026-09-22T11:52:11.540718+06:00"
-    },
-    "polygon.com/anya-taylor-joy-the-witch-horror-heroine": {
-      "title": "Anya Taylor-Joy's Near-Perfect Breakout Folk Thriller Is Officially Leaving Netflix",
-      "url": "https://www.polygon.com/anya-taylor-joy-the-witch-horror-heroine/",
-      "canonical": "polygon.com/anya-taylor-joy-the-witch-horror-heroine",
-      "published_dt": "2026-09-22T11:00:15+06:00",
-      "published_date": "2026-09-22T11:00:15+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Anya Taylor-Joy's breakout role in The Witch gave horror a different kind of heroine. The Robert Eggers film leaves Netflix on Oct. 1.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdnemu_h3018.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-22T11:52:11.751087+06:00",
-      "last_seen": "2026-09-22T11:52:11.751093+06:00"
-    },
-    "polygon.com/stephen-king-the-running-man-arnold-schwarzenegger-streaming-free-youtube": {
-      "title": "Stephen King's Most Unhinged Sci-Fi Action Masterpiece Is Officially Free to Watch on YouTube",
-      "url": "https://www.polygon.com/stephen-king-the-running-man-arnold-schwarzenegger-streaming-free-youtube/",
-      "canonical": "polygon.com/stephen-king-the-running-man-arnold-schwarzenegger-streaming-free-youtube",
-      "published_dt": "2026-09-22T10:00:20+06:00",
-      "published_date": "2026-09-22T10:00:20+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Stephen King's 1982 novel was adapted a few years later into one of Arnold Schwarzenegger's campiest movies.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-running-man-5.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-22T11:52:11.751237+06:00",
-      "last_seen": "2026-09-22T11:52:11.751242+06:00"
-    },
-    "gamesradar.com/games/silent-hill/silent-hill-townfall-organ-box": {
-      "title": "How to open the organ box in Silent Hill Townfall",
-      "url": "https://www.gamesradar.com/games/silent-hill/silent-hill-townfall-organ-box/",
-      "canonical": "gamesradar.com/games/silent-hill/silent-hill-townfall-organ-box",
-      "published_dt": "2026-09-22T09:00:00+06:00",
-      "published_date": "2026-09-22T09:00:00+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "The Townfall organ box can only be opened once you've restored power and used the computer to get what you need",
-      "image": "https://cdn.mos.cms.futurecdn.net/WKtovyziyxNcHDGBtVF5Cf-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-22T11:52:12.225498+06:00",
-      "last_seen": "2026-09-22T11:52:12.225503+06:00"
-    },
-    "gamesradar.com/games/silent-hill/silent-hill-townfall-how-long-length": {
-      "title": "How long is Silent Hill Townfall?",
-      "url": "https://www.gamesradar.com/games/silent-hill/silent-hill-townfall-how-long-length/",
-      "canonical": "gamesradar.com/games/silent-hill/silent-hill-townfall-how-long-length",
-      "published_dt": "2026-09-22T09:00:00+06:00",
-      "published_date": "2026-09-22T09:00:00+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "It's not the longest game but completion times will depend on how brave you are",
-      "image": "https://cdn.mos.cms.futurecdn.net/TuVkVLb6gTHmmDZpmUPHSd-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-22T11:52:12.225625+06:00",
-      "last_seen": "2026-09-22T11:52:12.225628+06:00"
-    },
-    "gamesradar.com/games/silent-hill/silent-hill-townfall-door-dial-mechanism-hotel": {
-      "title": "How to open the Silent Hill Townfall door dial mechanism",
-      "url": "https://www.gamesradar.com/games/silent-hill/silent-hill-townfall-door-dial-mechanism-hotel/",
-      "canonical": "gamesradar.com/games/silent-hill/silent-hill-townfall-door-dial-mechanism-hotel",
-      "published_dt": "2026-09-22T09:00:00+06:00",
-      "published_date": "2026-09-22T09:00:00+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "How to open the Silent Hill Townfall door dial mechanism",
-      "image": "https://cdn.mos.cms.futurecdn.net/gHyNKCH5xoLscUk9hYeybP-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-22T11:52:12.225769+06:00",
-      "last_seen": "2026-09-22T11:52:12.225774+06:00"
-    },
-    "gamesradar.com/games/silent-hill/silent-hill-townfall-house-tv-location": {
-      "title": "silent hill townfall house tv location",
-      "url": "https://www.gamesradar.com/games/silent-hill/silent-hill-townfall-house-tv-location/",
-      "canonical": "gamesradar.com/games/silent-hill/silent-hill-townfall-house-tv-location",
-      "published_dt": "2026-09-22T09:00:00+06:00",
-      "published_date": "2026-09-22T09:00:00+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "Where to find the house on the TV in Silent Hill Townfall",
-      "image": "https://cdn.mos.cms.futurecdn.net/HzVG3VodWYHqcpdj34RwxL-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-22T11:52:12.225886+06:00",
-      "last_seen": "2026-09-22T11:52:12.225890+06:00"
-    },
-    "nintendolife.com/news/2026/09/final-fantasy-vii-revelation-includes-auto-level-up-option-for-players-who-skip-side-quests": {
-      "title": "Final Fantasy VII Revelation Includes Auto Level-Up Option For Players Who Skip Side Quests",
-      "url": "https://www.nintendolife.com/news/2026/09/final-fantasy-vii-revelation-includes-auto-level-up-option-for-players-who-skip-side-quests",
-      "canonical": "nintendolife.com/news/2026/09/final-fantasy-vii-revelation-includes-auto-level-up-option-for-players-who-skip-side-quests",
-      "published_dt": "2026-09-22T10:45:00+06:00",
-      "published_date": "2026-09-22T10:45:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Hamaguchi says it's a response to player feedback. If you don't want to do all the side content in the upcoming ARPG Final Fantasy VII Revelation , it seems there'll be a way to streamline the third and final chapter. During an interview with IGN Japan at the Tokyo Game Show, game director Naoki Hamaguchi has reportedly revealed an \"automatic level-up system\", which allows players to focus on the main story content and basically ignore side quests ( Genki via Push Square ). Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/0008d601458d7/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-22T11:52:13.407774+06:00",
-      "last_seen": "2026-09-22T11:52:13.407780+06:00"
-    },
-    "shacknews.com/article/150776/evening-reading-september-21-2026": {
-      "title": "Evening Reading - September 21, 2026 | Shacknews",
-      "url": "https://www.shacknews.com/article/150776/evening-reading-september-21-2026",
-      "canonical": "shacknews.com/article/150776/evening-reading-september-21-2026",
-      "published_dt": "2026-09-22T09:55:00+06:00",
-      "published_date": "2026-09-22T09:55:00+06:00",
-      "source": "Shacknews",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-09-22T11:52:23.951989+06:00",
-      "last_seen": "2026-09-22T11:52:23.951993+06:00"
     },
     "ign.com/articles/the-legend-of-zelda-movie-actress-posts-cryptic-tease-raising-hopes-for-an-imminent-trailer": {
       "title": "The Legend of Zelda Movie Actress Posts Cryptic Tease, Raising Hopes for an Imminent Trailer",
@@ -13353,6 +13160,183 @@
       "status": "pending",
       "first_seen": "2026-09-26T11:51:50.631862+06:00",
       "last_seen": "2026-09-26T11:51:50.631864+06:00"
+    },
+    "ign.com/articles/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation": {
+      "title": "Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
+      "url": "https://www.ign.com/articles/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
+      "canonical": "ign.com/articles/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
+      "published_dt": "2026-09-26T15:30:00+06:00",
+      "published_date": "2026-09-26T15:30:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "",
+      "image": "https://assets-prd.ignimgs.com/2026/09/24/anniversary-key-visual-1790261161812.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-26T16:51:26.872663+06:00",
+      "last_seen": "2026-09-26T16:51:26.872669+06:00"
+    },
+    "eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million": {
+      "title": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy",
+      "url": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
+      "canonical": "eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
+      "published_dt": "2026-09-26T16:18:58+06:00",
+      "published_date": "2026-09-26T16:18:58+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "A US District Judge has granted Nintendo a £3.4 million ($4.5m) default judgment against James Williams, the former Reddit moderator known online as \"Archbox\", after he failed to respond to a lawsuit over alleged Nintendo Switch piracy. Read more",
+      "image": "https://assetsio.gnwcdn.com/Mario-looks-shocked-on-a-grassy-plain-in-Mario-Odyssey.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-26T16:51:28.471589+06:00",
+      "last_seen": "2026-09-26T16:51:28.471596+06:00",
+      "posted_at": "2026-09-26T16:53:39.394639+06:00"
+    },
+    "pcgamer.com/games/rpg/former-starfield-designer-says-bethesdas-sci-fi-rpg-probably-wont-get-a-sequel-because-the-original-wasnt-anywhere-near-successful-enough": {
+      "title": "Former Starfield designer says Bethesda's sci-fi RPG probably won't get a sequel, because the original wasn't 'anywhere near successful enough'",
+      "url": "https://www.pcgamer.com/games/rpg/former-starfield-designer-says-bethesdas-sci-fi-rpg-probably-wont-get-a-sequel-because-the-original-wasnt-anywhere-near-successful-enough/",
+      "canonical": "pcgamer.com/games/rpg/former-starfield-designer-says-bethesdas-sci-fi-rpg-probably-wont-get-a-sequel-because-the-original-wasnt-anywhere-near-successful-enough",
+      "published_dt": "2026-09-26T16:43:02+06:00",
+      "published_date": "2026-09-26T16:43:02+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "\"It's, in a way, too bad\".",
+      "image": "https://cdn.mos.cms.futurecdn.net/EacnnGxHdaSRqxmso9vrwC-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-26T16:51:29.253050+06:00",
+      "last_seen": "2026-09-26T16:51:29.253056+06:00"
+    },
+    "polygon.com/farscape-tubi-free-to-watch-sci-fi-series": {
+      "title": "'Star Wars' Meets 'Firefly' in this 10/10 Sci-Fi Series That's Free on Streaming Right Now",
+      "url": "https://www.polygon.com/farscape-tubi-free-to-watch-sci-fi-series/",
+      "canonical": "polygon.com/farscape-tubi-free-to-watch-sci-fi-series",
+      "published_dt": "2026-09-26T16:13:14+06:00",
+      "published_date": "2026-09-26T16:13:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The original guardians of the galaxy",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/farscape-header.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-26T16:51:29.702168+06:00",
+      "last_seen": "2026-09-26T16:51:29.702172+06:00"
+    },
+    "polygon.com/classic-sci-fi-perfect-start-finish": {
+      "title": "5 Classic Sci-Fi Books That Are Perfect From Start to Finish",
+      "url": "https://www.polygon.com/classic-sci-fi-perfect-start-finish/",
+      "canonical": "polygon.com/classic-sci-fi-perfect-start-finish",
+      "published_dt": "2026-09-26T16:00:14+06:00",
+      "published_date": "2026-09-26T16:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "You won't be able to put down these exceptional sci-fi picks.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/dune-part-two-muad-dib.webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-26T16:51:29.702315+06:00",
+      "last_seen": "2026-09-26T16:51:29.702318+06:00"
+    },
+    "polygon.com/best-anime-like-frieren-to-watch-stream-cozy-fantasy": {
+      "title": "11 anime to watch if you like Frieren",
+      "url": "https://www.polygon.com/best-anime-like-frieren-to-watch-stream-cozy-fantasy/",
+      "canonical": "polygon.com/best-anime-like-frieren-to-watch-stream-cozy-fantasy",
+      "published_dt": "2026-09-26T14:04:15+06:00",
+      "published_date": "2026-09-26T14:04:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Find refuge in these cozy, fantastical worlds",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/26174007.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-26T16:51:29.702432+06:00",
+      "last_seen": "2026-09-26T16:51:29.702435+06:00"
+    },
+    "polygon.com/dropout-game-changer-sam-reich-interview-rulette-2026": {
+      "title": "Game Changer Fans Want More ‘Rulette,’ but Dropout CEO Sam Reich Isn't Convinced",
+      "url": "https://www.polygon.com/dropout-game-changer-sam-reich-interview-rulette-2026/",
+      "canonical": "polygon.com/dropout-game-changer-sam-reich-interview-rulette-2026",
+      "published_dt": "2026-09-26T14:00:14+06:00",
+      "published_date": "2026-09-26T14:00:14+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Polygon talks with Dropout CEO and Game Changer host Sam Reich about Rueltte and how he decides what games to turn into spinoff series.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/game-changer-s8-rulette-2.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-26T16:51:29.702563+06:00",
+      "last_seen": "2026-09-26T16:51:29.702567+06:00"
+    },
+    "gamesradar.com/hardware/gaming-controllers/gamesir-tarantula-8k-review": {
+      "title": "GameSir Tarantula 8K review: \"Responds to every twitchy movement and instinctive press\"",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/gamesir-tarantula-8k-review/",
+      "canonical": "gamesradar.com/hardware/gaming-controllers/gamesir-tarantula-8k-review",
+      "published_dt": "2026-09-26T14:00:00+06:00",
+      "published_date": "2026-09-26T14:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "It feels odd to be reviewing a revival of one of my favorite controllers, yet be pining for its original version.",
+      "image": "https://cdn.mos.cms.futurecdn.net/RmewfBace3zR44pmPWJQeW-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-26T16:51:30.354672+06:00",
+      "last_seen": "2026-09-26T16:51:30.354678+06:00"
+    },
+    "nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-26th-september": {
+      "title": "Talking Point: What Are You Playing This Weekend? (26th September)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-26th-september",
+      "canonical": "nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-26th-september",
+      "published_dt": "2026-09-26T15:00:00+06:00",
+      "published_date": "2026-09-26T15:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Hyrule beckons. Well folks, you made it through another week – well done! It's felt like a bit of a heavy one, with some world leaders shouting at each other, others hosting absurdly lavish dinner parties, and lots more discourse around AI, as always. Good job we've got games, eh? Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/3a0ae37bda6e8/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-26T16:51:31.850806+06:00",
+      "last_seen": "2026-09-26T16:51:31.850811+06:00"
+    },
+    "pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation": {
+      "title": "Feature: Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
+      "url": "https://www.pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
+      "canonical": "pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
+      "published_dt": "2026-09-26T15:30:00+06:00",
+      "published_date": "2026-09-26T15:30:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Gameplay tweaks, new maps, modes and even more content are coming to Delta Force. Delta Force’s mission has always been to incorporate player feedback to create the best experience possible for its players. As Delta Force players prepare for the free-to-play first-person tactical shooter’s second anniversary, the developers at Team Jade have been hard at work, listening to two years of player feedback as the game has evolved since its initial PC launch, since coming to mobile and Xbox Series X|S. The second-anniversary celebration kicks off September 26th, with daily tasks that offer players the chance to grab up to 3900 limited-time Delta Tickets, and new collectibles like a new legendary appearance for the AUG, called Golden State. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/aa867a028ef34/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-26T16:51:32.359524+06:00",
+      "last_seen": "2026-09-26T16:51:32.359551+06:00"
+    },
+    "escapistmagazine.com/spaceport-architect-freight-logistics": {
+      "title": "Spaceport Architect Puts Freight at the Heart of Colony Management",
+      "url": "https://www.escapistmagazine.com/spaceport-architect-freight-logistics/",
+      "canonical": "escapistmagazine.com/spaceport-architect-freight-logistics",
+      "published_dt": "2026-09-26T15:00:00+06:00",
+      "published_date": "2026-09-26T15:00:00+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "Spaceport Architect is a Steam PC management sim where freight logistics, passenger traffic and colony growth shape a new spaceport. The post Spaceport Architect Puts Freight at the Heart of Colony Management appeared first on The Escapist .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-26T16:51:33.993292+06:00",
+      "last_seen": "2026-09-26T16:51:33.993297+06:00"
     }
   },
   "events": {
@@ -30552,6 +30536,58 @@
           "headline": "Jagex Acknowledges Poor Visuals on Switch 2 Port of RuneScape: Dragonwilds",
           "claims": [
             "Port looks bad, improvements promised and eShop screenshots will be updated"
+          ]
+        }
+      ]
+    },
+    "evt_61ed9cd90af2b0": {
+      "event_id": "evt_61ed9cd90af2b0",
+      "event_key": "nintendo switch piracy legal judgment confirmed",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo switch piracy legal judgment confirmed",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "judgment",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Nintendo Switch",
+        "franchise": "Switch",
+        "institution": "Nintendo Co., Ltd.",
+        "target": "James Williams (Archbox)",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "copyright infringement"
+      },
+      "sources": [
+        "Eurogamer"
+      ],
+      "event_sources": [
+        "Eurogamer"
+      ],
+      "claims": [
+        "Reddit user ordered to pay £3.4 million for alleged Switch piracy"
+      ],
+      "importance_score": 45,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Nintendo Secures £3.4 million Judgment Against Reddit Pirate ‘Archbox’",
+      "summary": "A US judge awarded Nintendo £3.4 million after Reddit moderator James “Archbox” failed to answer a lawsuit alleging he ran a Switch piracy network.",
+      "published_at": "2026-09-26T16:18:58+06:00",
+      "selected_at": "2026-09-26T10:53:39.394674+00:00",
+      "status": "published",
+      "message_id": 501,
+      "published_versions": [
+        {
+          "published_at": "2026-09-26T10:53:39.394674+00:00",
+          "headline": "Nintendo Secures £3.4 million Judgment Against Reddit Pirate ‘Archbox’",
+          "claims": [
+            "Reddit user ordered to pay £3.4 million for alleged Switch piracy"
           ]
         }
       ]
@@ -121368,6 +121404,309 @@
         "total": 32
       },
       "last_seen": "2026-09-26T11:53:07.356597+06:00"
+    },
+    "evt_61ed9cd90af2b0": {
+      "event_id": "evt_61ed9cd90af2b0",
+      "event_key": "nintendo switch piracy legal judgment confirmed",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo switch piracy legal judgment confirmed",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "judgment",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Nintendo Switch",
+        "franchise": "Switch",
+        "institution": "Nintendo Co., Ltd.",
+        "target": "James Williams (Archbox)",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "copyright infringement"
+      },
+      "modality": "unknown",
+      "topic": "copyright infringement",
+      "institution": "Nintendo Co., Ltd.",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Reddit user ordered to pay £3.4 million for alleged Switch piracy"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-09-26T16:52:37.903195+06:00"
+    },
+    "evt_f73169cc3900e6": {
+      "event_id": "evt_f73169cc3900e6",
+      "event_key": "bethesda starfield sequel non confirmation rumor",
+      "event_subject": "Bethesda",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "bethesda starfield sequel non confirmation rumor",
+        "subject": "Bethesda",
+        "event_type": "other",
+        "action": "decline",
+        "status": "unconfirmed",
+        "modality": "unknown",
+        "game": "Starfield",
+        "franchise": "Starfield",
+        "institution": "Bethesda Softworks",
+        "target": "Starfield sequel",
+        "platforms": [
+          "PC",
+          "Xbox Series X|S"
+        ],
+        "topic": "sequel prospects"
+      },
+      "modality": "unknown",
+      "topic": "sequel prospects",
+      "institution": "Bethesda Softworks",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Starfield unlikely to receive a sequel due to insufficient commercial success"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-26T16:52:37.903221+06:00"
+    },
+    "evt_a3b23785412a60": {
+      "event_id": "evt_a3b23785412a60",
+      "event_key": "teamjade deltaforce second anniversary season update confirmed",
+      "event_subject": "Team Jade",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "teamjade deltaforce second anniversary season update confirmed",
+        "subject": "Team Jade",
+        "event_type": "other",
+        "action": "launch",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Delta Force",
+        "franchise": "Delta Force",
+        "institution": "Team Jade",
+        "target": "Delta Force season 2",
+        "platforms": [
+          "PC",
+          "Mobile",
+          "Xbox Series X|S"
+        ],
+        "topic": "game_update"
+      },
+      "modality": "unknown",
+      "topic": "game_update",
+      "institution": "Team Jade",
+      "sources": [
+        "IGN",
+        "Push Square"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "New season reorientation with maps, modes, and collectibles for Delta Force’s second anniversary",
+        "New season reorientation with maps, modes, and collectibles for Delta Force’s second anniversary"
+      ],
+      "importance_score": 43,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 43
+      },
+      "last_seen": "2026-09-26T16:52:37.903228+06:00"
+    },
+    "evt_8dacf1ebe2b1e3": {
+      "event_id": "evt_8dacf1ebe2b1e3",
+      "event_key": "gamesradar gamesir tarantula8k review informational",
+      "event_subject": "GamesRadar+",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gamesradar gamesir tarantula8k review informational",
+        "subject": "GamesRadar+",
+        "event_type": "other",
+        "action": "review",
+        "status": "informational",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "GameSir",
+        "institution": "GamesRadar+",
+        "target": "GameSir Tarantula 8K controller",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "modality": "unknown",
+      "topic": "hardware",
+      "institution": "GamesRadar+",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Review praises the controller’s responsiveness to twitchy movements"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 32
+      },
+      "last_seen": "2026-09-26T16:52:37.903234+06:00"
+    },
+    "evt_0d34038d0b05ae": {
+      "event_id": "evt_0d34038d0b05ae",
+      "event_key": "theescapist spaceportarchitect feature coverage informational",
+      "event_subject": "The Escapist",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "theescapist spaceportarchitect feature coverage informational",
+        "subject": "The Escapist",
+        "event_type": "other",
+        "action": "feature",
+        "status": "informational",
+        "modality": "unknown",
+        "game": "Spaceport Architect",
+        "franchise": "Spaceport Architect",
+        "institution": "The Escapist",
+        "target": "Spaceport Architect gameplay",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "game_feature"
+      },
+      "modality": "unknown",
+      "topic": "game_feature",
+      "institution": "The Escapist",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Spaceport Architect emphasizes freight logistics in colony management"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-09-26T16:52:37.903238+06:00"
+    },
+    "evt_5cdd1964ba321c": {
+      "event_id": "evt_5cdd1964ba321c",
+      "event_key": "polygon streaming sci fiseries recommendation informational",
+      "event_subject": "Polygon",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "polygon streaming sci fiseries recommendation informational",
+        "subject": "Polygon",
+        "event_type": "other",
+        "action": "recommend",
+        "status": "informational",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "Sci‑Fi series streaming",
+        "platforms": [],
+        "topic": "entertainment"
+      },
+      "modality": "unknown",
+      "topic": "entertainment",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "A 10/10 sci‑fi series is free to stream now",
+        "Five classic sci‑fi books are perfect reads",
+        "11 anime titles suggested for fans of Frieren",
+        "Sam Reich discusses fan demand for ‘Rulette’ and his stance on spinoff series"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 11,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-26T16:52:37.903242+06:00"
+    },
+    "evt_015f829c55a93c": {
+      "event_id": "evt_015f829c55a93c",
+      "event_key": "nintendolife weeklygamingtalk discussion informational",
+      "event_subject": "Nintendo Life",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendolife weeklygamingtalk discussion informational",
+        "subject": "Nintendo Life",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "informational",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Nintendo Life",
+        "target": "Weekend gaming lineup",
+        "platforms": [],
+        "topic": "gaming_culture"
+      },
+      "modality": "unknown",
+      "topic": "gaming_culture",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Talking point about games to play this weekend"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-26T16:52:37.903246+06:00"
     }
   },
   "posted_event_ids": [
@@ -121708,7 +122047,8 @@
     "evt_71dbfd353039f2",
     "evt_766e7427079155",
     "evt_e0c3eaf9bd146e",
-    "evt_bf3ddfba943e84"
+    "evt_bf3ddfba943e84",
+    "evt_61ed9cd90af2b0"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -122048,10 +122388,11 @@
     "microsoft ceo praises xbox layoffs amid asha sharma s corporate reset",
     "demacia cup global invitational kicks off with 12 top league of legends teams",
     "blizzard manually censors offensive names in world of warcraft forever beta",
-    "jagex acknowledges poor visuals on switch 2 port of runescape dragonwilds"
+    "jagex acknowledges poor visuals on switch 2 port of runescape dragonwilds",
+    "nintendo secures 3 4 million judgment against reddit pirate archbox"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-26T02:37:35.562507+06:00",
+    "Game Updates": "2026-09-26T16:53:39.394696+06:00",
     "Major Releases": "2026-09-22T00:41:53.097533+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
