@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"302a5-FP/Ir+u/xev0tcdT0RnV9/GaEL8\"",
+      "etag": "W/\"237e1-/gxdzSJxG5Hnbg2U2Sw3LQEiSNc\"",
       "last_modified": null,
-      "last_checked": "2026-09-26T02:15:54.149820+06:00",
+      "last_checked": "2026-09-26T11:51:48.621254+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-26T02:15:54.504743+06:00",
+      "last_checked": "2026-09-26T11:51:48.909184+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ab6d647-aa6\"",
-      "last_modified": "Fri, 25 Sep 2026 20:15:03 GMT",
-      "last_checked": "2026-09-26T02:15:54.999701+06:00",
+      "etag": "\"6ab75d0b-aa5\"",
+      "last_modified": "Sat, 26 Sep 2026 05:50:03 GMT",
+      "last_checked": "2026-09-26T11:51:49.277607+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Fri, 25 Sep 2026 19:02:39 GMT",
-      "last_checked": "2026-09-26T02:15:55.280031+06:00",
+      "last_checked": "2026-09-26T11:51:49.644856+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ab6c7e3-1264\"",
-      "last_modified": "Fri, 25 Sep 2026 19:13:39 GMT",
-      "last_checked": "2026-09-26T02:15:55.557853+06:00",
+      "etag": "\"6ab7547d-11d8\"",
+      "last_modified": "Sat, 26 Sep 2026 05:13:33 GMT",
+      "last_checked": "2026-09-26T11:51:49.921737+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-26T02:15:55.710886+06:00",
+      "last_checked": "2026-09-26T11:51:50.136306+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-26T02:15:56.153374+06:00",
+      "last_checked": "2026-09-26T11:51:50.626728+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"11cbeae74f9c179e0e7aa1b3ad6057d9\"",
-      "last_modified": "Fri, 25 Sep 2026 19:31:34 GMT",
-      "last_checked": "2026-09-26T02:15:56.338620+06:00",
+      "etag": "W/\"10a5897738ae20ed1d15b0d74ee83e80\"",
+      "last_modified": "Fri, 25 Sep 2026 21:00:43 GMT",
+      "last_checked": "2026-09-26T11:51:50.820741+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-26T02:15:56.493550+06:00",
+      "last_checked": "2026-09-26T11:51:50.984143+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Fri, 25 Sep 2026 18:59:12 GMT",
-      "last_checked": "2026-09-26T02:15:57.062068+06:00",
+      "last_checked": "2026-09-26T11:51:51.404935+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
       "last_modified": "Wed, 23 Sep 2026 19:26:58 GMT",
-      "last_checked": "2026-09-26T02:15:57.771200+06:00",
+      "last_checked": "2026-09-26T11:51:52.023369+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"0301c439d7f37bf1014e9128aaa1e440\"",
-      "last_modified": "Fri, 25 Sep 2026 19:41:22 GMT",
-      "last_checked": "2026-09-26T02:15:57.936226+06:00",
+      "etag": "W/\"5c8e256179eb50b93c2111168c1e2b3f\"",
+      "last_modified": "Fri, 25 Sep 2026 22:47:00 GMT",
+      "last_checked": "2026-09-26T11:51:52.883124+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-26T02:15:58.191599+06:00",
+      "last_checked": "2026-09-26T11:51:53.292737+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-26T02:15:58.631744+06:00",
+      "last_checked": "2026-09-26T11:51:53.620247+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-26T02:15:59.002525+06:00",
+      "last_checked": "2026-09-26T11:51:54.112633+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-26T02:15:59.155121+06:00",
-      "fail_count": 67,
+      "last_checked": "2026-09-26T11:51:54.426509+06:00",
+      "fail_count": 68,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"e35457cce6242ccea85bfa7188de414b\"",
-      "last_modified": "Fri, 25 Sep 2026 16:26:33 GMT",
-      "last_checked": "2026-09-26T02:15:59.217776+06:00",
+      "etag": "W/\"9e34f7c3667a2257a3999e01f40b5e3f\"",
+      "last_modified": "Sat, 26 Sep 2026 00:23:55 GMT",
+      "last_checked": "2026-09-26T11:51:54.645100+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-26T02:15:59.482151+06:00",
+      "last_checked": "2026-09-26T11:51:54.985631+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-26T02:15:59.677372+06:00",
-      "fail_count": 67,
+      "last_checked": "2026-09-26T11:51:55.123017+06:00",
+      "fail_count": 68,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"bab197822da3afe855ac34d4691392e8\"",
       "last_modified": "Fri, 25 Sep 2026 12:37:41 GMT",
-      "last_checked": "2026-09-26T02:15:59.793505+06:00",
+      "last_checked": "2026-09-26T11:51:55.964874+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -13305,6 +13305,54 @@
       "status": "pending",
       "first_seen": "2026-09-26T02:15:59.283155+06:00",
       "last_seen": "2026-09-26T02:15:59.283159+06:00"
+    },
+    "polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming-september-2026": {
+      "title": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
+      "url": "https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming-september-2026/",
+      "canonical": "polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming-september-2026",
+      "published_dt": "2026-09-26T11:07:15+06:00",
+      "published_date": "2026-09-26T11:07:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The CBS anthology series The Twilight Zone is one of the greatest science fiction shows ever made. Catch it while it's free to stream on Tubi.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/twilight-zone.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-26T11:51:50.631686+06:00",
+      "last_seen": "2026-09-26T11:51:50.631689+06:00"
+    },
+    "polygon.com/ridley-scott-blade-runner-final-cut-free-youtube-september-2026": {
+      "title": "Ridley Scott's Near-Perfect Sci-Fi Masterpiece is Officially Streaming on YouTube for Free",
+      "url": "https://www.polygon.com/ridley-scott-blade-runner-final-cut-free-youtube-september-2026/",
+      "canonical": "polygon.com/ridley-scott-blade-runner-final-cut-free-youtube-september-2026",
+      "published_dt": "2026-09-26T10:58:15+06:00",
+      "published_date": "2026-09-26T10:58:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "One of the best films in Ridley Scott's filmography and a key entry into the sci-fi canon is now free to stream on YouTube.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/blade-runner-3.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-26T11:51:50.631782+06:00",
+      "last_seen": "2026-09-26T11:51:50.631784+06:00"
+    },
+    "polygon.com/dark-matter-2015-canada": {
+      "title": "Apple's Smartest Sci-Fi Series Is No Match For This Canceled Cult Classic With the Same Name",
+      "url": "https://www.polygon.com/dark-matter-2015-canada/",
+      "canonical": "polygon.com/dark-matter-2015-canada",
+      "published_dt": "2026-09-26T10:00:20+06:00",
+      "published_date": "2026-09-26T10:00:20+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "No, you're not confused, there are two of these",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/dark-matter-2015-season-1-cast.JPG",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-26T11:51:50.631862+06:00",
+      "last_seen": "2026-09-26T11:51:50.631864+06:00"
     }
   },
   "events": {
@@ -121197,6 +121245,129 @@
         "total": 30
       },
       "last_seen": "2026-09-26T02:22:11.954424+06:00"
+    },
+    "evt_8579f6e38c7cf1": {
+      "event_id": "evt_8579f6e38c7cf1",
+      "event_key": "cbs s legendary 156 episode sci fi anthology series is officially free to watch on streaming other",
+      "event_subject": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "cbs s legendary 156 episode sci fi anthology series is officially free to watch on streaming other",
+        "subject": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
+        "franchise": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
+        "institution": "",
+        "target": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The CBS anthology series The Twilight Zone is one of the greatest science fiction shows ever made. Catch it while it's free to stream on Tubi."
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-26T11:53:07.356566+06:00"
+    },
+    "evt_4482094611898e": {
+      "event_id": "evt_4482094611898e",
+      "event_key": "ridley scott s near perfect sci fi masterpiece is officially streaming on youtube for free other",
+      "event_subject": "Ridley Scott's Near-Perfect Sci-Fi Masterpiece is Officially Streaming on YouTube for Free",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ridley scott s near perfect sci fi masterpiece is officially streaming on youtube for free other",
+        "subject": "Ridley Scott's Near-Perfect Sci-Fi Masterpiece is Officially Streaming on YouTube for Free",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Ridley Scott's Near-Perfect Sci-Fi Masterpiece is Officially Streaming on YouTube for Free",
+        "franchise": "Ridley Scott's Near-Perfect Sci-Fi Masterpiece is Officially Streaming on YouTube for Free",
+        "institution": "",
+        "target": "Ridley Scott's Near-Perfect Sci-Fi Masterpiece is Officially Streaming on YouTube for Free",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "One of the best films in Ridley Scott's filmography and a key entry into the sci-fi canon is now free to stream on YouTube."
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-26T11:53:07.356590+06:00"
+    },
+    "evt_71a90d970d004b": {
+      "event_id": "evt_71a90d970d004b",
+      "event_key": "apple s smartest sci fi series is no match for this canceled cult classic with the same name cancellation",
+      "event_subject": "Apple's Smartest Sci-Fi Series Is No Match For This Canceled Cult Classic With the Same Name",
+      "event_type": "cancellation",
+      "event_frame": {
+        "event_key": "apple s smartest sci fi series is no match for this canceled cult classic with the same name cancellation",
+        "subject": "Apple's Smartest Sci-Fi Series Is No Match For This Canceled Cult Classic With the Same Name",
+        "event_type": "cancellation",
+        "action": "cancellation",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Apple's Smartest Sci-Fi Series Is No Match For This Canceled Cult Classic With the Same Name",
+        "franchise": "Apple's Smartest Sci-Fi Series Is No Match For This Canceled Cult Classic With the Same Name",
+        "institution": "",
+        "target": "Apple's Smartest Sci-Fi Series Is No Match For This Canceled Cult Classic With the Same Name",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "No, you're not confused, there are two of these"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-26T11:53:07.356597+06:00"
     }
   },
   "posted_event_ids": [
