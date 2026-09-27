@@ -1,170 +1,151 @@
-# GamingNewsroomBot
+# Gaming News
 
-Production-oriented gaming news publisher for `@GamingNewsroom` using GitHub Actions, RSS, Google News, Exa, Cerebras, article extraction, verification, image fallback, and Telegram delivery.
+Simple, RSS-first gaming news publisher for `@GamingNewsroom`.
 
-## Operating model
+## Core design
 
 ```text
-20 primary gaming publications
+20 trusted gaming RSS sources
         ↓
-24-hour rolling discovery window
+24-hour new-article window
         ↓
-RSS + Google News + Exa gap fill
+URL + simple title deduplication
         ↓
-Deterministic gaming relevance filter
+up to 10 newest candidates
         ↓
-URL + event deduplication
+if fewer than 6: one Exa fallback search
         ↓
-Event identity + significance analysis
+article text / RSS excerpt
         ↓
-Evidence-backed importance ranking
+one Cerebras batch request for the candidate set
         ↓
-Top 10 backup events
+source-derived fallback for any missing AI result
         ↓
-Story generation / deterministic fallback
+6 publishable stories maximum
         ↓
-Numeric + claim checks
+article image → source logo → source name fallback
         ↓
-Live post validation
+Telegram Rich Message
         ↓
-First 6 valid stories
-        ↓
-Image resolution / publisher fallback
-        ↓
-Telegram
+save posted URLs
 ```
+
+The trusted RSS list is the editorial gate. The bot does not use AI to decide whether a story is important enough to publish.
 
 ## Publishing target
 
-The bot targets **6 valid posts per hourly run**. It first builds a backup slate of up to **10 events**, so a failed extraction, generation, verification, or image step does not consume a publication slot.
+- Maximum: **6 posts per hourly run**
+- Candidate recovery pool: **up to 10 newest articles**
+- Discovery window: **24 hours**
+- If fewer than 6 usable RSS articles exist, the bot makes **one Exa search** restricted to the trusted gaming domains.
+- If fewer than 6 articles exist after that search, the bot publishes whatever valid stories are available. It never invents stories to fill the target.
 
-A quiet news cycle is allowed to publish fewer than 6. The run is reported as `NO_PUBLISH` instead of being mislabeled healthy.
+## Cerebras design
 
-## Editorial score
+Cerebras is used only to format the selected source articles. The bot makes **at most one Cerebras request per run** and disables the SDK's automatic retries with `max_retries=0` so the bot does not enter a hidden retry loop. One batch request per hourly run is intentionally far below the documented request-per-minute limits; the Limits page in your Cerebras account is authoritative for your project.
 
-The event score combines:
+The current Cerebras Python SDK supports configurable retries and timeouts. The bot intentionally uses one bounded request and an immediate source-derived fallback when the request fails. See the official documentation:
 
-```text
-Intrinsic significance      0-50
-Coverage / corroboration    0-20
-Originality                 0-15
-Freshness                   0-10
-Source trust                0-10
-Material-update bonus        0-5
-```
+- https://github.com/Cerebras/cerebras-cloud-sdk-python
+- https://inference-docs.cerebras.ai/support/rate-limits
+- https://inference-docs.cerebras.ai/capabilities/structured-outputs
 
-Normal publication floor: **70/100**.
-
-Controlled soft floor: **60/100** only for strong event types with sufficient source trust and freshness when the high-score pool is insufficient.
-
-The score is not forced upward merely to fill six slots. The hard and soft thresholds are configured on the `EventEngine` instance, so the engine does not depend on unrelated module globals.
-
-## AI reliability
-
-Cerebras is routed through one guarded gateway:
+The request uses a strict JSON schema for:
 
 ```text
-Per-run AI budget: 24 API attempts
-Transient 408/409/429/5xx and httpx transport failures: bounded retry with backoff
-401/402/403: immediate circuit open
-Budget exhaustion: circuit open
-Circuit open: no further AI requests
+headline
+summary
+platform
+highlights[3-5]
+hashtags[1-3]
 ```
 
-The current Python SDK supports configuring `max_retries`, so the project disables its automatic retries and applies the bot's own bounded retry policy. This prevents hidden SDK retries from multiplying the run's request count. urlCerebras Python SDK retry documentationhttps://github.com/Cerebras/cerebras-cloud-sdk-python#handling-errors
+The AI request is only a formatting step; article selection remains deterministic and source-driven.
 
-When the AI circuit opens after event selection, the bot can use a source-derived deterministic story fallback for already selected, sufficiently important events. It does not invent unsupported game facts.
+## Exa fallback
 
-## Production validation
+Exa runs only when the trusted RSS pool has fewer than six new candidates.
 
-The same `validate_story()` function used by self-test is also executed on the live production path before Telegram delivery. It checks headline/summary presence, 3-5 highlights, incomplete text, and Markdown asterisks that would leak into the HTML message.
-The numeric-grounding guard canonicalizes magnitude notation before comparison. For example, `27M`, `27 mn`, `27 million`, and `27,000,000` are treated as the same magnitude, while different values or percentage-vs-number mismatches are rejected. Trusted source title/excerpt metadata is also available as numeric evidence when the extracted article body omits a value.
+The search is restricted to the same trusted gaming domains and the last 24 hours. The bot makes at most one Exa request in a run.
 
-## Discovery resilience
-
-The direct RSS universe contains the supplied 20 primary gaming publications. Google News and Exa provide gap filling. When primary coverage is thin, the bot performs an additional Exa pass against the same gaming domain universe rather than depending on one RSS feed being healthy.
-
-Known dead RSS endpoints are therefore not allowed to stop the discovery pipeline.
-
-## Source diversity
-
-Event selection prefers high-value distinct events and prevents the final slate from concentrating on the same game/title. The downstream publisher accepts the first 6 valid stories from the 10-event backup slate.
+- https://docs.exa.ai/reference/search
+- https://exa.ai/pricing
 
 ## Telegram output
 
 ```text
 Photo
-Headline
-1-sentence summary
-Platform quote
+
+HEADLINE
+
+1-sentence news summary
+
+> PlayStation • Xbox • PC Game • Mobile Game
+
 KEY HIGHLIGHTS
-3-5 bullets
-WHY IT MATTERS
-2-4 sentences
-WHAT'S NEXT
-expandable/collapsed block
-hashtags
-Source
+
+• Major fact
+• Major fact
+• Major fact
+• Major fact
 ```
+
+Highlights are dynamic: **3 to 5**.
+
+The message then contains contextual hashtags and:
+
+```text
+Source: Publication
+```
+
+The headline has no visible `#` prefix.
+
+The platform is rendered as a centered pull-quote using Telegram Rich Messages. Telegram's current Bot API supports `sendRichMessage`, headings, lists, pull-quotes, and photo blocks. A standard `sendPhoto` HTML fallback is also implemented so a temporary Rich Message failure does not automatically lose the post.
+
+Official Telegram documentation:
+
+- https://core.telegram.org/bots/api
+- https://core.telegram.org/bots/api-changelog
 
 ## Image fallback
 
+Image order:
+
 ```text
-Article/RSS image
-        ↓
-Article metadata image
-        ↓
-Exa image
-        ↓
-Publisher logo
-        ↓
-Publisher name fallback
+RSS/article image
+      ↓
+Article OG/Twitter image
+      ↓
+Publisher website logo
+      ↓
+Publisher name card
 ```
 
-Fallback cards never add a `Gaming News` title banner. `@GamingNewsroom` appears only as the lower-right channel brand chip.
+The fallback card shows the source logo, or the source name in the center when no logo is available. The `@GamingNewsroom` badge is kept in the lower-right corner. No generic channel-name text is added to the fallback card.
 
-## Required environment
+## State
+
+`posted_urls.txt` stores canonicalized URLs that have already been published. This prevents the same article from being posted again on a later hourly run.
+
+`news_state.json` stores lightweight feed and run statistics only.
+
+## Scheduling
+
+GitHub Actions runs every hour from **07:00 through 23:00 Asia/Dhaka** and also supports manual execution.
+
+Required GitHub Secrets:
 
 ```text
-EXA_API_KEY=...
-CEREBRAS_API_KEY=...
-TELEGRAM_BOT_TOKEN=...
+EXA_API_KEY
+CEREBRAS_API_KEY
+TELEGRAM_BOT_TOKEN
+```
+
+The workflow sets:
+
+```text
 TELEGRAM_CHANNEL=@GamingNewsroom
-NEWS_MODE=update
-```
-
-Optional tuning:
-
-```text
-PUBLISH_TARGET=6
-SELECTION_POOL_SIZE=10
-NEWS_WINDOW_HOURS=24
-MIN_IMPORTANCE_SCORE=70
-SOFT_IMPORTANCE_SCORE=60
-MAX_AI_CALLS_PER_RUN=24
-AI_MAX_RETRIES=2
-AI_RETRY_BASE_SECONDS=3
-```
-
-## GitHub Actions
-
-The included workflow runs hourly from **07:00 through 23:00 Asia/Dhaka** and also supports manual execution.
-
-Execution order:
-
-```text
-compile
-→ self-test
-→ production run
-→ save state
-```
-
-A green workflow does not automatically mean 6 posts were published. Read the final `RUN STATUS` line:
-
-```text
-HEALTHY    = target reached without AI circuit failure
-DEGRADED   = partial publication or AI degradation
-NO_PUBLISH = no story qualified and no AI circuit failure
+CEREBRAS_MODEL=gpt-oss-120b
 ```
 
 ## Local checks
@@ -172,10 +153,7 @@ NO_PUBLISH = no story qualified and no AI circuit failure
 ```bash
 python -m py_compile main.py
 python main.py --self-test
+python main.py --dry-run
 ```
 
-Normal execution:
-
-```bash
-python main.py
-```
+The self-test covers RSS-style candidate handling, URL/title deduplication, dynamic 3-5 highlights, Rich Message structure, image-fallback integration points, and the no-AI source fallback path.
