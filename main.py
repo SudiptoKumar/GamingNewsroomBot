@@ -480,6 +480,8 @@ Return exactly one item for every ID.
                 "franchise": _text(rep.get("franchise")) or _text(rep.get("game")),
                 "institution": _text(rep.get("institution")), "target": _text(rep.get("target")),
                 "platforms": rep.get("platforms", []), "topic": _text(rep.get("topic")) or "Gaming",
+                "ai_significance": int(rep.get("ai_significance", 0) or 0),
+                "ai_reason": _text(rep.get("ai_reason")),
             }
             output.append({
                 "cluster_id": f"evt_{hashlib.sha1(event_key.encode()).hexdigest()[:14]}",
@@ -875,28 +877,34 @@ STATE_FILE = "news_state.json"
 
 BD_TZ = ZoneInfo("Asia/Dhaka")
 
-# Gaming News Bot uses short-window event coverage and editorial selection.
-NEWS_WINDOW_HOURS = int(os.environ.get("NEWS_WINDOW_HOURS", "3"))
-if not 1 <= NEWS_WINDOW_HOURS <= 6:
-    raise ValueError("NEWS_WINDOW_HOURS must be between 1 and 6")
+# Production reliability configuration
+NEWS_WINDOW_HOURS = int(os.environ.get("NEWS_WINDOW_HOURS", "24"))
+if not 1 <= NEWS_WINDOW_HOURS <= 48:
+    raise ValueError("NEWS_WINDOW_HOURS must be between 1 and 48")
 DISCOVERY_LOOKBACK_HOURS = NEWS_WINDOW_HOURS
-MAX_POSTS_PER_RUN = int(os.environ.get("MAX_POSTS_PER_RUN", "20"))
+PUBLISH_TARGET = max(1, int(os.environ.get("PUBLISH_TARGET", "6")))
+SELECTION_POOL_SIZE = max(PUBLISH_TARGET, int(os.environ.get("SELECTION_POOL_SIZE", "10")))
+MIN_IMPORTANCE_SCORE = max(0, min(100, int(os.environ.get("MIN_IMPORTANCE_SCORE", "70"))))
 EVENT_IDENTITY_BATCH_SIZE = int(os.environ.get("EVENT_IDENTITY_BATCH_SIZE", "35"))
-EDITORIAL_EVENT_POOL_SIZE = int(os.environ.get("EDITORIAL_EVENT_POOL_SIZE", "50"))
-RANKING_POOL_SIZE = MAX_POSTS_PER_RUN
+MAX_EVENT_ANALYSIS_CANDIDATES = int(os.environ.get("MAX_EVENT_ANALYSIS_CANDIDATES", "70"))
+MAX_AI_CALLS_PER_RUN = int(os.environ.get("MAX_AI_CALLS_PER_RUN", "9"))
+CLAIM_VERIFY_LIMIT = int(os.environ.get("CLAIM_VERIFY_LIMIT", "1"))
+MAX_POSTS_PER_RUN = PUBLISH_TARGET
+EDITORIAL_EVENT_POOL_SIZE = SELECTION_POOL_SIZE
+RANKING_POOL_SIZE = SELECTION_POOL_SIZE
 
 # Reliability / quality
 POST_DELAY_SECONDS = 3.5
 ROLLING_DISCOVERY_HOURS = DISCOVERY_LOOKBACK_HOURS
 FUTURE_TOLERANCE_MINUTES = 10
-QUEUE_RETENTION_DAYS = 4
-EVENT_RETENTION_DAYS = 30
+QUEUE_RETENTION_DAYS = 5
+EVENT_RETENTION_DAYS = 45
 MAX_RSS_CANDIDATES = 240
 MAX_EXA_CANDIDATES = 60
 MAX_GOOGLE_NEWS_CANDIDATES = 40
 THIN_EXCERPT_CHARS = 150
 MAX_EXCERPT_ENRICH = 12
-MAX_SOURCE_PER_RUN = 99
+MAX_SOURCE_PER_RUN = 2
 MAX_RICH_CHARACTERS = 32768
 
 # Lightweight English stopwords used only by the conservative event/entity
@@ -929,10 +937,10 @@ RSS_FEEDS = [
     {"name": "Nintendo Life", "region": "Gaming", "url": "https://www.nintendolife.com/feeds/latest"},
     {"name": "Push Square", "region": "Gaming", "url": "https://www.pushsquare.com/feeds/latest"},
     {"name": "Pure Xbox", "region": "Gaming", "url": "https://www.purexbox.com/feeds/latest"},
-    {"name": "Shacknews", "region": "Gaming", "url": "https://www.shacknews.com/feed"},
+    {"name": "Shacknews", "region": "Gaming", "url": "https://www.shacknews.com/feed", "rss_enabled": False},
     {"name": "Siliconera", "region": "Gaming", "url": "https://www.siliconera.com/feed/"},
     {"name": "VG247", "region": "Gaming", "url": "https://www.vg247.com/feed"},
-    {"name": "TechRaptor", "region": "Gaming", "url": "https://techraptor.net/gaming/rss.xml"},
+    {"name": "TechRaptor", "region": "Gaming", "url": "https://techraptor.net/gaming/rss.xml", "rss_enabled": False},
     {"name": "The Escapist", "region": "Gaming", "url": "https://www.escapistmagazine.com/v2/feed/"},
 ]
 
@@ -1008,6 +1016,15 @@ SOURCE_NAMES = {
     "vg247.com": "VG247",
     "techraptor.net": "TechRaptor",
     "escapistmagazine.com": "The Escapist",
+    "blog.playstation.com": "PlayStation Blog",
+    "news.xbox.com": "Xbox Wire",
+    "nintendo.com": "Nintendo",
+    "steamcommunity.com": "Steam",
+    "rockstargames.com": "Rockstar Games",
+    "ea.com": "EA",
+    "ubisoft.com": "Ubisoft",
+    "news.blizzard.com": "Blizzard",
+    "bethesda.net": "Bethesda",
 }
 
 
@@ -1624,27 +1641,148 @@ DISCOVERY_TARGET_PER_REGION = 18
 # CLIENTS
 # ============================================================
 
-exa = Exa(
-    api_key=EXA_API_KEY
-)
+exa = Exa(api_key=EXA_API_KEY)
+try:
+    cerebras = Cerebras(api_key=CEREBRAS_API_KEY, max_retries=0)
+except TypeError:
+    cerebras = Cerebras(api_key=CEREBRAS_API_KEY)
 
-cerebras = Cerebras(
-    api_key=CEREBRAS_API_KEY
-)
+AI_GATE = {"available": True, "calls": 0, "failure": "", "claim_checks": 0}
 
+def _provider_status(exc):
+    status = getattr(exc, "status_code", None) or getattr(exc, "http_status", None)
+    text = str(exc).lower()
+    if status is None:
+        if "429" in text or "too many requests" in text or "rate limit" in text:
+            status = 429
+        elif "402" in text or "payment required" in text or "quota" in text:
+            status = 402
+        elif "401" in text or "unauthorized" in text:
+            status = 401
+        elif "403" in text or "forbidden" in text:
+            status = 403
+        elif "502" in text or "503" in text or "504" in text:
+            status = 503
+    return status
 
 def cerebras_create(**kwargs):
-    """Single AI gateway used by Gaming News Bot event selection and story generation."""
+    """Guarded Cerebras gateway. Provider failures stop further AI calls for the run."""
+    if not AI_GATE["available"]:
+        raise RuntimeError(f"Cerebras circuit open: {AI_GATE['failure'] or 'unavailable'}")
+    if AI_GATE["calls"] >= MAX_AI_CALLS_PER_RUN:
+        AI_GATE["available"] = False
+        AI_GATE["failure"] = f"AI call budget exhausted ({MAX_AI_CALLS_PER_RUN})"
+        raise RuntimeError(AI_GATE["failure"])
     kwargs.pop("model_name", None)
-    return cerebras.chat.completions.create(
-        model=CEREBRAS_MODEL,
-        **kwargs,
-    )
+    AI_GATE["calls"] += 1
+    try:
+        return cerebras.chat.completions.create(model=CEREBRAS_MODEL, **kwargs)
+    except Exception as exc:
+        status = _provider_status(exc)
+        if status in {401, 402, 403, 429, 500, 502, 503, 504}:
+            AI_GATE["available"] = False
+            AI_GATE["failure"] = f"HTTP {status}: {type(exc).__name__}"
+            logger.error("Cerebras circuit opened after provider failure: %s", AI_GATE["failure"])
+        raise
 
 
 # ============================================================
 # CANDIDATE FILTERING
 # ============================================================
+
+GAMING_POSITIVE_RE = re.compile(
+    r"\b(?:video game|video games|gaming|gameplay|game developer|game studio|game publisher|"
+    r"playstation|ps5|ps4|ps portal|xbox|series x|series s|nintendo|switch 2?|steam|steam deck|"
+    r"epic games|pc gaming|dlc|expansion|patch|update|multiplayer|live service|esports|anti[- ]cheat|"
+    r"game pass|console|handheld|release date|early access|beta|demo|cross[- ]play|crossplay|"
+    r"valve|sony interactive entertainment|microsoft gaming|rockstar games|ubisoft|ea|square enix|"
+    r"capcom|bandai namco|fromsoftware|bungie|take[- ]two|tencent)\b",
+    re.I,
+)
+GAMING_NEGATIVE_RE = re.compile(
+    r"\b(?:movie|movies|film|tv series|television|actor|actress|celebrity|singer|album|song|podcast|"
+    r"smartphone launch|laptop|headphones|earbuds|crypto|stock market|politics|election|"
+    r"review|reviews|walkthrough|guide|guides|opinion|editorial|preview|hands[- ]on)\b",
+    re.I,
+)
+MATERIAL_EVENT_RE = re.compile(
+    r"\b(?:announce|announced|reveals?|revealed|launch(?:es|ed)?|release(?:s|d)?|delay(?:s|ed)?|"
+    r"cancel(?:s|ed|lation)?|shutdown|shut down|closure|layoff|layoffs|acquir(?:es|ed)|merger|"
+    r"price|pricing|subscription|free play|outage|breach|hack|security|patch|update|expansion|dlc|"
+    r"beta|demo|early access|available|sales|sold|milestone|first gameplay)\b",
+    re.I,
+)
+
+def gaming_relevance_score(item):
+    text = f"{safe_text(item.get('title'))} {safe_text(item.get('excerpt'))}".strip()
+    if not text:
+        return 0
+    positive = len(GAMING_POSITIVE_RE.findall(text))
+    negative = len(GAMING_NEGATIVE_RE.findall(text))
+    if negative and negative >= positive and positive < 2:
+        return 0
+    return min(100, positive * 22 + min(3, len(MATERIAL_EVENT_RE.findall(text))) * 8)
+
+def gaming_relevant(item):
+    return gaming_relevance_score(item) >= 25
+
+def deterministic_significance(cluster):
+    text = " ".join([
+        safe_text(cluster.get("event_subject")), safe_text(cluster.get("event_type")),
+        safe_text(cluster.get("event_frame", {}).get("game")),
+        safe_text(cluster.get("representative", {}).get("title")),
+        safe_text(cluster.get("representative", {}).get("excerpt")),
+    ]).lower()
+    event_type = safe_text(cluster.get("event_type")).lower()
+    base = {
+        "acquisition": 43, "merger": 43, "platform_outage": 44, "security": 44,
+        "closure": 41, "layoff": 39, "cancellation": 40, "pricing": 38,
+        "platform_change": 39, "release": 36, "expansion": 34, "dlc": 32,
+        "delay": 34, "announcement": 31, "reveal": 30, "business": 30,
+        "milestone": 27, "esports": 25, "update": 23, "patch": 14,
+        "denial": 11, "rumor": 6, "review": 4, "other": 8,
+    }.get(event_type, 8)
+    boosts = 0
+    for marker, pts in [
+        ("million", 3), ("billion", 5), ("major", 3), ("massive", 3), ("worldwide", 3),
+        ("all players", 4), ("playstation network", 4), ("xbox live", 4), ("steam", 2),
+        ("game pass", 3), ("nintendo", 2), ("switch 2", 3), ("gta 6", 5),
+        ("grand theft auto vi", 5), ("minecraft", 3), ("fortnite", 3), ("call of duty", 3),
+    ]:
+        if marker in text:
+            boosts += pts
+    if "rumor" in text or "reportedly" in text or "speculation" in text:
+        boosts -= 5
+    return max(0, min(45, base + boosts))
+
+def deterministic_material_change(cluster, previous):
+    current_title = safe_text(cluster.get("representative", {}).get("title"))
+    previous_title = safe_text(previous.get("headline"))
+    if not current_title or not previous_title:
+        return False, "Missing continuity titles.", []
+    sim = title_similarity(current_title, previous_title)
+    current_text = " ".join([current_title, safe_text(cluster.get("representative", {}).get("excerpt"))])
+    if sim >= 0.93 and not MATERIAL_EVENT_RE.search(current_text):
+        return False, "Same event with no material change signal.", []
+    if MATERIAL_EVENT_RE.search(current_text) and sim < 0.90:
+        return True, "New material event signal in current coverage.", [current_title]
+    return False, "Repeat coverage withheld unless a clear material change is present.", []
+
+def shortlist_for_event_analysis(candidates):
+    ranked = []
+    for item in candidates:
+        x = dict(item)
+        rel = gaming_relevance_score(x)
+        dt = parse_datetime(x.get("published_date"))
+        age = max(0.0, (NOW_BD - dt).total_seconds() / 3600.0) if dt else 999.0
+        freshness = max(0, 100 - min(100, int(age * 4)))
+        tier = source_tier(safe_text(x.get("source")))
+        x["gaming_relevance_score"] = rel
+        x["pre_rank"] = rel * 2 + freshness + (5 - min(4, tier)) * 8 + min(20, len(safe_text(x.get("excerpt"))) // 80)
+        ranked.append(x)
+    ranked.sort(key=lambda x: (-x.get("pre_rank", 0), safe_text(x.get("title"))))
+    return ranked[:MAX_EVENT_ANALYSIS_CANDIDATES]
+
 
 BAD_PATH_RE = re.compile(
     r"/(opinion|editorial|sponsored|"
@@ -1686,6 +1824,9 @@ def candidate_basic_allowed(item):
     if BAD_TITLE_RE.search(
         title
     ):
+        return False
+
+    if not gaming_relevant(item):
         return False
 
     if not (
@@ -1822,6 +1963,12 @@ def queue_candidate(item):
 def fetch_rss_feed(
     feed_def,
 ):
+    if feed_def.get("rss_enabled", True) is False:
+        old = STATE["feeds"].get(feed_def["url"], {})
+        mark_feed_healthy(feed_def, old)
+        logger.info("RSS disabled for %s; search-only discovery remains active", feed_def["name"])
+        return 0
+
     url = feed_def["url"]
 
     old = STATE["feeds"].get(
@@ -2081,10 +2228,14 @@ PRIMARY_GAMING_DOMAINS = [
     "pushsquare.com", "purexbox.com", "shacknews.com", "siliconera.com",
     "vg247.com", "techraptor.net", "escapistmagazine.com",
 ]
-FALLBACK_GAMING_DOMAINS = []
+FALLBACK_GAMING_DOMAINS = [
+    "blog.playstation.com", "news.xbox.com", "nintendo.com",
+    "steamcommunity.com", "rockstargames.com", "ea.com",
+    "ubisoft.com", "news.blizzard.com", "bethesda.net",
+]
 ALL_PRIMARY_DOMAINS = PRIMARY_GAMING_DOMAINS
 ALL_FALLBACK_DOMAINS = FALLBACK_GAMING_DOMAINS
-ALL_ALLOWED_DOMAINS = ALL_PRIMARY_DOMAINS
+ALL_ALLOWED_DOMAINS = ALL_PRIMARY_DOMAINS + ALL_FALLBACK_DOMAINS
 
 def normalized_domain(url_or_source):
     raw = safe_text(url_or_source).lower()
@@ -2239,7 +2390,7 @@ def google_news_gap_fill(
                     "date_estimated": date_estimated,
                 }
 
-                if not primary_domain_allowed(real_url, region):
+                if not allowed_source_for_region(real_url, region):
                     continue
 
                 if not candidate_basic_allowed(
@@ -2371,14 +2522,154 @@ def queue_candidates_for_region(
 # Gaming News Bot EVENT INTELLIGENCE ENGINE
 # ============================================================
 
+EVENT_ANALYSIS_SCHEMA = {
+    "type": "object",
+    "properties": {"items": {"type": "array", "items": {
+        "type": "object",
+        "properties": {
+            "id": {"type": "integer", "minimum": 1}, "event_key": {"type": "string"},
+            "subject": {"type": "string"}, "event_type": {"type": "string"}, "action": {"type": "string"},
+            "status": {"type": "string"}, "modality": {"type": "string"}, "game": {"type": "string"},
+            "franchise": {"type": "string"}, "institution": {"type": "string"}, "target": {"type": "string"},
+            "platforms": {"type": "array", "items": {"type": "string"}, "maxItems": 8},
+            "claim": {"type": "string"}, "topic": {"type": "string"},
+            "significance": {"type": "integer", "minimum": 0, "maximum": 45}, "reason": {"type": "string"},
+        },
+        "required": ["id","event_key","subject","event_type","action","status","modality","game","franchise","institution","target","platforms","claim","topic","significance","reason"],
+        "additionalProperties": False,
+    }}},
+    "required": ["items"], "additionalProperties": False,
+}
+
+def _gaming_event_identify(self, candidates):
+    result = [dict(x) for x in candidates]
+    for start in range(0, len(result), self.batch_size):
+        batch = result[start:start + self.batch_size]
+        blocks = []
+        for i, item in enumerate(batch, 1):
+            blocks.append("\n".join([
+                f"ID: {i}", f"Title: {_text(item.get('title'))}", f"Source: {_text(item.get('source'))}",
+                f"Published: {_text(item.get('published_date'))}", f"Excerpt: {_text(item.get('excerpt'))[:1200]}",
+            ]))
+        system = """
+You are the event-analysis editor for a high-signal gaming newsroom.
+For every article identify the underlying real gaming event and score intrinsic significance from 0-45.
+Do not reward repetition or source count. Judge player/industry consequence, scale, platform reach,
+commercial impact and irreversibility. Routine patches, reviews, guides, opinions, promotions, weak rumors
+and niche items score low. Major releases, platform incidents, acquisitions, closures, layoffs, security
+incidents, major pricing changes, cancellations and important updates score higher. Keep rumor, denial and
+confirmed developments as distinct modalities. Return exactly one item for every ID.
+"""
+        try:
+            data = self._ai_json(system=system, user="\n\n".join(blocks), schema=EVENT_ANALYSIS_SCHEMA, name="gaming_event_analysis_v3", tokens=7000)
+            by_id = {int(x["id"]): x for x in data.get("items", [])}
+            for i, item in enumerate(batch, 1):
+                row = by_id.get(i) or _fallback_identity(item)
+                row["event_type"] = row.get("event_type") if row.get("event_type") in EVENT_TYPES else "other"
+                row["modality"] = row.get("modality") if row.get("modality") in MODALITIES else "unknown"
+                item.update(row)
+                item["ai_significance"] = max(0, min(45, int(row.get("significance", 0) or 0)))
+                item["ai_reason"] = _text(row.get("reason"))
+        except Exception as exc:
+            logger.warning("Event analysis batch failed; deterministic fallback: %s", type(exc).__name__)
+            for item in batch:
+                item.update(_fallback_identity(item))
+                item["ai_significance"] = deterministic_significance({"event_subject": item.get("subject"), "event_type": item.get("event_type"), "event_frame": item, "representative": item})
+                item["ai_reason"] = "Deterministic significance fallback."
+    return result
+
+def _gaming_history(self, clusters, previous_events):
+    for cluster in clusters:
+        event_id, previous, match_score = self.match_previous(cluster, previous_events)
+        cluster["previous_event_id"] = event_id
+        cluster["history_match_score"] = round(match_score, 3)
+        cluster["repeat_status"] = "new"; cluster["repeat_reason"] = ""; cluster["new_claims"] = []
+        if previous and match_score >= 0.74:
+            changed, reason, claims = deterministic_material_change(cluster, previous)
+            cluster["repeat_status"] = "material_update" if changed else "repeat"
+            cluster["repeat_reason"] = reason
+            cluster["new_claims"] = claims
+    return clusters
+
+def _gaming_score(self, clusters):
+    if not clusters: return []
+    for c in clusters:
+        representative = c.get("representative", {}) or {}
+        frame = c.get("event_frame", {}) or {}
+        significance = max(0, min(45, int(c.get("ai_significance", frame.get("ai_significance", representative.get("ai_significance", 0))) or 0)))
+        if not significance:
+            significance = deterministic_significance(c)
+        independent = _effective_independent_sources(c)
+        coverage = min(20, corroboration_score(independent))
+        originality = originality_score(c)
+        freshness = freshness_score(c.get("representative", {}).get("published_date"), self.now_dt)
+        trust = _source_trust(c.get("sources", []))
+        bonus = 5 if c.get("repeat_status") == "material_update" else 0
+        total = min(100, significance + coverage + originality + freshness + trust + bonus)
+        c.update({
+            "significance_score": significance, "coverage_score": coverage, "originality_score": originality,
+            "freshness_score": freshness, "source_trust_score": trust, "independent_source_count": independent,
+            "importance_score": total, "material_update_bonus": bonus,
+            "rank_reason": _text(c.get("ai_reason")) or _text(frame.get("ai_reason")) or "Deterministic event significance score.",
+            "claims": [a.get("claim") for a in c.get("articles", []) if _text(a.get("claim"))][:10],
+        })
+        c["editor_eligible"] = c.get("repeat_status") != "repeat" and total >= MIN_IMPORTANCE_SCORE
+        c["publishable"] = c["editor_eligible"]
+    clusters.sort(key=lambda c: (-c.get("importance_score",0), -c.get("freshness_score",0), -c.get("source_trust_score",0), c.get("event_subject", "")))
+    for rank, c in enumerate(clusters, 1): c["editor_rank"] = rank
+    return clusters
+
+def _gaming_diversify(self, clusters, max_posts=SELECTION_POOL_SIZE):
+    eligible = [c for c in clusters if c.get("editor_eligible")]
+    selected=[]; seen_games=set(); seen_events=set(); source_counts={}
+    available_source_count = len({
+        _text(x)
+        for c in eligible
+        for x in (c.get("sources",[]) or [c.get("representative",{}).get("source","")])
+        if _text(x)
+    })
+    source_cap = MAX_SOURCE_PER_RUN if available_source_count >= 4 else max(SELECTION_POOL_SIZE, MAX_SOURCE_PER_RUN)
+    for c in eligible:
+        game=_norm(c.get("event_frame",{}).get("game")); event_key=_norm(c.get("event_key"))
+        sources=[_text(x) for x in c.get("sources",[]) if _text(x)]
+        src=sources[0] if sources else _text(c.get("representative",{}).get("source"))
+        if event_key and event_key in seen_events: continue
+        if game and game in seen_games: continue
+        if src and source_counts.get(src,0) >= source_cap: continue
+        selected.append(c)
+        if event_key: seen_events.add(event_key)
+        if game: seen_games.add(game)
+        if src: source_counts[src]=source_counts.get(src,0)+1
+        if len(selected)>=max_posts: break
+    for rank,c in enumerate(selected,1):
+        c["slate_rank"]=rank; c["slate_score"]=c.get("importance_score",0); c["slate_selected"]=True; c["slate_reason"]=c.get("rank_reason","")
+    logger.info("DETERMINISTIC SLATE: eligible=%d selected=%d backup_pool=%d score_floor=%d", len(eligible), len(selected), max_posts, MIN_IMPORTANCE_SCORE)
+    return selected
+
+def _gaming_run(self, candidates, previous_events, max_posts=SELECTION_POOL_SIZE):
+    prepared=shortlist_for_event_analysis(candidates)
+    identified=self.identify(prepared)
+    clusters=self.cluster(identified)
+    clusters=self.history(clusters, previous_events)
+    clusters=self.score(clusters)
+    selected=self.diversify(clusters, max_posts=max_posts)
+    for c in selected: c["representative"]=choose_representative(c)
+    return selected, clusters
+
+EventEngine.identify=_gaming_event_identify
+EventEngine.history=_gaming_history
+EventEngine.score=_gaming_score
+EventEngine.diversify=_gaming_diversify
+EventEngine.run=_gaming_run
+
 EVENT_ENGINE = EventEngine(
     ai_create=cerebras_create,
     now_dt=NOW_BD,
     threshold=80,
     batch_size=EVENT_IDENTITY_BATCH_SIZE,
-    candidate_threshold=0,
-    publish_floor=0,
-    editorial_pool_size=EDITORIAL_EVENT_POOL_SIZE,
+    candidate_threshold=MIN_IMPORTANCE_SCORE,
+    publish_floor=MIN_IMPORTANCE_SCORE,
+    editorial_pool_size=SELECTION_POOL_SIZE,
 )
 
 
@@ -2570,6 +2861,13 @@ def extract_article(
             exc,
         )
 
+    # Last-resort source-feed evidence. This keeps a high-quality event alive
+    # when both local HTML extraction and Exa content extraction are unavailable.
+    excerpt_fallback = safe_text(item.get("excerpt"))
+    if len(excerpt_fallback) >= 180:
+        logger.warning("Article extraction unavailable; using source excerpt fallback: %s", item.get("title"))
+        return (excerpt_fallback[:12000], item.get("image", ""))
+
     return (
         "",
         item.get("image", ""),
@@ -2665,6 +2963,44 @@ def first_sentence(text):
     )
 
 
+def _infer_platform(item, article_text):
+    text=f"{safe_text(item.get('title'))} {safe_text(article_text[:4000])}".lower()
+    if re.search(r"\b(playstation|ps5|ps4|ps portal|sony)\b", text): return "PlayStation"
+    if re.search(r"\b(xbox|series x|series s|game pass)\b", text): return "Xbox"
+    if re.search(r"\b(android|ios|iphone|ipad|mobile game|google play|app store)\b", text) and not re.search(r"\bpc\b", text): return "Mobile Game"
+    return "PC Game"
+
+def _fallback_sentences(article_text, limit=8):
+    raw=re.sub(r"\s+"," ",safe_text(article_text)).strip()
+    if not raw: return []
+    parts=re.split(r"(?<=[.!?])\s+", raw); out=[]
+    for part in parts:
+        clean=clean_generated_text(part).strip()
+        if len(clean)>=45 and complete_text(clean): out.append(clean)
+        if len(out)>=limit: break
+    return out
+
+def deterministic_story_fallback(item, article_text):
+    title=clean_generated_text(item.get("title")) or "Gaming development reported"
+    sentences=_fallback_sentences(article_text,8)
+    summary=first_sentence(sentences[0] if sentences else safe_text(item.get("excerpt"))) or "The latest development was reported by the source publication."
+    highlights=[trim_source_text(x,130) for x in sentences[1:6]]
+    for extra in [safe_text(item.get("excerpt")), title]:
+        if len(highlights)>=3: break
+        extra=clean_generated_text(extra)
+        if extra and complete_text(extra) and extra not in highlights: highlights.append(trim_source_text(extra,130))
+    while len(highlights)<3: highlights.append("The source provides additional details on the development.")
+    event_type=safe_text(item.get("event_type")); game=safe_text(item.get("event_frame",{}).get("game")) or safe_text(item.get("event_subject"))
+    if event_type in {"release","update","patch","expansion","dlc"}:
+        why=f"The development directly affects players following {game or 'the game'}. It gives the audience a concrete change to track in the current release or update cycle."
+    elif event_type in {"acquisition","merger","closure","layoff","security","platform_outage","pricing"}:
+        why=f"The development has direct implications for {game or 'the gaming audience'} and the wider games industry. Its practical effects will depend on what the companies or platform owners do next."
+    else:
+        why=f"The development is relevant because it directly concerns {game or 'a current gaming event'}. Players and industry observers can use the reported details to track what changes next."
+    next_candidates=[x for x in sentences if re.search(r"\b(next|soon|later|coming|will|plans|expected|available|launch|release|update)\b",x,re.I)]
+    whats_next=" ".join(next_candidates[:2]) if next_candidates else "Watch the source publication and the relevant developer or platform for further updates."
+    return {**item,"headline":trim_source_text(title,110),"summary":trim_source_text(summary,260),"platform":_infer_platform(item,article_text),"highlights":highlights[:5],"why_it_matters":trim_source_text(why,520),"whats_next":trim_source_text(whats_next,260),"bold_terms":[],"ai_fallback":True}
+
 def generate_story(
     item,
     article_text,
@@ -2736,107 +3072,32 @@ Platform line
         f"SELECTED ARTICLE (use this as the factual source for the final post):\n{article_text[:12000]}"
     )
 
-    for attempt in range(3):
-        try:
-            response = cerebras.chat.completions.create(
-                model=CEREBRAS_MODEL,
-                messages=[
-                    {
-                        "role": "system",
-                        "content": prompt,
-                    },
-                    {
-                        "role": "user",
-                        "content": user,
-                    },
-                ],
-                response_format={
-                    "type": "json_schema",
-                    "json_schema": {
-                        "name": "gaming_news_story_v05_0",
-                        "strict": True,
-                        "schema": STORY_SCHEMA,
-                    },
-                },
-                reasoning_effort="low",
-                temperature=0.2,
-                max_completion_tokens=1400,
-            )
+    if not AI_GATE["available"]:
+        return deterministic_story_fallback(item, article_text)
 
-            data = json.loads(
-                safe_text(
-                    response.choices[0]
-                    .message
-                    .content
-                )
-            )
-
-            headline = clean_generated_text(
-                data.get(
-                    "headline"
-                )
-            )
-
-            summary = first_sentence(
-                data.get(
-                    "summary"
-                )
-            )
-
-            platform = safe_text(data.get("platform"))
-            if platform not in {"PlayStation", "Xbox", "PC Game", "Mobile Game"}:
-                raise ValueError("Invalid platform label")
-
-            highlights = [
-                clean_generated_text(x)
-                for x in data.get("highlights", [])
-                if clean_generated_text(x)
-            ]
-            if not (3 <= len(highlights) <= 5):
-                raise ValueError("Highlights must contain 3-5 points")
-
-            why_it_matters = clean_generated_text(data.get("why_it_matters"))
-            whats_next = clean_generated_text(data.get("whats_next"))
-            why_count = len(re.findall(r"(?<=[.!?])\s+", why_it_matters)) + (1 if why_it_matters and why_it_matters[-1] in ".!?" else 0)
-            next_count = len(re.findall(r"(?<=[.!?])\s+", whats_next)) + (1 if whats_next and whats_next[-1] in ".!?" else 0)
-            if not why_it_matters or not whats_next or not (2 <= why_count <= 4) or not (1 <= next_count <= 2):
-                raise ValueError("Invalid Why It Matters or What's Next")
-
-            if (
-                not headline
-                or not summary
-                or not complete_text(headline)
-                or not complete_text(summary)
-                or any(not complete_text(x) for x in highlights)
-                or not complete_text(why_it_matters)
-                or not complete_text(whats_next)
-            ):
-                raise ValueError("Incomplete story")
-
-            story = {
-                **item,
-                "headline": trim_source_text(headline, 110),
-                "summary": trim_source_text(summary, 260),
-                "platform": platform,
-                "highlights": [trim_source_text(x, 130) for x in highlights],
-                "why_it_matters": trim_source_text(why_it_matters, 520),
-                "whats_next": trim_source_text(whats_next, 260),
-                "bold_terms": [safe_text(x) for x in data.get("bold_terms", []) if safe_text(x)],
-            }
-
-            return story
-
-        except Exception as exc:
-            logger.warning(
-                "Story generation attempt %d failed: %s",
-                attempt + 1,
-                exc,
-            )
-
-            if attempt == 0:
-                time.sleep(1)
-
-    return None
+    try:
+        response = cerebras_create(
+            model_name=CEREBRAS_MODEL,
+            messages=[{"role":"system","content":prompt},{"role":"user","content":user}],
+            response_format={"type":"json_schema","json_schema":{"name":"gaming_news_story_v06","strict":True,"schema":STORY_SCHEMA}},
+            reasoning_effort="low", temperature=0.2, max_completion_tokens=1400,
+        )
+        data=json.loads(safe_text(response.choices[0].message.content))
+        headline=clean_generated_text(data.get("headline")); summary=first_sentence(data.get("summary"))
+        platform=safe_text(data.get("platform"))
+        if platform not in {"PlayStation","Xbox","PC Game","Mobile Game"}: raise ValueError("Invalid platform label")
+        highlights=[clean_generated_text(x) for x in data.get("highlights",[]) if clean_generated_text(x)]
+        if not (3<=len(highlights)<=5): raise ValueError("Highlights must contain 3-5 points")
+        why_it_matters=clean_generated_text(data.get("why_it_matters")); whats_next=clean_generated_text(data.get("whats_next"))
+        why_count=len(re.findall(r"(?<=[.!?])\s+",why_it_matters))+(1 if why_it_matters and why_it_matters[-1] in ".!?" else 0)
+        next_count=len(re.findall(r"(?<=[.!?])\s+",whats_next))+(1 if whats_next and whats_next[-1] in ".!?" else 0)
+        if not why_it_matters or not whats_next or not (2<=why_count<=4) or not (1<=next_count<=2): raise ValueError("Invalid context sections")
+        if (not headline or not summary or not complete_text(headline) or not complete_text(summary) or any(not complete_text(x) for x in highlights) or not complete_text(why_it_matters) or not complete_text(whats_next)):
+            raise ValueError("Incomplete story")
+        return {**item,"headline":trim_source_text(headline,110),"summary":trim_source_text(summary,260),"platform":platform,"highlights":[trim_source_text(x,130) for x in highlights],"why_it_matters":trim_source_text(why_it_matters,520),"whats_next":trim_source_text(whats_next,260),"bold_terms":[safe_text(x) for x in data.get("bold_terms",[]) if safe_text(x)],"ai_fallback":False}
+    except Exception as exc:
+        logger.warning("Story generation failed: %s", exc)
+        return deterministic_story_fallback(item, article_text)
 
 
 # ============================================================
@@ -3997,32 +4258,21 @@ Return only the JSON schema.
         + "\n\nGENERATED CLAIMS:\n- " + "\n- ".join(claims)
     )
 
+    if not AI_GATE["available"] or AI_GATE["calls"] >= MAX_AI_CALLS_PER_RUN or AI_GATE["claim_checks"] >= CLAIM_VERIFY_LIMIT:
+        return True, []
+    AI_GATE["claim_checks"] += 1
     try:
-        response = cerebras.chat.completions.create(
-            model=CEREBRAS_MODEL,
-            messages=[
-                {"role": "system", "content": prompt},
-                {"role": "user", "content": user},
-            ],
-            response_format={
-                "type": "json_schema",
-                "json_schema": {
-                    "name": "story_claim_verification",
-                    "strict": True,
-                    "schema": VERIFY_SCHEMA,
-                },
-            },
-            reasoning_effort="low",
-            temperature=0.0,
-            max_completion_tokens=500,
+        response = cerebras_create(
+            model_name=CEREBRAS_MODEL,
+            messages=[{"role":"system","content":prompt},{"role":"user","content":user}],
+            response_format={"type":"json_schema","json_schema":{"name":"story_claim_verification","strict":True,"schema":VERIFY_SCHEMA}},
+            reasoning_effort="low", temperature=0.0, max_completion_tokens=500,
         )
-        data = json.loads(safe_text(response.choices[0].message.content))
-        return bool(data.get("supported")), data.get("unsupported_claims", [])
+        data=json.loads(safe_text(response.choices[0].message.content))
+        return bool(data.get("supported")), data.get("unsupported_claims",[])
     except Exception as exc:
         logger.warning("Claim verification failed: %s", exc)
-        # Verification infrastructure failure must not silently become a hard drop.
-        # Numeric grounding remains mandatory; this pass is advisory on verifier outage.
-        return True, []
+        return False, ["verification_unavailable"]
 
 
 def process_story_candidate(item):
@@ -4078,30 +4328,15 @@ def process_story_candidate(item):
             bad_number,
         )
 
-        retry_story = generate_story(
-            {
-                **item,
-                "grounding_warning": bad_number,
-            },
-            article_text,
-        )
-
-        if not retry_story:
-            return None
-
-        retry_story["topic"] = canonical_topic(
-            retry_story.get("topic") or item.get("topic"),
+        # Do not spend another provider call on the same story. Rebuild the card
+        # directly from the verified source article, then run grounding again.
+        fallback_story = deterministic_story_fallback(item, article_text)
+        fallback_story["topic"] = canonical_topic(
+            fallback_story.get("topic") or item.get("topic"),
             region,
         )
-        retry_story["image_url"] = (
-            image_url
-            or item.get("image")
-        )
-
-        grounded_retry, _ = numeric_grounded(
-            retry_story,
-            article_text,
-        )
+        fallback_story["image_url"] = image_url or item.get("image")
+        grounded_retry, _ = numeric_grounded(fallback_story, article_text)
 
         if not grounded_retry:
             logger.warning(
@@ -4110,38 +4345,22 @@ def process_story_candidate(item):
             )
             return None
 
-        story = retry_story
+        story = fallback_story
 
-    verified, unsupported_claims = claims_grounded(story, article_text)
-    if not verified:
-        logger.warning(
-            "Claim verification failed: %s | claims=%s",
-            story.get("headline"),
-            unsupported_claims,
-        )
-
-        retry_story = generate_story(
-            {**item, "grounding_warning": ", ".join(unsupported_claims[:3])},
-            article_text,
-        )
-        if not retry_story:
-            return None
-
-        retry_story["topic"] = canonical_topic(
-            retry_story.get("topic") or item.get("topic"),
-            region,
-        )
-        retry_story["image_url"] = image_url or item.get("image")
-
-        grounded_retry, _ = numeric_grounded(retry_story, article_text)
-        if not grounded_retry:
-            return None
-
-        verified_retry, _ = claims_grounded(retry_story, article_text)
-        if not verified_retry:
-            logger.warning("DROP claim grounding: %s", story.get("headline"))
-            return None
-        story = retry_story
+    verified, unsupported_claims = (True, [])
+    if CLAIM_VERIFY_LIMIT > 0 and AI_GATE["available"] and AI_GATE["calls"] < MAX_AI_CALLS_PER_RUN and not story.get("ai_fallback"):
+        verified, unsupported_claims = claims_grounded(story, article_text)
+        if not verified:
+            logger.warning("Claim verification failed: %s | claims=%s", story.get("headline"), unsupported_claims)
+            # Avoid another AI generation call. Replace the generated card with a
+            # conservative source-derived version and re-ground it locally.
+            fallback_story = deterministic_story_fallback(item, article_text)
+            fallback_story["topic"] = canonical_topic(fallback_story.get("topic") or item.get("topic"), region)
+            fallback_story["image_url"] = image_url or item.get("image")
+            grounded_retry, _ = numeric_grounded(fallback_story, article_text)
+            if not grounded_retry:
+                return None
+            story = fallback_story
 
     story["topic"] = canonical_topic(
         story.get("topic") or item.get("topic"),
@@ -4263,10 +4482,8 @@ def available_candidates(region, source_pool=None):
 def prepare_ranked_region(region, candidates):
     """Build source-aware event groups, select one best unique story per subject, and prepare posts."""
     global EVENT_ENGINE
-    cleaned = hard_dedup([normalize_article(x) for x in candidates])
-    selected_clusters, all_clusters = EVENT_ENGINE.run(
-        cleaned, STATE.get("events", {}), max_posts=MAX_POSTS_PER_RUN
-    )
+    cleaned = hard_dedup([normalize_article(x) for x in candidates if gaming_relevant(x)])
+    selected_clusters, all_clusters = EVENT_ENGINE.run(cleaned, STATE.get("events", {}), max_posts=SELECTION_POOL_SIZE)
     persist_event_cluster_state(all_clusters)
     result = []
     for cluster in selected_clusters:
@@ -4312,7 +4529,7 @@ def prepare_ranked_region(region, candidates):
     logger.info(
         "EVENT PIPELINE: raw=%d unique_articles=%d unique_events=%d editor_pool=%d selected=%d max=%d",
         len(candidates), len(cleaned), len(all_clusters),
-        sum(1 for c in all_clusters if c.get("editor_eligible")), len(result), MAX_POSTS_PER_RUN
+        sum(1 for c in all_clusters if c.get("editor_eligible")), len(result), SELECTION_POOL_SIZE
     )
     for cluster in all_clusters[:15]:
         logger.info(
@@ -4341,15 +4558,15 @@ def process_ranked_region(region, ranked):
             item.get("event_subject", ""),
             story.get("headline", ""),
         )
-        if len(valid) >= MAX_POSTS_PER_RUN:
+        if len(valid) >= PUBLISH_TARGET:
             break
-    logger.info("FINAL VALID: %d | min_publish=%d | preferred=%d | max=%d", len(valid), 0, 80, MAX_POSTS_PER_RUN)
+    logger.info("FINAL VALID: %d | min_publish=%d | target=%d | backup_pool=%d", len(valid), MIN_IMPORTANCE_SCORE, PUBLISH_TARGET, SELECTION_POOL_SIZE)
     return valid
 
 def run():
     logger.info("GAMING NEWS BOT")
     logger.info("Channel=%s Mode=%s", TELEGRAM_CHANNEL, NEWS_MODE)
-    logger.info("NEWS WINDOW=%d hours | %s -> %s", DISCOVERY_LOOKBACK_HOURS, DISCOVERY_START.isoformat(), DISCOVERY_END.isoformat())
+    logger.info("NEWS WINDOW=%d hours | publish_target=%d | backup_pool=%d | score_floor=%d | %s -> %s", DISCOVERY_LOOKBACK_HOURS, PUBLISH_TARGET, SELECTION_POOL_SIZE, MIN_IMPORTANCE_SCORE, DISCOVERY_START.isoformat(), DISCOVERY_END.isoformat())
 
     prune_state()
     refresh_category_coverage()
@@ -4357,11 +4574,19 @@ def run():
 
     gaming_count = queue_candidates_for_region("Gaming")
     gaming_count += google_news_gap_fill("Gaming", gaming_count, DISCOVERY_TARGET_PER_REGION)
-    exa_gap_fill("Gaming", gaming_count, DISCOVERY_TARGET_PER_REGION)
+    exa_gap_fill("Gaming", gaming_count, DISCOVERY_TARGET_PER_REGION, fallback=False)
+    gaming_count = queue_candidates_for_region("Gaming")
+
+    # Fallback discovery is triggered not only by low volume but also by poor
+    # source diversity. This prevents one prolific feed from monopolizing a run.
+    preview_candidates = available_candidates("Gaming", source_pool=None)
+    preview_sources = {safe_text(x.get("source")) for x in preview_candidates if safe_text(x.get("source"))}
+    if gaming_count < SELECTION_POOL_SIZE * 2 or len(preview_sources) < 6:
+        exa_gap_fill("Gaming", gaming_count, SELECTION_POOL_SIZE, fallback=True)
 
     save_state(STATE)
 
-    candidates = available_candidates("Gaming", source_pool="primary")
+    candidates = available_candidates("Gaming", source_pool=None)
     logger.info("DISCOVERY CANDIDATES: GAMING=%d", len(candidates))
     covered = {safe_text(x.get("source")) for x in candidates}
     missing = [f["name"] for f in RSS_FEEDS if f["name"] not in covered]
@@ -4373,7 +4598,7 @@ def run():
     logger.info("SELECTED EVENTS: GAMING=%d", len(ranked))
 
     stories = process_ranked_region("Gaming", ranked)
-    logger.info("FINAL: GAMING=%d | safety_max=%d", len(stories), MAX_POSTS_PER_RUN)
+    logger.info("FINAL: GAMING=%d | target=%d | AI calls=%d | AI available=%s", len(stories), PUBLISH_TARGET, AI_GATE["calls"], AI_GATE["available"])
 
     published_count = 0
     for index, story in enumerate(stories, start=1):
@@ -4412,7 +4637,8 @@ def run():
         time.sleep(POST_DELAY_SECONDS)
 
     save_state(STATE)
-    logger.info("Finished. Published=%d", published_count)
+    status = "HEALTHY" if AI_GATE["available"] else "DEGRADED"
+    logger.info("RUN STATUS=%s | Published=%d | AI calls=%d | claim_checks=%d | AI failure=%s", status, published_count, AI_GATE["calls"], AI_GATE["claim_checks"], AI_GATE["failure"] or "none")
 
 
 # ============================================================
@@ -4420,125 +4646,118 @@ def run():
 # ============================================================
 
 def self_test():
-    """Offline Gaming News Bot regression suite for event intelligence and message safety."""
-    class FakeChoice:
-        def __init__(self, content):
-            self.message = type("M", (), {"content": json.dumps(content)})()
+    """Offline regression suite for the production reliability architecture."""
+    global AI_GATE
 
-    class FakeResponse:
-        def __init__(self, content):
-            self.choices = [FakeChoice(content)]
+    # Candidate relevance
+    assert gaming_relevant({"title": "PlayStation 5 update adds VRR support", "excerpt": "Sony adds a major gaming platform feature."})
+    assert not gaming_relevant({"title": "Actor joins new television series", "excerpt": "The celebrity discusses a new show."})
 
-    calls = {"identity": 0, "score": 0, "material": 0, "slate": 0}
-
-    def fake_ai_create(**kwargs):
-        name = kwargs["response_format"]["json_schema"]["name"]
-        blocks = kwargs["messages"][1]["content"].split("\n\n")
-        ids = [int(re.search(r"ID: (\d+)", b).group(1)) for b in blocks if re.search(r"ID: (\d+)", b)]
-        if name == "gaming_event_identity_v2":
-            calls["identity"] += 1
-            items = []
-            for i, block in zip(ids, blocks):
-                title_m = re.search(r"Title: (.+)", block)
-                title = title_m.group(1) if title_m else ""
-                if "Zelda" in title:
-                    row = {"event_key":"zelda ocarina remake announcement","subject":"Zelda Ocarina remake","event_type":"announcement","action":"announce","status":"current","modality":"confirmed","game":"Zelda Ocarina remake","franchise":"The Legend of Zelda","institution":"Nintendo","target":"remake","platforms":["Switch 2"],"claim":"Nintendo announced the remake","topic":"Nintendo"}
-                elif "GTA" in title:
-                    row = {"event_key":"gta 6 release update","subject":"GTA 6 release update","event_type":"release","action":"update","status":"current","modality":"confirmed","game":"GTA 6","franchise":"Grand Theft Auto","institution":"Rockstar Games","target":"release","platforms":["PS5"],"claim":"GTA 6 release information","topic":"Major Releases"}
-                else:
-                    row = {"event_key":"minor patch","subject":"Minor patch","event_type":"patch","action":"patch","status":"current","modality":"confirmed","game":"Small game","franchise":"Small game","institution":"Indie","target":"patch","platforms":["PC"],"claim":"Minor patch","topic":"Game Updates"}
-                items.append({"id": i, **row})
-            return FakeResponse({"items":items})
-        if name == "gaming_significance_v2":
-            calls["score"] += 1
-            return FakeResponse({"items":[{"id":i,"significance":45 if i == 1 else 8,"reason":"Major event" if i == 1 else "Routine item"} for i in ids]})
-        if name == "gaming_material_change_v2":
-            calls["material"] += 1
-            return FakeResponse({"same_event":True,"material_change":False,"new_claims":[],"reason":"No material development"})
-        if name == "gaming_editorial_slate":
-            calls["slate"] += 1
-            # AI deliberately proposes two same-franchise stories plus an independent story.
-            # The Python hard guard must keep the strongest Zelda story and the independent story.
-            return FakeResponse({
-                "selected_ids": [1, 2, 3],
-                "decisions": [
-                    {"id": 1, "decision": "select", "reason": "Highest-value Zelda story."},
-                    {"id": 2, "decision": "select", "reason": "AI proposal; should be rejected by the hard diversity guard."},
-                    {"id": 3, "decision": "select", "reason": "Independent high-value story."},
-                ],
-            })
-        raise AssertionError(name)
-
-    now = NOW_BD
-    candidates = [
-        {"title":"Zelda remake announced","url":"https://ign.com/zelda","canonical":"ign.com/zelda","source":"IGN","region":"Gaming","excerpt":"Nintendo announces the remake.","published_date":now.isoformat(),"first_seen_at":now.isoformat()},
-        {"title":"Zelda remake screenshots revealed","url":"https://vgc.news/zelda","canonical":"vgc.news/zelda","source":"VGC","region":"Gaming","excerpt":"New screenshots of the remake.","published_date":now.isoformat(),"first_seen_at":now.isoformat()},
-        {"title":"Small indie patch released","url":"https://ign.com/patch","canonical":"ign.com/patch","source":"IGN","region":"Gaming","excerpt":"A minor routine patch.","published_date":now.isoformat(),"first_seen_at":now.isoformat()},
+    # Deterministic significance + hard floor
+    now = NOW_BD.isoformat()
+    sample_clusters = [
+        {
+            "event_subject": "Major PlayStation security breach",
+            "event_type": "security",
+            "event_frame": {"game": "PlayStation Network"},
+            "representative": {"title": "PlayStation security breach affects accounts", "excerpt": "A major security incident affects players." ,"published_date": now},
+            "sources": ["IGN", "VGC"], "articles": [{"source":"IGN","title":"PlayStation security breach affects accounts","published_date":now,"first_seen_at":now}],
+            "repeat_status": "new", "ai_significance": 40, "event_key": "psn-security"
+        },
+        {
+            "event_subject": "Routine cosmetic patch",
+            "event_type": "patch",
+            "event_frame": {"game": "Small Game"},
+            "representative": {"title": "Small patch fixes cosmetic issues", "excerpt": "A routine patch fixes a few bugs.","published_date": now},
+            "sources": ["Polygon"], "articles": [{"source":"Polygon","title":"Small patch fixes cosmetic issues","published_date":now,"first_seen_at":now}],
+            "repeat_status": "new", "ai_significance": 8, "event_key": "small-patch"
+        },
     ]
-    engine = EventEngine(fake_ai_create, now, threshold=80, batch_size=35)
-    selected, all_clusters = engine.run(candidates, {}, max_posts=20)
-    assert len(all_clusters) == 2, all_clusters
-    zelda = next(c for c in all_clusters if c["event_subject"] == "Zelda Ocarina remake")
-    assert len(zelda["articles"]) == 2
-    assert zelda["importance_score"] >= 0
-    assert len(selected) == 2  # one Zelda title + one independent title
-    assert calls["identity"] == 1 and calls["score"] == 1 and calls["slate"] == 1
 
-    # Explicit editorial-slate regression: two stories for the same game/title must not occupy the same slate.
-    frame = lambda game, franchise, topic, event_type: {
-        "game": game, "franchise": franchise, "institution": "Nintendo",
-        "event_type": event_type, "action": "announce", "target": game, "modality": "confirmed"
-    }
-    slate_candidates = [
-        {"cluster_id":"z1","event_key":"zelda-concert","event_subject":"Zelda concert","event_frame":frame("Zelda","The Legend of Zelda","Zelda","announcement"),"event_type":"announcement","topic":"Zelda 40th","modality":"confirmed","importance_score":91,"publishable":True,"editor_eligible":True,"representative":{},"sources":["VGC"],"articles":[{}]},
-        {"cluster_id":"z2","event_key":"zelda-remake","event_subject":"Zelda remake","event_frame":frame("Zelda","The Legend of Zelda","Zelda","reveal"),"event_type":"reveal","topic":"Zelda 40th","modality":"confirmed","importance_score":86,"publishable":True,"editor_eligible":True,"representative":{},"sources":["IGN"],"articles":[{}]},
-        {"cluster_id":"g1","event_key":"gta6","event_subject":"GTA 6 update","event_frame":frame("GTA 6","Grand Theft Auto","GTA 6","update"),"event_type":"update","topic":"Major Releases","modality":"confirmed","importance_score":84,"publishable":True,"editor_eligible":True,"representative":{},"sources":["GameSpot"],"articles":[{}]},
-    ]
-    slate = engine.diversify(slate_candidates, max_posts=20)
-    assert [c["cluster_id"] for c in slate] == ["z1", "g1"]
+    old_gate = dict(AI_GATE)
+    AI_GATE = {"available": False, "calls": 0, "failure": "test provider failure", "claim_checks": 0}
+    scored = _gaming_score(EVENT_ENGINE, [dict(x) for x in sample_clusters])
+    assert scored[0]["importance_score"] >= MIN_IMPORTANCE_SCORE
+    assert scored[1]["importance_score"] < MIN_IMPORTANCE_SCORE
+    selected = _gaming_diversify(EVENT_ENGINE, scored, max_posts=SELECTION_POOL_SIZE)
+    assert [x["event_subject"] for x in selected] == ["Major PlayStation security breach"]
 
-    previous = {
-        "evt_old": {
-            "event_id":"evt_old", "status":"published", "event_key":"zelda ocarina remake announcement",
-            "event_subject":"Zelda Ocarina remake",
-            "event_frame":{"game":"Zelda Ocarina remake","event_type":"announcement","institution":"Nintendo","action":"announce","target":"remake","modality":"confirmed"},
-            "headline":"Zelda remake", "summary":"Nintendo announced it", "claims":["Nintendo announced the remake"]
-        }
+    fallback_score_cluster = {
+        "event_subject": "Major GTA 6 release announcement",
+        "event_type": "release",
+        "event_frame": {"game": "GTA 6"},
+        "representative": {"title": "GTA 6 major release announcement", "excerpt": "GTA 6 launches worldwide this month.", "published_date": now},
+        "sources": ["IGN"],
+        "articles": [{"source":"IGN","title":"GTA 6 major release announcement","published_date":now,"first_seen_at":now}],
+        "repeat_status": "new",
+        "ai_significance": 0,
+        "event_key": "gta6-release",
     }
-    selected2, clusters2 = engine.run([candidates[1]], previous, max_posts=20)
-    assert selected2 == []
-    assert clusters2[0]["repeat_status"] == "repeat"
+    fallback_scored = _gaming_score(EVENT_ENGINE, [fallback_score_cluster])[0]
+    assert fallback_scored["importance_score"] >= MIN_IMPORTANCE_SCORE
 
-    sample = {
-        "headline":"**Major Game Expansion**", "summary":"The **expansion** adds content.",
-        "platform":"PlayStation", "highlights":["**PlayStation** gets the expansion.","Players receive a new campaign.","The update adds new systems."],
-        "why_it_matters":"The **update** adds important content.", "whats_next":"Watch for **more details**.",
-        "importance_score":90
-    }
-    ok, errors = validate_story(sample)
-    assert not ok and "markdown_asterisk" in errors
-    rendered = dynamic_rich_html({**sample, "bold_terms":["PlayStation","expansion"], "source":"IGN", "url":"https://example.com/story", "region":"Gaming", "topic":"Expansions and DLC", "institution":"Sony"})
+    # Deterministic fallback story must satisfy the public-schema constraints.
+    fallback = deterministic_story_fallback(
+        {"title":"PlayStation update adds VRR", "source":"IGN", "region":"Gaming", "event_type":"platform_change", "event_subject":"PlayStation update", "event_frame":{"game":"PlayStation"}, "excerpt":"Sony announced a new VRR feature for players. The update arrives this week. More details will follow."},
+        "Sony announced a new VRR feature for players. The update arrives this week. More details will follow. The company also described additional compatibility changes for supported displays.",
+    )
+    ok, errors = validate_story(fallback)
+    assert ok, errors
+    assert 3 <= len(fallback["highlights"]) <= 5
+
+    # Dynamic highlights and renderer.
+    rendered = dynamic_rich_html({**fallback, "source":"IGN", "url":"https://ign.com/example", "topic":"PlayStation"})
+    assert "WHY IT MATTERS" in rendered and "WHAT'S NEXT" in rendered
+    assert "<aside>" in rendered
     assert "*" not in rendered
-    assert "WHY IT MATTERS" in rendered
-    assert "WHAT'S NEXT" in rendered
-    assert "<aside>PlayStation</aside>" in rendered
-    assert canonical_url("https://www.example.com/story/?utm_source=x") == "example.com/story"
 
-    # Image fallback regression: no article image must use publisher identity,
-    # never the generic "Gaming News" banner.
-    fallback_story = {"source": "Polygon", "url": "https://www.polygon.com/example-story"}
-    logo = Image.new("RGBA", (420, 180), (255, 255, 255, 255))
-    fallback_logo_card = source_logo_card(fallback_story, logo=logo)
-    assert fallback_logo_card.size == (1200, 675)
+    # AI circuit breaker: quota failure stops future calls.
+    class BrokenAI:
+        def __init__(self): self.calls=0
+        def create(self, **kwargs):
+            self.calls += 1
+            raise RuntimeError("Error code: 429 Too Many Requests")
+    broken = BrokenAI()
+    old_create = globals().get("cerebras")
+    old_gate = dict(AI_GATE)
+    try:
+        class C: pass
+        c=C(); c.chat=C(); c.chat.completions=broken
+        globals()["cerebras"] = c
+        AI_GATE = {"available": True, "calls": 0, "failure": "", "claim_checks": 0}
+        try:
+            cerebras_create(messages=[], response_format={})
+        except Exception:
+            pass
+        assert AI_GATE["available"] is False
+        assert AI_GATE["calls"] == 1
+        try:
+            cerebras_create(messages=[], response_format={})
+        except Exception:
+            pass
+        assert AI_GATE["calls"] == 1
+    finally:
+        globals()["cerebras"] = old_create
+        AI_GATE = old_gate
 
-    # Source-name fallback must render without the old channel-title banner.
-    source_only_card = source_logo_card({"source": "Polygon"}, logo=None)
-    assert source_only_card.size == (1200, 675)
+    # Image fallback regressions.
+    logo = Image.new("RGBA", (420, 180), (255,255,255,255))
+    card = source_logo_card({"source":"Polygon"}, logo=logo)
+    assert card.size == (1200,675)
+    source_only = source_logo_card({"source":"Polygon"}, logo=None)
+    assert source_only.size == (1200,675)
     image_source = Path(__file__).read_text(encoding="utf-8")
-    prepare_block = image_source.split("def prepare_image(", 1)[1].split("# TELEGRAM RICH MESSAGES", 1)[0]
+    prepare_block = image_source.split("def prepare_image(",1)[1].split("# TELEGRAM RICH MESSAGES",1)[0]
     assert '"Gaming News"' not in prepare_block
 
-    logger.info("Gaming News Bot self-test passed. Calls: %s", calls)
+    # Configuration invariants.
+    assert NEWS_WINDOW_HOURS >= 24
+    assert PUBLISH_TARGET == 6
+    assert SELECTION_POOL_SIZE == 10
+    assert MIN_IMPORTANCE_SCORE == 70
+    assert MAX_SOURCE_PER_RUN == 2
+
+    logger.info("Gaming News Bot production self-test passed. AI circuit, fallback, scoring, dynamic highlights and image fallback are healthy.")
 
 
 def visible_text_for_test(
