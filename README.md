@@ -1,159 +1,113 @@
-# Gaming News
+# Gaming News Bot
 
-Simple, RSS-first gaming news publisher for `@GamingNewsroom`.
+A single-provider Telegram gaming news bot built around short-window discovery, event grouping, representative coverage selection, and editorial publishing.
 
-## Core design
+## Core method
 
 ```text
-20 trusted gaming RSS sources
+20 configured gaming websites
         ↓
-24-hour new-article window
+1–6 hour news window (default: 3h)
         ↓
-URL + simple title deduplication
+Check every configured source
         ↓
-up to 10 newest candidates
+Normalize + hard deduplicate
         ↓
-if fewer than 6: one Exa fallback search
+Group articles by the underlying news event
         ↓
-article text / RSS excerpt
+100+ articles about one development
+        → 1 event group
         ↓
-one Cerebras batch request for the candidate set
+Choose the best representative coverage
         ↓
-source-derived fallback for any missing AI result
+Cerebras editorial selection
         ↓
-6 publishable stories maximum
+Avoid duplicate coverage of the same game/event/topic
         ↓
-article image → source logo → source name fallback
+Evidence + post validation
         ↓
-Telegram Rich Message
-        ↓
-save posted URLs
+Telegram
 ```
 
-The trusted RSS list is the editorial gate. The bot does not use AI to decide whether a story is important enough to publish.
+The bot has **no fixed publishing quota**. It can publish zero to `MAX_POSTS_PER_RUN` stories. The ceiling is a safety limit, not a target.
 
-## Publishing target
+## Selection rules
 
-- Maximum: **6 posts per hourly run**
-- Candidate recovery pool: **up to 10 newest articles**
-- Discovery window: **24 hours**
-- If fewer than 6 usable RSS articles exist, the bot makes **one Exa search** restricted to the trusted gaming domains.
-- If fewer than 6 articles exist after that search, the bot publishes whatever valid stories are available. It never invents stories to fill the target.
+* Every configured publication is checked for the active short window.
+* `NEWS_WINDOW_HOURS` is configurable from 1 to 6 hours. Default: 3 hours.
+* Articles covering the same underlying development are consolidated into one event group.
+* Twenty sites reporting the same GTA 6 development can therefore become one event group and produce at most one post for that event.
+* Different developments involving the same game remain separate events, while the final slate avoids unnecessary same-game/topic concentration.
+* The editorial decision is based on audience value, importance, freshness, originality, impact, source quality, and evidence quality rather than one hard numeric score.
+* Deterministic Python rules enforce deduplication, repeat protection, diversity, grounding, and Telegram safety after the AI decision.
+* Cerebras is the only AI provider. There is no multi-provider router.
 
-## Cerebras design
-
-Cerebras is used only to format the selected source articles. The bot makes **at most one Cerebras request per run** and disables the SDK's automatic retries with `max_retries=0` so the bot does not enter a hidden retry loop. One batch request per hourly run is intentionally far below the documented request-per-minute limits; the Limits page in your Cerebras account is authoritative for your project.
-
-The current Cerebras Python SDK supports configurable retries and timeouts. The bot intentionally uses one bounded request and an immediate source-derived fallback when the request fails. See the official documentation:
-
-- https://github.com/Cerebras/cerebras-cloud-sdk-python
-- https://inference-docs.cerebras.ai/support/rate-limits
-- https://inference-docs.cerebras.ai/capabilities/structured-outputs
-
-The request uses a strict JSON schema for:
+## Configuration
 
 ```text
-headline
-summary
-platform
-highlights[3-5]
-hashtags[1-3]
-```
-
-The AI request is only a formatting step; article selection remains deterministic and source-driven.
-
-## Exa fallback
-
-Exa runs only when the trusted RSS pool has fewer than six new candidates.
-
-The search is restricted to the same trusted gaming domains and the last 24 hours. The bot makes at most one Exa request in a run.
-
-- https://docs.exa.ai/reference/search
-- https://exa.ai/pricing
-
-## Telegram output
-
-```text
-Photo
-
-HEADLINE
-
-1-sentence news summary
-
-> PlayStation • Xbox • PC Game • Mobile Game
-
-KEY HIGHLIGHTS
-
-• Major fact
-• Major fact
-• Major fact
-• Major fact
-```
-
-Highlights are dynamic: **3 to 5**.
-
-The message then contains contextual hashtags and:
-
-```text
-Source: Publication
-```
-
-The headline has no visible `#` prefix.
-
-The platform is rendered as a centered pull-quote using Telegram Rich Messages. Telegram's current Bot API supports `sendRichMessage`, headings, lists, pull-quotes, and photo blocks. A standard `sendPhoto` HTML fallback is also implemented so a temporary Rich Message failure does not automatically lose the post.
-
-Official Telegram documentation:
-
-- https://core.telegram.org/bots/api
-- https://core.telegram.org/bots/api-changelog
-
-## Image fallback
-
-Image order:
-
-```text
-RSS/article image
-      ↓
-Article OG/Twitter image
-      ↓
-Publisher website logo
-      ↓
-Publisher name card
-```
-
-The fallback card shows the source logo, or the source name in the center when no logo is available. The `@GamingNewsroom` badge is kept in the lower-right corner. No generic channel-name text is added to the fallback card.
-
-## State
-
-`posted_urls.txt` stores canonicalized URLs that have already been published. This prevents the same article from being posted again on a later hourly run.
-
-`news_state.json` stores lightweight feed and run statistics only.
-
-## Scheduling
-
-GitHub Actions runs every hour from **07:00 through 23:00 Asia/Dhaka** and also supports manual execution.
-
-Required GitHub Secrets:
-
-```text
-EXA_API_KEY
-CEREBRAS_API_KEY
-TELEGRAM_BOT_TOKEN
-```
-
-The workflow sets:
-
-```text
-TELEGRAM_CHANNEL=@GamingNewsroom
+CEREBRAS_API_KEY=...
 CEREBRAS_MODEL=gpt-oss-120b
+EXA_API_KEY=...
+TELEGRAM_BOT_TOKEN=...
+TELEGRAM_CHANNEL=@GamingNewsroom
+TELEGRAM_ADMIN_CHAT_ID=...        # optional
+NEWS_WINDOW_HOURS=3               # 1–6
+EDITORIAL_EVENT_POOL_SIZE=50      # maximum event groups considered by editor
+MAX_POSTS_PER_RUN=20              # safety ceiling, not a target
 ```
 
-## Local checks
+## Source universe
+
+IGN, GameSpot, VGC, Eurogamer, Gematsu, PC Gamer, Polygon, Kotaku, GamesRadar+, Rock Paper Shotgun, Game Developer, Insider Gaming, Nintendo Life, Push Square, Pure Xbox, Shacknews, Siliconera, VG247, TechRaptor, and The Escapist.
+
+## Exact repository structure
+
+The GitHub repository intentionally uses the minimal structure shown in the requested repository view. Supporting production components are consolidated into `main.py`.
+
+```text
+Gaming News Bot/
+├── .github/
+│   └── workflows/
+│       └── newbot.yml
+├── README.md
+├── main.py
+├── news_state.json
+├── posted_urls.txt
+└── requirements.txt
+```
+
+## Verification
+
+The GitHub workflow verifies the exact repository layout before starting the bot, then runs:
 
 ```bash
 python -m py_compile main.py
 python main.py --self-test
-python main.py --dry-run
+python main.py
 ```
 
-The self-test covers RSS-style candidate handling, URL/title deduplication, dynamic 3-5 highlights, Rich Message structure, image-fallback integration points, and the no-AI source fallback path.
+The self-test uses mocked AI responses and does not publish to Telegram. Production calls use the configured Cerebras, Exa, and Telegram secrets.
+
+## Image Fallback
+
+The image pipeline uses the following order:
+
+```text
+Article/RSS image
+        ↓
+Article metadata image
+        ↓
+Exa image
+        ↓
+Publisher website logo
+        ↓
+Publisher name fallback
+```
+
+When a normal article image is available, it is cropped to the existing 1200×675 card and receives only the `@GamingNewsroom` lower-right brand chip.
+
+When the article image is unavailable, the bot attempts to discover the publication's own logo from publisher metadata, JSON-LD, Apple touch icons, or the site's favicon. The recovered logo is displayed prominently in the center of the 1200×675 fallback card.
+
+When no usable publisher logo can be found, the publication name is displayed prominently in bold at the center, with `@GamingNewsroom` below/right as the channel username.
+
+The fallback card never adds a `Gaming News` title or any other extra channel-name banner.
