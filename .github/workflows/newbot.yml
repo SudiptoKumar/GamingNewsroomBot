@@ -1,4 +1,4 @@
-name: Gaming News Bot
+name: Gaming News
 
 on:
   schedule:
@@ -10,55 +10,46 @@ permissions:
   contents: write
 
 concurrency:
-  group: gamingnewsroom
+  group: gaming-news
   cancel-in-progress: false
 
 jobs:
-  run-news-bot:
+  publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
-
+    timeout-minutes: 20
     env:
       EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
       CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHANNEL: "@GamingNewsroom"
-      NEWS_MODE: "update"
-      NEWS_WINDOW_HOURS: "24"
-      PUBLISH_TARGET: "6"
-      SELECTION_POOL_SIZE: "10"
-      MIN_IMPORTANCE_SCORE: "70"
-      SOFT_IMPORTANCE_SCORE: "60"
-      MAX_AI_CALLS_PER_RUN: "24"
-      AI_MAX_RETRIES: "2"
-      AI_RETRY_BASE_SECONDS: "3"
+      CEREBRAS_MODEL: "gpt-oss-120b"
       PYTHONUNBUFFERED: "1"
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: "pip"
+          cache: pip
           cache-dependency-path: requirements.txt
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          python -m pip install -r requirements.txt
 
-      - name: Verify repository structure
+      - name: Verify repository
         run: |
           test -f main.py
           test -f README.md
+          test -f requirements.txt
           test -f news_state.json
           test -f posted_urls.txt
-          test -f requirements.txt
           test -f .github/workflows/newbot.yml
           test ! -e event_engine.py
           test ! -e article_normalizer.py
@@ -66,27 +57,26 @@ jobs:
           test ! -e scoring.py
           test ! -e slate_selector.py
           test ! -e post_validator.py
-          test ! -d tests
+          test ! -e .github/workflows/import-zip.yml
 
-      - name: Verify Python source
+      - name: Compile
         run: python -m py_compile main.py
 
-      - name: Run self-test
+      - name: Self-test
         run: python main.py --self-test
 
-      - name: Run Gaming News Bot
+      - name: Publish Gaming News
         run: python main.py
 
       - name: Save state
         if: success()
         run: |
-          git config user.name "Gaming News Bot"
+          git config user.name "Gaming News"
           git config user.email "actions@github.com"
           git add news_state.json posted_urls.txt
-
           if git diff --cached --quiet; then
-            echo "No state changes to commit."
+            echo "No state changes."
           else
-            git commit -m "Update Gaming News Bot state"
+            git commit -m "Update Gaming News state"
             git push
           fi
