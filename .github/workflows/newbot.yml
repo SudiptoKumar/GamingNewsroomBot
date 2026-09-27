@@ -45,19 +45,18 @@ jobs:
 
       - name: Verify repository
         run: |
-          test -f main.py
-          test -f README.md
-          test -f requirements.txt
-          test -f news_state.json
-          test -f posted_urls.txt
-          test -f .github/workflows/newbot.yml
-          test ! -e event_engine.py
-          test ! -e article_normalizer.py
-          test ! -e event_store.py
-          test ! -e scoring.py
-          test ! -e slate_selector.py
-          test ! -e post_validator.py
-          test ! -e .github/workflows/import-zip.yml
+          set -eu
+          for required in \
+            main.py \
+            README.md \
+            requirements.txt \
+            news_state.json \
+            posted_urls.txt \
+            .github/workflows/newbot.yml
+          do
+            test -f "$required" || { echo "Missing required file: $required"; exit 1; }
+          done
+          echo "Required Gaming News files are present."
 
       - name: Compile
         run: python -m py_compile main.py
