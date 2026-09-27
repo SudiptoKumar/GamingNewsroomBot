@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"25ae0-kCdRkA6QKoeoYMbjMgzwTvnL8Bg\"",
+      "etag": "W/\"24ecf-oQunECX2hSEbDRg5IIqxlTBNZes\"",
       "last_modified": null,
-      "last_checked": "2026-09-27T20:24:06.886378+06:00",
+      "last_checked": "2026-09-27T23:30:23.663848+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T20:24:07.135528+06:00",
+      "last_checked": "2026-09-27T23:30:23.902487+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ab92614-ad0\"",
-      "last_modified": "Sun, 27 Sep 2026 14:20:04 GMT",
-      "last_checked": "2026-09-27T20:24:07.494553+06:00",
+      "etag": "\"6ab9529b-ad0\"",
+      "last_modified": "Sun, 27 Sep 2026 17:30:03 GMT",
+      "last_checked": "2026-09-27T23:30:24.217981+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Sun, 27 Sep 2026 11:20:18 GMT",
-      "last_checked": "2026-09-27T20:24:07.705686+06:00",
+      "last_modified": "Sun, 27 Sep 2026 15:25:18 GMT",
+      "last_checked": "2026-09-27T23:30:24.414163+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ab91751-11da\"",
-      "last_modified": "Sun, 27 Sep 2026 13:17:05 GMT",
-      "last_checked": "2026-09-27T20:24:08.038583+06:00",
+      "etag": "\"6ab94e8c-11d9\"",
+      "last_modified": "Sun, 27 Sep 2026 17:12:44 GMT",
+      "last_checked": "2026-09-27T23:30:24.791031+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T20:24:08.295318+06:00",
+      "last_checked": "2026-09-27T23:30:24.941571+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T20:24:08.719730+06:00",
+      "last_checked": "2026-09-27T23:30:25.414812+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"9e8950ca50176a4ec722db29d6ddd1f7\"",
-      "last_modified": "Sun, 27 Sep 2026 07:53:46 GMT",
-      "last_checked": "2026-09-27T20:24:08.986581+06:00",
+      "etag": "W/\"66d79c2f86013cd6596227327837f6a9\"",
+      "last_modified": "Sun, 27 Sep 2026 17:00:09 GMT",
+      "last_checked": "2026-09-27T23:30:27.801739+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T20:24:09.155966+06:00",
+      "last_checked": "2026-09-27T23:30:27.892487+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Sun, 27 Sep 2026 14:23:05 GMT",
-      "last_checked": "2026-09-27T20:24:09.606943+06:00",
+      "last_checked": "2026-09-27T23:30:28.448637+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
       "last_modified": "Tue, 15 Sep 2026 20:00:23 GMT",
-      "last_checked": "2026-09-27T20:24:10.067903+06:00",
+      "last_checked": "2026-09-27T23:30:28.918637+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"a66536760a0001cb0ffa9863d786bff2\"",
-      "last_modified": "Sun, 27 Sep 2026 10:47:39 GMT",
-      "last_checked": "2026-09-27T20:24:10.234469+06:00",
+      "etag": "W/\"de2251c53e75ad18666e57735f424339\"",
+      "last_modified": "Sun, 27 Sep 2026 16:04:00 GMT",
+      "last_checked": "2026-09-27T23:30:29.429976+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T20:24:10.505089+06:00",
+      "last_checked": "2026-09-27T23:30:29.777766+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T20:24:10.825154+06:00",
+      "last_checked": "2026-09-27T23:30:30.296349+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T20:24:11.149905+06:00",
+      "last_checked": "2026-09-27T23:30:30.672431+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-27T20:24:11.354701+06:00",
-      "fail_count": 30,
+      "last_checked": "2026-09-27T23:30:30.873469+06:00",
+      "fail_count": 31,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"2e87c54c52f95e6da36516b9115e1d27\"",
       "last_modified": "Wed, 23 Sep 2026 03:38:50 GMT",
-      "last_checked": "2026-09-27T20:24:11.487913+06:00",
+      "last_checked": "2026-09-27T23:30:30.978376+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-27T20:24:11.801141+06:00",
+      "last_checked": "2026-09-27T23:30:31.101713+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-27T20:24:11.937292+06:00",
-      "fail_count": 30,
+      "last_checked": "2026-09-27T23:30:31.299308+06:00",
+      "fail_count": 31,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"1c90f597a7badf643c16d982cd1c3bee\"",
-      "last_modified": "Sun, 27 Sep 2026 09:00:00 GMT",
-      "last_checked": "2026-09-27T20:24:12.096698+06:00",
+      "etag": "W/\"540e5b6e6e989309fd95ce85fd40aef9\"",
+      "last_modified": "Sun, 27 Sep 2026 16:00:00 GMT",
+      "last_checked": "2026-09-27T23:30:31.539847+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -348,6 +348,294 @@
       "status": "pending",
       "first_seen": "2026-09-27T20:24:11.546968+06:00",
       "last_seen": "2026-09-27T20:24:11.546976+06:00"
+    },
+    "ign.com/articles/dont-breathe-3-in-the-works-with-returning-cast-stephen-lang-and-jane-levy-fede-alvarez-says": {
+      "title": "Don't Breathe 3 in the Works With Stephen Lang and Jane Levy, Fede Álvarez Says",
+      "url": "https://www.ign.com/articles/dont-breathe-3-in-the-works-with-returning-cast-stephen-lang-and-jane-levy-fede-alvarez-says",
+      "canonical": "ign.com/articles/dont-breathe-3-in-the-works-with-returning-cast-stephen-lang-and-jane-levy-fede-alvarez-says",
+      "published_dt": "2026-09-27T21:47:10+06:00",
+      "published_date": "2026-09-27T21:47:10+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Director Fede Álvarez has confirmed Don't Breathe 3 is in the works, with some of the cast from previous films expected to reprise their roles.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/27/dont-breathe-3-1790523885145.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:23.752001+06:00",
+      "last_seen": "2026-09-27T23:30:23.752007+06:00"
+    },
+    "eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab": {
+      "title": "Five Nights at Freddy's is coming to Fortnite for Fortnitemares",
+      "url": "https://www.eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab",
+      "canonical": "eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab",
+      "published_dt": "2026-09-27T21:25:18+06:00",
+      "published_date": "2026-09-27T21:25:18+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Epic has confirmed that Five Nights at Freddy's is joining Fortnite for this year's Fortnitemares event. Read more",
+      "image": "https://assetsio.gnwcdn.com/Screenshot-2026-09-27-at-16.20.16-(2).png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:24.495641+06:00",
+      "last_seen": "2026-09-27T23:30:24.495647+06:00"
+    },
+    "pcgamer.com/games/world-of-warcraft/im-loving-wow-forever-but-i-cant-help-but-miss-the-music-of-my-other-beloved-mmo": {
+      "title": "I'm loving WoW: Forever, but I can't help but miss the music of my other beloved MMO",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/im-loving-wow-forever-but-i-cant-help-but-miss-the-music-of-my-other-beloved-mmo/",
+      "canonical": "pcgamer.com/games/world-of-warcraft/im-loving-wow-forever-but-i-cant-help-but-miss-the-music-of-my-other-beloved-mmo",
+      "published_dt": "2026-09-27T23:00:00+06:00",
+      "published_date": "2026-09-27T23:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "My brain requires musical stimulation.",
+      "image": "https://cdn.mos.cms.futurecdn.net/fouT8RfEVh8SxqiDuXyuvV-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:25.171736+06:00",
+      "last_seen": "2026-09-27T23:30:25.171742+06:00"
+    },
+    "pcgamer.com/games/action/shadow-the-hedgehog-is-supposed-to-be-dead": {
+      "title": "Shadow the Hedgehog is supposed to be dead",
+      "url": "https://www.pcgamer.com/games/action/shadow-the-hedgehog-is-supposed-to-be-dead/",
+      "canonical": "pcgamer.com/games/action/shadow-the-hedgehog-is-supposed-to-be-dead",
+      "published_dt": "2026-09-27T22:44:32+06:00",
+      "published_date": "2026-09-27T22:44:32+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "It all starts with this: a jewel containing the ultimate power.",
+      "image": "https://cdn.mos.cms.futurecdn.net/B43ZHEx4rftyW6w9RwQZzh-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:25.171862+06:00",
+      "last_seen": "2026-09-27T23:30:25.171864+06:00"
+    },
+    "pcgamer.com/gaming-industry/latest-xbox-layoffs-reportedly-devastated-age-of-empires-developer-and-canceled-its-next-game": {
+      "title": "Latest Xbox layoffs reportedly devastated Age of Empires developer and canceled its next game",
+      "url": "https://www.pcgamer.com/gaming-industry/latest-xbox-layoffs-reportedly-devastated-age-of-empires-developer-and-canceled-its-next-game/",
+      "canonical": "pcgamer.com/gaming-industry/latest-xbox-layoffs-reportedly-devastated-age-of-empires-developer-and-canceled-its-next-game",
+      "published_dt": "2026-09-27T22:14:26+06:00",
+      "published_date": "2026-09-27T22:14:26+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Microsoft continues to slash and burn the legacies under its banner.",
+      "image": "https://cdn.mos.cms.futurecdn.net/Q2HxaETVRSGNPXwWUWd8K4-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:25.171974+06:00",
+      "last_seen": "2026-09-27T23:30:25.171976+06:00"
+    },
+    "pcgamer.com/gaming-industry/william-pugh-co-designer-of-the-stanley-parable-has-over-1-600-hours-in-dota-2-its-not-a-game-made-of-love-its-a-game-fuelled-by-hate-and-a-desire-to-conquer": {
+      "title": "William Pugh, co-designer of The Stanley Parable, has over 1,600 hours in Dota 2: 'It's not a game made of love. It's a game fuelled by hate and a desire to conquer'",
+      "url": "https://www.pcgamer.com/gaming-industry/william-pugh-co-designer-of-the-stanley-parable-has-over-1-600-hours-in-dota-2-its-not-a-game-made-of-love-its-a-game-fuelled-by-hate-and-a-desire-to-conquer/",
+      "canonical": "pcgamer.com/gaming-industry/william-pugh-co-designer-of-the-stanley-parable-has-over-1-600-hours-in-dota-2-its-not-a-game-made-of-love-its-a-game-fuelled-by-hate-and-a-desire-to-conquer",
+      "published_dt": "2026-09-27T22:00:00+06:00",
+      "published_date": "2026-09-27T22:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "The founder of Crows Crows Crows guides us through the games on his PC.",
+      "image": "https://cdn.mos.cms.futurecdn.net/iZbP7nktsvYe8ZyhWZDyvN-1920-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:25.172084+06:00",
+      "last_seen": "2026-09-27T23:30:25.172087+06:00"
+    },
+    "pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history": {
+      "title": "Lords of the End Times' greatest fantasy is letting us rewrite the most hated lore in Warhammer's history",
+      "url": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history/",
+      "canonical": "pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history",
+      "published_dt": "2026-09-27T21:00:00+06:00",
+      "published_date": "2026-09-27T21:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "The end of The End Times.",
+      "image": "https://cdn.mos.cms.futurecdn.net/qAquXxiW4Cah9xamfr77oP-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:25.172184+06:00",
+      "last_seen": "2026-09-27T23:30:25.172186+06:00"
+    },
+    "polygon.com/control-resonant-biggest-issue-oldest-house": {
+      "title": "Control Resonant's Completely Ignores The Most Interesting Character",
+      "url": "https://www.polygon.com/control-resonant-biggest-issue-oldest-house/",
+      "canonical": "polygon.com/control-resonant-biggest-issue-oldest-house",
+      "published_dt": "2026-09-27T23:00:15+06:00",
+      "published_date": "2026-09-27T23:00:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Control Resonant takes the next big step in the series, but it leaves the Oldest House behind — and along with it, the first game's scary aura.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/controlresonant_feature_lead2.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:25.422461+06:00",
+      "last_seen": "2026-09-27T23:30:25.422465+06:00"
+    },
+    "polygon.com/the-witcher-cyberpunk-no-crossover-content": {
+      "title": "Witcher Dev Reveals Why CD Projekt Red Doesn't Do Crossovers In Its Own Games",
+      "url": "https://www.polygon.com/the-witcher-cyberpunk-no-crossover-content/",
+      "canonical": "polygon.com/the-witcher-cyberpunk-no-crossover-content",
+      "published_dt": "2026-09-27T22:31:42+06:00",
+      "published_date": "2026-09-27T22:31:42+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "A CD Projekt Red dev told Polygon that while a Geralt-inspired skin is coming to Diablo 4, don't expect Diablo characters in The Witcher 3 Remastered",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/the-witcher-3-songs-of-the-past-key-art-cropped.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:25.422593+06:00",
+      "last_seen": "2026-09-27T23:30:25.422596+06:00"
+    },
+    "polygon.com/patch-notes-xbox-layoffs-restructuring-fall-good-games": {
+      "title": "Xbox Almost Spoiled the Best Time of Year for Games",
+      "url": "https://www.polygon.com/patch-notes-xbox-layoffs-restructuring-fall-good-games/",
+      "canonical": "polygon.com/patch-notes-xbox-layoffs-restructuring-fall-good-games",
+      "published_dt": "2026-09-27T22:00:18+06:00",
+      "published_date": "2026-09-27T22:00:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The Xbox layoffs and Halo move to Activision sounded a bum note, but fall game season always brings joy",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/ace-combat-8.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:25.422725+06:00",
+      "last_seen": "2026-09-27T23:30:25.422727+06:00"
+    },
+    "polygon.com/avengers-endgame-encore-box-office": {
+      "title": "Avengers: Endgame Encore's Success Sets The Stage For Doomsday",
+      "url": "https://www.polygon.com/avengers-endgame-encore-box-office/",
+      "canonical": "polygon.com/avengers-endgame-encore-box-office",
+      "published_dt": "2026-09-27T21:42:23+06:00",
+      "published_date": "2026-09-27T21:42:23+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Avengers: Endgame Encore beat Resident Evil, Primetime, and Heart of the Beast in theaters this weekend",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/steve-and-peggy-avengers-endgame.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:25.422832+06:00",
+      "last_seen": "2026-09-27T23:30:25.422834+06:00"
+    },
+    "polygon.com/physint-budget-controversy": {
+      "title": "The Real Budget Of Hideo Kojima's Physint Remains A Mystery",
+      "url": "https://www.polygon.com/physint-budget-controversy/",
+      "canonical": "polygon.com/physint-budget-controversy",
+      "published_dt": "2026-09-27T20:43:45+06:00",
+      "published_date": "2026-09-27T20:43:45+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "It's unlikely that Kojima Productions' Physint has a budget of $400 million after Xbox decided to publsih it",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/physint.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:25.422933+06:00",
+      "last_seen": "2026-09-27T23:30:25.422935+06:00"
+    },
+    "kotaku.com/king-of-dragon-pass-creator-wants-you-to-get-the-crew-together-2000733582": {
+      "title": "King Of Dragon Pass Creator Wants You To Get The Crew Together",
+      "url": "https://kotaku.com/king-of-dragon-pass-creator-wants-you-to-get-the-crew-together-2000733582",
+      "canonical": "kotaku.com/king-of-dragon-pass-creator-wants-you-to-get-the-crew-together-2000733582",
+      "published_dt": "2026-09-27T23:00:09+06:00",
+      "published_date": "2026-09-27T23:00:09+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "In Thousand Hells: The Underworld Heists, breaking into a world of ever shifting nightmares is only half of challenge, the other is getting out alive",
+      "image": "https://kotaku.com/app/uploads/2026/09/ss_8ad5c9ab448b43bcc65350898e50ddefcb5c9ad4.1920x1080-1-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:27.815661+06:00",
+      "last_seen": "2026-09-27T23:30:27.815667+06:00"
+    },
+    "kotaku.com/abby-and-levs-voice-actors-join-john-goodman-in-hbos-third-season-of-the-last-of-us-2000737425": {
+      "title": "Abby And Lev’s Voice Actors Join John Goodman In HBO’s Third Season Of The Last Of Us",
+      "url": "https://kotaku.com/abby-and-levs-voice-actors-join-john-goodman-in-hbos-third-season-of-the-last-of-us-2000737425",
+      "canonical": "kotaku.com/abby-and-levs-voice-actors-join-john-goodman-in-hbos-third-season-of-the-last-of-us-2000737425",
+      "published_dt": "2026-09-27T22:00:15+06:00",
+      "published_date": "2026-09-27T22:00:15+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "While they won’t be reprising their characters from the game, Laura Bailey and Ian Alexander join the rapidly growing cast for the award winning television adaptation",
+      "image": "https://kotaku.com/app/uploads/2026/09/levabbyfred.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:27.815799+06:00",
+      "last_seen": "2026-09-27T23:30:27.815802+06:00"
+    },
+    "gamesradar.com/games/strategy/its-somehow-possible-to-beat-fire-emblem-fortunes-weave-while-ignoring-the-entire-point-of-the-game": {
+      "title": "It's somehow possible to beat Fire Emblem: Fortune's Weave while ignoring the entire point",
+      "url": "https://www.gamesradar.com/games/strategy/its-somehow-possible-to-beat-fire-emblem-fortunes-weave-while-ignoring-the-entire-point-of-the-game/",
+      "canonical": "gamesradar.com/games/strategy/its-somehow-possible-to-beat-fire-emblem-fortunes-weave-while-ignoring-the-entire-point-of-the-game",
+      "published_dt": "2026-09-27T21:22:36+06:00",
+      "published_date": "2026-09-27T21:22:36+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "No Flame Lords here",
+      "image": "https://cdn.mos.cms.futurecdn.net/RpgAkKupmbzmZcb8HCGssR-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:28.141682+06:00",
+      "last_seen": "2026-09-27T23:30:28.141688+06:00"
+    },
+    "insider-gaming.com/todays-wordle-1927-hints-answer-september-28-2026": {
+      "title": "Today’s Wordle #1927: Hints and Answer for September 28, 2026",
+      "url": "https://insider-gaming.com/todays-wordle-1927-hints-answer-september-28-2026/",
+      "canonical": "insider-gaming.com/todays-wordle-1927-hints-answer-september-28-2026",
+      "published_dt": "2026-09-27T22:03:59+06:00",
+      "published_date": "2026-09-27T22:03:59+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Stuck trying to guess the Wordle #1927 answer? Get today’s hints, starter words, and full Wordle answer for September 28, 2026. The post Today’s Wordle #1927: Hints and Answer for September 28, 2026 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:29.439552+06:00",
+      "last_seen": "2026-09-27T23:30:29.439557+06:00"
+    },
+    "purexbox.com/news/2026/09/two-xbox-games-are-shutting-down-their-servers-across-october-and-november-2026": {
+      "title": "Two Xbox Games Are Shutting Down Their Servers Across October & November 2026",
+      "url": "https://www.purexbox.com/news/2026/09/two-xbox-games-are-shutting-down-their-servers-across-october-and-november-2026",
+      "canonical": "purexbox.com/news/2026/09/two-xbox-games-are-shutting-down-their-servers-across-october-and-november-2026",
+      "published_dt": "2026-09-27T21:00:00+06:00",
+      "published_date": "2026-09-27T21:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "1 of them for ALL Xbox consoles, and 1 just for the Xbox One. As we rapidly approach the month of October, we've got some server shutdowns on Xbox to talk about! Fortunately though, it's a very small list as things stand, with just two games set to be affected across October and November. The big one for all Xbox consoles here is Rocket Racing , which is a game that's available to play inside of Fortnite. This combination of Rocket League and a traditional racing game officially goes offline on October 1st of 2026, and soon as the server shutdown happens, you won't be able to play it in any form. Boo! Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/4c215ce2a6f67/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:30.689980+06:00",
+      "last_seen": "2026-09-27T23:30:30.689985+06:00"
+    },
+    "escapistmagazine.com/alls-justice-switch-2": {
+      "title": "All’s Justice Is a Sharp Upgrade for My Hero Academia Fans",
+      "url": "https://www.escapistmagazine.com/alls-justice-switch-2/",
+      "canonical": "escapistmagazine.com/alls-justice-switch-2",
+      "published_dt": "2026-09-27T22:00:00+06:00",
+      "published_date": "2026-09-27T22:00:00+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "All's Justice is a sharper tag-team fighter on Switch 2, but its thin content and anime-heavy story make it best for existing fans, not newcomers. The post All’s Justice Is a Sharp Upgrade for My Hero Academia Fans appeared first on The Escapist .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T23:30:31.575413+06:00",
+      "last_seen": "2026-09-27T23:30:31.575422+06:00"
     }
   },
   "events": {
@@ -46034,6 +46322,715 @@
         "total": 34
       },
       "last_seen": "2026-09-27T20:24:28.164981+06:00"
+    },
+    "evt_073c78e2f1326a": {
+      "event_id": "evt_073c78e2f1326a",
+      "event_key": "microsoft layoffs impact age of empires studio and cancel upcoming title",
+      "event_subject": "Microsoft",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft layoffs impact age of empires studio and cancel upcoming title",
+        "subject": "Microsoft",
+        "event_type": "other",
+        "action": "cut",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Age of Empires (next title)",
+        "franchise": "Age of Empires",
+        "institution": "Microsoft/Xbox Game Studios",
+        "target": "",
+        "platforms": [],
+        "topic": "studio_layoffs"
+      },
+      "modality": "unknown",
+      "topic": "studio_layoffs",
+      "institution": "Microsoft/Xbox Game Studios",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "cancellation of next Age of Empires game"
+      ],
+      "importance_score": 62,
+      "score_breakdown": {
+        "significance": 32,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 62
+      },
+      "last_seen": "2026-09-27T23:31:49.848884+06:00"
+    },
+    "evt_29d6ff205429e9": {
+      "event_id": "evt_29d6ff205429e9",
+      "event_key": "xbox layoffs and halo transfer to activision",
+      "event_subject": "Xbox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox layoffs and halo transfer to activision",
+        "subject": "Xbox",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Halo",
+        "institution": "Microsoft/Xbox",
+        "target": "Activision",
+        "platforms": [],
+        "topic": "corporate"
+      },
+      "modality": "unknown",
+      "topic": "corporate",
+      "institution": "Microsoft/Xbox",
+      "sources": [
+        "Polygon",
+        "Pure Xbox"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Halo franchise moving to Activision",
+        "two games will go offline in Oct/Nov 2026"
+      ],
+      "importance_score": 49,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 49
+      },
+      "last_seen": "2026-09-27T23:31:49.848908+06:00"
+    },
+    "evt_88e2bf592c7f7f": {
+      "event_id": "evt_88e2bf592c7f7f",
+      "event_key": "five nights at freddy s crossover in fortnite fortnitemares",
+      "event_subject": "Five Nights at Freddy’s",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "five nights at freddy s crossover in fortnite fortnitemares",
+        "subject": "Five Nights at Freddy’s",
+        "event_type": "other",
+        "action": "join",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Fortnite",
+        "franchise": "Five Nights at Freddy’s",
+        "institution": "Epic Games",
+        "target": "",
+        "platforms": [
+          "Fortnite"
+        ],
+        "topic": "crossover_event"
+      },
+      "modality": "unknown",
+      "topic": "crossover_event",
+      "institution": "Epic Games",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "FNAF content for Fortnitemares"
+      ],
+      "importance_score": 43,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 43
+      },
+      "last_seen": "2026-09-27T23:31:49.848916+06:00"
+    },
+    "evt_50a80bfbc96ead": {
+      "event_id": "evt_50a80bfbc96ead",
+      "event_key": "control resonant release",
+      "event_subject": "Control: Resonant",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "control resonant release",
+        "subject": "Control: Resonant",
+        "event_type": "release",
+        "action": "launch",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Control: Resonant",
+        "franchise": "Control",
+        "institution": "Remedy Entertainment",
+        "target": "",
+        "platforms": [
+          "PC",
+          "Xbox Series X|S",
+          "PlayStation 5"
+        ],
+        "topic": "game_release"
+      },
+      "modality": "unknown",
+      "topic": "game_release",
+      "institution": "Remedy Entertainment",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-27T23:31:49.848922+06:00"
+    },
+    "evt_538511d21f4407": {
+      "event_id": "evt_538511d21f4407",
+      "event_key": "avengers endgame encore box office performance",
+      "event_subject": "Avengers: Endgame Encore",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "avengers endgame encore box office performance",
+        "subject": "Avengers: Endgame Encore",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Avengers: Endgame Encore",
+        "franchise": "Avengers",
+        "institution": "Marvel Studios",
+        "target": "",
+        "platforms": [
+          "Theaters"
+        ],
+        "topic": "box_office"
+      },
+      "modality": "unknown",
+      "topic": "box_office",
+      "institution": "Marvel Studios",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "beat Resident Evil, Primetime, Heart of the Beast"
+      ],
+      "importance_score": 41,
+      "score_breakdown": {
+        "significance": 11,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 41
+      },
+      "last_seen": "2026-09-27T23:31:49.848928+06:00"
+    },
+    "evt_0d49c8f9efcfa4": {
+      "event_id": "evt_0d49c8f9efcfa4",
+      "event_key": "lords of the end times release",
+      "event_subject": "Lords of the End Times",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "lords of the end times release",
+        "subject": "Lords of the End Times",
+        "event_type": "release",
+        "action": "launch",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Lords of the End Times",
+        "franchise": "Warhammer",
+        "institution": "Games Workshop",
+        "target": "",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "game_release"
+      },
+      "modality": "unknown",
+      "topic": "game_release",
+      "institution": "Games Workshop",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-09-27T23:31:49.848934+06:00"
+    },
+    "evt_c3e932b62a3182": {
+      "event_id": "evt_c3e932b62a3182",
+      "event_key": "world of warcraft forever release",
+      "event_subject": "World of Warcraft: Forever",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "world of warcraft forever release",
+        "subject": "World of Warcraft: Forever",
+        "event_type": "release",
+        "action": "launch",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "World of Warcraft: Forever",
+        "franchise": "World of Warcraft",
+        "institution": "Blizzard Entertainment",
+        "target": "",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "game_release"
+      },
+      "modality": "unknown",
+      "topic": "game_release",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-09-27T23:31:49.848940+06:00"
+    },
+    "evt_15a5b37c198b6a": {
+      "event_id": "evt_15a5b37c198b6a",
+      "event_key": "all s justice release",
+      "event_subject": "All’s Justice",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "all s justice release",
+        "subject": "All’s Justice",
+        "event_type": "release",
+        "action": "launch",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "All’s Justice",
+        "franchise": "My Hero Academia",
+        "institution": "Bandai Namco",
+        "target": "",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "game_release"
+      },
+      "modality": "unknown",
+      "topic": "game_release",
+      "institution": "Bandai Namco",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 9,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 35
+      },
+      "last_seen": "2026-09-27T23:31:49.848946+06:00"
+    },
+    "evt_fd454c51c0a697": {
+      "event_id": "evt_fd454c51c0a697",
+      "event_key": "fire emblem fortune s weave release",
+      "event_subject": "Fire Emblem: Fortune’s Weave",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "fire emblem fortune s weave release",
+        "subject": "Fire Emblem: Fortune’s Weave",
+        "event_type": "release",
+        "action": "launch",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Fire Emblem: Fortune’s Weave",
+        "franchise": "Fire Emblem",
+        "institution": "Intelligent Systems",
+        "target": "",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "game_release"
+      },
+      "modality": "unknown",
+      "topic": "game_release",
+      "institution": "Intelligent Systems",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 9,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 35
+      },
+      "last_seen": "2026-09-27T23:31:49.848951+06:00"
+    },
+    "evt_c1441bb532d9d3": {
+      "event_id": "evt_c1441bb532d9d3",
+      "event_key": "thousand hells the underworld heists announcement",
+      "event_subject": "Thousand Hells: The Underworld Heists",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "thousand hells the underworld heists announcement",
+        "subject": "Thousand Hells: The Underworld Heists",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Thousand Hells: The Underworld Heists",
+        "franchise": "King of Dragon Pass",
+        "institution": "Stonemaier Games",
+        "target": "",
+        "platforms": [
+          "PC",
+          "Switch"
+        ],
+        "topic": "game_announcement"
+      },
+      "modality": "unknown",
+      "topic": "game_announcement",
+      "institution": "Stonemaier Games",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-09-27T23:31:49.848958+06:00"
+    },
+    "evt_fde35b92373bd5": {
+      "event_id": "evt_fde35b92373bd5",
+      "event_key": "don t breathe 3 development confirmation",
+      "event_subject": "Don’t Breathe 3",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "don t breathe 3 development confirmation",
+        "subject": "Don’t Breathe 3",
+        "event_type": "other",
+        "action": "confirm",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Don’t Breathe 3",
+        "franchise": "Don’t Breathe",
+        "institution": "Fede Álvarez",
+        "target": "",
+        "platforms": [],
+        "topic": "film_sequel"
+      },
+      "modality": "unknown",
+      "topic": "film_sequel",
+      "institution": "Fede Álvarez",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "film in development with returning cast"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 37
+      },
+      "last_seen": "2026-09-27T23:31:49.848964+06:00"
+    },
+    "evt_264b27662a9820": {
+      "event_id": "evt_264b27662a9820",
+      "event_key": "cd projekt red crossover policy statement",
+      "event_subject": "CD Projekt Red",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "cd projekt red crossover policy statement",
+        "subject": "CD Projekt Red",
+        "event_type": "other",
+        "action": "explain",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "The Witcher",
+        "institution": "CD Projekt Red",
+        "target": "",
+        "platforms": [],
+        "topic": "crossovers"
+      },
+      "modality": "unknown",
+      "topic": "crossovers",
+      "institution": "CD Projekt Red",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "does not include other franchises in its own games"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-09-27T23:31:49.848970+06:00"
+    },
+    "evt_d8ef45b0ac9418": {
+      "event_id": "evt_d8ef45b0ac9418",
+      "event_key": "physint budget speculation",
+      "event_subject": "Physint",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "physint budget speculation",
+        "subject": "Physint",
+        "event_type": "other",
+        "action": "speculate",
+        "status": "unconfirmed",
+        "modality": "unknown",
+        "game": "Physint",
+        "franchise": "Physint",
+        "institution": "Kojima Productions",
+        "target": "",
+        "platforms": [],
+        "topic": "budget"
+      },
+      "modality": "unknown",
+      "topic": "budget",
+      "institution": "Kojima Productions",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "budget possibly $400 million"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-09-27T23:31:49.848976+06:00"
+    },
+    "evt_9d37848bb02e38": {
+      "event_id": "evt_9d37848bb02e38",
+      "event_key": "the last of us season 3 casting announcement",
+      "event_subject": "The Last of Us (TV)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "the last of us season 3 casting announcement",
+        "subject": "The Last of Us (TV)",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "The Last of Us",
+        "institution": "HBO",
+        "target": "",
+        "platforms": [
+          "HBO Max"
+        ],
+        "topic": "casting"
+      },
+      "modality": "unknown",
+      "topic": "casting",
+      "institution": "HBO",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Laura Bailey and Ian Alexander join cast"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-09-27T23:31:49.848982+06:00"
+    },
+    "evt_cee743bf454d81": {
+      "event_id": "evt_cee743bf454d81",
+      "event_key": "shadow the hedgehog death rumor",
+      "event_subject": "Shadow the Hedgehog",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "shadow the hedgehog death rumor",
+        "subject": "Shadow the Hedgehog",
+        "event_type": "rumor",
+        "action": "death",
+        "status": "unconfirmed",
+        "modality": "unknown",
+        "game": "Shadow the Hedgehog",
+        "franchise": "Sonic the Hedgehog",
+        "institution": "Sega",
+        "target": "",
+        "platforms": [
+          "Multiple"
+        ],
+        "topic": "character_status"
+      },
+      "modality": "unknown",
+      "topic": "character_status",
+      "institution": "Sega",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "character will die in upcoming title"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-27T23:31:49.848987+06:00"
+    },
+    "evt_8bd3247aa3cf91": {
+      "event_id": "evt_8bd3247aa3cf91",
+      "event_key": "william pugh interview on dota 2",
+      "event_subject": "William Pugh",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "william pugh interview on dota 2",
+        "subject": "William Pugh",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Dota 2",
+        "franchise": "Dota 2",
+        "institution": "Crows Crows Crows",
+        "target": "",
+        "platforms": [],
+        "topic": "interview"
+      },
+      "modality": "unknown",
+      "topic": "interview",
+      "institution": "Crows Crows Crows",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-27T23:31:49.848993+06:00"
+    },
+    "evt_e66ea5e10040de": {
+      "event_id": "evt_e66ea5e10040de",
+      "event_key": "wordle 1927 daily puzzle release",
+      "event_subject": "Wordle",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "wordle 1927 daily puzzle release",
+        "subject": "Wordle",
+        "event_type": "other",
+        "action": "publish",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "The New York Times",
+        "target": "",
+        "platforms": [
+          "Web",
+          "Mobile"
+        ],
+        "topic": "puzzle"
+      },
+      "modality": "unknown",
+      "topic": "puzzle",
+      "institution": "The New York Times",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 36
+      },
+      "last_seen": "2026-09-27T23:31:49.848999+06:00"
     }
   },
   "posted_event_ids": [
