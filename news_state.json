@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"25ba3-G1r2omywLeG5GxnpfljpxkSVSVs\"",
+      "etag": "W/\"25bbd-bmHRUS04vEHcO3U2P7A0CC+Rbb0\"",
       "last_modified": null,
-      "last_checked": "2026-09-27T15:34:31.425121+06:00",
+      "last_checked": "2026-09-27T18:23:27.071394+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T15:34:31.525140+06:00",
+      "last_checked": "2026-09-27T18:23:27.405500+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ab8e21b-ad3\"",
-      "last_modified": "Sun, 27 Sep 2026 09:30:03 GMT",
-      "last_checked": "2026-09-27T15:34:31.908540+06:00",
+      "etag": "\"6ab909f3-ad0\"",
+      "last_modified": "Sun, 27 Sep 2026 12:20:03 GMT",
+      "last_checked": "2026-09-27T18:23:27.788124+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Sun, 27 Sep 2026 09:32:21 GMT",
-      "last_checked": "2026-09-27T15:34:32.109774+06:00",
+      "last_modified": "Sun, 27 Sep 2026 11:20:18 GMT",
+      "last_checked": "2026-09-27T18:23:28.502310+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ab8d0e2-11d9\"",
-      "last_modified": "Sun, 27 Sep 2026 08:16:34 GMT",
-      "last_checked": "2026-09-27T15:34:32.476043+06:00",
+      "etag": "\"6ab9080d-11d9\"",
+      "last_modified": "Sun, 27 Sep 2026 12:11:57 GMT",
+      "last_checked": "2026-09-27T18:23:28.863547+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T15:34:32.701324+06:00",
+      "last_checked": "2026-09-27T18:23:29.067822+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T15:34:33.161292+06:00",
+      "last_checked": "2026-09-27T18:23:29.602054+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
       "etag": "W/\"9e8950ca50176a4ec722db29d6ddd1f7\"",
       "last_modified": "Sun, 27 Sep 2026 07:53:46 GMT",
-      "last_checked": "2026-09-27T15:34:33.438404+06:00",
+      "last_checked": "2026-09-27T18:23:29.815014+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T15:34:33.675269+06:00",
+      "last_checked": "2026-09-27T18:23:29.980363+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Sun, 27 Sep 2026 02:03:20 GMT",
-      "last_checked": "2026-09-27T15:34:34.271490+06:00",
+      "last_checked": "2026-09-27T18:23:30.379142+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
       "last_modified": "Wed, 23 Sep 2026 19:26:58 GMT",
-      "last_checked": "2026-09-27T15:34:34.706168+06:00",
+      "last_checked": "2026-09-27T18:23:31.025779+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"a14a8e34d2d7a13f32c7ef627c41e9c2\"",
-      "last_modified": "Sun, 27 Sep 2026 09:13:41 GMT",
-      "last_checked": "2026-09-27T15:34:34.882007+06:00",
+      "etag": "W/\"a66536760a0001cb0ffa9863d786bff2\"",
+      "last_modified": "Sun, 27 Sep 2026 10:47:39 GMT",
+      "last_checked": "2026-09-27T18:23:31.230541+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T15:34:35.203448+06:00",
+      "last_checked": "2026-09-27T18:23:31.571876+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T15:34:35.550353+06:00",
+      "last_checked": "2026-09-27T18:23:32.020367+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T15:34:35.971522+06:00",
+      "last_checked": "2026-09-27T18:23:32.541274+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-27T15:34:36.201916+06:00",
-      "fail_count": 73,
-      "alerted": true
+      "last_checked": "2026-09-27T18:23:32.564124+06:00",
+      "fail_count": 0,
+      "alerted": false
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"608ea8597ce495154f5986f8c9c099e6\"",
       "last_modified": "Wed, 23 Sep 2026 19:27:01 GMT",
-      "last_checked": "2026-09-27T15:34:36.271927+06:00",
+      "last_checked": "2026-09-27T18:23:32.708150+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-27T15:34:36.556512+06:00",
+      "last_checked": "2026-09-27T18:23:32.974639+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-27T15:34:36.736707+06:00",
-      "fail_count": 73,
-      "alerted": true
+      "last_checked": "2026-09-27T18:23:32.974680+06:00",
+      "fail_count": 0,
+      "alerted": false
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"8a20061604ff5fa3c862fc51d02243a5\"",
-      "last_modified": "Sat, 26 Sep 2026 16:00:00 GMT",
-      "last_checked": "2026-09-27T15:34:36.841952+06:00",
+      "etag": "W/\"1c90f597a7badf643c16d982cd1c3bee\"",
+      "last_modified": "Sun, 27 Sep 2026 09:00:00 GMT",
+      "last_checked": "2026-09-27T18:23:35.198549+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -9600,7 +9600,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-26T20:53:23.975109+06:00",
-      "last_seen": "2026-09-26T20:53:23.975119+06:00"
+      "last_seen": "2026-09-27T18:23:27.466404+06:00"
     },
     "gamespot.com/articles/crimson-desert-has-kept-me-trapped-in-its-opening-area-and-you-could-join-me-for-1": {
       "title": "Crimson Desert Has Kept Me Trapped In Its Opening Area, And You Could Join Me For $1",
@@ -9664,7 +9664,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-26T20:53:25.788542+06:00",
-      "last_seen": "2026-09-26T20:53:25.788547+06:00"
+      "last_seen": "2026-09-27T18:23:29.222731+06:00"
     },
     "pcgamer.com/gaming-industry/microsoft-ceo-says-xboxs-streamlining-process-is-great-to-see-following-its-most-recent-round-of-layoffs": {
       "title": "Microsoft CEO says Xbox's 'streamlining' process is 'great to see' following its most recent round of layoffs",
@@ -9680,7 +9680,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-26T20:53:25.788647+06:00",
-      "last_seen": "2026-09-26T20:53:25.788649+06:00"
+      "last_seen": "2026-09-27T18:23:29.222867+06:00"
     },
     "pcgamer.com/games/sim/dressmaker-is-a-serious-seamstress-sim-with-a-lot-of-love-stitched-into-the-finer-details": {
       "title": "Dressmaker is a serious seamstress sim with a lot of love stitched into the finer details",
@@ -9856,7 +9856,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-26T20:53:26.857903+06:00",
-      "last_seen": "2026-09-26T20:53:26.857905+06:00"
+      "last_seen": "2026-09-27T18:23:30.138037+06:00"
     },
     "gamesradar.com/games/action/marvels-wolverine-finally-lets-you-turn-off-overbearing-scent-trails-for-side-content-but-story-critical-senses-will-still-appear-in-the-world": {
       "title": "Marvel's Wolverine finally lets you turn off overbearing Scent Trails for side content",
@@ -9904,7 +9904,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-26T20:53:29.591482+06:00",
-      "last_seen": "2026-09-26T20:53:29.591486+06:00"
+      "last_seen": "2026-09-27T18:23:32.554893+06:00"
     },
     "purexbox.com/features/these-30plus-games-are-coming-to-xbox-next-week-september-28-october-2": {
       "title": "Feature: These 30+ Games Are Coming To Xbox Next Week (September 28-October 2)",
@@ -10000,7 +10000,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-27T00:20:16.205363+06:00",
-      "last_seen": "2026-09-27T00:20:16.205366+06:00"
+      "last_seen": "2026-09-27T18:23:27.163681+06:00"
     },
     "ign.com/articles/unabomber-netflix-movie-review": {
       "title": "Unabomber Review",
@@ -10080,7 +10080,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-27T00:20:16.205972+06:00",
-      "last_seen": "2026-09-27T00:20:16.205976+06:00"
+      "last_seen": "2026-09-27T18:23:27.164225+06:00"
     },
     "gamespot.com/articles/the-next-minecraft-update-adds-ice-caves-a-new-mob-and-more": {
       "title": "The Next Minecraft Update Adds Ice Caves, A New Mob, And More",
@@ -10096,7 +10096,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-27T00:20:16.390865+06:00",
-      "last_seen": "2026-09-27T00:20:16.390873+06:00"
+      "last_seen": "2026-09-27T18:23:27.453296+06:00"
     },
     "eurogamer.net/castlevania-40th-anniversary-free-original-game-belmonts-curse": {
       "title": "Castlevania celebrates turning 40 by giving away the original game for free",
@@ -10336,7 +10336,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-27T00:20:18.612496+06:00",
-      "last_seen": "2026-09-27T00:20:18.612501+06:00"
+      "last_seen": "2026-09-27T18:23:30.438323+06:00"
     },
     "insider-gaming.com/everything-revealed-minecraft-live-2026": {
       "title": "Everything Revealed at Minecraft Live 2026—Ice Caves, Dungeons 2, and The Sift",
@@ -10352,7 +10352,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-27T00:20:19.002024+06:00",
-      "last_seen": "2026-09-27T00:20:19.002030+06:00"
+      "last_seen": "2026-09-27T18:23:31.239328+06:00"
     },
     "insider-gaming.com/the-sift-coming-to-minecraft-in-2027": {
       "title": "‘The Sift’ is Coming to Minecraft Java and Bedrock in 2027",
@@ -10368,7 +10368,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-27T00:20:19.002360+06:00",
-      "last_seen": "2026-09-27T00:20:19.002365+06:00"
+      "last_seen": "2026-09-27T18:23:31.239580+06:00"
     },
     "insider-gaming.com/marvels-wolverine-patch-disable-scent-trails": {
       "title": "Marvel’s Wolverine Adds Senses Toggles in New Update",
@@ -10384,7 +10384,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-27T00:20:19.002636+06:00",
-      "last_seen": "2026-09-27T00:20:19.002641+06:00"
+      "last_seen": "2026-09-27T18:23:31.239827+06:00"
     },
     "insider-gaming.com/the-last-of-us-season-3-john-goodman-laura-bailey-cast": {
       "title": "The Last of Us Season 3 Adds John Goodman, Laura Bailey, and Ian Alexander",
@@ -10416,7 +10416,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-27T00:20:19.361946+06:00",
-      "last_seen": "2026-09-27T00:20:19.361952+06:00"
+      "last_seen": "2026-09-27T18:23:31.586000+06:00"
     },
     "pushsquare.com/news/2026/09/ps5s-welcome-hub-adds-animated-the-last-of-us-wallpaper": {
       "title": "PS5's Welcome Hub Adds Animated The Last of Us Wallpaper",
@@ -10432,7 +10432,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-27T00:20:19.633710+06:00",
-      "last_seen": "2026-09-27T00:20:19.633716+06:00"
+      "last_seen": "2026-09-27T18:23:32.034445+06:00"
     },
     "pushsquare.com/news/2026/09/sony-spooked-by-rumoured-usd400-million-budget-for-hideo-kojimas-physint": {
       "title": "Sony Spooked by Rumoured $400 Million Budget for Hideo Kojima's Physint",
@@ -10480,7 +10480,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-27T00:20:20.834391+06:00",
-      "last_seen": "2026-09-27T00:20:20.834397+06:00"
+      "last_seen": "2026-09-27T18:23:35.222552+06:00"
     },
     "pcgamer.com/software/ai/samsungs-ai-fridges-have-broken": {
       "title": "Samsung's AI fridges have broken",
@@ -10560,7 +10560,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-27T15:34:31.918765+06:00",
-      "last_seen": "2026-09-27T15:34:31.918771+06:00"
+      "last_seen": "2026-09-27T18:23:27.793906+06:00"
     },
     "videogameschronicle.com/news/minecraft-is-officially-getting-its-first-new-dimension-in-15-years": {
       "title": "Minecraft is officially getting its first new dimension in 15 years",
@@ -10592,7 +10592,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-27T15:34:32.217993+06:00",
-      "last_seen": "2026-09-27T15:34:32.218000+06:00"
+      "last_seen": "2026-09-27T18:23:28.558724+06:00"
     },
     "polygon.com/september-2026-hidden-gems": {
       "title": "3 Must-Play September Games You Missed Between Fire Emblem and Wolverine",
@@ -10688,7 +10688,7 @@
       "source_pool": "primary",
       "status": "pending",
       "first_seen": "2026-09-27T15:34:41.686303+06:00",
-      "last_seen": "2026-09-27T15:34:41.686309+06:00"
+      "last_seen": "2026-09-27T18:23:35.222265+06:00"
     },
     "polygon.com/kyle-chandler-the-rip-netflix": {
       "title": "Kyle Chandler's \"The Departed Meets The Raid\" Action Thriller Is Quietly One of Netflix's Best Movies",
@@ -10737,6 +10737,246 @@
       "status": "pending",
       "first_seen": "2026-09-27T15:34:51.591513+06:00",
       "last_seen": "2026-09-27T15:34:51.591518+06:00"
+    },
+    "ign.com/articles/best-deals-for-september-26-2026": {
+      "title": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
+      "url": "https://www.ign.com/articles/best-deals-for-september-26-2026",
+      "canonical": "ign.com/articles/best-deals-for-september-26-2026",
+      "published_dt": "2026-09-27T04:04:18+06:00",
+      "published_date": "2026-09-27T04:04:18+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "",
+      "image": "https://assets-prd.ignimgs.com/2026/09/16/screenshot-19824-1789531647050.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T18:23:27.162636+06:00",
+      "last_seen": "2026-09-27T18:23:27.162639+06:00"
+    },
+    "ign.com/articles/microsoft-ceo-says-streamlining-at-xbox-is-great-to-see-as-layoffs-affect-thousands": {
+      "title": "Microsoft CEO Says 'Streamlining' at Xbox is 'Great to See' as Layoffs Affect Thousands",
+      "url": "https://www.ign.com/articles/microsoft-ceo-says-streamlining-at-xbox-is-great-to-see-as-layoffs-affect-thousands",
+      "canonical": "ign.com/articles/microsoft-ceo-says-streamlining-at-xbox-is-great-to-see-as-layoffs-affect-thousands",
+      "published_dt": "2026-09-27T02:52:40+06:00",
+      "published_date": "2026-09-27T02:52:40+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Microsoft CEO Satya Nadella has spoken about the state of Xbox following layoffs that affected thousands of workers, saying that the \"streamlining\" at the company is \"great to see.\"",
+      "image": "https://assets-prd.ignimgs.com/2026/09/26/satya-nadella-1790455710955.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T18:23:27.162810+06:00",
+      "last_seen": "2026-09-27T18:23:27.162812+06:00"
+    },
+    "ign.com/articles/the-last-of-us-gets-animated-background-on-ps5-as-naughty-dog-teases-announcements-for-tlou-day-2026": {
+      "title": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
+      "url": "https://www.ign.com/articles/the-last-of-us-gets-animated-background-on-ps5-as-naughty-dog-teases-announcements-for-tlou-day-2026",
+      "canonical": "ign.com/articles/the-last-of-us-gets-animated-background-on-ps5-as-naughty-dog-teases-announcements-for-tlou-day-2026",
+      "published_dt": "2026-09-27T00:29:29+06:00",
+      "published_date": "2026-09-27T00:29:29+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Naughty Dog has released a free background on PlayStation 5 as it prepares to celebrate The Last of Us Day 2026.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/26/the-last-of-us-background-ps5-1790446863917.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T18:23:27.163164+06:00",
+      "last_seen": "2026-09-27T18:23:27.163166+06:00"
+    },
+    "eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs": {
+      "title": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs",
+      "url": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
+      "canonical": "eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
+      "published_dt": "2026-09-27T01:16:49+06:00",
+      "published_date": "2026-09-27T01:16:49+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Microsoft CEO Satya Nadella has praised Xbox's ongoing \"streamlining\" under Xbox CEO Asha Sharma just days after another round of layoffs hit the division. Read more",
+      "image": "https://assetsio.gnwcdn.com/satya-nadella-xbox.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T18:23:28.558964+06:00",
+      "last_seen": "2026-09-27T18:23:28.558966+06:00"
+    },
+    "pcgamer.com/gaming-industry/steam-stays-winning-but-why": {
+      "title": "Steam stays winning, but why",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-stays-winning-but-why/",
+      "canonical": "pcgamer.com/gaming-industry/steam-stays-winning-but-why",
+      "published_dt": "2026-09-27T08:00:00+06:00",
+      "published_date": "2026-09-27T08:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Steam stays winning, but why",
+      "image": "https://cdn.mos.cms.futurecdn.net/xbXdUieqhRYrkTVJmzWmHB-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T18:23:29.221746+06:00",
+      "last_seen": "2026-09-27T18:23:29.221751+06:00"
+    },
+    "polygon.com/gta-game-preservation-classic-games-availability": {
+      "title": "The GTA Series is a Game Preservation Nightmare",
+      "url": "https://www.polygon.com/gta-game-preservation-classic-games-availability/",
+      "canonical": "polygon.com/gta-game-preservation-classic-games-availability",
+      "published_dt": "2026-09-27T18:00:17+06:00",
+      "published_date": "2026-09-27T18:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Rockstar Games doesn't seem to care about making classic Grand Theft Auto games available to play on PS5 and other current platforms",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_duval_07.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T18:23:29.608532+06:00",
+      "last_seen": "2026-09-27T18:23:29.608537+06:00"
+    },
+    "rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change": {
+      "title": "Video Game Menu: The Game is all about everyone's favourite gaming pastime: pressing random buttons in the menus and seeing what they change",
+      "url": "https://www.rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change",
+      "canonical": "rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change",
+      "published_dt": "2026-09-26T23:51:31+06:00",
+      "published_date": "2026-09-26T23:51:31+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "Tense platforming? Riveting, punchy action combat? Complex, thought provoking puzzles? Is this what we come to video games for? Of course not! It's for the menus, those sweet, sweet collections of pixels that let us tailor our experience and commit crimes like turning off the music so you can listen to a podcast you'll only half pay attention to. Well, that's at least what Video Game Menu: The Game will have you believe, a video game about video game menus (perhaps I didn't need to explain it to you, it's kind of in there in the name). Read more",
+      "image": "https://assetsio.gnwcdn.com/video-game-menu-the-game.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T18:23:30.437559+06:00",
+      "last_seen": "2026-09-27T18:23:30.437563+06:00"
+    },
+    "insider-gaming.com/minecraft-300000-new-players-first-time-daily": {
+      "title": "Minecraft Adds More Than 300,000 New Players Every Day",
+      "url": "https://insider-gaming.com/minecraft-300000-new-players-first-time-daily/",
+      "canonical": "insider-gaming.com/minecraft-300000-new-players-first-time-daily",
+      "published_dt": "2026-09-27T01:49:16+06:00",
+      "published_date": "2026-09-27T01:49:16+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "More than 300,000 people play Minecraft for the first time on an average day, XBOX CEO Asha Sharma says, even after 425 million copies sold. The post Minecraft Adds More Than 300,000 New Players Every Day appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T18:23:31.238522+06:00",
+      "last_seen": "2026-09-27T18:23:31.238525+06:00"
+    },
+    "insider-gaming.com/satya-nadella-praises-asha-sharma-xbox-reset": {
+      "title": "Microsoft CEO Says XBOX Streamlining Is ‘Great to See’",
+      "url": "https://insider-gaming.com/satya-nadella-praises-asha-sharma-xbox-reset/",
+      "canonical": "insider-gaming.com/satya-nadella-praises-asha-sharma-xbox-reset",
+      "published_dt": "2026-09-27T00:22:59+06:00",
+      "published_date": "2026-09-27T00:22:59+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Microsoft CEO Satya Nadella calls Asha Sharma's XBOX streamlining \"great to see\" as Microsoft restructures its gaming business and seeks a \"sustainable model\" for growth. The post Microsoft CEO Says XBOX Streamlining Is ‘Great to See’ appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T18:23:31.239064+06:00",
+      "last_seen": "2026-09-27T18:23:31.239067+06:00"
+    },
+    "nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons": {
+      "title": "Review: Voidjoy GA-10 Elite Extender For Switch Pro Controller - The Pros Don't Outweigh The (Mod) Cons",
+      "url": "https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons",
+      "canonical": "nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons",
+      "published_dt": "2026-09-27T18:00:00+06:00",
+      "published_date": "2026-09-27T18:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Voidco. With the price of consoles, controllers, games, groceries — everything — shooting up over the last few years, you're likely keen to save pennies where you can. It's one thing to push the boat out for a new Switch 2, but add-ons and accessories can stretch budgets to breaking point. Is a $90 / £75 Pro Controller 2 really an essential purchase when your old Switch 1 Pro Controller is working just fine? Justifying that sort of money (or more if you want that fancy new Zelda one) might be tough, but what if you could upgrade your old Pro Controller with back buttons and broader functionality, and throw some analogue triggers into the bargain? That's what JSAUX is proposing with the Voidjoy Elite Extender, an add-on which attempts to give your old Pro a glow-up into something resembling other premium pads. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/ce693779a5ae0/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T18:23:31.584113+06:00",
+      "last_seen": "2026-09-27T18:23:31.584117+06:00"
+    },
+    "nintendolife.com/news/2026/09/poll-so-how-many-hours-have-you-spent-in-fire-emblem-fortunes-weave": {
+      "title": "Poll: So, How Many Hours Have You Spent In Fire Emblem: Fortune's Weave?",
+      "url": "https://www.nintendolife.com/news/2026/09/poll-so-how-many-hours-have-you-spent-in-fire-emblem-fortunes-weave",
+      "canonical": "nintendolife.com/news/2026/09/poll-so-how-many-hours-have-you-spent-in-fire-emblem-fortunes-weave",
+      "published_dt": "2026-09-27T09:00:00+06:00",
+      "published_date": "2026-09-27T09:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Only a handful of players have shared their completion times. RPGs often require players to invest a lot of their time, and the Switch 2 exclusive Fire Emblem: Fortune's Weave is no different. In fact, the newest chapter in Intelligent Systems' tactical turn-based series is apparently so big that even a week after this title's release, the website ' How Long To Beat ' still has little to no playtime data about the title. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/b02bfe571ffe1/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T18:23:31.584877+06:00",
+      "last_seen": "2026-09-27T18:23:31.584880+06:00"
+    },
+    "pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint": {
+      "title": "Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint",
+      "url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
+      "canonical": "pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
+      "published_dt": "2026-09-27T02:00:00+06:00",
+      "published_date": "2026-09-27T02:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "PlayStation wouldn't own the IP. It sounds like Hideo Kojima was demanding a significant sum of money from Sony to make the stealth action game Physint – despite him retaining ownership of its IP and intending to release it on multiple platforms. PlayStation announced earlier this month that it had pulled out of the project, which was first announced in 2024. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/73b5180231321/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T18:23:32.033249+06:00",
+      "last_seen": "2026-09-27T18:23:32.033254+06:00"
+    },
+    "pushsquare.com/news/2026/09/another-live-service-ps5-game-bites-the-dust-but-itll-be-transformed-into-an-offline-title": {
+      "title": "Another Live Service PS5 Game Bites the Dust, But It'll Be Transformed into an Offline Title",
+      "url": "https://www.pushsquare.com/news/2026/09/another-live-service-ps5-game-bites-the-dust-but-itll-be-transformed-into-an-offline-title",
+      "canonical": "pushsquare.com/news/2026/09/another-live-service-ps5-game-bites-the-dust-but-itll-be-transformed-into-an-offline-title",
+      "published_dt": "2026-09-27T00:45:00+06:00",
+      "published_date": "2026-09-27T00:45:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "The (Syn)duality of man. Okay, hands up: who remembers Synduality: Echo of Ada ? This was an attempt by Bandai Namco to crack the ever-elusive live service space; a PvPvE extraction shooter featuring cutesy anime-styled characters and big mecha battles. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/43c964a7663df/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T18:23:32.033857+06:00",
+      "last_seen": "2026-09-27T18:23:32.033860+06:00"
+    },
+    "purexbox.com/features/25plus-of-the-best-discounted-games-from-xboxs-open-world-sale": {
+      "title": "Feature: 25+ Of The Best Discounted Games From Xbox's Open World Sale",
+      "url": "https://www.purexbox.com/features/25plus-of-the-best-discounted-games-from-xboxs-open-world-sale",
+      "canonical": "purexbox.com/features/25plus-of-the-best-discounted-games-from-xboxs-open-world-sale",
+      "published_dt": "2026-09-27T17:00:00+06:00",
+      "published_date": "2026-09-27T17:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Big worlds, small prices. Sales, sales, sales. We're back with another set of massively discounted games for you to rummage through! We adore a good and proper sale, and right now, there's plenty of bangers on offer. As usual, we've been busy browsing through Xbox's current sales to find you the best deals worth nabbing. Currently, Xbox's Open World sale is packed full of big RPGs like Starfield and Assassin's Creed Shadows , but there's also a handful of highly rated Game Pass titles with hefty discounts. Not to mention the Ubisoft sale , which slaps a whopping 85-90% discount on loads of games. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/06bb311b673be/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T18:23:32.554009+06:00",
+      "last_seen": "2026-09-27T18:23:32.554014+06:00"
+    },
+    "purexbox.com/features/poll-what-do-you-think-of-dune-awakening-on-xbox-game-pass-so-far": {
+      "title": "Poll: What Do You Think Of Dune: Awakening On Xbox Game Pass So Far?",
+      "url": "https://www.purexbox.com/features/poll-what-do-you-think-of-dune-awakening-on-xbox-game-pass-so-far",
+      "canonical": "purexbox.com/features/poll-what-do-you-think-of-dune-awakening-on-xbox-game-pass-so-far",
+      "published_dt": "2026-09-26T21:00:00+06:00",
+      "published_date": "2026-09-26T21:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Is it a certified banger, or not really? It's been an interesting week for Xbox Game Pass ! Well Dweller surprised most with its stellar review scores, and just a few days ago, Dune: Awakening finally joined the subscription service, and we're itching to hear what you make of it. I sat down with a hands-off preview of Dune: Awakening during Summer Game Fest 2024 , and I'll admit the game was buggy as hell. I thought there was no way this works on Xbox consoles, but lo and behold, It's on Game Pass Ultimate and I'm having fun with it on my Xbox Series X. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/80713d1b0309a/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-27T18:23:32.554484+06:00",
+      "last_seen": "2026-09-27T18:23:32.554486+06:00"
     }
   },
   "events": {
@@ -121877,6 +122117,1375 @@
         "total": 27
       },
       "last_seen": "2026-09-27T15:34:54.190641+06:00"
+    },
+    "evt_0c31ff13bb991c": {
+      "event_id": "evt_0c31ff13bb991c",
+      "event_key": "microsoft ceo xbox streamlining comment",
+      "event_subject": "Xbox Streamlining",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft ceo xbox streamlining comment",
+        "subject": "Xbox Streamlining",
+        "event_type": "other",
+        "action": "commented",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "Xbox division",
+        "platforms": [
+          "Xbox"
+        ],
+        "topic": "business",
+        "ai_significance": 15,
+        "ai_reason": "High‑level executive endorsement of restructuring indicates strategic shift; impacts workforce and future direction."
+      },
+      "modality": "confirmed",
+      "topic": "business",
+      "institution": "Microsoft",
+      "sources": [
+        "Insider Gaming",
+        "Eurogamer",
+        "IGN",
+        "PC Gamer"
+      ],
+      "source_count": 4,
+      "independent_source_count": 4,
+      "claims": [
+        "Satya Nadella praises Xbox streamlining as \"great to see\" amid restructuring",
+        "Satya Nadella praises streamlining after another round of layoffs",
+        "Satya Nadella says streamlining is great to see after layoffs affecting thousands",
+        "Satya Nadella says Microsoft must invent the right business model for gaming"
+      ],
+      "importance_score": 55,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 14,
+        "originality": 10,
+        "freshness": 6,
+        "source_trust": 10,
+        "total": 55
+      },
+      "last_seen": "2026-09-27T18:23:39.784686+06:00"
+    },
+    "evt_6c569155a2f911": {
+      "event_id": "evt_6c569155a2f911",
+      "event_key": "minecraft live 2026 reveal",
+      "event_subject": "Minecraft Live 2026",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "minecraft live 2026 reveal",
+        "subject": "Minecraft Live 2026",
+        "event_type": "other",
+        "action": "revealed",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Minecraft",
+        "franchise": "Minecraft",
+        "institution": "Mojang",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "content_announcement",
+        "ai_significance": 14,
+        "ai_reason": "Major live‑event announcement with multiple upcoming features for a flagship title."
+      },
+      "modality": "confirmed",
+      "topic": "content_announcement",
+      "institution": "Mojang",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Announced Ice Caves, Dungeons 2, and The Sift at Minecraft Live 2026"
+      ],
+      "importance_score": 49,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 6,
+        "source_trust": 10,
+        "total": 49
+      },
+      "last_seen": "2026-09-27T18:23:39.784700+06:00"
+    },
+    "evt_5ebfc471cf2e8d": {
+      "event_id": "evt_5ebfc471cf2e8d",
+      "event_key": "minecraft daily new players insider",
+      "event_subject": "Minecraft New Players Daily",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "minecraft daily new players insider",
+        "subject": "Minecraft New Players Daily",
+        "event_type": "other",
+        "action": "reported",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Minecraft",
+        "franchise": "Minecraft",
+        "institution": "Xbox",
+        "target": "players",
+        "platforms": [
+          "Xbox",
+          "PC"
+        ],
+        "topic": "player_growth",
+        "ai_significance": 13,
+        "ai_reason": "Same data as ID 20; reinforces significance of player base expansion."
+      },
+      "modality": "confirmed",
+      "topic": "player_growth",
+      "institution": "Xbox",
+      "sources": [
+        "Eurogamer",
+        "Insider Gaming"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Over 300,000 new players try Minecraft each day",
+        "More than 300,000 people play Minecraft for the first time each day"
+      ],
+      "importance_score": 48,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 6,
+        "originality": 13,
+        "freshness": 6,
+        "source_trust": 10,
+        "total": 48
+      },
+      "last_seen": "2026-09-27T18:23:39.784713+06:00"
+    },
+    "evt_716fcedb146d72": {
+      "event_id": "evt_716fcedb146d72",
+      "event_key": "the sift minecraft dimension 2027",
+      "event_subject": "The Sift Dimension",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "the sift minecraft dimension 2027",
+        "subject": "The Sift Dimension",
+        "event_type": "other",
+        "action": "announced",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Minecraft",
+        "franchise": "Minecraft",
+        "institution": "Mojang",
+        "target": "players",
+        "platforms": [
+          "Java",
+          "Bedrock"
+        ],
+        "topic": "content_announcement",
+        "ai_significance": 13,
+        "ai_reason": "Significant addition to Minecraft's world, affecting both major platforms."
+      },
+      "modality": "confirmed",
+      "topic": "content_announcement",
+      "institution": "Mojang",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The Sift will arrive in 2027 as the first new dimension in 15 years"
+      ],
+      "importance_score": 48,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 6,
+        "source_trust": 10,
+        "total": 48
+      },
+      "last_seen": "2026-09-27T18:23:39.784718+06:00"
+    },
+    "evt_c56b4fa78b396c": {
+      "event_id": "evt_c56b4fa78b396c",
+      "event_key": "minecraft ice caves update",
+      "event_subject": "Minecraft Ice Caves Update",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "minecraft ice caves update",
+        "subject": "Minecraft Ice Caves Update",
+        "event_type": "other",
+        "action": "added",
+        "status": "announced",
+        "modality": "confirmed",
+        "game": "Minecraft",
+        "franchise": "Minecraft",
+        "institution": "Mojang",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "Console",
+          "Mobile"
+        ],
+        "topic": "game_content",
+        "ai_significance": 14,
+        "ai_reason": "Major content addition to a flagship title with massive player base; notable but routine quarterly update."
+      },
+      "modality": "confirmed",
+      "topic": "game_content",
+      "institution": "Mojang",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Next update introduces Ice Caves biome, Frozen Zombie mob, and related items"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 6,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-09-27T18:23:39.784720+06:00"
+    },
+    "evt_30ee2a9049d9de": {
+      "event_id": "evt_30ee2a9049d9de",
+      "event_key": "mlb lockout video game impact",
+      "event_subject": "MLB Lockout",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "mlb lockout video game impact",
+        "subject": "MLB Lockout",
+        "event_type": "other",
+        "action": "potential_impact",
+        "status": "potential",
+        "modality": "unknown",
+        "game": "MLB The Show",
+        "franchise": "MLB",
+        "institution": "MLB",
+        "target": "gamers",
+        "platforms": [
+          "PlayStation",
+          "Xbox",
+          "PC"
+        ],
+        "topic": "labor",
+        "ai_significance": 18,
+        "ai_reason": "Potential lockout could disrupt a major sports franchise's video game releases, affecting sales and licensing."
+      },
+      "modality": "unknown",
+      "topic": "labor",
+      "institution": "MLB",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "A lockout could affect release of future MLB The Show titles"
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 6,
+        "source_trust": 8,
+        "total": 44
+      },
+      "last_seen": "2026-09-27T18:23:39.784724+06:00"
+    },
+    "evt_f9e39649cc8750": {
+      "event_id": "evt_f9e39649cc8750",
+      "event_key": "xbox open world sale discount",
+      "event_subject": "Xbox Open World Sale",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox open world sale discount",
+        "subject": "Xbox Open World Sale",
+        "event_type": "other",
+        "action": "discounted_games",
+        "status": "ongoing",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "Xbox",
+        "target": "consumers",
+        "platforms": [
+          "Xbox"
+        ],
+        "topic": "sale",
+        "ai_significance": 12,
+        "ai_reason": "Large-scale discount sale on a major platform, affects many titles and drives revenue but is routine pricing event."
+      },
+      "modality": "confirmed",
+      "topic": "sale",
+      "institution": "Xbox",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Massively discounted games including Starfield and Assassin's Creed Shadows are available"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-27T18:23:39.784727+06:00"
+    },
+    "evt_cb2ed4f8b44efa": {
+      "event_id": "evt_cb2ed4f8b44efa",
+      "event_key": "sony controller payment patent",
+      "event_subject": "PlayStation Controller Payment Patent",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sony controller payment patent",
+        "subject": "PlayStation Controller Payment Patent",
+        "event_type": "other",
+        "action": "filed",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "Sony",
+        "target": "industry",
+        "platforms": [
+          "PlayStation"
+        ],
+        "topic": "hardware_innovation",
+        "ai_significance": 9,
+        "ai_reason": "Potentially novel hardware feature; impact depends on implementation."
+      },
+      "modality": "confirmed",
+      "topic": "hardware_innovation",
+      "institution": "Sony",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Patented controller that can accept credit card and phone touch payments"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 9,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 9,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-09-27T18:23:39.784729+06:00"
+    },
+    "evt_93d0454d3061c8": {
+      "event_id": "evt_93d0454d3061c8",
+      "event_key": "marvels wolverine senses toggle update",
+      "event_subject": "Marvel’s Wolverine",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "marvels wolverine senses toggle update",
+        "subject": "Marvel’s Wolverine",
+        "event_type": "other",
+        "action": "added_feature",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Marvel’s Wolverine",
+        "franchise": "Marvel",
+        "institution": "Microsoft",
+        "target": "players",
+        "platforms": [
+          "Xbox"
+        ],
+        "topic": "accessibility",
+        "ai_significance": 6,
+        "ai_reason": "Minor quality‑of‑life update; limited impact on broader market."
+      },
+      "modality": "confirmed",
+      "topic": "accessibility",
+      "institution": "Microsoft",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Update 1.001.006 adds toggles for Scent Trails and Audio Clues"
+      ],
+      "importance_score": 41,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 6,
+        "source_trust": 10,
+        "total": 41
+      },
+      "last_seen": "2026-09-27T18:23:39.784732+06:00"
+    },
+    "evt_09764d11f3fc7c": {
+      "event_id": "evt_09764d11f3fc7c",
+      "event_key": "steam market leader analysis",
+      "event_subject": "Steam Market Position",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "steam market leader analysis",
+        "subject": "Steam Market Position",
+        "event_type": "other",
+        "action": "published",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Valve",
+        "target": "industry",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "market_analysis",
+        "ai_significance": 12,
+        "ai_reason": "Industry analysis of platform dominance; important but not a new event."
+      },
+      "modality": "unknown",
+      "topic": "market_analysis",
+      "institution": "Valve",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Steam remains the leading PC game distribution platform"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 7,
+        "source_trust": 8,
+        "total": 39
+      },
+      "last_seen": "2026-09-27T18:23:39.784734+06:00"
+    },
+    "evt_dcb0c1d1a07e86": {
+      "event_id": "evt_dcb0c1d1a07e86",
+      "event_key": "kojima physint budget rumor",
+      "event_subject": "Physint Budget Rumor",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "kojima physint budget rumor",
+        "subject": "Physint Budget Rumor",
+        "event_type": "rumor",
+        "action": "reported",
+        "status": "rumored",
+        "modality": "unknown",
+        "game": "Physint",
+        "franchise": "Physint",
+        "institution": "Sony",
+        "target": "industry",
+        "platforms": [
+          "PlayStation"
+        ],
+        "topic": "budget",
+        "ai_significance": 13,
+        "ai_reason": "High‑budget rumor involving major IP and two platform leaders; potential financial impact if true."
+      },
+      "modality": "unknown",
+      "topic": "budget",
+      "institution": "Sony",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Kojima allegedly demanded $400 million from Sony; Xbox allegedly paying a fraction",
+        "Sony spooked by rumored $400 million budget for Kojima's Physint"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 6,
+        "source_trust": 8,
+        "total": 39
+      },
+      "last_seen": "2026-09-27T18:23:39.784737+06:00"
+    },
+    "evt_04caa67958eb40": {
+      "event_id": "evt_04caa67958eb40",
+      "event_key": "warcraft 3 new campaign",
+      "event_subject": "Warcraft 3 New Campaign",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "warcraft 3 new campaign",
+        "subject": "Warcraft 3 New Campaign",
+        "event_type": "other",
+        "action": "announced",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Warcraft 3",
+        "franchise": "Warcraft",
+        "institution": "Blizzard",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "content_announcement",
+        "ai_significance": 13,
+        "ai_reason": "Significant revival for a classic RTS, indicating ongoing support for legacy titles."
+      },
+      "modality": "confirmed",
+      "topic": "content_announcement",
+      "institution": "Blizzard",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "First new campaign in 23 years announced, prompting discussion on DLC for old RTS games"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 6,
+        "source_trust": 8,
+        "total": 39
+      },
+      "last_seen": "2026-09-27T18:23:39.784741+06:00"
+    },
+    "evt_d692a6bef97445": {
+      "event_id": "evt_d692a6bef97445",
+      "event_key": "voidjoy ga10 elite extender review",
+      "event_subject": "Voidjoy GA-10 Elite Extender",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "voidjoy ga10 elite extender review",
+        "subject": "Voidjoy GA-10 Elite Extender",
+        "event_type": "other",
+        "action": "reviewed",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "JSAUX",
+        "target": "Switch Pro Controller owners",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "topic": "hardware",
+        "ai_significance": 8,
+        "ai_reason": "Accessory review with moderate consumer interest; not a major industry shift."
+      },
+      "modality": "confirmed",
+      "topic": "hardware",
+      "institution": "JSAUX",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Adds back buttons and analog triggers to existing Pro Controller for $90/£75"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-09-27T18:23:39.784743+06:00"
+    },
+    "evt_5ec5527f55bea9": {
+      "event_id": "evt_5ec5527f55bea9",
+      "event_key": "gta preservation issue",
+      "event_subject": "GTA Series Preservation",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta preservation issue",
+        "subject": "GTA Series Preservation",
+        "event_type": "other",
+        "action": "highlighted",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar Games",
+        "target": "industry",
+        "platforms": [
+          "PS5",
+          "Xbox"
+        ],
+        "topic": "preservation",
+        "ai_significance": 7,
+        "ai_reason": "Opinion piece on preservation; raises awareness but no immediate concrete change."
+      },
+      "modality": "unknown",
+      "topic": "preservation",
+      "institution": "Rockstar Games",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Rockstar shows little interest in preserving classic GTA titles for modern platforms"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 37
+      },
+      "last_seen": "2026-09-27T18:23:39.784746+06:00"
+    },
+    "evt_d8bbdbd2b0f11f": {
+      "event_id": "evt_d8bbdbd2b0f11f",
+      "event_key": "synduality echo of ada offline transition",
+      "event_subject": "Synduality: Echo of Ada",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "synduality echo of ada offline transition",
+        "subject": "Synduality: Echo of Ada",
+        "event_type": "other",
+        "action": "converted",
+        "status": "announced",
+        "modality": "confirmed",
+        "game": "Synduality: Echo of Ada",
+        "franchise": "Synduality",
+        "institution": "Bandai Namco",
+        "target": "players",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "live_service",
+        "ai_significance": 11,
+        "ai_reason": "Transition from live service to offline reflects strategic shift; affects player base but limited scale."
+      },
+      "modality": "confirmed",
+      "topic": "live_service",
+      "institution": "Bandai Namco",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Live‑service game will be transformed into an offline title after shutdown"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 11,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 6,
+        "source_trust": 8,
+        "total": 37
+      },
+      "last_seen": "2026-09-27T18:23:39.784748+06:00"
+    },
+    "evt_cc75b193d5f550": {
+      "event_id": "evt_cc75b193d5f550",
+      "event_key": "baldrs gate 3 dlc termination",
+      "event_subject": "Baldur's Gate 3 DLC",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "baldrs gate 3 dlc termination",
+        "subject": "Baldur's Gate 3 DLC",
+        "event_type": "other",
+        "action": "ended",
+        "status": "confirmed",
+        "modality": "confirmed",
+        "game": "Baldur's Gate 3",
+        "franchise": "Baldur's Gate",
+        "institution": "Larian Studios",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "content_cancellation",
+        "ai_significance": 10,
+        "ai_reason": "Cancellation of DLC impacts ongoing content pipeline but affects a single title."
+      },
+      "modality": "confirmed",
+      "topic": "content_cancellation",
+      "institution": "Larian Studios",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Larian officially ended Baldur's Gate 3 DLC after three years"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 6,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-09-27T18:23:39.784751+06:00"
+    },
+    "evt_80f88475572321": {
+      "event_id": "evt_80f88475572321",
+      "event_key": "werwulf trailer game reveal",
+      "event_subject": "Werwulf Trailer & Game",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "werwulf trailer game reveal",
+        "subject": "Werwulf Trailer & Game",
+        "event_type": "other",
+        "action": "revealed",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "Focus Features",
+        "target": "players",
+        "platforms": [
+          "Multiple"
+        ],
+        "topic": "cross_media",
+        "ai_significance": 10,
+        "ai_reason": "Cross‑media promotion; adds a game tie‑in but limited to niche audience."
+      },
+      "modality": "confirmed",
+      "topic": "cross_media",
+      "institution": "Focus Features",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "New trailer released for Robert Eggers’ Werwulf and a surprise tie‑in video game announced"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 6,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-09-27T18:23:39.784753+06:00"
+    },
+    "evt_9fce9f975550ba": {
+      "event_id": "evt_9fce9f975550ba",
+      "event_key": "best deals today ign",
+      "event_subject": "Today's Best Deals",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "best deals today ign",
+        "subject": "Today's Best Deals",
+        "event_type": "other",
+        "action": "published",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "IGN",
+        "target": "consumers",
+        "platforms": [
+          "Multiple"
+        ],
+        "topic": "deal",
+        "ai_significance": 8,
+        "ai_reason": "Deal roundup; useful for shoppers but routine."
+      },
+      "modality": "confirmed",
+      "topic": "deal",
+      "institution": "IGN",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "List includes Fire Emblem: Fortune's Weave, Metroid Prime 4, Switch 2, etc."
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 7,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-27T18:23:39.784755+06:00"
+    },
+    "evt_e46ba9246974b3": {
+      "event_id": "evt_e46ba9246974b3",
+      "event_key": "xbox game pass october 2026 guide",
+      "event_subject": "Xbox Game Pass October 2026 Lineup",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox game pass october 2026 guide",
+        "subject": "Xbox Game Pass October 2026 Lineup",
+        "event_type": "other",
+        "action": "compiled",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "Xbox Game Pass",
+        "target": "subscribers",
+        "platforms": [
+          "Xbox"
+        ],
+        "topic": "content_schedule",
+        "ai_significance": 9,
+        "ai_reason": "Informative guide; useful for subscribers but routine content update."
+      },
+      "modality": "confirmed",
+      "topic": "content_schedule",
+      "institution": "Xbox Game Pass",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "List of games arriving on Game Pass in October 2026"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 9,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 6,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-27T18:23:39.784757+06:00"
+    },
+    "evt_783c5461b0bddb": {
+      "event_id": "evt_783c5461b0bddb",
+      "event_key": "zelda ocarina remake clip",
+      "event_subject": "Ocarina of Time Remake Clip",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "zelda ocarina remake clip",
+        "subject": "Ocarina of Time Remake Clip",
+        "event_type": "other",
+        "action": "released",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "The Legend of Zelda: Ocarina of Time Remake",
+        "franchise": "Zelda",
+        "institution": "Nintendo",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "trailer",
+        "ai_significance": 8,
+        "ai_reason": "Promotional clip for upcoming remake; standard marketing."
+      },
+      "modality": "confirmed",
+      "topic": "trailer",
+      "institution": "Nintendo",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Short clip reveals closer look at Ganondorf in the remake"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 6,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-27T18:23:39.784759+06:00"
+    },
+    "evt_d2b145af731ce2": {
+      "event_id": "evt_d2b145af731ce2",
+      "event_key": "ace combat 8 trailer",
+      "event_subject": "Ace Combat 8 Trailer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ace combat 8 trailer",
+        "subject": "Ace Combat 8 Trailer",
+        "event_type": "other",
+        "action": "released",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Ace Combat 8",
+        "franchise": "Ace Combat",
+        "institution": "",
+        "target": "players",
+        "platforms": [
+          "Multiple"
+        ],
+        "topic": "trailer",
+        "ai_significance": 12,
+        "ai_reason": "Long trailer builds hype for a major franchise release."
+      },
+      "modality": "confirmed",
+      "topic": "trailer",
+      "institution": "",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "16‑minute story trailer released ahead of October 2 launch, with multiplayer and pre‑order bonus confirmed"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 6,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-09-27T18:23:39.784762+06:00"
+    },
+    "evt_ebd8e22937b128": {
+      "event_id": "evt_ebd8e22937b128",
+      "event_key": "fire emblem fortune weave poll",
+      "event_subject": "Fire Emblem: Fortune's Weave Playtime Poll",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fire emblem fortune weave poll",
+        "subject": "Fire Emblem: Fortune's Weave Playtime Poll",
+        "event_type": "other",
+        "action": "collected_opinion",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Fire Emblem: Fortune's Weave",
+        "franchise": "Fire Emblem",
+        "institution": "Nintendo",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "community_feedback",
+        "ai_significance": 6,
+        "ai_reason": "Community poll; limited impact beyond engagement."
+      },
+      "modality": "confirmed",
+      "topic": "community_feedback",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Poll on hours spent in the new Fire Emblem title"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 7,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-27T18:23:39.784764+06:00"
+    },
+    "evt_517919bb6561e7": {
+      "event_id": "evt_517919bb6561e7",
+      "event_key": "zelda ocarina of time crawl series",
+      "event_subject": "Zelda Ocarina of Time Dungeon Crawl",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "zelda ocarina of time crawl series",
+        "subject": "Zelda Ocarina of Time Dungeon Crawl",
+        "event_type": "other",
+        "action": "started",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "The Legend of Zelda: Ocarina of Time",
+        "franchise": "Zelda",
+        "institution": "Nintendo",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "content_series",
+        "ai_significance": 7,
+        "ai_reason": "Fan‑driven content series; modest promotional impact."
+      },
+      "modality": "confirmed",
+      "topic": "content_series",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Second installment of dungeon crawl series leading up to launch"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 6,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-27T18:23:39.784767+06:00"
+    },
+    "evt_bcc3ea08feb67f": {
+      "event_id": "evt_bcc3ea08feb67f",
+      "event_key": "dune awakening gamepass poll",
+      "event_subject": "Dune: Awakening on Game Pass",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "dune awakening gamepass poll",
+        "subject": "Dune: Awakening on Game Pass",
+        "event_type": "other",
+        "action": "collected_opinion",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Dune: Awakening",
+        "franchise": "Dune",
+        "institution": "Xbox Game Pass",
+        "target": "subscribers",
+        "platforms": [
+          "Xbox"
+        ],
+        "topic": "community_feedback",
+        "ai_significance": 5,
+        "ai_reason": "User poll; reflects engagement but no major industry change."
+      },
+      "modality": "confirmed",
+      "topic": "community_feedback",
+      "institution": "Xbox Game Pass",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Community poll on reception of Dune: Awakening on Game Pass"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 6,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-09-27T18:23:39.784769+06:00"
+    },
+    "evt_56030b50c43486": {
+      "event_id": "evt_56030b50c43486",
+      "event_key": "ps5 welcome hub tlou wallpaper",
+      "event_subject": "PS5 Welcome Hub Wallpaper",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ps5 welcome hub tlou wallpaper",
+        "subject": "PS5 Welcome Hub Wallpaper",
+        "event_type": "other",
+        "action": "added",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "The Last of Us",
+        "institution": "Sony",
+        "target": "players",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "cosmetic",
+        "ai_significance": 5,
+        "ai_reason": "Minor UI cosmetic update tied to franchise promotion."
+      },
+      "modality": "confirmed",
+      "topic": "cosmetic",
+      "institution": "Sony",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Animated The Last of Us wallpaper added to PS5 Welcome Hub"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 6,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-09-27T18:23:39.784771+06:00"
+    },
+    "evt_5fdae11c23b005": {
+      "event_id": "evt_5fdae11c23b005",
+      "event_key": "tloe day ps5 background",
+      "event_subject": "The Last of Us Day Background",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "tloe day ps5 background",
+        "subject": "The Last of Us Day Background",
+        "event_type": "other",
+        "action": "released",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "The Last of Us",
+        "institution": "Naughty Dog",
+        "target": "players",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "cosmetic",
+        "ai_significance": 5,
+        "ai_reason": "Similar to ID 23; small promotional asset."
+      },
+      "modality": "confirmed",
+      "topic": "cosmetic",
+      "institution": "Naughty Dog",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Free animated background released for PS5 to celebrate TLOU Day 2026"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 6,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-09-27T18:23:39.784774+06:00"
+    },
+    "evt_8cf78bfcbf6780": {
+      "event_id": "evt_8cf78bfcbf6780",
+      "event_key": "control resonant update",
+      "event_subject": "Control Resonant Update",
+      "event_type": "patch",
+      "event_frame": {
+        "event_key": "control resonant update",
+        "subject": "Control Resonant Update",
+        "event_type": "patch",
+        "action": "released",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Control Resonant",
+        "franchise": "Control Resonant",
+        "institution": "Remedy Entertainment",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "update",
+        "ai_significance": 9,
+        "ai_reason": "Patch plus upcoming features; moderate interest for fans."
+      },
+      "modality": "confirmed",
+      "topic": "update",
+      "institution": "Remedy Entertainment",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Hotfix released; upcoming Game++ mode and photo mode announced for next month"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 9,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 6,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-09-27T18:23:39.784776+06:00"
+    },
+    "evt_0a54d03095e957": {
+      "event_id": "evt_0a54d03095e957",
+      "event_key": "mr records demo steam release",
+      "event_subject": "Mr. Records Demo",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "mr records demo steam release",
+        "subject": "Mr. Records Demo",
+        "event_type": "release",
+        "action": "released",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Mr. Records",
+        "franchise": "Mr. Records",
+        "institution": "Steam",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "demo_release",
+        "ai_significance": 5,
+        "ai_reason": "Demo launch is modest; future platform plans are tentative."
+      },
+      "modality": "confirmed",
+      "topic": "demo_release",
+      "institution": "Steam",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Demo released on Steam with 2027 platform plans"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 9,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-09-27T18:23:39.784778+06:00"
+    },
+    "evt_fd6aea16aa6693": {
+      "event_id": "evt_fd6aea16aa6693",
+      "event_key": "manor lords release timing",
+      "event_subject": "Manor Lords Release Timing",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "manor lords release timing",
+        "subject": "Manor Lords Release Timing",
+        "event_type": "other",
+        "action": "announced",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Manor Lords",
+        "franchise": "Manor Lords",
+        "institution": "",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "release_timing",
+        "ai_significance": 7,
+        "ai_reason": "Strategic release date choice; modest impact."
+      },
+      "modality": "confirmed",
+      "topic": "release_timing",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Launch set for November 19, same day as GTA 6 release"
+      ],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 6,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-09-27T18:23:39.784781+06:00"
+    },
+    "evt_7042b17cd49592": {
+      "event_id": "evt_7042b17cd49592",
+      "event_key": "video game menu the game release",
+      "event_subject": "Video Game Menu: The Game",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "video game menu the game release",
+        "subject": "Video Game Menu: The Game",
+        "event_type": "other",
+        "action": "released",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Video Game Menu: The Game",
+        "franchise": "Video Game Menu: The Game",
+        "institution": "",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "indie_release",
+        "ai_significance": 4,
+        "ai_reason": "Niche indie title with limited commercial impact."
+      },
+      "modality": "confirmed",
+      "topic": "indie_release",
+      "institution": "",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "A satirical game about video game menus has been released"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 6,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-09-27T18:23:39.784783+06:00"
     }
   },
   "posted_event_ids": [
