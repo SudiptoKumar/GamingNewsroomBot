@@ -78,6 +78,7 @@ When the AI circuit opens after event selection, the bot can use a source-derive
 ## Production validation
 
 The same `validate_story()` function used by self-test is also executed on the live production path before Telegram delivery. It checks headline/summary presence, 3-5 highlights, incomplete text, and Markdown asterisks that would leak into the HTML message.
+The numeric-grounding guard canonicalizes magnitude notation before comparison. For example, `27M`, `27 mn`, `27 million`, and `27,000,000` are treated as the same magnitude, while different values or percentage-vs-number mismatches are rejected. Trusted source title/excerpt metadata is also available as numeric evidence when the extracted article body omits a value.
 
 ## Discovery resilience
 

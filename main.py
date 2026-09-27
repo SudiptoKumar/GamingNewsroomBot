@@ -11,6 +11,7 @@ import argparse
 import logging
 import hashlib
 from datetime import datetime, timedelta, timezone
+from decimal import Decimal, InvalidOperation
 from zoneinfo import ZoneInfo
 from urllib.parse import urlparse, urljoin, quote, urlsplit, parse_qsl, urlencode
 from difflib import SequenceMatcher
@@ -3058,14 +3059,15 @@ def infer_platform(item, article_text):
 NUMBER_RE = re.compile(
     r"""
     (?:
-        (?:US|U\.S\.|HK|HK\$|Tk|BDT|USD|EUR|GBP|JPY|CNY|INR|৳|\$|€|£|¥)
+        (?:US\$?|U\.S\.\$?|HK\$?|CA\$?|AU\$?|NZ\$?|SG\$?|Tk|BDT|USD|EUR|GBP|JPY|CNY|INR|৳|\$|€|£|¥)
         \s*
     )?
-    \d[\d,]*(?:\.\d+)?
+    [+-]?
+    (?:\d[\d,]*(?:\.\d+)?|\.\d+)
     \s*
     (?:
-        million|billion|trillion|
-        crore|lakh|bn|mn|b|m|k|%
+        thousand(?:s)?|million(?:s)?|billion(?:s)?|trillion(?:s)?|quadrillion(?:s)?|
+        crore(?:s)?|lakh(?:s)?|bn|mn|thou|k|m|b|t|q|%|percent(?:age)?
     )?
     """,
     re.I | re.X,
@@ -3075,23 +3077,113 @@ YEAR_RE = re.compile(
     r"^(?:19|20)\d{2}$"
 )
 
+NUMBER_MAGNITUDES = {
+    "thousand": Decimal("1000"),
+    "thou": Decimal("1000"),
+    "k": Decimal("1000"),
+    "million": Decimal("1000000"),
+    "mn": Decimal("1000000"),
+    "m": Decimal("1000000"),
+    "billion": Decimal("1000000000"),
+    "bn": Decimal("1000000000"),
+    "b": Decimal("1000000000"),
+    "trillion": Decimal("1000000000000"),
+    "t": Decimal("1000000000000"),
+    "quadrillion": Decimal("1000000000000000"),
+    "q": Decimal("1000000000000000"),
+    "crore": Decimal("10000000"),
+    "lakh": Decimal("100000"),
+}
 
-def normalize_number(
-    raw,
-):
-    text = (
-        safe_text(raw)
-        .lower()
-        .replace(",", "")
-        .replace("৳", "tk")
-        .replace("$", "usd")
-    )
 
-    return re.sub(
-        r"\s+",
-        "",
-        text,
+def _currency_code(raw: str) -> str:
+    text = safe_text(raw).strip().lower()
+    if not text:
+        return ""
+    if "hk$" in text:
+        return "HKD"
+    if "ca$" in text:
+        return "CAD"
+    if "au$" in text:
+        return "AUD"
+    if "nz$" in text:
+        return "NZD"
+    if "sg$" in text:
+        return "SGD"
+    if "us$" in text or "u.s.$" in text or "$" in text or "usd" in text:
+        return "USD"
+    if "tk" in text or "bdt" in text or "৳" in text:
+        return "BDT"
+    if "eur" in text or "€" in text:
+        return "EUR"
+    if "gbp" in text or "£" in text:
+        return "GBP"
+    if "jpy" in text or "¥" in text:
+        return "JPY"
+    if "cny" in text:
+        return "CNY"
+    if "inr" in text:
+        return "INR"
+    return ""
+
+
+def _parse_numeric_token(raw):
+    """Return a canonical numeric representation independent of magnitude spelling."""
+    token = safe_text(raw).strip()
+    if not token:
+        return None
+
+    prefix_match = re.match(
+        r"^\s*(US\$?|U\.S\.\$?|HK\$?|CA\$?|AU\$?|NZ\$?|SG\$?|Tk|BDT|USD|EUR|GBP|JPY|CNY|INR|৳|\$|€|£|¥)?\s*",
+        token,
+        re.I,
     )
+    prefix = prefix_match.group(1) if prefix_match else ""
+    body = token[prefix_match.end():] if prefix_match else token
+
+    match = re.match(
+        r"^[+-]?(?P<num>(?:\d[\d,]*(?:\.\d+)?|\.\d+))\s*(?P<unit>thousand|millions?|billions?|trillions?|quadrillions?|crores?|lakhs?|bn|mn|thou|k|m|b|t|q|%|percent(?:age)?)?$",
+        body,
+        re.I,
+    )
+    if not match:
+        return None
+
+    try:
+        value = Decimal(match.group("num").replace(",", ""))
+    except (InvalidOperation, ValueError):
+        return None
+
+    unit = (match.group("unit") or "").lower()
+    if unit.endswith("s") and unit not in {"us", "ms"}:
+        unit = unit[:-1]
+
+    if unit in {"%", "percent", "percentage"}:
+        kind = "percent"
+        multiplier = Decimal("1")
+    else:
+        kind = "number"
+        multiplier = NUMBER_MAGNITUDES.get(unit, Decimal("1"))
+
+    value *= multiplier
+    if value == value.to_integral_value():
+        canonical_value = str(value.quantize(Decimal("1")))
+    else:
+        canonical_value = format(value.normalize(), "f").rstrip("0").rstrip(".")
+
+    return {
+        "kind": kind,
+        "value": canonical_value,
+        "currency": _currency_code(prefix),
+    }
+
+
+def normalize_number(raw):
+    """Canonicalize number magnitude so 27M == 27 million == 27,000,000."""
+    parsed = _parse_numeric_token(raw)
+    if not parsed:
+        return ""
+    return f"{parsed['kind']}:{parsed['value']}"
 
 
 def numeric_tokens(text):
@@ -3145,43 +3237,46 @@ def numeric_tokens(text):
 def numeric_grounded(
     story,
     article_text,
+    source_context=None,
 ):
-    source_numbers = [
+    """Check generated numeric claims against source numbers by actual magnitude.
+
+    Magnitude spellings such as 27M, 27 mn, 27 million, and 27,000,000
+    resolve to the same canonical quantity. The optional source_context lets
+    trusted article metadata such as the source title/excerpt support numeric
+    grounding when the extracted article body omits that value.
+    """
+    source_text = safe_text(article_text)
+    if source_context:
+        if isinstance(source_context, dict):
+            source_text = " ".join(
+                [
+                    source_text,
+                    safe_text(source_context.get("title")),
+                    safe_text(source_context.get("excerpt")),
+                ]
+            )
+        else:
+            source_text = " ".join([source_text, safe_text(source_context)])
+
+    source_numbers = {
         normalize_number(x)
-        for x in numeric_tokens(
-            article_text
-        )
-    ]
+        for x in numeric_tokens(source_text)
+        if normalize_number(x)
+    }
 
     generated_text = " ".join(
         [
-            story.get(
-                "headline",
-                "",
-            ),
-            story.get(
-                "summary",
-                "",
-            ),
-            *story.get(
-                "highlights",
-                [],
-            ),
+            story.get("headline", ""),
+            story.get("summary", ""),
+            *story.get("highlights", []),
         ]
     )
 
-    for token in numeric_tokens(
-        generated_text
-    ):
-        normalized = normalize_number(
-            token
-        )
-
+    for token in numeric_tokens(generated_text):
+        normalized = normalize_number(token)
         if not normalized:
             continue
-
-        # Require either exact normalized occurrence or a sufficiently
-        # close numeric token from source.
         if normalized not in source_numbers:
             return False, token
 
@@ -4285,6 +4380,7 @@ def process_story_candidate(item):
     grounded, bad_number = numeric_grounded(
         story,
         article_text,
+        item,
     )
 
     if not grounded:
@@ -4317,6 +4413,7 @@ def process_story_candidate(item):
         grounded_retry, _ = numeric_grounded(
             retry_story,
             article_text,
+            item,
         )
 
         if not grounded_retry:
@@ -4352,7 +4449,7 @@ def process_story_candidate(item):
         )
         retry_story["image_url"] = image_url or item.get("image")
 
-        grounded_retry, _ = numeric_grounded(retry_story, article_text)
+        grounded_retry, _ = numeric_grounded(retry_story, article_text, item)
         if not grounded_retry:
             return None
 
@@ -4789,7 +4886,7 @@ def self_test():
     try:
         globals()["extract_article"] = lambda item: ("A source article with enough factual text. Another factual sentence.", "")
         globals()["generate_story"] = lambda item, article_text: dict(sample)
-        globals()["numeric_grounded"] = lambda story, article_text: (True, "")
+        globals()["numeric_grounded"] = lambda story, article_text, source_context=None: (True, "")
         globals()["claims_grounded"] = lambda story, article_text: (True, [])
         assert process_story_candidate({"region":"Gaming","source":"IGN","url":"https://ign.com/live-validator","canonical":"ign.com/live-validator","title":"Validator Test","topic":"Game Updates","published_date":now.isoformat()}) is None
 
@@ -4804,6 +4901,52 @@ def self_test():
         globals()["numeric_grounded"] = saved_numeric
         globals()["claims_grounded"] = saved_claims
         AI_RUN_STATE.update(saved_ai_state)
+
+    # Numeric-grounding regression: magnitude spellings must canonicalize.
+    numeric_cases = [
+        ("27 M", "27 million"),
+        ("27M", "27,000,000"),
+        ("2.5B", "2.5 billion"),
+        ("2.5bn", "2,500 million"),
+        ("500K", "500 thousand"),
+        ("1.2mn", "1.2 million"),
+        ("1.5 crore", "15 million"),
+        ("27%", "27 percent"),
+        ("$2.5B", "2.5 billion"),
+    ]
+    for generated_num, source_num in numeric_cases:
+        assert normalize_number(generated_num) == normalize_number(source_num), (generated_num, source_num, normalize_number(generated_num), normalize_number(source_num))
+
+    assert normalize_number("27M") != normalize_number("28M")
+    assert normalize_number("27%") != normalize_number("27")
+    grounded_ok, grounded_bad = numeric_grounded(
+        {
+            "headline": "Minecraft reaches 27M players",
+            "summary": "The game has 27 million players.",
+            "highlights": ["The milestone reached 27 million players."],
+        },
+        "The game reached 27 million players worldwide.",
+    )
+    assert grounded_ok, grounded_bad
+    grounded_ok, grounded_bad = numeric_grounded(
+        {
+            "headline": "Minecraft reaches 27M players",
+            "summary": "The game has 27M players.",
+            "highlights": ["The milestone reached 27M players."],
+        },
+        "The article body omits the number.",
+        {"title": "Minecraft reaches 27 million players", "excerpt": "Minecraft has 27 million players."},
+    )
+    assert grounded_ok, grounded_bad
+    grounded_ok, grounded_bad = numeric_grounded(
+        {
+            "headline": "Minecraft reaches 28M players",
+            "summary": "The game has 28 million players.",
+            "highlights": ["The milestone reached 28M players."],
+        },
+        "The game reached 27 million players worldwide.",
+    )
+    assert not grounded_ok and grounded_bad == "28M"
 
     # AI budget circuit regression.
     saved_ai_state = dict(AI_RUN_STATE)
