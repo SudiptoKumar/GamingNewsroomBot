@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"24ecf-oQunECX2hSEbDRg5IIqxlTBNZes\"",
+      "etag": "W/\"1f4ff-MhFaGfh7to7nx9/l0ABAmbcvoR4\"",
       "last_modified": null,
-      "last_checked": "2026-09-27T23:30:23.663848+06:00",
+      "last_checked": "2026-09-28T12:19:50.848550+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T23:30:23.902487+06:00",
+      "last_checked": "2026-09-28T12:19:51.147700+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ab9529b-ad0\"",
-      "last_modified": "Sun, 27 Sep 2026 17:30:03 GMT",
-      "last_checked": "2026-09-27T23:30:24.217981+06:00",
+      "etag": "\"6aba05e8-ad3\"",
+      "last_modified": "Mon, 28 Sep 2026 06:15:04 GMT",
+      "last_checked": "2026-09-28T12:19:51.604267+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Sun, 27 Sep 2026 15:25:18 GMT",
-      "last_checked": "2026-09-27T23:30:24.414163+06:00",
+      "last_checked": "2026-09-28T12:19:52.323428+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ab94e8c-11d9\"",
-      "last_modified": "Sun, 27 Sep 2026 17:12:44 GMT",
-      "last_checked": "2026-09-27T23:30:24.791031+06:00",
+      "etag": "\"ae2d1f4487134ff35b0ed4ba0251f14d\"",
+      "last_modified": "Mon, 28 Sep 2026 06:15:51 GMT",
+      "last_checked": "2026-09-28T12:19:52.563283+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T23:30:24.941571+06:00",
+      "last_checked": "2026-09-28T12:19:52.781049+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T23:30:25.414812+06:00",
+      "last_checked": "2026-09-28T12:19:53.384047+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"66d79c2f86013cd6596227327837f6a9\"",
-      "last_modified": "Sun, 27 Sep 2026 17:00:09 GMT",
-      "last_checked": "2026-09-27T23:30:27.801739+06:00",
+      "etag": "W/\"1789773fa26b69536ed49a658e51ce5d\"",
+      "last_modified": "Sun, 27 Sep 2026 21:47:07 GMT",
+      "last_checked": "2026-09-28T12:19:53.582092+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T23:30:27.892487+06:00",
+      "last_checked": "2026-09-28T12:19:53.820149+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Sun, 27 Sep 2026 14:23:05 GMT",
-      "last_checked": "2026-09-27T23:30:28.448637+06:00",
+      "last_checked": "2026-09-28T12:19:54.487621+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
       "last_modified": "Tue, 15 Sep 2026 20:00:23 GMT",
-      "last_checked": "2026-09-27T23:30:28.918637+06:00",
+      "last_checked": "2026-09-28T12:19:55.169500+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"de2251c53e75ad18666e57735f424339\"",
-      "last_modified": "Sun, 27 Sep 2026 16:04:00 GMT",
-      "last_checked": "2026-09-27T23:30:29.429976+06:00",
+      "etag": "W/\"df184041ccdc5f93189067907b66d4be\"",
+      "last_modified": "Sun, 27 Sep 2026 23:26:59 GMT",
+      "last_checked": "2026-09-28T12:19:55.354277+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T23:30:29.777766+06:00",
+      "last_checked": "2026-09-28T12:19:55.737390+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T23:30:30.296349+06:00",
+      "last_checked": "2026-09-28T12:19:56.263665+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-27T23:30:30.672431+06:00",
+      "last_checked": "2026-09-28T12:19:56.810188+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-27T23:30:30.873469+06:00",
-      "fail_count": 31,
+      "last_checked": "2026-09-28T12:19:57.107754+06:00",
+      "fail_count": 32,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"2e87c54c52f95e6da36516b9115e1d27\"",
-      "last_modified": "Wed, 23 Sep 2026 03:38:50 GMT",
-      "last_checked": "2026-09-27T23:30:30.978376+06:00",
+      "etag": "W/\"f70efd518da9f640a44fb049e17596bd\"",
+      "last_modified": "Thu, 24 Sep 2026 03:20:12 GMT",
+      "last_checked": "2026-09-28T12:19:57.280158+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-27T23:30:31.101713+06:00",
+      "last_checked": "2026-09-28T12:19:57.528856+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-27T23:30:31.299308+06:00",
-      "fail_count": 31,
+      "last_checked": "2026-09-28T12:19:57.773035+06:00",
+      "fail_count": 32,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"540e5b6e6e989309fd95ce85fd40aef9\"",
       "last_modified": "Sun, 27 Sep 2026 16:00:00 GMT",
-      "last_checked": "2026-09-27T23:30:31.539847+06:00",
+      "last_checked": "2026-09-28T12:19:57.995443+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -636,6 +636,22 @@
       "status": "pending",
       "first_seen": "2026-09-27T23:30:31.575413+06:00",
       "last_seen": "2026-09-27T23:30:31.575422+06:00"
+    },
+    "polygon.com/dark-shadows-revival-free-youtube-september-2026": {
+      "title": "35 Years Later, the '90s Remake of a Cult Classic Thriller Is Officially Free to Watch on YouTube",
+      "url": "https://www.polygon.com/dark-shadows-revival-free-youtube-september-2026/",
+      "canonical": "polygon.com/dark-shadows-revival-free-youtube-september-2026",
+      "published_dt": "2026-09-28T10:00:21+06:00",
+      "published_date": "2026-09-28T10:00:21+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "A '90s remake of one of the most famous vampire soap operas does a better job at introducing the story to newcomers.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/dark-shadows.jpeg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-28T12:19:53.392670+06:00",
+      "last_seen": "2026-09-28T12:19:53.392675+06:00"
     }
   },
   "events": {
@@ -47031,6 +47047,47 @@
         "total": 36
       },
       "last_seen": "2026-09-27T23:31:49.848999+06:00"
+    },
+    "evt_83038d9e59f923": {
+      "event_id": "evt_83038d9e59f923",
+      "event_key": "youtube free release 1990s remake cult thriller",
+      "event_subject": "1990s remake of cult thriller",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "youtube free release 1990s remake cult thriller",
+        "subject": "1990s remake of cult thriller",
+        "event_type": "other",
+        "action": "made free to watch",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "YouTube",
+        "target": "general audience",
+        "platforms": [
+          "YouTube"
+        ],
+        "topic": "media_distribution"
+      },
+      "modality": "unknown",
+      "topic": "media_distribution",
+      "institution": "YouTube",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-28T12:21:10.558951+06:00"
     }
   },
   "posted_event_ids": [
