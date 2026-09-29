@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1f198-O2/17TKm/R/C5EDcCdm+pHP6wto\"",
+      "etag": "W/\"1d1db-giUUNb2ezTln3qQmoTUHgfLKnO0\"",
       "last_modified": null,
-      "last_checked": "2026-09-29T03:09:32.157268+06:00",
+      "last_checked": "2026-09-29T12:35:21.661340+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-29T03:09:32.549793+06:00",
+      "last_checked": "2026-09-29T12:35:21.827692+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6abad680-9d9\"",
-      "last_modified": "Mon, 28 Sep 2026 21:05:04 GMT",
-      "last_checked": "2026-09-29T03:09:32.887904+06:00",
+      "etag": "\"6abb5c17-9c8\"",
+      "last_modified": "Tue, 29 Sep 2026 06:35:03 GMT",
+      "last_checked": "2026-09-29T12:35:22.109188+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Mon, 28 Sep 2026 19:05:03 GMT",
-      "last_checked": "2026-09-29T03:09:33.502405+06:00",
+      "last_checked": "2026-09-29T12:35:22.260710+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ababc4b-1318\"",
-      "last_modified": "Mon, 28 Sep 2026 19:13:15 GMT",
-      "last_checked": "2026-09-29T03:09:34.138200+06:00",
+      "etag": "\"6abb56b9-1278\"",
+      "last_modified": "Tue, 29 Sep 2026 06:12:09 GMT",
+      "last_checked": "2026-09-29T12:35:22.468226+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-29T03:09:34.484780+06:00",
+      "last_checked": "2026-09-29T12:35:22.850588+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-29T03:09:35.666094+06:00",
+      "last_checked": "2026-09-29T12:35:24.235516+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"e9bfef0c11f1d84a351f8c9888925b79\"",
-      "last_modified": "Mon, 28 Sep 2026 20:30:36 GMT",
-      "last_checked": "2026-09-29T03:09:35.984745+06:00",
+      "etag": "W/\"a785b8c9f18422466376953909d3c5d3\"",
+      "last_modified": "Mon, 28 Sep 2026 23:00:23 GMT",
+      "last_checked": "2026-09-29T12:35:24.494678+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-29T03:09:36.297999+06:00",
+      "last_checked": "2026-09-29T12:35:24.678936+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Mon, 28 Sep 2026 16:12:42 GMT",
-      "last_checked": "2026-09-29T03:09:36.720728+06:00",
+      "last_checked": "2026-09-29T12:35:25.423536+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
       "last_modified": "Tue, 15 Sep 2026 20:00:23 GMT",
-      "last_checked": "2026-09-29T03:09:37.870812+06:00",
+      "last_checked": "2026-09-29T12:35:26.139321+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"1a53b2e62b3261b983969f1cdb0434f1\"",
-      "last_modified": "Mon, 28 Sep 2026 21:04:08 GMT",
-      "last_checked": "2026-09-29T03:09:38.492618+06:00",
+      "etag": "W/\"2b1e95b1f6b59d930230f9ee7dbb26c8\"",
+      "last_modified": "Tue, 29 Sep 2026 00:30:24 GMT",
+      "last_checked": "2026-09-29T12:35:26.270223+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-29T03:09:39.060939+06:00",
+      "last_checked": "2026-09-29T12:35:26.640455+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-29T03:09:40.477430+06:00",
+      "last_checked": "2026-09-29T12:35:27.204585+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-29T03:09:41.936663+06:00",
+      "last_checked": "2026-09-29T12:35:27.761916+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-29T03:09:42.218536+06:00",
-      "fail_count": 34,
+      "last_checked": "2026-09-29T12:35:28.254026+06:00",
+      "fail_count": 35,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"249fb25875d6d87a5e0b4c630573c100\"",
       "last_modified": "Mon, 28 Sep 2026 16:57:54 GMT",
-      "last_checked": "2026-09-29T03:09:42.831003+06:00",
+      "last_checked": "2026-09-29T12:35:28.373718+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-29T03:09:42.989918+06:00",
+      "last_checked": "2026-09-29T12:35:28.489484+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-29T03:09:43.612080+06:00",
-      "fail_count": 34,
+      "last_checked": "2026-09-29T12:35:28.641596+06:00",
+      "fail_count": 35,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"91508bcb8b51801e362f976fb5c4b89c\"",
       "last_modified": "Mon, 28 Sep 2026 16:00:00 GMT",
-      "last_checked": "2026-09-29T03:09:43.819116+06:00",
+      "last_checked": "2026-09-29T12:35:28.784582+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -2643,6 +2643,70 @@
       "status": "pending",
       "first_seen": "2026-09-29T03:09:42.873703+06:00",
       "last_seen": "2026-09-29T03:09:42.873706+06:00"
+    },
+    "pcgamer.com/hardware/gaming-monitors/if-you-feel-like-youre-letting-your-gpu-go-to-waste-this-5k2k-alienware-monitor-is-actually-affordable-with-a-hefty-new-price-drop": {
+      "title": "If you feel like you're letting your GPU go to waste, this 5K2K Alienware monitor is actually affordable with a hefty new price drop",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/if-you-feel-like-youre-letting-your-gpu-go-to-waste-this-5k2k-alienware-monitor-is-actually-affordable-with-a-hefty-new-price-drop/",
+      "canonical": "pcgamer.com/hardware/gaming-monitors/if-you-feel-like-youre-letting-your-gpu-go-to-waste-this-5k2k-alienware-monitor-is-actually-affordable-with-a-hefty-new-price-drop",
+      "published_dt": "2026-09-29T09:54:21+06:00",
+      "published_date": "2026-09-29T09:54:21+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "The Alienware 39 AW3926QW gets its first major price drop, as news of a fix for one of its drawbacks emerges.",
+      "image": "https://cdn.mos.cms.futurecdn.net/wCbd8EUNFSGdJgfgXmRUJd-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-29T12:35:23.731838+06:00",
+      "last_seen": "2026-09-29T12:35:23.731846+06:00"
+    },
+    "polygon.com/fire-emblem-fortunes-weave-act-2-villain-twist": {
+      "title": "Fire Emblem Just Completely Shook Up a Tired RPG Villain Twist",
+      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-act-2-villain-twist/",
+      "canonical": "polygon.com/fire-emblem-fortunes-weave-act-2-villain-twist",
+      "published_dt": "2026-09-29T10:30:15+06:00",
+      "published_date": "2026-09-29T10:30:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Fire Emblem: Fortune’s Weave sees a tyrannical villain ascend to power in Act 2, and boy does he commit to the bit",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/fe3h-fire-emblem-fortune-s-weave-divine-sovereign.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-29T12:35:24.245429+06:00",
+      "last_seen": "2026-09-29T12:35:24.245435+06:00"
+    },
+    "polygon.com/buffy-vampire-slayer-school-hard-retrospective-spike-first-episode": {
+      "title": "29 Years Ago, 'Buffy' Introduced Its Best Villain. He Was Never Meant to Last.",
+      "url": "https://www.polygon.com/buffy-vampire-slayer-school-hard-retrospective-spike-first-episode/",
+      "canonical": "polygon.com/buffy-vampire-slayer-school-hard-retrospective-spike-first-episode",
+      "published_dt": "2026-09-29T10:00:23+06:00",
+      "published_date": "2026-09-29T10:00:23+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "29 years ago, Buffy the Vampire Slayer aired an episode that introduced its best villain. It was also when the show found its voice.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/btvs203-01485.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-29T12:35:24.245586+06:00",
+      "last_seen": "2026-09-29T12:35:24.245591+06:00"
+    },
+    "nintendolife.com/news/2026/09/tales-of-eternia-is-getting-a-proper-physical-release-on-switch": {
+      "title": "Tales Of Eternia Is Getting A Proper Physical Release On Switch",
+      "url": "https://www.nintendolife.com/news/2026/09/tales-of-eternia-is-getting-a-proper-physical-release-on-switch",
+      "canonical": "nintendolife.com/news/2026/09/tales-of-eternia-is-getting-a-proper-physical-release-on-switch",
+      "published_dt": "2026-09-29T09:55:00+06:00",
+      "published_date": "2026-09-29T09:55:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Just don't expect an upgrade. Bandai Namco is bringing its role-playing game Tales of Eternia Remastered to the Switch and Switch 2 next month, and some more information about the physical release has now been shared. It's apparently a \"digital-only\" release in the US, according to Nintendo Everything . In case you missed it, there will be physical options available elsewhere. If you are buying a hard copy and want a proper version with \"everything\" on the game cart, you'll need to purchase the original Switch release. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/6aebcf97fe4c6/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-29T12:35:26.661704+06:00",
+      "last_seen": "2026-09-29T12:35:26.661711+06:00"
     }
   },
   "events": {
@@ -53519,6 +53583,173 @@
         "total": 32
       },
       "last_seen": "2026-09-29T03:18:47.058154+06:00"
+    },
+    "evt_2c152d936c71c3": {
+      "event_id": "evt_2c152d936c71c3",
+      "event_key": "alienware 39 aw3926qw price drop",
+      "event_subject": "Alienware 39 AW3926QW monitor",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "alienware 39 aw3926qw price drop",
+        "subject": "Alienware 39 AW3926QW monitor",
+        "event_type": "other",
+        "action": "price_drop",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PC Gamer",
+        "target": "monitor",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "modality": "unknown",
+      "topic": "hardware",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "monitor receives its first major price reduction"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-09-29T12:37:39.385640+06:00"
+    },
+    "evt_e65b494c9177fc": {
+      "event_id": "evt_e65b494c9177fc",
+      "event_key": "tales of eternia remastered physical release switch",
+      "event_subject": "Tales of Eternia Remastered",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "tales of eternia remastered physical release switch",
+        "subject": "Tales of Eternia Remastered",
+        "event_type": "other",
+        "action": "release",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Tales of Eternia Remastered",
+        "franchise": "Tales",
+        "institution": "Nintendo Life",
+        "target": "physical edition",
+        "platforms": [
+          "Switch",
+          "Switch 2"
+        ],
+        "topic": "distribution"
+      },
+      "modality": "unknown",
+      "topic": "distribution",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "physical copies will be available outside the US"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-09-29T12:37:39.385660+06:00"
+    },
+    "evt_3700a4e7673d0c": {
+      "event_id": "evt_3700a4e7673d0c",
+      "event_key": "fire emblem fortunes weave narrative twist analysis",
+      "event_subject": "Fire Emblem: Fortune’s Weave",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fire emblem fortunes weave narrative twist analysis",
+        "subject": "Fire Emblem: Fortune’s Weave",
+        "event_type": "other",
+        "action": "twist",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "Fire Emblem: Fortune’s Weave",
+        "franchise": "Fire Emblem",
+        "institution": "Polygon",
+        "target": "villain",
+        "platforms": [],
+        "topic": "storyline"
+      },
+      "modality": "unknown",
+      "topic": "storyline",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "villain ascends to power in Act 2"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-29T12:37:39.385667+06:00"
+    },
+    "evt_31d819907d8c8d": {
+      "event_id": "evt_31d819907d8c8d",
+      "event_key": "buffy vampire slayer best villain introduction retrospective",
+      "event_subject": "Buffy the Vampire Slayer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "buffy vampire slayer best villain introduction retrospective",
+        "subject": "Buffy the Vampire Slayer",
+        "event_type": "other",
+        "action": "highlight",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "best villain",
+        "platforms": [],
+        "topic": "television"
+      },
+      "modality": "unknown",
+      "topic": "television",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "episode introduced series' best villain 29 years ago"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-29T12:37:39.385672+06:00"
     }
   },
   "posted_event_ids": [
