@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1e5de-UcqWuDYG/WjzJsKoZ8XUN5HmeqE\"",
+      "etag": "W/\"1c007-GlqFNXL0nkb1eTJk9Kpq9g6ZX0g\"",
       "last_modified": null,
-      "last_checked": "2026-09-30T12:18:08.465550+06:00",
+      "last_checked": "2026-09-30T19:20:50.253712+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-30T12:18:08.783735+06:00",
+      "last_checked": "2026-09-30T19:20:50.423987+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6abca8e7-b31\"",
-      "last_modified": "Wed, 30 Sep 2026 06:15:03 GMT",
-      "last_checked": "2026-09-30T12:18:09.164723+06:00",
+      "etag": "\"6abd0c84-ae9\"",
+      "last_modified": "Wed, 30 Sep 2026 13:20:04 GMT",
+      "last_checked": "2026-09-30T19:20:50.719908+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Tue, 29 Sep 2026 16:24:48 GMT",
-      "last_checked": "2026-09-30T12:18:09.400318+06:00",
+      "last_modified": "Wed, 30 Sep 2026 12:54:26 GMT",
+      "last_checked": "2026-09-30T19:20:50.981716+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6abca838-1283\"",
-      "last_modified": "Wed, 30 Sep 2026 06:12:08 GMT",
-      "last_checked": "2026-09-30T12:18:09.788241+06:00",
+      "etag": "\"6abd0b3e-121d\"",
+      "last_modified": "Wed, 30 Sep 2026 13:14:38 GMT",
+      "last_checked": "2026-09-30T19:20:51.341793+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-30T12:18:09.998324+06:00",
+      "last_checked": "2026-09-30T19:20:51.491814+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-30T12:18:10.595928+06:00",
+      "last_checked": "2026-09-30T19:20:51.874394+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"95ea958c75d513c2b6e5b94685b383b1\"",
-      "last_modified": "Wed, 30 Sep 2026 02:37:02 GMT",
-      "last_checked": "2026-09-30T12:18:10.850682+06:00",
+      "etag": "W/\"ba9c0b2d5b0aeddfc6b171bac2d90b4f\"",
+      "last_modified": "Wed, 30 Sep 2026 13:16:05 GMT",
+      "last_checked": "2026-09-30T19:20:52.047360+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-30T12:18:11.045952+06:00",
+      "last_checked": "2026-09-30T19:20:52.211540+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Tue, 29 Sep 2026 23:27:16 GMT",
-      "last_checked": "2026-09-30T12:18:11.505960+06:00",
+      "last_modified": "Wed, 30 Sep 2026 11:53:06 GMT",
+      "last_checked": "2026-09-30T19:20:52.808248+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
       "last_modified": "Tue, 15 Sep 2026 20:00:23 GMT",
-      "last_checked": "2026-09-30T12:18:12.092998+06:00",
+      "last_checked": "2026-09-30T19:20:53.205494+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"4b4a6af7c75c27db632ab96f63337715\"",
-      "last_modified": "Tue, 29 Sep 2026 22:57:05 GMT",
-      "last_checked": "2026-09-30T12:18:12.250622+06:00",
+      "etag": "W/\"a37eee561bd7944d5ec053b5e62817a3\"",
+      "last_modified": "Wed, 30 Sep 2026 13:19:00 GMT",
+      "last_checked": "2026-09-30T19:20:53.375167+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-30T12:18:12.570233+06:00",
+      "last_checked": "2026-09-30T19:20:53.668169+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-30T12:18:12.905860+06:00",
+      "last_checked": "2026-09-30T19:20:53.985581+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-30T12:18:13.298190+06:00",
+      "last_checked": "2026-09-30T19:20:54.487141+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-30T12:18:13.635236+06:00",
-      "fail_count": 36,
+      "last_checked": "2026-09-30T19:20:54.669700+06:00",
+      "fail_count": 37,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"76e0cc3e2eb841413e1968134570e8c6\"",
-      "last_modified": "Wed, 30 Sep 2026 03:37:21 GMT",
-      "last_checked": "2026-09-30T12:18:13.851929+06:00",
+      "etag": "W/\"6cbea714d08a07760932ef32c3b5b5e5\"",
+      "last_modified": "Mon, 28 Sep 2026 20:29:47 GMT",
+      "last_checked": "2026-09-30T19:20:54.745353+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-30T12:18:14.137960+06:00",
+      "last_checked": "2026-09-30T19:20:55.009012+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-30T12:18:14.339305+06:00",
-      "fail_count": 36,
+      "last_checked": "2026-09-30T19:20:55.197930+06:00",
+      "fail_count": 37,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"de791fd6e85770c89f1db542396eaf55\"",
-      "last_modified": "Tue, 29 Sep 2026 20:00:00 GMT",
-      "last_checked": "2026-09-30T12:18:15.029438+06:00",
+      "etag": "W/\"35b1d3d0da4b85c1b9be5641141df2eb\"",
+      "last_modified": "Wed, 30 Sep 2026 10:00:00 GMT",
+      "last_checked": "2026-09-30T19:20:55.359024+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -2838,6 +2838,1099 @@
       "status": "pending",
       "first_seen": "2026-09-30T12:18:26.800638+06:00",
       "last_seen": "2026-09-30T12:18:26.800643+06:00"
+    },
+    "ign.com/articles/gta-6-every-animal-confirmed-so-far": {
+      "title": "GTA 6: Every Animal Confirmed So Far",
+      "url": "https://www.ign.com/articles/gta-6-every-animal-confirmed-so-far",
+      "canonical": "ign.com/articles/gta-6-every-animal-confirmed-so-far",
+      "published_dt": "2026-09-30T18:11:02+06:00",
+      "published_date": "2026-09-30T18:11:02+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Here's every animal revealed for GTA 6 so far, now that Rockstar has confirmed the game features an incredible 170 species.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/30/iguana-gtavi-1790769938575.webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:50.331335+06:00",
+      "last_seen": "2026-09-30T19:20:50.331343+06:00"
+    },
+    "ign.com/articles/28-years-later-part-3-will-get-made-danny-boyle-insists-and-cillian-murphy-will-be-in-it-a-lot": {
+      "title": "28 Years Later Part 3 'Will Get Made,' Danny Boyle Insists — and Cillian Murphy Will Be in It 'A Lot'",
+      "url": "https://www.ign.com/articles/28-years-later-part-3-will-get-made-danny-boyle-insists-and-cillian-murphy-will-be-in-it-a-lot",
+      "canonical": "ign.com/articles/28-years-later-part-3-will-get-made-danny-boyle-insists-and-cillian-murphy-will-be-in-it-a-lot",
+      "published_dt": "2026-09-30T18:00:54+06:00",
+      "published_date": "2026-09-30T18:00:54+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "With no official word that 28 Years Later Part 3 is in the works, director Danny Boyle has chimed in to insist it will be made eventually, and Cillian Murphy will play a key role.",
+      "image": "https://assets-prd.ignimgs.com/2025/06/18/28-days-later-danny-boyle-best-movies-thumb-1750279639346.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:50.331521+06:00",
+      "last_seen": "2026-09-30T19:20:50.331526+06:00"
+    },
+    "ign.com/articles/john-carpenter-calls-2011-the-thing-prequel-a-piece-of-crap-but-some-fans-are-rushing-to-its-defence": {
+      "title": "John Carpenter Calls 2011 The Thing Prequel a ‘Piece of Crap,’ but Some Fans Are Rushing to Its Defence",
+      "url": "https://www.ign.com/articles/john-carpenter-calls-2011-the-thing-prequel-a-piece-of-crap-but-some-fans-are-rushing-to-its-defence",
+      "canonical": "ign.com/articles/john-carpenter-calls-2011-the-thing-prequel-a-piece-of-crap-but-some-fans-are-rushing-to-its-defence",
+      "published_dt": "2026-09-30T17:22:13+06:00",
+      "published_date": "2026-09-30T17:22:13+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Horror movie legend John Carpenter has slammed the 2011 The Thing prequel movie, calling it a “piece of crap.” But not all his fans are onboard with his take.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/30/john-carpenter-1790766892797.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:50.331665+06:00",
+      "last_seen": "2026-09-30T19:20:50.331669+06:00"
+    },
+    "ign.com/articles/the-witcher-3-remastered-nintendo-switch-2-can-be-unlocked-for-free-even-if-you-borrow-a-switch-physical-copy-from-a-friend": {
+      "title": "The Witcher 3 Remastered Nintendo Switch 2 Can Be Unlocked for Free Even if You Borrow a Switch Physical Copy From a Friend",
+      "url": "https://www.ign.com/articles/the-witcher-3-remastered-nintendo-switch-2-can-be-unlocked-for-free-even-if-you-borrow-a-switch-physical-copy-from-a-friend",
+      "canonical": "ign.com/articles/the-witcher-3-remastered-nintendo-switch-2-can-be-unlocked-for-free-even-if-you-borrow-a-switch-physical-copy-from-a-friend",
+      "published_dt": "2026-09-30T16:35:22+06:00",
+      "published_date": "2026-09-30T16:35:22+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "The Witcher 3 Remastered can be unlocked on Switch 2 for free via any physical version of the game for Switch — whether its your copy of the game or not.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/24/the-witcher-3-gwent-songs-of-the-past-1787611131275.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:50.331801+06:00",
+      "last_seen": "2026-09-30T19:20:50.331805+06:00"
+    },
+    "gamespot.com/articles/steam-is-finally-changing-how-games-get-their-big-front-page-break": {
+      "title": "Steam Is Finally Changing How Games Get Their Big Front-Page Break",
+      "url": "https://www.gamespot.com/articles/steam-is-finally-changing-how-games-get-their-big-front-page-break/",
+      "canonical": "gamespot.com/articles/steam-is-finally-changing-how-games-get-their-big-front-page-break",
+      "published_dt": "2026-09-30T19:01:32+06:00",
+      "published_date": "2026-09-30T19:01:32+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "The front page of Steam has long been a hot commodity for game developers and publishers, but next year, some big changes are coming. Valve has announced that it'll be changing how it handles game discoverability during sales and promotions on Steam, as it'll be moving away from the old model of a tightly controlled page through a manually curated calendar to dynamic, personalized recommendations that'll cater to individual user preferences and their purchase history. Historically, Valve employees selected which games got featured in a limited number of fixed slots on the Steam front page, and only a fraction of discounted games got valuable front-page visibility. According to Valve, preliminary experiments resulted in up to 10 times as many games appearing per day in the Discounts & Events section, leading to measurable increases in store page visits and wishlist additions. Steam deals page What does this mean? For developers, it means that they won't need to rely on relationships, manual pitches, or sheer luck to potentially get a front-page placement. This will also effectively level the playing field for all developers, as smaller teams and publishers typically don't have the budget to compete with AAA blockbuster marketing teams. Valve added that it has already paused scheduling curated placements in the Weekend Deals, Midweek Deals, and Daily Deals sections, and it will soon roll out new and updated tools to help developers better manage their discounts and sale events on Steam. \"Our goal is to let developers focus on crafting the most compelling games and deals for customers, and not spend time trying to convince someone at Valve to feature their products,\" Valve wrote . The rollout window for this change to the Steam storefront will be in early 2027. This news comes on the eve of a new Steam sales event, as the week-long Steam Autumn Sale kicks off on October 1. There'll also be a new Next Fest held at the end of October, while themed events for the rest of ",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Steam-library.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:50.536786+06:00",
+      "last_seen": "2026-09-30T19:20:50.536800+06:00"
+    },
+    "gamespot.com/articles/the-biggest-new-game-releases-of-october-2026": {
+      "title": "The Biggest New Game Releases Of October 2026",
+      "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-october-2026/",
+      "canonical": "gamespot.com/articles/the-biggest-new-game-releases-of-october-2026",
+      "published_dt": "2026-09-30T18:00:00+06:00",
+      "published_date": "2026-09-30T18:00:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "If you thought September was a big month for new releases, then you ain't seen nothing yet. As the days tick down to the November launch of Grand Theft Auto 6, numerous games are looking to avoid being caught in the blast radius of the year's biggest release, which has led to an absolutely stacked October. Between original releases, sequels, and hot indie games, the next couple of weeks are loaded with options across a wide variety of genres and ideas. You can check out our top picks below, and if you want to see what's closing out the year, you can also read through our list of upcoming 2026 games . Dynasty Warriors 3: Complete Edition Remastered https://www.youtube.com/watch?v=UTVVw9fsHVA&pp=ygUvRHluYXN0eSBXYXJyaW9ycyAzOiBDb21wbGV0ZSBFZGl0aW9uIFJlbWFzdGVyZWQ%3D Release date: October 1 Platforms: PC, PS5, Xbox Series X|S, Switch 2 We're suckers for a good Dynasty Warriors game, as these one-against-too-damn-many-enemies simulators are perfect for when you want to turn your brain off and revel in being a battlefield badass. There have been many games in the series over the years, and Dynasty Warriors 3 is often considered a high point for the series, as it further refined its musou formula. If you've never played it, you can grab this new remaster, which enhances the original with Unreal Engine 5 graphics, numerous gameplay tweaks, and plenty of cannon-fodder troops to mow down. Ghost of Yotei: Complete Edition https://www.youtube.com/watch?v=2bQrrWCRkMY&pp=ygUgR2hvc3Qgb2YgWW90ZWk6IENvbXBsZXRlIEVkaXRpb24%3D Release date: October 1 Platforms: PS5 Ghost of Yotei fans can look forward to a whole lot of new content for the game--like the new narrative expansion Echoes of Sekigahara and the new combat-survival mode--but if you haven't played it yet, now is a fine time to grab the game's Complete Edition. This $70 version of the game gets you all of that new content, as well as the base game, the online co-op mode Ghost of Yotei Legends, and all of the Digital Deluxe Edit",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/October-2026-games.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:50.544854+06:00",
+      "last_seen": "2026-09-30T19:20:50.544860+06:00"
+    },
+    "gamespot.com/articles/call-of-duty-modders-add-skateboarding-and-minecraft-to-modern-warfare-2": {
+      "title": "Call Of Duty Modders Add Skateboarding And Minecraft To Modern Warfare 2",
+      "url": "https://www.gamespot.com/articles/call-of-duty-modders-add-skateboarding-and-minecraft-to-modern-warfare-2/",
+      "canonical": "gamespot.com/articles/call-of-duty-modders-add-skateboarding-and-minecraft-to-modern-warfare-2",
+      "published_dt": "2026-09-30T17:36:41+06:00",
+      "published_date": "2026-09-30T17:36:41+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Modders have recently added new ways to play 2009's Modern Warfare 2, and videos are going viral, showcasing skateboarding in this classic Call of Duty game. Mechanics from games like Skate 2 were added with mods, and players can now kickflip and grind rails around their favorite Modern Warfare 2 maps. There's also a mod that puts Call of Duty players in Minecraft's sandbox world. As shown below in the video shared by \" Chasm ,\" Call of Duty operators are seen pulling off several maneuvers on skateboards using game mechanics from Skate 2. These stunts include faceplanting on Rust, grinding rails on Terminal, and skating through the streets of Karachi. https://twitter.com/chasmmmmmmmmmmm/status/2104349115521888748 In addition to skateboarding, modders also included a Minecraft mod for Modern Warfare 2. As shown in the video shared by \" Kiyy ,\" this modded version of MW2 loads the player into a Minecraft world with a custom loadout. This footage is shown as a Free-for-All game mode, and the player switches between various Modern Warfare 2 guns before decimating Minecraft pigs and sheep with the Spas-12 shotgun. https://twitter.com/KiyyDumb/status/2104657092359356464 It’s uncertain whether Activision will try to axe these mods, especially given the copyright issues involved, but both the Minecraft and Skate 2 mods are currently available on GitHub. It seems a theater mode mod is also in the works for Modern Warfare 2, allowing players to view and edit clips from their matches. Call of Duty: Modern Warfare 4 arrives on October 23, but in the meantime, players can try something different with mashups of Skate 2 and Minecraft. Modern Warfare 4 will release on PS5, Xbox Series X|S, Switch 2, and PC. The game will include a full campaign, multiplayer, and the return of Infinity Ward's DMZ extraction mode.",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Call-of-Tony.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:50.545563+06:00",
+      "last_seen": "2026-09-30T19:20:50.545569+06:00"
+    },
+    "videogameschronicle.com/news/suda-51s-grasshopper-officially-regains-independence-from-netease-avoiding-studio-cull": {
+      "title": "Suda 51’s Grasshopper officially regains independence from NetEase, avoiding studio cull",
+      "url": "https://www.videogameschronicle.com/news/suda-51s-grasshopper-officially-regains-independence-from-netease-avoiding-studio-cull/",
+      "canonical": "videogameschronicle.com/news/suda-51s-grasshopper-officially-regains-independence-from-netease-avoiding-studio-cull",
+      "published_dt": "2026-09-30T19:13:05+06:00",
+      "published_date": "2026-09-30T19:13:05+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Grasshopper Manufacture will continue as an independent studio",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-30T19:20:50.730290+06:00",
+      "last_seen": "2026-09-30T19:20:50.730298+06:00",
+      "posted_at": "2026-09-30T19:49:00.733744+06:00"
+    },
+    "videogameschronicle.com/features/video-heres-gameplay-of-ghost-of-yoteis-new-roguelike-mode-featuring-the-return-of-jin-sakai": {
+      "title": "Video: Here’s gameplay of Ghost of Yotei’s new roguelike mode, featuring the return of Jin Sakai",
+      "url": "https://www.videogameschronicle.com/features/video-heres-gameplay-of-ghost-of-yoteis-new-roguelike-mode-featuring-the-return-of-jin-sakai/",
+      "canonical": "videogameschronicle.com/features/video-heres-gameplay-of-ghost-of-yoteis-new-roguelike-mode-featuring-the-return-of-jin-sakai",
+      "published_dt": "2026-09-30T19:00:07+06:00",
+      "published_date": "2026-09-30T19:00:07+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "We've got 27 minutes of footage from the game's Most Wanted mode",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:50.730458+06:00",
+      "last_seen": "2026-09-30T19:20:50.730463+06:00"
+    },
+    "videogameschronicle.com/guide/witcher-3-remastered-quick-sign-casting-explained-and-should-you-use-it": {
+      "title": "Witcher 3 Remastered: Quick Sign Casting explained and should you use it?",
+      "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-quick-sign-casting-explained-and-should-you-use-it/",
+      "canonical": "videogameschronicle.com/guide/witcher-3-remastered-quick-sign-casting-explained-and-should-you-use-it",
+      "published_dt": "2026-09-30T18:42:42+06:00",
+      "published_date": "2026-09-30T18:42:42+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Quick Sign Casting explained and whether you should use it in The Witcher 3: Wild Hunt Remastered",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:50.730605+06:00",
+      "last_seen": "2026-09-30T19:20:50.730612+06:00"
+    },
+    "videogameschronicle.com/news/modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is-thankful-for-take-twos-mercy-as-lawyers-shut-it-down": {
+      "title": "Modder who taunted ‘try me Rockstar’ with GTA 5 Switch port is ‘thankful for Take-Two’s mercy’ as lawyers shut it down",
+      "url": "https://www.videogameschronicle.com/news/modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is-thankful-for-take-twos-mercy-as-lawyers-shut-it-down/",
+      "canonical": "videogameschronicle.com/news/modder-who-taunted-try-me-rockstar-with-gta-5-switch-port-is-thankful-for-take-twos-mercy-as-lawyers-shut-it-down",
+      "published_dt": "2026-09-30T18:01:45+06:00",
+      "published_date": "2026-09-30T18:01:45+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "They were in the process of porting over GTA Online too",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:50.730753+06:00",
+      "last_seen": "2026-09-30T19:20:50.730758+06:00"
+    },
+    "videogameschronicle.com/guide/witcher-3-remastered-should-you-use-enemy-upscaling": {
+      "title": "Witcher 3 Remastered: Should you use Enemy Upscaling?",
+      "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-should-you-use-enemy-upscaling/",
+      "canonical": "videogameschronicle.com/guide/witcher-3-remastered-should-you-use-enemy-upscaling",
+      "published_dt": "2026-09-30T17:50:11+06:00",
+      "published_date": "2026-09-30T17:50:11+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Enemy Upscaling explained and whether you should turn it on in The Witcher 3: Wild Hunt Remastered",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:50.730891+06:00",
+      "last_seen": "2026-09-30T19:20:50.730896+06:00"
+    },
+    "videogameschronicle.com/guide/witcher-3-remastered-how-loot-merge-works-if-you-should-use-it": {
+      "title": "Witcher 3 Remastered: How Loot Merge works and should you use it?",
+      "url": "https://www.videogameschronicle.com/guide/witcher-3-remastered-how-loot-merge-works-if-you-should-use-it/",
+      "canonical": "videogameschronicle.com/guide/witcher-3-remastered-how-loot-merge-works-if-you-should-use-it",
+      "published_dt": "2026-09-30T17:24:08+06:00",
+      "published_date": "2026-09-30T17:24:08+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "What is Loot Merge and should you enable it in The Witcher 3: Wild Hunt Remastered",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:50.731028+06:00",
+      "last_seen": "2026-09-30T19:20:50.731032+06:00"
+    },
+    "videogameschronicle.com/news/mario-kart-tour-has-now-officially-shut-down-after-earning-nintendo-an-estimated-270-million": {
+      "title": "Mario Kart Tour has now officially shut down, after earning Nintendo an estimated $270 million",
+      "url": "https://www.videogameschronicle.com/news/mario-kart-tour-has-now-officially-shut-down-after-earning-nintendo-an-estimated-270-million/",
+      "canonical": "videogameschronicle.com/news/mario-kart-tour-has-now-officially-shut-down-after-earning-nintendo-an-estimated-270-million",
+      "published_dt": "2026-09-30T17:00:56+06:00",
+      "published_date": "2026-09-30T17:00:56+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "The game was downloaded more than 276 million times, estimates suggest",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:50.731193+06:00",
+      "last_seen": "2026-09-30T19:20:50.731199+06:00"
+    },
+    "eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom": {
+      "title": "Monster Hunter Wilds on Switch 2 runs at a stable 30FPS, but it took Capcom a \"painstaking, seemingly endless process\" to get there",
+      "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom",
+      "canonical": "eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom",
+      "published_dt": "2026-09-30T18:54:26+06:00",
+      "published_date": "2026-09-30T18:54:26+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "A lot has already been said of Monster Hunter Wilds ' upcoming Switch 2 port . The game, with all its free DLC updates - including new monsters - will be available 5th December, arriving with local co-op support to harken back to those old Gathering Hall days on the PSP or 3DS (if you're an old-head, like me). Read more",
+      "image": "https://assetsio.gnwcdn.com/mhw-switch-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-30T19:20:51.101093+06:00",
+      "last_seen": "2026-09-30T19:20:51.101105+06:00",
+      "posted_at": "2026-09-30T19:49:05.803733+06:00"
+    },
+    "eurogamer.net/crimson-desert-charting-the-unknown-dlc-delayed": {
+      "title": "Crimson Desert's Charting the Unknown DLC delayed by two weeks \"to deliver a more polished and stable gameplay experience\"",
+      "url": "https://www.eurogamer.net/crimson-desert-charting-the-unknown-dlc-delayed",
+      "canonical": "eurogamer.net/crimson-desert-charting-the-unknown-dlc-delayed",
+      "published_dt": "2026-09-30T17:40:08+06:00",
+      "published_date": "2026-09-30T17:40:08+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Crimson Desert developer Pearl Abyss today announced it's delaying Charting the Unknown, the game's first post-launch add-on. Previously set for release 15th October, the DLC's release date has been pushed back to 29th October - a two-week delay. Read more",
+      "image": "https://assetsio.gnwcdn.com/crimson-desert-charting-the-unknown-dlc-screen-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:51.101515+06:00",
+      "last_seen": "2026-09-30T19:20:51.101522+06:00"
+    },
+    "eurogamer.net/xbox-mythic-achievements-playstation-trophies": {
+      "title": "Xbox Mythic Achievements roll out to Insiders and are retroactively awarded as far back as Xbox 360 games",
+      "url": "https://www.eurogamer.net/xbox-mythic-achievements-playstation-trophies",
+      "canonical": "eurogamer.net/xbox-mythic-achievements-playstation-trophies",
+      "published_dt": "2026-09-30T17:00:01+06:00",
+      "published_date": "2026-09-30T17:00:01+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "The rumoured Xbox Mythic Achievements - the equivalent of PlayStation's Platinum Trophies - have been officially announced, and they're rolling out for Xbox Insiders now. Read more",
+      "image": "https://assetsio.gnwcdn.com/xbox-insider.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:51.101952+06:00",
+      "last_seen": "2026-09-30T19:20:51.101959+06:00"
+    },
+    "eurogamer.net/xbox-disc-to-digital-convert-ownership-release": {
+      "title": "Xbox's disc-to-digital feature rolls out for Series consoles and Xbox One, allowing you to digitise your game-disc collection",
+      "url": "https://www.eurogamer.net/xbox-disc-to-digital-convert-ownership-release",
+      "canonical": "eurogamer.net/xbox-disc-to-digital-convert-ownership-release",
+      "published_dt": "2026-09-30T16:53:43+06:00",
+      "published_date": "2026-09-30T16:53:43+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "After about a month in testing , Xbox's disc-to-digital feature has officially launched for all owners of Xbox consoles. The feature allows users to turn Xbox One and Xbox Series X discs into digital copies. Read more",
+      "image": "https://assetsio.gnwcdn.com/GoW-Reloaded_COG-squad.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:51.102415+06:00",
+      "last_seen": "2026-09-30T19:20:51.102423+06:00"
+    },
+    "gematsu.com/2026/09/queens-domain-launches-october-30-for-ps5-xbox-series-switch-2-and-pc": {
+      "title": "Queen’s Domain launches October 30 for PS5, Xbox Series, Switch 2, and PC",
+      "url": "https://www.gematsu.com/2026/09/queens-domain-launches-october-30-for-ps5-xbox-series-switch-2-and-pc",
+      "canonical": "gematsu.com/2026/09/queens-domain-launches-october-30-for-ps5-xbox-series-switch-2-and-pc",
+      "published_dt": "2026-09-30T19:09:16+06:00",
+      "published_date": "2026-09-30T19:09:16+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "King’s Field-inspired retro-style first-person fantasy action RPG Queen’s Domain will launch for PlayStation 5, Xbox …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:51.368852+06:00",
+      "last_seen": "2026-09-30T19:20:51.368859+06:00"
+    },
+    "gematsu.com/2026/09/grasshopper-manufacture-splits-from-netease-games": {
+      "title": "Grasshopper Manufacture splits from NetEase Games",
+      "url": "https://www.gematsu.com/2026/09/grasshopper-manufacture-splits-from-netease-games",
+      "canonical": "gematsu.com/2026/09/grasshopper-manufacture-splits-from-netease-games",
+      "published_dt": "2026-09-30T19:06:46+06:00",
+      "published_date": "2026-09-30T19:06:46+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Grasshopper Manufacture has split from now-former parent company NetEase Games, the company announced. NetEase Games …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:51.369055+06:00",
+      "last_seen": "2026-09-30T19:20:51.369080+06:00"
+    },
+    "pcgamer.com/games/moba/which-deadlock-hero-are-you-voting-for-first": {
+      "title": "Which Deadlock hero are you voting for first?",
+      "url": "https://www.pcgamer.com/games/moba/which-deadlock-hero-are-you-voting-for-first/",
+      "canonical": "pcgamer.com/games/moba/which-deadlock-hero-are-you-voting-for-first",
+      "published_dt": "2026-09-30T19:13:00+06:00",
+      "published_date": "2026-09-30T19:13:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Which Deadlock hero are you voting for first?",
+      "image": "https://cdn.mos.cms.futurecdn.net/PSXgeqU4ZBVEnwaLVB45RJ-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:51.770496+06:00",
+      "last_seen": "2026-09-30T19:20:51.770506+06:00"
+    },
+    "pcgamer.com/hardware/gaming-mice/this-usd30-gaming-mouse-proves-you-dont-need-8-000-hz-polling-at-65-000-dpi-for-a-good-time": {
+      "title": "This $30 gaming mouse proves you don't need 8,000 Hz polling at 65,000 DPI for a good time",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/this-usd30-gaming-mouse-proves-you-dont-need-8-000-hz-polling-at-65-000-dpi-for-a-good-time/",
+      "canonical": "pcgamer.com/hardware/gaming-mice/this-usd30-gaming-mouse-proves-you-dont-need-8-000-hz-polling-at-65-000-dpi-for-a-good-time",
+      "published_dt": "2026-09-30T19:05:08+06:00",
+      "published_date": "2026-09-30T19:05:08+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "It's the best budget wired gaming mouse right now.",
+      "image": "https://cdn.mos.cms.futurecdn.net/9hVK2NdK9RFfb5XGbEUZCn-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:51.770659+06:00",
+      "last_seen": "2026-09-30T19:20:51.770663+06:00"
+    },
+    "pcgamer.com/games/rpg/no-law-might-be-the-open-world-deus-ex-that-cyberpunk-2077-wasnt": {
+      "title": "No Law might be the open-world Deus Ex that Cyberpunk 2077 wasn't",
+      "url": "https://www.pcgamer.com/games/rpg/no-law-might-be-the-open-world-deus-ex-that-cyberpunk-2077-wasnt/",
+      "canonical": "pcgamer.com/games/rpg/no-law-might-be-the-open-world-deus-ex-that-cyberpunk-2077-wasnt",
+      "published_dt": "2026-09-30T18:47:45+06:00",
+      "published_date": "2026-09-30T18:47:45+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "CD Projekt's sci-fi RPG was close to being my perfect game. But it fell short in one specific area.",
+      "image": "https://cdn.mos.cms.futurecdn.net/q7MKtr5rfkMnsEGqBYAnWf-1920-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:51.770793+06:00",
+      "last_seen": "2026-09-30T19:20:51.770797+06:00"
+    },
+    "pcgamer.com/games/moba/youre-hyped-for-deadlocks-new-heroes-and-map-updates-im-hyped-because-of-the-800-extra-pre-match-conversations-we-are-not-the-same": {
+      "title": "You're hyped for Deadlock's new heroes and map updates, I'm hyped because of the 800 extra pre-match conversations, we are not the same",
+      "url": "https://www.pcgamer.com/games/moba/youre-hyped-for-deadlocks-new-heroes-and-map-updates-im-hyped-because-of-the-800-extra-pre-match-conversations-we-are-not-the-same/",
+      "canonical": "pcgamer.com/games/moba/youre-hyped-for-deadlocks-new-heroes-and-map-updates-im-hyped-because-of-the-800-extra-pre-match-conversations-we-are-not-the-same",
+      "published_dt": "2026-09-30T17:13:07+06:00",
+      "published_date": "2026-09-30T17:13:07+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "My hunger for a non-MOBA Deadlock continues.",
+      "image": "https://cdn.mos.cms.futurecdn.net/nfd6zhdsBqYg9Z24hFgFuA-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:51.770926+06:00",
+      "last_seen": "2026-09-30T19:20:51.770930+06:00"
+    },
+    "pcgamer.com/hardware/i-have-a-reaction-time-10x-faster-than-pro-gamers-dont-believe-me-the-human-benchmark-just-told-me": {
+      "title": "I have a reaction time 10x faster than pro gamers. Don't believe me? The Human Benchmark just told me",
+      "url": "https://www.pcgamer.com/hardware/i-have-a-reaction-time-10x-faster-than-pro-gamers-dont-believe-me-the-human-benchmark-just-told-me/",
+      "canonical": "pcgamer.com/hardware/i-have-a-reaction-time-10x-faster-than-pro-gamers-dont-believe-me-the-human-benchmark-just-told-me",
+      "published_dt": "2026-09-30T17:03:28+06:00",
+      "published_date": "2026-09-30T17:03:28+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Get on my level.",
+      "image": "https://cdn.mos.cms.futurecdn.net/82WsF99f2YjCNWHhQfJ7Ko-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:51.771052+06:00",
+      "last_seen": "2026-09-30T19:20:51.771076+06:00"
+    },
+    "pcgamer.com/hardware/speakers/amazons-usd25-self-propelling-speakers-gave-me-the-giggles-as-they-tried-to-walk-off-the-edge-of-my-desk-and-thats-almost-worth-the-price-of-entry-alone": {
+      "title": "Amazon's $25 self-propelling speakers gave me the giggles as they tried to walk off the edge of my desk, and that's almost worth the price of entry alone",
+      "url": "https://www.pcgamer.com/hardware/speakers/amazons-usd25-self-propelling-speakers-gave-me-the-giggles-as-they-tried-to-walk-off-the-edge-of-my-desk-and-thats-almost-worth-the-price-of-entry-alone/",
+      "canonical": "pcgamer.com/hardware/speakers/amazons-usd25-self-propelling-speakers-gave-me-the-giggles-as-they-tried-to-walk-off-the-edge-of-my-desk-and-thats-almost-worth-the-price-of-entry-alone",
+      "published_dt": "2026-09-30T16:43:00+06:00",
+      "published_date": "2026-09-30T16:43:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Should I make them race?",
+      "image": "https://cdn.mos.cms.futurecdn.net/zn2t3Hg7PyrtvUyfukoaRC-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:51.771215+06:00",
+      "last_seen": "2026-09-30T19:20:51.771219+06:00"
+    },
+    "polygon.com/verity-review": {
+      "title": "Verity Review: Hathaway and Johnson Have Fun. The Movie Doesn't",
+      "url": "https://www.polygon.com/verity-review/",
+      "canonical": "polygon.com/verity-review",
+      "published_dt": "2026-09-30T19:00:16+06:00",
+      "published_date": "2026-09-30T19:00:16+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Anne Hathaway and Dakota Johnson commit to the trashy fun of Colleen Hoover's Verity. Too bad the movie plays it safe.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/full-trailer-anne-hathaway-is-verity.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:51.883923+06:00",
+      "last_seen": "2026-09-30T19:20:51.883931+06:00"
+    },
+    "polygon.com/xbox-disc-to-digital-full-release": {
+      "title": "Xbox's Disc-to-Digital Feature Is Officially Out to the Public",
+      "url": "https://www.polygon.com/xbox-disc-to-digital-full-release/",
+      "canonical": "polygon.com/xbox-disc-to-digital-full-release",
+      "published_dt": "2026-09-30T16:43:47+06:00",
+      "published_date": "2026-09-30T16:43:47+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Xbox's highly anticipated disc-to-digital program is now live, allowing Xbox One and Series X owners to digitize their physical discs.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/gears-of-war-reloaded-marcus-fenix.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:51.884112+06:00",
+      "last_seen": "2026-09-30T19:20:51.884117+06:00"
+    },
+    "kotaku.com/nintendo-reminds-everyone-about-the-other-n64-classic-it-just-remand-with-a-free-update-2000738613": {
+      "title": "Nintendo Reminds Everyone About The Other N64 Classic It Just Remade With A Free Update",
+      "url": "https://kotaku.com/nintendo-reminds-everyone-about-the-other-n64-classic-it-just-remand-with-a-free-update-2000738613",
+      "canonical": "kotaku.com/nintendo-reminds-everyone-about-the-other-n64-classic-it-just-remand-with-a-free-update-2000738613",
+      "published_dt": "2026-09-30T19:12:43+06:00",
+      "published_date": "2026-09-30T19:12:43+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "The Star Fox remake is getting some new content",
+      "image": "https://kotaku.com/app/uploads/2026/05/star-fox-4.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.064354+06:00",
+      "last_seen": "2026-09-30T19:20:52.064360+06:00"
+    },
+    "kotaku.com/19-year-veteran-of-xbox-weighs-in-on-the-future-of-halo-hire-bungie-halo-studios-and-other-laid-off-folk-who-are-bursting-with-talent-2000738607": {
+      "title": "19-Year Veteran Of Xbox Weighs In On The Future Of Halo: ‘Hire Bungie, Halo Studios And Other Laid Off Folk Who Are Bursting With Talent’",
+      "url": "https://kotaku.com/19-year-veteran-of-xbox-weighs-in-on-the-future-of-halo-hire-bungie-halo-studios-and-other-laid-off-folk-who-are-bursting-with-talent-2000738607",
+      "canonical": "kotaku.com/19-year-veteran-of-xbox-weighs-in-on-the-future-of-halo-hire-bungie-halo-studios-and-other-laid-off-folk-who-are-bursting-with-talent-2000738607",
+      "published_dt": "2026-09-30T18:48:57+06:00",
+      "published_date": "2026-09-30T18:48:57+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "No one knows what Activision has planned for the franchise yet",
+      "image": "https://kotaku.com/app/uploads/2026/03/halo3-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.064504+06:00",
+      "last_seen": "2026-09-30T19:20:52.064508+06:00"
+    },
+    "kotaku.com/best-new-video-games-2026-2000680583": {
+      "title": "The Best New Games Of 2026 (So Far)",
+      "url": "https://kotaku.com/best-new-video-games-2026-2000680583",
+      "canonical": "kotaku.com/best-new-video-games-2026-2000680583",
+      "published_dt": "2026-09-30T18:20:03+06:00",
+      "published_date": "2026-09-30T18:20:03+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "We're five months of the way through the year, so let's take a look at the best games we've played",
+      "image": "https://kotaku.com/app/uploads/2026/03/bestgames2026-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.064636+06:00",
+      "last_seen": "2026-09-30T19:20:52.064640+06:00"
+    },
+    "kotaku.com/crimson-desert-charting-the-unknown-dlc-delay-pearl-abyss-ships-2000738599": {
+      "title": "Crimson Desert’s First Big Paid DLC Is Being Delayed For Polish",
+      "url": "https://kotaku.com/crimson-desert-charting-the-unknown-dlc-delay-pearl-abyss-ships-2000738599",
+      "canonical": "kotaku.com/crimson-desert-charting-the-unknown-dlc-delay-pearl-abyss-ships-2000738599",
+      "published_dt": "2026-09-30T17:25:57+06:00",
+      "published_date": "2026-09-30T17:25:57+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Charting the Unknown now won't be out until the end of October",
+      "image": "https://kotaku.com/app/uploads/2026/09/crimson-boat-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.064824+06:00",
+      "last_seen": "2026-09-30T19:20:52.064829+06:00"
+    },
+    "gamesradar.com/games/top-games-releasing-october-2026": {
+      "title": "The 5 best games you need to play in October 2026",
+      "url": "https://www.gamesradar.com/games/top-games-releasing-october-2026/",
+      "canonical": "gamesradar.com/games/top-games-releasing-october-2026",
+      "published_dt": "2026-09-30T19:02:01+06:00",
+      "published_date": "2026-09-30T19:02:01+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "A complete list of the best games releasing in October if you are after something new to play",
+      "image": "https://cdn.mos.cms.futurecdn.net/RQa7DMvEf8cVZ7DCCaRb6L-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.423385+06:00",
+      "last_seen": "2026-09-30T19:20:52.423392+06:00"
+    },
+    "gamesradar.com/games/action-rpg/32-years-after-fromsoftware-redefined-dark-action-rpgs-on-ps1-a-new-indie-take-on-kings-field-is-doing-the-same-on-steam-and-consoles-in-time-for-halloween": {
+      "title": "A new indie take on King's Field arrives on Steam and consoles in time for Halloween",
+      "url": "https://www.gamesradar.com/games/action-rpg/32-years-after-fromsoftware-redefined-dark-action-rpgs-on-ps1-a-new-indie-take-on-kings-field-is-doing-the-same-on-steam-and-consoles-in-time-for-halloween/",
+      "canonical": "gamesradar.com/games/action-rpg/32-years-after-fromsoftware-redefined-dark-action-rpgs-on-ps1-a-new-indie-take-on-kings-field-is-doing-the-same-on-steam-and-consoles-in-time-for-halloween",
+      "published_dt": "2026-09-30T19:00:00+06:00",
+      "published_date": "2026-09-30T19:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Queen's Domain is making no bones about its inspiration, but I'm not complaining",
+      "image": "https://cdn.mos.cms.futurecdn.net/NRbctDiJjMx75TahbmGz2d-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.423537+06:00",
+      "last_seen": "2026-09-30T19:20:52.423542+06:00"
+    },
+    "gamesradar.com/games/grand-theft-auto/gta-6s-weather-is-completely-re-engineered-from-red-dead-redemption-2-and-it-has-hurricanes-rainbows-proper-cloud-formations-and-more": {
+      "title": "GTA 6's weather is completely re-done from Red Dead Redemption 2, has hurricanes, rainbows and more",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-weather-is-completely-re-engineered-from-red-dead-redemption-2-and-it-has-hurricanes-rainbows-proper-cloud-formations-and-more/",
+      "canonical": "gamesradar.com/games/grand-theft-auto/gta-6s-weather-is-completely-re-engineered-from-red-dead-redemption-2-and-it-has-hurricanes-rainbows-proper-cloud-formations-and-more",
+      "published_dt": "2026-09-30T18:01:23+06:00",
+      "published_date": "2026-09-30T18:01:23+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Rockstar's going above and beyond once again",
+      "image": "https://cdn.mos.cms.futurecdn.net/xaJa896BofqxWZpjF8NUCi-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.423682+06:00",
+      "last_seen": "2026-09-30T19:20:52.423688+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-movies/avengers-doomsday-is-currently-two-and-a-half-hours-with-a-very-surprising-ending": {
+      "title": "Avengers: Doomsday is currently \"two and a half hours\" with a \"very surprising ending\"",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-is-currently-two-and-a-half-hours-with-a-very-surprising-ending/",
+      "canonical": "gamesradar.com/entertainment/marvel-movies/avengers-doomsday-is-currently-two-and-a-half-hours-with-a-very-surprising-ending",
+      "published_dt": "2026-09-30T18:01:13+06:00",
+      "published_date": "2026-09-30T18:01:13+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The Russos have mentioned the Doomsday runtime for the first time",
+      "image": "https://cdn.mos.cms.futurecdn.net/EBAYLkVc3BvtxoiyMwfwX-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.423825+06:00",
+      "last_seen": "2026-09-30T19:20:52.423829+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-movies/20-years-after-robert-downey-jr-was-cast-as-iron-man-marvel-fans-are-just-discovering-his-audition": {
+      "title": "20 years after Robert Downey Jr. was cast as Iron Man, Marvel fans are just discovering his audition",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/20-years-after-robert-downey-jr-was-cast-as-iron-man-marvel-fans-are-just-discovering-his-audition/",
+      "canonical": "gamesradar.com/entertainment/marvel-movies/20-years-after-robert-downey-jr-was-cast-as-iron-man-marvel-fans-are-just-discovering-his-audition",
+      "published_dt": "2026-09-30T18:00:34+06:00",
+      "published_date": "2026-09-30T18:00:34+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The iconic casting initially split fans",
+      "image": "https://cdn.mos.cms.futurecdn.net/ugfZaVJC5tDaRGfPzdRJ5P-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.423953+06:00",
+      "last_seen": "2026-09-30T19:20:52.423957+06:00"
+    },
+    "gamesradar.com/entertainment/dc-movies/sean-gunn-says-man-of-tomorrow-is-his-favorite-of-all-james-gunn-movies": {
+      "title": "Sean Gunn says Man of Tomorrow is his \"favorite of all\" James Gunn movies",
+      "url": "https://www.gamesradar.com/entertainment/dc-movies/sean-gunn-says-man-of-tomorrow-is-his-favorite-of-all-james-gunn-movies/",
+      "canonical": "gamesradar.com/entertainment/dc-movies/sean-gunn-says-man-of-tomorrow-is-his-favorite-of-all-james-gunn-movies",
+      "published_dt": "2026-09-30T17:45:53+06:00",
+      "published_date": "2026-09-30T17:45:53+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Sean Gunn has high praise for Man of Tomorrow",
+      "image": "https://cdn.mos.cms.futurecdn.net/pVWHjHu4BGxiGrfdUBaKqF-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.424106+06:00",
+      "last_seen": "2026-09-30T19:20:52.424111+06:00"
+    },
+    "gamesradar.com/entertainment/movies/movies-releasing-in-october-2026": {
+      "title": "The top 5 movies you need to watch in October 2026",
+      "url": "https://www.gamesradar.com/entertainment/movies/movies-releasing-in-october-2026/",
+      "canonical": "gamesradar.com/entertainment/movies/movies-releasing-in-october-2026",
+      "published_dt": "2026-09-30T17:30:00+06:00",
+      "published_date": "2026-09-30T17:30:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Discover our list of the best new movies coming out in October",
+      "image": "https://cdn.mos.cms.futurecdn.net/DDQGjEFTZdY4Pcprtbpqvd-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.424238+06:00",
+      "last_seen": "2026-09-30T19:20:52.424242+06:00"
+    },
+    "gamesradar.com/games/the-witcher/witcher-3-transmog": {
+      "title": "How to transmog your equipment in Witcher 3 Remastered and create a new look for Geralt",
+      "url": "https://www.gamesradar.com/games/the-witcher/witcher-3-transmog/",
+      "canonical": "gamesradar.com/games/the-witcher/witcher-3-transmog",
+      "published_dt": "2026-09-30T17:14:20+06:00",
+      "published_date": "2026-09-30T17:14:20+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The new Transmog feature in Witcher 3 Remastered allows you to Reforge your equipment into a new look",
+      "image": "https://cdn.mos.cms.futurecdn.net/VsPXs2CPDAboUx5Lbri7aH-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.424364+06:00",
+      "last_seen": "2026-09-30T19:20:52.424368+06:00"
+    },
+    "gamesradar.com/games/open-world/crimson-desert-dlc-charting-the-unknown-delayed-2-weeks-as-pearl-abyss-seeks-a-more-polished-and-stable-gameplay-experience": {
+      "title": "Crimson Desert DLC Charting the Unknown delayed 2 weeks as devs seek \"a more polished and stable gameplay experience\"",
+      "url": "https://www.gamesradar.com/games/open-world/crimson-desert-dlc-charting-the-unknown-delayed-2-weeks-as-pearl-abyss-seeks-a-more-polished-and-stable-gameplay-experience/",
+      "canonical": "gamesradar.com/games/open-world/crimson-desert-dlc-charting-the-unknown-delayed-2-weeks-as-pearl-abyss-seeks-a-more-polished-and-stable-gameplay-experience",
+      "published_dt": "2026-09-30T17:10:24+06:00",
+      "published_date": "2026-09-30T17:10:24+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "It's now going head to head with Phantom Blade Zero",
+      "image": "https://cdn.mos.cms.futurecdn.net/UYTKVd992SzztXpgq2JhUV-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.424489+06:00",
+      "last_seen": "2026-09-30T19:20:52.424493+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-movies/avengers-endgame-writers-planned-for-hawkeye-to-die-until-marvel-employees-protested": {
+      "title": "Avengers: Endgame writers planned for Hawkeye to die until Marvel employees protested",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-endgame-writers-planned-for-hawkeye-to-die-until-marvel-employees-protested/",
+      "canonical": "gamesradar.com/entertainment/marvel-movies/avengers-endgame-writers-planned-for-hawkeye-to-die-until-marvel-employees-protested",
+      "published_dt": "2026-09-30T16:58:37+06:00",
+      "published_date": "2026-09-30T16:58:37+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Black Widow needed her heroic moment",
+      "image": "https://cdn.mos.cms.futurecdn.net/HYWzp7ZhRDtzjsjtoSZ2PF-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.424612+06:00",
+      "last_seen": "2026-09-30T19:20:52.424615+06:00"
+    },
+    "gamesradar.com/tabletop-gaming/absurdly-rare-raincoat-pikachu-pokemon-card-sells-for-usd8-4-million-and-its-cute-enough-that-i-kinda-get-it": {
+      "title": "Absurdly rare Raincoat Pikachu Pokemon card sells for $8.4 million",
+      "url": "https://www.gamesradar.com/tabletop-gaming/absurdly-rare-raincoat-pikachu-pokemon-card-sells-for-usd8-4-million-and-its-cute-enough-that-i-kinda-get-it/",
+      "canonical": "gamesradar.com/tabletop-gaming/absurdly-rare-raincoat-pikachu-pokemon-card-sells-for-usd8-4-million-and-its-cute-enough-that-i-kinda-get-it",
+      "published_dt": "2026-09-30T16:53:00+06:00",
+      "published_date": "2026-09-30T16:53:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Only 100 of the exceedingly hard-to-find Pikachu were ever made, and it's now the second most expensive Pokemon card around",
+      "image": "https://cdn.mos.cms.futurecdn.net/bzsawf93TLGNit5HqizUMF-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.424733+06:00",
+      "last_seen": "2026-09-30T19:20:52.424736+06:00"
+    },
+    "gamesradar.com/entertainment/horror-shows/horror-legend-mike-flanagan-wants-his-amazon-show-carrie-to-run-for-three-seasons-going-far-beyond-stephen-kings-story": {
+      "title": "Horror legend Mike Flanagan wants his Amazon show Carrie to run for three seasons, going far beyond Stephen King's story",
+      "url": "https://www.gamesradar.com/entertainment/horror-shows/horror-legend-mike-flanagan-wants-his-amazon-show-carrie-to-run-for-three-seasons-going-far-beyond-stephen-kings-story/",
+      "canonical": "gamesradar.com/entertainment/horror-shows/horror-legend-mike-flanagan-wants-his-amazon-show-carrie-to-run-for-three-seasons-going-far-beyond-stephen-kings-story",
+      "published_dt": "2026-09-30T16:52:52+06:00",
+      "published_date": "2026-09-30T16:52:52+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"It's a trilogy\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/zEDcgDdEF4Etw4Zb84Bvpi-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.424857+06:00",
+      "last_seen": "2026-09-30T19:20:52.424860+06:00"
+    },
+    "gamesradar.com/games/halo/veteran-halo-lead-has-suggestions-for-how-activision-could-actually-make-the-greatest-halo-game-ever-and-they-include-hiring-bungie-halo-studios-and-other-laid-off-folks": {
+      "title": "Veteran Halo lead has suggestions for Activision, and they include hiring \"laid off folks\"",
+      "url": "https://www.gamesradar.com/games/halo/veteran-halo-lead-has-suggestions-for-how-activision-could-actually-make-the-greatest-halo-game-ever-and-they-include-hiring-bungie-halo-studios-and-other-laid-off-folks/",
+      "canonical": "gamesradar.com/games/halo/veteran-halo-lead-has-suggestions-for-how-activision-could-actually-make-the-greatest-halo-game-ever-and-they-include-hiring-bungie-halo-studios-and-other-laid-off-folks",
+      "published_dt": "2026-09-30T16:47:36+06:00",
+      "published_date": "2026-09-30T16:47:36+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "They're \"bursting with talent\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/k7L5sW9ixfbcxzwMNZAG2K-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.424979+06:00",
+      "last_seen": "2026-09-30T19:20:52.424983+06:00"
+    },
+    "gamesradar.com/games/third-person-shooter/deadlock-smashes-steam-record-following-new-update-that-brings-in-over-228-000-concurrent-players-but-valve-isnt-done-there-was-still-a-good-amount-of-work-we-wanted-to-do-on-the-core-game": {
+      "title": "Deadlock smashes Steam record following new update with over 228,000 concurrent players",
+      "url": "https://www.gamesradar.com/games/third-person-shooter/deadlock-smashes-steam-record-following-new-update-that-brings-in-over-228-000-concurrent-players-but-valve-isnt-done-there-was-still-a-good-amount-of-work-we-wanted-to-do-on-the-core-game/",
+      "canonical": "gamesradar.com/games/third-person-shooter/deadlock-smashes-steam-record-following-new-update-that-brings-in-over-228-000-concurrent-players-but-valve-isnt-done-there-was-still-a-good-amount-of-work-we-wanted-to-do-on-the-core-game",
+      "published_dt": "2026-09-30T16:44:36+06:00",
+      "published_date": "2026-09-30T16:44:36+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The shooter is continuing to grow while in beta",
+      "image": "https://cdn.mos.cms.futurecdn.net/7H9aeVgXCiExeHok7WVBxk-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.425128+06:00",
+      "last_seen": "2026-09-30T19:20:52.425134+06:00"
+    },
+    "gamesradar.com/games/super-mario/shigeru-miyamoto-apparently-has-a-love-hate-relationship-with-toad-who-he-would-constantly-pick-in-mario-kart-despite-being-his-least-favorite": {
+      "title": "Shigeru Miyamoto apparently has a love-hate relationship with Toad, who he would constantly pick in Mario Kart",
+      "url": "https://www.gamesradar.com/games/super-mario/shigeru-miyamoto-apparently-has-a-love-hate-relationship-with-toad-who-he-would-constantly-pick-in-mario-kart-despite-being-his-least-favorite/",
+      "canonical": "gamesradar.com/games/super-mario/shigeru-miyamoto-apparently-has-a-love-hate-relationship-with-toad-who-he-would-constantly-pick-in-mario-kart-despite-being-his-least-favorite",
+      "published_dt": "2026-09-30T16:44:02+06:00",
+      "published_date": "2026-09-30T16:44:02+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Committed to the bit",
+      "image": "https://cdn.mos.cms.futurecdn.net/SGwJipH8yEUz8pzKRXFGRk-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.425263+06:00",
+      "last_seen": "2026-09-30T19:20:52.425266+06:00"
+    },
+    "gamesradar.com/games/grand-theft-auto/police-arrest-one-of-the-alleged-leaders-of-group-behind-rockstar-hack-that-apparently-revealed-how-much-money-gta-online-makes-fbi-warns-we-know-how-to-find-you": {
+      "title": "Police arrest \"one of the alleged leaders\" behind Rockstar hack that revealed how much money GTA Online makes",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/police-arrest-one-of-the-alleged-leaders-of-group-behind-rockstar-hack-that-apparently-revealed-how-much-money-gta-online-makes-fbi-warns-we-know-how-to-find-you/",
+      "canonical": "gamesradar.com/games/grand-theft-auto/police-arrest-one-of-the-alleged-leaders-of-group-behind-rockstar-hack-that-apparently-revealed-how-much-money-gta-online-makes-fbi-warns-we-know-how-to-find-you",
+      "published_dt": "2026-09-30T16:39:14+06:00",
+      "published_date": "2026-09-30T16:39:14+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Rockstar previously said the incident in April saw a \"limited amount of non-material company information\" accessed",
+      "image": "https://cdn.mos.cms.futurecdn.net/jQWpAjCrVBgDbmFAzj3AQJ-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.425386+06:00",
+      "last_seen": "2026-09-30T19:20:52.425390+06:00"
+    },
+    "rockpapershotgun.com/all-the-rps-supporter-rewards-for-september-2026-model-ships-maze-cities-and-the-tyranny-of-content": {
+      "title": "All the RPS Supporter rewards for September 2026: Model ships, maze cities, and the tyranny of content",
+      "url": "https://www.rockpapershotgun.com/all-the-rps-supporter-rewards-for-september-2026-model-ships-maze-cities-and-the-tyranny-of-content",
+      "canonical": "rockpapershotgun.com/all-the-rps-supporter-rewards-for-september-2026-model-ships-maze-cities-and-the-tyranny-of-content",
+      "published_dt": "2026-09-30T17:48:52+06:00",
+      "published_date": "2026-09-30T17:48:52+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "In case you missed it, September happened. Technically it’s still happening, and we have one more exclusive post for RPS Premium Supporters coming this week, but this time I fancy doing the monthly rewards roundup within the month being rounded up. Lest armoured date pedants infiltrate my flat with breaching charges, and start hitting my shins with their pernickety sticks. Thanks again to all our Supporters, preem or otherwise, and turbo double-thanks to anyone who filled in our Supporters survey . This has granted us some immensely helpful guidance on how to steer Supp rewards in the future, as well as some important feedback on the site more generally. You’re all, and I don’t say this about a lot of people, da best . Read more",
+      "image": "https://assetsio.gnwcdn.com/rps_welcomepost_2_JcYD937.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.915648+06:00",
+      "last_seen": "2026-09-30T19:20:52.915655+06:00"
+    },
+    "rockpapershotgun.com/i-always-see-it-kind-of-like-a-triangle-the-surprising-challenge-of-making-the-perfectly-sized-cave-in-satisfactory-expansion-core-values": {
+      "title": "\"I always see it kind of like a triangle\": The surprising challenge of making the perfectly-sized cave in Satisfactory expansion Core Values",
+      "url": "https://www.rockpapershotgun.com/i-always-see-it-kind-of-like-a-triangle-the-surprising-challenge-of-making-the-perfectly-sized-cave-in-satisfactory-expansion-core-values",
+      "canonical": "rockpapershotgun.com/i-always-see-it-kind-of-like-a-triangle-the-surprising-challenge-of-making-the-perfectly-sized-cave-in-satisfactory-expansion-core-values",
+      "published_dt": "2026-09-30T17:15:00+06:00",
+      "published_date": "2026-09-30T17:15:00+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "When I first learned about Core Values, the upcoming expansion to factory automation game Satisfactory , I didn't grasp the scale of the challenge developer Coffee Stain had set themselves. 'So, the game is set underground now?' I thought. 'I'll just stick up some more lights and make the same factory I always have.' Yet, as I covered yesterday, that won't be possible. For a start because you'll need to use new logistics tools to connect your factory buildings – conveyor belts aren't gone, but they're nowhere near as useful as they once were . Another major difference, though, is a design problem for the developers: how to make a perfectly-sized cave. Read more",
+      "image": "https://assetsio.gnwcdn.com/satisfactory-core-values-cat-creature_vibR3ac.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:52.916083+06:00",
+      "last_seen": "2026-09-30T19:20:52.916089+06:00"
+    },
+    "insider-gaming.com/splinter-cell-remake-job-listings": {
+      "title": "Ubisoft is Once Again Ramping Up Hiring For The Splinter Cell Remake",
+      "url": "https://insider-gaming.com/splinter-cell-remake-job-listings/",
+      "canonical": "insider-gaming.com/splinter-cell-remake-job-listings",
+      "published_dt": "2026-09-30T18:57:17+06:00",
+      "published_date": "2026-09-30T18:57:17+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "New job listings from Ubisoft reveal that the Splinter Cell Remake is once again ramping up development. The post Ubisoft is Once Again Ramping Up Hiring For The Splinter Cell Remake appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:53.386637+06:00",
+      "last_seen": "2026-09-30T19:20:53.386644+06:00"
+    },
+    "insider-gaming.com/team-vitality-reach-valorant-champions-shanghai-playoffs": {
+      "title": "Team Vitality Reach Valorant Champions Shanghai Playoffs after LOUD Victory",
+      "url": "https://insider-gaming.com/team-vitality-reach-valorant-champions-shanghai-playoffs/",
+      "canonical": "insider-gaming.com/team-vitality-reach-valorant-champions-shanghai-playoffs",
+      "published_dt": "2026-09-30T18:04:47+06:00",
+      "published_date": "2026-09-30T18:04:47+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Team Vitality has made the playoffs for Valorant Champions 2026 after defeating LOUD 2-0 in Shanghai to progress as Group winners. The post Team Vitality Reach Valorant Champions Shanghai Playoffs after LOUD Victory appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:53.386918+06:00",
+      "last_seen": "2026-09-30T19:20:53.386924+06:00"
+    },
+    "insider-gaming.com/steam-discounts-are-becoming-more-dynamic-for-each-user": {
+      "title": "Steam Discounts Are Becoming More ‘Dynamic’ For Each User",
+      "url": "https://insider-gaming.com/steam-discounts-are-becoming-more-dynamic-for-each-user/",
+      "canonical": "insider-gaming.com/steam-discounts-are-becoming-more-dynamic-for-each-user",
+      "published_dt": "2026-09-30T17:27:16+06:00",
+      "published_date": "2026-09-30T17:27:16+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Steam has announced that discounts and sale Events will get some changes next year to boost discoverability. The post Steam Discounts Are Becoming More ‘Dynamic’ For Each User appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-30T19:20:53.387232+06:00",
+      "last_seen": "2026-09-30T19:20:53.387238+06:00",
+      "posted_at": "2026-09-30T19:48:35.720323+06:00"
+    },
+    "insider-gaming.com/crimson-desert-charting-the-unknown-dlc-delayed": {
+      "title": "Crimson Desert Charting the Unknown DLC Delayed",
+      "url": "https://insider-gaming.com/crimson-desert-charting-the-unknown-dlc-delayed/",
+      "canonical": "insider-gaming.com/crimson-desert-charting-the-unknown-dlc-delayed",
+      "published_dt": "2026-09-30T17:04:44+06:00",
+      "published_date": "2026-09-30T17:04:44+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "A new announcement confirms that Crimson Desert's Charting the Unknown DLC has been delayed. Here are more details. The post Crimson Desert Charting the Unknown DLC Delayed appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-30T19:20:53.387497+06:00",
+      "last_seen": "2026-09-30T19:20:53.387502+06:00",
+      "posted_at": "2026-09-30T19:48:30.878855+06:00"
+    },
+    "insider-gaming.com/asian-games-south-korea-group-stage": {
+      "title": "South Korea Go 3-0 in Asian Games Group Stage as Faker Plays Once",
+      "url": "https://insider-gaming.com/asian-games-south-korea-group-stage/",
+      "canonical": "insider-gaming.com/asian-games-south-korea-group-stage",
+      "published_dt": "2026-09-30T16:56:25+06:00",
+      "published_date": "2026-09-30T16:56:25+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "The Asian Games 2026 League of Legends tournament is well underway after two days of action saw a its Group Stage conclude. The post South Korea Go 3-0 in Asian Games Group Stage as Faker Plays Once appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:53.387756+06:00",
+      "last_seen": "2026-09-30T19:20:53.387761+06:00"
+    },
+    "nintendolife.com/news/2026/09/this-fromsoft-inspired-rpg-is-packed-with-retro-kings-field-soul": {
+      "title": "This FromSoft-Inspired RPG Is Packed With Retro King's Field Soul",
+      "url": "https://www.nintendolife.com/news/2026/09/this-fromsoft-inspired-rpg-is-packed-with-retro-kings-field-soul",
+      "canonical": "nintendolife.com/news/2026/09/this-fromsoft-inspired-rpg-is-packed-with-retro-kings-field-soul",
+      "published_dt": "2026-09-30T19:00:00+06:00",
+      "published_date": "2026-09-30T19:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "DarkSoul, that is. Has all of that Elden Ring on Switch 2 got you craving some retro FromSoft? And we mean real retro FromSoft, none of your new-fangled Demon's or Dark Souls nonsense, but something more old-school, like King's Field ? Well, Queen's Domain might be right up your street. This is a first-person RPG from indie dev Freshly Baked Games, and it wears its inspo proudly on its sleeve. From the retro-fantasy aesthetic to the tough-looking, stamina-based combat, this has got PS1 goodness written all over it. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/2a1257f132f02/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:53.689596+06:00",
+      "last_seen": "2026-09-30T19:20:53.689604+06:00"
+    },
+    "nintendolife.com/news/2026/09/pokemon-pokopia-gets-spooky-with-a-limited-time-halloween-in-game-event": {
+      "title": "Pokémon Pokopia Gets Spooky With A Limited-Time Halloween In-Game Event",
+      "url": "https://www.nintendolife.com/news/2026/09/pokemon-pokopia-gets-spooky-with-a-limited-time-halloween-in-game-event",
+      "canonical": "nintendolife.com/news/2026/09/pokemon-pokopia-gets-spooky-with-a-limited-time-halloween-in-game-event",
+      "published_dt": "2026-09-30T18:30:00+06:00",
+      "published_date": "2026-09-30T18:30:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Pumpkaboo, I see you. We were quietly hoping that Pokémon Pokopia would have something up its sleeve for Halloween, and what do you know, it does! The Pokémon Company has just announced its next in-game event, which will run from 17th October at 5am until 1st November at 4:59am (local time) . Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/d50030afe0d52/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:53.689978+06:00",
+      "last_seen": "2026-09-30T19:20:53.689983+06:00"
+    },
+    "nintendolife.com/news/2026/09/fatal-fury-city-of-the-wolves-is-getting-a-switch-2-demo-in-october": {
+      "title": "Fatal Fury: City Of The Wolves Is Getting A Switch 2 Demo In October",
+      "url": "https://www.nintendolife.com/news/2026/09/fatal-fury-city-of-the-wolves-is-getting-a-switch-2-demo-in-october",
+      "canonical": "nintendolife.com/news/2026/09/fatal-fury-city-of-the-wolves-is-getting-a-switch-2-demo-in-october",
+      "published_dt": "2026-09-30T17:45:00+06:00",
+      "published_date": "2026-09-30T17:45:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Try before you buy. SNK has announced that there will be a demo available for Fatal Fury: City of the Wolves on Switch 2 in late October. While the demo is available today on PS5 and Xbox Series X|S, SNK has unfortunately not committed to a firm date for the Switch 2 at the time of writing. That said, the game itself launches on 22nd October 2026 , so we imagine the demo will drop around the same time, or possibly shortly after. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/0a778bd1a23fb/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:53.690367+06:00",
+      "last_seen": "2026-09-30T19:20:53.690372+06:00"
+    },
+    "nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-are-now-live-across-europe": {
+      "title": "Zelda 40th Anniversary Concert Tickets Are Now Live Across Europe",
+      "url": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-are-now-live-across-europe",
+      "canonical": "nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-are-now-live-across-europe",
+      "published_dt": "2026-09-30T17:00:00+06:00",
+      "published_date": "2026-09-30T17:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "North American sales go live later today. After being revealed earlier this month, Nintendo has finally shared that tickets for the European leg of the Zelda 40th Anniversary concert will go live tomorrow ( 30th September ). Ticket sales will begin at 12pm BST / 1pm CET for the European shows, which will take place on the following dates: Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/6ad2c3ba7ec28/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-09-30T19:20:53.690714+06:00",
+      "last_seen": "2026-09-30T19:20:53.690719+06:00",
+      "posted_at": "2026-09-30T19:49:10.731886+06:00"
+    },
+    "nintendolife.com/news/2026/09/acclaimed-vampire-survivors-inspired-survival-game-hits-switch-next-month": {
+      "title": "Acclaimed Vampire Survivors-Inspired Survival Game Hits Switch Next Month",
+      "url": "https://www.nintendolife.com/news/2026/09/acclaimed-vampire-survivors-inspired-survival-game-hits-switch-next-month",
+      "canonical": "nintendolife.com/news/2026/09/acclaimed-vampire-survivors-inspired-survival-game-hits-switch-next-month",
+      "published_dt": "2026-09-30T16:30:00+06:00",
+      "published_date": "2026-09-30T16:30:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Dig deep. If you're one of many people who got hopelessly addicted to Vampire Survivors , then you might want to keep an eye out for Deep Rock Galactic: Survivor , which launches on Switch on 9th October 2026 . Developed by Funday Games, DRG: Survivor launched in early access on 14th February 2024 before receiving a full release on Windows and Xbox Series X|S on 17th September 2025. It's been well-received too, earning a score of 8/10 from IGN and 90% from PC Gamer , with the latter concluding its review with a line that will undoubtedly catch your attention: Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/812472457a3df/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:53.691402+06:00",
+      "last_seen": "2026-09-30T19:20:53.691407+06:00"
+    },
+    "pushsquare.com/news/2026/09/trails-in-the-sky-2nd-chapter-is-rated-top-3-of-2026-and-is-the-highest-rated-trails-game-ever": {
+      "title": "Trails in the Sky 2nd Chapter Is Rated Top 3 of 2026, and Is the Highest Rated Trails Game Ever",
+      "url": "https://www.pushsquare.com/news/2026/09/trails-in-the-sky-2nd-chapter-is-rated-top-3-of-2026-and-is-the-highest-rated-trails-game-ever",
+      "canonical": "pushsquare.com/news/2026/09/trails-in-the-sky-2nd-chapter-is-rated-top-3-of-2026-and-is-the-highest-rated-trails-game-ever",
+      "published_dt": "2026-09-30T19:00:00+06:00",
+      "published_date": "2026-09-30T19:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "2nd time's a charm. Falcom seems to have struck gold with these Trails in the Sky remakes. Last year's Trails in the Sky 1st Chapter was almost immediately crowned the highest rated Trails title ever, but its top dog status has now been undone by its successor, Trails in the Sky 2nd Chapter . Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/6008713af4ba2/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:54.006041+06:00",
+      "last_seen": "2026-09-30T19:20:54.006047+06:00"
+    },
+    "pushsquare.com/news/2026/09/silent-hill-townfalls-worst-enemy-to-be-addressed-in-future-ps5-patch": {
+      "title": "Silent Hill: Townfall's Worst Enemy to Be Addressed in Future PS5 Patch",
+      "url": "https://www.pushsquare.com/news/2026/09/silent-hill-townfalls-worst-enemy-to-be-addressed-in-future-ps5-patch",
+      "canonical": "pushsquare.com/news/2026/09/silent-hill-townfalls-worst-enemy-to-be-addressed-in-future-ps5-patch",
+      "published_dt": "2026-09-30T18:00:00+06:00",
+      "published_date": "2026-09-30T18:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Screen Burn will reduce The Weight. If you've played enough of Silent Hill: Townfall , you'll probably have encountered The Weight. This is a slow, top-heavy enemy that patrols a few sections of the game and gives chase if it spots you. You must avoid alerting it while you're going about your objective; otherwise, it'll be on your tail. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/312a824ec2d56/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:54.006416+06:00",
+      "last_seen": "2026-09-30T19:20:54.006421+06:00"
+    },
+    "pushsquare.com/news/2026/09/crimson-deserts-huge-expansion-pack-has-been-delayed-but-not-by-much": {
+      "title": "Crimson Desert's Huge Expansion Pack Has Been Delayed, But Not By Much",
+      "url": "https://www.pushsquare.com/news/2026/09/crimson-deserts-huge-expansion-pack-has-been-delayed-but-not-by-much",
+      "canonical": "pushsquare.com/news/2026/09/crimson-deserts-huge-expansion-pack-has-been-delayed-but-not-by-much",
+      "published_dt": "2026-09-30T17:30:00+06:00",
+      "published_date": "2026-09-30T17:30:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Charting the Unknown arrives later than planned. Publisher and developer Pearl Abyss has announced a delay for Crimson Desert's massive DLC pack, but fortunately it won't leave fans waiting for too much longer. The ambitious RPG's expansion, titled Charting the Unknown, is now set for release on 29th October, as per a statement released on social media: Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/89ac28ba4a434/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:54.006752+06:00",
+      "last_seen": "2026-09-30T19:20:54.006757+06:00"
+    },
+    "pushsquare.com/reviews/ps5/dynasty-warriors-3-complete-edition-remastered": {
+      "title": "Mini Review: Dynasty Warriors 3: Complete Edition Remastered (PS5) - A Strong Case for More Musou Revivals",
+      "url": "https://www.pushsquare.com/reviews/ps5/dynasty-warriors-3-complete-edition-remastered",
+      "canonical": "pushsquare.com/reviews/ps5/dynasty-warriors-3-complete-edition-remastered",
+      "published_dt": "2026-09-30T17:00:00+06:00",
+      "published_date": "2026-09-30T17:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "A true warrior of the Three Kingdoms. Playing Dynasty Warriors 3: Complete Edition Remastered is a strange but not at all unpleasant experience. This is a borderline remake of Dynasty Warriors 3 — a fan-favourite PS2 instalment that was at least partly responsible for establishing the series' hardcore following here in the west. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/6cd0d3f5a558a/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:54.007155+06:00",
+      "last_seen": "2026-09-30T19:20:54.007161+06:00"
+    },
+    "pushsquare.com/news/2026/09/vampire-survivors-fans-take-note-one-of-its-best-clones-is-heading-to-ps5-next-month": {
+      "title": "Vampire Survivors Fans, Take Note: One of Its Best Clones Is Heading to PS5 Next Month",
+      "url": "https://www.pushsquare.com/news/2026/09/vampire-survivors-fans-take-note-one-of-its-best-clones-is-heading-to-ps5-next-month",
+      "canonical": "pushsquare.com/news/2026/09/vampire-survivors-fans-take-note-one-of-its-best-clones-is-heading-to-ps5-next-month",
+      "published_dt": "2026-09-30T16:30:00+06:00",
+      "published_date": "2026-09-30T16:30:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Deep Rock Galactic: Survivors launches soon. If you're like me, you fell hard for Vampire Survivors when it finally came to PS5. Well, another game in the burgeoning bullet heaven genre is coming soon to Sony's console, and apparently it's a corker. The game in question is Deep Rock Galactic: Survivor , a spin-off from the popular co-op mining game. Here's the console announcement trailer to give you a taste: Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/b572010154763/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:54.007854+06:00",
+      "last_seen": "2026-09-30T19:20:54.007860+06:00"
+    },
+    "purexbox.com/news/2026/09/november-gets-its-third-xbox-game-pass-title-as-segas-football-manager-27-joins-the-lineup": {
+      "title": "November Gets Its Third Xbox Game Pass Title As SEGA's Football Manager 27 Joins The Lineup",
+      "url": "https://www.purexbox.com/news/2026/09/november-gets-its-third-xbox-game-pass-title-as-segas-football-manager-27-joins-the-lineup",
+      "canonical": "purexbox.com/news/2026/09/november-gets-its-third-xbox-game-pass-title-as-segas-football-manager-27-joins-the-lineup",
+      "published_dt": "2026-09-30T18:45:00+06:00",
+      "published_date": "2026-09-30T18:45:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Featuring an \"elevated match day atmosphere\". Last year's Football Manager 26 came in for quite a lot of controversy when it released, with players criticising the significant changes to the game's UI in particular following the switch to the Unity engine, and developer Sports Interactive has spent much of the past 12 months trying to address fan feedback in time for Football Manager 27 . That makes the latest entry in the series more significant than usual, with Sports Interactive prioritising features such as a \"cleaner interface\" with \"smoother flow\", a deeper level of immersion across the board, and significant enhancements to the 3D match engine in terms of updates to crowds, weather, lighting and much more. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/56a3c29f4940e/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:54.507221+06:00",
+      "last_seen": "2026-09-30T19:20:54.507228+06:00"
+    },
+    "purexbox.com/news/2026/09/roundup-all-the-biggest-xbox-reveals-from-the-big-break-showcase-2026": {
+      "title": "Roundup: All The Biggest Xbox Reveals From The Big Break Showcase 2026",
+      "url": "https://www.purexbox.com/news/2026/09/roundup-all-the-biggest-xbox-reveals-from-the-big-break-showcase-2026",
+      "canonical": "purexbox.com/news/2026/09/roundup-all-the-biggest-xbox-reveals-from-the-big-break-showcase-2026",
+      "published_dt": "2026-09-30T17:30:00+06:00",
+      "published_date": "2026-09-30T17:30:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Including big updates for some awesome games! Last night, we were treated to the Big Break Showcase for 2026, which featured a bunch of existing and upcoming Xbox games such as Satisfactory , Teardown , Jump Space , Deep Rock Galactic and many others. From an Xbox perspective, it was particularly focused on updates and expansions, but there was also the surprise shadow drop of Neighbors: Surburban Warfare which is covered in our final Xbox releases of September roundup too. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/1ee7f21617b64/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:54.507728+06:00",
+      "last_seen": "2026-09-30T19:20:54.507734+06:00"
+    },
+    "siliconera.com/review-aniimo-is-a-constantly-distracting-experience": {
+      "title": "Review: Aniimo is a Constantly Distracting Experience",
+      "url": "https://www.siliconera.com/review-aniimo-is-a-constantly-distracting-experience/",
+      "canonical": "siliconera.com/review-aniimo-is-a-constantly-distracting-experience",
+      "published_dt": "2026-09-30T19:00:00+06:00",
+      "published_date": "2026-09-30T19:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "Aniimo is an open world creature collector that struggles to stay focused and sometimes struggles to run at all.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-09-30T19:20:54.847557+06:00",
+      "last_seen": "2026-09-30T19:20:54.847564+06:00"
     }
   },
   "events": {
@@ -9933,6 +11026,282 @@
           "headline": "Pokémon HOME Update Adds FireRed and LeafGreen Compatibility on October 7",
           "claims": [
             "Mark the date in your calendar, trainers. Last month, The Pokémon Company announced Pokémon FireRed and LeafGreen would be linked with the storage subscription service Pokémon HOME in October 2026 . Read the full article on nintendolife.com"
+          ]
+        }
+      ]
+    },
+    "evt_827e0d2dab55ff": {
+      "event_id": "evt_827e0d2dab55ff",
+      "event_key": "crimson desert charting the unknown dlc delay 2026",
+      "event_subject": "Crimson Desert",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "crimson desert charting the unknown dlc delay 2026",
+        "subject": "Crimson Desert",
+        "event_type": "other",
+        "action": "delay",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Crimson Desert",
+        "franchise": "Crimson Desert",
+        "institution": "Pearl Abyss",
+        "target": "Charting the Unknown DLC",
+        "platforms": [],
+        "topic": "release schedule"
+      },
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "Kotaku",
+        "GamesRadar+",
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Eurogamer",
+        "Push Square",
+        "Kotaku",
+        "GamesRadar+",
+        "Insider Gaming"
+      ],
+      "claims": [
+        "postponed from 15 Oct to 29 Oct 2026 for polish and stability",
+        "postponed to 29 Oct 2026",
+        "delayed to end of October 2026",
+        "delayed two weeks for polish and stability",
+        "delay confirmed"
+      ],
+      "importance_score": 61,
+      "coverage_score": 17,
+      "originality_score": 13,
+      "significance_score": 11,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Crimson Desert Charting the Unknown DLC Delayed to October 29, 2026",
+      "summary": "The paid expansion for Crimson Desert will launch two weeks later, now slated for October 29, 2026, to ensure a polished, stable experience.",
+      "published_at": "2026-09-30T17:04:44+06:00",
+      "selected_at": "2026-09-30T13:48:30.878886+00:00",
+      "status": "published",
+      "message_id": 515,
+      "published_versions": [
+        {
+          "published_at": "2026-09-30T13:48:30.878886+00:00",
+          "headline": "Crimson Desert Charting the Unknown DLC Delayed to October 29, 2026",
+          "claims": [
+            "postponed from 15 Oct to 29 Oct 2026 for polish and stability",
+            "postponed to 29 Oct 2026",
+            "delayed to end of October 2026",
+            "delayed two weeks for polish and stability",
+            "delay confirmed"
+          ]
+        }
+      ]
+    },
+    "evt_4b33f1add46bfd": {
+      "event_id": "evt_4b33f1add46bfd",
+      "event_key": "steam dynamic discounts 2026",
+      "event_subject": "Steam",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "steam dynamic discounts 2026",
+        "subject": "Steam",
+        "event_type": "other",
+        "action": "modify",
+        "status": "planned",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Steam",
+        "institution": "Valve",
+        "target": "dynamic discount system",
+        "platforms": [],
+        "topic": "sales"
+      },
+      "sources": [
+        "GameSpot",
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "GameSpot",
+        "Insider Gaming"
+      ],
+      "claims": [
+        "Steam will change how front‑page placements are allocated",
+        "discounts will become user‑specific in 2027"
+      ],
+      "importance_score": 54,
+      "coverage_score": 6,
+      "originality_score": 13,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Steam Shifts to Dynamic, Personalized Discounts Starting Early 2027",
+      "summary": "Steam will replace its calendar‑based sales with a dynamic, user‑specific discount system to boost discoverability and sales activity.",
+      "published_at": "2026-09-30T17:27:16+06:00",
+      "selected_at": "2026-09-30T13:48:35.720357+00:00",
+      "status": "published",
+      "message_id": 516,
+      "published_versions": [
+        {
+          "published_at": "2026-09-30T13:48:35.720357+00:00",
+          "headline": "Steam Shifts to Dynamic, Personalized Discounts Starting Early 2027",
+          "claims": [
+            "Steam will change how front‑page placements are allocated",
+            "discounts will become user‑specific in 2027"
+          ]
+        }
+      ]
+    },
+    "evt_b834939af5d701": {
+      "event_id": "evt_b834939af5d701",
+      "event_key": "grasshopper manufacture split netease 2026",
+      "event_subject": "Grasshopper Manufacture",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "grasshopper manufacture split netease 2026",
+        "subject": "Grasshopper Manufacture",
+        "event_type": "other",
+        "action": "split",
+        "status": "completed",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "NetEase Games",
+        "target": "independence",
+        "platforms": [],
+        "topic": "studio independence"
+      },
+      "sources": [
+        "VGC",
+        "Gematsu"
+      ],
+      "event_sources": [
+        "VGC",
+        "Gematsu"
+      ],
+      "claims": [
+        "Grasshopper Manufacture splits from NetEase",
+        "Grasshopper Manufacture splits from NetEase"
+      ],
+      "importance_score": 50,
+      "coverage_score": 6,
+      "originality_score": 12,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Grasshopper Manufacture Regains Independence from NetEase After Studio Split",
+      "summary": "Grasshopper Manufacture, famed for No More Heroes, has officially separated from NetEase, avoiding the studio cull that hit many of the publisher’s acquisitions.",
+      "published_at": "2026-09-30T19:13:05+06:00",
+      "selected_at": "2026-09-30T13:49:00.733770+00:00",
+      "status": "published",
+      "message_id": 517,
+      "published_versions": [
+        {
+          "published_at": "2026-09-30T13:49:00.733770+00:00",
+          "headline": "Grasshopper Manufacture Regains Independence from NetEase After Studio Split",
+          "claims": [
+            "Grasshopper Manufacture splits from NetEase",
+            "Grasshopper Manufacture splits from NetEase"
+          ]
+        }
+      ]
+    },
+    "evt_d1e439d49562a6": {
+      "event_id": "evt_d1e439d49562a6",
+      "event_key": "monster hunter wilds switch2 performance 2026",
+      "event_subject": "Monster Hunter Wilds",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "monster hunter wilds switch2 performance 2026",
+        "subject": "Monster Hunter Wilds",
+        "event_type": "other",
+        "action": "optimize",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Monster Hunter Wilds",
+        "franchise": "Monster Hunter",
+        "institution": "Capcom",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "performance optimization"
+      },
+      "sources": [
+        "Eurogamer"
+      ],
+      "event_sources": [
+        "Eurogamer"
+      ],
+      "claims": [
+        "Monster Hunter Wilds runs at stable 30 FPS on Switch 2 after extensive optimization"
+      ],
+      "importance_score": 48,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 13,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Capcom Achieves Stable 30FPS on Switch 2 for Monster Hunter Wilds",
+      "summary": "After a painstaking optimisation process, Capcom secured a consistent 30FPS handheld experience for Monster Hunter Wilds on the Nintendo Switch 2, preserving core gameplay.",
+      "published_at": "2026-09-30T18:54:26+06:00",
+      "selected_at": "2026-09-30T13:49:05.803759+00:00",
+      "status": "published",
+      "message_id": 518,
+      "published_versions": [
+        {
+          "published_at": "2026-09-30T13:49:05.803759+00:00",
+          "headline": "Capcom Achieves Stable 30FPS on Switch 2 for Monster Hunter Wilds",
+          "claims": [
+            "Monster Hunter Wilds runs at stable 30 FPS on Switch 2 after extensive optimization"
+          ]
+        }
+      ]
+    },
+    "evt_0f073a8ed02830": {
+      "event_id": "evt_0f073a8ed02830",
+      "event_key": "zelda 40th anniversary concert tickets europe 2026",
+      "event_subject": "The Legend of Zelda",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "zelda 40th anniversary concert tickets europe 2026",
+        "subject": "The Legend of Zelda",
+        "event_type": "other",
+        "action": "open",
+        "status": "available",
+        "modality": "unknown",
+        "game": "The Legend of Zelda",
+        "franchise": "Zelda",
+        "institution": "Nintendo",
+        "target": "40th Anniversary Concert – Europe",
+        "platforms": [],
+        "topic": "live event"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [
+        "sales start 12 pm BST 30 Sep 2026"
+      ],
+      "importance_score": 37,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 7,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Zelda 40th Anniversary Concert Tickets Go Live Across Europe",
+      "summary": "Tickets for the worldwide Zelda 40th Anniversary concerts start selling today, with European fans queuing and North American sales set for tomorrow at noon.",
+      "published_at": "2026-09-30T17:00:00+06:00",
+      "selected_at": "2026-09-30T13:49:10.731924+00:00",
+      "status": "published",
+      "message_id": 519,
+      "published_versions": [
+        {
+          "published_at": "2026-09-30T13:49:10.731924+00:00",
+          "headline": "Zelda 40th Anniversary Concert Tickets Go Live Across Europe",
+          "claims": [
+            "sales start 12 pm BST 30 Sep 2026"
           ]
         }
       ]
@@ -54359,6 +55728,2026 @@
         "total": 28
       },
       "last_seen": "2026-09-30T12:23:21.814265+06:00"
+    },
+    "evt_d45867b9d7a0b0": {
+      "event_id": "evt_d45867b9d7a0b0",
+      "event_key": "mario kart tour shutdown 2026",
+      "event_subject": "Mario Kart Tour",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "mario kart tour shutdown 2026",
+        "subject": "Mario Kart Tour",
+        "event_type": "other",
+        "action": "shut down",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Mario Kart Tour",
+        "franchise": "Mario Kart",
+        "institution": "Nintendo",
+        "target": "online service",
+        "platforms": [
+          "iOS",
+          "Android"
+        ],
+        "topic": "service closure"
+      },
+      "modality": "unknown",
+      "topic": "service closure",
+      "institution": "Nintendo",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "ended after generating $270 M revenue"
+      ],
+      "importance_score": 54,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 54
+      },
+      "last_seen": "2026-09-30T19:23:56.762192+06:00"
+    },
+    "evt_a32bd74c2f4be6": {
+      "event_id": "evt_a32bd74c2f4be6",
+      "event_key": "gta 6 animal list 2026",
+      "event_subject": "Grand Theft Auto VI",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta 6 animal list 2026",
+        "subject": "Grand Theft Auto VI",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar Games",
+        "target": "players",
+        "platforms": [],
+        "topic": "game content reveal"
+      },
+      "modality": "unknown",
+      "topic": "game content reveal",
+      "institution": "Rockstar Games",
+      "sources": [
+        "IGN",
+        "GamesRadar+"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "All animals confirmed for GTA 6 so far",
+        "GTA 6 weather system rebuilt, includes hurricanes and rainbows"
+      ],
+      "importance_score": 51,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 6,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 51
+      },
+      "last_seen": "2026-09-30T19:23:56.762224+06:00"
+    },
+    "evt_4b33f1add46bfd": {
+      "event_id": "evt_4b33f1add46bfd",
+      "event_key": "steam dynamic discounts 2026",
+      "event_subject": "Steam",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "steam dynamic discounts 2026",
+        "subject": "Steam",
+        "event_type": "other",
+        "action": "modify",
+        "status": "planned",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Steam",
+        "institution": "Valve",
+        "target": "dynamic discount system",
+        "platforms": [],
+        "topic": "sales"
+      },
+      "modality": "unknown",
+      "topic": "sales",
+      "institution": "Valve",
+      "sources": [
+        "GameSpot",
+        "Insider Gaming"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Steam will change how front‑page placements are allocated",
+        "discounts will become user‑specific in 2027"
+      ],
+      "importance_score": 54,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 6,
+        "originality": 13,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 54
+      },
+      "last_seen": "2026-09-30T19:23:56.762233+06:00"
+    },
+    "evt_e094fe4080b89e": {
+      "event_id": "evt_e094fe4080b89e",
+      "event_key": "raincoat pikachu card sale 2026",
+      "event_subject": "Raincoat Pikachu card",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "raincoat pikachu card sale 2026",
+        "subject": "Raincoat Pikachu card",
+        "event_type": "other",
+        "action": "sell",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Pokémon",
+        "institution": "GamesRadar+",
+        "target": "rare card",
+        "platforms": [],
+        "topic": "collectibles"
+      },
+      "modality": "unknown",
+      "topic": "collectibles",
+      "institution": "GamesRadar+",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "sold for $8.4 million"
+      ],
+      "importance_score": 41,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 41
+      },
+      "last_seen": "2026-09-30T19:23:56.762241+06:00"
+    },
+    "evt_2137273ef00767": {
+      "event_id": "evt_2137273ef00767",
+      "event_key": "big break showcase 2026 xbox announcements",
+      "event_subject": "Xbox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "big break showcase 2026 xbox announcements",
+        "subject": "Xbox",
+        "event_type": "other",
+        "action": "announce",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Xbox",
+        "institution": "Microsoft",
+        "target": "Big Break Showcase 2026 announcements",
+        "platforms": [],
+        "topic": "hardware/software announcements"
+      },
+      "modality": "unknown",
+      "topic": "hardware/software announcements",
+      "institution": "Microsoft",
+      "sources": [
+        "Pure Xbox",
+        "Eurogamer",
+        "Polygon"
+      ],
+      "source_count": 3,
+      "independent_source_count": 3,
+      "claims": [
+        "multiple game updates and surprise shadow drop",
+        "retroactively awarded to titles back to Xbox 360",
+        "allows digitising physical game discs",
+        "publicly available"
+      ],
+      "importance_score": 53,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 10,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 53
+      },
+      "last_seen": "2026-09-30T19:23:56.762248+06:00"
+    },
+    "evt_d1e439d49562a6": {
+      "event_id": "evt_d1e439d49562a6",
+      "event_key": "monster hunter wilds switch2 performance 2026",
+      "event_subject": "Monster Hunter Wilds",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "monster hunter wilds switch2 performance 2026",
+        "subject": "Monster Hunter Wilds",
+        "event_type": "other",
+        "action": "optimize",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Monster Hunter Wilds",
+        "franchise": "Monster Hunter",
+        "institution": "Capcom",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "performance optimization"
+      },
+      "modality": "unknown",
+      "topic": "performance optimization",
+      "institution": "Capcom",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Monster Hunter Wilds runs at stable 30 FPS on Switch 2 after extensive optimization"
+      ],
+      "importance_score": 48,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 48
+      },
+      "last_seen": "2026-09-30T19:23:56.762256+06:00"
+    },
+    "evt_b834939af5d701": {
+      "event_id": "evt_b834939af5d701",
+      "event_key": "grasshopper manufacture split netease 2026",
+      "event_subject": "Grasshopper Manufacture",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "grasshopper manufacture split netease 2026",
+        "subject": "Grasshopper Manufacture",
+        "event_type": "other",
+        "action": "split",
+        "status": "completed",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "NetEase Games",
+        "target": "independence",
+        "platforms": [],
+        "topic": "studio independence"
+      },
+      "modality": "confirmed",
+      "topic": "studio independence",
+      "institution": "NetEase Games",
+      "sources": [
+        "VGC",
+        "Gematsu"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Grasshopper Manufacture splits from NetEase",
+        "Grasshopper Manufacture splits from NetEase"
+      ],
+      "importance_score": 50,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 6,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 50
+      },
+      "last_seen": "2026-09-30T19:23:56.762262+06:00"
+    },
+    "evt_a6a4b4b359ae1f": {
+      "event_id": "evt_a6a4b4b359ae1f",
+      "event_key": "south korea lol asian games group stage 2026",
+      "event_subject": "South Korea LoL team",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "south korea lol asian games group stage 2026",
+        "subject": "South Korea LoL team",
+        "event_type": "other",
+        "action": "win",
+        "status": "recorded",
+        "modality": "unknown",
+        "game": "League of Legends",
+        "franchise": "League of Legends",
+        "institution": "Insider Gaming",
+        "target": "Asian Games Group Stage",
+        "platforms": [],
+        "topic": "tournament"
+      },
+      "modality": "unknown",
+      "topic": "tournament",
+      "institution": "Insider Gaming",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "won 3‑0 with Faker playing once"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 46
+      },
+      "last_seen": "2026-09-30T19:23:56.762270+06:00"
+    },
+    "evt_827e0d2dab55ff": {
+      "event_id": "evt_827e0d2dab55ff",
+      "event_key": "crimson desert charting the unknown dlc delay 2026",
+      "event_subject": "Crimson Desert",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "crimson desert charting the unknown dlc delay 2026",
+        "subject": "Crimson Desert",
+        "event_type": "other",
+        "action": "delay",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Crimson Desert",
+        "franchise": "Crimson Desert",
+        "institution": "Pearl Abyss",
+        "target": "Charting the Unknown DLC",
+        "platforms": [],
+        "topic": "release schedule"
+      },
+      "modality": "unknown",
+      "topic": "release schedule",
+      "institution": "Pearl Abyss",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "Kotaku",
+        "GamesRadar+",
+        "Insider Gaming"
+      ],
+      "source_count": 5,
+      "independent_source_count": 5,
+      "claims": [
+        "postponed from 15 Oct to 29 Oct 2026 for polish and stability",
+        "postponed to 29 Oct 2026",
+        "delayed to end of October 2026",
+        "delayed two weeks for polish and stability",
+        "delay confirmed"
+      ],
+      "importance_score": 61,
+      "score_breakdown": {
+        "significance": 11,
+        "coverage": 17,
+        "originality": 13,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 61
+      },
+      "last_seen": "2026-09-30T19:23:56.762277+06:00"
+    },
+    "evt_79a3fca082fd93": {
+      "event_id": "evt_79a3fca082fd93",
+      "event_key": "deep rock galactic survivor switch launch 2026",
+      "event_subject": "Deep Rock Galactic: Survivor",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "deep rock galactic survivor switch launch 2026",
+        "subject": "Deep Rock Galactic: Survivor",
+        "event_type": "other",
+        "action": "announce",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "Deep Rock Galactic: Survivor",
+        "franchise": "Deep Rock Galactic",
+        "institution": "Nintendo Life",
+        "target": "Switch release",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "launch 9 Oct 2026",
+        "launch next month on PS5"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 45
+      },
+      "last_seen": "2026-09-30T19:23:56.762284+06:00"
+    },
+    "evt_a28717ca2f5ab8": {
+      "event_id": "evt_a28717ca2f5ab8",
+      "event_key": "gta 5 switch modder legal action 2026",
+      "event_subject": "GTA 5 Switch Modder",
+      "event_type": "legal",
+      "event_frame": {
+        "event_key": "gta 5 switch modder legal action 2026",
+        "subject": "GTA 5 Switch Modder",
+        "event_type": "legal",
+        "action": "settle",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Grand Theft Auto 5",
+        "franchise": "Grand Theft Auto",
+        "institution": "Take‑Two Interactive",
+        "target": "modder",
+        "platforms": [],
+        "topic": "legal news"
+      },
+      "modality": "unknown",
+      "topic": "legal news",
+      "institution": "Take‑Two Interactive",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Modder thanks Take‑Two after legal action shuts down GTA 5 Switch port"
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 44
+      },
+      "last_seen": "2026-09-30T19:23:56.762290+06:00"
+    },
+    "evt_a18bb2fe9a1db2": {
+      "event_id": "evt_a18bb2fe9a1db2",
+      "event_key": "splinter cell remake hiring 2026",
+      "event_subject": "Splinter Cell Remake",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "splinter cell remake hiring 2026",
+        "subject": "Splinter Cell Remake",
+        "event_type": "other",
+        "action": "hire",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "Splinter Cell Remake",
+        "franchise": "Splinter Cell",
+        "institution": "Ubisoft",
+        "target": "staff",
+        "platforms": [],
+        "topic": "development hiring"
+      },
+      "modality": "unknown",
+      "topic": "development hiring",
+      "institution": "Ubisoft",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Ubisoft ramps up hiring for the Splinter Cell remake"
+      ],
+      "importance_score": 43,
+      "score_breakdown": {
+        "significance": 9,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 43
+      },
+      "last_seen": "2026-09-30T19:23:56.762297+06:00"
+    },
+    "evt_293c6eab01e849": {
+      "event_id": "evt_293c6eab01e849",
+      "event_key": "football manager 27 xbox game pass 2026",
+      "event_subject": "Football Manager 27",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "football manager 27 xbox game pass 2026",
+        "subject": "Football Manager 27",
+        "event_type": "other",
+        "action": "add",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Football Manager 27",
+        "franchise": "Football Manager",
+        "institution": "SEGA",
+        "target": "Xbox Game Pass users",
+        "platforms": [
+          "Xbox"
+        ],
+        "topic": "service addition"
+      },
+      "modality": "unknown",
+      "topic": "service addition",
+      "institution": "SEGA",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Football Manager 27 joins Xbox Game Pass in November 2026"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 9,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 39
+      },
+      "last_seen": "2026-09-30T19:23:56.762303+06:00"
+    },
+    "evt_211e54bdbd8300": {
+      "event_id": "evt_211e54bdbd8300",
+      "event_key": "queens domain launch 2026",
+      "event_subject": "Queen’s Domain",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "queens domain launch 2026",
+        "subject": "Queen’s Domain",
+        "event_type": "release",
+        "action": "launch",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "Queen’s Domain",
+        "franchise": "Queen’s Domain",
+        "institution": "",
+        "target": "players",
+        "platforms": [
+          "PS5",
+          "Xbox Series",
+          "Switch 2",
+          "PC"
+        ],
+        "topic": "game release"
+      },
+      "modality": "unknown",
+      "topic": "game release",
+      "institution": "",
+      "sources": [
+        "Gematsu",
+        "GamesRadar+"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Queen’s Domain launches October 30",
+        "Queen’s Domain will arrive on Steam and consoles for Halloween"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 6,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-09-30T19:23:56.762310+06:00"
+    },
+    "evt_79c95279d4454d": {
+      "event_id": "evt_79c95279d4454d",
+      "event_key": "team vitality valorant champions playoffs 2026",
+      "event_subject": "Team Vitality",
+      "event_type": "esports",
+      "event_frame": {
+        "event_key": "team vitality valorant champions playoffs 2026",
+        "subject": "Team Vitality",
+        "event_type": "esports",
+        "action": "qualify",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Valorant",
+        "institution": "",
+        "target": "team",
+        "platforms": [],
+        "topic": "esports result"
+      },
+      "modality": "unknown",
+      "topic": "esports result",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Team Vitality reaches Valorant Champions Shanghai playoffs"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-09-30T19:23:56.762317+06:00"
+    },
+    "evt_d33c4b3abc7080": {
+      "event_id": "evt_d33c4b3abc7080",
+      "event_key": "no law deus ex speculation 2026",
+      "event_subject": "No Law",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "no law deus ex speculation 2026",
+        "subject": "No Law",
+        "event_type": "other",
+        "action": "speculate",
+        "status": "published",
+        "modality": "unknown",
+        "game": "No Law",
+        "franchise": "No Law",
+        "institution": "CD Projekt",
+        "target": "players",
+        "platforms": [],
+        "topic": "game speculation"
+      },
+      "modality": "unknown",
+      "topic": "game speculation",
+      "institution": "CD Projekt",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "No Law may be the open‑world Deus Ex that Cyberpunk 2077 wasn’t"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-09-30T19:23:56.762324+06:00"
+    },
+    "evt_cee997f457df40": {
+      "event_id": "evt_cee997f457df40",
+      "event_key": "satisfactory core values expansion design 2026",
+      "event_subject": "Satisfactory",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "satisfactory core values expansion design 2026",
+        "subject": "Satisfactory",
+        "event_type": "other",
+        "action": "cover",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "Satisfactory",
+        "franchise": "Satisfactory",
+        "institution": "Coffee Stain Studios",
+        "target": "Core Values expansion",
+        "platforms": [],
+        "topic": "development"
+      },
+      "modality": "unknown",
+      "topic": "development",
+      "institution": "Coffee Stain Studios",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "design challenge of creating perfectly‑sized caves"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-09-30T19:23:56.762331+06:00"
+    },
+    "evt_05f7b35919751e": {
+      "event_id": "evt_05f7b35919751e",
+      "event_key": "ghost of yotei roguelike mode video 2026",
+      "event_subject": "Ghost of Yotei",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ghost of yotei roguelike mode video 2026",
+        "subject": "Ghost of Yotei",
+        "event_type": "other",
+        "action": "showcase",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Ghost of Yotei",
+        "franchise": "Ghost of Yotei",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "gameplay preview"
+      },
+      "modality": "unknown",
+      "topic": "gameplay preview",
+      "institution": "",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Gameplay video of Ghost of Yotei’s new roguelike mode featuring Jin Sakai"
+      ],
+      "importance_score": 41,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 41
+      },
+      "last_seen": "2026-09-30T19:23:56.762339+06:00"
+    },
+    "evt_f83e1055b6d3bb": {
+      "event_id": "evt_f83e1055b6d3bb",
+      "event_key": "pokemon pokopia halloween event 2026",
+      "event_subject": "Pokémon Pokopia",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pokemon pokopia halloween event 2026",
+        "subject": "Pokémon Pokopia",
+        "event_type": "other",
+        "action": "host",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "Pokémon Pokopia",
+        "franchise": "Pokémon",
+        "institution": "The Pokémon Company",
+        "target": "players",
+        "platforms": [],
+        "topic": "in‑game event"
+      },
+      "modality": "unknown",
+      "topic": "in‑game event",
+      "institution": "The Pokémon Company",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Pokémon Pokopia runs a limited‑time Halloween event"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 37
+      },
+      "last_seen": "2026-09-30T19:23:56.762347+06:00"
+    },
+    "evt_0f073a8ed02830": {
+      "event_id": "evt_0f073a8ed02830",
+      "event_key": "zelda 40th anniversary concert tickets europe 2026",
+      "event_subject": "The Legend of Zelda",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "zelda 40th anniversary concert tickets europe 2026",
+        "subject": "The Legend of Zelda",
+        "event_type": "other",
+        "action": "open",
+        "status": "available",
+        "modality": "unknown",
+        "game": "The Legend of Zelda",
+        "franchise": "Zelda",
+        "institution": "Nintendo",
+        "target": "40th Anniversary Concert – Europe",
+        "platforms": [],
+        "topic": "live event"
+      },
+      "modality": "unknown",
+      "topic": "live event",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "sales start 12 pm BST 30 Sep 2026"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 37
+      },
+      "last_seen": "2026-09-30T19:23:56.762354+06:00"
+    },
+    "evt_a0f97bf592f0c1": {
+      "event_id": "evt_a0f97bf592f0c1",
+      "event_key": "fatal fury city of wolves switch demo 2026",
+      "event_subject": "Fatal Fury: City of the Wolves",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fatal fury city of wolves switch demo 2026",
+        "subject": "Fatal Fury: City of the Wolves",
+        "event_type": "other",
+        "action": "demo-release",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "Fatal Fury: City of the Wolves",
+        "franchise": "Fatal Fury",
+        "institution": "SNK",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "demo announcement"
+      },
+      "modality": "unknown",
+      "topic": "demo announcement",
+      "institution": "SNK",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Fatal Fury: City of the Wolves demo coming to Switch 2 in October 2026"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-09-30T19:23:56.762362+06:00"
+    },
+    "evt_95806ca5244a76": {
+      "event_id": "evt_95806ca5244a76",
+      "event_key": "star fox remake update 2026",
+      "event_subject": "Star Fox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "star fox remake update 2026",
+        "subject": "Star Fox",
+        "event_type": "other",
+        "action": "update",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Star Fox Remake",
+        "franchise": "Star Fox",
+        "institution": "Nintendo",
+        "target": "new content",
+        "platforms": [],
+        "topic": "game update"
+      },
+      "modality": "unknown",
+      "topic": "game update",
+      "institution": "Nintendo",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Star Fox remake receives free update with new content"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 32
+      },
+      "last_seen": "2026-09-30T19:23:56.762370+06:00"
+    },
+    "evt_8a0a4c44552519": {
+      "event_id": "evt_8a0a4c44552519",
+      "event_key": "modern warfare 2 mods skateboarding minecraft 2026",
+      "event_subject": "Call of Duty: Modern Warfare 2",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "modern warfare 2 mods skateboarding minecraft 2026",
+        "subject": "Call of Duty: Modern Warfare 2",
+        "event_type": "other",
+        "action": "add",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Call of Duty: Modern Warfare 2",
+        "franchise": "Call of Duty",
+        "institution": "Activision",
+        "target": "Skateboarding and Minecraft mods",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "modding"
+      },
+      "modality": "unknown",
+      "topic": "modding",
+      "institution": "Activision",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "adds skateboarding mechanics and Minecraft world integration"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-30T19:23:56.762378+06:00"
+    },
+    "evt_fccb266178f836": {
+      "event_id": "evt_fccb266178f836",
+      "event_key": "deadlock upcoming heroes map update 2026",
+      "event_subject": "Deadlock",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "deadlock upcoming heroes map update 2026",
+        "subject": "Deadlock",
+        "event_type": "other",
+        "action": "announce",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "Deadlock",
+        "franchise": "Deadlock",
+        "institution": "PC Gamer",
+        "target": "new heroes and map changes",
+        "platforms": [],
+        "topic": "game update"
+      },
+      "modality": "unknown",
+      "topic": "game update",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "800 extra pre‑match conversations"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-30T19:23:56.762384+06:00"
+    },
+    "evt_5be6ad57af7965": {
+      "event_id": "evt_5be6ad57af7965",
+      "event_key": "dynasty warriors 3 complete edition remastered review 2026",
+      "event_subject": "Dynasty Warriors 3: Complete Edition Remastered",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "dynasty warriors 3 complete edition remastered review 2026",
+        "subject": "Dynasty Warriors 3: Complete Edition Remastered",
+        "event_type": "review",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Dynasty Warriors 3: Complete Edition Remastered",
+        "franchise": "Dynasty Warriors",
+        "institution": "Push Square",
+        "target": "game",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "game review"
+      },
+      "modality": "unknown",
+      "topic": "game review",
+      "institution": "Push Square",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "strong case for Musou revivals"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-30T19:23:56.762391+06:00"
+    },
+    "evt_b76beb1f834905": {
+      "event_id": "evt_b76beb1f834905",
+      "event_key": "trails in the sky 2nd chapter rating 2026",
+      "event_subject": "Trails in the Sky 2nd Chapter",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "trails in the sky 2nd chapter rating 2026",
+        "subject": "Trails in the Sky 2nd Chapter",
+        "event_type": "other",
+        "action": "rank",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Trails in the Sky 2nd Chapter",
+        "franchise": "Trails",
+        "institution": "Falcom",
+        "target": "players",
+        "platforms": [],
+        "topic": "game rating"
+      },
+      "modality": "unknown",
+      "topic": "game rating",
+      "institution": "Falcom",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Trails in the Sky 2nd Chapter rated top 3 of 2026"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-09-30T19:23:56.762398+06:00"
+    },
+    "evt_47cf0fc6b536ef": {
+      "event_id": "evt_47cf0fc6b536ef",
+      "event_key": "halo future opinion 2026",
+      "event_subject": "Halo Franchise",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "halo future opinion 2026",
+        "subject": "Halo Franchise",
+        "event_type": "other",
+        "action": "comment",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Halo",
+        "institution": "",
+        "target": "industry",
+        "platforms": [],
+        "topic": "industry commentary"
+      },
+      "modality": "unknown",
+      "topic": "industry commentary",
+      "institution": "",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Veteran suggests hiring Bungie and former Halo staff for future Halo projects"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-09-30T19:23:56.762405+06:00"
+    },
+    "evt_c0e31467a3e0c5": {
+      "event_id": "evt_c0e31467a3e0c5",
+      "event_key": "witcher3 remastered loot merge explainer 2026",
+      "event_subject": "The Witcher 3: Remastered",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "witcher3 remastered loot merge explainer 2026",
+        "subject": "The Witcher 3: Remastered",
+        "event_type": "other",
+        "action": "explain",
+        "status": "published",
+        "modality": "unknown",
+        "game": "The Witcher 3: Wild Hunt Remastered",
+        "franchise": "The Witcher",
+        "institution": "VGC",
+        "target": "Loot Merge system",
+        "platforms": [],
+        "topic": "game mechanics"
+      },
+      "modality": "unknown",
+      "topic": "game mechanics",
+      "institution": "VGC",
+      "sources": [
+        "VGC",
+        "GamesRadar+",
+        "IGN"
+      ],
+      "source_count": 3,
+      "independent_source_count": 3,
+      "claims": [
+        "how Loot Merge works and whether to use it",
+        "how to reforge equipment for a new look",
+        "free unlock even with borrowed physical copy"
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 10,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 44
+      },
+      "last_seen": "2026-09-30T19:23:56.762412+06:00"
+    },
+    "evt_dfc131b7ac1ad3": {
+      "event_id": "evt_dfc131b7ac1ad3",
+      "event_key": "budget wired gaming mouse 2026",
+      "event_subject": "Budget Gaming Mouse",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "budget wired gaming mouse 2026",
+        "subject": "Budget Gaming Mouse",
+        "event_type": "other",
+        "action": "review",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "gamers",
+        "platforms": [],
+        "topic": "hardware review"
+      },
+      "modality": "unknown",
+      "topic": "hardware review",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "A $30 wired gaming mouse offers solid performance"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-30T19:23:56.762418+06:00"
+    },
+    "evt_47b16c8cd58ae4": {
+      "event_id": "evt_47b16c8cd58ae4",
+      "event_key": "silent hill townfall patch 2026",
+      "event_subject": "Silent Hill: Townfall",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "silent hill townfall patch 2026",
+        "subject": "Silent Hill: Townfall",
+        "event_type": "other",
+        "action": "patch",
+        "status": "planned",
+        "modality": "unknown",
+        "game": "Silent Hill: Townfall",
+        "franchise": "Silent Hill",
+        "institution": "",
+        "target": "players",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "post‑launch support"
+      },
+      "modality": "unknown",
+      "topic": "post‑launch support",
+      "institution": "",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Future PS5 patch will address The Weight enemy in Silent Hill: Townfall"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-09-30T19:23:56.762426+06:00"
+    },
+    "evt_3375772af38d94": {
+      "event_id": "evt_3375772af38d94",
+      "event_key": "aniimo review 2026",
+      "event_subject": "Aniimo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "aniimo review 2026",
+        "subject": "Aniimo",
+        "event_type": "other",
+        "action": "review",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Aniimo",
+        "franchise": "Aniimo",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "game review"
+      },
+      "modality": "unknown",
+      "topic": "game review",
+      "institution": "",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Aniimo is a distracting open‑world creature collector"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-09-30T19:23:56.762434+06:00"
+    },
+    "evt_cce7fcae09db8f": {
+      "event_id": "evt_cce7fcae09db8f",
+      "event_key": "october 2026 game releases overview 2026",
+      "event_subject": "October 2026 Releases",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "october 2026 game releases overview 2026",
+        "subject": "October 2026 Releases",
+        "event_type": "other",
+        "action": "list",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "readers",
+        "platforms": [],
+        "topic": "release roundup"
+      },
+      "modality": "unknown",
+      "topic": "release roundup",
+      "institution": "",
+      "sources": [
+        "GamesRadar+",
+        "GameSpot"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "The 5 best games to play in October 2026",
+        "Overview of biggest new game releases of October 2026"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 38
+      },
+      "last_seen": "2026-09-30T19:23:56.762441+06:00"
+    },
+    "evt_d088e3af05340e": {
+      "event_id": "evt_d088e3af05340e",
+      "event_key": "witcher 3 remastered quick sign casting 2026",
+      "event_subject": "The Witcher 3: Wild Hunt Remastered",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "witcher 3 remastered quick sign casting 2026",
+        "subject": "The Witcher 3: Wild Hunt Remastered",
+        "event_type": "other",
+        "action": "explain",
+        "status": "published",
+        "modality": "unknown",
+        "game": "The Witcher 3: Wild Hunt Remastered",
+        "franchise": "The Witcher",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "game mechanics"
+      },
+      "modality": "unknown",
+      "topic": "game mechanics",
+      "institution": "",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Quick Sign Casting explained for Witcher 3 Remastered",
+        "Enemy Upscaling explained for Witcher 3 Remastered"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 37
+      },
+      "last_seen": "2026-09-30T19:23:56.762447+06:00"
+    },
+    "evt_f13a96091f6593": {
+      "event_id": "evt_f13a96091f6593",
+      "event_key": "amazon echo self propelling speakers review 2026",
+      "event_subject": "Amazon Echo speakers",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "amazon echo self propelling speakers review 2026",
+        "subject": "Amazon Echo speakers",
+        "event_type": "other",
+        "action": "review",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PC Gamer",
+        "target": "self‑propelling speakers",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "modality": "unknown",
+      "topic": "hardware",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "price $25, comedic performance"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-30T19:23:56.762455+06:00"
+    },
+    "evt_0ef9418e09a09e": {
+      "event_id": "evt_0ef9418e09a09e",
+      "event_key": "deadlock hero vote 2026",
+      "event_subject": "Deadlock",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "deadlock hero vote 2026",
+        "subject": "Deadlock",
+        "event_type": "other",
+        "action": "vote",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "hero selection",
+        "platforms": [],
+        "topic": "player voting"
+      },
+      "modality": "unknown",
+      "topic": "player voting",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Players can vote for their favorite Deadlock hero"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-09-30T19:23:56.762461+06:00"
+    },
+    "evt_47890b62ff0a11": {
+      "event_id": "evt_47890b62ff0a11",
+      "event_key": "avengers endgame hawkeye death script change 2026",
+      "event_subject": "Avengers: Endgame",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "avengers endgame hawkeye death script change 2026",
+        "subject": "Avengers: Endgame",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Marvel Cinematic Universe",
+        "institution": "GamesRadar+",
+        "target": "Hawkeye death script",
+        "platforms": [],
+        "topic": "behind‑the‑scenes"
+      },
+      "modality": "unknown",
+      "topic": "behind‑the‑scenes",
+      "institution": "GamesRadar+",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "planned until Marvel staff protested"
+      ],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-09-30T19:23:56.762468+06:00"
+    },
+    "evt_9278438fae0fec": {
+      "event_id": "evt_9278438fae0fec",
+      "event_key": "best games so far 2026",
+      "event_subject": "Best Games 2026",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "best games so far 2026",
+        "subject": "Best Games 2026",
+        "event_type": "other",
+        "action": "list",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "readers",
+        "platforms": [],
+        "topic": "game roundup"
+      },
+      "modality": "unknown",
+      "topic": "game roundup",
+      "institution": "",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The best new games of 2026 (so far)"
+      ],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-09-30T19:23:56.762474+06:00"
+    },
+    "evt_f6fdaaa96ced89": {
+      "event_id": "evt_f6fdaaa96ced89",
+      "event_key": "human benchmark reaction time claim 2026",
+      "event_subject": "Human Benchmark",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "human benchmark reaction time claim 2026",
+        "subject": "Human Benchmark",
+        "event_type": "other",
+        "action": "assert",
+        "status": "self‑reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PC Gamer",
+        "target": "reaction time benchmark",
+        "platforms": [],
+        "topic": "gaming performance"
+      },
+      "modality": "unknown",
+      "topic": "gaming performance",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "author claims 10× faster than pros"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-30T19:23:56.762480+06:00"
+    },
+    "evt_1dc6c1145f96f6": {
+      "event_id": "evt_1dc6c1145f96f6",
+      "event_key": "john carpenter thing prequel critique 2026",
+      "event_subject": "John Carpenter",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "john carpenter thing prequel critique 2026",
+        "subject": "John Carpenter",
+        "event_type": "other",
+        "action": "criticize",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "IGN",
+        "target": "The Thing (2011) prequel",
+        "platforms": [],
+        "topic": "film reception"
+      },
+      "modality": "unknown",
+      "topic": "film reception",
+      "institution": "IGN",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "calls the film a ‘piece of crap’"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-30T19:23:56.762487+06:00"
+    },
+    "evt_34275b5f0648ac": {
+      "event_id": "evt_34275b5f0648ac",
+      "event_key": "queen s domain fromsoft inspired 2026",
+      "event_subject": "Queen’s Domain",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "queen s domain fromsoft inspired 2026",
+        "subject": "Queen’s Domain",
+        "event_type": "other",
+        "action": "preview",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Queen’s Domain",
+        "franchise": "Queen’s Domain",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "game preview"
+      },
+      "modality": "unknown",
+      "topic": "game preview",
+      "institution": "",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Queen’s Domain is a retro‑style RPG inspired by FromSoftware titles"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-09-30T19:23:56.762493+06:00"
+    },
+    "evt_946f11246f1c08": {
+      "event_id": "evt_946f11246f1c08",
+      "event_key": "mike flanagan carrie amazon series plan 2026",
+      "event_subject": "Mike Flanagan",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "mike flanagan carrie amazon series plan 2026",
+        "subject": "Mike Flanagan",
+        "event_type": "other",
+        "action": "plan",
+        "status": "proposed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "GamesRadar+",
+        "target": "Carrie Amazon series",
+        "platforms": [],
+        "topic": "TV production"
+      },
+      "modality": "unknown",
+      "topic": "TV production",
+      "institution": "GamesRadar+",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "aims for three‑season run"
+      ],
+      "importance_score": 28,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 28
+      },
+      "last_seen": "2026-09-30T19:23:56.762500+06:00"
+    },
+    "evt_57a3e22b328794": {
+      "event_id": "evt_57a3e22b328794",
+      "event_key": "rps september 2026 supporter rewards 2026",
+      "event_subject": "Rock Paper Shotgun",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "rps september 2026 supporter rewards 2026",
+        "subject": "Rock Paper Shotgun",
+        "event_type": "other",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "supporters",
+        "platforms": [],
+        "topic": "community rewards"
+      },
+      "modality": "unknown",
+      "topic": "community rewards",
+      "institution": "",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "RPS Supporter rewards for September 2026 detailed"
+      ],
+      "importance_score": 28,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 28
+      },
+      "last_seen": "2026-09-30T19:23:56.762507+06:00"
+    },
+    "evt_d39efda7492efe": {
+      "event_id": "evt_d39efda7492efe",
+      "event_key": "28 years later part3 production 2026",
+      "event_subject": "28 Years Later Part 3",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "28 years later part3 production 2026",
+        "subject": "28 Years Later Part 3",
+        "event_type": "other",
+        "action": "confirm",
+        "status": "planned",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "fans",
+        "platforms": [],
+        "topic": "film production"
+      },
+      "modality": "unknown",
+      "topic": "film production",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Danny Boyle insists 28 Years Later Part 3 will be made, Cillian Murphy to appear"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-30T19:23:56.762514+06:00"
+    },
+    "evt_74c58d2736374a": {
+      "event_id": "evt_74c58d2736374a",
+      "event_key": "verity movie review 2026",
+      "event_subject": "Verity",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "verity movie review 2026",
+        "subject": "Verity",
+        "event_type": "other",
+        "action": "review",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "audience",
+        "platforms": [],
+        "topic": "film review"
+      },
+      "modality": "unknown",
+      "topic": "film review",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Verity movie review notes strong performances but safe storytelling"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-09-30T19:23:56.762520+06:00"
+    },
+    "evt_91e567adb1afa8": {
+      "event_id": "evt_91e567adb1afa8",
+      "event_key": "avengers doomsday runtime 2026",
+      "event_subject": "Avengers: Doomsday",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "avengers doomsday runtime 2026",
+        "subject": "Avengers: Doomsday",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Avengers: Doomsday",
+        "franchise": "Avengers",
+        "institution": "",
+        "target": "audience",
+        "platforms": [],
+        "topic": "film info"
+      },
+      "modality": "unknown",
+      "topic": "film info",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Avengers: Doomsday runtime is two and a half hours with surprising ending"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-09-30T19:23:56.762527+06:00"
+    },
+    "evt_26081c3639a151": {
+      "event_id": "evt_26081c3639a151",
+      "event_key": "iron man casting audition 2026",
+      "event_subject": "Iron Man Casting",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "iron man casting audition 2026",
+        "subject": "Iron Man Casting",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Marvel",
+        "institution": "",
+        "target": "fans",
+        "platforms": [],
+        "topic": "casting history"
+      },
+      "modality": "unknown",
+      "topic": "casting history",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Robert Downey Jr.’s Iron Man audition discovered 20 years later"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-09-30T19:23:56.762534+06:00"
+    },
+    "evt_da46a678d1bcf0": {
+      "event_id": "evt_da46a678d1bcf0",
+      "event_key": "sean gunn man of tomorrow praise 2026",
+      "event_subject": "Man of Tomorrow",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sean gunn man of tomorrow praise 2026",
+        "subject": "Man of Tomorrow",
+        "event_type": "other",
+        "action": "praise",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "fans",
+        "platforms": [],
+        "topic": "actor interview"
+      },
+      "modality": "unknown",
+      "topic": "actor interview",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Sean Gunn calls Man of Tomorrow his favorite James Gunn movie"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-09-30T19:23:56.762541+06:00"
+    },
+    "evt_4e2f971868a4e5": {
+      "event_id": "evt_4e2f971868a4e5",
+      "event_key": "october 2026 top movies list 2026",
+      "event_subject": "Movies",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "october 2026 top movies list 2026",
+        "subject": "Movies",
+        "event_type": "other",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "GamesRadar+",
+        "target": "Top 5 movies for October 2026",
+        "platforms": [],
+        "topic": "entertainment"
+      },
+      "modality": "unknown",
+      "topic": "entertainment",
+      "institution": "GamesRadar+",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "list of recommended movies"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-09-30T19:23:56.762548+06:00"
     }
   },
   "posted_event_ids": [
@@ -54499,7 +57888,12 @@
     "evt_39c580bc098d30",
     "evt_4efc00044f0cd4",
     "evt_0f9e9454a148dc",
-    "evt_79bfd0a54239e6"
+    "evt_79bfd0a54239e6",
+    "evt_827e0d2dab55ff",
+    "evt_4b33f1add46bfd",
+    "evt_b834939af5d701",
+    "evt_d1e439d49562a6",
+    "evt_0f073a8ed02830"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -54639,11 +58033,16 @@
     "ubisoft names its genai initiative motherbrain after iconic metroid villain",
     "eternal palace sakura debuts on switch and pc this november 5",
     "isles of sea sky arrives on switch for 19 99 on october 8",
-    "pok mon home update adds firered and leafgreen compatibility on october 7"
+    "pok mon home update adds firered and leafgreen compatibility on october 7",
+    "crimson desert charting the unknown dlc delayed to october 29 2026",
+    "steam shifts to dynamic personalized discounts starting early 2027",
+    "grasshopper manufacture regains independence from netease after studio split",
+    "capcom achieves stable 30fps on switch 2 for monster hunter wilds",
+    "zelda 40th anniversary concert tickets go live across europe"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-30T12:34:35.181347+06:00",
-    "Major Releases": "2026-09-14T23:52:00.826628+06:00",
+    "Game Updates": "2026-09-30T19:49:10.731946+06:00",
+    "Major Releases": "2026-09-30T19:48:30.878905+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
     "Nintendo": "2026-09-09T21:29:41.864902+06:00",
