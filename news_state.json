@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1c007-GlqFNXL0nkb1eTJk9Kpq9g6ZX0g\"",
+      "etag": "W/\"2ae9e-D7qK6bvTwbe90udEi7pV+uIfgSc\"",
       "last_modified": null,
-      "last_checked": "2026-09-30T19:20:50.253712+06:00",
+      "last_checked": "2026-10-01T00:50:02.170867+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-30T19:20:50.423987+06:00",
+      "last_checked": "2026-10-01T00:50:02.412051+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6abd0c84-ae9\"",
-      "last_modified": "Wed, 30 Sep 2026 13:20:04 GMT",
-      "last_checked": "2026-09-30T19:20:50.719908+06:00",
+      "etag": "\"6abd59da-aa8\"",
+      "last_modified": "Wed, 30 Sep 2026 18:50:02 GMT",
+      "last_checked": "2026-10-01T00:50:02.719135+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Wed, 30 Sep 2026 12:54:26 GMT",
-      "last_checked": "2026-09-30T19:20:50.981716+06:00",
+      "last_modified": "Wed, 30 Sep 2026 18:35:09 GMT",
+      "last_checked": "2026-10-01T00:50:02.994366+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6abd0b3e-121d\"",
-      "last_modified": "Wed, 30 Sep 2026 13:14:38 GMT",
-      "last_checked": "2026-09-30T19:20:51.341793+06:00",
+      "etag": "\"6abd51d1-122f\"",
+      "last_modified": "Wed, 30 Sep 2026 18:15:45 GMT",
+      "last_checked": "2026-10-01T00:50:03.302179+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-30T19:20:51.491814+06:00",
+      "last_checked": "2026-10-01T00:50:03.402928+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-30T19:20:51.874394+06:00",
+      "last_checked": "2026-10-01T00:50:04.143522+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"ba9c0b2d5b0aeddfc6b171bac2d90b4f\"",
-      "last_modified": "Wed, 30 Sep 2026 13:16:05 GMT",
-      "last_checked": "2026-09-30T19:20:52.047360+06:00",
+      "etag": "W/\"c8de90bf31882834bd4d64e20d54f0da\"",
+      "last_modified": "Wed, 30 Sep 2026 18:41:38 GMT",
+      "last_checked": "2026-10-01T00:50:04.366216+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-30T19:20:52.211540+06:00",
+      "last_checked": "2026-10-01T00:50:04.517682+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Wed, 30 Sep 2026 11:53:06 GMT",
-      "last_checked": "2026-09-30T19:20:52.808248+06:00",
+      "last_modified": "Wed, 30 Sep 2026 18:24:23 GMT",
+      "last_checked": "2026-10-01T00:50:04.833839+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Tue, 15 Sep 2026 20:00:23 GMT",
-      "last_checked": "2026-09-30T19:20:53.205494+06:00",
+      "last_modified": "Wed, 30 Sep 2026 18:50:05 GMT",
+      "last_checked": "2026-10-01T00:50:05.359901+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"a37eee561bd7944d5ec053b5e62817a3\"",
-      "last_modified": "Wed, 30 Sep 2026 13:19:00 GMT",
-      "last_checked": "2026-09-30T19:20:53.375167+06:00",
+      "etag": "W/\"a0eb8ef2b5ab281d5f943a6d0bc576f1\"",
+      "last_modified": "Wed, 30 Sep 2026 18:24:25 GMT",
+      "last_checked": "2026-10-01T00:50:05.520576+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-30T19:20:53.668169+06:00",
+      "last_checked": "2026-10-01T00:50:05.756330+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-30T19:20:53.985581+06:00",
+      "last_checked": "2026-10-01T00:50:06.068072+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-09-30T19:20:54.487141+06:00",
+      "last_checked": "2026-10-01T00:50:06.462345+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-09-30T19:20:54.669700+06:00",
-      "fail_count": 37,
+      "last_checked": "2026-10-01T00:50:06.635735+06:00",
+      "fail_count": 38,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"6cbea714d08a07760932ef32c3b5b5e5\"",
-      "last_modified": "Mon, 28 Sep 2026 20:29:47 GMT",
-      "last_checked": "2026-09-30T19:20:54.745353+06:00",
+      "etag": "W/\"272785ca2e4151cc59b59203d7c9df70\"",
+      "last_modified": "Wed, 30 Sep 2026 14:38:15 GMT",
+      "last_checked": "2026-10-01T00:50:06.695726+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-09-30T19:20:55.009012+06:00",
+      "last_checked": "2026-10-01T00:50:06.915234+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-09-30T19:20:55.197930+06:00",
-      "fail_count": 37,
+      "last_checked": "2026-10-01T00:50:07.030068+06:00",
+      "fail_count": 38,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"35b1d3d0da4b85c1b9be5641141df2eb\"",
       "last_modified": "Wed, 30 Sep 2026 10:00:00 GMT",
-      "last_checked": "2026-09-30T19:20:55.359024+06:00",
+      "last_checked": "2026-10-01T00:50:07.200924+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -1600,7 +1600,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-09-28T20:57:49.509084+06:00",
-      "last_seen": "2026-09-28T20:57:49.509089+06:00"
+      "last_seen": "2026-10-01T00:50:05.528975+06:00"
     },
     "insider-gaming.com/nba-2k27-locker-codes-all-active-codes": {
       "title": "NBA 2K27 Locker Codes: All Active Codes For September 2026",
@@ -3931,6 +3931,1089 @@
       "status": "pending",
       "first_seen": "2026-09-30T19:20:54.847557+06:00",
       "last_seen": "2026-09-30T19:20:54.847564+06:00"
+    },
+    "ign.com/articles/vincent-donofrio-defends-laufey-star-deborah-ann-woll-from-gooners-upset-that-the-games-armor-sets-dont-show-more-skin": {
+      "title": "Vincent D’Onofrio Defends Laufey Star Deborah Ann Woll From Gooners Upset That the Game's Armor Sets Don't Show More Skin",
+      "url": "https://www.ign.com/articles/vincent-donofrio-defends-laufey-star-deborah-ann-woll-from-gooners-upset-that-the-games-armor-sets-dont-show-more-skin",
+      "canonical": "ign.com/articles/vincent-donofrio-defends-laufey-star-deborah-ann-woll-from-gooners-upset-that-the-games-armor-sets-dont-show-more-skin",
+      "published_dt": "2026-10-01T00:44:45+06:00",
+      "published_date": "2026-10-01T00:44:45+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Emmy-nominated actor Vincent D’Onofrio has somehow found himself at war with a self-proclaimed ‘gooner’ over Deborah Ann Woll’s appearance in God of War Laufey.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/30/vincent-donofrio-defends-deborah-ann-woll-from-gooners-1790793512989.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.253467+06:00",
+      "last_seen": "2026-10-01T00:50:02.253473+06:00"
+    },
+    "ign.com/articles/xbox-is-not-for-sale-asha-sharma-denies-reports-that-microsoft-is-considering-selling-its-gaming-business": {
+      "title": "'Xbox Is Not for Sale' — Asha Sharma Denies Reports That Microsoft Is Considering Selling Its Gaming Business",
+      "url": "https://www.ign.com/articles/xbox-is-not-for-sale-asha-sharma-denies-reports-that-microsoft-is-considering-selling-its-gaming-business",
+      "canonical": "ign.com/articles/xbox-is-not-for-sale-asha-sharma-denies-reports-that-microsoft-is-considering-selling-its-gaming-business",
+      "published_dt": "2026-10-01T00:10:58+06:00",
+      "published_date": "2026-10-01T00:10:58+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Xbox CEO Asha Sharma has denied reports suggesting Microsoft was considering selling its gaming business.",
+      "image": "https://assets-prd.ignimgs.com/2023/05/03/xbox-showcase-1683121552988.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.253600+06:00",
+      "last_seen": "2026-10-01T00:50:02.253603+06:00"
+    },
+    "ign.com/articles/cyberpowerpc-rtx-5070-gaming-pc-deal-september-2026": {
+      "title": "The CyberPowerPC RTX 5070 Gaming PC Drops to $1399, Includes a Free Copy of Control: Resonant",
+      "url": "https://www.ign.com/articles/cyberpowerpc-rtx-5070-gaming-pc-deal-september-2026",
+      "canonical": "ign.com/articles/cyberpowerpc-rtx-5070-gaming-pc-deal-september-2026",
+      "published_dt": "2026-10-01T00:05:00+06:00",
+      "published_date": "2026-10-01T00:05:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "A stellar 1080p, 1440p gaming rig that can also handle most games in 4K.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/30/cyberpowerpccontrolresonant-1790790763395.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.253697+06:00",
+      "last_seen": "2026-10-01T00:50:02.253699+06:00"
+    },
+    "ign.com/articles/paramount-plus-subscription-deal-october-2026": {
+      "title": "Get 2 Months of the Paramount+ Premium (Ad-Free) Subscription for Just $1 Per Month",
+      "url": "https://www.ign.com/articles/paramount-plus-subscription-deal-october-2026",
+      "canonical": "ign.com/articles/paramount-plus-subscription-deal-october-2026",
+      "published_dt": "2026-09-30T23:25:00+06:00",
+      "published_date": "2026-09-30T23:25:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Gain access to Paramount's new fall lineup including Avatar: Seven Havens, Dexter: Resurrection, and more.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/30/paramountfall-1790788072211.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.253799+06:00",
+      "last_seen": "2026-10-01T00:50:02.253802+06:00"
+    },
+    "ign.com/articles/we-have-been-gradually-preparing-capcom-already-has-a-plan-for-when-its-resident-evil-remakes-catch-up-with-newer-games": {
+      "title": "'We Have Been Gradually Preparing': Capcom Already Has a Plan for When Its Resident Evil Remakes Catch Up With Newer Games",
+      "url": "https://www.ign.com/articles/we-have-been-gradually-preparing-capcom-already-has-a-plan-for-when-its-resident-evil-remakes-catch-up-with-newer-games",
+      "canonical": "ign.com/articles/we-have-been-gradually-preparing-capcom-already-has-a-plan-for-when-its-resident-evil-remakes-catch-up-with-newer-games",
+      "published_dt": "2026-09-30T23:10:35+06:00",
+      "published_date": "2026-09-30T23:10:35+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Capcom has a plan for when its rollout of Resident Evil remakes eventually catches up with newer games in the series, and considers Resident Evil 7 as a \"turning point.\"",
+      "image": "https://assets-prd.ignimgs.com/2024/03/14/re5-blog-1710427916498.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-01T00:50:02.253889+06:00",
+      "last_seen": "2026-10-01T00:50:02.253891+06:00",
+      "posted_at": "2026-10-01T01:14:25.688406+06:00"
+    },
+    "ign.com/articles/best-deals-for-september-30-2026": {
+      "title": "Today’s Top Deals: Star Wars Galactic Racer, Gears of War LE Xbox Controller, and 300Hz Gaming Monitor",
+      "url": "https://www.ign.com/articles/best-deals-for-september-30-2026",
+      "canonical": "ign.com/articles/best-deals-for-september-30-2026",
+      "published_dt": "2026-09-30T22:55:00+06:00",
+      "published_date": "2026-09-30T22:55:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Save on a gaming keyboard, a Joy-Con 2 charging station, and more.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/30/untitled-design-21-1790781142148.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.253968+06:00",
+      "last_seen": "2026-10-01T00:50:02.253970+06:00"
+    },
+    "ign.com/articles/microsofts-deal-for-hideo-kojimas-physint-substantially-below-what-xbox-would-typically-spend-to-develop-a-premium-game": {
+      "title": "Microsoft's Deal for Hideo Kojima's Physint 'Substantially Below What Xbox Would Typically Spend to Develop a Premium Game'",
+      "url": "https://www.ign.com/articles/microsofts-deal-for-hideo-kojimas-physint-substantially-below-what-xbox-would-typically-spend-to-develop-a-premium-game",
+      "canonical": "ign.com/articles/microsofts-deal-for-hideo-kojimas-physint-substantially-below-what-xbox-would-typically-spend-to-develop-a-premium-game",
+      "published_dt": "2026-09-30T22:53:11+06:00",
+      "published_date": "2026-09-30T22:53:11+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Microsoft’s high-profile deal for Hideo Kojima’s Physint is reportedly “substantially below what Xbox would typically spend to develop a premium game.”",
+      "image": "https://assets-prd.ignimgs.com/2025/09/23/hideo-kojima-thumbnail-studio-tour-2022-1671650751472-1757434003477-1758599923814.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-01T00:50:02.254052+06:00",
+      "last_seen": "2026-10-01T00:50:02.254053+06:00",
+      "posted_at": "2026-10-01T01:14:44.190400+06:00"
+    },
+    "ign.com/articles/playstation-plus-monthly-games-for-october-2026-announced": {
+      "title": "PlayStation Plus Monthly Games for October 2026 Announced",
+      "url": "https://www.ign.com/articles/playstation-plus-monthly-games-for-october-2026-announced",
+      "canonical": "ign.com/articles/playstation-plus-monthly-games-for-october-2026-announced",
+      "published_dt": "2026-09-30T22:20:32+06:00",
+      "published_date": "2026-09-30T22:20:32+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "October's PlayStation Plus monthly games lineup has been officially revealed by Sony.",
+      "image": "https://assets-prd.ignimgs.com/2026/05/19/f1-25-2026-dlc-1280-1779158080256.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.254123+06:00",
+      "last_seen": "2026-10-01T00:50:02.254125+06:00"
+    },
+    "ign.com/articles/scrubs-revival-season-11-episodes-1-2-review": {
+      "title": "Scrubs Season 11: Episodes 1 & 2 Review",
+      "url": "https://www.ign.com/articles/scrubs-revival-season-11-episodes-1-2-review",
+      "canonical": "ign.com/articles/scrubs-revival-season-11-episodes-1-2-review",
+      "published_dt": "2026-09-30T22:18:13+06:00",
+      "published_date": "2026-09-30T22:18:13+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Scrubs Season 11 is off to a strong start, as this charming sitcom looks to improve on some of the flaws of Season 10. Read our review of the first two episodes.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/29/scrubs-s11e01-review-blogroll-1790702569361.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.254195+06:00",
+      "last_seen": "2026-10-01T00:50:02.254196+06:00"
+    },
+    "ign.com/articles/gta-6-everything-the-new-screenshots-tell-us": {
+      "title": "GTA 6: Everything the New Screenshots Tell Us",
+      "url": "https://www.ign.com/articles/gta-6-everything-the-new-screenshots-tell-us",
+      "canonical": "ign.com/articles/gta-6-everything-the-new-screenshots-tell-us",
+      "published_dt": "2026-09-30T22:15:00+06:00",
+      "published_date": "2026-09-30T22:15:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "The latest GTA 6 screenshots showcase a bunch of great new features, from tropical storms and hunting, to simulated citrus farms and beach-ready butts.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/30/jason-lucia-1790783485719.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.254265+06:00",
+      "last_seen": "2026-10-01T00:50:02.254267+06:00"
+    },
+    "ign.com/articles/amazon-october-prime-day-sale-2026-audible-deal": {
+      "title": "The Amazon October Prime Day Audible Deal Is Now Live: Pay $0.99 Per Month and Get $20 in Audible Credit",
+      "url": "https://www.ign.com/articles/amazon-october-prime-day-sale-2026-audible-deal",
+      "canonical": "ign.com/articles/amazon-october-prime-day-sale-2026-audible-deal",
+      "published_dt": "2026-09-30T22:15:00+06:00",
+      "published_date": "2026-09-30T22:15:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "This time it appears to be for both Amazon Prime and non-Prime members.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/28/amazonaudible-1790612935905.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.254336+06:00",
+      "last_seen": "2026-10-01T00:50:02.254338+06:00"
+    },
+    "ign.com/articles/geoffrey-rush-has-an-idea-for-how-barbossa-can-return-in-pirates-of-the-caribbean-6": {
+      "title": "Geoffrey Rush Has an Idea for How Barbossa Can Return in Pirates of the Caribbean 6",
+      "url": "https://www.ign.com/articles/geoffrey-rush-has-an-idea-for-how-barbossa-can-return-in-pirates-of-the-caribbean-6",
+      "canonical": "ign.com/articles/geoffrey-rush-has-an-idea-for-how-barbossa-can-return-in-pirates-of-the-caribbean-6",
+      "published_dt": "2026-09-30T22:11:05+06:00",
+      "published_date": "2026-09-30T22:11:05+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Pirates of the Caribbean actor Geoffrey Rush has said he's keen to make a return to Disney's swashbuckling franchise, if only to \"annoy Jack Sparrow\" one last time.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/30/hectorbarbossapotc-1790783424774.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.254413+06:00",
+      "last_seen": "2026-10-01T00:50:02.254414+06:00"
+    },
+    "ign.com/articles/whats-new-on-netflix-in-october-2026": {
+      "title": "Everything Coming to Netflix in October",
+      "url": "https://www.ign.com/articles/whats-new-on-netflix-in-october-2026",
+      "canonical": "ign.com/articles/whats-new-on-netflix-in-october-2026",
+      "published_dt": "2026-09-30T22:10:51+06:00",
+      "published_date": "2026-09-30T22:10:51+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Florence Pugh in East of Eden, Ben Affleck's Animals, and a hefty dose of comedy docs... all on Netflix.",
+      "image": "https://assets-prd.ignimgs.com/2023/02/01/netflix-password-sharing-1675259762484.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.254481+06:00",
+      "last_seen": "2026-10-01T00:50:02.254483+06:00"
+    },
+    "ign.com/articles/pokemon-pokopia-pumpkaboos-sweet-surprises-halloween-event-date-how-it-works": {
+      "title": "Pokémon Pokopia Announces Halloween Event With Spooky New Items and Habitats",
+      "url": "https://www.ign.com/articles/pokemon-pokopia-pumpkaboos-sweet-surprises-halloween-event-date-how-it-works",
+      "canonical": "ign.com/articles/pokemon-pokopia-pumpkaboos-sweet-surprises-halloween-event-date-how-it-works",
+      "published_dt": "2026-09-30T21:58:08+06:00",
+      "published_date": "2026-09-30T21:58:08+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Pokémon Pokopia has revealed what players can expect from its first Halloween-themed event, “Pumpkaboo’s Sweet Surprises.”",
+      "image": "https://assets-prd.ignimgs.com/2026/09/30/hallopokopia-1790782267962.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.254554+06:00",
+      "last_seen": "2026-10-01T00:50:02.254555+06:00"
+    },
+    "ign.com/articles/amazon-echo-devices-are-deeply-discounted-for-prime-members-right-now": {
+      "title": "Amazon Echo Devices Are Deeply Discounted for Prime Members Right Now",
+      "url": "https://www.ign.com/articles/amazon-echo-devices-are-deeply-discounted-for-prime-members-right-now",
+      "canonical": "ign.com/articles/amazon-echo-devices-are-deeply-discounted-for-prime-members-right-now",
+      "published_dt": "2026-09-30T21:58:05+06:00",
+      "published_date": "2026-09-30T21:58:05+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Amazon's Echo devices are already deeply discounted for Prime members ahead of the retailer's Prime Big Deal Days sale next week, with some up to 50% off.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/30/amazon-echo-deals-1790775519388.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.254623+06:00",
+      "last_seen": "2026-10-01T00:50:02.254625+06:00"
+    },
+    "ign.com/articles/diablo-5-game-director-promises-a-return-to-methodical-character-builds-but-players-dont-believe-him": {
+      "title": "Diablo 5 Game Director Promises a Return to Methodical Character Builds, but Players Don't Believe Him",
+      "url": "https://www.ign.com/articles/diablo-5-game-director-promises-a-return-to-methodical-character-builds-but-players-dont-believe-him",
+      "canonical": "ign.com/articles/diablo-5-game-director-promises-a-return-to-methodical-character-builds-but-players-dont-believe-him",
+      "published_dt": "2026-09-30T21:56:37+06:00",
+      "published_date": "2026-09-30T21:56:37+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Diablo 5 game director Joe Shely has suggested a return to more methodical gameplay.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/12/diablo-v-1789237822781.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.254692+06:00",
+      "last_seen": "2026-10-01T00:50:02.254693+06:00"
+    },
+    "gamespot.com/articles/xbox-ceo-insists-its-not-for-sale-amid-studio-closures-layoffs": {
+      "title": "Xbox CEO Insists It’s Not For Sale Amid Studio Closures, Layoffs",
+      "url": "https://www.gamespot.com/articles/xbox-ceo-insists-its-not-for-sale-amid-studio-closures-layoffs/",
+      "canonical": "gamespot.com/articles/xbox-ceo-insists-its-not-for-sale-amid-studio-closures-layoffs",
+      "published_dt": "2026-10-01T00:11:12+06:00",
+      "published_date": "2026-10-01T00:11:12+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "The \" Xbox reset \" has people wondering whether Microsoft is preparing to exit the video game business, but Xbox CEO Asha Sharma has flatly denied that the gaming division will be put up for sale. \"Xbox is not for sale,\" Sharma said to The New York Times . \"We will do whatever it takes to set the company up for success, and we will look at the right partnerships, the right operating model, and everything needed to achieve that.\" Sharma's comments come in the wake of analysts predicting that Microsoft could sell Xbox off entirely . Compared with Microsoft's profitable cloud computing and artificial intelligence businesses, Xbox has paled in comparison, and the gamble on Xbox Game Pass hasn't paid off, despite Microsoft investing tens of billions in acquiring several video game publishers and studios over the years. Xbox’s accountability margins amount to only a 3% profit , a small return on investment for its parent company. https://www.youtube.com/watch?v=XiYNNGR4uLo Microsoft CEO Satya Nadella has said that Xbox will have to start pulling its weight under Sharma's leadership, and the Xbox CEO previously told employees that the Xbox business was not in a healthy state. Nadella has also praised Sharma's cuts at Xbox, saying they have led to a \"streamlining\" of the division . If Sharma is setting Xbox up to generate more profit for Microsoft, then it's all part of a years-long strategy in the making. Halo is now an Activision project, and is likely several years away as the publisher is currently building a new team to develop the next Master Chief adventure. Meanwhile, two of Blizzard's biggest upcoming games will arrive at the end of this decade: Diablo 5 is aiming for a 2029 launch , while StarCraft is set for 2030 . At the same time, Xbox has also tasked several of its studios with working on its Fallout franchise, with multiple new games in the series in various stages of development. \"We've got a long way to go with Microsoft,\" Sharma said to the NYT. \"And we’re",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-not-for-sale.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.441503+06:00",
+      "last_seen": "2026-10-01T00:50:02.441510+06:00"
+    },
+    "gamespot.com/articles/you-can-hate-the-sonic-movies-but-they-help-the-games-get-made-sega-says": {
+      "title": "You Can Hate The Sonic Movies, But They Help The Games Get Made, Sega Says",
+      "url": "https://www.gamespot.com/articles/you-can-hate-the-sonic-movies-but-they-help-the-games-get-made-sega-says/",
+      "canonical": "gamespot.com/articles/you-can-hate-the-sonic-movies-but-they-help-the-games-get-made-sega-says",
+      "published_dt": "2026-09-30T23:43:36+06:00",
+      "published_date": "2026-09-30T23:43:36+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Sonic has had a rough go at things lately, what with the myriad games that haven't been hitting like they used to. Sega appears to be aware of that and has acknowledged that, although the games have struggled recently, the franchise as a whole is back in the zeitgeist again--and it's all thanks to the live-action movies. In an interview with Automaton at the Tokyo Game Show , series producer Takashi Iizuka spoke about the impact that director  Jeff Fowler's three live-action movies have had on repopularizing Sonic again. \"Thanks to the movies, awareness of the Sonic series has grown, and more people around the world have become interested in Sonic as a character and in the games,\" Iizuka said when asked about the positive effect other media has had on the franchise. \"That has contributed to game sales as well. Strong game sales mean we have more resources available when making the next title, which allows us to deliver something of even higher quality. That creates a positive cycle. In that sense, multimedia and transmedia expansion are majorly beneficial for the games.\" Iizuka went on to say that movies weren't the only medium that has improved Sonic the Hedgehog's cachet in recent times. Anime has contributed as well, and so has Netflix, which has made film and television production more ubiquitous for Sega. \"In the past, even if we decided to make an anime as part of our transmedia strategy, we had to approach television broadcasters and other outlets that would air it, and we couldn't move forward without their approval,\" Iizuka continued. \"With Netflix, on the other hand, once we decide to work together on something, we can distribute it worldwide. That's has [sic] been a major advantage when it comes to expanding the brand.\" Iizuka's comments echoed similar sentiments from earlier this month. In an interview with One More Game on September 21 , Iizuka said the live-action movies essentially saved the franchise. \"The biggest milestone for me was the first movie",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/sonic-image.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.441904+06:00",
+      "last_seen": "2026-10-01T00:50:02.441907+06:00"
+    },
+    "gamespot.com/articles/wow-forever-is-keeping-more-than-12500-items-secret": {
+      "title": "WoW: Forever Is Keeping More Than 12,500 Items Secret",
+      "url": "https://www.gamespot.com/articles/wow-forever-is-keeping-more-than-12500-items-secret/",
+      "canonical": "gamespot.com/articles/wow-forever-is-keeping-more-than-12500-items-secret",
+      "published_dt": "2026-09-30T23:24:45+06:00",
+      "published_date": "2026-09-30T23:24:45+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "World of Warcraft: Forever is looking to keep its secrets, as over 12,500 items in the game's files have been kept hidden from dataminers. The WoW: Forever beta is currently in full swing, and in addition to new dungeons, abilities, and even a whole new playable race, players are quickly discovering there are tons of new items that will completely change how this old-school version of WoW is played. Whether it's items with far more spellpower at early levels or gear tailored towards professions, Blizzard is definitely mixing things up so that the game's leveling journey, and its endgame, are going to feel all new. As broken down in detail by Icy Veins , part of how Blizzard looks to be accomplishing this is by keeping almost 40% of the game's nearly 32,000 items a secret. Dataminers can technically see that these 12,000 plus items exist and even where many of them potentially come from, but can't see what their stats are. Many of these items are assumed to be all-new, though some are likely variants or modified version of items from WoW Classic. https://www.youtube.com/watch?v=dvueCoFTkCk&t Players have already taken a bite out of that 12,500 item total, having discovered over 4,400 \"hidden\" items in the Forever beta. Once an item has been discovered, it's then revealed in the game's backend. Icy Veins notes that not all the items datamined might actually exist in Forever, as it lists a number of items that were part of WoW Classic's Season of Discovery and might not make it into Blizzard's new version of the MMO. Many of the hidden items come from raids and dungeons, including tier sets. So far, players have uncovered a few different sets, such as some low-level dungeon item sets, as well as full loot tables for early-game dungeons like Wailing Caverns, Ragefire Chasm, Shadowfang Keep, and the Deadmines. The beta's level cap is currently 20 (but will be raised to 30 before the beta's end), meaning players will likely uncover even more dungeon loot ahead of launch. ",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-Secret-Items.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.456950+06:00",
+      "last_seen": "2026-10-01T00:50:02.456957+06:00"
+    },
+    "gamespot.com/articles/yes-guile-street-fighter-movie-theme-goes-with-everything": {
+      "title": "Yes, Guile’s Street Fighter Movie Theme Goes With Everything",
+      "url": "https://www.gamespot.com/articles/yes-guile-street-fighter-movie-theme-goes-with-everything/",
+      "canonical": "gamespot.com/articles/yes-guile-street-fighter-movie-theme-goes-with-everything",
+      "published_dt": "2026-09-30T22:47:31+06:00",
+      "published_date": "2026-09-30T22:47:31+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "The Street Fighter movie is shaping up to be a love letter to Capcom's classic fighting game series, with its goofy action and costumes, but if there's one crucial element it's nailing, it's the franchise's sound. Specifically, Guile's iconic theme, which is legendary for its ability to complement anything in life. How does the movie version match up? It's not straying from what is considered fighting game soundtrack perfection, but it is adding to it with a kickass guitar solo and a few more cinematic tweaks, allowing the main theme to do all the heavy lifting. Listen to it yourself, from one of the streaming links below: Apple Music Spotify Amazon Music YouTube Music Deezer Tidal Guile's Theme is one of those evergreen memes of the late 2000s and early 2010s, and while it's nowhere near as popular as it once was--YouTube probably got sick of all those 10-hour uploads--it's still instantly recognizable. The original theme debuted in the 1991 arcade release of Street Fighter II and was composed by Yoko Shimomura. For the upcoming Street Fighter movie, the score was produced by Leo Birenberg and Zach Robinson (Cobra Kai), who say that the original game soundtracks were instrumental in shaping their musical identities. \"As young and budding composers, we listened to Yoko Shimomura's iconic Guile’s Theme probably more than Raiders of the Lost Ark,\" the duo said in a press statement. \"We hope fans will hear the love and reverence we hold for this music within our version of Guile’s Theme. https://youtu.be/U6sbm1OaJb8 The full Street Fighter soundtrack will feature 39 tracks in total, and it'll be available starting October 16. The movie releases on the same day, and so far it looks like it's leaning fully into the absurdity of its source material. WWE performer Cody Rhodes plays Guile , and if you feel like cosplaying as him, you can grab an official Street Fighter popcorn bucket shaped like his iconic hair. Absolutely perfect, no notes. Street Fighter will be landing a",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Guile-SFM.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.458220+06:00",
+      "last_seen": "2026-10-01T00:50:02.458225+06:00"
+    },
+    "videogameschronicle.com/news/xbox-ceo-asha-sharma-insists-microsofts-gaming-business-is-not-for-sale": {
+      "title": "Xbox CEO Asha Sharma insists Microsoft’s gaming business is ‘not for sale’",
+      "url": "https://www.videogameschronicle.com/news/xbox-ceo-asha-sharma-insists-microsofts-gaming-business-is-not-for-sale/",
+      "canonical": "videogameschronicle.com/news/xbox-ceo-asha-sharma-insists-microsofts-gaming-business-is-not-for-sale",
+      "published_dt": "2026-09-30T22:44:37+06:00",
+      "published_date": "2026-09-30T22:44:37+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Asha Sharma denies reports Xbox could be sold",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.725962+06:00",
+      "last_seen": "2026-10-01T00:50:02.725967+06:00"
+    },
+    "videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25": {
+      "title": "October’s ‘free’ PlayStation Plus games include F1 25",
+      "url": "https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/",
+      "canonical": "videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25",
+      "published_dt": "2026-09-30T21:53:39+06:00",
+      "published_date": "2026-09-30T21:53:39+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Sony has revealed the next three games coming to PS Plus",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:02.726073+06:00",
+      "last_seen": "2026-10-01T00:50:02.726076+06:00"
+    },
+    "eurogamer.net/xbox-not-for-sale-ceo-asha-sharma-console": {
+      "title": "\"Xbox is not for sale\": CEO Asha Sharma says \"we will do whatever it takes\" to turn the console maker's fortunes around",
+      "url": "https://www.eurogamer.net/xbox-not-for-sale-ceo-asha-sharma-console",
+      "canonical": "eurogamer.net/xbox-not-for-sale-ceo-asha-sharma-console",
+      "published_dt": "2026-10-01T00:35:09+06:00",
+      "published_date": "2026-10-01T00:35:09+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Despite mass layoffs at multiple first-party studios and major internal shakeups, CEO Asha Sharma has shot down speculation about a potential Xbox buyout. Read more",
+      "image": "https://assetsio.gnwcdn.com/asha-sharma-xbox_ETUJlFF.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-01T00:50:03.060793+06:00",
+      "last_seen": "2026-10-01T00:50:03.060799+06:00",
+      "posted_at": "2026-10-01T01:14:10.303981+06:00"
+    },
+    "eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain": {
+      "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
+      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
+      "canonical": "eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
+      "published_dt": "2026-09-30T23:04:55+06:00",
+      "published_date": "2026-09-30T23:04:55+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "If you thought Red Dead Redemption 2 's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6 . Hurricanes, rainbows and \"vertiginous cumulonimbus clouds\" are all part of the upcoming open worlder. Read more",
+      "image": "https://assetsio.gnwcdn.com/gta-6_XFAse3R.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:03.061070+06:00",
+      "last_seen": "2026-10-01T00:50:03.061072+06:00"
+    },
+    "pcgamer.com/games/horror/peaches-revives-her-breakthrough-hit-song-for-hellraiser-revival": {
+      "title": "Peaches revives her breakthrough hit song for Hellraiser: Revival",
+      "url": "https://www.pcgamer.com/games/horror/peaches-revives-her-breakthrough-hit-song-for-hellraiser-revival/",
+      "canonical": "pcgamer.com/games/horror/peaches-revives-her-breakthrough-hit-song-for-hellraiser-revival",
+      "published_dt": "2026-09-30T23:55:05+06:00",
+      "published_date": "2026-09-30T23:55:05+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Peaches revives her breakthrough hit song for Hellraiser: Revival",
+      "image": "https://cdn.mos.cms.futurecdn.net/cmt8mZV9ra5vwH45GQp8rR-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:03.964366+06:00",
+      "last_seen": "2026-10-01T00:50:03.964372+06:00"
+    },
+    "pcgamer.com/games/resident-evil/to-celebrate-september-30-the-day-the-cop-inside-of-leon-kennedy-died-heres-my-most-traumatic-encounters-in-resident-evil": {
+      "title": "To celebrate September 30, the day the cop inside of Leon Kennedy died, here's my most traumatic encounters in Resident Evil",
+      "url": "https://www.pcgamer.com/games/resident-evil/to-celebrate-september-30-the-day-the-cop-inside-of-leon-kennedy-died-heres-my-most-traumatic-encounters-in-resident-evil/",
+      "canonical": "pcgamer.com/games/resident-evil/to-celebrate-september-30-the-day-the-cop-inside-of-leon-kennedy-died-heres-my-most-traumatic-encounters-in-resident-evil",
+      "published_dt": "2026-09-30T23:02:57+06:00",
+      "published_date": "2026-09-30T23:02:57+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "This is in honour of the day Leon legally became a sad boy.",
+      "image": "https://cdn.mos.cms.futurecdn.net/KcQG5vm9h2uBkn78Xrn7nd-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:03.964471+06:00",
+      "last_seen": "2026-10-01T00:50:03.964473+06:00"
+    },
+    "pcgamer.com/games/grand-theft-auto/i-have-saved-gta-5-from-death-and-also-added-tornadoes": {
+      "title": "I have saved GTA 5 from death and also added tornadoes",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-saved-gta-5-from-death-and-also-added-tornadoes/",
+      "canonical": "pcgamer.com/games/grand-theft-auto/i-have-saved-gta-5-from-death-and-also-added-tornadoes",
+      "published_dt": "2026-09-30T23:00:00+06:00",
+      "published_date": "2026-09-30T23:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "These were two separate tasks.",
+      "image": "https://cdn.mos.cms.futurecdn.net/avFgWyfVYNmWUvzeN5JS9j-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:03.964556+06:00",
+      "last_seen": "2026-10-01T00:50:03.964558+06:00"
+    },
+    "pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed": {
+      "title": "Thanks Logitech, your new AI-fueled game clipping software makes me look trash at Counter-Strike, but I'mma keep it installed",
+      "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
+      "canonical": "pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed",
+      "published_dt": "2026-09-30T21:58:32+06:00",
+      "published_date": "2026-09-30T21:58:32+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "It works pretty well as a little manual recorder and editor.",
+      "image": "https://cdn.mos.cms.futurecdn.net/upL4hKeyXzbpXXZJTed3SX-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:03.964638+06:00",
+      "last_seen": "2026-10-01T00:50:03.964640+06:00"
+    },
+    "polygon.com/modern-warfare-4-collateral-mode-counter-strike": {
+      "title": "Modern Warfare 4's New 'Counter-Strike' Mode Officially Announced",
+      "url": "https://www.polygon.com/modern-warfare-4-collateral-mode-counter-strike/",
+      "canonical": "polygon.com/modern-warfare-4-collateral-mode-counter-strike",
+      "published_dt": "2026-10-01T00:46:56+06:00",
+      "published_date": "2026-10-01T00:46:56+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Modern Warfare 4's new Collateral mode borrows Counter-Strike's cash economy, letting players earn and spend money between rounds.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/screenshot-2026-06-07-at-2-17-53-pm.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-01T00:50:04.150595+06:00",
+      "last_seen": "2026-10-01T00:50:04.150599+06:00",
+      "posted_at": "2026-10-01T01:14:58.460238+06:00"
+    },
+    "polygon.com/dressmaker-sabotage-revenge-customers": {
+      "title": "Dressmaker Players Are Having a Blast Secretly Ruining Dresses",
+      "url": "https://www.polygon.com/dressmaker-sabotage-revenge-customers/",
+      "canonical": "polygon.com/dressmaker-sabotage-revenge-customers",
+      "published_dt": "2026-10-01T00:27:33+06:00",
+      "published_date": "2026-10-01T00:27:33+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Dressmaker's sabotage system lets you ruin customers' dresses on purpose, and players are having a blast with it.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/dressmaker-cozy-dress-up-game-wholesome-direct.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.150698+06:00",
+      "last_seen": "2026-10-01T00:50:04.150701+06:00"
+    },
+    "polygon.com/polygon-secretlab-atlas-giveaway-point-it-out": {
+      "title": "Enter Polygon's Secretlab ATLAS Giveaway",
+      "url": "https://www.polygon.com/polygon-secretlab-atlas-giveaway-point-it-out/",
+      "canonical": "polygon.com/polygon-secretlab-atlas-giveaway-point-it-out",
+      "published_dt": "2026-10-01T00:08:18+06:00",
+      "published_date": "2026-10-01T00:08:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Our friends at Secretlab are partnering with Polygon's new podcast Point It Out!, and you could get a new chair out of it!",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/point-it-out-x-secretlab-atlas-giveaway1.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.150817+06:00",
+      "last_seen": "2026-10-01T00:50:04.150820+06:00"
+    },
+    "polygon.com/disclosure-day-streaming-release-date-peacock-netflix": {
+      "title": "Disclosure Day streaming release date: When will it come to digital, Peacock, Blu-ray, and DVD?",
+      "url": "https://www.polygon.com/disclosure-day-streaming-release-date-peacock-netflix/",
+      "canonical": "polygon.com/disclosure-day-streaming-release-date-peacock-netflix",
+      "published_dt": "2026-09-30T23:51:18+06:00",
+      "published_date": "2026-09-30T23:51:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "When will the new Steven Spielberg film come to streaming (Peacock), Blu-ray, and DVD? Here's what we know about Disclosure Day's release dates.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/2593_d039_00110.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.150907+06:00",
+      "last_seen": "2026-10-01T00:50:04.150909+06:00"
+    },
+    "polygon.com/gta-6-wildlife-hunting-animals": {
+      "title": "GTA 6’s Wildlife Gameplay Might Do Something Red Dead 2 Never Could",
+      "url": "https://www.polygon.com/gta-6-wildlife-hunting-animals/",
+      "canonical": "polygon.com/gta-6-wildlife-hunting-animals",
+      "published_dt": "2026-09-30T23:48:41+06:00",
+      "published_date": "2026-09-30T23:48:41+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Grand Theft Auto 6 will feature more than 170 unique animals. Here’s hoping there are some friendly, gun-free ways to enjoy them all",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/polygon-stock-art-gta-6-jason-duval-4.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.150996+06:00",
+      "last_seen": "2026-10-01T00:50:04.150998+06:00"
+    },
+    "polygon.com/wow-world-of-warcraft-forever-beta-skyborne": {
+      "title": "WoW: Forever’s New Race Doesn't Fit into World of Warcraft At All",
+      "url": "https://www.polygon.com/wow-world-of-warcraft-forever-beta-skyborne/",
+      "canonical": "polygon.com/wow-world-of-warcraft-forever-beta-skyborne",
+      "published_dt": "2026-09-30T23:30:17+06:00",
+      "published_date": "2026-09-30T23:30:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "World of Warcraft: Forever's Skyborne elves are a forced invention that show the difficulty Blizzard will have adding to the classic game.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/wow_forever_cinematic_still_9-1.jpeg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-01T00:50:04.151082+06:00",
+      "last_seen": "2026-10-01T00:50:04.151084+06:00",
+      "posted_at": "2026-10-01T01:14:15.262405+06:00"
+    },
+    "polygon.com/final-fantasy-11-free-trial-time-limit-removed": {
+      "title": "The Best Final Fantasy Mmo Is Now Easier to Play Than Ever",
+      "url": "https://www.polygon.com/final-fantasy-11-free-trial-time-limit-removed/",
+      "canonical": "polygon.com/final-fantasy-11-free-trial-time-limit-removed",
+      "published_dt": "2026-09-30T23:23:58+06:00",
+      "published_date": "2026-09-30T23:23:58+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Square Enix has announced that Final Fantasy 11's free trial will no longer have a time limit",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/final-fantasy-11-key-art.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.151165+06:00",
+      "last_seen": "2026-10-01T00:50:04.151167+06:00"
+    },
+    "polygon.com/astarion-novel-t-kingfisher-review": {
+      "title": "Astarion's New 'Baldur's Gate 3' Prequel Story Was Doomed From the Start",
+      "url": "https://www.polygon.com/astarion-novel-t-kingfisher-review/",
+      "canonical": "polygon.com/astarion-novel-t-kingfisher-review",
+      "published_dt": "2026-09-30T23:00:17+06:00",
+      "published_date": "2026-09-30T23:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "T.Kingfisher horrifies and delights in equal measure in 'Baldur's Gate 3's first tie-in novel, despite Wizards of the Coast's troubling interference.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/screenshot-2026-04-23-at-11-47-49-am.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.151245+06:00",
+      "last_seen": "2026-10-01T00:50:04.151247+06:00"
+    },
+    "polygon.com/silent-hill-townfall-the-weight-boss-balance-patch-announced": {
+      "title": "Silent Hill: Townfall’s Hardest Boss Is Getting Nerfed",
+      "url": "https://www.polygon.com/silent-hill-townfall-the-weight-boss-balance-patch-announced/",
+      "canonical": "polygon.com/silent-hill-townfall-the-weight-boss-balance-patch-announced",
+      "published_dt": "2026-09-30T22:49:46+06:00",
+      "published_date": "2026-09-30T22:49:46+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Silent Hill: Townfall's challenging The Weight boss encounter will be balanced in a future update",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/screenshot-2026-06-08-at-11-05-02-am.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.151321+06:00",
+      "last_seen": "2026-10-01T00:50:04.151323+06:00"
+    },
+    "polygon.com/playstation-plus-october-2026-games-announced-ps4-ps5-free-essential": {
+      "title": "PlayStation Plus October 2026 Free Games Lineup Officially Revealed",
+      "url": "https://www.polygon.com/playstation-plus-october-2026-games-announced-ps4-ps5-free-essential/",
+      "canonical": "polygon.com/playstation-plus-october-2026-games-announced-ps4-ps5-free-essential",
+      "published_dt": "2026-09-30T22:03:57+06:00",
+      "published_date": "2026-09-30T22:03:57+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Sony's free PlayStation Plus Essential games for October 2026 have been announced, and include three wildly different games.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/hunt-showdown-1896-screenshot.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.151397+06:00",
+      "last_seen": "2026-10-01T00:50:04.151399+06:00"
+    },
+    "kotaku.com/witcher-3-fans-are-divided-over-whether-the-remaster-graphics-are-peak-or-lifeless-2000738696": {
+      "title": "Witcher 3 Fans Are Divided Over Whether The Remaster Graphics Are Peak Or Lifeless",
+      "url": "https://kotaku.com/witcher-3-fans-are-divided-over-whether-the-remaster-graphics-are-peak-or-lifeless-2000738696",
+      "canonical": "kotaku.com/witcher-3-fans-are-divided-over-whether-the-remaster-graphics-are-peak-or-lifeless-2000738696",
+      "published_dt": "2026-10-01T00:41:38+06:00",
+      "published_date": "2026-10-01T00:41:38+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Some players are so turned off they want to go back to the 'pre-master' version",
+      "image": "https://kotaku.com/app/uploads/2026/09/1a0f39bfcb71-screenshotUrl-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.377053+06:00",
+      "last_seen": "2026-10-01T00:50:04.377056+06:00"
+    },
+    "kotaku.com/blizzard-survey-players-demon-hunter-wow-forever-2000738699": {
+      "title": "Blizzard Seems To Be Surveying Players About Adding Demon Hunter, Witch, Tinker, Bard, And More Classes To WoW: Forever",
+      "url": "https://kotaku.com/blizzard-survey-players-demon-hunter-wow-forever-2000738699",
+      "canonical": "kotaku.com/blizzard-survey-players-demon-hunter-wow-forever-2000738699",
+      "published_dt": "2026-10-01T00:02:47+06:00",
+      "published_date": "2026-10-01T00:02:47+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Warden, Necromancer, and what sounds a lot like a vampire are also on the list",
+      "image": "https://kotaku.com/app/uploads/2026/09/wow-forever-road-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.377150+06:00",
+      "last_seen": "2026-10-01T00:50:04.377152+06:00"
+    },
+    "kotaku.com/xbox-cloud-gaming-controller-microsoft-asha-sharma-interview-samsung-2000738661": {
+      "title": "Xbox’s Experiments With Cloud Gaming Seem To Be Collapsing",
+      "url": "https://kotaku.com/xbox-cloud-gaming-controller-microsoft-asha-sharma-interview-samsung-2000738661",
+      "canonical": "kotaku.com/xbox-cloud-gaming-controller-microsoft-asha-sharma-interview-samsung-2000738661",
+      "published_dt": "2026-09-30T23:16:27+06:00",
+      "published_date": "2026-09-30T23:16:27+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "An awful lot of things no longer appear to be an Xbox",
+      "image": "https://kotaku.com/app/uploads/2026/09/xbox-cloud-1280x721.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-01T00:50:04.377235+06:00",
+      "last_seen": "2026-10-01T00:50:04.377237+06:00",
+      "posted_at": "2026-10-01T01:14:48.884508+06:00"
+    },
+    "kotaku.com/playstations-free-ps-plus-games-for-october-arent-really-scary-at-all-2000738654": {
+      "title": "PlayStation’s Free PS Plus Games For October Aren’t Really Scary At All",
+      "url": "https://kotaku.com/playstations-free-ps-plus-games-for-october-arent-really-scary-at-all-2000738654",
+      "canonical": "kotaku.com/playstations-free-ps-plus-games-for-october-arent-really-scary-at-all-2000738654",
+      "published_dt": "2026-09-30T22:16:10+06:00",
+      "published_date": "2026-09-30T22:16:10+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Sony's selection of freebies for next month include a racing game, an EDF spin-off and one game with some creepy vibes",
+      "image": "https://kotaku.com/app/uploads/2026/09/PS-PLusss-octgames-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.377368+06:00",
+      "last_seen": "2026-10-01T00:50:04.377371+06:00"
+    },
+    "kotaku.com/directive-8020-will-finally-add-online-multiplayer-just-in-time-for-spooky-season-2000738639": {
+      "title": "Directive 8020 Will Finally Add Online Multiplayer Just In Time For Spooky Season",
+      "url": "https://kotaku.com/directive-8020-will-finally-add-online-multiplayer-just-in-time-for-spooky-season-2000738639",
+      "canonical": "kotaku.com/directive-8020-will-finally-add-online-multiplayer-just-in-time-for-spooky-season-2000738639",
+      "published_dt": "2026-09-30T22:00:02+06:00",
+      "published_date": "2026-09-30T22:00:02+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "While the game's Movie Night mode supports local co-op, Supermassive will add its online component this October",
+      "image": "https://kotaku.com/app/uploads/2026/05/faceinfestation_screenshot_d8020.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.377452+06:00",
+      "last_seen": "2026-10-01T00:50:04.377454+06:00"
+    },
+    "gamesradar.com/tabletop-gaming/mtg-gets-kpop-demon-hunters-cards-and-theyre-drop-dead-gorgeous": {
+      "title": "MTG gets KPop Demon Hunters cards, and they're drop-dead gorgeous",
+      "url": "https://www.gamesradar.com/tabletop-gaming/mtg-gets-kpop-demon-hunters-cards-and-theyre-drop-dead-gorgeous/",
+      "canonical": "gamesradar.com/tabletop-gaming/mtg-gets-kpop-demon-hunters-cards-and-theyre-drop-dead-gorgeous",
+      "published_dt": "2026-10-01T00:31:01+06:00",
+      "published_date": "2026-10-01T00:31:01+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The Secret Lair drop arrives this October",
+      "image": "https://cdn.mos.cms.futurecdn.net/LYU7kXD9uYsGahJJH452aF-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.687946+06:00",
+      "last_seen": "2026-10-01T00:50:04.687952+06:00"
+    },
+    "gamesradar.com/games/resident-evil/resident-evil-remakes-are-building-to-a-crossover-with-the-new-games-producer-says": {
+      "title": "Resident Evil remakes are building to a \"crossover\" with the new games, producer says",
+      "url": "https://www.gamesradar.com/games/resident-evil/resident-evil-remakes-are-building-to-a-crossover-with-the-new-games-producer-says/",
+      "canonical": "gamesradar.com/games/resident-evil/resident-evil-remakes-are-building-to-a-crossover-with-the-new-games-producer-says",
+      "published_dt": "2026-09-30T23:19:34+06:00",
+      "published_date": "2026-09-30T23:19:34+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Capcom's been building toward the crossover since Resident Evil Village",
+      "image": "https://cdn.mos.cms.futurecdn.net/K9ivTCbWmzH7BSCdUH3Jz6-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.688048+06:00",
+      "last_seen": "2026-10-01T00:50:04.688050+06:00"
+    },
+    "gamesradar.com/games/survival/dune-awakening-boss-reveals-movie-director-denis-villeneuve-once-feared-the-survival-games-name-could-be-a-little-too-close-to-star-wars": {
+      "title": "Dune Awakening boss says Denis Villeneuve feared the name \"could be a little too close to Star Wars\"",
+      "url": "https://www.gamesradar.com/games/survival/dune-awakening-boss-reveals-movie-director-denis-villeneuve-once-feared-the-survival-games-name-could-be-a-little-too-close-to-star-wars/",
+      "canonical": "gamesradar.com/games/survival/dune-awakening-boss-reveals-movie-director-denis-villeneuve-once-feared-the-survival-games-name-could-be-a-little-too-close-to-star-wars",
+      "published_dt": "2026-09-30T22:33:22+06:00",
+      "published_date": "2026-09-30T22:33:22+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "It's not all Spice and sandworms",
+      "image": "https://cdn.mos.cms.futurecdn.net/PdNW6vvTMumBfhj622BYxK-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.688138+06:00",
+      "last_seen": "2026-10-01T00:50:04.688140+06:00"
+    },
+    "gamesradar.com/games/world-of-warcraft/blizzard-is-already-cracking-down-on-real-money-trading-in-world-of-warcraft-forever-as-devs-take-usd200-worth-of-gold-from-alleged-rule-breaker-they-left-me-with-9-silver": {
+      "title": "World of Warcraft Forever cracks down on real-money trading, takes $200 worth of gold from streamer",
+      "url": "https://www.gamesradar.com/games/world-of-warcraft/blizzard-is-already-cracking-down-on-real-money-trading-in-world-of-warcraft-forever-as-devs-take-usd200-worth-of-gold-from-alleged-rule-breaker-they-left-me-with-9-silver/",
+      "canonical": "gamesradar.com/games/world-of-warcraft/blizzard-is-already-cracking-down-on-real-money-trading-in-world-of-warcraft-forever-as-devs-take-usd200-worth-of-gold-from-alleged-rule-breaker-they-left-me-with-9-silver",
+      "published_dt": "2026-09-30T22:31:07+06:00",
+      "published_date": "2026-09-30T22:31:07+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"Blizzard did sweep up all my gold\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/D4AqEqmtnhZKRJ3pSUCpZh-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.688220+06:00",
+      "last_seen": "2026-10-01T00:50:04.688222+06:00"
+    },
+    "gamesradar.com/games/adventure/intergalactic-the-heretic-prophet-is-testing-the-bounds-of-what-naughty-dog-is-capable-of-teases-the-last-of-us-star-you-are-not-ready": {
+      "title": "Intergalactic The Heretic Prophet is \"testing the bounds\" of Naughty Dog, teases The Last of Us star",
+      "url": "https://www.gamesradar.com/games/adventure/intergalactic-the-heretic-prophet-is-testing-the-bounds-of-what-naughty-dog-is-capable-of-teases-the-last-of-us-star-you-are-not-ready/",
+      "canonical": "gamesradar.com/games/adventure/intergalactic-the-heretic-prophet-is-testing-the-bounds-of-what-naughty-dog-is-capable-of-teases-the-last-of-us-star-you-are-not-ready",
+      "published_dt": "2026-09-30T22:29:30+06:00",
+      "published_date": "2026-09-30T22:29:30+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Troy Baker says Naughty Dog's next game is \"going to be incredible\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/RY7b5eee4osmEBUTzrx9jd-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.688300+06:00",
+      "last_seen": "2026-10-01T00:50:04.688302+06:00"
+    },
+    "gamesradar.com/games/action-rpg/control-resonant-shum-arcade": {
+      "title": "How to find all Shum Arcade machines in Control Resonant",
+      "url": "https://www.gamesradar.com/games/action-rpg/control-resonant-shum-arcade/",
+      "canonical": "gamesradar.com/games/action-rpg/control-resonant-shum-arcade",
+      "published_dt": "2026-09-30T22:20:20+06:00",
+      "published_date": "2026-09-30T22:20:20+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The arcade machines around Control Resonant are all Shum III, but in actuality they're all endgame challenges",
+      "image": "https://cdn.mos.cms.futurecdn.net/b9DWwkW67T74PdRqDxx6QR-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.688376+06:00",
+      "last_seen": "2026-10-01T00:50:04.688378+06:00"
+    },
+    "gamesradar.com/hardware/retro/8bitdo-flippad-review": {
+      "title": "8Bitdo FlipPad review",
+      "url": "https://www.gamesradar.com/hardware/retro/8bitdo-flippad-review/",
+      "canonical": "gamesradar.com/hardware/retro/8bitdo-flippad-review",
+      "published_dt": "2026-09-30T22:15:13+06:00",
+      "published_date": "2026-09-30T22:15:13+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The 8Bitdo FlipPad has some minor flaws, but it ultimately achieves its goal of turning your phone into a Game Boy using sleek buttons and a handy hinge.",
+      "image": "https://cdn.mos.cms.futurecdn.net/jQFsJt6L3ZhQBqDadvLpaV-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.688449+06:00",
+      "last_seen": "2026-10-01T00:50:04.688451+06:00"
+    },
+    "rockpapershotgun.com/first-person-rpg-queens-domain-pitches-you-against-an-island-of-gorgeous-freaks-with-naught-but-a-flying-sword-and-infinite-throwing-daggers": {
+      "title": "First-person RPG Queen's Domain pitches you against an island of gorgeous freaks with naught but a flying sword and infinite throwing daggers",
+      "url": "https://www.rockpapershotgun.com/first-person-rpg-queens-domain-pitches-you-against-an-island-of-gorgeous-freaks-with-naught-but-a-flying-sword-and-infinite-throwing-daggers",
+      "canonical": "rockpapershotgun.com/first-person-rpg-queens-domain-pitches-you-against-an-island-of-gorgeous-freaks-with-naught-but-a-flying-sword-and-infinite-throwing-daggers",
+      "published_dt": "2026-09-30T22:07:02+06:00",
+      "published_date": "2026-09-30T22:07:02+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "Fantasy RPG Queen's Domain is frequently likened by certain other websites to From Software's King's Field games and The Elder Scrolls 3: Morrowind , so I'm going to put my nose in the air and forcibly compare it to something else. Looks like, errrrrr, a first-person Ico with Mayan architectural influences, maybe a touch of Final Fantasy's Ivalice period here and there. It's set on an island with shorelines you could compare to Halo's Silent Cartographer level, if you rubbed your eyes with breakfast cereal. Have I thoroughly confused you? Don't worry, here is a trailer. Read more",
+      "image": "https://assetsio.gnwcdn.com/queens-domain.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:04.901303+06:00",
+      "last_seen": "2026-10-01T00:50:04.901308+06:00"
+    },
+    "gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule": {
+      "title": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule",
+      "url": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
+      "canonical": "gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
+      "published_dt": "2026-09-30T23:54:59+06:00",
+      "published_date": "2026-09-30T23:54:59+06:00",
+      "source": "Game Developer",
+      "region": "Gaming",
+      "excerpt": "A petition is the first action.",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9e7eeb61f8b16f4f/6abd4c29ae28a3b8a53a3530/ubisoftmontrealfeaturedagain.jpg?width=720&quality=80&disable=upscale",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-01T00:50:05.378677+06:00",
+      "last_seen": "2026-10-01T00:50:05.378682+06:00",
+      "posted_at": "2026-10-01T01:14:39.401194+06:00"
+    },
+    "insider-gaming.com/all-stage-tour-songs": {
+      "title": "All Songs in Stage Tour—Every Song, Artist & Full Setlist",
+      "url": "https://insider-gaming.com/all-stage-tour-songs/",
+      "canonical": "insider-gaming.com/all-stage-tour-songs",
+      "published_dt": "2026-10-01T00:10:23+06:00",
+      "published_date": "2026-10-01T00:10:23+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "An extensive catalog of songs awaits in Stage Tour, with RedOctane Games securing a star-studded lineup of iconic tunes. The post All Songs in Stage Tour—Every Song, Artist & Full Setlist appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:05.528593+06:00",
+      "last_seen": "2026-10-01T00:50:05.528597+06:00"
+    },
+    "insider-gaming.com/all-roblox-fix-it-up-codes-rewards": {
+      "title": "Fix It Up Codes (September 2026)",
+      "url": "https://insider-gaming.com/all-roblox-fix-it-up-codes-rewards/",
+      "canonical": "insider-gaming.com/all-roblox-fix-it-up-codes-rewards",
+      "published_dt": "2026-09-30T23:35:56+06:00",
+      "published_date": "2026-09-30T23:35:56+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Fix It Up is a Roblox game all about fixing cars after they've broken down on the roadside. Here are all the current reward codes this month. The post Fix It Up Codes (September 2026) appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:05.528798+06:00",
+      "last_seen": "2026-10-01T00:50:05.528801+06:00"
+    },
+    "insider-gaming.com/roblox-my-dino-life-codes": {
+      "title": "My Dino Life Codes (September 2026)",
+      "url": "https://insider-gaming.com/roblox-my-dino-life-codes/",
+      "canonical": "insider-gaming.com/roblox-my-dino-life-codes",
+      "published_dt": "2026-09-30T22:49:43+06:00",
+      "published_date": "2026-09-30T22:49:43+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Use these monthly My Dino Life redeem codes to get your hands on plenty of free rewards like Revives and Cash. The post My Dino Life Codes (September 2026) appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:05.529140+06:00",
+      "last_seen": "2026-10-01T00:50:05.529142+06:00"
+    },
+    "insider-gaming.com/ea-sports-aaa-free-to-play-game": {
+      "title": "EA Sports Working on a AAA Free-To-Play Live Service Game, Job Listing Confirms",
+      "url": "https://insider-gaming.com/ea-sports-aaa-free-to-play-game/",
+      "canonical": "insider-gaming.com/ea-sports-aaa-free-to-play-game",
+      "published_dt": "2026-09-30T22:39:16+06:00",
+      "published_date": "2026-09-30T22:39:16+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "EA Sports is working on an unannounced AAA free-to-play live service game, which could release in the coming year or so. The post EA Sports Working on a AAA Free-To-Play Live Service Game, Job Listing Confirms appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-01T00:50:05.529304+06:00",
+      "last_seen": "2026-10-01T00:50:05.529306+06:00",
+      "posted_at": "2026-10-01T01:14:34.685856+06:00"
+    },
+    "insider-gaming.com/aion-2-tops-steam-charts-ahead-of-global-release-server-issues": {
+      "title": "AION 2 Tops Steam Charts Ahead of Global Release Amid Server Issues",
+      "url": "https://insider-gaming.com/aion-2-tops-steam-charts-ahead-of-global-release-server-issues/",
+      "canonical": "insider-gaming.com/aion-2-tops-steam-charts-ahead-of-global-release-server-issues",
+      "published_dt": "2026-09-30T22:25:07+06:00",
+      "published_date": "2026-09-30T22:25:07+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "AION 2 has hit the pinnacle of the top sellers charts on Steam and racked up tens of thousands of players even before the game's launch. The post AION 2 Tops Steam Charts Ahead of Global Release Amid Server Issues appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:05.529465+06:00",
+      "last_seen": "2026-10-01T00:50:05.529467+06:00"
+    },
+    "insider-gaming.com/call-of-duty-modern-warfare-4-final-pc-specs-released": {
+      "title": "Call of Duty: Modern Warfare 4 Final PC Specs Released",
+      "url": "https://insider-gaming.com/call-of-duty-modern-warfare-4-final-pc-specs-released/",
+      "canonical": "insider-gaming.com/call-of-duty-modern-warfare-4-final-pc-specs-released",
+      "published_dt": "2026-09-30T22:04:32+06:00",
+      "published_date": "2026-09-30T22:04:32+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Call of Duty devs have revealed the PC system requirements needed to run Modern Warfare 4. Here's the full list. The post Call of Duty: Modern Warfare 4 Final PC Specs Released appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:05.529921+06:00",
+      "last_seen": "2026-10-01T00:50:05.529925+06:00"
+    },
+    "insider-gaming.com/xbox-not-for-sale-xbox-ceo-asha-sharma": {
+      "title": "‘XBOX Is Not For Sale’, Declares XBOX CEO Asha Sharma",
+      "url": "https://insider-gaming.com/xbox-not-for-sale-xbox-ceo-asha-sharma/",
+      "canonical": "insider-gaming.com/xbox-not-for-sale-xbox-ceo-asha-sharma",
+      "published_dt": "2026-09-30T21:58:28+06:00",
+      "published_date": "2026-09-30T21:58:28+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "In a new interview, the CEO of XBOX, Asha Sharma, has made it clear that nobody is about to buy XBOX out from under Microsoft. The post ‘XBOX Is Not For Sale’, Declares XBOX CEO Asha Sharma appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:05.530109+06:00",
+      "last_seen": "2026-10-01T00:50:05.530114+06:00"
+    },
+    "nintendolife.com/news/2026/09/grasshopper-manufacture-parts-ways-with-netease-and-goes-independent": {
+      "title": "Grasshopper Manufacture Parts Ways With NetEase And Goes Independent",
+      "url": "https://www.nintendolife.com/news/2026/09/grasshopper-manufacture-parts-ways-with-netease-and-goes-independent",
+      "canonical": "nintendolife.com/news/2026/09/grasshopper-manufacture-parts-ways-with-netease-and-goes-independent",
+      "published_dt": "2026-09-30T22:30:00+06:00",
+      "published_date": "2026-09-30T22:30:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "\"We continue to cherish the amazing relationship our companies built\". Grasshopper Manufacture has announced that it has parted way with parent company NetEase and is now once again an independent developer. NetEase acquired Grasshopper back in 2021, but after a string of acquisitions, the company has since pulled back from its investments, closing down a number of studios and withdrawing funding from big projects, including Toshihiro Nagoshi's Gang of Dragon . Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/5255b8a688c26/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-01T00:50:05.770750+06:00",
+      "last_seen": "2026-10-01T00:50:05.770766+06:00",
+      "posted_at": "2026-10-01T01:14:20.762280+06:00"
+    },
+    "pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day": {
+      "title": "PS Plus Members Can Claim Free PSN Avatars for Sony's Record-Breaking Spider-Man: Brand New Day",
+      "url": "https://www.pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day",
+      "canonical": "pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day",
+      "published_dt": "2026-10-01T00:30:00+06:00",
+      "published_date": "2026-10-01T00:30:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Available starting next week. If you’re a PS Plus subscriber, you’ll be able to claim a set of free Spider-Man: Brand New Day avatars starting next week, from 6th October. To mark the digital release of the record-breaking movie in the Sony Pictures Core app, subscribers will be able to claim six PSN profile icons, including Tom Holland’s Spider-Man and Zendaya’s MJ Watson. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/317f6db3c22d9/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:06.082147+06:00",
+      "last_seen": "2026-10-01T00:50:06.082153+06:00"
+    },
+    "pushsquare.com/news/2026/09/analyst-argues-gears-of-war-e-day-shouldnt-have-been-cancelled-on-ps5-after-soft-steam-pre-orders": {
+      "title": "Analyst Argues Gears of War: E-Day Shouldn't Have Been Cancelled on PS5 After 'Soft' Steam Pre-Orders",
+      "url": "https://www.pushsquare.com/news/2026/09/analyst-argues-gears-of-war-e-day-shouldnt-have-been-cancelled-on-ps5-after-soft-steam-pre-orders",
+      "canonical": "pushsquare.com/news/2026/09/analyst-argues-gears-of-war-e-day-shouldnt-have-been-cancelled-on-ps5-after-soft-steam-pre-orders",
+      "published_dt": "2026-09-30T22:45:00+06:00",
+      "published_date": "2026-09-30T22:45:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "\"Gears isn't necessarily a console-seller anymore\". Gears of War: E-Day launches into advanced access imminently, and I’m sure our colleagues at Pure Xbox will be bringing you a review the moment the embargo lifts. You won’t find one on Push Square , of course, as the PS5 version was infamously cancelled earlier this year. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/7006da8a2d31c/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-01T00:50:06.082473+06:00",
+      "last_seen": "2026-10-01T00:50:06.082476+06:00",
+      "posted_at": "2026-10-01T01:14:53.599493+06:00"
+    },
+    "purexbox.com/news/2026/09/another-three-day-one-releases-set-for-xbox-game-pass-in-2026-and-2027": {
+      "title": "Another Three 'Day One' Releases Set For Xbox Game Pass In 2026 & 2027",
+      "url": "https://www.purexbox.com/news/2026/09/another-three-day-one-releases-set-for-xbox-game-pass-in-2026-and-2027",
+      "canonical": "purexbox.com/news/2026/09/another-three-day-one-releases-set-for-xbox-game-pass-in-2026-and-2027",
+      "published_dt": "2026-10-01T00:00:00+06:00",
+      "published_date": "2026-10-01T00:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "The list grows ever stronger. Ready for news on more Xbox Game Pass titles? Well, in the past 24 hours alone, we've seen three games either getting revealed for the first time or announcing their release dates as part of the Game Pass service. We'll kinda skip over the one of them as we've already mentioned it elsewhere, but it's Football Manager 27 . The game was announced for Xbox Game Pass today alongside its November 10th release date, so that's a nice one in the bag. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/db94d6785b491/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:06.475551+06:00",
+      "last_seen": "2026-10-01T00:50:06.475556+06:00"
+    },
+    "purexbox.com/news/2026/09/xbox-is-not-for-sale-asha-sharma-issues-confident-statement-on-the-future-of-the-brand": {
+      "title": "'Xbox Is Not For Sale' - Asha Sharma Issues Confident Statement On The Future Of The Brand",
+      "url": "https://www.purexbox.com/news/2026/09/xbox-is-not-for-sale-asha-sharma-issues-confident-statement-on-the-future-of-the-brand",
+      "canonical": "purexbox.com/news/2026/09/xbox-is-not-for-sale-asha-sharma-issues-confident-statement-on-the-future-of-the-brand",
+      "published_dt": "2026-09-30T22:30:00+06:00",
+      "published_date": "2026-09-30T22:30:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "\"We will do whatever it takes...\". There have always been rumours and bits of speculation over the years about whether Microsoft might be interested in selling off the Xbox brand — particularly during challenging times for the company's gaming division — and we've heard quite a lot of chatter about this in recent times since Asha Sharma took the role as head of Xbox. Sharma was actually asked about this directly in a new interview with The New York Times , and her response is certainly comforting to say the least, with the Xbox CEO stating that the brand isn't for sale whatsoever. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/56bf302986ece/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:06.475806+06:00",
+      "last_seen": "2026-10-01T00:50:06.475809+06:00"
+    },
+    "siliconera.com/pokemon-legends-z-a-bundled-with-dlc-on-a-cartridge": {
+      "title": "Pokemon Legends: Z-A Bundled With DLC on a Cartridge",
+      "url": "https://www.siliconera.com/pokemon-legends-z-a-bundled-with-dlc-on-a-cartridge/",
+      "canonical": "siliconera.com/pokemon-legends-z-a-bundled-with-dlc-on-a-cartridge",
+      "published_dt": "2026-10-01T00:00:00+06:00",
+      "published_date": "2026-10-01T00:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "Retail copies of Pokemon Legends: Z-A bundled with its DLC on a cartridge will show up in two regions next month.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-01T00:50:06.727792+06:00",
+      "last_seen": "2026-10-01T00:50:06.727797+06:00",
+      "posted_at": "2026-10-01T01:15:03.559424+06:00"
+    },
+    "siliconera.com/final-fantasy-xi-free-trial-now-has-no-time-limit-and-level-75-cap": {
+      "title": "Final Fantasy XI Free Trial Now Has No Time Limit and Level 75 Cap",
+      "url": "https://www.siliconera.com/final-fantasy-xi-free-trial-now-has-no-time-limit-and-level-75-cap/",
+      "canonical": "siliconera.com/final-fantasy-xi-free-trial-now-has-no-time-limit-and-level-75-cap",
+      "published_dt": "2026-09-30T23:00:00+06:00",
+      "published_date": "2026-09-30T23:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "The Final Fantasy XI free trial adjustments removed the time limit and increased the level cap alongside multiple events.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:06.727896+06:00",
+      "last_seen": "2026-10-01T00:50:06.727898+06:00"
+    },
+    "siliconera.com/chainsaw-man-crocs-inspired-by-denji-pochita-and-power": {
+      "title": "Chainsaw Man Crocs Inspired by Denji, Pochita, and Power",
+      "url": "https://www.siliconera.com/chainsaw-man-crocs-inspired-by-denji-pochita-and-power/",
+      "canonical": "siliconera.com/chainsaw-man-crocs-inspired-by-denji-pochita-and-power",
+      "published_dt": "2026-09-30T22:00:00+06:00",
+      "published_date": "2026-09-30T22:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "The Crocs Chainsaw Man crossover collection features shoes based on Denji, Power, Pochita, and Public Safety Saga characters.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T00:50:06.727978+06:00",
+      "last_seen": "2026-10-01T00:50:06.727980+06:00"
     }
   },
   "events": {
@@ -11305,6 +12388,588 @@
           ]
         }
       ]
+    },
+    "evt_fa84306aedf7d4": {
+      "event_id": "evt_fa84306aedf7d4",
+      "event_key": "xbox ceo asha sharma denies sale",
+      "event_subject": "Asha Sharma",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox ceo asha sharma denies sale",
+        "subject": "Asha Sharma",
+        "event_type": "other",
+        "action": "deny_sale",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft/Xbox",
+        "target": "investors",
+        "platforms": [],
+        "topic": "corporate"
+      },
+      "sources": [
+        "Eurogamer",
+        "GameSpot",
+        "IGN"
+      ],
+      "event_sources": [
+        "Eurogamer",
+        "GameSpot",
+        "IGN"
+      ],
+      "claims": [
+        "Xbox is not for sale",
+        "Xbox not for sale amid layoffs",
+        "denies reports of Microsoft selling gaming business"
+      ],
+      "importance_score": 69,
+      "coverage_score": 10,
+      "originality_score": 10,
+      "significance_score": 30,
+      "freshness_score": 10,
+      "source_trust_score": 9,
+      "headline": "Xbox CEO Asha Sharma Vows No Sale Amid Massive Restructuring",
+      "summary": "Asha Sharma denies any Xbox sale, outlining a 3,200‑job cut plan while reshuffling studios to stabilize the console brand.",
+      "published_at": "2026-10-01T00:35:09+06:00",
+      "selected_at": "2026-09-30T19:14:10.304014+00:00",
+      "status": "published",
+      "message_id": 520,
+      "published_versions": [
+        {
+          "published_at": "2026-09-30T19:14:10.304014+00:00",
+          "headline": "Xbox CEO Asha Sharma Vows No Sale Amid Massive Restructuring",
+          "claims": [
+            "Xbox is not for sale",
+            "Xbox not for sale amid layoffs",
+            "denies reports of Microsoft selling gaming business"
+          ]
+        }
+      ]
+    },
+    "evt_a285d4999b0618": {
+      "event_id": "evt_a285d4999b0618",
+      "event_key": "wow forever new race controversy",
+      "event_subject": "World of Warcraft: Forever",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "wow forever new race controversy",
+        "subject": "World of Warcraft: Forever",
+        "event_type": "other",
+        "action": "criticize_new_race",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "World of Warcraft: Forever",
+        "franchise": "World of Warcraft",
+        "institution": "Blizzard",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "design"
+      },
+      "sources": [
+        "Kotaku",
+        "Polygon",
+        "GameSpot",
+        "GamesRadar+"
+      ],
+      "event_sources": [
+        "Kotaku",
+        "Polygon",
+        "GameSpot",
+        "GamesRadar+"
+      ],
+      "claims": [
+        "survey about adding new classes",
+        "Skyborne elves race doesn’t fit WoW",
+        "over 12,500 items hidden from dataminers"
+      ],
+      "importance_score": 63,
+      "coverage_score": 14,
+      "originality_score": 8,
+      "significance_score": 22,
+      "freshness_score": 10,
+      "source_trust_score": 9,
+      "headline": "Blizzard’s New Skyborne Race Stirs Design Debate in World of Warcraft: Forever",
+      "summary": "The newly introduced Skyborne elves in WoW: Forever showcase ambitious design but clash with classic lore, prompting mixed player reactions ahead of the November 4 launch.",
+      "published_at": "2026-09-30T23:30:17+06:00",
+      "selected_at": "2026-09-30T19:14:15.262434+00:00",
+      "status": "published",
+      "message_id": 521,
+      "published_versions": [
+        {
+          "published_at": "2026-09-30T19:14:15.262434+00:00",
+          "headline": "Blizzard’s New Skyborne Race Stirs Design Debate in World of Warcraft: Forever",
+          "claims": [
+            "survey about adding new classes",
+            "Skyborne elves race doesn’t fit WoW",
+            "over 12,500 items hidden from dataminers"
+          ]
+        }
+      ]
+    },
+    "evt_8e9aebf8c6cce3": {
+      "event_id": "evt_8e9aebf8c6cce3",
+      "event_key": "grasshopper manufacture independence",
+      "event_subject": "Grasshopper Manufacture",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "grasshopper manufacture independence",
+        "subject": "Grasshopper Manufacture",
+        "event_type": "other",
+        "action": "separate",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Grasshopper Manufacture",
+        "target": "NetEase partnership",
+        "platforms": [
+          "All"
+        ],
+        "topic": "company_structure"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [],
+      "importance_score": 60,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 30,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Grasshopper Manufacture Splits From NetEase, Returns to Independence",
+      "summary": "Grasshopper Manufacture announced it has severed ties with NetEase, reclaiming full creative control as it prepares future releases including a potential Switch 2 launch.",
+      "published_at": "2026-09-30T22:30:00+06:00",
+      "selected_at": "2026-09-30T19:14:20.762308+00:00",
+      "status": "published",
+      "message_id": 522,
+      "published_versions": [
+        {
+          "published_at": "2026-09-30T19:14:20.762308+00:00",
+          "headline": "Grasshopper Manufacture Splits From NetEase, Returns to Independence",
+          "claims": []
+        }
+      ]
+    },
+    "evt_447c186c146a10": {
+      "event_id": "evt_447c186c146a10",
+      "event_key": "capcom resident evil remake timeline plan",
+      "event_subject": "Capcom",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "capcom resident evil remake timeline plan",
+        "subject": "Capcom",
+        "event_type": "other",
+        "action": "announce_future_plan",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Resident Evil",
+        "institution": "Capcom",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "strategy"
+      },
+      "sources": [
+        "GamesRadar+",
+        "IGN"
+      ],
+      "event_sources": [
+        "GamesRadar+",
+        "IGN"
+      ],
+      "claims": [
+        "remakes building toward crossover with new games",
+        "plan for when remakes catch up with newer titles"
+      ],
+      "importance_score": 53,
+      "coverage_score": 6,
+      "originality_score": 10,
+      "significance_score": 18,
+      "freshness_score": 10,
+      "source_trust_score": 9,
+      "headline": "Capcom Maps Future Strategy as Resident Evil Remakes Near Crossover Point",
+      "summary": "Capcom executive Jun Takeuchi reveals a long‑term plan for handling the inevitable clash between classic remakes and newer Resident Evil titles.",
+      "published_at": "2026-09-30T23:10:35+06:00",
+      "selected_at": "2026-09-30T19:14:25.688433+00:00",
+      "status": "published",
+      "message_id": 523,
+      "published_versions": [
+        {
+          "published_at": "2026-09-30T19:14:25.688433+00:00",
+          "headline": "Capcom Maps Future Strategy as Resident Evil Remakes Near Crossover Point",
+          "claims": [
+            "remakes building toward crossover with new games",
+            "plan for when remakes catch up with newer titles"
+          ]
+        }
+      ]
+    },
+    "evt_226f20de9e017c": {
+      "event_id": "evt_226f20de9e017c",
+      "event_key": "ea sports aaa f2p live service development",
+      "event_subject": "EA Sports",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ea sports aaa f2p live service development",
+        "subject": "EA Sports",
+        "event_type": "other",
+        "action": "confirm",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "EA Sports",
+        "target": "unannounced AAA free‑to‑play live‑service game",
+        "platforms": [
+          "All"
+        ],
+        "topic": "game_development"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [
+        "development"
+      ],
+      "importance_score": 52,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 18,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "EA Sports Hires Engineer for Unannounced AAA Free‑To‑Play Live‑Service Title",
+      "summary": "EA Sports is recruiting a client engineer in Shanghai for a new AAA free‑to‑play live‑service game, hinting at a major expansion of its sports portfolio.",
+      "published_at": "2026-09-30T22:39:16+06:00",
+      "selected_at": "2026-09-30T19:14:34.685884+00:00",
+      "status": "published",
+      "message_id": 524,
+      "published_versions": [
+        {
+          "published_at": "2026-09-30T19:14:34.685884+00:00",
+          "headline": "EA Sports Hires Engineer for Unannounced AAA Free‑To‑Play Live‑Service Title",
+          "claims": [
+            "development"
+          ]
+        }
+      ]
+    },
+    "evt_eb62430abbe426": {
+      "event_id": "evt_eb62430abbe426",
+      "event_key": "ubisoft montreal collective action hybrid work",
+      "event_subject": "Ubisoft Montreal employees",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ubisoft montreal collective action hybrid work",
+        "subject": "Ubisoft Montreal employees",
+        "event_type": "other",
+        "action": "launch_petition",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Ubisoft",
+        "target": "company",
+        "platforms": [],
+        "topic": "labor"
+      },
+      "sources": [
+        "Game Developer"
+      ],
+      "event_sources": [
+        "Game Developer"
+      ],
+      "claims": [
+        "petition to preserve hybrid work schedule"
+      ],
+      "importance_score": 49,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Ubisoft Montreal Workers Rally to Preserve Hybrid Work Amid Company‑Wide Return‑to‑Office Push",
+      "summary": "Over 300 Ubisoft Montreal staff have signed a petition demanding the continuation of hybrid work after the studio announced a mandatory five‑day office policy.",
+      "published_at": "2026-09-30T23:54:59+06:00",
+      "selected_at": "2026-09-30T19:14:39.401222+00:00",
+      "status": "published",
+      "message_id": 525,
+      "published_versions": [
+        {
+          "published_at": "2026-09-30T19:14:39.401222+00:00",
+          "headline": "Ubisoft Montreal Workers Rally to Preserve Hybrid Work Amid Company‑Wide Return‑to‑Office Push",
+          "claims": [
+            "petition to preserve hybrid work schedule"
+          ]
+        }
+      ]
+    },
+    "evt_3653ce8e3f1755": {
+      "event_id": "evt_3653ce8e3f1755",
+      "event_key": "microsoft kojima physint deal terms",
+      "event_subject": "Microsoft",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft kojima physint deal terms",
+        "subject": "Microsoft",
+        "event_type": "other",
+        "action": "announce_deal_terms",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "industry",
+        "platforms": [],
+        "topic": "finance"
+      },
+      "sources": [
+        "IGN"
+      ],
+      "event_sources": [
+        "IGN"
+      ],
+      "claims": [
+        "Physint deal below typical Xbox development cost"
+      ],
+      "importance_score": 46,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 16,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Microsoft’s Xbox Deal for Hideo Kojima’s Physint Costs Far Less Than Expected",
+      "summary": "Microsoft secured Hideo Kojima’s Physint for Xbox at a budget reportedly well below typical premium‑game spending, sparking industry speculation.",
+      "published_at": "2026-09-30T22:53:11+06:00",
+      "selected_at": "2026-09-30T19:14:44.190430+00:00",
+      "status": "published",
+      "message_id": 526,
+      "published_versions": [
+        {
+          "published_at": "2026-09-30T19:14:44.190430+00:00",
+          "headline": "Microsoft’s Xbox Deal for Hideo Kojima’s Physint Costs Far Less Than Expected",
+          "claims": [
+            "Physint deal below typical Xbox development cost"
+          ]
+        }
+      ]
+    },
+    "evt_2c370d8ba47c51": {
+      "event_id": "evt_2c370d8ba47c51",
+      "event_key": "xbox cloud gaming experiment status",
+      "event_subject": "Xbox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox cloud gaming experiment status",
+        "subject": "Xbox",
+        "event_type": "other",
+        "action": "report_experiment_collapse",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "players",
+        "platforms": [
+          "Xbox Cloud Gaming"
+        ],
+        "topic": "service"
+      },
+      "sources": [
+        "Kotaku"
+      ],
+      "event_sources": [
+        "Kotaku"
+      ],
+      "claims": [
+        "cloud gaming experiments appear to be collapsing"
+      ],
+      "importance_score": 46,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 20,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Xbox Cloud Gaming Cuts Back, Samsung TV Support Ends Soon",
+      "summary": "Xbox is scaling back its cloud gaming service, limiting weekly hours and dropping support for 2020 Samsung Smart TVs, signaling a shift in strategy.",
+      "published_at": "2026-09-30T23:16:27+06:00",
+      "selected_at": "2026-09-30T19:14:48.884535+00:00",
+      "status": "published",
+      "message_id": 527,
+      "published_versions": [
+        {
+          "published_at": "2026-09-30T19:14:48.884535+00:00",
+          "headline": "Xbox Cloud Gaming Cuts Back, Samsung TV Support Ends Soon",
+          "claims": [
+            "cloud gaming experiments appear to be collapsing"
+          ]
+        }
+      ]
+    },
+    "evt_b8ba082547bb6b": {
+      "event_id": "evt_b8ba082547bb6b",
+      "event_key": "gears of war eday ps5 cancellation",
+      "event_subject": "Gears of War: E-Day",
+      "event_type": "cancellation",
+      "event_frame": {
+        "event_key": "gears of war eday ps5 cancellation",
+        "subject": "Gears of War: E-Day",
+        "event_type": "cancellation",
+        "action": "cancel",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Gears of War: E-Day",
+        "franchise": "Gears of War",
+        "institution": "Microsoft",
+        "target": "PS5 version",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "release_cancellation"
+      },
+      "sources": [
+        "Push Square"
+      ],
+      "event_sources": [
+        "Push Square"
+      ],
+      "claims": [],
+      "importance_score": 45,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Analyst Says Cancelled PS5 Port of Gears of War: E-Day Was a Missed Revenue Chance",
+      "summary": "Alinea Analytics analyst Rhys Elliot argues the PS5 version of Gears of War: E-Day should not have been cancelled despite soft pre‑order numbers on Steam.",
+      "published_at": "2026-09-30T22:45:00+06:00",
+      "selected_at": "2026-09-30T19:14:53.599527+00:00",
+      "status": "published",
+      "message_id": 528,
+      "published_versions": [
+        {
+          "published_at": "2026-09-30T19:14:53.599527+00:00",
+          "headline": "Analyst Says Cancelled PS5 Port of Gears of War: E-Day Was a Missed Revenue Chance",
+          "claims": []
+        }
+      ]
+    },
+    "evt_58ead8b05eb9f7": {
+      "event_id": "evt_58ead8b05eb9f7",
+      "event_key": "modern warfare 4 collateral mode announcement",
+      "event_subject": "Modern Warfare 4",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "modern warfare 4 collateral mode announcement",
+        "subject": "Modern Warfare 4",
+        "event_type": "other",
+        "action": "announce_new_mode",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Modern Warfare 4",
+        "franchise": "Call of Duty",
+        "institution": "Activision",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "gameplay_feature"
+      },
+      "sources": [
+        "Polygon"
+      ],
+      "event_sources": [
+        "Polygon"
+      ],
+      "claims": [
+        "new Collateral mode borrows Counter‑Strike cash economy"
+      ],
+      "importance_score": 42,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Modern Warfare 4 Introduces Counter‑Strike‑Style ‘Collateral’ Mode",
+      "summary": "Activision adds Collateral, a new Search‑and‑Destroy variant with an in‑match economy, letting players buy gear between rounds in Modern Warfare 4.",
+      "published_at": "2026-10-01T00:46:56+06:00",
+      "selected_at": "2026-09-30T19:14:58.460266+00:00",
+      "status": "published",
+      "message_id": 529,
+      "published_versions": [
+        {
+          "published_at": "2026-09-30T19:14:58.460266+00:00",
+          "headline": "Modern Warfare 4 Introduces Counter‑Strike‑Style ‘Collateral’ Mode",
+          "claims": [
+            "new Collateral mode borrows Counter‑Strike cash economy"
+          ]
+        }
+      ]
+    },
+    "evt_d664a2f9bf37a2": {
+      "event_id": "evt_d664a2f9bf37a2",
+      "event_key": "pokemon legends za dlc cartridge bundle",
+      "event_subject": "Pokemon Legends: Z‑A",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pokemon legends za dlc cartridge bundle",
+        "subject": "Pokemon Legends: Z‑A",
+        "event_type": "other",
+        "action": "bundle_dlc",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Pokemon Legends: Z‑A",
+        "franchise": "Pokemon",
+        "institution": "Nintendo",
+        "target": "retail_customers",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "distribution"
+      },
+      "sources": [
+        "Siliconera"
+      ],
+      "event_sources": [
+        "Siliconera"
+      ],
+      "claims": [
+        "retail copies bundled with DLC cartridge"
+      ],
+      "importance_score": 40,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 14,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Nintendo Packs Pokemon Legends: Z‑A and Mega Dimension DLC on One Switch Cartridge",
+      "summary": "Nintendo will release a physical Switch 2 edition bundling Pokemon Legends: Z‑A with the Mega Dimension DLC on October 29, 2026, priced at $99.99 digitally.",
+      "published_at": "2026-10-01T00:00:00+06:00",
+      "selected_at": "2026-09-30T19:15:03.559452+00:00",
+      "status": "published",
+      "message_id": 530,
+      "published_versions": [
+        {
+          "published_at": "2026-09-30T19:15:03.559452+00:00",
+          "headline": "Nintendo Packs Pokemon Legends: Z‑A and Mega Dimension DLC on One Switch Cartridge",
+          "claims": [
+            "retail copies bundled with DLC cartridge"
+          ]
+        }
+      ]
     }
   },
   "event_clusters": {
@@ -18130,13 +19795,16 @@
         "subject": "Stage Tour",
         "event_type": "other",
         "action": "publish_setlist",
-        "status": "published",
+        "status": "confirmed",
         "modality": "unknown",
         "game": "",
         "franchise": "",
         "institution": "RedOctane Games",
-        "target": "",
-        "platforms": [],
+        "target": "players",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
         "topic": "music"
       },
       "modality": "unknown",
@@ -18147,7 +19815,9 @@
       ],
       "source_count": 1,
       "independent_source_count": 1,
-      "claims": [],
+      "claims": [
+        "complete song list for Stage Tour"
+      ],
       "importance_score": 38,
       "score_breakdown": {
         "significance": 4,
@@ -18157,7 +19827,7 @@
         "source_trust": 10,
         "total": 38
       },
-      "last_seen": "2026-09-10T01:06:38.388642+06:00"
+      "last_seen": "2026-10-01T00:52:08.625622+06:00"
     },
     "evt_e510e7b953c180": {
       "event_id": "evt_e510e7b953c180",
@@ -57748,6 +59418,2043 @@
         "total": 26
       },
       "last_seen": "2026-09-30T19:23:56.762548+06:00"
+    },
+    "evt_497ba7cc8f5b3f": {
+      "event_id": "evt_497ba7cc8f5b3f",
+      "event_key": "gta 6 wildlife gameplay features",
+      "event_subject": "Grand Theft Auto 6",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta 6 wildlife gameplay features",
+        "subject": "Grand Theft Auto 6",
+        "event_type": "other",
+        "action": "reveal_wildlife",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Grand Theft Auto 6",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar Games",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "gameplay"
+      },
+      "modality": "unknown",
+      "topic": "gameplay",
+      "institution": "Rockstar Games",
+      "sources": [
+        "Polygon",
+        "Eurogamer",
+        "IGN"
+      ],
+      "source_count": 3,
+      "independent_source_count": 3,
+      "claims": [
+        "over 170 unique animals in GTA 6",
+        "new weather system with hurricanes, rainbows, heavy rain"
+      ],
+      "importance_score": 74,
+      "score_breakdown": {
+        "significance": 35,
+        "coverage": 10,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 74
+      },
+      "last_seen": "2026-10-01T00:52:08.625423+06:00"
+    },
+    "evt_fa84306aedf7d4": {
+      "event_id": "evt_fa84306aedf7d4",
+      "event_key": "xbox ceo asha sharma denies sale",
+      "event_subject": "Asha Sharma",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox ceo asha sharma denies sale",
+        "subject": "Asha Sharma",
+        "event_type": "other",
+        "action": "deny_sale",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft/Xbox",
+        "target": "investors",
+        "platforms": [],
+        "topic": "corporate"
+      },
+      "modality": "unknown",
+      "topic": "corporate",
+      "institution": "Microsoft/Xbox",
+      "sources": [
+        "Eurogamer",
+        "GameSpot",
+        "IGN"
+      ],
+      "source_count": 3,
+      "independent_source_count": 3,
+      "claims": [
+        "Xbox is not for sale",
+        "Xbox not for sale amid layoffs",
+        "denies reports of Microsoft selling gaming business"
+      ],
+      "importance_score": 69,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 10,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 69
+      },
+      "last_seen": "2026-10-01T00:52:08.625444+06:00"
+    },
+    "evt_8e9aebf8c6cce3": {
+      "event_id": "evt_8e9aebf8c6cce3",
+      "event_key": "grasshopper manufacture independence",
+      "event_subject": "Grasshopper Manufacture",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "grasshopper manufacture independence",
+        "subject": "Grasshopper Manufacture",
+        "event_type": "other",
+        "action": "separate",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Grasshopper Manufacture",
+        "target": "NetEase partnership",
+        "platforms": [
+          "All"
+        ],
+        "topic": "company_structure"
+      },
+      "modality": "unknown",
+      "topic": "company_structure",
+      "institution": "Grasshopper Manufacture",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 60,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 60
+      },
+      "last_seen": "2026-10-01T00:52:08.625451+06:00"
+    },
+    "evt_a285d4999b0618": {
+      "event_id": "evt_a285d4999b0618",
+      "event_key": "wow forever new race controversy",
+      "event_subject": "World of Warcraft: Forever",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "wow forever new race controversy",
+        "subject": "World of Warcraft: Forever",
+        "event_type": "other",
+        "action": "criticize_new_race",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "World of Warcraft: Forever",
+        "franchise": "World of Warcraft",
+        "institution": "Blizzard",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "design"
+      },
+      "modality": "unknown",
+      "topic": "design",
+      "institution": "Blizzard",
+      "sources": [
+        "Kotaku",
+        "Polygon",
+        "GameSpot",
+        "GamesRadar+"
+      ],
+      "source_count": 4,
+      "independent_source_count": 4,
+      "claims": [
+        "survey about adding new classes",
+        "Skyborne elves race doesn’t fit WoW",
+        "over 12,500 items hidden from dataminers"
+      ],
+      "importance_score": 63,
+      "score_breakdown": {
+        "significance": 22,
+        "coverage": 14,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 63
+      },
+      "last_seen": "2026-10-01T00:52:08.625456+06:00"
+    },
+    "evt_a08ee7e3d27f44": {
+      "event_id": "evt_a08ee7e3d27f44",
+      "event_key": "xbox brand not for sale denial",
+      "event_subject": "Xbox",
+      "event_type": "denial",
+      "event_frame": {
+        "event_key": "xbox brand not for sale denial",
+        "subject": "Xbox",
+        "event_type": "denial",
+        "action": "deny",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "Xbox brand sale rumors",
+        "platforms": [
+          "All"
+        ],
+        "topic": "corporate"
+      },
+      "modality": "unknown",
+      "topic": "corporate",
+      "institution": "Microsoft",
+      "sources": [
+        "VGC",
+        "Pure Xbox",
+        "Insider Gaming"
+      ],
+      "source_count": 3,
+      "independent_source_count": 3,
+      "claims": [
+        "rumor",
+        "rumor",
+        "rumor"
+      ],
+      "importance_score": 63,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 10,
+        "originality": 13,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 63
+      },
+      "last_seen": "2026-10-01T00:52:08.625461+06:00"
+    },
+    "evt_cd142d2469eaaa": {
+      "event_id": "evt_cd142d2469eaaa",
+      "event_key": "aion2 prelaunch steam chart top",
+      "event_subject": "AION 2",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "aion2 prelaunch steam chart top",
+        "subject": "AION 2",
+        "event_type": "other",
+        "action": "chart_top",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "AION 2",
+        "franchise": "AION 2",
+        "institution": "NCSoft",
+        "target": "Steam top‑seller chart",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "launch"
+      },
+      "modality": "unknown",
+      "topic": "launch",
+      "institution": "NCSoft",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 54,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 54
+      },
+      "last_seen": "2026-10-01T00:52:08.625466+06:00"
+    },
+    "evt_2c370d8ba47c51": {
+      "event_id": "evt_2c370d8ba47c51",
+      "event_key": "xbox cloud gaming experiment status",
+      "event_subject": "Xbox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox cloud gaming experiment status",
+        "subject": "Xbox",
+        "event_type": "other",
+        "action": "report_experiment_collapse",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "players",
+        "platforms": [
+          "Xbox Cloud Gaming"
+        ],
+        "topic": "service"
+      },
+      "modality": "unknown",
+      "topic": "service",
+      "institution": "Microsoft",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "cloud gaming experiments appear to be collapsing"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 46
+      },
+      "last_seen": "2026-10-01T00:52:08.625470+06:00"
+    },
+    "evt_447c186c146a10": {
+      "event_id": "evt_447c186c146a10",
+      "event_key": "capcom resident evil remake timeline plan",
+      "event_subject": "Capcom",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "capcom resident evil remake timeline plan",
+        "subject": "Capcom",
+        "event_type": "other",
+        "action": "announce_future_plan",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Resident Evil",
+        "institution": "Capcom",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "strategy"
+      },
+      "modality": "unknown",
+      "topic": "strategy",
+      "institution": "Capcom",
+      "sources": [
+        "GamesRadar+",
+        "IGN"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "remakes building toward crossover with new games",
+        "plan for when remakes catch up with newer titles"
+      ],
+      "importance_score": 53,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 53
+      },
+      "last_seen": "2026-10-01T00:52:08.625475+06:00"
+    },
+    "evt_226f20de9e017c": {
+      "event_id": "evt_226f20de9e017c",
+      "event_key": "ea sports aaa f2p live service development",
+      "event_subject": "EA Sports",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ea sports aaa f2p live service development",
+        "subject": "EA Sports",
+        "event_type": "other",
+        "action": "confirm",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "EA Sports",
+        "target": "unannounced AAA free‑to‑play live‑service game",
+        "platforms": [
+          "All"
+        ],
+        "topic": "game_development"
+      },
+      "modality": "unknown",
+      "topic": "game_development",
+      "institution": "EA Sports",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "development"
+      ],
+      "importance_score": 52,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 52
+      },
+      "last_seen": "2026-10-01T00:52:08.625479+06:00"
+    },
+    "evt_3653ce8e3f1755": {
+      "event_id": "evt_3653ce8e3f1755",
+      "event_key": "microsoft kojima physint deal terms",
+      "event_subject": "Microsoft",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft kojima physint deal terms",
+        "subject": "Microsoft",
+        "event_type": "other",
+        "action": "announce_deal_terms",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "industry",
+        "platforms": [],
+        "topic": "finance"
+      },
+      "modality": "unknown",
+      "topic": "finance",
+      "institution": "Microsoft",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Physint deal below typical Xbox development cost"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 16,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 46
+      },
+      "last_seen": "2026-10-01T00:52:08.625484+06:00"
+    },
+    "evt_5aa7ef65e0a067": {
+      "event_id": "evt_5aa7ef65e0a067",
+      "event_key": "cod mw4 pc specs release",
+      "event_subject": "Call of Duty: Modern Warfare 4",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "cod mw4 pc specs release",
+        "subject": "Call of Duty: Modern Warfare 4",
+        "event_type": "other",
+        "action": "publish",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Call of Duty: Modern Warfare 4",
+        "franchise": "Call of Duty",
+        "institution": "Activision",
+        "target": "PC system requirements",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "technical"
+      },
+      "modality": "unknown",
+      "topic": "technical",
+      "institution": "Activision",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 49,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 49
+      },
+      "last_seen": "2026-10-01T00:52:08.625489+06:00"
+    },
+    "evt_eb62430abbe426": {
+      "event_id": "evt_eb62430abbe426",
+      "event_key": "ubisoft montreal collective action hybrid work",
+      "event_subject": "Ubisoft Montreal employees",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ubisoft montreal collective action hybrid work",
+        "subject": "Ubisoft Montreal employees",
+        "event_type": "other",
+        "action": "launch_petition",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Ubisoft",
+        "target": "company",
+        "platforms": [],
+        "topic": "labor"
+      },
+      "modality": "unknown",
+      "topic": "labor",
+      "institution": "Ubisoft",
+      "sources": [
+        "Game Developer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "petition to preserve hybrid work schedule"
+      ],
+      "importance_score": 49,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 49
+      },
+      "last_seen": "2026-10-01T00:52:08.625493+06:00"
+    },
+    "evt_b8ba082547bb6b": {
+      "event_id": "evt_b8ba082547bb6b",
+      "event_key": "gears of war eday ps5 cancellation",
+      "event_subject": "Gears of War: E-Day",
+      "event_type": "cancellation",
+      "event_frame": {
+        "event_key": "gears of war eday ps5 cancellation",
+        "subject": "Gears of War: E-Day",
+        "event_type": "cancellation",
+        "action": "cancel",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Gears of War: E-Day",
+        "franchise": "Gears of War",
+        "institution": "Microsoft",
+        "target": "PS5 version",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "release_cancellation"
+      },
+      "modality": "unknown",
+      "topic": "release_cancellation",
+      "institution": "Microsoft",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-10-01T00:52:08.625498+06:00"
+    },
+    "evt_d664a2f9bf37a2": {
+      "event_id": "evt_d664a2f9bf37a2",
+      "event_key": "pokemon legends za dlc cartridge bundle",
+      "event_subject": "Pokemon Legends: Z‑A",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pokemon legends za dlc cartridge bundle",
+        "subject": "Pokemon Legends: Z‑A",
+        "event_type": "other",
+        "action": "bundle_dlc",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Pokemon Legends: Z‑A",
+        "franchise": "Pokemon",
+        "institution": "Nintendo",
+        "target": "retail_customers",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "distribution"
+      },
+      "modality": "unknown",
+      "topic": "distribution",
+      "institution": "Nintendo",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "retail copies bundled with DLC cartridge"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 40
+      },
+      "last_seen": "2026-10-01T00:52:08.625503+06:00"
+    },
+    "evt_9db3e16c5dbf22": {
+      "event_id": "evt_9db3e16c5dbf22",
+      "event_key": "final fantasy xi free trial no time limit",
+      "event_subject": "Final Fantasy XI",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "final fantasy xi free trial no time limit",
+        "subject": "Final Fantasy XI",
+        "event_type": "other",
+        "action": "remove_time_limit",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Final Fantasy XI",
+        "franchise": "Final Fantasy",
+        "institution": "Square Enix",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "accessibility"
+      },
+      "modality": "unknown",
+      "topic": "accessibility",
+      "institution": "Square Enix",
+      "sources": [
+        "Polygon",
+        "Siliconera"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "free trial now unlimited",
+        "free trial now has no time limit and level 75 cap"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 6,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 46
+      },
+      "last_seen": "2026-10-01T00:52:08.625508+06:00"
+    },
+    "evt_10901b343af3b6": {
+      "event_id": "evt_10901b343af3b6",
+      "event_key": "baldurs gate 3 astarion prequel novel controversy",
+      "event_subject": "Astarion",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "baldurs gate 3 astarion prequel novel controversy",
+        "subject": "Astarion",
+        "event_type": "other",
+        "action": "criticize_novel",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "Baldur's Gate 3",
+        "franchise": "Baldur's Gate",
+        "institution": "Wizards of the Coast",
+        "target": "readers",
+        "platforms": [],
+        "topic": "literature"
+      },
+      "modality": "unknown",
+      "topic": "literature",
+      "institution": "Wizards of the Coast",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "prequel novel doomed from start due to interference"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-10-01T00:52:08.625513+06:00"
+    },
+    "evt_58ead8b05eb9f7": {
+      "event_id": "evt_58ead8b05eb9f7",
+      "event_key": "modern warfare 4 collateral mode announcement",
+      "event_subject": "Modern Warfare 4",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "modern warfare 4 collateral mode announcement",
+        "subject": "Modern Warfare 4",
+        "event_type": "other",
+        "action": "announce_new_mode",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Modern Warfare 4",
+        "franchise": "Call of Duty",
+        "institution": "Activision",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "gameplay_feature"
+      },
+      "modality": "unknown",
+      "topic": "gameplay_feature",
+      "institution": "Activision",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new Collateral mode borrows Counter‑Strike cash economy"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-10-01T00:52:08.625517+06:00"
+    },
+    "evt_9b3716f176ac6f": {
+      "event_id": "evt_9b3716f176ac6f",
+      "event_key": "sonic movies impact on game sales",
+      "event_subject": "Sonic franchise",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sonic movies impact on game sales",
+        "subject": "Sonic franchise",
+        "event_type": "other",
+        "action": "explain_media_impact",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Sonic the Hedgehog",
+        "institution": "Sega",
+        "target": "industry",
+        "platforms": [],
+        "topic": "media_effects"
+      },
+      "modality": "unknown",
+      "topic": "media_effects",
+      "institution": "Sega",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "movies helped boost game sales"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-10-01T00:52:08.625521+06:00"
+    },
+    "evt_8b0b14463425ff": {
+      "event_id": "evt_8b0b14463425ff",
+      "event_key": "xbox game pass day one releases 2026 2027",
+      "event_subject": "Xbox Game Pass",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox game pass day one releases 2026 2027",
+        "subject": "Xbox Game Pass",
+        "event_type": "other",
+        "action": "announce_day_one_titles",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "subscribers",
+        "platforms": [
+          "Xbox"
+        ],
+        "topic": "service_updates"
+      },
+      "modality": "unknown",
+      "topic": "service_updates",
+      "institution": "Microsoft",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "three day‑one releases for 2026‑27"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-10-01T00:52:08.625526+06:00"
+    },
+    "evt_95e62a33f8a9b2": {
+      "event_id": "evt_95e62a33f8a9b2",
+      "event_key": "directive 8020 online multiplayer addition",
+      "event_subject": "Directive 8020",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "directive 8020 online multiplayer addition",
+        "subject": "Directive 8020",
+        "event_type": "other",
+        "action": "add",
+        "status": "planned",
+        "modality": "unknown",
+        "game": "Directive 8020",
+        "franchise": "Directive 8020",
+        "institution": "Supermassive Games",
+        "target": "online multiplayer mode",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "update"
+      },
+      "modality": "unknown",
+      "topic": "update",
+      "institution": "Supermassive Games",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 38
+      },
+      "last_seen": "2026-10-01T00:52:08.625532+06:00"
+    },
+    "evt_7da4a3969376c3": {
+      "event_id": "evt_7da4a3969376c3",
+      "event_key": "queens domain first look",
+      "event_subject": "Queen's Domain",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "queens domain first look",
+        "subject": "Queen's Domain",
+        "event_type": "other",
+        "action": "announce",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "Queen's Domain",
+        "franchise": "Queen's Domain",
+        "institution": "Unknown",
+        "target": "first trailer",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "game_preview"
+      },
+      "modality": "unknown",
+      "topic": "game_preview",
+      "institution": "Unknown",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 38
+      },
+      "last_seen": "2026-10-01T00:52:08.625537+06:00"
+    },
+    "evt_6b2ec9d6736c63": {
+      "event_id": "evt_6b2ec9d6736c63",
+      "event_key": "cyberpowerpc rtx 5070 bundle release",
+      "event_subject": "CyberPowerPC",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "cyberpowerpc rtx 5070 bundle release",
+        "subject": "CyberPowerPC",
+        "event_type": "other",
+        "action": "announce_bundle",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "CyberPowerPC",
+        "target": "gamers",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "modality": "unknown",
+      "topic": "hardware",
+      "institution": "CyberPowerPC",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "RTX 5070 PC bundle includes Control: Resonant"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-10-01T00:52:08.625541+06:00"
+    },
+    "evt_92709dfa2837d1": {
+      "event_id": "evt_92709dfa2837d1",
+      "event_key": "logitech ai clipping software review",
+      "event_subject": "Logitech AI Clipping Software",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "logitech ai clipping software review",
+        "subject": "Logitech AI Clipping Software",
+        "event_type": "review",
+        "action": "review",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Logitech",
+        "target": "AI‑fueled game clipping tool",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "software"
+      },
+      "modality": "unknown",
+      "topic": "software",
+      "institution": "Logitech",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-10-01T00:52:08.625546+06:00"
+    },
+    "evt_fe685dcfbb047f": {
+      "event_id": "evt_fe685dcfbb047f",
+      "event_key": "naughty dog next game teaser",
+      "event_subject": "Naughty Dog",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "naughty dog next game teaser",
+        "subject": "Naughty Dog",
+        "event_type": "other",
+        "action": "tease",
+        "status": "planned",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Naughty Dog",
+        "target": "next unnamed game",
+        "platforms": [
+          "All"
+        ],
+        "topic": "upcoming_game"
+      },
+      "modality": "unknown",
+      "topic": "upcoming_game",
+      "institution": "Naughty Dog",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 36
+      },
+      "last_seen": "2026-10-01T00:52:08.625551+06:00"
+    },
+    "evt_f6389415353ab0": {
+      "event_id": "evt_f6389415353ab0",
+      "event_key": "ps plus october 2026 lineup announcement",
+      "event_subject": "PlayStation Plus",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "ps plus october 2026 lineup announcement",
+        "subject": "PlayStation Plus",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Sony",
+        "target": "October 2026 PS Plus lineup",
+        "platforms": [
+          "PlayStation"
+        ],
+        "topic": "subscription"
+      },
+      "modality": "unknown",
+      "topic": "subscription",
+      "institution": "Sony",
+      "sources": [
+        "IGN",
+        "Polygon",
+        "VGC"
+      ],
+      "source_count": 3,
+      "independent_source_count": 3,
+      "claims": [],
+      "importance_score": 50,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 10,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 50
+      },
+      "last_seen": "2026-10-01T00:52:08.625556+06:00"
+    },
+    "evt_fccb010550fff7": {
+      "event_id": "evt_fccb010550fff7",
+      "event_key": "witcher 3 remaster graphics debate",
+      "event_subject": "Witcher 3 Remaster",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "witcher 3 remaster graphics debate",
+        "subject": "Witcher 3 Remaster",
+        "event_type": "other",
+        "action": "debate_graphics",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "The Witcher 3: Wild Hunt",
+        "franchise": "The Witcher",
+        "institution": "CD Projekt",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "graphics_quality"
+      },
+      "modality": "unknown",
+      "topic": "graphics_quality",
+      "institution": "CD Projekt",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "fans divided over remaster graphics quality"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-10-01T00:52:08.625561+06:00"
+    },
+    "evt_5c08cb3fdcb6ea": {
+      "event_id": "evt_5c08cb3fdcb6ea",
+      "event_key": "ps plus spider man brand new day avatars",
+      "event_subject": "PlayStation Plus",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ps plus spider man brand new day avatars",
+        "subject": "PlayStation Plus",
+        "event_type": "other",
+        "action": "release_avatars",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Spider‑Man: Brand New Day",
+        "franchise": "Spider‑Man",
+        "institution": "Sony",
+        "target": "PS Plus members",
+        "platforms": [
+          "PS5",
+          "PS4"
+        ],
+        "topic": "promotional_content"
+      },
+      "modality": "unknown",
+      "topic": "promotional_content",
+      "institution": "Sony",
+      "sources": [
+        "Push Square",
+        "Kotaku"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "free avatars for subscribers"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 6,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 40
+      },
+      "last_seen": "2026-10-01T00:52:08.625566+06:00"
+    },
+    "evt_d46369f6afb058": {
+      "event_id": "evt_d46369f6afb058",
+      "event_key": "8bitdo flippad review",
+      "event_subject": "8Bitdo FlipPad",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "8bitdo flippad review",
+        "subject": "8Bitdo FlipPad",
+        "event_type": "review",
+        "action": "review",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "8Bitdo",
+        "target": "FlipPad accessory",
+        "platforms": [
+          "Mobile"
+        ],
+        "topic": "hardware"
+      },
+      "modality": "unknown",
+      "topic": "hardware",
+      "institution": "8Bitdo",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 33
+      },
+      "last_seen": "2026-10-01T00:52:08.625572+06:00"
+    },
+    "evt_40d433eecb970a": {
+      "event_id": "evt_40d433eecb970a",
+      "event_key": "gta 5 community mod hurricane tornadoes",
+      "event_subject": "GTA 5 community",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta 5 community mod hurricane tornadoes",
+        "subject": "GTA 5 community",
+        "event_type": "other",
+        "action": "add_tornadoes",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "Grand Theft Auto V",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar Games",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "modding"
+      },
+      "modality": "unknown",
+      "topic": "modding",
+      "institution": "Rockstar Games",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "mods adding tornadoes to GTA 5"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-10-01T00:52:08.625577+06:00"
+    },
+    "evt_658ca58eec225d": {
+      "event_id": "evt_658ca58eec225d",
+      "event_key": "mtg secret lair kpop demon hunters release",
+      "event_subject": "Magic: The Gathering",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "mtg secret lair kpop demon hunters release",
+        "subject": "Magic: The Gathering",
+        "event_type": "other",
+        "action": "release_set",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Magic: The Gathering",
+        "institution": "Wizards of the Coast",
+        "target": "collectors",
+        "platforms": [],
+        "topic": "collectible_cards"
+      },
+      "modality": "unknown",
+      "topic": "collectible_cards",
+      "institution": "Wizards of the Coast",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "K‑Pop Demon Hunters cards released"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 32
+      },
+      "last_seen": "2026-10-01T00:52:08.625582+06:00"
+    },
+    "evt_78d89743b65f08": {
+      "event_id": "evt_78d89743b65f08",
+      "event_key": "dressmaker sabotage system community response",
+      "event_subject": "Dressmaker",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "dressmaker sabotage system community response",
+        "subject": "Dressmaker",
+        "event_type": "other",
+        "action": "highlight_sabotage",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "Dressmaker",
+        "franchise": "Dressmaker",
+        "institution": "Mediatonic",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "gameplay_mechanics"
+      },
+      "modality": "unknown",
+      "topic": "gameplay_mechanics",
+      "institution": "Mediatonic",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "players enjoy ruining dresses via sabotage system"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-10-01T00:52:08.625587+06:00"
+    },
+    "evt_8ca28f10a88da0": {
+      "event_id": "evt_8ca28f10a88da0",
+      "event_key": "silent hill townfall balance nerf",
+      "event_subject": "Silent Hill: Townfall",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "silent hill townfall balance nerf",
+        "subject": "Silent Hill: Townfall",
+        "event_type": "other",
+        "action": "nerf",
+        "status": "planned",
+        "modality": "unknown",
+        "game": "Silent Hill: Townfall",
+        "franchise": "Silent Hill",
+        "institution": "Konami",
+        "target": "The Weight boss",
+        "platforms": [
+          "PC",
+          "PlayStation",
+          "Xbox"
+        ],
+        "topic": "game_balance"
+      },
+      "modality": "unknown",
+      "topic": "game_balance",
+      "institution": "Konami",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-10-01T00:52:08.625592+06:00"
+    },
+    "evt_6959afd6f5f69f": {
+      "event_id": "evt_6959afd6f5f69f",
+      "event_key": "street fighter movie soundtrack release",
+      "event_subject": "Street Fighter movie",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "street fighter movie soundtrack release",
+        "subject": "Street Fighter movie",
+        "event_type": "other",
+        "action": "release",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Street Fighter",
+        "franchise": "Street Fighter",
+        "institution": "Capcom",
+        "target": "Guile's Theme (movie version)",
+        "platforms": [
+          "Streaming"
+        ],
+        "topic": "soundtrack"
+      },
+      "modality": "unknown",
+      "topic": "soundtrack",
+      "institution": "Capcom",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-10-01T00:52:08.625597+06:00"
+    },
+    "evt_04dee3bfbe360f": {
+      "event_id": "evt_04dee3bfbe360f",
+      "event_key": "god of war laufey actor controversy",
+      "event_subject": "Vincent D’Onofrio",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "god of war laufey actor controversy",
+        "subject": "Vincent D’Onofrio",
+        "event_type": "other",
+        "action": "defend_actor",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "God of War Laufey",
+        "franchise": "God of War",
+        "institution": "Sony",
+        "target": "gooners",
+        "platforms": [],
+        "topic": "community_reaction"
+      },
+      "modality": "unknown",
+      "topic": "community_reaction",
+      "institution": "Sony",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "actor defends Deborah Ann Woll’s armor sets"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-10-01T00:52:08.625602+06:00"
+    },
+    "evt_8170521c8d6c69": {
+      "event_id": "evt_8170521c8d6c69",
+      "event_key": "chainsaw man crocs collaboration",
+      "event_subject": "Chainsaw Man",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "chainsaw man crocs collaboration",
+        "subject": "Chainsaw Man",
+        "event_type": "other",
+        "action": "launch",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Chainsaw Man",
+        "franchise": "Chainsaw Man",
+        "institution": "Crocs",
+        "target": "Chainsaw Man themed Crocs",
+        "platforms": [
+          "All"
+        ],
+        "topic": "merchandise"
+      },
+      "modality": "unknown",
+      "topic": "merchandise",
+      "institution": "Crocs",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-10-01T00:52:08.625607+06:00"
+    },
+    "evt_919e352ac59158": {
+      "event_id": "evt_919e352ac59158",
+      "event_key": "control resonant shum arcade guide",
+      "event_subject": "Control Resonant",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "control resonant shum arcade guide",
+        "subject": "Control Resonant",
+        "event_type": "other",
+        "action": "publish",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Control Resonant",
+        "franchise": "Control",
+        "institution": "Control Studios",
+        "target": "Shum Arcade machines locations",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "game_guide"
+      },
+      "modality": "unknown",
+      "topic": "game_guide",
+      "institution": "Control Studios",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-10-01T00:52:08.625612+06:00"
+    },
+    "evt_a1cb7506f39eaa": {
+      "event_id": "evt_a1cb7506f39eaa",
+      "event_key": "fix it up september 2026 codes",
+      "event_subject": "Fix It Up",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fix it up september 2026 codes",
+        "subject": "Fix It Up",
+        "event_type": "other",
+        "action": "publish_codes",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Fix It Up",
+        "franchise": "Fix It Up",
+        "institution": "Roblox",
+        "target": "players",
+        "platforms": [
+          "Roblox"
+        ],
+        "topic": "in‑game_rewards"
+      },
+      "modality": "unknown",
+      "topic": "in‑game_rewards",
+      "institution": "Roblox",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "list of reward codes for September 2026"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 38
+      },
+      "last_seen": "2026-10-01T00:52:08.625617+06:00"
+    },
+    "evt_a5ebdcc51be941": {
+      "event_id": "evt_a5ebdcc51be941",
+      "event_key": "hellraiser revival peaches song contribution",
+      "event_subject": "Peaches",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "hellraiser revival peaches song contribution",
+        "subject": "Peaches",
+        "event_type": "other",
+        "action": "revive_song",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Hellraiser: Revival",
+        "franchise": "Hellraiser: Revival",
+        "institution": "Warner Bros.",
+        "target": "players",
+        "platforms": [],
+        "topic": "soundtrack"
+      },
+      "modality": "unknown",
+      "topic": "soundtrack",
+      "institution": "Warner Bros.",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Peaches revives breakthrough hit for game"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-10-01T00:52:08.625632+06:00"
+    },
+    "evt_3a5965edb6f239": {
+      "event_id": "evt_3a5965edb6f239",
+      "event_key": "dune awakening name interview",
+      "event_subject": "Dune Awakening",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "dune awakening name interview",
+        "subject": "Dune Awakening",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Dune Awakening",
+        "franchise": "Dune",
+        "institution": "Funcom",
+        "target": "game title naming",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "naming"
+      },
+      "modality": "unknown",
+      "topic": "naming",
+      "institution": "Funcom",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-10-01T00:52:08.625636+06:00"
+    },
+    "evt_395c88e1fa52fd": {
+      "event_id": "evt_395c88e1fa52fd",
+      "event_key": "my dino life september codes",
+      "event_subject": "My Dino Life",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "my dino life september codes",
+        "subject": "My Dino Life",
+        "event_type": "other",
+        "action": "publish",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "My Dino Life",
+        "franchise": "My Dino Life",
+        "institution": "My Dino Life",
+        "target": "September 2026 redeem codes",
+        "platforms": [
+          "iOS",
+          "Android"
+        ],
+        "topic": "promotion"
+      },
+      "modality": "unknown",
+      "topic": "promotion",
+      "institution": "My Dino Life",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 37
+      },
+      "last_seen": "2026-10-01T00:52:08.625641+06:00"
+    },
+    "evt_a780bd20c1acfc": {
+      "event_id": "evt_a780bd20c1acfc",
+      "event_key": "deal of the day gaming hardware discounts",
+      "event_subject": "Deal of the Day",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "deal of the day gaming hardware discounts",
+        "subject": "Deal of the Day",
+        "event_type": "other",
+        "action": "list_discounts",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "IGN",
+        "target": "shoppers",
+        "platforms": [],
+        "topic": "sales"
+      },
+      "modality": "unknown",
+      "topic": "sales",
+      "institution": "IGN",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "discounts on Star Wars Galactic Racer, Gears of War LE controller, 300 Hz monitor"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-01T00:52:08.625647+06:00"
+    },
+    "evt_dadacabc4be9d2": {
+      "event_id": "evt_dadacabc4be9d2",
+      "event_key": "resident evil leon kennedy anniversary tribute",
+      "event_subject": "Leon Kennedy",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "resident evil leon kennedy anniversary tribute",
+        "subject": "Leon Kennedy",
+        "event_type": "other",
+        "action": "publish_tribute_article",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "Resident Evil",
+        "franchise": "Resident Evil",
+        "institution": "Capcom",
+        "target": "fans",
+        "platforms": [],
+        "topic": "culture"
+      },
+      "modality": "unknown",
+      "topic": "culture",
+      "institution": "Capcom",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "article commemorating Leon’s death anniversary"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-01T00:52:08.625652+06:00"
+    },
+    "evt_f7b2bf6a855b2b": {
+      "event_id": "evt_f7b2bf6a855b2b",
+      "event_key": "polygon secretlab atlas giveaway",
+      "event_subject": "Polygon",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "polygon secretlab atlas giveaway",
+        "subject": "Polygon",
+        "event_type": "other",
+        "action": "run_giveaway",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Secretlab",
+        "target": "readers",
+        "platforms": [],
+        "topic": "contest"
+      },
+      "modality": "unknown",
+      "topic": "contest",
+      "institution": "Secretlab",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "giveaway of Secretlab ATLAS chair"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-01T00:52:08.625657+06:00"
+    },
+    "evt_2655a89f8b7baf": {
+      "event_id": "evt_2655a89f8b7baf",
+      "event_key": "scrubs season 11 review",
+      "event_subject": "Scrubs",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "scrubs season 11 review",
+        "subject": "Scrubs",
+        "event_type": "review",
+        "action": "review",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Scrubs",
+        "franchise": "Scrubs",
+        "institution": "Netflix",
+        "target": "Season 11 Episodes 1‑2",
+        "platforms": [
+          "Streaming"
+        ],
+        "topic": "tv_review"
+      },
+      "modality": "unknown",
+      "topic": "tv_review",
+      "institution": "Netflix",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-01T00:52:08.625662+06:00"
+    },
+    "evt_18777f770853e4": {
+      "event_id": "evt_18777f770853e4",
+      "event_key": "disclosure day streaming release dates",
+      "event_subject": "Disclosure Day",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "disclosure day streaming release dates",
+        "subject": "Disclosure Day",
+        "event_type": "other",
+        "action": "announce_streaming_dates",
+        "status": "pending",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Warner Bros.",
+        "target": "audience",
+        "platforms": [
+          "Peacock",
+          "Blu‑ray",
+          "DVD"
+        ],
+        "topic": "distribution"
+      },
+      "modality": "unknown",
+      "topic": "distribution",
+      "institution": "Warner Bros.",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "dates for digital, Blu‑ray, DVD releases"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-10-01T00:52:08.625667+06:00"
+    },
+    "evt_60ed61da538cfa": {
+      "event_id": "evt_60ed61da538cfa",
+      "event_key": "paramount plus promo subscription offer",
+      "event_subject": "Paramount+",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "paramount plus promo subscription offer",
+        "subject": "Paramount+",
+        "event_type": "other",
+        "action": "offer_discount",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Paramount",
+        "target": "consumers",
+        "platforms": [],
+        "topic": "pricing"
+      },
+      "modality": "unknown",
+      "topic": "pricing",
+      "institution": "Paramount",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "2‑month premium for $1/month"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-10-01T00:52:08.625672+06:00"
+    },
+    "evt_695e99b41f5e19": {
+      "event_id": "evt_695e99b41f5e19",
+      "event_key": "audible prime day deal",
+      "event_subject": "Audible",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "audible prime day deal",
+        "subject": "Audible",
+        "event_type": "other",
+        "action": "launch",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Amazon",
+        "target": "Prime Day Audible subscription deal",
+        "platforms": [
+          "All"
+        ],
+        "topic": "deal"
+      },
+      "modality": "unknown",
+      "topic": "deal",
+      "institution": "Amazon",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-01T00:52:08.625677+06:00"
+    },
+    "evt_73083717491e49": {
+      "event_id": "evt_73083717491e49",
+      "event_key": "pirates of the caribbean 6 actor idea",
+      "event_subject": "Pirates of the Caribbean",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "pirates of the caribbean 6 actor idea",
+        "subject": "Pirates of the Caribbean",
+        "event_type": "rumor",
+        "action": "suggest",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Disney",
+        "target": "Geoffrey Rush return idea",
+        "platforms": [
+          "All"
+        ],
+        "topic": "casting"
+      },
+      "modality": "unknown",
+      "topic": "casting",
+      "institution": "Disney",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "idea"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-01T00:52:08.625682+06:00"
     }
   },
   "posted_event_ids": [
@@ -57893,7 +61600,18 @@
     "evt_4b33f1add46bfd",
     "evt_b834939af5d701",
     "evt_d1e439d49562a6",
-    "evt_0f073a8ed02830"
+    "evt_0f073a8ed02830",
+    "evt_fa84306aedf7d4",
+    "evt_a285d4999b0618",
+    "evt_8e9aebf8c6cce3",
+    "evt_447c186c146a10",
+    "evt_226f20de9e017c",
+    "evt_eb62430abbe426",
+    "evt_3653ce8e3f1755",
+    "evt_2c370d8ba47c51",
+    "evt_b8ba082547bb6b",
+    "evt_58ead8b05eb9f7",
+    "evt_d664a2f9bf37a2"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -58038,11 +61756,22 @@
     "steam shifts to dynamic personalized discounts starting early 2027",
     "grasshopper manufacture regains independence from netease after studio split",
     "capcom achieves stable 30fps on switch 2 for monster hunter wilds",
-    "zelda 40th anniversary concert tickets go live across europe"
+    "zelda 40th anniversary concert tickets go live across europe",
+    "xbox ceo asha sharma vows no sale amid massive restructuring",
+    "blizzard s new skyborne race stirs design debate in world of warcraft forever",
+    "grasshopper manufacture splits from netease returns to independence",
+    "capcom maps future strategy as resident evil remakes near crossover point",
+    "ea sports hires engineer for unannounced aaa free to play live service title",
+    "ubisoft montreal workers rally to preserve hybrid work amid company wide return to office push",
+    "microsoft s xbox deal for hideo kojima s physint costs far less than expected",
+    "xbox cloud gaming cuts back samsung tv support ends soon",
+    "analyst says cancelled ps5 port of gears of war e day was a missed revenue chance",
+    "modern warfare 4 introduces counter strike style collateral mode",
+    "nintendo packs pokemon legends z a and mega dimension dlc on one switch cartridge"
   ],
   "category_coverage": {
-    "Game Updates": "2026-09-30T19:49:10.731946+06:00",
-    "Major Releases": "2026-09-30T19:48:30.878905+06:00",
+    "Game Updates": "2026-10-01T01:15:03.559467+06:00",
+    "Major Releases": "2026-10-01T01:14:53.599544+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
     "Nintendo": "2026-09-09T21:29:41.864902+06:00",
