@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"2ae9e-D7qK6bvTwbe90udEi7pV+uIfgSc\"",
+      "etag": "W/\"193ef-5uTrnonE9plu8InCy5ELEvSULCA\"",
       "last_modified": null,
-      "last_checked": "2026-10-01T00:50:02.170867+06:00",
+      "last_checked": "2026-10-01T12:50:48.889948+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-01T00:50:02.412051+06:00",
+      "last_checked": "2026-10-01T12:50:49.167005+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6abd59da-aa8\"",
-      "last_modified": "Wed, 30 Sep 2026 18:50:02 GMT",
-      "last_checked": "2026-10-01T00:50:02.719135+06:00",
+      "etag": "\"6abe029b-aac\"",
+      "last_modified": "Thu, 01 Oct 2026 06:50:03 GMT",
+      "last_checked": "2026-10-01T12:50:49.554540+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Wed, 30 Sep 2026 18:35:09 GMT",
-      "last_checked": "2026-10-01T00:50:02.994366+06:00",
+      "last_modified": "Wed, 30 Sep 2026 19:26:32 GMT",
+      "last_checked": "2026-10-01T12:50:50.364422+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6abd51d1-122f\"",
-      "last_modified": "Wed, 30 Sep 2026 18:15:45 GMT",
-      "last_checked": "2026-10-01T00:50:03.302179+06:00",
+      "etag": "\"6abdf9bb-12dc\"",
+      "last_modified": "Thu, 01 Oct 2026 06:12:11 GMT",
+      "last_checked": "2026-10-01T12:50:50.769222+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-01T00:50:03.402928+06:00",
+      "last_checked": "2026-10-01T12:50:50.919907+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-01T00:50:04.143522+06:00",
+      "last_checked": "2026-10-01T12:50:51.873984+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"c8de90bf31882834bd4d64e20d54f0da\"",
-      "last_modified": "Wed, 30 Sep 2026 18:41:38 GMT",
-      "last_checked": "2026-10-01T00:50:04.366216+06:00",
+      "etag": "W/\"606e1e6292208f71a9e9666277b1cfc6\"",
+      "last_modified": "Thu, 01 Oct 2026 01:00:37 GMT",
+      "last_checked": "2026-10-01T12:50:52.104429+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-01T00:50:04.517682+06:00",
+      "last_checked": "2026-10-01T12:50:52.352001+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Wed, 30 Sep 2026 18:24:23 GMT",
-      "last_checked": "2026-10-01T00:50:04.833839+06:00",
+      "last_checked": "2026-10-01T12:50:52.729530+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Wed, 30 Sep 2026 18:50:05 GMT",
-      "last_checked": "2026-10-01T00:50:05.359901+06:00",
+      "last_modified": "Thu, 01 Oct 2026 06:50:53 GMT",
+      "last_checked": "2026-10-01T12:50:53.487497+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"a0eb8ef2b5ab281d5f943a6d0bc576f1\"",
-      "last_modified": "Wed, 30 Sep 2026 18:24:25 GMT",
-      "last_checked": "2026-10-01T00:50:05.520576+06:00",
+      "etag": "W/\"c49cc46aa46bbd426289f976c25246cb\"",
+      "last_modified": "Thu, 01 Oct 2026 06:31:08 GMT",
+      "last_checked": "2026-10-01T12:50:53.592475+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-01T00:50:05.756330+06:00",
+      "last_checked": "2026-10-01T12:50:53.995763+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-01T00:50:06.068072+06:00",
+      "last_checked": "2026-10-01T12:50:54.412111+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-01T00:50:06.462345+06:00",
+      "last_checked": "2026-10-01T12:50:54.937981+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-01T00:50:06.635735+06:00",
-      "fail_count": 38,
+      "last_checked": "2026-10-01T12:50:55.254290+06:00",
+      "fail_count": 39,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"272785ca2e4151cc59b59203d7c9df70\"",
-      "last_modified": "Wed, 30 Sep 2026 14:38:15 GMT",
-      "last_checked": "2026-10-01T00:50:06.695726+06:00",
+      "etag": "W/\"65db8f290dc1b7e060586e29a7905dcb\"",
+      "last_modified": "Wed, 30 Sep 2026 16:13:15 GMT",
+      "last_checked": "2026-10-01T12:50:55.357218+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-01T00:50:06.915234+06:00",
+      "last_checked": "2026-10-01T12:50:55.504980+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-01T00:50:07.030068+06:00",
-      "fail_count": 38,
+      "last_checked": "2026-10-01T12:50:55.709815+06:00",
+      "fail_count": 39,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"35b1d3d0da4b85c1b9be5641141df2eb\"",
-      "last_modified": "Wed, 30 Sep 2026 10:00:00 GMT",
-      "last_checked": "2026-10-01T00:50:07.200924+06:00",
+      "etag": "W/\"26874fc24c848483c7eac736729c46be\"",
+      "last_modified": "Wed, 30 Sep 2026 20:00:00 GMT",
+      "last_checked": "2026-10-01T12:50:55.848206+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -5014,6 +5014,86 @@
       "status": "pending",
       "first_seen": "2026-10-01T00:50:06.727978+06:00",
       "last_seen": "2026-10-01T00:50:06.727980+06:00"
+    },
+    "ign.com/articles/lego-playstation-is-now-available-for-lego-insiders": {
+      "title": "LEGO PlayStation Is Now Available for LEGO Insiders",
+      "url": "https://www.ign.com/articles/lego-playstation-is-now-available-for-lego-insiders",
+      "canonical": "ign.com/articles/lego-playstation-is-now-available-for-lego-insiders",
+      "published_dt": "2026-10-01T10:01:00+06:00",
+      "published_date": "2026-10-01T10:01:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "LEGO PlayStation is now available for LEGO Insiders, and it comes with a free Astro Bot Set. Here's how to become and Insider for free.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/30/lego-playstation-1790778717610.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T12:50:48.938874+06:00",
+      "last_seen": "2026-10-01T12:50:48.938878+06:00"
+    },
+    "pcgamer.com/games/fallout/were-probably-not-getting-a-new-fallout-game-until-well-into-the-2030s-but-thats-no-reason-to-stop-talking-about-them": {
+      "title": "We're probably not getting a new Fallout game until well into the 2030s, but that's no reason to stop talking about them",
+      "url": "https://www.pcgamer.com/games/fallout/were-probably-not-getting-a-new-fallout-game-until-well-into-the-2030s-but-thats-no-reason-to-stop-talking-about-them/",
+      "canonical": "pcgamer.com/games/fallout/were-probably-not-getting-a-new-fallout-game-until-well-into-the-2030s-but-thats-no-reason-to-stop-talking-about-them",
+      "published_dt": "2026-10-01T10:53:31+06:00",
+      "published_date": "2026-10-01T10:53:31+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "The bombs may fall for real before then.",
+      "image": "https://cdn.mos.cms.futurecdn.net/TxPLTFNUbWPRLUQ6DhUZK9-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T12:50:51.451994+06:00",
+      "last_seen": "2026-10-01T12:50:51.451998+06:00"
+    },
+    "polygon.com/peppermint-patty-best-friend-charlie-brown-peanuts": {
+      "title": "60 Years After Her Peanuts Debut, Peppermint Patty Is Still the Best Friend Charlie Brown Ever Had",
+      "url": "https://www.polygon.com/peppermint-patty-best-friend-charlie-brown-peanuts/",
+      "canonical": "polygon.com/peppermint-patty-best-friend-charlie-brown-peanuts",
+      "published_dt": "2026-10-01T10:00:20+06:00",
+      "published_date": "2026-10-01T10:00:20+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Marcie, Patty, and Chuck could've been a dream team",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/peppermint-patty-charlie-brown-a-charlie-brown-valentine.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T12:50:51.879813+06:00",
+      "last_seen": "2026-10-01T12:50:51.879817+06:00"
+    },
+    "insider-gaming.com/valorant-champions-tech-issues-wired-mouse": {
+      "title": "Riot Asks Valorant Champions Players to Use A Wired Mouse After Tech Issues",
+      "url": "https://insider-gaming.com/valorant-champions-tech-issues-wired-mouse/",
+      "canonical": "insider-gaming.com/valorant-champions-tech-issues-wired-mouse",
+      "published_dt": "2026-10-01T12:08:46+06:00",
+      "published_date": "2026-10-01T12:08:46+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Riot Games has asked players at Valorant Champions Shanghai to use a wired computer mouse after technical difficulties have plagued the event. The post Riot Asks Valorant Champions Players to Use A Wired Mouse After Tech Issues appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-01T12:50:53.599824+06:00",
+      "last_seen": "2026-10-01T12:50:53.599828+06:00"
+    },
+    "polygon.com/ridley-scott-the-dog-stars-movie-box-office-loss-theaters": {
+      "title": "Ridley Scott’s New Sci-Fi Flop Officially Removed From Thousands of Movie Theaters",
+      "url": "https://www.polygon.com/ridley-scott-the-dog-stars-movie-box-office-loss-theaters/",
+      "canonical": "polygon.com/ridley-scott-the-dog-stars-movie-box-office-loss-theaters",
+      "published_dt": "2026-10-01T12:30:15+06:00",
+      "published_date": "2026-10-01T12:30:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-10-01T12:51:03.459782+06:00",
+      "last_seen": "2026-10-01T12:51:03.459785+06:00"
     }
   },
   "events": {
@@ -61455,6 +61535,203 @@
         "total": 30
       },
       "last_seen": "2026-10-01T00:52:08.625682+06:00"
+    },
+    "evt_bf62e16684f4d2": {
+      "event_id": "evt_bf62e16684f4d2",
+      "event_key": "riot valorant champions wired mouse request 2026",
+      "event_subject": "Valorant Champions Shanghai",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "riot valorant champions wired mouse request 2026",
+        "subject": "Valorant Champions Shanghai",
+        "event_type": "other",
+        "action": "request_use_of_wired_mouse",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "Valorant",
+        "franchise": "Valorant",
+        "institution": "Riot Games",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "technical_issues"
+      },
+      "modality": "unknown",
+      "topic": "technical_issues",
+      "institution": "Riot Games",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-10-01T12:54:00.464088+06:00"
+    },
+    "evt_722865d44865a3": {
+      "event_id": "evt_722865d44865a3",
+      "event_key": "fallout future speculation 2030s 2026",
+      "event_subject": "Fallout franchise",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fallout future speculation 2030s 2026",
+        "subject": "Fallout franchise",
+        "event_type": "other",
+        "action": "speculate_future_release",
+        "status": "speculative",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Fallout",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "future_release"
+      },
+      "modality": "unknown",
+      "topic": "future_release",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-10-01T12:54:00.464109+06:00"
+    },
+    "evt_5c44d5eea30198": {
+      "event_id": "evt_5c44d5eea30198",
+      "event_key": "lego playstation insider release 2026",
+      "event_subject": "LEGO PlayStation set",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "lego playstation insider release 2026",
+        "subject": "LEGO PlayStation set",
+        "event_type": "other",
+        "action": "made_available",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "LEGO",
+        "institution": "LEGO",
+        "target": "LEGO Insiders",
+        "platforms": [],
+        "topic": "insider_rewards"
+      },
+      "modality": "unknown",
+      "topic": "insider_rewards",
+      "institution": "LEGO",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-01T12:54:00.464116+06:00"
+    },
+    "evt_68247076351e60": {
+      "event_id": "evt_68247076351e60",
+      "event_key": "ridley scott film removal 2026",
+      "event_subject": "Ridley Scott’s new sci‑fi film",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ridley scott film removal 2026",
+        "subject": "Ridley Scott’s new sci‑fi film",
+        "event_type": "other",
+        "action": "removed_from_theaters",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Ridley Scott",
+        "target": "movie_theaters",
+        "platforms": [],
+        "topic": "film_distribution"
+      },
+      "modality": "unknown",
+      "topic": "film_distribution",
+      "institution": "Ridley Scott",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-10-01T12:54:00.464122+06:00"
+    },
+    "evt_5108391fd0e6ac": {
+      "event_id": "evt_5108391fd0e6ac",
+      "event_key": "peanuts 60th anniversary character feature 2026",
+      "event_subject": "Peppermint Patty (Peanuts)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "peanuts 60th anniversary character feature 2026",
+        "subject": "Peppermint Patty (Peanuts)",
+        "event_type": "other",
+        "action": "highlight_character",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Peanuts",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "character_anniversary"
+      },
+      "modality": "unknown",
+      "topic": "character_anniversary",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-10-01T12:54:00.464126+06:00"
     }
   },
   "posted_event_ids": [
