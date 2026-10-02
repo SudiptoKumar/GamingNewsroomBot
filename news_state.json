@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1a10c-9fpMYR2Fyw05dLAgEAtwY4zjz14\"",
+      "etag": "W/\"1cee0-o4igWDNN1A8iVznw7PjjlzluzJc\"",
       "last_modified": null,
-      "last_checked": "2026-10-02T12:42:17.513634+06:00",
+      "last_checked": "2026-10-02T19:34:36.475824+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-02T12:42:17.782819+06:00",
+      "last_checked": "2026-10-02T19:34:36.668383+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6abf51c4-ad8\"",
-      "last_modified": "Fri, 02 Oct 2026 06:40:04 GMT",
-      "last_checked": "2026-10-02T12:42:18.178834+06:00",
+      "etag": "\"6abfb1db-b40\"",
+      "last_modified": "Fri, 02 Oct 2026 13:30:03 GMT",
+      "last_checked": "2026-10-02T19:34:37.073619+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Thu, 01 Oct 2026 15:11:16 GMT",
-      "last_checked": "2026-10-02T12:42:18.501312+06:00",
+      "last_modified": "Fri, 02 Oct 2026 13:14:39 GMT",
+      "last_checked": "2026-10-02T19:34:37.794535+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6abf4bce-122d\"",
-      "last_modified": "Fri, 02 Oct 2026 06:14:38 GMT",
-      "last_checked": "2026-10-02T12:42:18.858761+06:00",
+      "etag": "\"6abf9fdf-122e\"",
+      "last_modified": "Fri, 02 Oct 2026 12:13:19 GMT",
+      "last_checked": "2026-10-02T19:34:38.165499+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-02T12:42:19.052752+06:00",
+      "last_checked": "2026-10-02T19:34:38.399799+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-02T12:42:19.671916+06:00",
+      "last_checked": "2026-10-02T19:34:39.035487+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"e62cd9f4d68c165aeef764e1bd92df03\"",
-      "last_modified": "Fri, 02 Oct 2026 00:00:13 GMT",
-      "last_checked": "2026-10-02T12:42:19.975364+06:00",
+      "etag": "W/\"0cb4e66ad17aff3f16ee41e5acda06b0\"",
+      "last_modified": "Fri, 02 Oct 2026 13:15:10 GMT",
+      "last_checked": "2026-10-02T19:34:39.254314+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-02T12:42:20.127330+06:00",
+      "last_checked": "2026-10-02T19:34:39.568694+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Thu, 1 Oct 2026 16:46:10 GMT",
-      "last_checked": "2026-10-02T12:42:20.656179+06:00",
+      "last_modified": "Fri, 2 Oct 2026 13:22:10 GMT",
+      "last_checked": "2026-10-02T19:34:40.240036+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Fri, 02 Oct 2026 06:42:21 GMT",
-      "last_checked": "2026-10-02T12:42:21.072169+06:00",
+      "last_modified": "Fri, 02 Oct 2026 13:34:41 GMT",
+      "last_checked": "2026-10-02T19:34:41.803861+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"ba42457d57879a16b3f94345412f595a\"",
-      "last_modified": "Fri, 02 Oct 2026 02:39:24 GMT",
-      "last_checked": "2026-10-02T12:42:21.221697+06:00",
+      "etag": "W/\"3d0ae671b319f071383d2c17c4e62679\"",
+      "last_modified": "Fri, 02 Oct 2026 13:26:24 GMT",
+      "last_checked": "2026-10-02T19:34:41.931968+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-02T12:42:21.544427+06:00",
+      "last_checked": "2026-10-02T19:34:42.366215+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-02T12:42:21.985669+06:00",
+      "last_checked": "2026-10-02T19:34:42.769353+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-02T12:42:22.498812+06:00",
+      "last_checked": "2026-10-02T19:34:43.301397+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-02T12:42:22.739121+06:00",
-      "fail_count": 41,
+      "last_checked": "2026-10-02T19:34:43.616798+06:00",
+      "fail_count": 42,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"f8de472db546d78980cfbfb57b6e4d26\"",
-      "last_modified": "Thu, 01 Oct 2026 17:22:36 GMT",
-      "last_checked": "2026-10-02T12:42:22.892874+06:00",
+      "etag": "W/\"eec2d3c01dc4659272dbaff589e77d5d\"",
+      "last_modified": "Mon, 28 Sep 2026 18:22:13 GMT",
+      "last_checked": "2026-10-02T19:34:43.739909+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-02T12:42:23.135823+06:00",
+      "last_checked": "2026-10-02T19:34:43.888559+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-02T12:42:23.297402+06:00",
-      "fail_count": 41,
+      "last_checked": "2026-10-02T19:34:44.100626+06:00",
+      "fail_count": 42,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"7ef200d8980686480a5bdbf724256d8b\"",
-      "last_modified": "Thu, 01 Oct 2026 20:00:00 GMT",
-      "last_checked": "2026-10-02T12:42:23.532398+06:00",
+      "etag": "W/\"9457e0275d073147681ba123c307878d\"",
+      "last_modified": "Fri, 02 Oct 2026 10:00:00 GMT",
+      "last_checked": "2026-10-02T19:34:44.264600+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -6172,6 +6172,862 @@
       "status": "pending",
       "first_seen": "2026-10-02T12:42:21.556472+06:00",
       "last_seen": "2026-10-02T12:42:21.556474+06:00"
+    },
+    "ign.com/articles/kingdom-come-deliverance-co-founder-gta-6-price": {
+      "title": "Kingdom Come: Deliverance Dev Hopes GTA 6 Will Encourage Studios to Charge More for Their Games",
+      "url": "https://www.ign.com/articles/kingdom-come-deliverance-co-founder-gta-6-price",
+      "canonical": "ign.com/articles/kingdom-come-deliverance-co-founder-gta-6-price",
+      "published_dt": "2026-10-02T18:27:28+06:00",
+      "published_date": "2026-10-02T18:27:28+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Warhorse co-founder Martin Klima wants GTA 6 to “blaze a trail” for higher game prices.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/15/untitled-design-1789479855761.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:36.520778+06:00",
+      "last_seen": "2026-10-02T19:34:36.520783+06:00"
+    },
+    "ign.com/articles/ben-affleck-says-theres-nobody-alive-who-believes-us-politics-is-going-well-and-explains-why-he-wont-personally-run-for-office": {
+      "title": "Ben Affleck Says There's 'Nobody Alive' Who Believes US Politics is Going Well — And Explains Why He Won't Personally Run for Office",
+      "url": "https://www.ign.com/articles/ben-affleck-says-theres-nobody-alive-who-believes-us-politics-is-going-well-and-explains-why-he-wont-personally-run-for-office",
+      "canonical": "ign.com/articles/ben-affleck-says-theres-nobody-alive-who-believes-us-politics-is-going-well-and-explains-why-he-wont-personally-run-for-office",
+      "published_dt": "2026-10-02T18:08:15+06:00",
+      "published_date": "2026-10-02T18:08:15+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Former Batman Ben Affleck has revealed the reason he won't run for political office, despite claiming there is a \"collective disappointment\" in how U.S. politics is currently trending.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/02/gettyimages-2297607254-1790942302316.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:36.520907+06:00",
+      "last_seen": "2026-10-02T19:34:36.520909+06:00"
+    },
+    "ign.com/articles/original-xbox-version-of-halo-combat-evolved-made-available-to-play-in-a-browser": {
+      "title": "Original Xbox Version of Halo: Combat Evolved Made Available to Play in a Browser",
+      "url": "https://www.ign.com/articles/original-xbox-version-of-halo-combat-evolved-made-available-to-play-in-a-browser",
+      "canonical": "ign.com/articles/original-xbox-version-of-halo-combat-evolved-made-available-to-play-in-a-browser",
+      "published_dt": "2026-10-02T18:07:39+06:00",
+      "published_date": "2026-10-02T18:07:39+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "The original Xbox version of Halo: Combat Evolved has been made available to play in a web browser.",
+      "image": "https://assets-prd.ignimgs.com/2024/06/06/halospeedrunblogroll-1533336736758-1717694718988.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:36.521000+06:00",
+      "last_seen": "2026-10-02T19:34:36.521002+06:00"
+    },
+    "ign.com/articles/star-wars-galactic-racer-review": {
+      "title": "Star Wars: Galactic Racer Review",
+      "url": "https://www.ign.com/articles/star-wars-galactic-racer-review",
+      "canonical": "ign.com/articles/star-wars-galactic-racer-review",
+      "published_dt": "2026-10-02T18:00:00+06:00",
+      "published_date": "2026-10-02T18:00:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Star Wars: Galactic Racer is a fabulous looking and frantically fast anti-grav racer that gets a little repetitive thanks to its heavy reliance on repeatedly revisiting the same slim selection of planets, but has successfully lit the afterburners on a long-dormant slice of the Star Wars universe.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/02/starwarsgalacticracer-blogroll-03-1790927333744.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:36.521080+06:00",
+      "last_seen": "2026-10-02T19:34:36.521083+06:00"
+    },
+    "ign.com/articles/ive-buried-it-deep-x-men-actor-says-he-knew-sonys-spider-man-spinoff-kraven-wasnt-going-well-during-filming": {
+      "title": "'I've Buried It Deep': X-Men Actor Says He Knew Sony's Spider-Man Spinoff Kraven Wasn't 'Going Well' During Filming",
+      "url": "https://www.ign.com/articles/ive-buried-it-deep-x-men-actor-says-he-knew-sonys-spider-man-spinoff-kraven-wasnt-going-well-during-filming",
+      "canonical": "ign.com/articles/ive-buried-it-deep-x-men-actor-says-he-knew-sonys-spider-man-spinoff-kraven-wasnt-going-well-during-filming",
+      "published_dt": "2026-10-02T17:07:20+06:00",
+      "published_date": "2026-10-02T17:07:20+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Marvel's new X-Men movie star Christopher Abbott has admitted that he knew Sony's Spider-Man spinoff Kraven the Hunter wasn't \"going well\" while on set.",
+      "image": "https://assets-prd.ignimgs.com/2024/12/12/mixcollage-12-dec-2024-02-01-pm-37-1734030145865.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:36.521171+06:00",
+      "last_seen": "2026-10-02T19:34:36.521174+06:00"
+    },
+    "ign.com/articles/robert-pattinson-transformers-definitive-movie-2000s": {
+      "title": "With a Smirk, Robert Pattinson Calls Michael Bay's Transformers 'The Definitive Movie of the 2000s'",
+      "url": "https://www.ign.com/articles/robert-pattinson-transformers-definitive-movie-2000s",
+      "canonical": "ign.com/articles/robert-pattinson-transformers-definitive-movie-2000s",
+      "published_dt": "2026-10-02T17:05:49+06:00",
+      "published_date": "2026-10-02T17:05:49+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "On YouTube show The List, presented by movie publisher A24 and Letterboxd, Robert Pattinson and Lance Oppenheim chatted about their favorite movies. During the chat, Pattinson namedropped Michael Bay’s Transformers as “the definitive movie of the 2000s.”",
+      "image": "https://assets-prd.ignimgs.com/2026/10/02/gettyimages-2295237933-2-1790939013758.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:36.521252+06:00",
+      "last_seen": "2026-10-02T19:34:36.521254+06:00"
+    },
+    "gamespot.com/articles/blizzard-might-finally-be-serious-about-wow-forever-gold-buying-bans-streamer-for-promoting-it": {
+      "title": "Blizzard Might Finally Be Serious About WoW: Forever Gold Buying, Bans Streamer For Promoting It",
+      "url": "https://www.gamespot.com/articles/blizzard-might-finally-be-serious-about-wow-forever-gold-buying-bans-streamer-for-promoting-it/",
+      "canonical": "gamespot.com/articles/blizzard-might-finally-be-serious-about-wow-forever-gold-buying-bans-streamer-for-promoting-it",
+      "published_dt": "2026-10-02T19:13:31+06:00",
+      "published_date": "2026-10-02T19:13:31+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "A prominent World of Warcraft: Forever streamer has been banned following comments made on stream encouraging his viewers to buy gold on his behalf. Forever, which is currently in beta ahead of the MMORPG's full launch in November, is currently mired in a gold buying and real-money transaction (RMT) controversy. Players buying gold from third-party websites that use bots to farm the game's primary currency has been a problem for the entirety of WoW's existence and has always been against the game's terms of service. What's changed is that developer Blizzard has made comments that it's looking to more aggressively punish gold buyers in Forever, even going as far to admit its been too \"lenient\" on the matter in the past. That more hardline stance against gold buyers was put to the test earlier this week when WoW: Forever streamer Ziqo was seen on stream accepting suspiciously large amounts of gold from strangers in the lead-up to a $100,000 prize pool PvP tournament he and many other streamers will be competing in. Given the huge sums of gold being traded, many believed there was little chance the gold had been acquired naturally through farming and was likely bought by a third party and then given to Ziqo as a gift. https://youtu.be/dvueCoFTkCk?si=YqPAFYzvWt5J5WiC Almost immediately, the Forever community was up in arms demanding Blizzard take action. In a forum post seemingly issued in response to the Ziqo controversy, Blizzard stated that it would increasingly punish not only gold sellers, its standard practice, but also those buying the gold. In addition, accounts accepting large amounts of questionable gold could also be punished by having the illicit gold removed, their account suspended, or even permanently banned. Blizzard encouraged players not to accept \"suspicious\" transactions to avoid these consequences. Even if Ziqo wasn't the buyer, according to Blizzard's own words, he could in theory be punished for taking what many viewed to be ill-gained gold. That ",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Streamer-Ban.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-02T19:34:36.750832+06:00",
+      "last_seen": "2026-10-02T19:34:36.750840+06:00",
+      "posted_at": "2026-10-02T19:56:15.796784+06:00"
+    },
+    "gamespot.com/articles/disney-responds-to-rumor-that-it-could-buy-fortnite-studio-epic-games": {
+      "title": "Disney Responds To Rumor That It Could Buy Fortnite Studio Epic Games",
+      "url": "https://www.gamespot.com/articles/disney-responds-to-rumor-that-it-could-buy-fortnite-studio-epic-games/",
+      "canonical": "gamespot.com/articles/disney-responds-to-rumor-that-it-could-buy-fortnite-studio-epic-games",
+      "published_dt": "2026-10-02T19:08:05+06:00",
+      "published_date": "2026-10-02T19:08:05+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "One juicy gaming rumor that continues to swirl is that The Walt Disney Company could buy Epic Games and Fortnite. It remains to be seen if such a deal may materialize, and now a top boss at the House of Mouse has directly responded. Speaking at Bloomberg's Screentime event this week, Disney executive Dana Walden reminded everyone that Disney already i nvested more than $1.5 billion into Epic for an equity stake . But could talks progress to a full acquisition? \"Those are not the conversations we're having right now,\" Walden said. \"But we have a great partnership.\" Disney and Epic are working together to create “transformational” new games . So far, they have showed up in Fortnite in a variety of ways, including the recent integration of Fortnite at Disney's real-world parks . https://www.youtube.com/watch?v=Yf2bRcSIUsE Walden said people can look forward to even more to come in the next few years. \"A number of launches coming up over the next two years ... are going to demonstrate the value of this partnership,\" she said. Kevin Mayer–a former Disney and TikTok executive who now runs Candle Media–said Disney's new CEO, Josh D’Amaro, will need to take “bold steps” to help Disney make more money and grow its stock price. One part of this could be buying Epic Games or another game studio , he said. Technology reporter Alex Heath recently said on Matthew Belloni’s podcast, The Town , that he knows “for a fact” that some senior executives at Disney want to buy Epic Games and are waiting for the right moment. Other executives at Disney believe it would be a bad idea, Heath said. Epic Games is a founder-controlled company, with CEO Tim Sweeney retaining full voting stock control. He has the ability to make unilateral decisions to control and secure Epic's future. Epic would not be Disney’s first potential acquisition target. In 2023, it was reported that Disney was interested in pursuing a purchase of Electronic Arts , but nothing ever came of that, and now EA has been sold",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Screenshot-2026-10-02-at-8.22.42-AM.png?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:36.751606+06:00",
+      "last_seen": "2026-10-02T19:34:36.751610+06:00"
+    },
+    "gamespot.com/articles/the-street-fighter-movie-most-obscure-easter-egg-is-for-true-fighting-game-nerds": {
+      "title": "The Street Fighter Movie’s Most Obscure Easter Egg Is For True Fighting Game Nerds",
+      "url": "https://www.gamespot.com/articles/the-street-fighter-movie-most-obscure-easter-egg-is-for-true-fighting-game-nerds/",
+      "canonical": "gamespot.com/articles/the-street-fighter-movie-most-obscure-easter-egg-is-for-true-fighting-game-nerds",
+      "published_dt": "2026-10-02T18:45:47+06:00",
+      "published_date": "2026-10-02T18:45:47+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Ahead of its release later this month, marketing for the Street Fighter movie has focused on deep references to the long-running fighting game series. How deep? We already knew that fighting game legend Justin Wong--alongside Michael \"IFC Yipes\" Mendoza--was making a cameo as one of the inmates who watches Ryu take on Blanka in a prison fight , but even his prisoner costume hides one heck of an Easter egg. Any fighting game fan will instantly recognize it: on Wong's neck, you can spot the number 37, a reference to the legendary Evo Moment 37 . In a new behind-the-scenes video, Wong detailed the time he spent on the Street Fighter movie set getting fake dirt and dressing up for his cameo. If you're unfamiliar with the significance of the fake 37 tattoo his character sports, it's a deep-cut nod to what many consider one of the greatest fighting game comebacks in history. Back in 2004, Wong faced off against Daigo Umehara, and with his chosen brawler, Chun-Li, down to just a sliver of health and backed into a corner, Wong parried over a dozen attacks from Umehara's Ken Masters and found the perfect window to counter the onslaught. https://youtu.be/ssipFrggf58 It's a moment that has yet to be equaled within the fighting game community, with the clip earning an obscene number of views over the decades. This is just the tip of the iceberg when it comes to the accuracy the Street Fighter movie is aiming for, as the film embraces the unique look of the Capcom games with its choice of costumes, special attacks, and goofy hairstyles that double as the perfect popcorn bucket . Chun-Li actress Callina Liang even went the extra mile to get into fighting shape for the movie, focusing on conditioning her thighs to look impressively muscular and memorizing Chun-Li's various attacks. On the audio side, composers Leo Birenberg and Zach Robinson (Cobra Kai) have even used classic video game soundtracks for the film's score, including a new version of Guile's theme that fits everything",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/street-Fighter-37.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:36.752513+06:00",
+      "last_seen": "2026-10-02T19:34:36.752517+06:00"
+    },
+    "gamespot.com/articles/activision-could-be-giving-halo-something-it-hasnt-had-in-years-a-clean-slate": {
+      "title": "Activision Could Be Giving Halo Something It Hasn’t Had In Years: A Clean Slate",
+      "url": "https://www.gamespot.com/articles/activision-could-be-giving-halo-something-it-hasnt-had-in-years-a-clean-slate/",
+      "canonical": "gamespot.com/articles/activision-could-be-giving-halo-something-it-hasnt-had-in-years-a-clean-slate",
+      "published_dt": "2026-10-02T18:26:54+06:00",
+      "published_date": "2026-10-02T18:26:54+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Halo has a new home at Activision following recent changes at Xbox , and while it's still early days, Activision has reportedly proposed a total reboot for the series. This would be a fresh start, moving away from the convoluted Halo lore built up over the last 25 years through various games and spin-off media. That's according to sources who spoke to Rebs Gaming, who also stressed that nothing is concrete right now. Call of Duty developer Sledgehammer Games presented conceptual prototypes for a free-to-play multiplayer game and a story campaign built in the Infinity Ward engine, and it's believed the studio will lead development. \"Activision is building a development team for the next Halo game, and based on my information, that team could be built within Sledgehammer Games. I'm also told they created the prototypes in the Infinity Ward engine. This doesn't confirm the game will be developed in Call of Duty's engine instead of Unreal Engine, but the prototypes indicate it's definitely possible. Apparently, Activision's idea for the campaign project was a soft reboot that doesn't follow Halo Infinite's story, but also doesn't retcon established canon,\" Rebs Gaming said. \"However, it sounds like plans are changing. I'm told they discarded their original project ideas for a full Halo game.\" https://youtu.be/wPWqTRrCgX0 Rebs Gaming added that this means a sequel to Halo Infinite is unlikely and that \"at least some of Halo's story\" will be rebooted. One major criticism of Halo after its original developer, Bungie, left the franchise and handed it over to 343 Industries/Halo Studios was that the franchise shifted away from telling standalone stories. Halo books and media were supplementary material that added to the franchise, but weren't essential to the overall narrative. But with Halo Studios, there was a period of mandatory homework for fans as novels, comics, and spin-off games featured crucial plot points and new characters. For example, the Forerunner history in H",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Halo-CE.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:36.753010+06:00",
+      "last_seen": "2026-10-02T19:34:36.753013+06:00"
+    },
+    "gamespot.com/videos/i-cant-believe-a-silly-star-wars-racing-roguelite-is-one-of-my-favorite-games-this-year-review": {
+      "title": "I Can’t Believe A Silly Star Wars Racing Roguelite Is One Of My Favorite Games This Year – Review",
+      "url": "https://www.gamespot.com/videos/i-cant-believe-a-silly-star-wars-racing-roguelite-is-one-of-my-favorite-games-this-year-review/",
+      "canonical": "gamespot.com/videos/i-cant-believe-a-silly-star-wars-racing-roguelite-is-one-of-my-favorite-games-this-year-review",
+      "published_dt": "2026-10-02T18:00:00+06:00",
+      "published_date": "2026-10-02T18:00:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "I never would have guessed that putting roguelike elements into a racer would create a winning formula. I felt such a sense of whiplash jumping into Star Wars Galactic Racer from Zero Company. Unlike Zero Company--and plenty of the other Star Wars games we've gotten in recent years, like Survivor and Squadrons--Galactic Racer isn't trying to emulate the science-fantasy drama that defines the majority of the Star Wars movies and other assorted fiction.",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/SITE-5.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:36.753153+06:00",
+      "last_seen": "2026-10-02T19:34:36.753155+06:00"
+    },
+    "gamespot.com/reviews/i-cannot-believe-silly-star-wars-racing-roguelite-is-one-of-my-favorite-games-in-2026": {
+      "title": "I Can’t Believe A Silly Star Wars Racing Roguelite Is One Of My Favorite Games This Year",
+      "url": "https://www.gamespot.com/reviews/i-cannot-believe-silly-star-wars-racing-roguelite-is-one-of-my-favorite-games-in-2026/",
+      "canonical": "gamespot.com/reviews/i-cannot-believe-silly-star-wars-racing-roguelite-is-one-of-my-favorite-games-in-2026",
+      "published_dt": "2026-10-02T18:00:00+06:00",
+      "published_date": "2026-10-02T18:00:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "I felt such a sense of whiplash jumping into Star Wars Galactic Racer after playing Zero Company . Unlike Zero Company--and plenty of the other Star Wars games we've gotten in recent years, like Survivor and Squadrons --Galactic Racer isn't trying to emulate the science-fantasy drama that defines the majority of the Star Wars movies and other assorted fiction. Instead, it's silly. We're not making morally gray decisions in a fight against an evil empire here. No, we're trying to win a racing league in order to dethrone the comically evil rich competitor mounting some kind of hostile takeover of the league. Oh, and we have an infinite number of chances to qualify, and protagonist Shade can walk away from the most violent of wrecks without a scratch. It's such a ludicrous situation that makes no sense if you think through the logistics of it for even a moment. And yet that very absurdity is exactly what racing in the Star Wars universe is all about. It sees competitors strapping themselves into barely functioning death machines to jockey against each other at breakneck speeds while soaring past lava, through narrow desert canyons, over acid-filled valleys, and alongside icy cliffs to the cheers and jeers of a bloodthirsty audience. Everything about the competition is comically ridiculous, and by leaning into that irrationality, Galactic Racer not only feels authentic to that fantasy, but it's also a hilariously good time. You race through the game as Shade, a former-racer-turned-cargo-pilot, who finds themselves brought back into the sport as both a favor to the league's commissioner and as a means of seeking revenge against Kestar Bool, an arrogant champion who wronged Shade in the past. Galactic Racer doesn't do too much to set up the stakes for this plot, framing Shade's revenge through a lens of a mystery. What did Kestar do to Shade? Why does Shade always wear a helmet? Why is it so important for Shade to get Kestar to remember who they are beneath that helmet? D",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Screenshot-2026-10-01-115839.png?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:36.754268+06:00",
+      "last_seen": "2026-10-02T19:34:36.754280+06:00"
+    },
+    "videogameschronicle.com/news/dynasty-warriors-producer-says-hed-rather-not-make-more-remasters-because-he-doesnt-know-how-many-more-games-he-has-left": {
+      "title": "Dynasty Warriors producer says he’d rather not make more remasters, because he doesn’t know how many more games he has left",
+      "url": "https://www.videogameschronicle.com/news/dynasty-warriors-producer-says-hed-rather-not-make-more-remasters-because-he-doesnt-know-how-many-more-games-he-has-left/",
+      "canonical": "videogameschronicle.com/news/dynasty-warriors-producer-says-hed-rather-not-make-more-remasters-because-he-doesnt-know-how-many-more-games-he-has-left",
+      "published_dt": "2026-10-02T18:32:24+06:00",
+      "published_date": "2026-10-02T18:32:24+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Tomohiko Sho says he'd rather make new games or sequels now he's in his fifties",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:37.080440+06:00",
+      "last_seen": "2026-10-02T19:34:37.080444+06:00"
+    },
+    "videogameschronicle.com/news/memory-maker-warns-shortages-will-get-worse-in-2027-as-ceo-celebrates-much-higher-prices": {
+      "title": "Memory maker warns shortages will get worse in 2027, as CEO celebrates ‘much higher prices’",
+      "url": "https://www.videogameschronicle.com/news/memory-maker-warns-shortages-will-get-worse-in-2027-as-ceo-celebrates-much-higher-prices/",
+      "canonical": "videogameschronicle.com/news/memory-maker-warns-shortages-will-get-worse-in-2027-as-ceo-celebrates-much-higher-prices",
+      "published_dt": "2026-10-02T18:27:20+06:00",
+      "published_date": "2026-10-02T18:27:20+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Micron says memory demand will exceed supply through 2028, driving higher prices",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-02T19:34:37.080555+06:00",
+      "last_seen": "2026-10-02T19:34:37.080558+06:00",
+      "posted_at": "2026-10-02T19:56:00.136657+06:00"
+    },
+    "videogameschronicle.com/review/star-wars-galactic-racer-review": {
+      "title": "Star Wars Galactic Racer review: Somehow, Burnout returns in a modern racing classic",
+      "url": "https://www.videogameschronicle.com/review/star-wars-galactic-racer-review/",
+      "canonical": "videogameschronicle.com/review/star-wars-galactic-racer-review",
+      "published_dt": "2026-10-02T18:00:18+06:00",
+      "published_date": "2026-10-02T18:00:18+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "The thrilling throwback to arcade racing's glory days wows with visual might and a great single-player offering",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-02T19:34:37.080660+06:00",
+      "last_seen": "2026-10-02T19:34:37.080663+06:00",
+      "posted_at": "2026-10-02T19:55:54.820567+06:00"
+    },
+    "videogameschronicle.com/news/skyrim-lead-designer-says-he-hopes-the-elder-scrolls-6-adds-boats-and-naval-combat-as-it-would-be-a-natural-fit": {
+      "title": "Skyrim lead designer says he hopes The Elder Scrolls 6 adds boats and naval combat, as it would be a ‘natural’ fit",
+      "url": "https://www.videogameschronicle.com/news/skyrim-lead-designer-says-he-hopes-the-elder-scrolls-6-adds-boats-and-naval-combat-as-it-would-be-a-natural-fit/",
+      "canonical": "videogameschronicle.com/news/skyrim-lead-designer-says-he-hopes-the-elder-scrolls-6-adds-boats-and-naval-combat-as-it-would-be-a-natural-fit",
+      "published_dt": "2026-10-02T16:59:18+06:00",
+      "published_date": "2026-10-02T16:59:18+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "\"That would be a dragon-level feature,\" Bruce Nesmith says",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:37.080759+06:00",
+      "last_seen": "2026-10-02T19:34:37.080761+06:00"
+    },
+    "eurogamer.net/halo-activision-rumours-slegehammer-games-reboot": {
+      "title": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge",
+      "url": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
+      "canonical": "eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
+      "published_dt": "2026-10-02T19:14:39+06:00",
+      "published_date": "2026-10-02T19:14:39+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "We recently learned that Microsoft gave development of its next Halo game to Activision , where \"a new purpose-built team\" - separate from the teams working on Call of Duty - has been created to oversee the franchise going forward. Now, in a report from well-known Halo and Xbox insider Rebs Gaming , a possible timeline about how the process progressed internally at Microsoft has started to take form. And the report suggests that Activision's take on Xbox's premiere sci-fi shooter will be a reboot of the series  -one that possibly explores Master Chief's origins. Read more",
+      "image": "https://assetsio.gnwcdn.com/Halo-COD.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-02T19:34:37.863396+06:00",
+      "last_seen": "2026-10-02T19:34:37.863402+06:00",
+      "posted_at": "2026-10-02T19:56:11.059709+06:00"
+    },
+    "eurogamer.net/star-wars-galactic-racer-review": {
+      "title": "Star Wars: Galactic Racer review",
+      "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
+      "canonical": "eurogamer.net/star-wars-galactic-racer-review",
+      "published_dt": "2026-10-02T19:00:00+06:00",
+      "published_date": "2026-10-02T19:00:00+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "A few years ago, I had the chance to ask Alex Ward, the co-founder of Criterion Games, about the driving model for the Burnout series. I had heard from a friend that beneath the arcadey immediacy lay physics of rare nuance and beauty. I was reverent in my questioning, even if I was slightly clueless - is it a driving model or a handling model or a physics model? -  and Ward, thankfully, was having none of it. He told me that in the very early Burnout games, the cars, such as they were, didn't actually have wheels. How's that for nuance. Read more",
+      "image": "https://assetsio.gnwcdn.com/star-wars-galactic-racer-review-header.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:37.863589+06:00",
+      "last_seen": "2026-10-02T19:34:37.863591+06:00"
+    },
+    "eurogamer.net/witcher-3-remastered-lighting-patch-pc": {
+      "title": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch",
+      "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
+      "canonical": "eurogamer.net/witcher-3-remastered-lighting-patch-pc",
+      "published_dt": "2026-10-02T17:09:05+06:00",
+      "published_date": "2026-10-02T17:09:05+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "A second hotfix has been released for The Witcher 3 Remastered edition that directly addresses lighting concerns on PC, as well as a couple of other notable issues. Read more",
+      "image": "https://assetsio.gnwcdn.com/geralt-horse-witcher-3.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:37.863784+06:00",
+      "last_seen": "2026-10-02T19:34:37.863786+06:00"
+    },
+    "eurogamer.net/gears-of-war-eday-missing-features-update": {
+      "title": "Gears of War: E-Day is missing iconic features like chainsaw duels and meat shields, but The Coalition says we shouldn't worry - they're \"not gone from the franchise\"",
+      "url": "https://www.eurogamer.net/gears-of-war-eday-missing-features-update",
+      "canonical": "eurogamer.net/gears-of-war-eday-missing-features-update",
+      "published_dt": "2026-10-02T16:56:20+06:00",
+      "published_date": "2026-10-02T16:56:20+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Gears of War: E-Day arrived for early adopters yesterday, available for anyone who bought either the Premium Edition, Premium Upgrade Edition, or Collector's Edition version of the game. As it arrived, however, some players noted 'missing' features that have appeared in past Gears games, but not in The Coalition's latest. Read more",
+      "image": "https://assetsio.gnwcdn.com/E-Day-meat-shield.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-02T19:34:37.863950+06:00",
+      "last_seen": "2026-10-02T19:34:37.863953+06:00",
+      "posted_at": "2026-10-02T19:56:25.777270+06:00"
+    },
+    "pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-director-on-its-very-extravagant-final-sephiroth-fight-and-whether-anyone-will-ever-pull-something-like-this-trilogy-off-again": {
+      "title": "Final Fantasy 7 Revelation director on its \"very extravagant\" final Sephiroth fight and whether anyone will ever pull something like this trilogy off again",
+      "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-director-on-its-very-extravagant-final-sephiroth-fight-and-whether-anyone-will-ever-pull-something-like-this-trilogy-off-again/",
+      "canonical": "pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-director-on-its-very-extravagant-final-sephiroth-fight-and-whether-anyone-will-ever-pull-something-like-this-trilogy-off-again",
+      "published_dt": "2026-10-02T19:26:45+06:00",
+      "published_date": "2026-10-02T19:26:45+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Naoki Hamaguchi discusses the final chapter of Square Enix's elaborate remake project.",
+      "image": "https://cdn.mos.cms.futurecdn.net/m3mQRf4m8cjvCU3yu8sJmJ-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-02T19:34:38.616639+06:00",
+      "last_seen": "2026-10-02T19:34:38.616644+06:00",
+      "posted_at": "2026-10-02T19:55:49.741086+06:00"
+    },
+    "pcgamer.com/hardware/gaming-monitors/200-hz-for-usd200-oled-for-usd330-monitors-are-still-the-best-deal-in-pc-gaming": {
+      "title": "200 Hz for $200, OLED for $330—monitors are still the best deal in PC gaming",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/200-hz-for-usd200-oled-for-usd330-monitors-are-still-the-best-deal-in-pc-gaming/",
+      "canonical": "pcgamer.com/hardware/gaming-monitors/200-hz-for-usd200-oled-for-usd330-monitors-are-still-the-best-deal-in-pc-gaming",
+      "published_dt": "2026-10-02T18:11:32+06:00",
+      "published_date": "2026-10-02T18:11:32+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "OLED, 1440p, curved? Got 'em all.",
+      "image": "https://cdn.mos.cms.futurecdn.net/r5vcwaXaRN2WtxSDW779y4-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:38.616742+06:00",
+      "last_seen": "2026-10-02T19:34:38.616744+06:00"
+    },
+    "pcgamer.com/games/racing/star-wars-galactic-racer-review": {
+      "title": "Star Wars: Galactic Racer review – Run-based bash racer with Burnout-style takedowns",
+      "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racer-review/",
+      "canonical": "pcgamer.com/games/racing/star-wars-galactic-racer-review",
+      "published_dt": "2026-10-02T18:00:00+06:00",
+      "published_date": "2026-10-02T18:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "F-Zero Company.",
+      "image": "https://cdn.mos.cms.futurecdn.net/dhLNiQ3QTJv2q8TsFAL2J6-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:38.616827+06:00",
+      "last_seen": "2026-10-02T19:34:38.616829+06:00"
+    },
+    "pcgamer.com/hardware/gaming-mice/in-my-quest-to-find-the-perfect-mouse-for-me-ive-ended-up-with-two-completely-different-ones": {
+      "title": "In my quest to find the perfect mouse for me, I've ended up with two completely different ones",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/in-my-quest-to-find-the-perfect-mouse-for-me-ive-ended-up-with-two-completely-different-ones/",
+      "canonical": "pcgamer.com/hardware/gaming-mice/in-my-quest-to-find-the-perfect-mouse-for-me-ive-ended-up-with-two-completely-different-ones",
+      "published_dt": "2026-10-02T17:53:19+06:00",
+      "published_date": "2026-10-02T17:53:19+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "I guess I'm just picky.",
+      "image": "https://cdn.mos.cms.futurecdn.net/gtntdXbZR368KXZgfmpxEN-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:38.616909+06:00",
+      "last_seen": "2026-10-02T19:34:38.616911+06:00"
+    },
+    "pcgamer.com/hardware/gaming-mice/metal-desks-nearly-destroyed-a-valorant-tournament": {
+      "title": "Metal desks nearly destroyed a Valorant tournament",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/metal-desks-nearly-destroyed-a-valorant-tournament/",
+      "canonical": "pcgamer.com/hardware/gaming-mice/metal-desks-nearly-destroyed-a-valorant-tournament",
+      "published_dt": "2026-10-02T17:51:40+06:00",
+      "published_date": "2026-10-02T17:51:40+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "And players have been urged to switch to wired mice.",
+      "image": "https://cdn.mos.cms.futurecdn.net/3dy2mR9sobpcUgSkfyg5vm-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:38.616988+06:00",
+      "last_seen": "2026-10-02T19:34:38.616989+06:00"
+    },
+    "pcgamer.com/games/fighting/riots-absurd-expectations-of-player-counts-in-the-high-hundreds-of-thousands-if-not-millions-doomed-2xko-from-the-start": {
+      "title": "Riot needed absurd player counts 'in the high hundreds of thousands, if not millions' for 2XKO, dooming it from launch",
+      "url": "https://www.pcgamer.com/games/fighting/riots-absurd-expectations-of-player-counts-in-the-high-hundreds-of-thousands-if-not-millions-doomed-2xko-from-the-start/",
+      "canonical": "pcgamer.com/games/fighting/riots-absurd-expectations-of-player-counts-in-the-high-hundreds-of-thousands-if-not-millions-doomed-2xko-from-the-start",
+      "published_dt": "2026-10-02T17:16:39+06:00",
+      "published_date": "2026-10-02T17:16:39+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "The cost is too dang high.",
+      "image": "https://cdn.mos.cms.futurecdn.net/VWrTLQA5D7QD2fRo4JrWi6-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:38.617064+06:00",
+      "last_seen": "2026-10-02T19:34:38.617066+06:00"
+    },
+    "pcgamer.com/games/vr/til-the-steam-frame-can-be-used-as-a-pair-of-night-vision-goggles": {
+      "title": "TIL: The Steam Frame can be used as a pair of night vision goggles",
+      "url": "https://www.pcgamer.com/games/vr/til-the-steam-frame-can-be-used-as-a-pair-of-night-vision-goggles/",
+      "canonical": "pcgamer.com/games/vr/til-the-steam-frame-can-be-used-as-a-pair-of-night-vision-goggles",
+      "published_dt": "2026-10-02T16:45:13+06:00",
+      "published_date": "2026-10-02T16:45:13+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Just call me Sam Fisher.",
+      "image": "https://cdn.mos.cms.futurecdn.net/gTFQLg2wERpTovV9z8oFZU-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:38.617139+06:00",
+      "last_seen": "2026-10-02T19:34:38.617140+06:00"
+    },
+    "polygon.com/wishlister-october-2": {
+      "title": "6 Gorgeous Upcoming Steam Games To Wishlist Now",
+      "url": "https://www.polygon.com/wishlister-october-2/",
+      "canonical": "polygon.com/wishlister-october-2",
+      "published_dt": "2026-10-02T19:00:15+06:00",
+      "published_date": "2026-10-02T19:00:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "If you're looking for new games to throw on your Steam wishlist, these gorgeous games deserve a look.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/viva_digitalassets_without-logo_16x9.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:39.041530+06:00",
+      "last_seen": "2026-10-02T19:34:39.041534+06:00"
+    },
+    "polygon.com/star-wars-galactic-racer-review-best-arcade-racing-game-in-a-generation": {
+      "title": "Star Wars: Galactic Racer is the Best Arcade Racing Game in a Generation",
+      "url": "https://www.polygon.com/star-wars-galactic-racer-review-best-arcade-racing-game-in-a-generation/",
+      "canonical": "polygon.com/star-wars-galactic-racer-review-best-arcade-racing-game-in-a-generation",
+      "published_dt": "2026-10-02T18:00:15+06:00",
+      "published_date": "2026-10-02T18:00:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The PS5, Xbox, and PC game blends roguelikes with Burnout, Wipeout, and F-Zero to brutal and brilliant effect",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/swgr_pr_10.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:39.041638+06:00",
+      "last_seen": "2026-10-02T19:34:39.041640+06:00"
+    },
+    "polygon.com/portrait-of-god-movie-deal-chase-infiniti-jordan-peeele-sam-raimi": {
+      "title": "Evil Dead and Get Out Directors Will Bring Another Internet Horror Sensation to the Big Screen",
+      "url": "https://www.polygon.com/portrait-of-god-movie-deal-chase-infiniti-jordan-peeele-sam-raimi/",
+      "canonical": "polygon.com/portrait-of-god-movie-deal-chase-infiniti-jordan-peeele-sam-raimi",
+      "published_dt": "2026-10-02T17:43:18+06:00",
+      "published_date": "2026-10-02T17:43:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Chase Infiniti, Jordan Peele, and Sam Raimi join Portrait of God project as the horror short film moves into the production phase.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/portrait-of-god-short-horror-film.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:39.041733+06:00",
+      "last_seen": "2026-10-02T19:34:39.041735+06:00"
+    },
+    "polygon.com/new-pokemon-merch-esa-collaboration": {
+      "title": "New Pokémon Merch Is Literally out of This World",
+      "url": "https://www.polygon.com/new-pokemon-merch-esa-collaboration/",
+      "canonical": "polygon.com/new-pokemon-merch-esa-collaboration",
+      "published_dt": "2026-10-02T17:02:50+06:00",
+      "published_date": "2026-10-02T17:02:50+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Now is the best time to celebrate World Space Week and your love for all things Pokémon with a new, exciting collaboration.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/pokemon-pikachu.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:39.041820+06:00",
+      "last_seen": "2026-10-02T19:34:39.041822+06:00"
+    },
+    "polygon.com/eyes-without-a-face-best-halloween-horror-movies": {
+      "title": "Watch the Disturbing French Horror Classic that Inspired Halloween",
+      "url": "https://www.polygon.com/eyes-without-a-face-best-halloween-horror-movies/",
+      "canonical": "polygon.com/eyes-without-a-face-best-halloween-horror-movies",
+      "published_dt": "2026-10-02T17:00:15+06:00",
+      "published_date": "2026-10-02T17:00:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Georges Franju's Eyes Without a Face from 1960 has inspired John Carpenter and many others with its chilling mask imagery",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/eyes-without-a-face-1.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:39.041902+06:00",
+      "last_seen": "2026-10-02T19:34:39.041904+06:00"
+    },
+    "kotaku.com/airbnb-host-genai-ai-scam-overflowing-toilet-google-synthid-2000739288": {
+      "title": "Airbnb Host Tries To Scam Guest With An AI-Created Image Of A Disgusting Toilet",
+      "url": "https://kotaku.com/airbnb-host-genai-ai-scam-overflowing-toilet-google-synthid-2000739288",
+      "canonical": "kotaku.com/airbnb-host-genai-ai-scam-overflowing-toilet-google-synthid-2000739288",
+      "published_dt": "2026-10-02T19:07:05+06:00",
+      "published_date": "2026-10-02T19:07:05+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "There was a tiny flaw in the plan: it was bollocks",
+      "image": "https://kotaku.com/app/uploads/2026/10/skibidi-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:39.265032+06:00",
+      "last_seen": "2026-10-02T19:34:39.265036+06:00"
+    },
+    "kotaku.com/star-wars-galactic-racer-the-kotaku-review-2000739105": {
+      "title": "Star Wars: Galactic Racer: The Kotaku Review",
+      "url": "https://kotaku.com/star-wars-galactic-racer-the-kotaku-review-2000739105",
+      "canonical": "kotaku.com/star-wars-galactic-racer-the-kotaku-review-2000739105",
+      "published_dt": "2026-10-02T18:00:12+06:00",
+      "published_date": "2026-10-02T18:00:12+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Ain’t no lightsabers or Skywalkers in this new Star Wars game, which is great",
+      "image": "https://kotaku.com/app/uploads/2026/10/Star-Wars-review-2026a-gr-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:39.265184+06:00",
+      "last_seen": "2026-10-02T19:34:39.265186+06:00"
+    },
+    "kotaku.com/blizzard-world-of-warcraft-forever-torch-hike-2000739020": {
+      "title": "Blizzard Added A Working Torch To WoW: Forever And I Hiked All The Way Across Azeroth To Try To Get It",
+      "url": "https://kotaku.com/blizzard-world-of-warcraft-forever-torch-hike-2000739020",
+      "canonical": "kotaku.com/blizzard-world-of-warcraft-forever-torch-hike-2000739020",
+      "published_dt": "2026-10-02T17:00:42+06:00",
+      "published_date": "2026-10-02T17:00:42+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Here's, uh, here's what *not* to do",
+      "image": "https://kotaku.com/app/uploads/2026/10/WoW-Forever-journey17-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:39.265289+06:00",
+      "last_seen": "2026-10-02T19:34:39.265292+06:00"
+    },
+    "gamesradar.com/games/best-steam-autumn-sale-games-2026": {
+      "title": "I've spent seven hours exploring the Steam Autumn Sale, and these are the 10 best games on discount I'd recommend picking up while you still can",
+      "url": "https://www.gamesradar.com/games/best-steam-autumn-sale-games-2026/",
+      "canonical": "gamesradar.com/games/best-steam-autumn-sale-games-2026",
+      "published_dt": "2026-10-02T19:08:51+06:00",
+      "published_date": "2026-10-02T19:08:51+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Here's a list of the best Steam Autumn Sale games of 2026 to pick up first",
+      "image": "https://cdn.mos.cms.futurecdn.net/nZcUDbDxec4DY7djVGkMiE-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:39.810326+06:00",
+      "last_seen": "2026-10-02T19:34:39.810332+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-tv-shows/5-years-on-its-clear-loki-used-the-multiverse-better-than-anything-else-in-the-mcu": {
+      "title": "5 years on, it's clear Loki used the multiverse better than anything else in the MCU",
+      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/5-years-on-its-clear-loki-used-the-multiverse-better-than-anything-else-in-the-mcu/",
+      "canonical": "gamesradar.com/entertainment/marvel-tv-shows/5-years-on-its-clear-loki-used-the-multiverse-better-than-anything-else-in-the-mcu",
+      "published_dt": "2026-10-02T19:00:00+06:00",
+      "published_date": "2026-10-02T19:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The road to Doomsday has begun, and there's no better stop than Loki",
+      "image": "https://cdn.mos.cms.futurecdn.net/M3KLut2xqr8z66shr2r8VV-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:39.810436+06:00",
+      "last_seen": "2026-10-02T19:34:39.810439+06:00"
+    },
+    "gamesradar.com/games/racing/star-wars-galactic-racer-review": {
+      "title": "Star Wars: Galactic Racer review: \"True to its Burnout legacy, blisteringly fast space racing keeps me coming back\"",
+      "url": "https://www.gamesradar.com/games/racing/star-wars-galactic-racer-review/",
+      "canonical": "gamesradar.com/games/racing/star-wars-galactic-racer-review",
+      "published_dt": "2026-10-02T18:00:00+06:00",
+      "published_date": "2026-10-02T18:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The most dangerous, satisfying, and immersive racing game I've played",
+      "image": "https://cdn.mos.cms.futurecdn.net/6KSCgDjjxKqVMjb6uKejf7-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:39.810528+06:00",
+      "last_seen": "2026-10-02T19:34:39.810531+06:00"
+    },
+    "gamesradar.com/hardware/vr/i-played-an-evening-of-big-walk-on-steam-frame-and-it-felt-like-wearing-a-steam-deck-on-my-face": {
+      "title": "I played an evening of Big Walk on Steam Frame, and it felt like wearing a Steam Deck on my face",
+      "url": "https://www.gamesradar.com/hardware/vr/i-played-an-evening-of-big-walk-on-steam-frame-and-it-felt-like-wearing-a-steam-deck-on-my-face/",
+      "canonical": "gamesradar.com/hardware/vr/i-played-an-evening-of-big-walk-on-steam-frame-and-it-felt-like-wearing-a-steam-deck-on-my-face",
+      "published_dt": "2026-10-02T17:40:26+06:00",
+      "published_date": "2026-10-02T17:40:26+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "I spent four hours playing one of 2026's best multiplayer games on Valve's new VR headset, and it might be where the device really shows its worth.",
+      "image": "https://cdn.mos.cms.futurecdn.net/rzgDicJfNspKPcReW66PbA-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:39.810612+06:00",
+      "last_seen": "2026-10-02T19:34:39.810613+06:00"
+    },
+    "gamesradar.com/hardware/retro/keep-genai-the-f-ck-away-from-medievil-my-favorite-ps1-creepy-comedy-caper-now-has-a-pc-recomp-and-its-thankfully-not-vibe-coded": {
+      "title": "My favorite PS1 creepy comedy caper now has a PC recomp, and it's thankfully not vibe coded",
+      "url": "https://www.gamesradar.com/hardware/retro/keep-genai-the-f-ck-away-from-medievil-my-favorite-ps1-creepy-comedy-caper-now-has-a-pc-recomp-and-its-thankfully-not-vibe-coded/",
+      "canonical": "gamesradar.com/hardware/retro/keep-genai-the-f-ck-away-from-medievil-my-favorite-ps1-creepy-comedy-caper-now-has-a-pc-recomp-and-its-thankfully-not-vibe-coded",
+      "published_dt": "2026-10-02T17:33:11+06:00",
+      "published_date": "2026-10-02T17:33:11+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The creep PS1 comedy classic MediEvil just arrived on PC thanks to a recompilation project, and its creators have confirmed it wasn't made using AI.",
+      "image": "https://cdn.mos.cms.futurecdn.net/3R5bhPZHJbQ3KgUGRr32QD-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:39.810691+06:00",
+      "last_seen": "2026-10-02T19:34:39.810693+06:00"
+    },
+    "gamesradar.com/platforms/playstation/playstation-creator-says-games-have-stagnated-urges-developers-not-to-lose-their-curiosity-as-the-industry-reaches-a-major-turning-point-ahead-of-the-next-stage": {
+      "title": "PlayStation creator says games have stagnated",
+      "url": "https://www.gamesradar.com/platforms/playstation/playstation-creator-says-games-have-stagnated-urges-developers-not-to-lose-their-curiosity-as-the-industry-reaches-a-major-turning-point-ahead-of-the-next-stage/",
+      "canonical": "gamesradar.com/platforms/playstation/playstation-creator-says-games-have-stagnated-urges-developers-not-to-lose-their-curiosity-as-the-industry-reaches-a-major-turning-point-ahead-of-the-next-stage",
+      "published_dt": "2026-10-02T17:18:47+06:00",
+      "published_date": "2026-10-02T17:18:47+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Ken Kutaragi says \"the moment you lose your curiosity and think, this is probably as good as it gets, it's all over\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/tKtoBKC2EiKeqd5rucyfXC-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:39.810767+06:00",
+      "last_seen": "2026-10-02T19:34:39.810768+06:00"
+    },
+    "gamesradar.com/games/steam-on-track-to-earn-a-record-usd20-billion-this-year-thanks-to-games-like-the-witcher-3-remastered-and-wardogs-analyst-says-after-a-massive-september": {
+      "title": "Steam on track to earn a record $20 billion this year, analyst says after a massive September",
+      "url": "https://www.gamesradar.com/games/steam-on-track-to-earn-a-record-usd20-billion-this-year-thanks-to-games-like-the-witcher-3-remastered-and-wardogs-analyst-says-after-a-massive-september/",
+      "canonical": "gamesradar.com/games/steam-on-track-to-earn-a-record-usd20-billion-this-year-thanks-to-games-like-the-witcher-3-remastered-and-wardogs-analyst-says-after-a-massive-september",
+      "published_dt": "2026-10-02T16:58:52+06:00",
+      "published_date": "2026-10-02T16:58:52+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Valve is doing pretty well for itself, all things considered",
+      "image": "https://cdn.mos.cms.futurecdn.net/s59PQgab3kH37ZWZjZDgw6-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-02T19:34:39.810841+06:00",
+      "last_seen": "2026-10-02T19:34:39.810842+06:00",
+      "posted_at": "2026-10-02T19:56:20.908900+06:00"
+    },
+    "gamesradar.com/entertainment/live-action-movies/street-fighter-movie-references-the-franchises-most-iconic-match-the-parry-fest-of-evo-moment-37": {
+      "title": "Street Fighter movie references the franchise's most iconic match: the parry-fest of Evo Moment 37",
+      "url": "https://www.gamesradar.com/entertainment/live-action-movies/street-fighter-movie-references-the-franchises-most-iconic-match-the-parry-fest-of-evo-moment-37/",
+      "canonical": "gamesradar.com/entertainment/live-action-movies/street-fighter-movie-references-the-franchises-most-iconic-match-the-parry-fest-of-evo-moment-37",
+      "published_dt": "2026-10-02T16:44:13+06:00",
+      "published_date": "2026-10-02T16:44:13+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "We still have it burned into our memory",
+      "image": "https://cdn.mos.cms.futurecdn.net/szbhNcXm7LKzFosrXJ7Tdf-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:39.810916+06:00",
+      "last_seen": "2026-10-02T19:34:39.810917+06:00"
+    },
+    "rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims": {
+      "title": "AI-generated Fallout: New York browser game full of utterly cursed faces slapped with Bethesda cease and desist, its slop prompter claims",
+      "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
+      "canonical": "rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
+      "published_dt": "2026-10-02T17:45:53+06:00",
+      "published_date": "2026-10-02T17:45:53+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "In perhaps the least surprising Fallout news since Raul from New Vegas confirmed that ghouls with dodgy knees don't enjoy sneaking, the person behind an AI-generated browser game dubbed Fallout: New York has claimed to have recieved a cease and desist message from Bethesda parent company ZeniMax. Their creation, if such a term fits, was generated using Anthropic's Claude Opus 5.5 tech. Read more",
+      "image": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-02T19:34:40.306419+06:00",
+      "last_seen": "2026-10-02T19:34:40.306424+06:00",
+      "posted_at": "2026-10-02T19:56:30.652426+06:00"
+    },
+    "insider-gaming.com/nadeshot-ripped-socials-gen-ai-casino-ad-posted-100-thieves": {
+      "title": "Nadeshot Ripped on Socials for Gen-AI Casino Ad Posted Days After 100 Thieves Scandal",
+      "url": "https://insider-gaming.com/nadeshot-ripped-socials-gen-ai-casino-ad-posted-100-thieves/",
+      "canonical": "insider-gaming.com/nadeshot-ripped-socials-gen-ai-casino-ad-posted-100-thieves",
+      "published_dt": "2026-10-02T19:25:25+06:00",
+      "published_date": "2026-10-02T19:25:25+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "100 Thieves recently landed in hot water for promoting AI-backed apparel, just one day before Nadeshot took things one step further. The post Nadeshot Ripped on Socials for Gen-AI Casino Ad Posted Days After 100 Thieves Scandal appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:41.939889+06:00",
+      "last_seen": "2026-10-02T19:34:41.939892+06:00"
+    },
+    "insider-gaming.com/fut-signs-sunpayus-will-it-work": {
+      "title": "FUT Signs SunPayus; Will It Work?",
+      "url": "https://insider-gaming.com/fut-signs-sunpayus-will-it-work/",
+      "canonical": "insider-gaming.com/fut-signs-sunpayus-will-it-work",
+      "published_dt": "2026-10-02T16:58:58+06:00",
+      "published_date": "2026-10-02T16:58:58+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Insider Gaming looks at the positives and negatives of SunPayus's move to FUT, and whether the move will take FUT to the next level. The post FUT Signs SunPayus; Will It Work? appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:41.940074+06:00",
+      "last_seen": "2026-10-02T19:34:41.940077+06:00"
+    },
+    "insider-gaming.com/undead-chronicles-interview-bleak-brilliance-never-feel-safe": {
+      "title": "Undead Chronicles Has a Bleak Brilliance That Never Lets You Feel Safe",
+      "url": "https://insider-gaming.com/undead-chronicles-interview-bleak-brilliance-never-feel-safe/",
+      "canonical": "insider-gaming.com/undead-chronicles-interview-bleak-brilliance-never-feel-safe",
+      "published_dt": "2026-10-02T16:54:56+06:00",
+      "published_date": "2026-10-02T16:54:56+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Undead Chronicles is shaping up to be a special zombie survival title, and I recently caught up with the game's solo dev to learn more. The post Undead Chronicles Has a Bleak Brilliance That Never Lets You Feel Safe appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:41.940246+06:00",
+      "last_seen": "2026-10-02T19:34:41.940248+06:00"
+    },
+    "insider-gaming.com/ace-combat-8-belkan-war-steam": {
+      "title": "Ace Combat 8 Developers Address ‘Belkan War’ Disappointment",
+      "url": "https://insider-gaming.com/ace-combat-8-belkan-war-steam/",
+      "canonical": "insider-gaming.com/ace-combat-8-belkan-war-steam",
+      "published_dt": "2026-10-02T16:38:59+06:00",
+      "published_date": "2026-10-02T16:38:59+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "The Ace Combat team has apologized for confusion on Steam pre-order incentives for Ace Combat 8, which include The Belkan War. The post Ace Combat 8 Developers Address ‘Belkan War’ Disappointment appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:41.940449+06:00",
+      "last_seen": "2026-10-02T19:34:41.940451+06:00"
+    },
+    "pushsquare.com/news/2026/10/signal-veil-is-a-ps5-horror-game-with-a-style-unlike-any-other": {
+      "title": "Signal Veil Is a PS5 Horror Game with a Style Unlike Any Other",
+      "url": "https://www.pushsquare.com/news/2026/10/signal-veil-is-a-ps5-horror-game-with-a-style-unlike-any-other",
+      "canonical": "pushsquare.com/news/2026/10/signal-veil-is-a-ps5-horror-game-with-a-style-unlike-any-other",
+      "published_dt": "2026-10-02T19:15:00+06:00",
+      "published_date": "2026-10-02T19:15:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Jujutsu Kaisen among its influences. I’m quite intrigued by the newly announced Signal Veil, a third-person survival horror game with a 90s anime aesthetic. Unlike any other title in the genre I can think of, this has a cel-shaded look that’s reminiscent of, say, Dreamcast-era games. It’s really quite unique from that perspective. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/1b4f0bb1483a2/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:42.783661+06:00",
+      "last_seen": "2026-10-02T19:34:42.783665+06:00"
+    },
+    "pushsquare.com/reviews/ps5/star-wars-galactic-racer": {
+      "title": "Review: Star Wars: Galactic Racer (PS5) - This Ridiculously Good Racer Is in a Galactic League of Its Own",
+      "url": "https://www.pushsquare.com/reviews/ps5/star-wars-galactic-racer",
+      "canonical": "pushsquare.com/reviews/ps5/star-wars-galactic-racer",
+      "published_dt": "2026-10-02T18:00:00+06:00",
+      "published_date": "2026-10-02T18:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "No Shade. Star Wars: Galactic Racer successfully blends the best of MotorStorm: Pacific Rift , WipEout HD , and Burnout 3: Takedown to make for one of the most exciting racers I’ve played in years. This debut effort from Fuse Games – a UK studio founded by Criterion veterans – is a white-knuckle triumph which at times had me on the edge of my seat, cheering each narrow win and cursing every misjudged corner. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/reviews/ps5/star-wars-galactic-racer/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:42.783954+06:00",
+      "last_seen": "2026-10-02T19:34:42.783957+06:00"
+    },
+    "purexbox.com/news/2026/10/star-wars-galactic-racer-is-getting-some-phenomenal-review-scores-ahead-of-launch": {
+      "title": "Star Wars: Galactic Racer Is Getting Some Phenomenal Review Scores Ahead Of Launch",
+      "url": "https://www.purexbox.com/news/2026/10/star-wars-galactic-racer-is-getting-some-phenomenal-review-scores-ahead-of-launch",
+      "canonical": "purexbox.com/news/2026/10/star-wars-galactic-racer-is-getting-some-phenomenal-review-scores-ahead-of-launch",
+      "published_dt": "2026-10-02T18:18:00+06:00",
+      "published_date": "2026-10-02T18:18:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Another success story for Star Wars games in 2026. We've got another massive Xbox release coming our way on October 6th in the form of Star Wars: Galactic Racer , which is the first ever title from UK studio Fuse Games, and one that's getting some phemomenal review scores! This is a game that had been looking really impressive throughout its preview period, but the reviews may well have surpassed expectations, with most outlets scoring it anywhere from 8/10 to 10/10 as things stand. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/a28ca3c9cb042/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:43.315055+06:00",
+      "last_seen": "2026-10-02T19:34:43.315059+06:00"
+    },
+    "purexbox.com/news/2026/10/eight-xbox-games-are-available-today-including-a-good-reason-to-get-out-of-detention-october-2": {
+      "title": "Eight Xbox Games Are Available Today, Including A Good Reason To Get Out Of Detention (October 2)",
+      "url": "https://www.purexbox.com/news/2026/10/eight-xbox-games-are-available-today-including-a-good-reason-to-get-out-of-detention-october-2",
+      "canonical": "purexbox.com/news/2026/10/eight-xbox-games-are-available-today-including-a-good-reason-to-get-out-of-detention-october-2",
+      "published_dt": "2026-10-02T17:00:00+06:00",
+      "published_date": "2026-10-02T17:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "It's a bully day, wouldn't you say? It's mad that we're already a couple days into October, but instead of pondering where the year has gone, we're back with your daily fix of all the new games launching on Xbox. Considering just how busy yesterday ended up becoming, it's understandable that today is wee bit quieter. That's not to say it's a bad day for games, because, well...I suppose it could be a bit of a bad day for games. At least Xbox Game Pass Premium members are being treated to Double Fine's Keeper as it slides down a tier from Ultimate. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/51979bb3ef282/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:43.315292+06:00",
+      "last_seen": "2026-10-02T19:34:43.315296+06:00"
+    },
+    "siliconera.com/review-tristia-chronicles-feels-like-an-atelier-style-retro-simulation": {
+      "title": "Review: Tristia: Chronicles Feels Like an Atelier Style Retro Simulation",
+      "url": "https://www.siliconera.com/review-tristia-chronicles-feels-like-an-atelier-style-retro-simulation/",
+      "canonical": "siliconera.com/review-tristia-chronicles-feels-like-an-atelier-style-retro-simulation",
+      "published_dt": "2026-10-02T19:00:00+06:00",
+      "published_date": "2026-10-02T19:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "Tristia: Chronicles is an insight into revival of a classic series on Switch, but Legacy is the only game worth owning in the collection.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-02T19:34:43.771075+06:00",
+      "last_seen": "2026-10-02T19:34:43.771080+06:00"
     }
   },
   "events": {
@@ -14524,6 +15380,425 @@
           "headline": "Minecraft Dungeons II Launches with Strong Reviews Across Platforms",
           "claims": [
             "released"
+          ]
+        }
+      ]
+    },
+    "evt_34716f3aafd1ab": {
+      "event_id": "evt_34716f3aafd1ab",
+      "event_key": "squareenix ff7remake finalsephirothfight directorinterview",
+      "event_subject": "Final Fantasy VII Remake Trilogy",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "squareenix ff7remake finalsephirothfight directorinterview",
+        "subject": "Final Fantasy VII Remake Trilogy",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Final Fantasy VII Remake",
+        "franchise": "Final Fantasy VII",
+        "institution": "Square Enix",
+        "target": "final Sephiroth fight",
+        "platforms": [],
+        "topic": "development"
+      },
+      "sources": [
+        "PC Gamer"
+      ],
+      "event_sources": [
+        "PC Gamer"
+      ],
+      "claims": [],
+      "importance_score": 70,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 40,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Square Enix’s Final Fantasy VII Revelation Promises Extravagant Sephiroth Finale",
+      "summary": "Director Naoki Hamaguchi reveals the ambitious final battle and development challenges behind the third installment of the FF7 Remake trilogy launching April 8.",
+      "published_at": "2026-10-02T19:26:45+06:00",
+      "selected_at": "2026-10-02T13:55:49.741118+00:00",
+      "status": "published",
+      "message_id": 539,
+      "published_versions": [
+        {
+          "published_at": "2026-10-02T13:55:49.741118+00:00",
+          "headline": "Square Enix’s Final Fantasy VII Revelation Promises Extravagant Sephiroth Finale",
+          "claims": []
+        }
+      ]
+    },
+    "evt_598628c76d084c": {
+      "event_id": "evt_598628c76d084c",
+      "event_key": "vgc starwarsgalacticracer review burnoutstyle",
+      "event_subject": "Star Wars: Galactic Racer Review – Burnout Style",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "vgc starwarsgalacticracer review burnoutstyle",
+        "subject": "Star Wars: Galactic Racer Review – Burnout Style",
+        "event_type": "review",
+        "action": "review",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Star Wars: Galactic Racer",
+        "franchise": "Star Wars",
+        "institution": "Fuse Games",
+        "target": "game",
+        "platforms": [],
+        "topic": "review"
+      },
+      "sources": [
+        "Eurogamer",
+        "Pure Xbox",
+        "VGC",
+        "Polygon",
+        "Kotaku",
+        "PC Gamer",
+        "Push Square",
+        "GameSpot",
+        "GamesRadar+",
+        "IGN"
+      ],
+      "event_sources": [
+        "Eurogamer",
+        "Pure Xbox",
+        "VGC",
+        "Polygon",
+        "Kotaku",
+        "PC Gamer",
+        "Push Square",
+        "GameSpot",
+        "GamesRadar+",
+        "IGN"
+      ],
+      "claims": [],
+      "importance_score": 67,
+      "coverage_score": 17,
+      "originality_score": 10,
+      "significance_score": 20,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Star Wars: Galactic Racer Revives Burnout‑Style Arcade Racing on PlayStation",
+      "summary": "Star Wars: Galactic Racer delivers high‑octane, run‑based racing with intense takedowns and deep ship customization, echoing classic Burnout thrills.",
+      "published_at": "2026-10-02T18:00:18+06:00",
+      "selected_at": "2026-10-02T13:55:54.820598+00:00",
+      "status": "published",
+      "message_id": 540,
+      "published_versions": [
+        {
+          "published_at": "2026-10-02T13:55:54.820598+00:00",
+          "headline": "Star Wars: Galactic Racer Revives Burnout‑Style Arcade Racing on PlayStation",
+          "claims": []
+        }
+      ]
+    },
+    "evt_9c68f823f65f12": {
+      "event_id": "evt_9c68f823f65f12",
+      "event_key": "vgc micron memoryshortage 2027 priceforecast",
+      "event_subject": "Micron Memory Shortage Forecast",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "vgc micron memoryshortage 2027 priceforecast",
+        "subject": "Micron Memory Shortage Forecast",
+        "event_type": "other",
+        "action": "warn",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "Micron Technology",
+        "target": "memory market",
+        "platforms": [],
+        "topic": "hardware supply"
+      },
+      "sources": [
+        "VGC"
+      ],
+      "event_sources": [
+        "VGC"
+      ],
+      "claims": [
+        "shortages will worsen in 2027"
+      ],
+      "importance_score": 62,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 28,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Micron warns RAM shortages will tighten through 2028 as prices surge",
+      "summary": "Micron’s CEO says demand will outstrip supply in 2027‑2028, pushing memory prices higher and forcing hardware makers to raise product costs.",
+      "published_at": "2026-10-02T18:27:20+06:00",
+      "selected_at": "2026-10-02T13:56:00.136684+00:00",
+      "status": "published",
+      "message_id": 541,
+      "published_versions": [
+        {
+          "published_at": "2026-10-02T13:56:00.136684+00:00",
+          "headline": "Micron warns RAM shortages will tighten through 2028 as prices surge",
+          "claims": [
+            "shortages will worsen in 2027"
+          ]
+        }
+      ]
+    },
+    "evt_b306fc10a523f7": {
+      "event_id": "evt_b306fc10a523f7",
+      "event_key": "microsoft activision halo reboot developmentreport",
+      "event_subject": "Halo Reboot Development by Activision",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft activision halo reboot developmentreport",
+        "subject": "Halo Reboot Development by Activision",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Halo",
+        "franchise": "Halo",
+        "institution": "Microsoft",
+        "target": "next Halo game",
+        "platforms": [],
+        "topic": "development"
+      },
+      "sources": [
+        "Eurogamer",
+        "GameSpot"
+      ],
+      "event_sources": [
+        "Eurogamer",
+        "GameSpot"
+      ],
+      "claims": [
+        "Activision to reboot Halo series",
+        "Activision may reboot Halo series"
+      ],
+      "importance_score": 60,
+      "coverage_score": 6,
+      "originality_score": 10,
+      "significance_score": 25,
+      "freshness_score": 10,
+      "source_trust_score": 9,
+      "headline": "Activision’s Sledgehammer Team Set to Reboot Halo Franchise",
+      "summary": "Activision is forming a dedicated Sledgehammer Games team to develop a combined campaign‑multiplayer reboot of Halo, moving away from the Slipstream engine.",
+      "published_at": "2026-10-02T19:14:39+06:00",
+      "selected_at": "2026-10-02T13:56:11.059738+00:00",
+      "status": "published",
+      "message_id": 542,
+      "published_versions": [
+        {
+          "published_at": "2026-10-02T13:56:11.059738+00:00",
+          "headline": "Activision’s Sledgehammer Team Set to Reboot Halo Franchise",
+          "claims": [
+            "Activision to reboot Halo series",
+            "Activision may reboot Halo series"
+          ]
+        }
+      ]
+    },
+    "evt_f526ba013cf1ea": {
+      "event_id": "evt_f526ba013cf1ea",
+      "event_key": "blizzard wowforever goldbuying banstreamer",
+      "event_subject": "World of Warcraft: Forever Gold‑Buying Controversy",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blizzard wowforever goldbuying banstreamer",
+        "subject": "World of Warcraft: Forever Gold‑Buying Controversy",
+        "event_type": "other",
+        "action": "ban",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "World of Warcraft: Forever",
+        "franchise": "World of Warcraft",
+        "institution": "Blizzard Entertainment",
+        "target": "streamer Ziqo",
+        "platforms": [],
+        "topic": "RMT enforcement"
+      },
+      "sources": [
+        "GameSpot"
+      ],
+      "event_sources": [
+        "GameSpot"
+      ],
+      "claims": [
+        "streamer banned for promoting gold buying"
+      ],
+      "importance_score": 60,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 30,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Blizzard Cracks Down on RMT as Streamers Ziqo and Payo Face Bans in WoW: Forever",
+      "summary": "Blizzard announced harsher penalties for gold buying in the WoW: Forever beta, banning streamer Payo and removing gold from Ziqo after RMT accusations.",
+      "published_at": "2026-10-02T19:13:31+06:00",
+      "selected_at": "2026-10-02T13:56:15.796811+00:00",
+      "status": "published",
+      "message_id": 543,
+      "published_versions": [
+        {
+          "published_at": "2026-10-02T13:56:15.796811+00:00",
+          "headline": "Blizzard Cracks Down on RMT as Streamers Ziqo and Payo Face Bans in WoW: Forever",
+          "claims": [
+            "streamer banned for promoting gold buying"
+          ]
+        }
+      ]
+    },
+    "evt_a4e86ee71dd1c6": {
+      "event_id": "evt_a4e86ee71dd1c6",
+      "event_key": "steam projected 20b revenue 2026",
+      "event_subject": "Valve",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "steam projected 20b revenue 2026",
+        "subject": "Valve",
+        "event_type": "other",
+        "action": "project",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Valve Corporation",
+        "target": "Steam platform",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "finance"
+      },
+      "sources": [
+        "GamesRadar+"
+      ],
+      "event_sources": [
+        "GamesRadar+"
+      ],
+      "claims": [
+        "Steam is on track to earn a record $20 billion in 2026."
+      ],
+      "importance_score": 56,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 30,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Steam poised to smash $20 billion revenue mark thanks to The Witcher 3 Remastered and Wardogs",
+      "summary": "Analyst Alinea Analytics projects Steam will exceed $20 billion in 2026 after a record‑breaking September fueled by top‑selling titles.",
+      "published_at": "2026-10-02T16:58:52+06:00",
+      "selected_at": "2026-10-02T13:56:20.908928+00:00",
+      "status": "published",
+      "message_id": 544,
+      "published_versions": [
+        {
+          "published_at": "2026-10-02T13:56:20.908928+00:00",
+          "headline": "Steam poised to smash $20 billion revenue mark thanks to The Witcher 3 Remastered and Wardogs",
+          "claims": [
+            "Steam is on track to earn a record $20 billion in 2026."
+          ]
+        }
+      ]
+    },
+    "evt_43ccd8f1d4a4ce": {
+      "event_id": "evt_43ccd8f1d4a4ce",
+      "event_key": "gears of war e day early access launch",
+      "event_subject": "The Coalition",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "gears of war e day early access launch",
+        "subject": "The Coalition",
+        "event_type": "release",
+        "action": "launch",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Gears of War: E‑Day",
+        "franchise": "Gears of War",
+        "institution": "The Coalition",
+        "target": "early‑access players",
+        "platforms": [
+          "Xbox"
+        ],
+        "topic": "release"
+      },
+      "sources": [
+        "Eurogamer"
+      ],
+      "event_sources": [
+        "Eurogamer"
+      ],
+      "claims": [
+        "Gears of War: E‑Day launched with missing iconic features, but developers say they’re not gone from the franchise."
+      ],
+      "importance_score": 50,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Gears of War: E-Day Launch Lacks Legacy Features, Coalition Promises Future Return",
+      "summary": "Early access for Gears of War: E-Day began yesterday, but fans note missing Meat Shields, Chainsaw Duels, and other classic modes, which the studio says may return post‑launch.",
+      "published_at": "2026-10-02T16:56:20+06:00",
+      "selected_at": "2026-10-02T13:56:25.777325+00:00",
+      "status": "published",
+      "message_id": 545,
+      "published_versions": [
+        {
+          "published_at": "2026-10-02T13:56:25.777325+00:00",
+          "headline": "Gears of War: E-Day Launch Lacks Legacy Features, Coalition Promises Future Return",
+          "claims": [
+            "Gears of War: E‑Day launched with missing iconic features, but developers say they’re not gone from the franchise."
+          ]
+        }
+      ]
+    },
+    "evt_544d8cd601fde3": {
+      "event_id": "evt_544d8cd601fde3",
+      "event_key": "rockpapershotgun falloutnewyork ai browsergame ceaseanddesist",
+      "event_subject": "AI‑Generated Fallout: New York Cease‑and‑Desist",
+      "event_type": "legal",
+      "event_frame": {
+        "event_key": "rockpapershotgun falloutnewyork ai browsergame ceaseanddesist",
+        "subject": "AI‑Generated Fallout: New York Cease‑and‑Desist",
+        "event_type": "legal",
+        "action": "report",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Fallout: New York",
+        "franchise": "Fallout",
+        "institution": "Bethesda/ZeniMax",
+        "target": "browser game",
+        "platforms": [],
+        "topic": "legal action"
+      },
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "event_sources": [
+        "Rock Paper Shotgun"
+      ],
+      "claims": [
+        "received cease‑and‑desist"
+      ],
+      "importance_score": 40,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 14,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Bethesda Sends Cease‑and‑Desist to AI‑Generated Fallout: New York Browser Game",
+      "summary": "The AI‑crafted Fallout: New York, built with Claude Opus 5.5, received a cease‑and‑desist from Bethesda’s parent ZeniMax over trademark infringement.",
+      "published_at": "2026-10-02T17:45:53+06:00",
+      "selected_at": "2026-10-02T13:56:30.652454+00:00",
+      "status": "published",
+      "message_id": 546,
+      "published_versions": [
+        {
+          "published_at": "2026-10-02T13:56:30.652454+00:00",
+          "headline": "Bethesda Sends Cease‑and‑Desist to AI‑Generated Fallout: New York Browser Game",
+          "claims": [
+            "received cease‑and‑desist"
           ]
         }
       ]
@@ -66175,6 +67450,1725 @@
         "total": 35
       },
       "last_seen": "2026-10-02T12:43:33.779037+06:00"
+    },
+    "evt_34716f3aafd1ab": {
+      "event_id": "evt_34716f3aafd1ab",
+      "event_key": "squareenix ff7remake finalsephirothfight directorinterview",
+      "event_subject": "Final Fantasy VII Remake Trilogy",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "squareenix ff7remake finalsephirothfight directorinterview",
+        "subject": "Final Fantasy VII Remake Trilogy",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Final Fantasy VII Remake",
+        "franchise": "Final Fantasy VII",
+        "institution": "Square Enix",
+        "target": "final Sephiroth fight",
+        "platforms": [],
+        "topic": "development"
+      },
+      "modality": "confirmed",
+      "topic": "development",
+      "institution": "Square Enix",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 70,
+      "score_breakdown": {
+        "significance": 40,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 70
+      },
+      "last_seen": "2026-10-02T19:39:47.735230+06:00"
+    },
+    "evt_f526ba013cf1ea": {
+      "event_id": "evt_f526ba013cf1ea",
+      "event_key": "blizzard wowforever goldbuying banstreamer",
+      "event_subject": "World of Warcraft: Forever Gold‑Buying Controversy",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blizzard wowforever goldbuying banstreamer",
+        "subject": "World of Warcraft: Forever Gold‑Buying Controversy",
+        "event_type": "other",
+        "action": "ban",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "World of Warcraft: Forever",
+        "franchise": "World of Warcraft",
+        "institution": "Blizzard Entertainment",
+        "target": "streamer Ziqo",
+        "platforms": [],
+        "topic": "RMT enforcement"
+      },
+      "modality": "confirmed",
+      "topic": "RMT enforcement",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "streamer banned for promoting gold buying"
+      ],
+      "importance_score": 60,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 60
+      },
+      "last_seen": "2026-10-02T19:39:47.735247+06:00"
+    },
+    "evt_a4e86ee71dd1c6": {
+      "event_id": "evt_a4e86ee71dd1c6",
+      "event_key": "steam projected 20b revenue 2026",
+      "event_subject": "Valve",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "steam projected 20b revenue 2026",
+        "subject": "Valve",
+        "event_type": "other",
+        "action": "project",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Valve Corporation",
+        "target": "Steam platform",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "finance"
+      },
+      "modality": "unknown",
+      "topic": "finance",
+      "institution": "Valve Corporation",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Steam is on track to earn a record $20 billion in 2026."
+      ],
+      "importance_score": 56,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 56
+      },
+      "last_seen": "2026-10-02T19:39:47.735253+06:00"
+    },
+    "evt_9c68f823f65f12": {
+      "event_id": "evt_9c68f823f65f12",
+      "event_key": "vgc micron memoryshortage 2027 priceforecast",
+      "event_subject": "Micron Memory Shortage Forecast",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "vgc micron memoryshortage 2027 priceforecast",
+        "subject": "Micron Memory Shortage Forecast",
+        "event_type": "other",
+        "action": "warn",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "Micron Technology",
+        "target": "memory market",
+        "platforms": [],
+        "topic": "hardware supply"
+      },
+      "modality": "confirmed",
+      "topic": "hardware supply",
+      "institution": "Micron Technology",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "shortages will worsen in 2027"
+      ],
+      "importance_score": 62,
+      "score_breakdown": {
+        "significance": 28,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 62
+      },
+      "last_seen": "2026-10-02T19:39:47.735257+06:00"
+    },
+    "evt_b306fc10a523f7": {
+      "event_id": "evt_b306fc10a523f7",
+      "event_key": "microsoft activision halo reboot developmentreport",
+      "event_subject": "Halo Reboot Development by Activision",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft activision halo reboot developmentreport",
+        "subject": "Halo Reboot Development by Activision",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Halo",
+        "franchise": "Halo",
+        "institution": "Microsoft",
+        "target": "next Halo game",
+        "platforms": [],
+        "topic": "development"
+      },
+      "modality": "unknown",
+      "topic": "development",
+      "institution": "Microsoft",
+      "sources": [
+        "Eurogamer",
+        "GameSpot"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Activision to reboot Halo series",
+        "Activision may reboot Halo series"
+      ],
+      "importance_score": 60,
+      "score_breakdown": {
+        "significance": 25,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 60
+      },
+      "last_seen": "2026-10-02T19:39:47.735262+06:00"
+    },
+    "evt_5334c5fbadde7d": {
+      "event_id": "evt_5334c5fbadde7d",
+      "event_key": "riot cancels 2xko mode due to player counts",
+      "event_subject": "Riot Games",
+      "event_type": "cancellation",
+      "event_frame": {
+        "event_key": "riot cancels 2xko mode due to player counts",
+        "subject": "Riot Games",
+        "event_type": "cancellation",
+        "action": "cancel",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Riot Games",
+        "target": "2XKO mode",
+        "platforms": [],
+        "topic": "service"
+      },
+      "modality": "unknown",
+      "topic": "service",
+      "institution": "Riot Games",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Riot needed player counts in the high hundreds of thousands or millions for 2XKO, making it unviable."
+      ],
+      "importance_score": 52,
+      "score_breakdown": {
+        "significance": 22,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 52
+      },
+      "last_seen": "2026-10-02T19:39:47.735267+06:00"
+    },
+    "evt_598628c76d084c": {
+      "event_id": "evt_598628c76d084c",
+      "event_key": "vgc starwarsgalacticracer review burnoutstyle",
+      "event_subject": "Star Wars: Galactic Racer Review – Burnout Style",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "vgc starwarsgalacticracer review burnoutstyle",
+        "subject": "Star Wars: Galactic Racer Review – Burnout Style",
+        "event_type": "review",
+        "action": "review",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Star Wars: Galactic Racer",
+        "franchise": "Star Wars",
+        "institution": "Fuse Games",
+        "target": "game",
+        "platforms": [],
+        "topic": "review"
+      },
+      "modality": "confirmed",
+      "topic": "review",
+      "institution": "Fuse Games",
+      "sources": [
+        "Eurogamer",
+        "Pure Xbox",
+        "VGC",
+        "Polygon",
+        "Kotaku",
+        "PC Gamer",
+        "Push Square",
+        "GameSpot",
+        "GamesRadar+",
+        "IGN"
+      ],
+      "source_count": 10,
+      "independent_source_count": 10,
+      "claims": [],
+      "importance_score": 67,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 17,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 67
+      },
+      "last_seen": "2026-10-02T19:39:47.735284+06:00"
+    },
+    "evt_48d374851c643d": {
+      "event_id": "evt_48d374851c643d",
+      "event_key": "ign kingdomcomedeliverance dev gta6 priceimpact",
+      "event_subject": "Kingdom Come: Deliverance Dev on GTA 6 Pricing",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ign kingdomcomedeliverance dev gta6 priceimpact",
+        "subject": "Kingdom Come: Deliverance Dev on GTA 6 Pricing",
+        "event_type": "other",
+        "action": "advocate",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Kingdom Come: Deliverance",
+        "franchise": "Kingdom Come: Deliverance",
+        "institution": "",
+        "target": "GTA 6 pricing",
+        "platforms": [],
+        "topic": "industry pricing"
+      },
+      "modality": "confirmed",
+      "topic": "industry pricing",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 48,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 48
+      },
+      "last_seen": "2026-10-02T19:39:47.735289+06:00"
+    },
+    "evt_f46f309501956f": {
+      "event_id": "evt_f46f309501956f",
+      "event_key": "bruce nesmith hope elder scrolls 6 boats",
+      "event_subject": "Bruce Nesmith",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "bruce nesmith hope elder scrolls 6 boats",
+        "subject": "Bruce Nesmith",
+        "event_type": "other",
+        "action": "hope",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "The Elder Scrolls VI",
+        "franchise": "The Elder Scrolls",
+        "institution": "Bethesda Game Studios",
+        "target": "naval combat/boats",
+        "platforms": [],
+        "topic": "feature"
+      },
+      "modality": "unknown",
+      "topic": "feature",
+      "institution": "Bethesda Game Studios",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Lead designer hopes Elder Scrolls 6 will add boats and naval combat."
+      ],
+      "importance_score": 49,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 49
+      },
+      "last_seen": "2026-10-02T19:39:47.735294+06:00"
+    },
+    "evt_c512fadc1fff1a": {
+      "event_id": "evt_c512fadc1fff1a",
+      "event_key": "disney epicgames rumor acquisition response",
+      "event_subject": "Disney Rumor About Buying Epic Games",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "disney epicgames rumor acquisition response",
+        "subject": "Disney Rumor About Buying Epic Games",
+        "event_type": "rumor",
+        "action": "respond",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Fortnite",
+        "institution": "Disney",
+        "target": "Epic Games acquisition",
+        "platforms": [],
+        "topic": "business rumor"
+      },
+      "modality": "unknown",
+      "topic": "business rumor",
+      "institution": "Disney",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Disney not discussing acquisition"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-10-02T19:39:47.735298+06:00"
+    },
+    "evt_43ccd8f1d4a4ce": {
+      "event_id": "evt_43ccd8f1d4a4ce",
+      "event_key": "gears of war e day early access launch",
+      "event_subject": "The Coalition",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "gears of war e day early access launch",
+        "subject": "The Coalition",
+        "event_type": "release",
+        "action": "launch",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Gears of War: E‑Day",
+        "franchise": "Gears of War",
+        "institution": "The Coalition",
+        "target": "early‑access players",
+        "platforms": [
+          "Xbox"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "The Coalition",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Gears of War: E‑Day launched with missing iconic features, but developers say they’re not gone from the franchise."
+      ],
+      "importance_score": 50,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 50
+      },
+      "last_seen": "2026-10-02T19:39:47.735302+06:00"
+    },
+    "evt_544d8cd601fde3": {
+      "event_id": "evt_544d8cd601fde3",
+      "event_key": "rockpapershotgun falloutnewyork ai browsergame ceaseanddesist",
+      "event_subject": "AI‑Generated Fallout: New York Cease‑and‑Desist",
+      "event_type": "legal",
+      "event_frame": {
+        "event_key": "rockpapershotgun falloutnewyork ai browsergame ceaseanddesist",
+        "subject": "AI‑Generated Fallout: New York Cease‑and‑Desist",
+        "event_type": "legal",
+        "action": "report",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Fallout: New York",
+        "franchise": "Fallout",
+        "institution": "Bethesda/ZeniMax",
+        "target": "browser game",
+        "platforms": [],
+        "topic": "legal action"
+      },
+      "modality": "confirmed",
+      "topic": "legal action",
+      "institution": "Bethesda/ZeniMax",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "received cease‑and‑desist"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 40
+      },
+      "last_seen": "2026-10-02T19:39:47.735306+06:00"
+    },
+    "evt_ad6ede28de2fb5": {
+      "event_id": "evt_ad6ede28de2fb5",
+      "event_key": "ign originalhalocombatevolved browserrelease",
+      "event_subject": "Original Halo: Combat Evolved Browser Release",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "ign originalhalocombatevolved browserrelease",
+        "subject": "Original Halo: Combat Evolved Browser Release",
+        "event_type": "release",
+        "action": "make available",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Halo: Combat Evolved",
+        "franchise": "Halo",
+        "institution": "Microsoft",
+        "target": "original Xbox version",
+        "platforms": [
+          "Web Browser"
+        ],
+        "topic": "game availability"
+      },
+      "modality": "confirmed",
+      "topic": "game availability",
+      "institution": "Microsoft",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-10-02T19:39:47.735310+06:00"
+    },
+    "evt_50a128a9a38192": {
+      "event_id": "evt_50a128a9a38192",
+      "event_key": "bandainamco signalveil announcement ps5 horrorgame",
+      "event_subject": "Signal Veil Announcement",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "bandainamco signalveil announcement ps5 horrorgame",
+        "subject": "Signal Veil Announcement",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Signal Veil",
+        "franchise": "Signal Veil",
+        "institution": "Bandai Namco",
+        "target": "new PS5 horror title",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "game reveal"
+      },
+      "modality": "confirmed",
+      "topic": "game reveal",
+      "institution": "Bandai Namco",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-10-02T19:39:47.735314+06:00"
+    },
+    "evt_696db7b2018ba4": {
+      "event_id": "evt_696db7b2018ba4",
+      "event_key": "medievil pc recompilation release",
+      "event_subject": "MediEvil",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "medievil pc recompilation release",
+        "subject": "MediEvil",
+        "event_type": "release",
+        "action": "recompile",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "MediEvil",
+        "franchise": "MediEvil",
+        "institution": "Sony Interactive Entertainment",
+        "target": "PC",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "port"
+      },
+      "modality": "unknown",
+      "topic": "port",
+      "institution": "Sony Interactive Entertainment",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The PS1 classic MediEvil has been recompilated for PC and was not created using AI."
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 38
+      },
+      "last_seen": "2026-10-02T19:39:47.735318+06:00"
+    },
+    "evt_86890deeaaadc7": {
+      "event_id": "evt_86890deeaaadc7",
+      "event_key": "pcgamer valorant tournament metaldesk injury",
+      "event_subject": "Metal Desks Incident at Valorant Tournament",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pcgamer valorant tournament metaldesk injury",
+        "subject": "Metal Desks Incident at Valorant Tournament",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Valorant",
+        "franchise": "Valorant",
+        "institution": "",
+        "target": "tournament",
+        "platforms": [],
+        "topic": "event safety"
+      },
+      "modality": "confirmed",
+      "topic": "event safety",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-10-02T19:39:47.735323+06:00"
+    },
+    "evt_4981274270ea98": {
+      "event_id": "evt_4981274270ea98",
+      "event_key": "ken kutaragi comments game stagnation",
+      "event_subject": "Ken Kutaragi",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ken kutaragi comments game stagnation",
+        "subject": "Ken Kutaragi",
+        "event_type": "other",
+        "action": "comment",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Sony",
+        "target": "",
+        "platforms": [],
+        "topic": "industry"
+      },
+      "modality": "unknown",
+      "topic": "industry",
+      "institution": "Sony",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Ken Kutaragi says games have stagnated when curiosity is lost."
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 36
+      },
+      "last_seen": "2026-10-02T19:39:47.735327+06:00"
+    },
+    "evt_76bad379f66b4d": {
+      "event_id": "evt_76bad379f66b4d",
+      "event_key": "fut signs sunpayus influencer",
+      "event_subject": "FUT",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fut signs sunpayus influencer",
+        "subject": "FUT",
+        "event_type": "other",
+        "action": "sign",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "FIFA Ultimate Team",
+        "franchise": "FIFA",
+        "institution": "EA Sports",
+        "target": "SunPayus",
+        "platforms": [],
+        "topic": "partnership"
+      },
+      "modality": "unknown",
+      "topic": "partnership",
+      "institution": "EA Sports",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "SunPayus has joined FIFA Ultimate Team as a new influencer."
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-10-02T19:39:47.735332+06:00"
+    },
+    "evt_27421e7200a3af": {
+      "event_id": "evt_27421e7200a3af",
+      "event_key": "valve steam autumnsale 2026 bestdeals",
+      "event_subject": "Steam Autumn Sale 2026",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "valve steam autumnsale 2026 bestdeals",
+        "subject": "Steam Autumn Sale 2026",
+        "event_type": "other",
+        "action": "list",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "Valve",
+        "target": "discounted games",
+        "platforms": [],
+        "topic": "sale coverage"
+      },
+      "modality": "confirmed",
+      "topic": "sale coverage",
+      "institution": "Valve",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-10-02T19:39:47.735337+06:00"
+    },
+    "evt_5e2b105d6fa912": {
+      "event_id": "evt_5e2b105d6fa912",
+      "event_key": "gamesradar steamdeck vr experience review",
+      "event_subject": "Steam Deck VR Experience Review",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "gamesradar steamdeck vr experience review",
+        "subject": "Steam Deck VR Experience Review",
+        "event_type": "review",
+        "action": "review",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "Steam Deck VR",
+        "platforms": [],
+        "topic": "hardware review"
+      },
+      "modality": "confirmed",
+      "topic": "hardware review",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-10-02T19:39:47.735341+06:00"
+    },
+    "evt_1cb8b6fc5d84d6": {
+      "event_id": "evt_1cb8b6fc5d84d6",
+      "event_key": "ace combat 8 belkan war preorder apology",
+      "event_subject": "Ace Combat 8 team",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ace combat 8 belkan war preorder apology",
+        "subject": "Ace Combat 8 team",
+        "event_type": "other",
+        "action": "address",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Ace Combat 8",
+        "franchise": "Ace Combat",
+        "institution": "Bandai Namco",
+        "target": "Belkan War pre‑order incentive",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "customer_service"
+      },
+      "modality": "unknown",
+      "topic": "customer_service",
+      "institution": "Bandai Namco",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Developers apologized for confusion over the Belkan War pre‑order incentive for Ace Combat 8."
+      ],
+      "importance_score": 41,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 41
+      },
+      "last_seen": "2026-10-02T19:39:47.735345+06:00"
+    },
+    "evt_3f8df73fb6db85": {
+      "event_id": "evt_3f8df73fb6db85",
+      "event_key": "pcgamer monitor deal 2026 bestvalue",
+      "event_subject": "2026 Monitor Deals for PC Gaming",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pcgamer monitor deal 2026 bestvalue",
+        "subject": "2026 Monitor Deals for PC Gaming",
+        "event_type": "other",
+        "action": "list",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "monitors",
+        "platforms": [],
+        "topic": "hardware deals"
+      },
+      "modality": "confirmed",
+      "topic": "hardware deals",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 37
+      },
+      "last_seen": "2026-10-02T19:39:47.735350+06:00"
+    },
+    "evt_be9bc12f4fe8ac": {
+      "event_id": "evt_be9bc12f4fe8ac",
+      "event_key": "witcher 3 remastered pc lighting hotfix",
+      "event_subject": "CD Projekt Red",
+      "event_type": "patch",
+      "event_frame": {
+        "event_key": "witcher 3 remastered pc lighting hotfix",
+        "subject": "CD Projekt Red",
+        "event_type": "patch",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "The Witcher 3: Wild Hunt",
+        "franchise": "The Witcher",
+        "institution": "CD Projekt Red",
+        "target": "PC",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "patch"
+      },
+      "modality": "unknown",
+      "topic": "patch",
+      "institution": "CD Projekt Red",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "A second hotfix for The Witcher 3 Remastered addresses lighting concerns on PC."
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-10-02T19:39:47.735355+06:00"
+    },
+    "evt_c04a95ca797a68": {
+      "event_id": "evt_c04a95ca797a68",
+      "event_key": "xbox daily game release october 2 2026",
+      "event_subject": "Xbox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox daily game release october 2 2026",
+        "subject": "Xbox",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "multiple Xbox titles",
+        "platforms": [
+          "Xbox Series X|S",
+          "PC"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "Microsoft",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Eight new Xbox games are available on October 2, 2026."
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-10-02T19:39:47.735360+06:00"
+    },
+    "evt_d42d246c57a429": {
+      "event_id": "evt_d42d246c57a429",
+      "event_key": "siliconera tristiachronicles review atelierstyle",
+      "event_subject": "Tristia: Chronicles Review",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "siliconera tristiachronicles review atelierstyle",
+        "subject": "Tristia: Chronicles Review",
+        "event_type": "review",
+        "action": "review",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "Tristia: Chronicles",
+        "franchise": "Tristia: Chronicles",
+        "institution": "",
+        "target": "game",
+        "platforms": [],
+        "topic": "game review"
+      },
+      "modality": "confirmed",
+      "topic": "game review",
+      "institution": "",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 32
+      },
+      "last_seen": "2026-10-02T19:39:47.735364+06:00"
+    },
+    "evt_b3f0bf4ac42dfa": {
+      "event_id": "evt_b3f0bf4ac42dfa",
+      "event_key": "vgc dynastywarriors producer remasteropinion",
+      "event_subject": "Dynasty Warriors Producer on Remasters",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "vgc dynastywarriors producer remasteropinion",
+        "subject": "Dynasty Warriors Producer on Remasters",
+        "event_type": "other",
+        "action": "state",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "Dynasty Warriors",
+        "institution": "",
+        "target": "remaster projects",
+        "platforms": [],
+        "topic": "developer interview"
+      },
+      "modality": "confirmed",
+      "topic": "developer interview",
+      "institution": "",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-10-02T19:39:47.735369+06:00"
+    },
+    "evt_3431b80d8ecdf2": {
+      "event_id": "evt_3431b80d8ecdf2",
+      "event_key": "100thieves nadeshot genai casinoad controversy",
+      "event_subject": "Nadeshot Gen‑AI Casino Advertisement",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "100thieves nadeshot genai casinoad controversy",
+        "subject": "Nadeshot Gen‑AI Casino Advertisement",
+        "event_type": "other",
+        "action": "post",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "100 Thieves",
+        "target": "Gen‑AI casino ad",
+        "platforms": [],
+        "topic": "social media backlash"
+      },
+      "modality": "confirmed",
+      "topic": "social media backlash",
+      "institution": "100 Thieves",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-10-02T19:39:47.735374+06:00"
+    },
+    "evt_cb825e1ff9a746": {
+      "event_id": "evt_cb825e1ff9a746",
+      "event_key": "undead chronicles dev interview preview",
+      "event_subject": "Undead Chronicles",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "undead chronicles dev interview preview",
+        "subject": "Undead Chronicles",
+        "event_type": "other",
+        "action": "interview",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Undead Chronicles",
+        "franchise": "Undead Chronicles",
+        "institution": "",
+        "target": "solo developer",
+        "platforms": [],
+        "topic": "preview"
+      },
+      "modality": "unknown",
+      "topic": "preview",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "An interview with the solo developer reveals the bleak brilliance of Undead Chronicles."
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-10-02T19:39:47.735378+06:00"
+    },
+    "evt_d169965a35be19": {
+      "event_id": "evt_d169965a35be19",
+      "event_key": "pcgamer mouse selection article",
+      "event_subject": "Choosing the Perfect Gaming Mouse",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pcgamer mouse selection article",
+        "subject": "Choosing the Perfect Gaming Mouse",
+        "event_type": "other",
+        "action": "compare",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "gaming mice",
+        "platforms": [],
+        "topic": "hardware guide"
+      },
+      "modality": "confirmed",
+      "topic": "hardware guide",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-10-02T19:39:47.735383+06:00"
+    },
+    "evt_f104f896a928cc": {
+      "event_id": "evt_f104f896a928cc",
+      "event_key": "pok mon space collaboration merch release",
+      "event_subject": "Pokémon",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pok mon space collaboration merch release",
+        "subject": "Pokémon",
+        "event_type": "other",
+        "action": "launch",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Pokémon",
+        "institution": "The Pokémon Company",
+        "target": "space‑themed merchandise",
+        "platforms": [],
+        "topic": "merch"
+      },
+      "modality": "unknown",
+      "topic": "merch",
+      "institution": "The Pokémon Company",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "New Pokémon merchandise celebrating World Space Week has been released."
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-10-02T19:39:47.735387+06:00"
+    },
+    "evt_552536eff96b0d": {
+      "event_id": "evt_552536eff96b0d",
+      "event_key": "steam upcominggames wishlist 2026",
+      "event_subject": "Upcoming Steam Games Wishlist",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "steam upcominggames wishlist 2026",
+        "subject": "Upcoming Steam Games Wishlist",
+        "event_type": "other",
+        "action": "recommend",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "Valve",
+        "target": "upcoming games",
+        "platforms": [],
+        "topic": "upcoming releases"
+      },
+      "modality": "confirmed",
+      "topic": "upcoming releases",
+      "institution": "Valve",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-10-02T19:39:47.735391+06:00"
+    },
+    "evt_6262776947478a": {
+      "event_id": "evt_6262776947478a",
+      "event_key": "gamespot streetfightermovie easteregg evomoment37",
+      "event_subject": "Street Fighter Movie Easter Egg",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gamespot streetfightermovie easteregg evomoment37",
+        "subject": "Street Fighter Movie Easter Egg",
+        "event_type": "other",
+        "action": "expose",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "Street Fighter",
+        "institution": "",
+        "target": "movie",
+        "platforms": [],
+        "topic": "easter egg"
+      },
+      "modality": "confirmed",
+      "topic": "easter egg",
+      "institution": "",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-10-02T19:39:47.735395+06:00"
+    },
+    "evt_ea88b8ad2096a4": {
+      "event_id": "evt_ea88b8ad2096a4",
+      "event_key": "world of warcraft torch item update",
+      "event_subject": "Blizzard Entertainment",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "world of warcraft torch item update",
+        "subject": "Blizzard Entertainment",
+        "event_type": "other",
+        "action": "add",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "World of Warcraft",
+        "franchise": "Warcraft",
+        "institution": "Blizzard Entertainment",
+        "target": "torch item",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "update"
+      },
+      "modality": "unknown",
+      "topic": "update",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "A working torch has been added to World of Warcraft."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-10-02T19:39:47.735399+06:00"
+    },
+    "evt_59f8a0bc106dd4": {
+      "event_id": "evt_59f8a0bc106dd4",
+      "event_key": "street fighter movie evo moment 37 reference",
+      "event_subject": "Street Fighter movie",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "street fighter movie evo moment 37 reference",
+        "subject": "Street Fighter movie",
+        "event_type": "other",
+        "action": "include",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Street Fighter",
+        "institution": "",
+        "target": "Evo Moment 37",
+        "platforms": [],
+        "topic": "media"
+      },
+      "modality": "unknown",
+      "topic": "media",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The Street Fighter movie references the iconic Evo Moment 37 parry‑fest."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-10-02T19:39:47.735403+06:00"
+    },
+    "evt_cc816c16844fc4": {
+      "event_id": "evt_cc816c16844fc4",
+      "event_key": "polygon evildead getout directors horrorshort production",
+      "event_subject": "Evil Dead & Get Out Directors Horror Short Production",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "polygon evildead getout directors horrorshort production",
+        "subject": "Evil Dead & Get Out Directors Horror Short Production",
+        "event_type": "other",
+        "action": "announce",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "horror short film",
+        "platforms": [],
+        "topic": "film production"
+      },
+      "modality": "confirmed",
+      "topic": "film production",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-02T19:39:47.735407+06:00"
+    },
+    "evt_974b7b6a717fa9": {
+      "event_id": "evt_974b7b6a717fa9",
+      "event_key": "steam frame night vision hack",
+      "event_subject": "Steam",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "steam frame night vision hack",
+        "subject": "Steam",
+        "event_type": "other",
+        "action": "repurpose",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Valve Corporation",
+        "target": "Steam Deck frame",
+        "platforms": [
+          "Steam Deck"
+        ],
+        "topic": "modding"
+      },
+      "modality": "unknown",
+      "topic": "modding",
+      "institution": "Valve Corporation",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The Steam Deck frame can be used as night‑vision goggles."
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-02T19:39:47.735411+06:00"
+    },
+    "evt_3e2423cb32fe93": {
+      "event_id": "evt_3e2423cb32fe93",
+      "event_key": "airbnb aiimage scam toxictoilet photo",
+      "event_subject": "AI‑Generated Image Scam on Airbnb",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "airbnb aiimage scam toxictoilet photo",
+        "subject": "AI‑Generated Image Scam on Airbnb",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "Airbnb",
+        "target": "guest",
+        "platforms": [],
+        "topic": "AI‑image misuse"
+      },
+      "modality": "confirmed",
+      "topic": "AI‑image misuse",
+      "institution": "Airbnb",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-10-02T19:39:47.735415+06:00"
+    },
+    "evt_36b9476554f2ec": {
+      "event_id": "evt_36b9476554f2ec",
+      "event_key": "gamesradar multiverse loki mcu analysis",
+      "event_subject": "Loki Multiverse Usage in MCU",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gamesradar multiverse loki mcu analysis",
+        "subject": "Loki Multiverse Usage in MCU",
+        "event_type": "other",
+        "action": "analyze",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "Marvel Cinematic Universe",
+        "institution": "",
+        "target": "Loki storyline",
+        "platforms": [],
+        "topic": "story analysis"
+      },
+      "modality": "confirmed",
+      "topic": "story analysis",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 28,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 28
+      },
+      "last_seen": "2026-10-02T19:39:47.735420+06:00"
+    },
+    "evt_4c168b94e69123": {
+      "event_id": "evt_4c168b94e69123",
+      "event_key": "ign benaffleck politics interview",
+      "event_subject": "Ben Affleck on US Politics",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ign benaffleck politics interview",
+        "subject": "Ben Affleck on US Politics",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "published",
+        "modality": "confirmed",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "politics",
+        "platforms": [],
+        "topic": "celebrity interview"
+      },
+      "modality": "confirmed",
+      "topic": "celebrity interview",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-02T19:39:47.735424+06:00"
+    },
+    "evt_687ba1cba42700": {
+      "event_id": "evt_687ba1cba42700",
+      "event_key": "christopher abbott reveals kraven production issues",
+      "event_subject": "Christopher Abbott",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "christopher abbott reveals kraven production issues",
+        "subject": "Christopher Abbott",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Spider-Man (Sony)",
+        "institution": "Sony Pictures",
+        "target": "Kraven the Hunter film",
+        "platforms": [],
+        "topic": "film"
+      },
+      "modality": "unknown",
+      "topic": "film",
+      "institution": "Sony Pictures",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Actor Christopher Abbott said he knew the Kraven spinoff wasn’t going well during filming."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-02T19:39:47.735428+06:00"
+    },
+    "evt_f07c622085e3b3": {
+      "event_id": "evt_f07c622085e3b3",
+      "event_key": "eyes without a face influence article",
+      "event_subject": "Georges Franju",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "eyes without a face influence article",
+        "subject": "Georges Franju",
+        "event_type": "other",
+        "action": "explain",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "film"
+      },
+      "modality": "unknown",
+      "topic": "film",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The 1960 French horror classic Eyes Without a Face inspired Halloween and other works."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-02T19:39:47.735433+06:00"
+    },
+    "evt_b160ce760837ad": {
+      "event_id": "evt_b160ce760837ad",
+      "event_key": "robert pattinson praises transformers 2000s",
+      "event_subject": "Robert Pattinson",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "robert pattinson praises transformers 2000s",
+        "subject": "Robert Pattinson",
+        "event_type": "other",
+        "action": "praise",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Transformers",
+        "institution": "",
+        "target": "Transformers (2000s)",
+        "platforms": [],
+        "topic": "culture"
+      },
+      "modality": "unknown",
+      "topic": "culture",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Pattinson called Michael Bay’s Transformers the definitive movie of the 2000s."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-02T19:39:47.735437+06:00"
     }
   },
   "posted_event_ids": [
@@ -66339,7 +69333,15 @@
     "evt_0aea7065544f07",
     "evt_7946df8ea911a8",
     "evt_5a9dcce0aa09b4",
-    "evt_c77a411d8800b6"
+    "evt_c77a411d8800b6",
+    "evt_34716f3aafd1ab",
+    "evt_598628c76d084c",
+    "evt_9c68f823f65f12",
+    "evt_b306fc10a523f7",
+    "evt_f526ba013cf1ea",
+    "evt_a4e86ee71dd1c6",
+    "evt_43ccd8f1d4a4ce",
+    "evt_544d8cd601fde3"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -66503,16 +69505,24 @@
     "take two signs long term publishing deal with xbox amid industry debate",
     "capcom bets on endless resident evil remakes amid crossover plans",
     "aoc unveils 1 000 hz ips monitor with 0 1 ms response time",
-    "minecraft dungeons ii launches with strong reviews across platforms"
+    "minecraft dungeons ii launches with strong reviews across platforms",
+    "square enix s final fantasy vii revelation promises extravagant sephiroth finale",
+    "star wars galactic racer revives burnout style arcade racing on playstation",
+    "micron warns ram shortages will tighten through 2028 as prices surge",
+    "activision s sledgehammer team set to reboot halo franchise",
+    "blizzard cracks down on rmt as streamers ziqo and payo face bans in wow forever",
+    "steam poised to smash 20 billion revenue mark thanks to the witcher 3 remastered and wardogs",
+    "gears of war e day launch lacks legacy features coalition promises future return",
+    "bethesda sends cease and desist to ai generated fallout new york browser game"
   ],
   "category_coverage": {
-    "Game Updates": "2026-10-01T20:28:41.386159+06:00",
-    "Major Releases": "2026-10-02T12:44:36.076349+06:00",
+    "Game Updates": "2026-10-02T19:56:30.652471+06:00",
+    "Major Releases": "2026-10-02T19:56:25.777342+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
     "Nintendo": "2026-09-09T21:29:41.864902+06:00",
     "Expansions and DLC": "2026-09-09T21:29:31.196339+06:00",
-    "Gaming Hardware": "2026-09-11T00:33:22.574762+06:00",
+    "Gaming Hardware": "2026-10-02T19:56:00.136699+06:00",
     "Cybersecurity": "2026-09-10T01:20:12.789492+06:00",
     "Pricing and Monetization": "2026-09-11T00:33:27.401107+06:00",
     "Anti-Cheat": "2026-09-11T00:33:42.084305+06:00",
