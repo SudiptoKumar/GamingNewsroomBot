@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"2a33f-19u/mgXdvx+omU4TSYFh+3G/lSg\"",
+      "etag": "W/\"26ecf-oFsV0fi3j9jNmuegoDmCiPxCHJ4\"",
       "last_modified": null,
-      "last_checked": "2026-10-03T12:02:55.103839+06:00",
+      "last_checked": "2026-10-03T18:14:41.773816+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-03T12:02:55.372412+06:00",
+      "last_checked": "2026-10-03T18:14:42.025211+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ac099e7-b5c\"",
-      "last_modified": "Sat, 03 Oct 2026 06:00:07 GMT",
-      "last_checked": "2026-10-03T12:02:55.828328+06:00",
+      "etag": "\"6ac0f09a-b1f\"",
+      "last_modified": "Sat, 03 Oct 2026 12:10:02 GMT",
+      "last_checked": "2026-10-03T18:14:42.469750+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Fri, 02 Oct 2026 19:08:59 GMT",
-      "last_checked": "2026-10-03T12:02:56.586231+06:00",
+      "last_modified": "Sat, 03 Oct 2026 12:04:23 GMT",
+      "last_checked": "2026-10-03T18:14:42.633592+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ac08eca-12a1\"",
-      "last_modified": "Sat, 03 Oct 2026 05:12:42 GMT",
-      "last_checked": "2026-10-03T12:02:56.890479+06:00",
+      "etag": "\"6ac0d5a9-12c2\"",
+      "last_modified": "Sat, 03 Oct 2026 10:15:05 GMT",
+      "last_checked": "2026-10-03T18:14:42.960081+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-03T12:02:56.994659+06:00",
+      "last_checked": "2026-10-03T18:14:43.226803+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-03T12:02:57.546889+06:00",
+      "last_checked": "2026-10-03T18:14:43.912027+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"7c76932f9590910ec0f9ccd4af8e0bdc\"",
-      "last_modified": "Sat, 03 Oct 2026 00:00:16 GMT",
-      "last_checked": "2026-10-03T12:02:57.783489+06:00",
+      "etag": "W/\"36facf4700c24a5bf4d6f71b7d01058b\"",
+      "last_modified": "Sat, 03 Oct 2026 10:09:07 GMT",
+      "last_checked": "2026-10-03T18:14:44.188258+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-03T12:02:58.066468+06:00",
+      "last_checked": "2026-10-03T18:14:44.338864+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Fri, 2 Oct 2026 18:14:40 GMT",
-      "last_checked": "2026-10-03T12:02:58.597978+06:00",
+      "last_modified": "Sat, 3 Oct 2026 12:02:59 GMT",
+      "last_checked": "2026-10-03T18:14:44.733604+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sat, 03 Oct 2026 06:02:59 GMT",
-      "last_checked": "2026-10-03T12:02:59.180279+06:00",
+      "last_modified": "Sat, 03 Oct 2026 12:14:45 GMT",
+      "last_checked": "2026-10-03T18:14:45.224381+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"7b21812d12c757da98383c50e00e908d\"",
-      "last_modified": "Fri, 02 Oct 2026 22:48:09 GMT",
-      "last_checked": "2026-10-03T12:02:59.798116+06:00",
+      "etag": "W/\"0583d166567de4a22d7d2d4a63808a6a\"",
+      "last_modified": "Sat, 03 Oct 2026 08:25:55 GMT",
+      "last_checked": "2026-10-03T18:14:45.759629+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-03T12:03:00.218410+06:00",
+      "last_checked": "2026-10-03T18:14:46.239830+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-03T12:03:00.480905+06:00",
+      "last_checked": "2026-10-03T18:14:46.766468+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-03T12:03:01.034838+06:00",
+      "last_checked": "2026-10-03T18:14:47.291957+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-03T12:03:01.373974+06:00",
-      "fail_count": 44,
+      "last_checked": "2026-10-03T18:14:47.614109+06:00",
+      "fail_count": 45,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"08eb80a674d1aef7912706f9ebac2ebf\"",
       "last_modified": "Fri, 02 Oct 2026 16:35:12 GMT",
-      "last_checked": "2026-10-03T12:03:01.479408+06:00",
+      "last_checked": "2026-10-03T18:14:47.855162+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-03T12:03:01.651357+06:00",
+      "last_checked": "2026-10-03T18:14:48.000164+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-03T12:03:01.883661+06:00",
-      "fail_count": 44,
+      "last_checked": "2026-10-03T18:14:48.195565+06:00",
+      "fail_count": 45,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"19d98fb9fef796c84bc4948630a937e3\"",
-      "last_modified": "Fri, 02 Oct 2026 20:00:00 GMT",
-      "last_checked": "2026-10-03T12:03:02.036047+06:00",
+      "etag": "W/\"e44d1ba30890b8e8da0fcdcf664464fb\"",
+      "last_modified": "Sat, 03 Oct 2026 10:00:00 GMT",
+      "last_checked": "2026-10-03T18:14:48.358720+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -154,70 +154,6 @@
       "status": "pending",
       "first_seen": "2026-09-28T20:57:49.509084+06:00",
       "last_seen": "2026-10-01T00:50:05.528975+06:00"
-    },
-    "pcgamer.com/hardware/gaming-monitors/if-you-feel-like-youre-letting-your-gpu-go-to-waste-this-5k2k-alienware-monitor-is-actually-affordable-with-a-hefty-new-price-drop": {
-      "title": "If you feel like you're letting your GPU go to waste, this 5K2K Alienware monitor is actually affordable with a hefty new price drop",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/if-you-feel-like-youre-letting-your-gpu-go-to-waste-this-5k2k-alienware-monitor-is-actually-affordable-with-a-hefty-new-price-drop/",
-      "canonical": "pcgamer.com/hardware/gaming-monitors/if-you-feel-like-youre-letting-your-gpu-go-to-waste-this-5k2k-alienware-monitor-is-actually-affordable-with-a-hefty-new-price-drop",
-      "published_dt": "2026-09-29T09:54:21+06:00",
-      "published_date": "2026-09-29T09:54:21+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "The Alienware 39 AW3926QW gets its first major price drop, as news of a fix for one of its drawbacks emerges.",
-      "image": "https://cdn.mos.cms.futurecdn.net/wCbd8EUNFSGdJgfgXmRUJd-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-29T12:35:23.731838+06:00",
-      "last_seen": "2026-09-29T12:35:23.731846+06:00"
-    },
-    "polygon.com/fire-emblem-fortunes-weave-act-2-villain-twist": {
-      "title": "Fire Emblem Just Completely Shook Up a Tired RPG Villain Twist",
-      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-act-2-villain-twist/",
-      "canonical": "polygon.com/fire-emblem-fortunes-weave-act-2-villain-twist",
-      "published_dt": "2026-09-29T10:30:15+06:00",
-      "published_date": "2026-09-29T10:30:15+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Fire Emblem: Fortune’s Weave sees a tyrannical villain ascend to power in Act 2, and boy does he commit to the bit",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/fe3h-fire-emblem-fortune-s-weave-divine-sovereign.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-29T12:35:24.245429+06:00",
-      "last_seen": "2026-09-29T12:35:24.245435+06:00"
-    },
-    "polygon.com/buffy-vampire-slayer-school-hard-retrospective-spike-first-episode": {
-      "title": "29 Years Ago, 'Buffy' Introduced Its Best Villain. He Was Never Meant to Last.",
-      "url": "https://www.polygon.com/buffy-vampire-slayer-school-hard-retrospective-spike-first-episode/",
-      "canonical": "polygon.com/buffy-vampire-slayer-school-hard-retrospective-spike-first-episode",
-      "published_dt": "2026-09-29T10:00:23+06:00",
-      "published_date": "2026-09-29T10:00:23+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "29 years ago, Buffy the Vampire Slayer aired an episode that introduced its best villain. It was also when the show found its voice.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/btvs203-01485.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-29T12:35:24.245586+06:00",
-      "last_seen": "2026-09-29T12:35:24.245591+06:00"
-    },
-    "nintendolife.com/news/2026/09/tales-of-eternia-is-getting-a-proper-physical-release-on-switch": {
-      "title": "Tales Of Eternia Is Getting A Proper Physical Release On Switch",
-      "url": "https://www.nintendolife.com/news/2026/09/tales-of-eternia-is-getting-a-proper-physical-release-on-switch",
-      "canonical": "nintendolife.com/news/2026/09/tales-of-eternia-is-getting-a-proper-physical-release-on-switch",
-      "published_dt": "2026-09-29T09:55:00+06:00",
-      "published_date": "2026-09-29T09:55:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Just don't expect an upgrade. Bandai Namco is bringing its role-playing game Tales of Eternia Remastered to the Switch and Switch 2 next month, and some more information about the physical release has now been shared. It's apparently a \"digital-only\" release in the US, according to Nintendo Everything . In case you missed it, there will be physical options available elsewhere. If you are buying a hard copy and want a proper version with \"everything\" on the game cart, you'll need to purchase the original Switch release. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/6aebcf97fe4c6/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-09-29T12:35:26.661704+06:00",
-      "last_seen": "2026-09-29T12:35:26.661711+06:00"
     },
     "ign.com/articles/digger-ad-trolls-bad-reviews-for-new-tom-cruise-film-f-those-people": {
       "title": "Digger Ad Trolls Bad Reviews for New Tom Cruise Film: ‘F*** Those People!’",
@@ -6241,6 +6177,313 @@
       "status": "pending",
       "first_seen": "2026-10-03T12:03:08.974459+06:00",
       "last_seen": "2026-10-03T12:03:08.974460+06:00"
+    },
+    "gamespot.com/articles/stellar-blade-has-crashed-to-its-lowest-price-yet-on-pc-so-get-ready-to-save-humanity": {
+      "title": "Stellar Blade Has Crashed To Its Lowest Price Yet On PC, So Get Ready To Save Humanity",
+      "url": "https://www.gamespot.com/articles/stellar-blade-has-crashed-to-its-lowest-price-yet-on-pc-so-get-ready-to-save-humanity/",
+      "canonical": "gamespot.com/articles/stellar-blade-has-crashed-to-its-lowest-price-yet-on-pc-so-get-ready-to-save-humanity",
+      "published_dt": "2026-10-03T18:00:00+06:00",
+      "published_date": "2026-10-03T18:00:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Despite some shortcomings, I have Stellar Blade to thank for reigniting my love of action games. I’m getting older with each passing year, and I need a good action fix every now and then to turn my brain off and enjoy slaying a variety of enemies. Stellar Blade delivers exactly that. If you’re like me, well, you won’t want to miss out on this great deal, with Stellar Blade cheaper than ever on PC. You play as Eve, who is sent alongside a group of super-soldier siblings down to a post-apocalyptic Earth to defeat the Naytibas. With humanity taking to space for safety, Eve’s goal is to defeat the powerful Alpha Naytibas and their leader, known as the Elder Naytiba, in the hope of saving what remains of humanity. Unsurprisingly, things go wrong fairly quickly. Stellar Blade manages to capture the same intensity of a hack-and-slash game while blending it with action-RPG elements that help it sit somewhere between the two genres. Narratively, it isn’t the strongest game out there, but its excellent combat helps it stand out as one of PlayStation’s most distinctive action games. And I’m thankful it managed to come to PC, too. https://www.youtube.com/watch?v=F1fNcBiGiLY&pp=0gcJCS4MAYcqIYzv I’m, unsurprisingly, not the only one who likes it. In our Stellar Blade review , Imran Khan gave the game an 8/10, saying, “I came away from Stellar Blade having enjoyed the game quite a bit despite its foibles on the back of its incredibly strong systems.” If you’ve been looking for something to fill that Nier-sized hole in your heart, Stellar Blade may not be perfect, but it’s pretty damn good. Thankfully, there’s also a sequel coming, with Blood Rain being self-published by the developer this time around. Hopefully, that means we won’t have to wait for a PlayStation timed-exclusivity window to lapse and can instead enjoy it on PC at the same time as everyone else. You don’t have to go too far into the atmosphere to get a banging deal on Stellar Blade, as I’ve got it right here. For a ",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-stellar-blade-cheapest-ever-deal.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-03T18:14:42.168184+06:00",
+      "last_seen": "2026-10-03T18:14:42.168203+06:00"
+    },
+    "videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine": {
+      "title": "Capcom details plans to evolve RE Engine into an ‘AI-generation game engine’",
+      "url": "https://www.videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine/",
+      "canonical": "videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine",
+      "published_dt": "2026-10-03T16:47:45+06:00",
+      "published_date": "2026-10-03T16:47:45+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Programmer says Capcom’s goal is a future 'where we create games together with AI'",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-03T18:14:42.475073+06:00",
+      "last_seen": "2026-10-03T18:14:42.475076+06:00",
+      "posted_at": "2026-10-03T18:17:12.706406+06:00"
+    },
+    "videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it": {
+      "title": "Dan Houser still hasn’t seen GTA 6: ‘I will try and avoid it’",
+      "url": "https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/",
+      "canonical": "videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it",
+      "published_dt": "2026-10-03T16:03:25+06:00",
+      "published_date": "2026-10-03T16:03:25+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "The Rockstar Games co-founder explains why he's avoiding GTA 6's Extended Reveal",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-03T18:14:42.475165+06:00",
+      "last_seen": "2026-10-03T18:14:42.475166+06:00"
+    },
+    "videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use": {
+      "title": "GTA 6 rating pulled after revealing sex scenes and drug use",
+      "url": "https://www.videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use/",
+      "canonical": "videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use",
+      "published_dt": "2026-10-03T15:40:41+06:00",
+      "published_date": "2026-10-03T15:40:41+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "PEGI rating reveals GTA 6 details, including “frequent and prominent” drug use",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-03T18:14:42.475241+06:00",
+      "last_seen": "2026-10-03T18:14:42.475242+06:00",
+      "posted_at": "2026-10-03T18:17:07.150356+06:00"
+    },
+    "eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039": {
+      "title": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales",
+      "url": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039",
+      "canonical": "eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039",
+      "published_dt": "2026-10-03T18:04:23+06:00",
+      "published_date": "2026-10-03T18:04:23+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "A free next-gen update is coming to Metro 2033 Redux and Metro Last Light Redux on 22nd October for PC (29th October for consoles). Read more",
+      "image": "https://assetsio.gnwcdn.com/metro_clean4.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-03T18:14:42.688000+06:00",
+      "last_seen": "2026-10-03T18:14:42.688005+06:00"
+    },
+    "eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand": {
+      "title": "Memory shortages set to persist into 2028, warns Micron CEO",
+      "url": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
+      "canonical": "eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
+      "published_dt": "2026-10-03T16:34:13+06:00",
+      "published_date": "2026-10-03T16:34:13+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Micron has warned that global RAM shortages show no sign of easing, telling investors on its earnings call that it has already sold most of next year's production. Read more",
+      "image": "https://assetsio.gnwcdn.com/ps5-ram-calendar.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-03T18:14:42.688167+06:00",
+      "last_seen": "2026-10-03T18:14:42.688168+06:00",
+      "posted_at": "2026-10-03T18:17:17.643174+06:00"
+    },
+    "pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls": {
+      "title": "Bored with roguelikes? You might still want to play Dicevaders, a game about perfecting dice rolls",
+      "url": "https://www.pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls/",
+      "canonical": "pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls",
+      "published_dt": "2026-10-03T17:17:53+06:00",
+      "published_date": "2026-10-03T17:17:53+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Lead an alien invasion in this fun-but-fair game of colossal damage numbers.",
+      "image": "https://cdn.mos.cms.futurecdn.net/eZJtvSrB6foPjzxYohZTAn-1920-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-03T18:14:43.389228+06:00",
+      "last_seen": "2026-10-03T18:14:43.389232+06:00"
+    },
+    "pcgamer.com/gaming-industry/game-development/capcom-announces-plans-to-transform-its-re-engine-into-an-ai-generation-game-engine": {
+      "title": "Capcom announces plans to transform its RE Engine into an 'AI-generation game engine'",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/capcom-announces-plans-to-transform-its-re-engine-into-an-ai-generation-game-engine/",
+      "canonical": "pcgamer.com/gaming-industry/game-development/capcom-announces-plans-to-transform-its-re-engine-into-an-ai-generation-game-engine",
+      "published_dt": "2026-10-03T16:42:31+06:00",
+      "published_date": "2026-10-03T16:42:31+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "But that isn't necessarily the same as a generative AI game engine.",
+      "image": "https://cdn.mos.cms.futurecdn.net/KcQG5vm9h2uBkn78Xrn7nd-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-03T18:14:43.389310+06:00",
+      "last_seen": "2026-10-03T18:14:43.389311+06:00"
+    },
+    "polygon.com/the-a-team-streaming-free-tubi": {
+      "title": "NBC's Unbeatable 98-Episode Action Thriller Is Officially Free to Watch on Streaming",
+      "url": "https://www.polygon.com/the-a-team-streaming-free-tubi/",
+      "canonical": "polygon.com/the-a-team-streaming-free-tubi",
+      "published_dt": "2026-10-03T17:00:16+06:00",
+      "published_date": "2026-10-03T17:00:16+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The A-Team mixed cartoonish violence, ridiculous characters and plenty of heart into one of the biggest action shows of the ’80s.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/tcdatea_ec014.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-03T18:14:43.917210+06:00",
+      "last_seen": "2026-10-03T18:14:43.917212+06:00"
+    },
+    "polygon.com/game-thrones-war-for-westeros-monster-interview": {
+      "title": "Game of Thrones’ Biggest Villain Is Even More Terrifying in an Upcoming Official Release",
+      "url": "https://www.polygon.com/game-thrones-war-for-westeros-monster-interview/",
+      "canonical": "polygon.com/game-thrones-war-for-westeros-monster-interview",
+      "published_dt": "2026-10-03T16:00:15+06:00",
+      "published_date": "2026-10-03T16:00:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The designers of War for Westeros gave the Night King a terrifying weapon",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/game-of-thrones-war-westeros-night-king.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-03T18:14:43.917289+06:00",
+      "last_seen": "2026-10-03T18:14:43.917290+06:00"
+    },
+    "gamesradar.com/comics/dc-comics/3-must-read-dc-absolute-universe-comics": {
+      "title": "From Batman to Wonder Woman, here are the 3 must-read DC Absolute Universe comics",
+      "url": "https://www.gamesradar.com/comics/dc-comics/3-must-read-dc-absolute-universe-comics/",
+      "canonical": "gamesradar.com/comics/dc-comics/3-must-read-dc-absolute-universe-comics",
+      "published_dt": "2026-10-03T18:00:00+06:00",
+      "published_date": "2026-10-03T18:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Ahead of the New York Comic-Con DC Absolute Universe panel, here are the three must-reads to get you started...",
+      "image": "https://cdn.mos.cms.futurecdn.net/RLUW9YpUyDBSeMe8DETCdS-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-03T18:14:44.465912+06:00",
+      "last_seen": "2026-10-03T18:14:44.465916+06:00"
+    },
+    "gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-lead-explains-that-making-each-game-in-the-rpg-trilogy-a-complete-experience-was-non-negotiable-from-the-beginning": {
+      "title": "Final Fantasy 7 Revelation lead says making each game in the trilogy complete was \"non-negotiable\"",
+      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-lead-explains-that-making-each-game-in-the-rpg-trilogy-a-complete-experience-was-non-negotiable-from-the-beginning/",
+      "canonical": "gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-lead-explains-that-making-each-game-in-the-rpg-trilogy-a-complete-experience-was-non-negotiable-from-the-beginning",
+      "published_dt": "2026-10-03T17:35:03+06:00",
+      "published_date": "2026-10-03T17:35:03+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "No compromises here",
+      "image": "https://cdn.mos.cms.futurecdn.net/qnvJzjj9ugacmZCsy3n6Qc-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-03T18:14:44.465992+06:00",
+      "last_seen": "2026-10-03T18:14:44.465994+06:00"
+    },
+    "gamesradar.com/platforms/xbox/ex-playstation-lead-says-its-impossible-for-devs-to-make-a-profit-on-game-pass-even-if-microsoft-is-the-house-always-wins": {
+      "title": "Ex-PlayStation lead says it's \"impossible\" for devs to make a profit on Game Pass",
+      "url": "https://www.gamesradar.com/platforms/xbox/ex-playstation-lead-says-its-impossible-for-devs-to-make-a-profit-on-game-pass-even-if-microsoft-is-the-house-always-wins/",
+      "canonical": "gamesradar.com/platforms/xbox/ex-playstation-lead-says-its-impossible-for-devs-to-make-a-profit-on-game-pass-even-if-microsoft-is-the-house-always-wins",
+      "published_dt": "2026-10-03T17:16:23+06:00",
+      "published_date": "2026-10-03T17:16:23+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"Your $69.99 game has one chance to bust out and break through\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/WgWLUY6xZEjWTVrj4fDxyL-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-03T18:14:44.466063+06:00",
+      "last_seen": "2026-10-03T18:14:44.466064+06:00"
+    },
+    "rockpapershotgun.com/the-other-one-jordan-magnusons-game-poem-jam-is-a-fascinating-collection-of-chimeras": {
+      "title": "The Other One: Jordan Magnuson's Game Poem jam is a fascinating collection of chimeras",
+      "url": "https://www.rockpapershotgun.com/the-other-one-jordan-magnusons-game-poem-jam-is-a-fascinating-collection-of-chimeras",
+      "canonical": "rockpapershotgun.com/the-other-one-jordan-magnusons-game-poem-jam-is-a-fascinating-collection-of-chimeras",
+      "published_dt": "2026-10-03T17:00:00+06:00",
+      "published_date": "2026-10-03T17:00:00+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "Sometimes I Wonder About The Other Me is a 2D platformer created by \"small game\" developer Luis \"Ludipe\" Díaz Peralta, whose other works include A Place For The Unwilling . It's broken into a handful of single screen maps. On each screen, there's a Mario-brand exclamation mark block that burps a text fragment, forming an overarching monologue that begins with the title phrase. As you move between screens, you come to a signpost pointing left and right. Heading in either direction leads to a splitscreen area, with the player controlling duplicate characters. As you guide your charges rightward, one half of the screen flakes away to darkness. The remaining character returns to the starting screen, there to wonder anew about the Other Me. Read more",
+      "image": "https://assetsio.gnwcdn.com/Screenshot-2026-09-15-100547.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-03T18:14:44.787075+06:00",
+      "last_seen": "2026-10-03T18:14:44.787079+06:00"
+    },
+    "nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto": {
+      "title": "Random: Tough Week? Grab Yourself A Brew & Get These Immaculate Zelda Tunes On Your Playlist, Pronto",
+      "url": "https://www.nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto",
+      "canonical": "nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto",
+      "published_dt": "2026-10-03T16:00:00+06:00",
+      "published_date": "2026-10-03T16:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Nylon Lon Ranch. Not sure if you've heard, but they're remaking Ocarina of Time . Oh, you had? Exciting, isn't it! Given the enthusiasm for the return of the Links Young and Adult just over one month from now, your algorithm has probably been spitting a whole load of Zelda-related content at you recently. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/b061510e0a82e/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-03T18:14:46.250175+06:00",
+      "last_seen": "2026-10-03T18:14:46.250178+06:00"
+    },
+    "pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-next-week-5th-11th-october": {
+      "title": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out Next Week (5th-11th October)",
+      "url": "https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-next-week-5th-11th-october",
+      "canonical": "pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-next-week-5th-11th-october",
+      "published_dt": "2026-10-03T17:00:00+06:00",
+      "published_date": "2026-10-03T17:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Kingdom Hearts! Star Wars! Hellraiser! The hectic release schedule does show some signs of slowing down next week, but there's still no shortage of games to play. Highlights this time include the critically acclaimed Star Wars: Galactic Racer and the PS5 version of the Kingdom Hearts Collection I - III . Keep an eye out for Hellraiser: Revival , too. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/db4444fa6e97a/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-03T18:14:46.778098+06:00",
+      "last_seen": "2026-10-03T18:14:46.778101+06:00"
+    },
+    "purexbox.com/features/these-20plus-games-are-coming-to-xbox-next-week-october-5-9": {
+      "title": "Feature: These 20+ Games Are Coming To Xbox Next Week (October 5-9)",
+      "url": "https://www.purexbox.com/features/these-20plus-games-are-coming-to-xbox-next-week-october-5-9",
+      "canonical": "purexbox.com/features/these-20plus-games-are-coming-to-xbox-next-week-october-5-9",
+      "published_dt": "2026-10-03T18:00:00+06:00",
+      "published_date": "2026-10-03T18:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Including at least three Xbox Game Pass titles. Welcome to your Xbox games roundup for October 5-9 ! The big release of the next few days is obviously Gears of War: E-Day , but we've also got other major titles on the horizon including Star Wars: Galactic Racer and Clive Barker's Hellraiser: Revival , while Xbox Game Pass is getting at least three titles with hopefully more to come! Here's what's coming to Xbox next week: Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/a9d12bf26c82c/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-03T18:14:47.303154+06:00",
+      "last_seen": "2026-10-03T18:14:47.303158+06:00"
+    },
+    "purexbox.com/features/talking-point-what-are-you-playing-this-weekend-october-3-4": {
+      "title": "Talking Point: What Are You Playing This Weekend? (October 3-4)",
+      "url": "https://www.purexbox.com/features/talking-point-what-are-you-playing-this-weekend-october-3-4",
+      "canonical": "purexbox.com/features/talking-point-what-are-you-playing-this-weekend-october-3-4",
+      "published_dt": "2026-10-03T17:00:00+06:00",
+      "published_date": "2026-10-03T17:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Are you playing Gears? Or something else? Welcome back to the weekend, gamers! It's been one hell of a week, let me tell ya', so why don't you kick back with your current videogame conquest and have a proper good sesh?! This week Fraser and I have been recovering from a recent trip to Xbox FanFest in London , and all the big news surrounding the release of Gears of War: E-Day . Of course, it's worth remembering to check out the Free Play Days games this week too. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/4fc3849b65d25/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-03T18:14:47.303377+06:00",
+      "last_seen": "2026-10-03T18:14:47.303379+06:00"
+    },
+    "escapistmagazine.com/system-shock-2-remaster": {
+      "title": "BioShock Fans Can Claim System Shock 2 Remaster on Epic",
+      "url": "https://www.escapistmagazine.com/system-shock-2-remaster/",
+      "canonical": "escapistmagazine.com/system-shock-2-remaster",
+      "published_dt": "2026-10-03T16:00:00+06:00",
+      "published_date": "2026-10-03T16:00:00+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "The System Shock 2 Remaster is free on the Epic Games Store through October 8 for PC players; a DirectX 11-compatible GPU is required to play. The post BioShock Fans Can Claim System Shock 2 Remaster on Epic appeared first on The Escapist .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-03T18:14:48.377478+06:00",
+      "last_seen": "2026-10-03T18:14:48.377482+06:00"
     }
   },
   "events": {
@@ -15235,6 +15478,160 @@
           "headline": "Original Halo Ported to Web Browser with 128‑Player Multiplayer",
           "claims": [
             "The original Halo is now playable in browsers with multiplayer support"
+          ]
+        }
+      ]
+    },
+    "evt_d2107d178a6ab7": {
+      "event_id": "evt_d2107d178a6ab7",
+      "event_key": "gta 6 rating controversy after sex drug content reveal",
+      "event_subject": "GTA 6 rating pull",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta 6 rating controversy after sex drug content reveal",
+        "subject": "GTA 6 rating pull",
+        "event_type": "other",
+        "action": "pull",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "PEGI",
+        "target": "public",
+        "platforms": [],
+        "topic": "rating controversy"
+      },
+      "sources": [
+        "VGC"
+      ],
+      "event_sources": [
+        "VGC"
+      ],
+      "claims": [
+        "Rating removed after revealing frequent drug use and sex scenes"
+      ],
+      "importance_score": 59,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 25,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "PEGI pulls Grand Theft Auto 6 rating after revealing explicit sex and drug content",
+      "summary": "The European PEGI board briefly posted an 18 rating for Grand Theft Auto 6, detailing graphic violence, drug use and sexual scenes before removing it online.",
+      "published_at": "2026-10-03T15:40:41+06:00",
+      "selected_at": "2026-10-03T12:17:07.150392+00:00",
+      "status": "published",
+      "message_id": 551,
+      "published_versions": [
+        {
+          "published_at": "2026-10-03T12:17:07.150392+00:00",
+          "headline": "PEGI pulls Grand Theft Auto 6 rating after revealing explicit sex and drug content",
+          "claims": [
+            "Rating removed after revealing frequent drug use and sex scenes"
+          ]
+        }
+      ]
+    },
+    "evt_077c6946cdd949": {
+      "event_id": "evt_077c6946cdd949",
+      "event_key": "capcom ai generation re engine announcement",
+      "event_subject": "Capcom RE Engine evolution",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "capcom ai generation re engine announcement",
+        "subject": "Capcom RE Engine evolution",
+        "event_type": "announcement",
+        "action": "plan",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Capcom",
+        "target": "developers",
+        "platforms": [],
+        "topic": "technology"
+      },
+      "sources": [
+        "VGC",
+        "PC Gamer"
+      ],
+      "event_sources": [
+        "VGC",
+        "PC Gamer"
+      ],
+      "claims": [
+        "Transform RE Engine into an AI‑generation game engine",
+        "Capcom to evolve RE Engine with AI capabilities"
+      ],
+      "importance_score": 56,
+      "coverage_score": 6,
+      "originality_score": 10,
+      "significance_score": 20,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Capcom Unveils AI‑Generation Upgrade for RE Engine at Open Conference",
+      "summary": "Capcom announced plans to transform its RE Engine into an AI‑generation game engine, aiming to speed development and improve performance across titles.",
+      "published_at": "2026-10-03T16:47:45+06:00",
+      "selected_at": "2026-10-03T12:17:12.706441+00:00",
+      "status": "published",
+      "message_id": 552,
+      "published_versions": [
+        {
+          "published_at": "2026-10-03T12:17:12.706441+00:00",
+          "headline": "Capcom Unveils AI‑Generation Upgrade for RE Engine at Open Conference",
+          "claims": [
+            "Transform RE Engine into an AI‑generation game engine",
+            "Capcom to evolve RE Engine with AI capabilities"
+          ]
+        }
+      ]
+    },
+    "evt_29972a41abf6bd": {
+      "event_id": "evt_29972a41abf6bd",
+      "event_key": "micron ceo warns of ram shortages through 2028",
+      "event_subject": "Micron memory shortage warning",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "micron ceo warns of ram shortages through 2028",
+        "subject": "Micron memory shortage warning",
+        "event_type": "other",
+        "action": "warn",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Micron",
+        "target": "investors",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "sources": [
+        "Eurogamer"
+      ],
+      "event_sources": [
+        "Eurogamer"
+      ],
+      "claims": [
+        "Memory shortages will persist into 2028"
+      ],
+      "importance_score": 52,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 22,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Micron warns RAM shortages will linger until 2028 amid AI demand surge",
+      "summary": "Micron’s CEO says global RAM supply will stay tight through 2028 as AI‑driven demand for high‑bandwidth memory outpaces production.",
+      "published_at": "2026-10-03T16:34:13+06:00",
+      "selected_at": "2026-10-03T12:17:17.643204+00:00",
+      "status": "published",
+      "message_id": 553,
+      "published_versions": [
+        {
+          "published_at": "2026-10-03T12:17:17.643204+00:00",
+          "headline": "Micron warns RAM shortages will linger until 2028 amid AI demand surge",
+          "claims": [
+            "Memory shortages will persist into 2028"
           ]
         }
       ]
@@ -71136,6 +71533,766 @@
         "total": 31
       },
       "last_seen": "2026-10-03T12:04:24.311607+06:00"
+    },
+    "evt_d2107d178a6ab7": {
+      "event_id": "evt_d2107d178a6ab7",
+      "event_key": "gta 6 rating controversy after sex drug content reveal",
+      "event_subject": "GTA 6 rating pull",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta 6 rating controversy after sex drug content reveal",
+        "subject": "GTA 6 rating pull",
+        "event_type": "other",
+        "action": "pull",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "PEGI",
+        "target": "public",
+        "platforms": [],
+        "topic": "rating controversy"
+      },
+      "modality": "unknown",
+      "topic": "rating controversy",
+      "institution": "PEGI",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Rating removed after revealing frequent drug use and sex scenes"
+      ],
+      "importance_score": 59,
+      "score_breakdown": {
+        "significance": 25,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 59
+      },
+      "last_seen": "2026-10-03T18:15:07.612366+06:00"
+    },
+    "evt_29972a41abf6bd": {
+      "event_id": "evt_29972a41abf6bd",
+      "event_key": "micron ceo warns of ram shortages through 2028",
+      "event_subject": "Micron memory shortage warning",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "micron ceo warns of ram shortages through 2028",
+        "subject": "Micron memory shortage warning",
+        "event_type": "other",
+        "action": "warn",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Micron",
+        "target": "investors",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "modality": "unknown",
+      "topic": "hardware",
+      "institution": "Micron",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Memory shortages will persist into 2028"
+      ],
+      "importance_score": 52,
+      "score_breakdown": {
+        "significance": 22,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 52
+      },
+      "last_seen": "2026-10-03T18:15:07.612386+06:00"
+    },
+    "evt_077c6946cdd949": {
+      "event_id": "evt_077c6946cdd949",
+      "event_key": "capcom ai generation re engine announcement",
+      "event_subject": "Capcom RE Engine evolution",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "capcom ai generation re engine announcement",
+        "subject": "Capcom RE Engine evolution",
+        "event_type": "announcement",
+        "action": "plan",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Capcom",
+        "target": "developers",
+        "platforms": [],
+        "topic": "technology"
+      },
+      "modality": "unknown",
+      "topic": "technology",
+      "institution": "Capcom",
+      "sources": [
+        "VGC",
+        "PC Gamer"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Transform RE Engine into an AI‑generation game engine",
+        "Capcom to evolve RE Engine with AI capabilities"
+      ],
+      "importance_score": 56,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 56
+      },
+      "last_seen": "2026-10-03T18:15:07.612390+06:00"
+    },
+    "evt_e122e3b7b86c60": {
+      "event_id": "evt_e122e3b7b86c60",
+      "event_key": "ex playstation exec comments on game pass profitability",
+      "event_subject": "Former PlayStation executive",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ex playstation exec comments on game pass profitability",
+        "subject": "Former PlayStation executive",
+        "event_type": "other",
+        "action": "comment",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PlayStation",
+        "target": "developers",
+        "platforms": [],
+        "topic": "industry commentary"
+      },
+      "modality": "unknown",
+      "topic": "industry commentary",
+      "institution": "PlayStation",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Impossible for devs to profit on Game Pass"
+      ],
+      "importance_score": 41,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 41
+      },
+      "last_seen": "2026-10-03T18:15:07.612394+06:00"
+    },
+    "evt_5e91dc9814ae46": {
+      "event_id": "evt_5e91dc9814ae46",
+      "event_key": "metro redux next gen free update release",
+      "event_subject": "Metro 2033 Redux & Metro Last Light Redux",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "metro redux next gen free update release",
+        "subject": "Metro 2033 Redux & Metro Last Light Redux",
+        "event_type": "other",
+        "action": "release",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Metro 2033 Redux / Metro Last Light Redux",
+        "franchise": "Metro",
+        "institution": "Deep Silver / 4A Games",
+        "target": "PC, PlayStation, Xbox",
+        "platforms": [
+          "PC",
+          "PlayStation 5",
+          "Xbox Series X|S"
+        ],
+        "topic": "next‑gen update"
+      },
+      "modality": "unknown",
+      "topic": "next‑gen update",
+      "institution": "Deep Silver / 4A Games",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Free next‑gen update arriving 22 Oct (PC) / 29 Oct (consoles)"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-10-03T18:15:07.612397+06:00"
+    },
+    "evt_f4864b9c74480a": {
+      "event_id": "evt_f4864b9c74480a",
+      "event_key": "system shock 2 remaster free claim on epic",
+      "event_subject": "System Shock 2 Remaster",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "system shock 2 remaster free claim on epic",
+        "subject": "System Shock 2 Remaster",
+        "event_type": "other",
+        "action": "make free",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "System Shock 2 Remaster",
+        "franchise": "System Shock",
+        "institution": "Epic Games Store",
+        "target": "PC players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "promotion"
+      },
+      "modality": "unknown",
+      "topic": "promotion",
+      "institution": "Epic Games Store",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Free on Epic Games Store through Oct 8"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 36
+      },
+      "last_seen": "2026-10-03T18:15:07.612400+06:00"
+    },
+    "evt_8a02ffe5141742": {
+      "event_id": "evt_8a02ffe5141742",
+      "event_key": "war for westeros night king weapon reveal",
+      "event_subject": "Night King weapon",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "war for westeros night king weapon reveal",
+        "subject": "Night King weapon",
+        "event_type": "announcement",
+        "action": "reveal",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "War for Westeros",
+        "franchise": "Game of Thrones",
+        "institution": "War for Westeros team",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "game update"
+      },
+      "modality": "unknown",
+      "topic": "game update",
+      "institution": "War for Westeros team",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Night King gets terrifying new weapon in upcoming release"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-10-03T18:15:07.612403+06:00"
+    },
+    "evt_31143b02fda5e6": {
+      "event_id": "evt_31143b02fda5e6",
+      "event_key": "playstation october 5 11 game release schedule",
+      "event_subject": "PS5 & PS Plus upcoming games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "playstation october 5 11 game release schedule",
+        "subject": "PS5 & PS Plus upcoming games",
+        "event_type": "other",
+        "action": "list",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Sony/PlayStation",
+        "target": "PlayStation users",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "release schedule"
+      },
+      "modality": "unknown",
+      "topic": "release schedule",
+      "institution": "Sony/PlayStation",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "23+ titles arriving Oct 5‑11, including Kingdom Hearts Collection I‑III"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-10-03T18:15:07.612406+06:00"
+    },
+    "evt_eb06c547d84188": {
+      "event_id": "evt_eb06c547d84188",
+      "event_key": "xbox october 5 9 game launch roundup",
+      "event_subject": "Xbox upcoming releases",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox october 5 9 game launch roundup",
+        "subject": "Xbox upcoming releases",
+        "event_type": "other",
+        "action": "list",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft/Xbox",
+        "target": "Xbox players",
+        "platforms": [
+          "Xbox Series X|S"
+        ],
+        "topic": "release schedule"
+      },
+      "modality": "unknown",
+      "topic": "release schedule",
+      "institution": "Microsoft/Xbox",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "20+ games arriving Oct 5‑9, including Gears of War: E‑Day"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-10-03T18:15:07.612408+06:00"
+    },
+    "evt_240e2750c2d6c1": {
+      "event_id": "evt_240e2750c2d6c1",
+      "event_key": "dan houser avoids gta 6 extended reveal",
+      "event_subject": "Dan Houser",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "dan houser avoids gta 6 extended reveal",
+        "subject": "Dan Houser",
+        "event_type": "other",
+        "action": "avoid",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar Games",
+        "target": "media",
+        "platforms": [],
+        "topic": "industry commentary"
+      },
+      "modality": "unknown",
+      "topic": "industry commentary",
+      "institution": "Rockstar Games",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Will try to avoid GTA 6 extended reveal"
+      ],
+      "importance_score": 41,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 41
+      },
+      "last_seen": "2026-10-03T18:15:07.612411+06:00"
+    },
+    "evt_4e42ec46074060": {
+      "event_id": "evt_4e42ec46074060",
+      "event_key": "dicevaders indie game launch",
+      "event_subject": "Dicevaders",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "dicevaders indie game launch",
+        "subject": "Dicevaders",
+        "event_type": "release",
+        "action": "launch",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Dicevaders",
+        "franchise": "Dicevaders",
+        "institution": "Independent",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "game release"
+      },
+      "modality": "unknown",
+      "topic": "game release",
+      "institution": "Independent",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "New roguelike‑dice game about perfecting rolls"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 37
+      },
+      "last_seen": "2026-10-03T18:15:07.612414+06:00"
+    },
+    "evt_9a84a6a9ac85c2": {
+      "event_id": "evt_9a84a6a9ac85c2",
+      "event_key": "final fantasy vii revelation development interview",
+      "event_subject": "Final Fantasy VII Revelation lead",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "final fantasy vii revelation development interview",
+        "subject": "Final Fantasy VII Revelation lead",
+        "event_type": "other",
+        "action": "statement",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Final Fantasy VII Revelation",
+        "franchise": "Final Fantasy",
+        "institution": "Square Enix",
+        "target": "fans",
+        "platforms": [],
+        "topic": "development"
+      },
+      "modality": "unknown",
+      "topic": "development",
+      "institution": "Square Enix",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Making each game in the trilogy complete was non‑negotiable"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 32
+      },
+      "last_seen": "2026-10-03T18:15:07.612416+06:00"
+    },
+    "evt_9a434f7e16bf07": {
+      "event_id": "evt_9a434f7e16bf07",
+      "event_key": "the other one game poem jam release",
+      "event_subject": "The Other One: Game Poem jam",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "the other one game poem jam release",
+        "subject": "The Other One: Game Poem jam",
+        "event_type": "release",
+        "action": "publish",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "The Other One: Game Poem jam",
+        "franchise": "The Other One: Game Poem jam",
+        "institution": "Luis \"Ludipe\" Díaz Peralta",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "indie game"
+      },
+      "modality": "unknown",
+      "topic": "indie game",
+      "institution": "Luis \"Ludipe\" Díaz Peralta",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Indie 2D platformer collection of chimeric poems"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 32
+      },
+      "last_seen": "2026-10-03T18:15:07.612419+06:00"
+    },
+    "evt_b2b7415fdba092": {
+      "event_id": "evt_b2b7415fdba092",
+      "event_key": "stellar blade pc price drop",
+      "event_subject": "Stellar Blade",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "stellar blade pc price drop",
+        "subject": "Stellar Blade",
+        "event_type": "other",
+        "action": "discount",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Stellar Blade",
+        "franchise": "Stellar Blade",
+        "institution": "PlayStation Studios",
+        "target": "PC",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "sale"
+      },
+      "modality": "unknown",
+      "topic": "sale",
+      "institution": "PlayStation Studios",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Lowest‑ever price on PC"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-10-03T18:15:07.612422+06:00"
+    },
+    "evt_557c2c8337c1b1": {
+      "event_id": "evt_557c2c8337c1b1",
+      "event_key": "xbox weekend gaming discussion",
+      "event_subject": "Xbox community weekend talk",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox weekend gaming discussion",
+        "subject": "Xbox community weekend talk",
+        "event_type": "other",
+        "action": "host",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Pure Xbox",
+        "target": "Xbox fans",
+        "platforms": [],
+        "topic": "community"
+      },
+      "modality": "unknown",
+      "topic": "community",
+      "institution": "Pure Xbox",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Talking point on what to play this weekend, featuring Gears of War: E‑Day"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-10-03T18:15:07.612424+06:00"
+    },
+    "evt_f56cd7c43a993b": {
+      "event_id": "evt_f56cd7c43a993b",
+      "event_key": "zelda music playlist release",
+      "event_subject": "Zelda soundtrack playlist",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "zelda music playlist release",
+        "subject": "Zelda soundtrack playlist",
+        "event_type": "other",
+        "action": "curate",
+        "status": "published",
+        "modality": "unknown",
+        "game": "The Legend of Zelda",
+        "franchise": "Zelda",
+        "institution": "Nintendo Life",
+        "target": "listeners",
+        "platforms": [],
+        "topic": "music"
+      },
+      "modality": "unknown",
+      "topic": "music",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Immaculate Zelda tunes playlist for fans"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-10-03T18:15:07.612427+06:00"
+    },
+    "evt_a691b38db0568c": {
+      "event_id": "evt_a691b38db0568c",
+      "event_key": "dc absolute universe comics announcement",
+      "event_subject": "DC Absolute Universe comics",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "dc absolute universe comics announcement",
+        "subject": "DC Absolute Universe comics",
+        "event_type": "announcement",
+        "action": "recommend",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "DC Comics",
+        "institution": "DC",
+        "target": "readers",
+        "platforms": [],
+        "topic": "comics"
+      },
+      "modality": "unknown",
+      "topic": "comics",
+      "institution": "DC",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Three must‑read titles ahead of NYCC panel"
+      ],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-10-03T18:15:07.612430+06:00"
+    },
+    "evt_bb3166748a5dfc": {
+      "event_id": "evt_bb3166748a5dfc",
+      "event_key": "nbc unbeatable series free streaming launch",
+      "event_subject": "Unbeatable (NBC)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nbc unbeatable series free streaming launch",
+        "subject": "Unbeatable (NBC)",
+        "event_type": "other",
+        "action": "make free",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "NBC",
+        "target": "viewers",
+        "platforms": [
+          "Streaming platforms"
+        ],
+        "topic": "streaming"
+      },
+      "modality": "unknown",
+      "topic": "streaming",
+      "institution": "NBC",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "All 98 episodes now free to watch"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-10-03T18:15:07.612432+06:00"
     }
   },
   "posted_event_ids": [
@@ -71312,7 +72469,10 @@
     "evt_8dcc0361ca1b2c",
     "evt_b671ac7800c25a",
     "evt_8f43ed1135b64c",
-    "evt_c229c726343598"
+    "evt_c229c726343598",
+    "evt_d2107d178a6ab7",
+    "evt_077c6946cdd949",
+    "evt_29972a41abf6bd"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -71488,16 +72648,19 @@
     "gta 6 receives pegi 18 rating marking series most mature release",
     "warhorse coo urges gta 6 to set new 80 price standard for triple a games",
     "sony refines base ps5 slim with optimized motherboard and cooling",
-    "original halo ported to web browser with 128 player multiplayer"
+    "original halo ported to web browser with 128 player multiplayer",
+    "pegi pulls grand theft auto 6 rating after revealing explicit sex and drug content",
+    "capcom unveils ai generation upgrade for re engine at open conference",
+    "micron warns ram shortages will linger until 2028 amid ai demand surge"
   ],
   "category_coverage": {
-    "Game Updates": "2026-10-03T01:17:48.202857+06:00",
+    "Game Updates": "2026-10-03T18:17:12.706459+06:00",
     "Major Releases": "2026-10-02T19:56:25.777342+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
     "Nintendo": "2026-09-09T21:29:41.864902+06:00",
     "Expansions and DLC": "2026-09-09T21:29:31.196339+06:00",
-    "Gaming Hardware": "2026-10-03T01:17:43.028797+06:00",
+    "Gaming Hardware": "2026-10-03T18:17:17.643219+06:00",
     "Cybersecurity": "2026-09-10T01:20:12.789492+06:00",
     "Pricing and Monetization": "2026-10-03T01:17:37.865799+06:00",
     "Anti-Cheat": "2026-09-11T00:33:42.084305+06:00",
