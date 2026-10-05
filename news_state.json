@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"21d99-TNUeJnDK+s155PoyydIPlNzsHNE\"",
+      "etag": "W/\"17e61-IjhEq1N7dr59XsT+fbgWpP/+qu8\"",
       "last_modified": null,
-      "last_checked": "2026-10-05T21:33:54.351902+06:00",
+      "last_checked": "2026-10-06T04:19:38.057287+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-05T21:33:54.577148+06:00",
+      "last_checked": "2026-10-06T04:19:38.297451+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ac3c27b-b94\"",
-      "last_modified": "Mon, 05 Oct 2026 15:30:03 GMT",
-      "last_checked": "2026-10-05T21:33:54.912538+06:00",
+      "etag": "\"6ac42167-a51\"",
+      "last_modified": "Mon, 05 Oct 2026 22:15:03 GMT",
+      "last_checked": "2026-10-06T04:19:38.769145+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Mon, 05 Oct 2026 15:00:30 GMT",
-      "last_checked": "2026-10-05T21:33:55.607119+06:00",
+      "last_modified": "Mon, 05 Oct 2026 20:14:26 GMT",
+      "last_checked": "2026-10-06T04:19:39.434335+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ac3b123-1253\"",
-      "last_modified": "Mon, 05 Oct 2026 14:16:03 GMT",
-      "last_checked": "2026-10-05T21:33:55.956953+06:00",
+      "etag": "\"6ac42160-125f\"",
+      "last_modified": "Mon, 05 Oct 2026 22:14:56 GMT",
+      "last_checked": "2026-10-06T04:19:39.808524+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-05T21:33:56.071205+06:00",
+      "last_checked": "2026-10-06T04:19:40.028517+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-05T21:33:56.860018+06:00",
+      "last_checked": "2026-10-06T04:19:41.053540+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"bd95d2d5d18b379c342353d683c558c8\"",
-      "last_modified": "Mon, 05 Oct 2026 15:00:49 GMT",
-      "last_checked": "2026-10-05T21:33:57.084129+06:00",
+      "etag": "W/\"99333066ea91dcf6656f078b1314bfbd\"",
+      "last_modified": "Mon, 05 Oct 2026 21:49:42 GMT",
+      "last_checked": "2026-10-06T04:19:41.276046+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-05T21:33:57.168720+06:00",
+      "last_checked": "2026-10-06T04:19:41.509940+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Mon, 5 Oct 2026 14:04:34 GMT",
-      "last_checked": "2026-10-05T21:33:57.790491+06:00",
+      "last_modified": "Mon, 5 Oct 2026 18:06:51 GMT",
+      "last_checked": "2026-10-06T04:19:42.160412+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Mon, 05 Oct 2026 15:33:58 GMT",
-      "last_checked": "2026-10-05T21:33:58.370193+06:00",
+      "last_modified": "Mon, 05 Oct 2026 22:19:42 GMT",
+      "last_checked": "2026-10-06T04:19:42.698357+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"787cc1669da5b2b4b6bf739ca02ae4c3\"",
-      "last_modified": "Mon, 05 Oct 2026 15:21:03 GMT",
-      "last_checked": "2026-10-05T21:33:58.480934+06:00",
+      "etag": "W/\"e9b835207482ca31a573df608c79894c\"",
+      "last_modified": "Mon, 05 Oct 2026 21:31:29 GMT",
+      "last_checked": "2026-10-06T04:19:42.828786+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-05T21:33:58.845698+06:00",
+      "last_checked": "2026-10-06T04:19:43.187971+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-05T21:33:59.416878+06:00",
+      "last_checked": "2026-10-06T04:19:43.686838+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-05T21:33:59.810015+06:00",
+      "last_checked": "2026-10-06T04:19:44.091890+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-05T21:34:00.156383+06:00",
-      "fail_count": 52,
+      "last_checked": "2026-10-06T04:19:44.460720+06:00",
+      "fail_count": 53,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"49d6a3231d6671ad70a6e9a9d74be548\"",
-      "last_modified": "Mon, 05 Oct 2026 14:33:00 GMT",
-      "last_checked": "2026-10-05T21:34:00.287679+06:00",
+      "etag": "W/\"49da1a5f72cbadf7363197b5271b1f64\"",
+      "last_modified": "Mon, 05 Oct 2026 18:17:03 GMT",
+      "last_checked": "2026-10-06T04:19:44.646370+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-05T21:34:00.391701+06:00",
+      "last_checked": "2026-10-06T04:19:44.758493+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-05T21:34:00.563278+06:00",
-      "fail_count": 52,
+      "last_checked": "2026-10-06T04:19:44.922241+06:00",
+      "fail_count": 53,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"2496595a5ee884e11f9288a63f174ee9\"",
-      "last_modified": "Mon, 05 Oct 2026 11:23:30 GMT",
-      "last_checked": "2026-10-05T21:34:00.717885+06:00",
+      "etag": "W/\"0dbb6936d61f4ca4a5d269acfd60c51e\"",
+      "last_modified": "Mon, 05 Oct 2026 20:00:00 GMT",
+      "last_checked": "2026-10-06T04:19:45.073662+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -5136,6 +5136,538 @@
       "status": "pending",
       "first_seen": "2026-10-05T21:34:00.342140+06:00",
       "last_seen": "2026-10-05T21:34:00.342144+06:00"
+    },
+    "ign.com/articles/usb-cable-deals-amazon-october-prime-day-sale-2026": {
+      "title": "Get 6.6ft 240W USB Type-C Cables for Less Than $3 Apiece During the Amazon Prime Day Sale",
+      "url": "https://www.ign.com/articles/usb-cable-deals-amazon-october-prime-day-sale-2026",
+      "canonical": "ign.com/articles/usb-cable-deals-amazon-october-prime-day-sale-2026",
+      "published_dt": "2026-10-06T03:40:00+06:00",
+      "published_date": "2026-10-06T03:40:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Universal cables perfect for your Nintendo Switch 2, Steam Deck, iPhone 17, or laptop.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/05/lisenusbcable-1791225886565.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:38.132608+06:00",
+      "last_seen": "2026-10-06T04:19:38.132615+06:00"
+    },
+    "ign.com/articles/acer-nitro-qd-oled-gaming-monitor-deal-october-2026": {
+      "title": "The Gorgeous 27\" Acer Nitro QD-OLED Gaming Monitor With 240Hz Refresh Rate Drops to $269 at Walmart",
+      "url": "https://www.ign.com/articles/acer-nitro-qd-oled-gaming-monitor-deal-october-2026",
+      "canonical": "ign.com/articles/acer-nitro-qd-oled-gaming-monitor-deal-october-2026",
+      "published_dt": "2026-10-06T03:30:00+06:00",
+      "published_date": "2026-10-06T03:30:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "You'll be hard-pressed to find a better deal on a comparable monitor for Prime Day.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/05/acernitrooled-1791234251312.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:38.132797+06:00",
+      "last_seen": "2026-10-06T04:19:38.132802+06:00"
+    },
+    "ign.com/articles/infinity-ward-details-call-of-duty-modern-warfare-4s-extraction-mode-dmz": {
+      "title": "Infinity Ward Details Call of Duty: Modern Warfare 4's Extraction Mode, DMZ",
+      "url": "https://www.ign.com/articles/infinity-ward-details-call-of-duty-modern-warfare-4s-extraction-mode-dmz",
+      "canonical": "ign.com/articles/infinity-ward-details-call-of-duty-modern-warfare-4s-extraction-mode-dmz",
+      "published_dt": "2026-10-06T02:51:09+06:00",
+      "published_date": "2026-10-06T02:51:09+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Call of Duty: Modern Warfare 4's ambitious new extraction mode, DMZ, has gotten a massive deep dive from Infinity Ward.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/05/mw4-dmz-1791216091376.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:38.132937+06:00",
+      "last_seen": "2026-10-06T04:19:38.132941+06:00"
+    },
+    "ign.com/articles/runescape-dev-pulls-trailer-after-6-fingered-knight-leads-to-generative-ai-allegations": {
+      "title": "RuneScape Dev Pulls Trailer After 6-Fingered Knight Leads to Generative AI Allegations",
+      "url": "https://www.ign.com/articles/runescape-dev-pulls-trailer-after-6-fingered-knight-leads-to-generative-ai-allegations",
+      "canonical": "ign.com/articles/runescape-dev-pulls-trailer-after-6-fingered-knight-leads-to-generative-ai-allegations",
+      "published_dt": "2026-10-06T02:47:52+06:00",
+      "published_date": "2026-10-06T02:47:52+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "RuneScape developer Jagex has pulled a new trailer after a six-fingered knight led to allegations of generative AI use from fans.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/05/runescape-ai-1791232364399.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-06T04:19:38.133069+06:00",
+      "last_seen": "2026-10-06T04:19:38.133073+06:00",
+      "posted_at": "2026-10-06T04:31:06.180313+06:00"
+    },
+    "ign.com/articles/lego-deals-amazon-prime-big-deal-days-2026": {
+      "title": "LEGO Deals: Walmart and Target Sales Aim at Amazon’s Prime Big Deal Days",
+      "url": "https://www.ign.com/articles/lego-deals-amazon-prime-big-deal-days-2026",
+      "canonical": "ign.com/articles/lego-deals-amazon-prime-big-deal-days-2026",
+      "published_dt": "2026-10-06T02:46:22+06:00",
+      "published_date": "2026-10-06T02:46:22+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Tons of LEGO deals are available now, because Amazon, Walmart, and Target are all running competing sales this week.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/05/lego-deals-1791231224141.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:38.133234+06:00",
+      "last_seen": "2026-10-06T04:19:38.133239+06:00"
+    },
+    "ign.com/articles/sony-wh-1000xx-the-collexion-noise-canceling-wireless-headphone-deal-october-2026": {
+      "title": "Save Over 50% Off the Sony WH-1000XX Stainless Steel Noise Canceling Wireless Headphones",
+      "url": "https://www.ign.com/articles/sony-wh-1000xx-the-collexion-noise-canceling-wireless-headphone-deal-october-2026",
+      "canonical": "ign.com/articles/sony-wh-1000xx-the-collexion-noise-canceling-wireless-headphone-deal-october-2026",
+      "published_dt": "2026-10-06T02:30:00+06:00",
+      "published_date": "2026-10-06T02:30:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Possibly the best deal on ultra-premium headphones during Prime Day, but not from Amazon.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/05/sonywh1000xx2-1791225475776.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:38.133370+06:00",
+      "last_seen": "2026-10-06T04:19:38.133374+06:00"
+    },
+    "ign.com/articles/apple-amazon-prime-big-deal-days-2026": {
+      "title": "Apple Deals: Early Prime Big Deal Days Discounts Are Live",
+      "url": "https://www.ign.com/articles/apple-amazon-prime-big-deal-days-2026",
+      "canonical": "ign.com/articles/apple-amazon-prime-big-deal-days-2026",
+      "published_dt": "2026-10-06T02:07:25+06:00",
+      "published_date": "2026-10-06T02:07:25+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Amazon has already pushed its Apple deals live ahead of Prime Big Deal Days 2026.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/05/untitled-design-2-1791227043926.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:38.133489+06:00",
+      "last_seen": "2026-10-06T04:19:38.133493+06:00"
+    },
+    "ign.com/articles/asus-rog-xbox-ally-x-handheld-gaming-pc-deal-october-2026": {
+      "title": "Get a Preowned Asus Xbox Ally X Ryzen Z2 Extreme Handheld Gaming PC for as Low as $790 at Best Buy",
+      "url": "https://www.ign.com/articles/asus-rog-xbox-ally-x-handheld-gaming-pc-deal-october-2026",
+      "canonical": "ign.com/articles/asus-rog-xbox-ally-x-handheld-gaming-pc-deal-october-2026",
+      "published_dt": "2026-10-06T02:00:00+06:00",
+      "published_date": "2026-10-06T02:00:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "One of the most powerful gaming handhelds on the market, and hundreds of dollars cheaper than the competition.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/05/xboxallyx-1791229209085.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:38.133613+06:00",
+      "last_seen": "2026-10-06T04:19:38.133617+06:00"
+    },
+    "gamespot.com/articles/halloweens-first-dlc-reveals-even-the-bad-sequels-will-get-some-love": {
+      "title": "Halloween’s First DLC Reveals Even The Bad Sequels Will Get Some Love",
+      "url": "https://www.gamespot.com/articles/halloweens-first-dlc-reveals-even-the-bad-sequels-will-get-some-love/",
+      "canonical": "gamespot.com/articles/halloweens-first-dlc-reveals-even-the-bad-sequels-will-get-some-love",
+      "published_dt": "2026-10-06T03:15:42+06:00",
+      "published_date": "2026-10-06T03:15:42+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Halloween's first paid DLC is coming on October 27 in the form of a new skin for the game's killer, Michael Myers, and it's pulling from a source you might not expect: Halloween 5: The Revenge of Michael Myers. A free update on the same day will also add a fifth map, The Tower Farm, inspired by a location in the same film. It may seem odd to jump to the fifth movie for the game's first DLC, but it's not the only piece of new content coming that day. There's also a second skin coming for Big Mike, borrowing from his look in the legacy sequel Halloween (2018). Each skin will run you $10. Survivor mains also have new things to look forward to, including two new characters, Michelle and Eugene, as well as Civilian Costumes Pack 1, which includes 14 outfits--one for each survivor character--and 42 colorings, or \"tints.\" The new survivors will also go for $10, though that's for the pair, not for each of them, while the new styles and colors will be--you guessed it--$10 for the set. This content drop is the first of several coming to the game in its first year, development studio Illfonic said. With 13 movies in the series, there's still plenty of ground to cover for Halloween, which makes kicking off its post-launch roadmap with Halloween 5 such an interesting choice. The appropriately autumnal farm map is more open than the game's earlier maps, making it harder to break line of sight from Haddonfield's boogeyman. I suppose that moody setting was too picturesque to pass up as an update just days before October 31. Just days before Halloween, Halloween will look more like, uh, Halloween. As much as I love the 1978 original, I'm not particularly fond of most of the Halloween sequels, though Halloween H20 is probably dearest to me; I fondly recall seeing it on the big screen as a horror-obsessed nine-year-old, so I look forward to seeing that one reflected in the game down the line. In any event, I don't think the sequels' quality ought to keep the development team from brin",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/3452413-005.webp?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:38.451129+06:00",
+      "last_seen": "2026-10-06T04:19:38.451144+06:00"
+    },
+    "eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions": {
+      "title": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\"",
+      "url": "https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
+      "canonical": "eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
+      "published_dt": "2026-10-06T02:14:26+06:00",
+      "published_date": "2026-10-06T02:14:26+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Creating a timely satire can be tough when development takes half a decade or more - it's the reason South Park's stuck with its crude art style for literal decades, but the developers of GTA 6 can't just replace their world-class tech with paper cutouts. Instead, the team simply tried to avoid trends that would become outdated come launch. Read more",
+      "image": "https://assetsio.gnwcdn.com/jason-lucia-gta-6-romance-relationship.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:39.539325+06:00",
+      "last_seen": "2026-10-06T04:19:39.539332+06:00"
+    },
+    "pcgamer.com/games/grand-theft-auto/despite-calling-grand-theft-auto-a-videogame-franchise-built-around-criminal-activity-miami-dade-sheriff-isnt-mad-about-the-nbas-vice-city-transformation": {
+      "title": "Despite calling Grand Theft Auto 'a videogame franchise built around criminal activity,' Miami-Dade sheriff isn't mad about the NBA's 'Vice City' transformation",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/despite-calling-grand-theft-auto-a-videogame-franchise-built-around-criminal-activity-miami-dade-sheriff-isnt-mad-about-the-nbas-vice-city-transformation/",
+      "canonical": "pcgamer.com/games/grand-theft-auto/despite-calling-grand-theft-auto-a-videogame-franchise-built-around-criminal-activity-miami-dade-sheriff-isnt-mad-about-the-nbas-vice-city-transformation",
+      "published_dt": "2026-10-06T01:42:34+06:00",
+      "published_date": "2026-10-06T01:42:34+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Sheriff Rosie Cordero-Stutz says her strong stance against the GTA 6 promotional collaboration was only about \"publicly owned facilities and infrastructure.\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/pqxkmyfvwZ8UJuzVqF73xR-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-06T04:19:40.482505+06:00",
+      "last_seen": "2026-10-06T04:19:40.482513+06:00",
+      "posted_at": "2026-10-06T04:31:16.739409+06:00"
+    },
+    "polygon.com/control-resonant-freeze-frame-camera-instant-photo-locations": {
+      "title": "All 'Freeze Frame' camera locations in Control Resonant",
+      "url": "https://www.polygon.com/control-resonant-freeze-frame-camera-instant-photo-locations/",
+      "canonical": "polygon.com/control-resonant-freeze-frame-camera-instant-photo-locations",
+      "published_dt": "2026-10-06T03:33:18+06:00",
+      "published_date": "2026-10-06T03:33:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "You need to hunt down seven cameras in the \"Freeze Frame\" side quest in Control Resonant. Here's where you can find them all.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/camera_cr.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:41.062978+06:00",
+      "last_seen": "2026-10-06T04:19:41.062984+06:00"
+    },
+    "polygon.com/ocarina-of-time-pro-controller-totk": {
+      "title": "The Zelda: Ocarina of Time Controller's Best Replacement Is $30 Cheaper Right Now",
+      "url": "https://www.polygon.com/ocarina-of-time-pro-controller-totk/",
+      "canonical": "polygon.com/ocarina-of-time-pro-controller-totk",
+      "published_dt": "2026-10-06T03:26:04+06:00",
+      "published_date": "2026-10-06T03:26:04+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Ever since Nintendo announced a special-edition Pro Controller and Switch 2 console to celebrate the launch of Ocarina of Time, they've been sold out.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzelda40thedition_procontroller_07.jpeg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:41.063134+06:00",
+      "last_seen": "2026-10-06T04:19:41.063138+06:00"
+    },
+    "polygon.com/sicario-3-cast-director-taylor-sheridan-steven-knight": {
+      "title": "Sicario 3 Officially Moves Forward, Replacing Taylor Sheridan",
+      "url": "https://www.polygon.com/sicario-3-cast-director-taylor-sheridan-steven-knight/",
+      "canonical": "polygon.com/sicario-3-cast-director-taylor-sheridan-steven-knight",
+      "published_dt": "2026-10-06T02:11:44+06:00",
+      "published_date": "2026-10-06T02:11:44+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Sicario 3 will reunite Josh Brolin, Emily Blunt, and Benicio del Toro, with a new director and writer — not Taylor Sheridan — at the helm.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/11600289/SOL_D34_09767_9771_r.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:41.063309+06:00",
+      "last_seen": "2026-10-06T04:19:41.063314+06:00"
+    },
+    "polygon.com/multi-stage-boss-fights-worst-video-game-mechanic": {
+      "title": "Multi-Stage Boss Fights Are the Worst Video Game Mechanic of All Time",
+      "url": "https://www.polygon.com/multi-stage-boss-fights-worst-video-game-mechanic/",
+      "canonical": "polygon.com/multi-stage-boss-fights-worst-video-game-mechanic",
+      "published_dt": "2026-10-06T02:00:15+06:00",
+      "published_date": "2026-10-06T02:00:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Boss fights with second stages and replenished health bars is the worst video game mechanic of all time. Here's why.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/multi-stage-boss-fights-header.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:41.063449+06:00",
+      "last_seen": "2026-10-06T04:19:41.063453+06:00"
+    },
+    "kotaku.com/supermassive-lays-off-70-people-less-than-six-months-after-releasing-its-new-sci-fi-horror-game-2000740078": {
+      "title": "Supermassive Lays Off 70 People Less Than Six Months After Releasing Its New Sci-Fi Horror Game",
+      "url": "https://kotaku.com/supermassive-lays-off-70-people-less-than-six-months-after-releasing-its-new-sci-fi-horror-game-2000740078",
+      "canonical": "kotaku.com/supermassive-lays-off-70-people-less-than-six-months-after-releasing-its-new-sci-fi-horror-game-2000740078",
+      "published_dt": "2026-10-06T03:46:42+06:00",
+      "published_date": "2026-10-06T03:46:42+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Directive 8020 was met with mixed reviews on Steam",
+      "image": "https://kotaku.com/app/uploads/2026/10/Directive-8020-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-06T04:19:41.292736+06:00",
+      "last_seen": "2026-10-06T04:19:41.292743+06:00",
+      "posted_at": "2026-10-06T04:31:11.083132+06:00"
+    },
+    "kotaku.com/ocarina-of-time-romhack-soccerina-of-time-2000740026": {
+      "title": "Someone Made A Fun Soccer Romhack For Ocarina Of Time And—God Damnit, It’s Vibe-Coded",
+      "url": "https://kotaku.com/ocarina-of-time-romhack-soccerina-of-time-2000740026",
+      "canonical": "kotaku.com/ocarina-of-time-romhack-soccerina-of-time-2000740026",
+      "published_dt": "2026-10-06T02:00:01+06:00",
+      "published_date": "2026-10-06T02:00:01+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Goal Skulltulas",
+      "image": "https://kotaku.com/app/uploads/2026/10/soccerina-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:41.292896+06:00",
+      "last_seen": "2026-10-06T04:19:41.292901+06:00"
+    },
+    "kotaku.com/gears-of-war-e-days-new-ballsack-enemy-keeps-kicking-my-ass-2000740022": {
+      "title": "Gears Of War: E-Day’s New Ballsack Enemy Keeps Kicking My Ass",
+      "url": "https://kotaku.com/gears-of-war-e-days-new-ballsack-enemy-keeps-kicking-my-ass-2000740022",
+      "canonical": "kotaku.com/gears-of-war-e-days-new-ballsack-enemy-keeps-kicking-my-ass-2000740022",
+      "published_dt": "2026-10-06T01:30:34+06:00",
+      "published_date": "2026-10-06T01:30:34+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Please, leave me alone you weird, ugly flesh balloons",
+      "image": "https://kotaku.com/app/uploads/2026/10/gears-enemy-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:41.293030+06:00",
+      "last_seen": "2026-10-06T04:19:41.293034+06:00"
+    },
+    "gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-ditching-ps5-exclusivity-was-inevitable-naoki-hamaguchi-says-because-players-are-no-longer-tied-to-a-single-piece-of-hardware": {
+      "title": "Final Fantasy 7 Revelation ditching PS5 exclusivity was \"inevitable,\" Naoki Hamaguchi says",
+      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-ditching-ps5-exclusivity-was-inevitable-naoki-hamaguchi-says-because-players-are-no-longer-tied-to-a-single-piece-of-hardware/",
+      "canonical": "gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-ditching-ps5-exclusivity-was-inevitable-naoki-hamaguchi-says-because-players-are-no-longer-tied-to-a-single-piece-of-hardware",
+      "published_dt": "2026-10-06T03:59:16+06:00",
+      "published_date": "2026-10-06T03:59:16+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "It's \"an inevitable outcome of the changing environment surrounding today's players\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/KYuqaw7RoJavwk9pqAz9SL-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:41.932126+06:00",
+      "last_seen": "2026-10-06T04:19:41.932132+06:00"
+    },
+    "gamesradar.com/games/if-you-dont-own-it-then-what-are-you-buying-ex-playstation-boss-says-sony-killing-discs-raises-the-insidious-discussion-of-game-ownership": {
+      "title": "Ex-PlayStation boss says Sony killing discs raises the \"insidious\" discussion of game ownership",
+      "url": "https://www.gamesradar.com/games/if-you-dont-own-it-then-what-are-you-buying-ex-playstation-boss-says-sony-killing-discs-raises-the-insidious-discussion-of-game-ownership/",
+      "canonical": "gamesradar.com/games/if-you-dont-own-it-then-what-are-you-buying-ex-playstation-boss-says-sony-killing-discs-raises-the-insidious-discussion-of-game-ownership",
+      "published_dt": "2026-10-06T03:20:39+06:00",
+      "published_date": "2026-10-06T03:20:39+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"If you can't sell a thing, that means you don't own a thing\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/vVVviL9q4fhrHWqB4CGMkV-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:41.932316+06:00",
+      "last_seen": "2026-10-06T04:19:41.932320+06:00"
+    },
+    "gamesradar.com/games/jrpg/gods-strongest-programmer-this-jrpg-sounded-great-but-then-i-learned-how-it-was-made-and-now-it-sounds-impossible": {
+      "title": "This JRPG sounded great, but then I learned how it was made, and now it sounds impossible",
+      "url": "https://www.gamesradar.com/games/jrpg/gods-strongest-programmer-this-jrpg-sounded-great-but-then-i-learned-how-it-was-made-and-now-it-sounds-impossible/",
+      "canonical": "gamesradar.com/games/jrpg/gods-strongest-programmer-this-jrpg-sounded-great-but-then-i-learned-how-it-was-made-and-now-it-sounds-impossible",
+      "published_dt": "2026-10-06T03:03:24+06:00",
+      "published_date": "2026-10-06T03:03:24+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "A turn-based RPG \"inspired by Xenogears and Phantasy Star\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/LqqGN8PEfaUTMDEEd89tRi-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:41.932459+06:00",
+      "last_seen": "2026-10-06T04:19:41.932463+06:00"
+    },
+    "gamesradar.com/games/grand-theft-auto/gta-6-story-lead-insists-rockstar-didnt-want-to-make-any-kind-of-statement-with-jasons-ex-military-background": {
+      "title": "GTA 6 story lead says Rockstar didn't want to make a \"statement\" with Jason's ex-military background",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-story-lead-insists-rockstar-didnt-want-to-make-any-kind-of-statement-with-jasons-ex-military-background/",
+      "canonical": "gamesradar.com/games/grand-theft-auto/gta-6-story-lead-insists-rockstar-didnt-want-to-make-any-kind-of-statement-with-jasons-ex-military-background",
+      "published_dt": "2026-10-06T03:00:00+06:00",
+      "published_date": "2026-10-06T03:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "A lot of Jason's actions are the result of his \"material circumstances,\" says Rupert Humphries",
+      "image": "https://cdn.mos.cms.futurecdn.net/L9JfY29u9s5z4EXMi2EqZ8-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:41.932596+06:00",
+      "last_seen": "2026-10-06T04:19:41.932600+06:00"
+    },
+    "gamesradar.com/entertainment/sci-fi-shows/fallout-season-3-could-premiere-in-may-or-june-of-next-year-says-star-kyle-maclachlan": {
+      "title": "Fallout season 3 could premiere in \"May or June\" of next year, says star Kyle MacLachlan",
+      "url": "https://www.gamesradar.com/entertainment/sci-fi-shows/fallout-season-3-could-premiere-in-may-or-june-of-next-year-says-star-kyle-maclachlan/",
+      "canonical": "gamesradar.com/entertainment/sci-fi-shows/fallout-season-3-could-premiere-in-may-or-june-of-next-year-says-star-kyle-maclachlan",
+      "published_dt": "2026-10-06T02:59:35+06:00",
+      "published_date": "2026-10-06T02:59:35+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "We're headed off to Colorado for season 3 of the hit Prime Video show",
+      "image": "https://cdn.mos.cms.futurecdn.net/VtJQbV92qkquEtztR6tbF5-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:41.932725+06:00",
+      "last_seen": "2026-10-06T04:19:41.932729+06:00"
+    },
+    "gamesradar.com/games/rpg/baldurs-gate-3-and-elden-ring-are-north-stars-for-tencent-as-the-company-tries-to-build-the-next-larian-or-fromsoftware-that-is-the-long-term-commitment": {
+      "title": "Baldur's Gate 3 and Elden Ring are \"North Stars\" for Tencent as it eyes next Larian or FromSoftware",
+      "url": "https://www.gamesradar.com/games/rpg/baldurs-gate-3-and-elden-ring-are-north-stars-for-tencent-as-the-company-tries-to-build-the-next-larian-or-fromsoftware-that-is-the-long-term-commitment/",
+      "canonical": "gamesradar.com/games/rpg/baldurs-gate-3-and-elden-ring-are-north-stars-for-tencent-as-the-company-tries-to-build-the-next-larian-or-fromsoftware-that-is-the-long-term-commitment",
+      "published_dt": "2026-10-06T02:29:21+06:00",
+      "published_date": "2026-10-06T02:29:21+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"It was Demon's Souls into Dark Souls into Bloodborne and then finally into Elden Ring\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/2WeJ7jd75BPtmgode86ziD-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:41.932855+06:00",
+      "last_seen": "2026-10-06T04:19:41.932859+06:00"
+    },
+    "insider-gaming.com/exclusive-fallout-world-designer-we-love-insane": {
+      "title": "EXCLUSIVE: ‘Everywhere You Go Is Insane’: Former Fallout Designer Talks About The Worlds We Love",
+      "url": "https://insider-gaming.com/exclusive-fallout-world-designer-we-love-insane/",
+      "canonical": "insider-gaming.com/exclusive-fallout-world-designer-we-love-insane",
+      "published_dt": "2026-10-06T03:31:27+06:00",
+      "published_date": "2026-10-06T03:31:27+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "In an exclusive chat with Bruce Nesmith, a former Bethesda veteran, we learned about what it takes to bring the likes of Fallout to life. The post EXCLUSIVE: ‘Everywhere You Go Is Insane’: Former Fallout Designer Talks About The Worlds We Love appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:42.840379+06:00",
+      "last_seen": "2026-10-06T04:19:42.840387+06:00"
+    },
+    "insider-gaming.com/overwatch-solo-levelling-anime-skins-season-5": {
+      "title": "Overwatch Reveals Solo Levelling Anime Skins for Season 5",
+      "url": "https://insider-gaming.com/overwatch-solo-levelling-anime-skins-season-5/",
+      "canonical": "insider-gaming.com/overwatch-solo-levelling-anime-skins-season-5",
+      "published_dt": "2026-10-06T03:30:53+06:00",
+      "published_date": "2026-10-06T03:30:53+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Overwatch Season 5 will see the release of new Solo Levelling skins as part of a new Shadow Monarch collab with Blizzard The post Overwatch Reveals Solo Levelling Anime Skins for Season 5 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:42.840673+06:00",
+      "last_seen": "2026-10-06T04:19:42.840678+06:00"
+    },
+    "insider-gaming.com/watch-dogs-important-ubisoft-future-ceo-says": {
+      "title": "Ubisoft Addresses Watch Dogs’ Absence From Creative Houses",
+      "url": "https://insider-gaming.com/watch-dogs-important-ubisoft-future-ceo-says/",
+      "canonical": "insider-gaming.com/watch-dogs-important-ubisoft-future-ceo-says",
+      "published_dt": "2026-10-06T03:14:52+06:00",
+      "published_date": "2026-10-06T03:14:52+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Ubisoft CEO Yves Guillemot says Watch Dogs matters to the company’s future, though it is not currently prioritized in a creative house. The post Ubisoft Addresses Watch Dogs’ Absence From Creative Houses appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:42.840961+06:00",
+      "last_seen": "2026-10-06T04:19:42.840966+06:00"
+    },
+    "insider-gaming.com/lcs-summer-2026-records-best-viewership-in-years": {
+      "title": "LCS Summer 2026 Records Best Viewership in Years",
+      "url": "https://insider-gaming.com/lcs-summer-2026-records-best-viewership-in-years/",
+      "canonical": "insider-gaming.com/lcs-summer-2026-records-best-viewership-in-years",
+      "published_dt": "2026-10-06T02:25:09+06:00",
+      "published_date": "2026-10-06T02:25:09+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "The LCS Summer 2026 final between Team Liquid and LYON recorded the league's highest viewership in four years The post LCS Summer 2026 Records Best Viewership in Years appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-06T04:19:42.841254+06:00",
+      "last_seen": "2026-10-06T04:19:42.841259+06:00",
+      "posted_at": "2026-10-06T04:30:59.686973+06:00"
+    },
+    "insider-gaming.com/nyt-connections-hints-solutions-october-6-1213": {
+      "title": "NYT Connections Hints Today (#1213)—Answers for Tuesday, October 6",
+      "url": "https://insider-gaming.com/nyt-connections-hints-solutions-october-6-1213/",
+      "canonical": "insider-gaming.com/nyt-connections-hints-solutions-october-6-1213",
+      "published_dt": "2026-10-06T01:51:35+06:00",
+      "published_date": "2026-10-06T01:51:35+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1213)—Answers for Tuesday, October 6 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:42.841526+06:00",
+      "last_seen": "2026-10-06T04:19:42.841531+06:00"
+    },
+    "siliconera.com/persona-4-revival-marie-teaser-highlights-english-scenes": {
+      "title": "Persona 4 Revival Marie Teaser Highlights English Scenes",
+      "url": "https://www.siliconera.com/persona-4-revival-marie-teaser-highlights-english-scenes/",
+      "canonical": "siliconera.com/persona-4-revival-marie-teaser-highlights-english-scenes",
+      "published_dt": "2026-10-06T04:00:00+06:00",
+      "published_date": "2026-10-06T04:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "The latest Persona 4 Revival teaser is a YouTube Short looking at returning Golden character Marie.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:44.695029+06:00",
+      "last_seen": "2026-10-06T04:19:44.695036+06:00"
+    },
+    "siliconera.com/dragon-ball-super-beerus-anime-debut-date-and-ads-announced": {
+      "title": "Dragon Ball Super: Beerus Anime Debut Date and Ads Announced",
+      "url": "https://www.siliconera.com/dragon-ball-super-beerus-anime-debut-date-and-ads-announced/",
+      "canonical": "siliconera.com/dragon-ball-super-beerus-anime-debut-date-and-ads-announced",
+      "published_dt": "2026-10-06T03:00:00+06:00",
+      "published_date": "2026-10-06T03:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "The release date of Dragon Ball Super: Beerus is set for next week and ads will show up on buses and at malls in the US.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:44.695205+06:00",
+      "last_seen": "2026-10-06T04:19:44.695210+06:00"
+    },
+    "siliconera.com/first-suikoden-the-anime-episode-will-be-free-on-youtube-tomorrow": {
+      "title": "First Suikoden: The Anime Episode Will Be Free on YouTube Tomorrow",
+      "url": "https://www.siliconera.com/first-suikoden-the-anime-episode-will-be-free-on-youtube-tomorrow/",
+      "canonical": "siliconera.com/first-suikoden-the-anime-episode-will-be-free-on-youtube-tomorrow",
+      "published_dt": "2026-10-06T02:00:00+06:00",
+      "published_date": "2026-10-06T02:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "Suikoden: The Anime will debut on YouTube worldwide tomorrow and videos for its opening and ending songs also appeared.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:44.695340+06:00",
+      "last_seen": "2026-10-06T04:19:44.695345+06:00"
+    },
+    "escapistmagazine.com/rs4-mmo-unreal-engine": {
+      "title": "Jagex’s RS4 MMO Is Years Away as Gielinor Expansion Takes Shape",
+      "url": "https://www.escapistmagazine.com/rs4-mmo-unreal-engine/",
+      "canonical": "escapistmagazine.com/rs4-mmo-unreal-engine",
+      "published_dt": "2026-10-06T02:00:00+06:00",
+      "published_date": "2026-10-06T02:00:00+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "Jagex’s RS4 MMO is in early development, heading to Unreal Engine and Ashenfall, but its official name and release date remain unconfirmed. The post Jagex’s RS4 MMO Is Years Away as Gielinor Expansion Takes Shape appeared first on The Escapist .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T04:19:45.115051+06:00",
+      "last_seen": "2026-10-06T04:19:45.115059+06:00"
     }
   },
   "events": {
@@ -15393,6 +15925,206 @@
           "headline": "Capcom Refines Dragon’s Dogma 2 with Dark Arisen Expansion, Preserving Core Friction",
           "claims": [
             "Developers explain design choices"
+          ]
+        }
+      ]
+    },
+    "evt_91608723022376": {
+      "event_id": "evt_91608723022376",
+      "event_key": "lcs summer2026 viewership record",
+      "event_subject": "Riot Games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "lcs summer2026 viewership record",
+        "subject": "Riot Games",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "League of Legends",
+        "institution": "Riot Games",
+        "target": "Summer 2026 finals",
+        "platforms": [],
+        "topic": "esports statistics"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [
+        "highest viewership in four years"
+      ],
+      "importance_score": 54,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 20,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "LCS Summer 2026 Sets New Viewership High Since 2022",
+      "summary": "The North American League of Legends LCS Summer Finals drew a peak of 279,000 online viewers, the strongest audience since the 2022 season.",
+      "published_at": "2026-10-06T02:25:09+06:00",
+      "selected_at": "2026-10-05T22:30:59.687003+00:00",
+      "status": "published",
+      "message_id": 576,
+      "published_versions": [
+        {
+          "published_at": "2026-10-05T22:30:59.687003+00:00",
+          "headline": "LCS Summer 2026 Sets New Viewership High Since 2022",
+          "claims": [
+            "highest viewership in four years"
+          ]
+        }
+      ]
+    },
+    "evt_004a2b8efd0dfe": {
+      "event_id": "evt_004a2b8efd0dfe",
+      "event_key": "runescape trailer pullback generativeai allegations",
+      "event_subject": "Jagex",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "runescape trailer pullback generativeai allegations",
+        "subject": "Jagex",
+        "event_type": "other",
+        "action": "remove",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "RuneScape",
+        "franchise": "RuneScape",
+        "institution": "Jagex",
+        "target": "new trailer",
+        "platforms": [],
+        "topic": "community reaction"
+      },
+      "sources": [
+        "IGN"
+      ],
+      "event_sources": [
+        "IGN"
+      ],
+      "claims": [
+        "trailer pulled after six‑fingered knight sparked AI use accusations"
+      ],
+      "importance_score": 48,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 18,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Jagex Pulls RuneScape Trailer After Six‑Fingered Knight Sparks Generative AI Outcry",
+      "summary": "Fans accused Jagex of using generative AI in the new Dragon Slayer 2 trailer, prompting the developer to withdraw the video and launch an urgent investigation.",
+      "published_at": "2026-10-06T02:47:52+06:00",
+      "selected_at": "2026-10-05T22:31:06.180343+00:00",
+      "status": "published",
+      "message_id": 577,
+      "published_versions": [
+        {
+          "published_at": "2026-10-05T22:31:06.180343+00:00",
+          "headline": "Jagex Pulls RuneScape Trailer After Six‑Fingered Knight Sparks Generative AI Outcry",
+          "claims": [
+            "trailer pulled after six‑fingered knight sparked AI use accusations"
+          ]
+        }
+      ]
+    },
+    "evt_c4324214021007": {
+      "event_id": "evt_c4324214021007",
+      "event_key": "supermassive layoffs postdirective8020",
+      "event_subject": "Supermassive Games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "supermassive layoffs postdirective8020",
+        "subject": "Supermassive Games",
+        "event_type": "other",
+        "action": "lay_off",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Directive 8020",
+        "franchise": "Directive",
+        "institution": "Supermassive Games",
+        "target": "70 employees",
+        "platforms": [],
+        "topic": "company news"
+      },
+      "sources": [
+        "Kotaku"
+      ],
+      "event_sources": [
+        "Kotaku"
+      ],
+      "claims": [
+        "70 staff let go after mixed reviews"
+      ],
+      "importance_score": 46,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 20,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Supermassive Games Cuts 70 Jobs Six Months After Directive 8020 Launch",
+      "summary": "Supermassive Games announced a 70‑person layoff, citing sustainability concerns after the mixed‑reception of its new sci‑fi horror title Directive 8020.",
+      "published_at": "2026-10-06T03:46:42+06:00",
+      "selected_at": "2026-10-05T22:31:11.083162+00:00",
+      "status": "published",
+      "message_id": 578,
+      "published_versions": [
+        {
+          "published_at": "2026-10-05T22:31:11.083162+00:00",
+          "headline": "Supermassive Games Cuts 70 Jobs Six Months After Directive 8020 Launch",
+          "claims": [
+            "70 staff let go after mixed reviews"
+          ]
+        }
+      ]
+    },
+    "evt_217c878804e44f": {
+      "event_id": "evt_217c878804e44f",
+      "event_key": "miamidade sheriff gta6 collaboration commentary",
+      "event_subject": "PC Gamer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "miamidade sheriff gta6 collaboration commentary",
+        "subject": "PC Gamer",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "NBA Vice City partnership",
+        "platforms": [],
+        "topic": "public relations"
+      },
+      "sources": [
+        "PC Gamer"
+      ],
+      "event_sources": [
+        "PC Gamer"
+      ],
+      "claims": [
+        "sheriff not upset about promotional tie‑in"
+      ],
+      "importance_score": 45,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Miami Sheriff Criticizes GTA 6 Promotion on Public Facilities",
+      "summary": "Miami‑Dade Sheriff Cordero‑Stutz denounced the use of city transit hubs and the Kaseya Center to market Grand Theft Auto 6, calling the franchise a criminal‑focused videogame.",
+      "published_at": "2026-10-06T01:42:34+06:00",
+      "selected_at": "2026-10-05T22:31:16.739437+00:00",
+      "status": "published",
+      "message_id": 579,
+      "published_versions": [
+        {
+          "published_at": "2026-10-05T22:31:16.739437+00:00",
+          "headline": "Miami Sheriff Criticizes GTA 6 Promotion on Public Facilities",
+          "claims": [
+            "sheriff not upset about promotional tie‑in"
           ]
         }
       ]
@@ -77533,6 +78265,1286 @@
         "total": 28
       },
       "last_seen": "2026-10-05T21:38:02.746695+06:00"
+    },
+    "evt_91608723022376": {
+      "event_id": "evt_91608723022376",
+      "event_key": "lcs summer2026 viewership record",
+      "event_subject": "Riot Games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "lcs summer2026 viewership record",
+        "subject": "Riot Games",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "League of Legends",
+        "institution": "Riot Games",
+        "target": "Summer 2026 finals",
+        "platforms": [],
+        "topic": "esports statistics"
+      },
+      "modality": "unknown",
+      "topic": "esports statistics",
+      "institution": "Riot Games",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "highest viewership in four years"
+      ],
+      "importance_score": 54,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 54
+      },
+      "last_seen": "2026-10-06T04:20:52.170784+06:00"
+    },
+    "evt_c4324214021007": {
+      "event_id": "evt_c4324214021007",
+      "event_key": "supermassive layoffs postdirective8020",
+      "event_subject": "Supermassive Games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "supermassive layoffs postdirective8020",
+        "subject": "Supermassive Games",
+        "event_type": "other",
+        "action": "lay_off",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Directive 8020",
+        "franchise": "Directive",
+        "institution": "Supermassive Games",
+        "target": "70 employees",
+        "platforms": [],
+        "topic": "company news"
+      },
+      "modality": "unknown",
+      "topic": "company news",
+      "institution": "Supermassive Games",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "70 staff let go after mixed reviews"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 46
+      },
+      "last_seen": "2026-10-06T04:20:52.170806+06:00"
+    },
+    "evt_004a2b8efd0dfe": {
+      "event_id": "evt_004a2b8efd0dfe",
+      "event_key": "runescape trailer pullback generativeai allegations",
+      "event_subject": "Jagex",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "runescape trailer pullback generativeai allegations",
+        "subject": "Jagex",
+        "event_type": "other",
+        "action": "remove",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "RuneScape",
+        "franchise": "RuneScape",
+        "institution": "Jagex",
+        "target": "new trailer",
+        "platforms": [],
+        "topic": "community reaction"
+      },
+      "modality": "unknown",
+      "topic": "community reaction",
+      "institution": "Jagex",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "trailer pulled after six‑fingered knight sparked AI use accusations"
+      ],
+      "importance_score": 48,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 48
+      },
+      "last_seen": "2026-10-06T04:20:52.170814+06:00"
+    },
+    "evt_5b353706613fbe": {
+      "event_id": "evt_5b353706613fbe",
+      "event_key": "callofduty mw4 extractionmode dmz details",
+      "event_subject": "Infinity Ward",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "callofduty mw4 extractionmode dmz details",
+        "subject": "Infinity Ward",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Call of Duty: Modern Warfare 4",
+        "franchise": "Call of Duty",
+        "institution": "Activision",
+        "target": "Extraction mode (DMZ)",
+        "platforms": [],
+        "topic": "game mechanics"
+      },
+      "modality": "unknown",
+      "topic": "game mechanics",
+      "institution": "Activision",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "deep dive into new DMZ mode"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-10-06T04:20:52.170821+06:00"
+    },
+    "evt_217c878804e44f": {
+      "event_id": "evt_217c878804e44f",
+      "event_key": "miamidade sheriff gta6 collaboration commentary",
+      "event_subject": "PC Gamer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "miamidade sheriff gta6 collaboration commentary",
+        "subject": "PC Gamer",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "NBA Vice City partnership",
+        "platforms": [],
+        "topic": "public relations"
+      },
+      "modality": "unknown",
+      "topic": "public relations",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "sheriff not upset about promotional tie‑in"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-10-06T04:20:52.170828+06:00"
+    },
+    "evt_6358e82d095243": {
+      "event_id": "evt_6358e82d095243",
+      "event_key": "sony wh1000xx headphones primeday deal",
+      "event_subject": "Sony",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sony wh1000xx headphones primeday deal",
+        "subject": "Sony",
+        "event_type": "other",
+        "action": "discount",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Sony",
+        "target": "WH‑1000XX headphones",
+        "platforms": [],
+        "topic": "hardware deals"
+      },
+      "modality": "unknown",
+      "topic": "hardware deals",
+      "institution": "Sony",
+      "sources": [
+        "GamesRadar+",
+        "IGN"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "disc removal raises ownership concerns",
+        "over 50% off during Prime Day"
+      ],
+      "importance_score": 47,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 47
+      },
+      "last_seen": "2026-10-06T04:20:52.170835+06:00"
+    },
+    "evt_1952aae160efd7": {
+      "event_id": "evt_1952aae160efd7",
+      "event_key": "jagex rs4 mmo earlydevelopment status",
+      "event_subject": "The Escapist",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "jagex rs4 mmo earlydevelopment status",
+        "subject": "The Escapist",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "RuneScape 4",
+        "franchise": "RuneScape",
+        "institution": "Jagex",
+        "target": "RS4 MMO",
+        "platforms": [],
+        "topic": "project roadmap"
+      },
+      "modality": "unknown",
+      "topic": "project roadmap",
+      "institution": "Jagex",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "years away, early dev on Unreal Engine"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 38
+      },
+      "last_seen": "2026-10-06T04:20:52.170842+06:00"
+    },
+    "evt_68d2fda90a9b73": {
+      "event_id": "evt_68d2fda90a9b73",
+      "event_key": "gta6 storylead jason background commentary",
+      "event_subject": "Rockstar Games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 storylead jason background commentary",
+        "subject": "Rockstar Games",
+        "event_type": "other",
+        "action": "explain",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar Games",
+        "target": "Jason's ex‑military background",
+        "platforms": [],
+        "topic": "narrative design"
+      },
+      "modality": "unknown",
+      "topic": "narrative design",
+      "institution": "Rockstar Games",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "devs avoided making a statement with his background"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 36
+      },
+      "last_seen": "2026-10-06T04:20:52.170849+06:00"
+    },
+    "evt_068c4f52f8f501": {
+      "event_id": "evt_068c4f52f8f501",
+      "event_key": "finalfantasy7 revelation ps5exclusivitychange",
+      "event_subject": "Square Enix",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "finalfantasy7 revelation ps5exclusivitychange",
+        "subject": "Square Enix",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Final Fantasy VII Rebirth",
+        "franchise": "Final Fantasy",
+        "institution": "Square Enix",
+        "target": "PS5 exclusivity",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "platform strategy"
+      },
+      "modality": "unknown",
+      "topic": "platform strategy",
+      "institution": "Square Enix",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "exclusivity dropped as inevitable"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-10-06T04:20:52.170855+06:00"
+    },
+    "evt_72aba2e197fb89": {
+      "event_id": "evt_72aba2e197fb89",
+      "event_key": "ocarinaoftime controller replacement pricedrop",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ocarinaoftime controller replacement pricedrop",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "discount",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time",
+        "franchise": "Zelda",
+        "institution": "Nintendo",
+        "target": "controller replacement",
+        "platforms": [],
+        "topic": "accessories"
+      },
+      "modality": "unknown",
+      "topic": "accessories",
+      "institution": "Nintendo",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "cheaper alternative now $30 less"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 37
+      },
+      "last_seen": "2026-10-06T04:20:52.170862+06:00"
+    },
+    "evt_3aeda1cf79dccb": {
+      "event_id": "evt_3aeda1cf79dccb",
+      "event_key": "tencent investment strategy northstars baldursgate3 eldenring",
+      "event_subject": "Tencent",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "tencent investment strategy northstars baldursgate3 eldenring",
+        "subject": "Tencent",
+        "event_type": "other",
+        "action": "state",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Tencent",
+        "target": "potential Larian or FromSoftware acquisitions",
+        "platforms": [],
+        "topic": "industry M&A"
+      },
+      "modality": "unknown",
+      "topic": "industry M&A",
+      "institution": "Tencent",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Baldur's Gate 3 and Elden Ring are key targets"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 33
+      },
+      "last_seen": "2026-10-06T04:20:52.170869+06:00"
+    },
+    "evt_1ecf11e4f73350": {
+      "event_id": "evt_1ecf11e4f73350",
+      "event_key": "overwatch season5 sololevelling skins release",
+      "event_subject": "Blizzard Entertainment",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "overwatch season5 sololevelling skins release",
+        "subject": "Blizzard Entertainment",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Overwatch",
+        "franchise": "Overwatch",
+        "institution": "Blizzard",
+        "target": "Solo Levelling anime skins",
+        "platforms": [],
+        "topic": "season update"
+      },
+      "modality": "unknown",
+      "topic": "season update",
+      "institution": "Blizzard",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new skins part of Shadow Monarch collab"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 40
+      },
+      "last_seen": "2026-10-06T04:20:52.170875+06:00"
+    },
+    "evt_7107d64d6cfacb": {
+      "event_id": "evt_7107d64d6cfacb",
+      "event_key": "gta6 development trendavoidance commentary",
+      "event_subject": "Eurogamer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 development trendavoidance commentary",
+        "subject": "Eurogamer",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "development philosophy",
+        "platforms": [],
+        "topic": "design philosophy"
+      },
+      "modality": "unknown",
+      "topic": "design philosophy",
+      "institution": "",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "devs avoided jumping on passing trends"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-10-06T04:20:52.170883+06:00"
+    },
+    "evt_c202aafffd08ca": {
+      "event_id": "evt_c202aafffd08ca",
+      "event_key": "halloween firstdlc contentrelease",
+      "event_subject": "Illfonic",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "halloween firstdlc contentrelease",
+        "subject": "Illfonic",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Halloween (2024)",
+        "franchise": "Halloween",
+        "institution": "Illfonic",
+        "target": "new skins, map, characters",
+        "platforms": [],
+        "topic": "post‑launch content"
+      },
+      "modality": "unknown",
+      "topic": "post‑launch content",
+      "institution": "Illfonic",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "first paid DLC drops Oct 27 with multiple items"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-10-06T04:20:52.170889+06:00"
+    },
+    "evt_979b896cb428d3": {
+      "event_id": "evt_979b896cb428d3",
+      "event_key": "ubisoft watchdogs creativehouse status",
+      "event_subject": "Ubisoft",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ubisoft watchdogs creativehouse status",
+        "subject": "Ubisoft",
+        "event_type": "other",
+        "action": "address",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Watch Dogs",
+        "institution": "Ubisoft",
+        "target": "creative house focus",
+        "platforms": [],
+        "topic": "company strategy"
+      },
+      "modality": "unknown",
+      "topic": "company strategy",
+      "institution": "Ubisoft",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Watch Dogs not prioritized in current creative houses"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-10-06T04:20:52.170895+06:00"
+    },
+    "evt_82460eee7d3a95": {
+      "event_id": "evt_82460eee7d3a95",
+      "event_key": "fallouttv season3 premierewindow announcement",
+      "event_subject": "Amazon Prime Video",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fallouttv season3 premierewindow announcement",
+        "subject": "Amazon Prime Video",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Fallout (TV)",
+        "franchise": "Fallout",
+        "institution": "Amazon",
+        "target": "Season 3 premiere",
+        "platforms": [
+          "Prime Video"
+        ],
+        "topic": "show schedule"
+      },
+      "modality": "unknown",
+      "topic": "show schedule",
+      "institution": "Amazon",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "season may debut May or June next year"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-10-06T04:20:52.170902+06:00"
+    },
+    "evt_31c31102bdbd19": {
+      "event_id": "evt_31c31102bdbd19",
+      "event_key": "persona4revival teaserrelease",
+      "event_subject": "Atlus",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "persona4revival teaserrelease",
+        "subject": "Atlus",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Persona 4 Revival",
+        "franchise": "Persona",
+        "institution": "Atlus",
+        "target": "Marie character",
+        "platforms": [],
+        "topic": "marketing"
+      },
+      "modality": "unknown",
+      "topic": "marketing",
+      "institution": "Atlus",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "teaser shows English scenes featuring Marie"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-10-06T04:20:52.170909+06:00"
+    },
+    "evt_4c785578b0a7e8": {
+      "event_id": "evt_4c785578b0a7e8",
+      "event_key": "suikoden anime episode freeyoutube release",
+      "event_subject": "Siliconera",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "suikoden anime episode freeyoutube release",
+        "subject": "Siliconera",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Suikoden",
+        "franchise": "Suikoden",
+        "institution": "",
+        "target": "first anime episode",
+        "platforms": [
+          "YouTube"
+        ],
+        "topic": "anime promotion"
+      },
+      "modality": "unknown",
+      "topic": "anime promotion",
+      "institution": "",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "episode free on YouTube tomorrow"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-10-06T04:20:52.170915+06:00"
+    },
+    "evt_1d01a8a3d2b36b": {
+      "event_id": "evt_1d01a8a3d2b36b",
+      "event_key": "dragonballsuper beerus anime releasedate ads",
+      "event_subject": "Toei Animation",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "dragonballsuper beerus anime releasedate ads",
+        "subject": "Toei Animation",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Dragon Ball Super: Beerus",
+        "franchise": "Dragon Ball",
+        "institution": "Toei Animation",
+        "target": "anime debut",
+        "platforms": [],
+        "topic": "anime promotion"
+      },
+      "modality": "unknown",
+      "topic": "anime promotion",
+      "institution": "Toei Animation",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "release set for next week with bus/mall ads in US"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-10-06T04:20:52.170922+06:00"
+    },
+    "evt_82ecc8fa0b94e6": {
+      "event_id": "evt_82ecc8fa0b94e6",
+      "event_key": "fallout designer brucenesmith interview",
+      "event_subject": "Bruce Nesmith",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fallout designer brucenesmith interview",
+        "subject": "Bruce Nesmith",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Fallout",
+        "institution": "Bethesda",
+        "target": "game design process",
+        "platforms": [],
+        "topic": "industry interview"
+      },
+      "modality": "unknown",
+      "topic": "industry interview",
+      "institution": "Bethesda",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "insights on creating Fallout worlds"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 38
+      },
+      "last_seen": "2026-10-06T04:20:52.170929+06:00"
+    },
+    "evt_5e0d4e2e8a594a": {
+      "event_id": "evt_5e0d4e2e8a594a",
+      "event_key": "controlresonant freezeframe cameralocations",
+      "event_subject": "Control Res. Team",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "controlresonant freezeframe cameralocations",
+        "subject": "Control Res. Team",
+        "event_type": "other",
+        "action": "list",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Control Resonant",
+        "franchise": "Control",
+        "institution": "",
+        "target": "Freeze Frame cameras",
+        "platforms": [],
+        "topic": "game walkthrough"
+      },
+      "modality": "unknown",
+      "topic": "game walkthrough",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "all seven camera locations detailed"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-10-06T04:20:52.170936+06:00"
+    },
+    "evt_46f1c06e066906": {
+      "event_id": "evt_46f1c06e066906",
+      "event_key": "asus xboxally x ryzenz2 handheld deal",
+      "event_subject": "IGN",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "asus xboxally x ryzenz2 handheld deal",
+        "subject": "IGN",
+        "event_type": "other",
+        "action": "promote",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Asus",
+        "target": "Xbox Ally X handheld",
+        "platforms": [],
+        "topic": "hardware deals"
+      },
+      "modality": "unknown",
+      "topic": "hardware deals",
+      "institution": "Asus",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "pre‑owned units as low as $790 at Best Buy"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-10-06T04:20:52.170943+06:00"
+    },
+    "evt_ff3a80978d8f79": {
+      "event_id": "evt_ff3a80978d8f79",
+      "event_key": "romhack ocarinaoftime soccer mod",
+      "event_subject": "Kotaku",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "romhack ocarinaoftime soccer mod",
+        "subject": "Kotaku",
+        "event_type": "other",
+        "action": "highlight",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time",
+        "franchise": "Zelda",
+        "institution": "",
+        "target": "soccer romhack",
+        "platforms": [],
+        "topic": "modding"
+      },
+      "modality": "unknown",
+      "topic": "modding",
+      "institution": "",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "fun soccer romhack for OOT"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-10-06T04:20:52.170950+06:00"
+    },
+    "evt_69796d3a12740a": {
+      "event_id": "evt_69796d3a12740a",
+      "event_key": "acernitro qd oled monitor primeday pricedrop",
+      "event_subject": "Acer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "acernitro qd oled monitor primeday pricedrop",
+        "subject": "Acer",
+        "event_type": "other",
+        "action": "discount",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Acer",
+        "target": "27\" Nitro QD‑OLED monitor",
+        "platforms": [],
+        "topic": "hardware deals"
+      },
+      "modality": "unknown",
+      "topic": "hardware deals",
+      "institution": "Acer",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "price reduced to $269 at Walmart"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-06T04:20:52.170956+06:00"
+    },
+    "evt_775cc2189841cf": {
+      "event_id": "evt_775cc2189841cf",
+      "event_key": "amazonprimeday usb cable deal",
+      "event_subject": "Amazon",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "amazonprimeday usb cable deal",
+        "subject": "Amazon",
+        "event_type": "other",
+        "action": "offer",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Amazon",
+        "target": "USB‑C cables",
+        "platforms": [],
+        "topic": "hardware deals"
+      },
+      "modality": "unknown",
+      "topic": "hardware deals",
+      "institution": "Amazon",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "6.6ft 240W cables under $3 each"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-06T04:20:52.170962+06:00"
+    },
+    "evt_d149fcfefddea5": {
+      "event_id": "evt_d149fcfefddea5",
+      "event_key": "apple primebigdealdays earlydiscounts",
+      "event_subject": "Apple",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "apple primebigdealdays earlydiscounts",
+        "subject": "Apple",
+        "event_type": "other",
+        "action": "launch",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Apple",
+        "target": "Apple products",
+        "platforms": [],
+        "topic": "hardware deals"
+      },
+      "modality": "unknown",
+      "topic": "hardware deals",
+      "institution": "Apple",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "early discounts ahead of Prime Big Deal Days"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-06T04:20:52.170969+06:00"
+    },
+    "evt_5c52089da8ca14": {
+      "event_id": "evt_5c52089da8ca14",
+      "event_key": "lego primebigdealdays sales",
+      "event_subject": "LEGO",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "lego primebigdealdays sales",
+        "subject": "LEGO",
+        "event_type": "other",
+        "action": "promote",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "LEGO",
+        "target": "LEGO sets",
+        "platforms": [],
+        "topic": "retail promotion"
+      },
+      "modality": "unknown",
+      "topic": "retail promotion",
+      "institution": "LEGO",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "discounts across Amazon, Walmart, Target during Prime Big Deal Days"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-06T04:20:52.170975+06:00"
+    },
+    "evt_d3b818a3a8f08a": {
+      "event_id": "evt_d3b818a3a8f08a",
+      "event_key": "sicario3 production change directorwriter",
+      "event_subject": "Polygon",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sicario3 production change directorwriter",
+        "subject": "Polygon",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Sicario",
+        "institution": "",
+        "target": "new director/writer",
+        "platforms": [],
+        "topic": "film news"
+      },
+      "modality": "unknown",
+      "topic": "film news",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Taylor Sheridan replaced for Sicario 3",
+        "considered worst game mechanic ever"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-10-06T04:20:52.170982+06:00"
+    },
+    "evt_215a94f1808970": {
+      "event_id": "evt_215a94f1808970",
+      "event_key": "unnamedjrpg development feasibility rumor",
+      "event_subject": "Anonymous Developer",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "unnamedjrpg development feasibility rumor",
+        "subject": "Anonymous Developer",
+        "event_type": "rumor",
+        "action": "report",
+        "status": "unverified",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "turn‑based JRPG",
+        "platforms": [],
+        "topic": "game development"
+      },
+      "modality": "unknown",
+      "topic": "game development",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "development appears impossible after behind‑the‑scenes look"
+      ],
+      "importance_score": 28,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 28
+      },
+      "last_seen": "2026-10-06T04:20:52.170989+06:00"
+    },
+    "evt_529e29d0d5acab": {
+      "event_id": "evt_529e29d0d5acab",
+      "event_key": "gearsofwar eday newenemy feedback",
+      "event_subject": "Kotaku",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "gearsofwar eday newenemy feedback",
+        "subject": "Kotaku",
+        "event_type": "review",
+        "action": "criticize",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Gears of War: E‑Day",
+        "franchise": "Gears of War",
+        "institution": "",
+        "target": "new enemy design",
+        "platforms": [],
+        "topic": "game feedback"
+      },
+      "modality": "unknown",
+      "topic": "game feedback",
+      "institution": "",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "enemy is frustrating and poorly designed"
+      ],
+      "importance_score": 28,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 28
+      },
+      "last_seen": "2026-10-06T04:20:52.170996+06:00"
+    },
+    "evt_393d2d752597c0": {
+      "event_id": "evt_393d2d752597c0",
+      "event_key": "nyt connections hints today 1213",
+      "event_subject": "Insider Gaming",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nyt connections hints today 1213",
+        "subject": "Insider Gaming",
+        "event_type": "other",
+        "action": "provide",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "NYT Connections puzzle",
+        "platforms": [],
+        "topic": "puzzle assistance"
+      },
+      "modality": "unknown",
+      "topic": "puzzle assistance",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "answers and tips for Oct 6 puzzle"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 35
+      },
+      "last_seen": "2026-10-06T04:20:52.171004+06:00"
     }
   },
   "posted_event_ids": [
@@ -77734,7 +79746,11 @@
     "evt_d388c7e260e344",
     "evt_16a6b6db250d36",
     "evt_5b9baaf177e92d",
-    "evt_c4a5323b12132b"
+    "evt_c4a5323b12132b",
+    "evt_91608723022376",
+    "evt_004a2b8efd0dfe",
+    "evt_c4324214021007",
+    "evt_217c878804e44f"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -77935,10 +79951,14 @@
     "alientrap announces dunecrawl launch on playstation 5 xbox series and android",
     "americas and pacific dominate as valorant champions 2026 playoffs begin",
     "cd projekt red promises ps5 performance fixes for witcher 3 remastered",
-    "capcom refines dragon s dogma 2 with dark arisen expansion preserving core friction"
+    "capcom refines dragon s dogma 2 with dark arisen expansion preserving core friction",
+    "lcs summer 2026 sets new viewership high since 2022",
+    "jagex pulls runescape trailer after six fingered knight sparks generative ai outcry",
+    "supermassive games cuts 70 jobs six months after directive 8020 launch",
+    "miami sheriff criticizes gta 6 promotion on public facilities"
   ],
   "category_coverage": {
-    "Game Updates": "2026-10-05T21:49:29.616517+06:00",
+    "Game Updates": "2026-10-06T04:31:16.739454+06:00",
     "Major Releases": "2026-10-05T21:49:14.135486+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
@@ -77952,6 +79972,6 @@
     "Studio Closures": "2026-09-14T00:35:40.039904+06:00",
     "Layoffs": "2026-09-28T21:12:24.084077+06:00",
     "Mobile Gaming": "2026-10-05T12:37:58.966051+06:00",
-    "Esports": "2026-10-05T21:49:19.236314+06:00"
+    "Esports": "2026-10-06T04:30:59.687023+06:00"
   }
 }
