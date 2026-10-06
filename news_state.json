@@ -2,224 +2,143 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"17e61-IjhEq1N7dr59XsT+fbgWpP/+qu8\"",
+      "etag": "W/\"1ba4b-R5B8+1AsKs+Nr8ykMpyQiX+CVng\"",
       "last_modified": null,
-      "last_checked": "2026-10-06T04:19:38.057287+06:00",
+      "last_checked": "2026-10-06T13:12:24.106488+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-06T04:19:38.297451+06:00",
+      "last_checked": "2026-10-06T13:12:24.376696+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ac42167-a51\"",
-      "last_modified": "Mon, 05 Oct 2026 22:15:03 GMT",
-      "last_checked": "2026-10-06T04:19:38.769145+06:00",
+      "etag": "\"6ac49ecc-a52\"",
+      "last_modified": "Tue, 06 Oct 2026 07:10:04 GMT",
+      "last_checked": "2026-10-06T13:12:24.789137+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Mon, 05 Oct 2026 20:14:26 GMT",
-      "last_checked": "2026-10-06T04:19:39.434335+06:00",
+      "last_checked": "2026-10-06T13:12:25.545115+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ac42160-125f\"",
-      "last_modified": "Mon, 05 Oct 2026 22:14:56 GMT",
-      "last_checked": "2026-10-06T04:19:39.808524+06:00",
+      "etag": "\"6ac49194-1223\"",
+      "last_modified": "Tue, 06 Oct 2026 06:13:40 GMT",
+      "last_checked": "2026-10-06T13:12:25.786437+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-06T04:19:40.028517+06:00",
+      "last_checked": "2026-10-06T13:12:26.089060+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-06T04:19:41.053540+06:00",
+      "last_checked": "2026-10-06T13:12:27.073241+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"99333066ea91dcf6656f078b1314bfbd\"",
-      "last_modified": "Mon, 05 Oct 2026 21:49:42 GMT",
-      "last_checked": "2026-10-06T04:19:41.276046+06:00",
+      "etag": "W/\"ca2a509e44d2d93f4df0bdeec4735f39\"",
+      "last_modified": "Tue, 06 Oct 2026 07:11:47 GMT",
+      "last_checked": "2026-10-06T13:12:27.343309+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-06T04:19:41.509940+06:00",
+      "last_checked": "2026-10-06T13:12:27.486929+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Mon, 5 Oct 2026 18:06:51 GMT",
-      "last_checked": "2026-10-06T04:19:42.160412+06:00",
+      "last_checked": "2026-10-06T13:12:28.183156+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Mon, 05 Oct 2026 22:19:42 GMT",
-      "last_checked": "2026-10-06T04:19:42.698357+06:00",
+      "last_modified": "Tue, 06 Oct 2026 07:12:29 GMT",
+      "last_checked": "2026-10-06T13:12:29.035530+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"e9b835207482ca31a573df608c79894c\"",
-      "last_modified": "Mon, 05 Oct 2026 21:31:29 GMT",
-      "last_checked": "2026-10-06T04:19:42.828786+06:00",
+      "etag": "W/\"8c1c89652ef235a2e83d7f16bc094d16\"",
+      "last_modified": "Tue, 06 Oct 2026 00:30:00 GMT",
+      "last_checked": "2026-10-06T13:12:29.179472+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-06T04:19:43.187971+06:00",
+      "last_checked": "2026-10-06T13:12:29.595457+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-06T04:19:43.686838+06:00",
+      "last_checked": "2026-10-06T13:12:30.129716+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-06T04:19:44.091890+06:00",
+      "last_checked": "2026-10-06T13:12:30.699433+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-06T04:19:44.460720+06:00",
-      "fail_count": 53,
+      "last_checked": "2026-10-06T13:12:31.047281+06:00",
+      "fail_count": 54,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"49da1a5f72cbadf7363197b5271b1f64\"",
       "last_modified": "Mon, 05 Oct 2026 18:17:03 GMT",
-      "last_checked": "2026-10-06T04:19:44.646370+06:00",
+      "last_checked": "2026-10-06T13:12:31.165171+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-06T04:19:44.758493+06:00",
+      "last_checked": "2026-10-06T13:12:31.310874+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-06T04:19:44.922241+06:00",
-      "fail_count": 53,
+      "last_checked": "2026-10-06T13:12:31.543659+06:00",
+      "fail_count": 54,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"0dbb6936d61f4ca4a5d269acfd60c51e\"",
       "last_modified": "Mon, 05 Oct 2026 20:00:00 GMT",
-      "last_checked": "2026-10-06T04:19:45.073662+06:00",
+      "last_checked": "2026-10-06T13:12:31.721944+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "pcgamer.com/hardware/gaming-audio/a-tiny-desktop-gaming-soundbar-for-au-usd63-is-a-yes-from-me": {
-      "title": "A tiny desktop gaming soundbar for AU$63 is a yes from me",
-      "url": "https://www.pcgamer.com/hardware/gaming-audio/a-tiny-desktop-gaming-soundbar-for-au-usd63-is-a-yes-from-me/",
-      "canonical": "pcgamer.com/hardware/gaming-audio/a-tiny-desktop-gaming-soundbar-for-au-usd63-is-a-yes-from-me",
-      "published_dt": "2026-10-02T10:47:19+06:00",
-      "published_date": "2026-10-02T10:47:19+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "It's better than your monitor's speakers, but it ain't hi-fi.",
-      "image": "https://cdn.mos.cms.futurecdn.net/wp9mPS7yFhcoMgeUiF4FkV-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-02T12:42:19.267853+06:00",
-      "last_seen": "2026-10-02T12:42:19.267858+06:00"
-    },
-    "polygon.com/izombie-streaming-free-youtube-october-2026": {
-      "title": "Buffy Meets Hannibal In the Cult Classic Detective Series Streaming Free on YouTube",
-      "url": "https://www.polygon.com/izombie-streaming-free-youtube-october-2026/",
-      "canonical": "polygon.com/izombie-streaming-free-youtube-october-2026",
-      "published_dt": "2026-10-02T11:45:15+06:00",
-      "published_date": "2026-10-02T11:45:15+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "iZombie is free to stream on YouTube, making now the perfect time to revisit this creative twist on the zombie genre.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/zmb509a_0633b.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-02T12:42:19.676875+06:00",
-      "last_seen": "2026-10-02T12:42:19.676878+06:00"
-    },
-    "nintendolife.com/news/2026/10/round-up-the-reviews-for-minecraft-dungeons-ii-are-in": {
-      "title": "Round Up: The Reviews For Minecraft Dungeons II Are In",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-minecraft-dungeons-ii-are-in",
-      "canonical": "nintendolife.com/news/2026/10/round-up-the-reviews-for-minecraft-dungeons-ii-are-in",
-      "published_dt": "2026-10-02T11:55:00+06:00",
-      "published_date": "2026-10-02T11:55:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Enter the Sift. The world of Minecraft just got a little bigger this week with the release of Minecraft Dungeons II on Nintendo's systems and other platforms. If you haven't already tried out this new entry in the action RPG series, we've now put together this round up to help give you a better idea of what to expect. At the time of writing, the critic score on Metacritic is 75/100, with a user score of 8.2. Over on OpenCritic, the sequel has an average critic score of 77/100. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/31338c6f5b98e/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-10-02T12:42:21.556068+06:00",
-      "last_seen": "2026-10-02T12:42:21.556072+06:00",
-      "posted_at": "2026-10-02T12:44:36.076294+06:00"
-    },
-    "nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2": {
-      "title": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
-      "canonical": "nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
-      "published_dt": "2026-10-02T10:55:00+06:00",
-      "published_date": "2026-10-02T10:55:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "The team made decisions and optimisations \"one by one\". If you've experienced Monster Hunter Wilds on other platforms, especially during its launch window, you might already be aware of the game's technical woes. These troubles haven't stopped Capcom from bringing the game to Switch 2, and to get the latest entry running \"without compromising the experience of Monster Hunter Wilds\", the team has had to make decisions \"one by one\" during the port's development. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/a7b06fd7c158d/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-02T12:42:21.556272+06:00",
-      "last_seen": "2026-10-02T12:42:21.556274+06:00"
-    },
-    "nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more": {
-      "title": "007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More",
-      "url": "https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more",
-      "canonical": "nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more",
-      "published_dt": "2026-10-02T09:55:00+06:00",
-      "published_date": "2026-10-02T09:55:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "The Switch 2 port arrives next March. Although the Switch 2 port of 007 First Light has been delayed until next year, IO Interactive is still pushing out new content for the game on other platforms. With this mind, this week it's launched \"extended operations free DLC\", which comes with new missions, a photo mode, new game+, new weapons, outfits and more. When the Switch 2 version arrives in March 2027 , all of this additional content should be available. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/2ef0beade345d/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-02T12:42:21.556472+06:00",
-      "last_seen": "2026-10-02T12:42:21.556474+06:00"
-    },
     "ign.com/articles/kingdom-come-deliverance-co-founder-gta-6-price": {
       "title": "Kingdom Come: Deliverance Dev Hopes GTA 6 Will Encourage Studios to Charge More for Their Games",
       "url": "https://www.ign.com/articles/kingdom-come-deliverance-co-founder-gta-6-price",
@@ -5668,6 +5587,135 @@
       "status": "pending",
       "first_seen": "2026-10-06T04:19:45.115051+06:00",
       "last_seen": "2026-10-06T04:19:45.115059+06:00"
+    },
+    "ign.com/articles/sonos-october-prime-day-sale-2026-best-deals-on-soundbars-speakers-subwoofers": {
+      "title": "Sonos Is Hosting Its Own Prime Day Sale With Up to 25% Off Soundbars, Subs and Speakers",
+      "url": "https://www.ign.com/articles/sonos-october-prime-day-sale-2026-best-deals-on-soundbars-speakers-subwoofers",
+      "canonical": "ign.com/articles/sonos-october-prime-day-sale-2026-best-deals-on-soundbars-speakers-subwoofers",
+      "published_dt": "2026-10-06T12:35:00+06:00",
+      "published_date": "2026-10-06T12:35:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "You don't have to wait until Black Friday.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/06/sonos-1791265425127.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T13:12:24.176845+06:00",
+      "last_seen": "2026-10-06T13:12:24.176851+06:00"
+    },
+    "ign.com/articles/calvin-and-hobbes-book-deal-amazon-october-prime-day-sale-2026": {
+      "title": "Don't Miss The Complete Calvin and Hobbes Collection Book Deal for Amazon Prime Day",
+      "url": "https://www.ign.com/articles/calvin-and-hobbes-book-deal-amazon-october-prime-day-sale-2026",
+      "canonical": "ign.com/articles/calvin-and-hobbes-book-deal-amazon-october-prime-day-sale-2026",
+      "published_dt": "2026-10-06T12:15:00+06:00",
+      "published_date": "2026-10-06T12:15:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Both hardcover and paperback sets are on sale.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/06/calvinhobbes-1791265767614.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T13:12:24.177021+06:00",
+      "last_seen": "2026-10-06T13:12:24.177026+06:00"
+    },
+    "ign.com/articles/beats-studio-pro-wireless-noise-canceling-headphone-deal-october-2026": {
+      "title": "The Beats Studio Pro Wireless Noise Canceling Headphones Drops to the Lowest Price Ever for Prime Day",
+      "url": "https://www.ign.com/articles/beats-studio-pro-wireless-noise-canceling-headphone-deal-october-2026",
+      "canonical": "ign.com/articles/beats-studio-pro-wireless-noise-canceling-headphone-deal-october-2026",
+      "published_dt": "2026-10-06T11:15:00+06:00",
+      "published_date": "2026-10-06T11:15:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "But not at Amazon.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/06/beatsstudiopro2-1791263077480.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T13:12:24.177158+06:00",
+      "last_seen": "2026-10-06T13:12:24.177162+06:00"
+    },
+    "gematsu.com/2026/10/monster-hunter-rise-sales-top-20-million": {
+      "title": "Monster Hunter Rise sales top 20 million",
+      "url": "https://www.gematsu.com/2026/10/monster-hunter-rise-sales-top-20-million",
+      "canonical": "gematsu.com/2026/10/monster-hunter-rise-sales-top-20-million",
+      "published_dt": "2026-10-06T10:16:52+06:00",
+      "published_date": "2026-10-06T10:16:52+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Total sales for Monster Hunter Rise have surpassed 20 million units, Capcom announced. Monster Hunter …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T13:12:25.809987+06:00",
+      "last_seen": "2026-10-06T13:12:25.809992+06:00"
+    },
+    "polygon.com/escape-from-tarkov-pve-update-1-2-0-0-exfil-brothers-prestige": {
+      "title": "Escape From Tarkov’s New PvE Update Officially Makes the Game Easier for Newbies",
+      "url": "https://www.polygon.com/escape-from-tarkov-pve-update-1-2-0-0-exfil-brothers-prestige/",
+      "canonical": "polygon.com/escape-from-tarkov-pve-update-1-2-0-0-exfil-brothers-prestige",
+      "published_dt": "2026-10-06T13:00:17+06:00",
+      "published_date": "2026-10-06T13:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The EXFIL Brothers program rewards veterans for playing with noobs, bot behavior has been overhauled, and more in Escape From Tarkov's PvE update.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/escape-from-tarkov-pve-update-1200.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-06T13:12:27.082192+06:00",
+      "last_seen": "2026-10-06T13:12:27.082218+06:00",
+      "posted_at": "2026-10-06T13:14:38.636778+06:00"
+    },
+    "polygon.com/stephen-king-carrie-prime-video": {
+      "title": "Stephen King’s New Near-Perfect 8-Part Series Officially Releases on Prime Video This Week",
+      "url": "https://www.polygon.com/stephen-king-carrie-prime-video/",
+      "canonical": "polygon.com/stephen-king-carrie-prime-video",
+      "published_dt": "2026-10-06T11:00:15+06:00",
+      "published_date": "2026-10-06T11:00:15+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Catch the new 8-part 'Carrie' series adaptation on Prime Video now!",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/carrie.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T13:12:27.082373+06:00",
+      "last_seen": "2026-10-06T13:12:27.082377+06:00"
+    },
+    "nintendolife.com/news/2026/10/monster-hunter-rise-surpasses-20-million-global-sales": {
+      "title": "Monster Hunter Rise Surpasses 20 Million Global Sales",
+      "url": "https://www.nintendolife.com/news/2026/10/monster-hunter-rise-surpasses-20-million-global-sales",
+      "canonical": "nintendolife.com/news/2026/10/monster-hunter-rise-surpasses-20-million-global-sales",
+      "published_dt": "2026-10-06T11:55:00+06:00",
+      "published_date": "2026-10-06T11:55:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "The hunt began as a Switch exclusive. Capcom's Monster Hunter series has become an absolute powerhouse over the past two decades and while the company's current focus is on the latest entry Monster Hunter Wilds , it's taken a brief moment this week to provide an update on the sales of the previous release. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/97ab283680207/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T13:12:29.616479+06:00",
+      "last_seen": "2026-10-06T13:12:29.616486+06:00"
+    },
+    "nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle": {
+      "title": "Nintendo Announces Another Switch 2 Hardware Bundle",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
+      "canonical": "nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
+      "published_dt": "2026-10-06T10:55:00+06:00",
+      "published_date": "2026-10-06T10:55:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Japan gets a new \"Choose-Your-Game\" bundle. The Switch 2 is now over a year into its life, and Nintendo has so far shifted more than 23 million units globally. In recent months, the video game giant has announced multiple hardware bundles (and even some themed systems) to help boost worldwide sales, and it's now Japan's turn. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/84398a2b4ba21/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-06T13:12:29.616820+06:00",
+      "last_seen": "2026-10-06T13:12:29.616825+06:00"
     }
   },
   "events": {
@@ -16125,6 +16173,58 @@
           "headline": "Miami Sheriff Criticizes GTA 6 Promotion on Public Facilities",
           "claims": [
             "sheriff not upset about promotional tie‑in"
+          ]
+        }
+      ]
+    },
+    "evt_b62e707476197e": {
+      "event_id": "evt_b62e707476197e",
+      "event_key": "escapefromtarkov pveupdate 2026 10 06",
+      "event_subject": "Escape From Tarkov",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "escapefromtarkov pveupdate 2026 10 06",
+        "subject": "Escape From Tarkov",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Escape From Tarkov",
+        "franchise": "Escape From Tarkov",
+        "institution": "Battlestate Games",
+        "target": "PvE content",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "game_update"
+      },
+      "sources": [
+        "Polygon"
+      ],
+      "event_sources": [
+        "Polygon"
+      ],
+      "claims": [
+        "new PvE update makes game easier for newcomers"
+      ],
+      "importance_score": 42,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Escape From Tarkov Launches EXFIL Brothers PvE Update to Aid Newbies",
+      "summary": "The 1.2.0.0 patch adds the EXFIL Brothers mentorship program, PvE prestige tiers, bot reworks, and a limited‑time POLYGON code reward bundle.",
+      "published_at": "2026-10-06T13:00:17+06:00",
+      "selected_at": "2026-10-06T07:14:38.636803+00:00",
+      "status": "published",
+      "message_id": 580,
+      "published_versions": [
+        {
+          "published_at": "2026-10-06T07:14:38.636803+00:00",
+          "headline": "Escape From Tarkov Launches EXFIL Brothers PvE Update to Aid Newbies",
+          "claims": [
+            "new PvE update makes game easier for newcomers"
           ]
         }
       ]
@@ -79545,6 +79645,303 @@
         "total": 35
       },
       "last_seen": "2026-10-06T04:20:52.171004+06:00"
+    },
+    "evt_f7133338a1490d": {
+      "event_id": "evt_f7133338a1490d",
+      "event_key": "monsterhunterrise salesmilestone 20m 2026 10 06",
+      "event_subject": "Monster Hunter Rise",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "monsterhunterrise salesmilestone 20m 2026 10 06",
+        "subject": "Monster Hunter Rise",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Monster Hunter Rise",
+        "franchise": "Monster Hunter",
+        "institution": "Capcom",
+        "target": "global sales",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "sales"
+      },
+      "modality": "unknown",
+      "topic": "sales",
+      "institution": "Capcom",
+      "sources": [
+        "Nintendo Life",
+        "Gematsu"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "sales surpassed 20 million units",
+        "sales surpassed 20 million units"
+      ],
+      "importance_score": 68,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 6,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 68
+      },
+      "last_seen": "2026-10-06T13:13:36.075747+06:00"
+    },
+    "evt_44066fa0046705": {
+      "event_id": "evt_44066fa0046705",
+      "event_key": "nintendo switch2 japanbundle 2026 10 06",
+      "event_subject": "Switch 2",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo switch2 japanbundle 2026 10 06",
+        "subject": "Switch 2",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Nintendo Switch",
+        "institution": "Nintendo",
+        "target": "Japan‑only bundle",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "hardware"
+      },
+      "modality": "unknown",
+      "topic": "hardware",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new \"Choose‑Your‑Game\" hardware bundle announced"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-10-06T13:13:36.075765+06:00"
+    },
+    "evt_b62e707476197e": {
+      "event_id": "evt_b62e707476197e",
+      "event_key": "escapefromtarkov pveupdate 2026 10 06",
+      "event_subject": "Escape From Tarkov",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "escapefromtarkov pveupdate 2026 10 06",
+        "subject": "Escape From Tarkov",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Escape From Tarkov",
+        "franchise": "Escape From Tarkov",
+        "institution": "Battlestate Games",
+        "target": "PvE content",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "game_update"
+      },
+      "modality": "unknown",
+      "topic": "game_update",
+      "institution": "Battlestate Games",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new PvE update makes game easier for newcomers"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-10-06T13:13:36.075775+06:00"
+    },
+    "evt_02576cac1d5767": {
+      "event_id": "evt_02576cac1d5767",
+      "event_key": "sonos primeday sale 2026 10 06",
+      "event_subject": "Sonos",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sonos primeday sale 2026 10 06",
+        "subject": "Sonos",
+        "event_type": "other",
+        "action": "offer",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Sonos",
+        "target": "soundbars, subwoofers, speakers",
+        "platforms": [],
+        "topic": "retail_promotion"
+      },
+      "modality": "unknown",
+      "topic": "retail_promotion",
+      "institution": "Sonos",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "up to 25% off for Prime Day"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-06T13:13:36.075783+06:00"
+    },
+    "evt_7f3488784c8846": {
+      "event_id": "evt_7f3488784c8846",
+      "event_key": "beatsstudiopro primeday pricedrop 2026 10 06",
+      "event_subject": "Beats Studio Pro Wireless",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "beatsstudiopro primeday pricedrop 2026 10 06",
+        "subject": "Beats Studio Pro Wireless",
+        "event_type": "other",
+        "action": "reduce",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Beats",
+        "institution": "Beats by Dre",
+        "target": "headphones",
+        "platforms": [],
+        "topic": "retail_promotion"
+      },
+      "modality": "unknown",
+      "topic": "retail_promotion",
+      "institution": "Beats by Dre",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "lowest price ever for Prime Day"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-10-06T13:13:36.075790+06:00"
+    },
+    "evt_8156f3002172ab": {
+      "event_id": "evt_8156f3002172ab",
+      "event_key": "calvinandhobbes primeday bookdeal 2026 10 06",
+      "event_subject": "Calvin and Hobbes Collection",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "calvinandhobbes primeday bookdeal 2026 10 06",
+        "subject": "Calvin and Hobbes Collection",
+        "event_type": "other",
+        "action": "offer",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Calvin and Hobbes",
+        "institution": "Amazon",
+        "target": "hardcover and paperback book sets",
+        "platforms": [],
+        "topic": "retail_promotion"
+      },
+      "modality": "unknown",
+      "topic": "retail_promotion",
+      "institution": "Amazon",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "complete collection on sale for Prime Day"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-10-06T13:13:36.075796+06:00"
+    },
+    "evt_a55984fa32e3d3": {
+      "event_id": "evt_a55984fa32e3d3",
+      "event_key": "stephenking carrieseries release 2026 10 06",
+      "event_subject": "Carrie Series",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "stephenking carrieseries release 2026 10 06",
+        "subject": "Carrie Series",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Stephen King",
+        "institution": "Amazon Prime Video",
+        "target": "Prime Video platform",
+        "platforms": [
+          "Streaming"
+        ],
+        "topic": "media"
+      },
+      "modality": "unknown",
+      "topic": "media",
+      "institution": "Amazon Prime Video",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "8‑part series adaptation released this week"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-10-06T13:13:36.075803+06:00"
     }
   },
   "posted_event_ids": [
@@ -79750,7 +80147,8 @@
     "evt_91608723022376",
     "evt_004a2b8efd0dfe",
     "evt_c4324214021007",
-    "evt_217c878804e44f"
+    "evt_217c878804e44f",
+    "evt_b62e707476197e"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -79955,10 +80353,11 @@
     "lcs summer 2026 sets new viewership high since 2022",
     "jagex pulls runescape trailer after six fingered knight sparks generative ai outcry",
     "supermassive games cuts 70 jobs six months after directive 8020 launch",
-    "miami sheriff criticizes gta 6 promotion on public facilities"
+    "miami sheriff criticizes gta 6 promotion on public facilities",
+    "escape from tarkov launches exfil brothers pve update to aid newbies"
   ],
   "category_coverage": {
-    "Game Updates": "2026-10-06T04:31:16.739454+06:00",
+    "Game Updates": "2026-10-06T13:14:38.636821+06:00",
     "Major Releases": "2026-10-05T21:49:14.135486+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
