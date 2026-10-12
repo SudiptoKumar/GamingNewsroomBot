@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"3304f-NWg0vq+UK/Gdvw+uzany8Iktf9A\"",
+      "etag": "W/\"2dbf2-o3O7dTwb+GPoNvxYwedXocyPL50\"",
       "last_modified": null,
-      "last_checked": "2026-10-12T00:37:11.639879+06:00",
+      "last_checked": "2026-10-12T12:59:07.300994+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-12T00:37:11.991660+06:00",
+      "last_checked": "2026-10-12T12:59:07.514402+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6acbd6d7-9d9\"",
-      "last_modified": "Sun, 11 Oct 2026 18:35:03 GMT",
-      "last_checked": "2026-10-12T00:37:12.444047+06:00",
+      "etag": "\"6acc8448-9da\"",
+      "last_modified": "Mon, 12 Oct 2026 06:55:04 GMT",
+      "last_checked": "2026-10-12T12:59:07.978755+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Sun, 11 Oct 2026 17:28:25 GMT",
-      "last_checked": "2026-10-12T00:37:12.575114+06:00",
+      "last_checked": "2026-10-12T12:59:08.647283+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6acbc0c3-12ef\"",
-      "last_modified": "Sun, 11 Oct 2026 17:00:51 GMT",
-      "last_checked": "2026-10-12T00:37:12.947941+06:00",
+      "etag": "\"6acc67a9-12a7\"",
+      "last_modified": "Mon, 12 Oct 2026 04:52:57 GMT",
+      "last_checked": "2026-10-12T12:59:08.851136+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-12T00:37:13.120996+06:00",
+      "last_checked": "2026-10-12T12:59:09.085170+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-12T00:37:13.705968+06:00",
-      "fail_count": 0,
+      "last_checked": "2026-10-12T12:59:31.630924+06:00",
+      "fail_count": 1,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"8967fb034eb8b1cb3cfcf29a7d6f0b86\"",
-      "last_modified": "Sun, 11 Oct 2026 18:33:15 GMT",
-      "last_checked": "2026-10-12T00:37:13.939997+06:00",
+      "etag": "W/\"844668beeb1a245c09b526dab946f86d\"",
+      "last_modified": "Sun, 11 Oct 2026 21:34:08 GMT",
+      "last_checked": "2026-10-12T12:59:31.872571+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-12T00:37:14.156360+06:00",
+      "last_checked": "2026-10-12T12:59:32.174491+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Sun, 11 Oct 2026 11:39:02 GMT",
-      "last_checked": "2026-10-12T00:37:14.677455+06:00",
+      "last_checked": "2026-10-12T12:59:32.621850+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sun, 11 Oct 2026 18:37:15 GMT",
-      "last_checked": "2026-10-12T00:37:15.195256+06:00",
+      "last_modified": "Mon, 12 Oct 2026 06:59:33 GMT",
+      "last_checked": "2026-10-12T12:59:33.145113+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"a8b8b4fe431519cfb396303151d111e1\"",
-      "last_modified": "Sun, 11 Oct 2026 17:11:28 GMT",
-      "last_checked": "2026-10-12T00:37:15.362172+06:00",
+      "etag": "W/\"2b4f072919a23dd9e50927d25628d84a\"",
+      "last_modified": "Mon, 12 Oct 2026 00:41:25 GMT",
+      "last_checked": "2026-10-12T12:59:33.307934+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-12T00:37:15.674965+06:00",
+      "last_checked": "2026-10-12T12:59:33.542932+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-12T00:37:15.932988+06:00",
+      "last_checked": "2026-10-12T12:59:33.789359+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-12T00:37:16.187663+06:00",
+      "last_checked": "2026-10-12T12:59:34.302687+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-12T00:37:16.362371+06:00",
-      "fail_count": 69,
+      "last_checked": "2026-10-12T12:59:34.601621+06:00",
+      "fail_count": 70,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"219beb5ee788942d014ee7a08df43731\"",
-      "last_modified": "Fri, 09 Oct 2026 03:02:19 GMT",
-      "last_checked": "2026-10-12T00:37:16.478368+06:00",
+      "etag": "W/\"f23306ceea3442e6d83364d73829e252\"",
+      "last_modified": "Fri, 02 Oct 2026 13:43:40 GMT",
+      "last_checked": "2026-10-12T12:59:34.669336+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-12T00:37:16.698800+06:00",
+      "last_checked": "2026-10-12T12:59:34.773593+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-12T00:37:16.832733+06:00",
-      "fail_count": 69,
+      "last_checked": "2026-10-12T12:59:34.942403+06:00",
+      "fail_count": 70,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"868d9096be507aa4ac5074cc917cc5f3\"",
       "last_modified": "Sun, 11 Oct 2026 10:00:00 GMT",
-      "last_checked": "2026-10-12T00:37:16.992464+06:00",
+      "last_checked": "2026-10-12T12:59:35.821828+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -6592,116 +6592,26 @@
       "status": "pending",
       "first_seen": "2026-10-12T00:37:15.373886+06:00",
       "last_seen": "2026-10-12T00:37:15.373892+06:00"
+    },
+    "gematsu.com/2026/10/this-weeks-japanese-game-releases-castlevania-belmonts-curse-ratatan-more": {
+      "title": "This Week’s Japanese Game Releases: Castlevania: Belmont’s Curse, RATATAN, more",
+      "url": "https://www.gematsu.com/2026/10/this-weeks-japanese-game-releases-castlevania-belmonts-curse-ratatan-more",
+      "canonical": "gematsu.com/2026/10/this-weeks-japanese-game-releases-castlevania-belmonts-curse-ratatan-more",
+      "published_dt": "2026-10-12T10:52:53+06:00",
+      "published_date": "2026-10-12T10:52:53+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Castlevania: Belmont’s Curse for PlayStation 5, Xbox Series, Switch, and PC, and RATATAN for PlayStation …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-12T12:59:08.877499+06:00",
+      "last_seen": "2026-10-12T12:59:08.877507+06:00",
+      "posted_at": "2026-10-12T13:01:43.546121+06:00"
     }
   },
   "events": {
-    "evt_6f00254ce84629": {
-      "event_id": "evt_6f00254ce84629",
-      "event_key": "monster hunter wilds switch2 bundle announcement",
-      "event_subject": "Nintendo",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "monster hunter wilds switch2 bundle announcement",
-        "subject": "Nintendo",
-        "event_type": "other",
-        "action": "announce_bundle",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Monster Hunter Wilds",
-        "franchise": "Monster Hunter",
-        "institution": "Nintendo Life",
-        "target": "consumers",
-        "platforms": [
-          "Switch 2"
-        ],
-        "topic": "Gaming"
-      },
-      "sources": [
-        "Nintendo Life"
-      ],
-      "event_sources": [
-        "Nintendo Life"
-      ],
-      "claims": [
-        "Nintendo announced a Switch 2 bundle featuring the upcoming Monster Hunter Wilds title, launching in Japan this December."
-      ],
-      "importance_score": 65,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 35,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Nintendo Announces Switch 2 Monster Hunter Wilds Bundle for December Release",
-      "summary": "Nintendo and Capcom revealed a Switch 2 bundle featuring Monster Hunter Wilds, a digital copy, Joy‑Con 2, and a three‑month Switch Online subscription, priced at 61,980 yen.",
-      "published_at": "2026-09-12T08:35:00+06:00",
-      "selected_at": "2026-09-12T05:28:36.499152+00:00",
-      "status": "published",
-      "message_id": 240,
-      "published_versions": [
-        {
-          "published_at": "2026-09-12T05:28:36.499152+00:00",
-          "headline": "Nintendo Announces Switch 2 Monster Hunter Wilds Bundle for December Release",
-          "claims": [
-            "Nintendo announced a Switch 2 bundle featuring the upcoming Monster Hunter Wilds title, launching in Japan this December."
-          ]
-        }
-      ]
-    },
-    "evt_791270788a825b": {
-      "event_id": "evt_791270788a825b",
-      "event_key": "melty blood twi lumina release 2027 04 22",
-      "event_subject": "Melty Blood: Twi‑Lumina",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "melty blood twi lumina release 2027 04 22",
-        "subject": "Melty Blood: Twi‑Lumina",
-        "event_type": "other",
-        "action": "announce_release",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Melty Blood: Twi‑Lumina",
-        "franchise": "Melty Blood",
-        "institution": "Gematsu",
-        "target": "players",
-        "platforms": [
-          "PlayStation 5",
-          "Switch 2",
-          "PlayStation 4",
-          "Xbox"
-        ],
-        "topic": "Gaming"
-      },
-      "sources": [
-        "Gematsu"
-      ],
-      "event_sources": [
-        "Gematsu"
-      ],
-      "claims": [
-        "The fighting game Melty Blood: Twi‑Lumina will launch on April 22, 2027 across multiple platforms."
-      ],
-      "importance_score": 54,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 20,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Melty Blood: Twi‑Lumina Set for Multi‑Platform Launch on April 22, 2027",
-      "summary": "The fighting title Melty Blood: Twi‑Lumina will debut across PlayStation, Xbox, Switch and PC, offering extensive language support and new characters.",
-      "published_at": "2026-09-12T09:06:23+06:00",
-      "selected_at": "2026-09-12T05:28:41.348566+00:00",
-      "status": "published",
-      "message_id": 241,
-      "published_versions": [
-        {
-          "published_at": "2026-09-12T05:28:41.348566+00:00",
-          "headline": "Melty Blood: Twi‑Lumina Set for Multi‑Platform Launch on April 22, 2027",
-          "claims": [
-            "The fighting game Melty Blood: Twi‑Lumina will launch on April 22, 2027 across multiple platforms."
-          ]
-        }
-      ]
-    },
     "evt_041c90281ea072": {
       "event_id": "evt_041c90281ea072",
       "event_key": "polyarc studio closure announcement",
@@ -16947,6 +16857,61 @@
           "headline": "EU Targets Activision, Riot, Ubisoft Over Outdated Virtual Currency Practices",
           "claims": [
             "As courts around the globe scrutinize predatory payment systems, Italian regulators are leading the charge against misaligned in-game currencies"
+          ]
+        }
+      ]
+    },
+    "evt_50d55ac6ecba1b": {
+      "event_id": "evt_50d55ac6ecba1b",
+      "event_key": "castlevania belmont s curse launch",
+      "event_subject": "Castlevania: Belmont’s Curse",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "castlevania belmont s curse launch",
+        "subject": "Castlevania: Belmont’s Curse",
+        "event_type": "release",
+        "action": "launch",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Castlevania: Belmont’s Curse",
+        "franchise": "Castlevania",
+        "institution": "Konami",
+        "target": "players",
+        "platforms": [
+          "PlayStation 5",
+          "Xbox Series X|S",
+          "Nintendo Switch",
+          "PC"
+        ],
+        "topic": "weekly Japanese game releases"
+      },
+      "sources": [
+        "Gematsu"
+      ],
+      "event_sources": [
+        "Gematsu"
+      ],
+      "claims": [
+        "new game release"
+      ],
+      "importance_score": 46,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Japanese Weekly Release Spotlight: Castlevania: Belmont’s Curse and RATATAN Launch Across Major Consoles",
+      "summary": "This week sees Castlevania: Belmont’s Curse and RATATAN debut on PlayStation 5, Xbox Series, and Switch platforms, alongside several remastered and new titles.",
+      "published_at": "2026-10-12T10:52:53+06:00",
+      "selected_at": "2026-10-12T07:01:43.546155+00:00",
+      "status": "published",
+      "message_id": 673,
+      "published_versions": [
+        {
+          "published_at": "2026-10-12T07:01:43.546155+00:00",
+          "headline": "Japanese Weekly Release Spotlight: Castlevania: Belmont’s Curse and RATATAN Launch Across Major Consoles",
+          "claims": [
+            "new game release"
           ]
         }
       ]
@@ -99488,6 +99453,52 @@
         "total": 33
       },
       "last_seen": "2026-10-12T00:41:14.203810+06:00"
+    },
+    "evt_50d55ac6ecba1b": {
+      "event_id": "evt_50d55ac6ecba1b",
+      "event_key": "castlevania belmont s curse launch",
+      "event_subject": "Castlevania: Belmont’s Curse",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "castlevania belmont s curse launch",
+        "subject": "Castlevania: Belmont’s Curse",
+        "event_type": "release",
+        "action": "launch",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Castlevania: Belmont’s Curse",
+        "franchise": "Castlevania",
+        "institution": "Konami",
+        "target": "players",
+        "platforms": [
+          "PlayStation 5",
+          "Xbox Series X|S",
+          "Nintendo Switch",
+          "PC"
+        ],
+        "topic": "weekly Japanese game releases"
+      },
+      "modality": "unknown",
+      "topic": "weekly Japanese game releases",
+      "institution": "Konami",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new game release"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 46
+      },
+      "last_seen": "2026-10-12T13:01:39.503676+06:00"
     }
   },
   "posted_event_ids": [
@@ -99770,7 +99781,8 @@
     "evt_70ad37d7437768",
     "evt_fd0704e7da9d9f",
     "evt_5bc7e106a86b0a",
-    "evt_96af27d35a94ca"
+    "evt_96af27d35a94ca",
+    "evt_50d55ac6ecba1b"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -100052,11 +100064,12 @@
     "matt mercer s it s our game to have fun becomes iconic d d slogan",
     "sungwon cho reveals why he 100 games and shuns multiplayer",
     "how to pronounce iconic names in the legend of zelda ocarina of time",
-    "eu targets activision riot ubisoft over outdated virtual currency practices"
+    "eu targets activision riot ubisoft over outdated virtual currency practices",
+    "japanese weekly release spotlight castlevania belmont s curse and ratatan launch across major consoles"
   ],
   "category_coverage": {
     "Game Updates": "2026-10-12T00:41:17.711279+06:00",
-    "Major Releases": "2026-10-11T20:09:36.643940+06:00",
+    "Major Releases": "2026-10-12T13:01:43.546180+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
     "Nintendo": "2026-09-09T21:29:41.864902+06:00",
