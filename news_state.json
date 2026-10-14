@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1e2e2-xYqQDmMq/XtUwxaFOvToDtHXnvY\"",
+      "etag": "W/\"1d691-qNrSzd+rmy+DxQWdsl4Q5Xyxow0\"",
       "last_modified": null,
-      "last_checked": "2026-10-14T02:59:40.375848+06:00",
+      "last_checked": "2026-10-14T11:49:56.425075+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-14T02:59:40.688471+06:00",
+      "last_checked": "2026-10-14T11:49:56.578695+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ace9aa7-b59\"",
-      "last_modified": "Tue, 13 Oct 2026 20:55:03 GMT",
-      "last_checked": "2026-10-14T02:59:41.155442+06:00",
+      "etag": "\"6acf16df-b59\"",
+      "last_modified": "Wed, 14 Oct 2026 05:45:03 GMT",
+      "last_checked": "2026-10-14T11:49:57.026129+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Tue, 13 Oct 2026 16:13:54 GMT",
-      "last_checked": "2026-10-14T02:59:41.504767+06:00",
+      "last_checked": "2026-10-14T11:49:57.218983+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ace8af3-120c\"",
-      "last_modified": "Tue, 13 Oct 2026 19:48:03 GMT",
-      "last_checked": "2026-10-14T02:59:41.822080+06:00",
+      "etag": "\"50f38f52f377ffb9fbc9112f70550f94\"",
+      "last_modified": "Wed, 14 Oct 2026 05:32:32 GMT",
+      "last_checked": "2026-10-14T11:49:57.392447+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-14T02:59:42.018213+06:00",
+      "last_checked": "2026-10-14T11:49:57.560489+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-14T02:59:42.540719+06:00",
+      "last_checked": "2026-10-14T11:49:57.942361+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"8fb00e2ea802d3d174feeba1ed040904\"",
-      "last_modified": "Tue, 13 Oct 2026 20:52:16 GMT",
-      "last_checked": "2026-10-14T02:59:43.487568+06:00",
+      "etag": "W/\"3c06738f45adb118291cecc57664ac58\"",
+      "last_modified": "Tue, 13 Oct 2026 21:57:17 GMT",
+      "last_checked": "2026-10-14T11:49:58.219903+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-14T02:59:43.777394+06:00",
+      "last_checked": "2026-10-14T11:49:58.428195+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Tue, 13 Oct 2026 17:20:32 GMT",
-      "last_checked": "2026-10-14T02:59:44.410551+06:00",
+      "last_modified": "Tue, 13 Oct 2026 22:31:16 GMT",
+      "last_checked": "2026-10-14T11:49:58.961022+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Tue, 13 Oct 2026 20:59:44 GMT",
-      "last_checked": "2026-10-14T02:59:44.937114+06:00",
+      "last_modified": "Wed, 14 Oct 2026 05:49:59 GMT",
+      "last_checked": "2026-10-14T11:49:59.434509+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"b999abf2a329b53c4adec42cd81f096d\"",
-      "last_modified": "Tue, 13 Oct 2026 20:38:46 GMT",
-      "last_checked": "2026-10-14T02:59:45.136582+06:00",
+      "etag": "W/\"76ccb42182979aa35fcbab5d6c3d1632\"",
+      "last_modified": "Tue, 13 Oct 2026 21:40:19 GMT",
+      "last_checked": "2026-10-14T11:49:59.557102+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-14T02:59:45.915312+06:00",
+      "last_checked": "2026-10-14T11:49:59.884996+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-14T02:59:46.393703+06:00",
+      "last_checked": "2026-10-14T11:50:00.290872+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-14T02:59:46.699554+06:00",
+      "last_checked": "2026-10-14T11:50:00.560879+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-14T02:59:46.944533+06:00",
-      "fail_count": 75,
+      "last_checked": "2026-10-14T11:50:00.756175+06:00",
+      "fail_count": 76,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"6430ef56748418b522a582361e69995c\"",
-      "last_modified": "Tue, 13 Oct 2026 15:58:03 GMT",
-      "last_checked": "2026-10-14T02:59:47.061486+06:00",
+      "etag": "W/\"b560a6e607a2c39bd745645f2ca5e7dd\"",
+      "last_modified": "Tue, 13 Oct 2026 18:30:23 GMT",
+      "last_checked": "2026-10-14T11:50:00.917547+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-14T02:59:47.350958+06:00",
+      "last_checked": "2026-10-14T11:50:01.078349+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-14T02:59:47.549669+06:00",
-      "fail_count": 75,
+      "last_checked": "2026-10-14T11:50:01.246865+06:00",
+      "fail_count": 76,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"8a65e950e0e6f889be4f11d3334dfdc0\"",
       "last_modified": "Tue, 13 Oct 2026 20:00:00 GMT",
-      "last_checked": "2026-10-14T02:59:47.717271+06:00",
+      "last_checked": "2026-10-14T11:50:01.361155+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -5328,6 +5328,87 @@
       "status": "pending",
       "first_seen": "2026-10-14T02:59:47.758978+06:00",
       "last_seen": "2026-10-14T02:59:47.758986+06:00"
+    },
+    "gematsu.com/2026/10/gundam-games-40th-anniversary-live-stream-set-for-october-28": {
+      "title": "Gundam Games 40th Anniversary Live Stream set for October 28",
+      "url": "https://www.gematsu.com/2026/10/gundam-games-40th-anniversary-live-stream-set-for-october-28",
+      "canonical": "gematsu.com/2026/10/gundam-games-40th-anniversary-live-stream-set-for-october-28",
+      "published_dt": "2026-10-14T09:19:45+06:00",
+      "published_date": "2026-10-14T09:19:45+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Bandai Namco will host the “Gundam Games 40th Anniversary Live Stream” on October 28 at …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-14T11:49:57.418046+06:00",
+      "last_seen": "2026-10-14T11:49:57.418052+06:00"
+    },
+    "gematsu.com/2026/10/1999-tokoyo-building-launches-november-10": {
+      "title": "1999 TOKOYO Building launches November 10",
+      "url": "https://www.gematsu.com/2026/10/1999-tokoyo-building-launches-november-10",
+      "canonical": "gematsu.com/2026/10/1999-tokoyo-building-launches-november-10",
+      "published_dt": "2026-10-14T09:09:07+06:00",
+      "published_date": "2026-10-14T09:09:07+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Neo-nostalgic horror adventure game 1999TOKOYO Building will launch for PC via Steam on November 10, …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-14T11:49:57.418220+06:00",
+      "last_seen": "2026-10-14T11:49:57.418225+06:00"
+    },
+    "pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners": {
+      "title": "Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners",
+      "url": "https://www.pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners/",
+      "canonical": "pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners",
+      "published_dt": "2026-10-14T09:08:04+06:00",
+      "published_date": "2026-10-14T09:08:04+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "It sucks, get rid of it.",
+      "image": "https://cdn.mos.cms.futurecdn.net/AdLTMA8g9nsKdT8AkDMon7-1920-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-14T11:49:57.849438+06:00",
+      "last_seen": "2026-10-14T11:49:57.849445+06:00"
+    },
+    "polygon.com/essential-sci-fi-books-you-need-to-read-at-least-once-in-your-life": {
+      "title": "10 Sci-Fi Books You Need to Read Before You Die",
+      "url": "https://www.polygon.com/essential-sci-fi-books-you-need-to-read-at-least-once-in-your-life/",
+      "canonical": "polygon.com/essential-sci-fi-books-you-need-to-read-at-least-once-in-your-life",
+      "published_dt": "2026-10-14T10:00:20+06:00",
+      "published_date": "2026-10-14T10:00:20+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The ultimate reading list for mind-bending, genre-defining speculative fiction.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/3-body-problem.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-14T11:49:57.951928+06:00",
+      "last_seen": "2026-10-14T11:49:57.951933+06:00"
+    },
+    "nintendolife.com/news/2026/10/toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-completely-free-update-on-switch-this-week": {
+      "title": "Toy Shooter Hypercharge: Unboxed Is Getting A \"Huge\" And \"Completely Free\" Update On Switch This Week",
+      "url": "https://www.nintendolife.com/news/2026/10/toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-completely-free-update-on-switch-this-week",
+      "canonical": "nintendolife.com/news/2026/10/toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-completely-free-update-on-switch-this-week",
+      "published_dt": "2026-10-14T10:45:00+06:00",
+      "published_date": "2026-10-14T10:45:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Adding \"full crossplay\" support, new modes, maps and much more. Back in 2024, the toy shooter HYPERCHARGE: Unboxed got an update on other platforms adding cross-platform support. Now, a few years later, the team has shared some news about the Switch version. Alongside a lengthy message , the development team at Digital Cybercherries has this week announced the Switch release will be getting the \"biggest update\" it's ever had...and it will be \"completely free\". Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/8ec29fc3ef69c/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-14T11:49:59.908228+06:00",
+      "last_seen": "2026-10-14T11:49:59.908234+06:00",
+      "posted_at": "2026-10-14T11:52:08.624566+06:00"
     }
   },
   "events": {
@@ -15807,6 +15888,54 @@
         {
           "published_at": "2026-10-13T21:14:51.079752+00:00",
           "headline": "Sifu Launches on iOS and Android for $7.99",
+          "claims": []
+        }
+      ]
+    },
+    "evt_d5a05308961ca8": {
+      "event_id": "evt_d5a05308961ca8",
+      "event_key": "hypercharge unboxed update nintendo switch free",
+      "event_subject": "Digital Cybercherries",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "hypercharge unboxed update nintendo switch free",
+        "subject": "Digital Cybercherries",
+        "event_type": "other",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Hypercharge: Unboxed",
+        "franchise": "Hypercharge: Unboxed",
+        "institution": "Nintendo",
+        "target": "Nintendo Switch version",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "topic": "update"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [],
+      "importance_score": 42,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Hypercharge: Unboxed Receives Massive Free Update for Switch This Week",
+      "summary": "Digital Cybercherries announced a free, feature‑rich update for Hypercharge: Unboxed on Switch, adding cross‑play, new story mode, bosses, maps, and weapons.",
+      "published_at": "2026-10-14T10:45:00+06:00",
+      "selected_at": "2026-10-14T05:52:08.624600+00:00",
+      "status": "published",
+      "message_id": 694,
+      "published_versions": [
+        {
+          "published_at": "2026-10-14T05:52:08.624600+00:00",
+          "headline": "Hypercharge: Unboxed Receives Massive Free Update for Switch This Week",
           "claims": []
         }
       ]
@@ -105758,6 +105887,164 @@
         "total": 36
       },
       "last_seen": "2026-10-14T03:07:43.459810+06:00"
+    },
+    "evt_d5a05308961ca8": {
+      "event_id": "evt_d5a05308961ca8",
+      "event_key": "hypercharge unboxed update nintendo switch free",
+      "event_subject": "Digital Cybercherries",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "hypercharge unboxed update nintendo switch free",
+        "subject": "Digital Cybercherries",
+        "event_type": "other",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Hypercharge: Unboxed",
+        "franchise": "Hypercharge: Unboxed",
+        "institution": "Nintendo",
+        "target": "Nintendo Switch version",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "topic": "update"
+      },
+      "modality": "unknown",
+      "topic": "update",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-10-14T11:51:05.407594+06:00"
+    },
+    "evt_b73877c92730d1": {
+      "event_id": "evt_b73877c92730d1",
+      "event_key": "gundam games live stream anniversary scheduled",
+      "event_subject": "Bandai Namco",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gundam games live stream anniversary scheduled",
+        "subject": "Bandai Namco",
+        "event_type": "other",
+        "action": "announce",
+        "status": "scheduled",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Gundam",
+        "institution": "Bandai Namco",
+        "target": "Gundam Games 40th Anniversary Live Stream",
+        "platforms": [],
+        "topic": "anniversary"
+      },
+      "modality": "unknown",
+      "topic": "anniversary",
+      "institution": "Bandai Namco",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 40
+      },
+      "last_seen": "2026-10-14T11:51:05.407618+06:00"
+    },
+    "evt_42647abd49e75a": {
+      "event_id": "evt_42647abd49e75a",
+      "event_key": "polygon article non gaming list",
+      "event_subject": "Polygon",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "polygon article non gaming list",
+        "subject": "Polygon",
+        "event_type": "other",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "book list"
+      },
+      "modality": "unknown",
+      "topic": "book list",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-14T11:51:05.407627+06:00"
+    },
+    "evt_69e85ec8cd25bf": {
+      "event_id": "evt_69e85ec8cd25bf",
+      "event_key": "steam feature change screensaver observed",
+      "event_subject": "Valve",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "steam feature change screensaver observed",
+        "subject": "Valve",
+        "event_type": "other",
+        "action": "observe",
+        "status": "observed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Valve",
+        "target": "Steam client",
+        "platforms": [],
+        "topic": "screensaver"
+      },
+      "modality": "unknown",
+      "topic": "screensaver",
+      "institution": "Valve",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-14T11:51:05.407635+06:00"
     }
   },
   "posted_event_ids": [
@@ -106061,7 +106348,8 @@
     "evt_33d66b100be48f",
     "evt_8ed1391a3f1499",
     "evt_1a2acd5e0bb572",
-    "evt_4a43ad1eab7107"
+    "evt_4a43ad1eab7107",
+    "evt_d5a05308961ca8"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -106364,10 +106652,11 @@
     "sony announces midnight black ps5 digital edition for japan",
     "cd projekt red releases hotfix for the witcher 3 remastered on ps5",
     "will you take november 19 off for gta 6 release",
-    "sifu launches on ios and android for 7 99"
+    "sifu launches on ios and android for 7 99",
+    "hypercharge unboxed receives massive free update for switch this week"
   ],
   "category_coverage": {
-    "Game Updates": "2026-10-14T03:14:51.079777+06:00",
+    "Game Updates": "2026-10-14T11:52:08.624623+06:00",
     "Major Releases": "2026-10-14T03:14:46.207831+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
