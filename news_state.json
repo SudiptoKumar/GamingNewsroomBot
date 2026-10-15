@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"18a2f-fwBtDoraIVUGcY7gxTfcOIQ2Uis\"",
+      "etag": "W/\"1f717-ieAq8ZhwtMMvEoC+zaY2GYc5tkM\"",
       "last_modified": null,
-      "last_checked": "2026-10-15T02:27:51.710717+06:00",
+      "last_checked": "2026-10-15T11:34:35.674043+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-15T02:27:51.985892+06:00",
+      "last_checked": "2026-10-15T11:34:35.922182+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6acfe51f-bad\"",
-      "last_modified": "Wed, 14 Oct 2026 20:25:03 GMT",
-      "last_checked": "2026-10-15T02:27:52.321926+06:00",
+      "etag": "\"6ad064dd-bac\"",
+      "last_modified": "Thu, 15 Oct 2026 05:30:05 GMT",
+      "last_checked": "2026-10-15T11:34:36.268441+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Wed, 14 Oct 2026 19:14:52 GMT",
-      "last_checked": "2026-10-15T02:27:52.974867+06:00",
+      "last_modified": "Wed, 14 Oct 2026 20:37:15 GMT",
+      "last_checked": "2026-10-15T11:34:36.569364+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ea958908a80886ab61ee2903ed11101\"",
-      "last_modified": "Wed, 14 Oct 2026 20:09:23 GMT",
-      "last_checked": "2026-10-15T02:27:53.362363+06:00",
+      "etag": "\"6ad04d06-121f\"",
+      "last_modified": "Thu, 15 Oct 2026 03:48:22 GMT",
+      "last_checked": "2026-10-15T11:34:36.990790+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-15T02:27:53.663695+06:00",
+      "last_checked": "2026-10-15T11:34:37.292869+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-15T02:27:54.516570+06:00",
+      "last_checked": "2026-10-15T11:34:38.139236+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"a61f838c2cd9c08b6f7f4a0b021a3eb6\"",
-      "last_modified": "Wed, 14 Oct 2026 20:27:00 GMT",
-      "last_checked": "2026-10-15T02:27:54.822691+06:00",
+      "etag": "W/\"1958ea102d6c3bff1a311d6f74d3cfce\"",
+      "last_modified": "Wed, 14 Oct 2026 21:32:08 GMT",
+      "last_checked": "2026-10-15T11:34:38.378060+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-15T02:27:55.127013+06:00",
+      "last_checked": "2026-10-15T11:34:38.662619+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Wed, 14 Oct 2026 19:11:49 GMT",
-      "last_checked": "2026-10-15T02:27:55.453803+06:00",
+      "last_checked": "2026-10-15T11:34:39.134377+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Wed, 14 Oct 2026 20:27:56 GMT",
-      "last_checked": "2026-10-15T02:27:56.929905+06:00",
+      "last_modified": "Thu, 15 Oct 2026 05:34:40 GMT",
+      "last_checked": "2026-10-15T11:34:40.271002+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"3fc58fd489196fce3237330265745b71\"",
-      "last_modified": "Wed, 14 Oct 2026 20:15:05 GMT",
-      "last_checked": "2026-10-15T02:27:57.533254+06:00",
+      "etag": "W/\"5f9baf1a4c463552c7731d8500818597\"",
+      "last_modified": "Wed, 14 Oct 2026 23:45:08 GMT",
+      "last_checked": "2026-10-15T11:34:40.458450+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-15T02:27:58.087876+06:00",
+      "last_checked": "2026-10-15T11:34:40.858089+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-15T02:27:58.679999+06:00",
+      "last_checked": "2026-10-15T11:34:41.386407+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-15T02:27:59.283942+06:00",
+      "last_checked": "2026-10-15T11:34:41.837571+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-15T02:27:59.633583+06:00",
-      "fail_count": 79,
+      "last_checked": "2026-10-15T11:34:42.111475+06:00",
+      "fail_count": 80,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"e42c672da3eb1b1a2d6ab89f1e0054a8\"",
-      "last_modified": "Wed, 14 Oct 2026 16:04:40 GMT",
-      "last_checked": "2026-10-15T02:27:59.779372+06:00",
+      "etag": "W/\"fe5d6c05ecc2476c30623e5e6b308c98\"",
+      "last_modified": "Thu, 15 Oct 2026 03:44:03 GMT",
+      "last_checked": "2026-10-15T11:34:42.275918+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-15T02:28:00.027702+06:00",
+      "last_checked": "2026-10-15T11:34:42.637504+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-15T02:28:00.381036+06:00",
-      "fail_count": 79,
+      "last_checked": "2026-10-15T11:34:42.870744+06:00",
+      "fail_count": 80,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"bce331365e2e585a2b81522af5dd4240\"",
-      "last_modified": "Wed, 14 Oct 2026 17:07:22 GMT",
-      "last_checked": "2026-10-15T02:28:00.630021+06:00",
+      "etag": "W/\"4c109889c6c74cff9b3dc8f63772a1fd\"",
+      "last_modified": "Wed, 14 Oct 2026 20:00:00 GMT",
+      "last_checked": "2026-10-15T11:34:43.149940+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -7923,59 +7923,154 @@
       "status": "pending",
       "first_seen": "2026-10-15T02:27:59.814516+06:00",
       "last_seen": "2026-10-15T02:27:59.814517+06:00"
+    },
+    "gematsu.com/2026/10/touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil-physical-edition-for-switch-2-switch-launches-december-17-in-japan": {
+      "title": "Touhou Koumakyou: New Classic – the Embodiment of Scarlet Devil physical edition for Switch 2, Switch launches December 17 in Japan",
+      "url": "https://www.gematsu.com/2026/10/touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil-physical-edition-for-switch-2-switch-launches-december-17-in-japan",
+      "canonical": "gematsu.com/2026/10/touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil-physical-edition-for-switch-2-switch-launches-december-17-in-japan",
+      "published_dt": "2026-10-15T09:44:45+06:00",
+      "published_date": "2026-10-15T09:44:45+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Shanghai Alice Reprise will release a physical edition of shoot ’em up remaster Touhou Koumakyou: …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-15T11:34:37.009996+06:00",
+      "last_seen": "2026-10-15T11:34:37.010001+06:00"
+    },
+    "gematsu.com/2026/10/idle-simulation-game-gundam-blitz-order-announced-for-ios-android": {
+      "title": "Idle simulation game Gundam Blitz Order announced for iOS, Android",
+      "url": "https://www.gematsu.com/2026/10/idle-simulation-game-gundam-blitz-order-announced-for-ios-android",
+      "canonical": "gematsu.com/2026/10/idle-simulation-game-gundam-blitz-order-announced-for-ios-android",
+      "published_dt": "2026-10-15T09:31:53+06:00",
+      "published_date": "2026-10-15T09:31:53+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Bandai Namco has announced Gundam Blitz Order, a free-to-play idle simulation game for iOS and …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-15T11:34:37.010145+06:00",
+      "last_seen": "2026-10-15T11:34:37.010148+06:00"
+    },
+    "gematsu.com/2026/10/reverie-in-the-moonlight-coming-to-switch-2-switch-on-november-19": {
+      "title": "Reverie in the Moonlight coming to Switch 2, Switch on November 19",
+      "url": "https://www.gematsu.com/2026/10/reverie-in-the-moonlight-coming-to-switch-2-switch-on-november-19",
+      "canonical": "gematsu.com/2026/10/reverie-in-the-moonlight-coming-to-switch-2-switch-on-november-19",
+      "published_dt": "2026-10-15T09:21:11+06:00",
+      "published_date": "2026-10-15T09:21:11+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "room6 will release Reverie in the Moonlight, a roguelike action game where players, along with …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-15T11:34:37.010279+06:00",
+      "last_seen": "2026-10-15T11:34:37.010281+06:00"
+    },
+    "polygon.com/castlevania-belmonts-curse-medusa-how-to-defeat-prophetess-location": {
+      "title": "How to defeat Medusa in Castlevania Belmont's Curse",
+      "url": "https://www.polygon.com/castlevania-belmonts-curse-medusa-how-to-defeat-prophetess-location/",
+      "canonical": "polygon.com/castlevania-belmonts-curse-medusa-how-to-defeat-prophetess-location",
+      "published_dt": "2026-10-15T10:01:18+06:00",
+      "published_date": "2026-10-15T10:01:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Here's a complete rundown on how to beat Medusa in Castlevania: Belmont's Curse and where to find her, the Prophetess arcana.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/castlevaniabelmonts_guide_medusa_lead1.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-15T11:34:38.147061+06:00",
+      "last_seen": "2026-10-15T11:34:38.147066+06:00"
+    },
+    "polygon.com/castlevania-belmonts-curse-whip-attack-how-to-work-of-mercy": {
+      "title": "How to kill enemies with a whip attack in Castlevania Belmont's Curse",
+      "url": "https://www.polygon.com/castlevania-belmonts-curse-whip-attack-how-to-work-of-mercy/",
+      "canonical": "polygon.com/castlevania-belmonts-curse-whip-attack-how-to-work-of-mercy",
+      "published_dt": "2026-10-15T10:01:18+06:00",
+      "published_date": "2026-10-15T10:01:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "In this guide, we explain how to perform a whip attack in Castlevania: Belmont's Curse so you can complete the Holy Cross' Work of Mercy.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/castlevaniabelmontscurse_guide_whipattack_lead3.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-15T11:34:38.147199+06:00",
+      "last_seen": "2026-10-15T11:34:38.147202+06:00"
+    },
+    "polygon.com/castlevania-belmonts-curse-prison-tower-location-warrior-carpenters-crane": {
+      "title": "How to get to the top of the Prison Tower in Castlevania Belmont's Curse",
+      "url": "https://www.polygon.com/castlevania-belmonts-curse-prison-tower-location-warrior-carpenters-crane/",
+      "canonical": "polygon.com/castlevania-belmonts-curse-prison-tower-location-warrior-carpenters-crane",
+      "published_dt": "2026-10-15T10:01:18+06:00",
+      "published_date": "2026-10-15T10:01:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Here's how to reach the top of the prison tower in Castlevania: Belmont's Curse and where to find the carpenter's crane.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/castlevaniabelmontscurse_guide_prisontower_lead.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-15T11:34:38.147318+06:00",
+      "last_seen": "2026-10-15T11:34:38.147320+06:00"
+    },
+    "polygon.com/best-science-fantasy-books-21st-century": {
+      "title": "8 Best Science Fantasy Books of the 21st Century",
+      "url": "https://www.polygon.com/best-science-fantasy-books-21st-century/",
+      "canonical": "polygon.com/best-science-fantasy-books-21st-century",
+      "published_dt": "2026-10-15T10:00:22+06:00",
+      "published_date": "2026-10-15T10:00:22+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Break genre barriers with spacefaring necromancers and aliens employing goblins",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gideon-the-ninth.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-15T11:34:38.147430+06:00",
+      "last_seen": "2026-10-15T11:34:38.147433+06:00"
+    },
+    "nintendolife.com/news/2026/10/icymi-zelda-ocarina-of-time-on-switch-2-has-a-museum-and-boss-time-trial-mode": {
+      "title": "ICYMI: Zelda: Ocarina Of Time On Switch 2 Has A Museum & Boss Time Trial Mode",
+      "url": "https://www.nintendolife.com/news/2026/10/icymi-zelda-ocarina-of-time-on-switch-2-has-a-museum-and-boss-time-trial-mode",
+      "canonical": "nintendolife.com/news/2026/10/icymi-zelda-ocarina-of-time-on-switch-2-has-a-museum-and-boss-time-trial-mode",
+      "published_dt": "2026-10-15T10:35:00+06:00",
+      "published_date": "2026-10-15T10:35:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Navi will also be able to uncover special thoughts. Kaepora Gaebora welcomes Link to the Hall of Fallen Foes Nintendo's new overview trailer for Zelda: Ocarina of Time highlighted a lot of things we've already seen, but in case you missed it, there was some new content shown. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/7600a7747dfe5/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-15T11:34:40.877856+06:00",
+      "last_seen": "2026-10-15T11:34:40.877863+06:00",
+      "posted_at": "2026-10-15T11:42:42.966965+06:00"
+    },
+    "nintendolife.com/news/2026/10/youre-late-007-first-light-has-finally-locked-in-a-switch-2-release-date": {
+      "title": "\"You're Late, 007\" - First Light Has Finally Locked In A Switch 2 Release Date",
+      "url": "https://www.nintendolife.com/news/2026/10/youre-late-007-first-light-has-finally-locked-in-a-switch-2-release-date",
+      "canonical": "nintendolife.com/news/2026/10/youre-late-007-first-light-has-finally-locked-in-a-switch-2-release-date",
+      "published_dt": "2026-10-15T09:05:00+06:00",
+      "published_date": "2026-10-15T09:05:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "\"Exclusive GoldenEye Suit\" also revealed as a pre-order bonus. James Bond fans who have been patiently waiting for 007 First Light to arrive on Nintendo's new hybrid system will be pleased to hear developer IO Interactive has finally locked in a release date. As revealed in an exclusive IGN Fan Fest trailer , Bond's new mission will get underway on 18th March 2027 . As previously noted , the studio has been using the additional development time to polish the performance on Switch 2. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/aaa614bdaa061/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-15T11:34:40.878429+06:00",
+      "last_seen": "2026-10-15T11:34:40.878433+06:00"
     }
   },
   "events": {
-    "evt_47c560d77633c4": {
-      "event_id": "evt_47c560d77633c4",
-      "event_key": "sega netflix multi title collaboration announcement 2026",
-      "event_subject": "SEGA",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "sega netflix multi title collaboration announcement 2026",
-        "subject": "SEGA",
-        "event_type": "other",
-        "action": "announce",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "",
-        "institution": "Netflix",
-        "target": "audience",
-        "platforms": [],
-        "topic": "media"
-      },
-      "sources": [
-        "Nintendo Life"
-      ],
-      "event_sources": [
-        "Nintendo Life"
-      ],
-      "claims": [
-        "SEGA and Netflix announce new multi‑title collaboration"
-      ],
-      "importance_score": 42,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "SEGA and Netflix Unveil Three New Game‑Based Film and Series Projects",
-      "summary": "SEGA partners with Netflix to develop a live‑action Crazy Taxi comedy, a Sonic the Hedgehog kids’ animation, and a crime movie adaptation of Stranger Than Heaven.",
-      "published_at": "2026-09-15T09:15:00+06:00",
-      "selected_at": "2026-09-15T05:55:15.860530+00:00",
-      "status": "published",
-      "message_id": 272,
-      "published_versions": [
-        {
-          "published_at": "2026-09-15T05:55:15.860530+00:00",
-          "headline": "SEGA and Netflix Unveil Three New Game‑Based Film and Series Projects",
-          "claims": [
-            "SEGA and Netflix announce new multi‑title collaboration"
-          ]
-        }
-      ]
-    },
     "evt_2d7e566c352a63": {
       "event_id": "evt_2d7e566c352a63",
       "event_key": "marvel wolverine mission replay guide",
@@ -18908,6 +19003,58 @@
           "published_at": "2026-10-14T20:49:46.714352+00:00",
           "headline": "Zelda: Ocarina of Time Remake Adds Streamlined Controls and Visual Overhaul",
           "claims": []
+        }
+      ]
+    },
+    "evt_4f19af19accec1": {
+      "event_id": "evt_4f19af19accec1",
+      "event_key": "nintendo ocarinaoftimeswitch2 overview trailer announcement",
+      "event_subject": "The Legend of Zelda: Ocarina of Time (Switch 2)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo ocarinaoftimeswitch2 overview trailer announcement",
+        "subject": "The Legend of Zelda: Ocarina of Time (Switch 2)",
+        "event_type": "other",
+        "action": "overview_release",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time",
+        "franchise": "The Legend of Zelda",
+        "institution": "Nintendo",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "game_content"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [
+        "new museum and boss time‑trial mode shown"
+      ],
+      "importance_score": 47,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Zelda: Ocarina of Time Adds Museum and Boss Time Trial on Switch 2",
+      "summary": "Nintendo unveiled a Hall of Fallen Foes museum and timed boss rematches for the upcoming Switch 2 release of Ocarina of Time.",
+      "published_at": "2026-10-15T10:35:00+06:00",
+      "selected_at": "2026-10-15T05:42:42.967023+00:00",
+      "status": "published",
+      "message_id": 717,
+      "published_versions": [
+        {
+          "published_at": "2026-10-15T05:42:42.967023+00:00",
+          "headline": "Zelda: Ocarina of Time Adds Museum and Boss Time Trial on Switch 2",
+          "claims": [
+            "new museum and boss time‑trial mode shown"
+          ]
         }
       ]
     }
@@ -115424,6 +115571,310 @@
         "total": 32
       },
       "last_seen": "2026-10-15T02:29:03.246227+06:00"
+    },
+    "evt_a3b9dc2f11d00d": {
+      "event_id": "evt_a3b9dc2f11d00d",
+      "event_key": "iointeractive firstlightswitch2 release date announcement",
+      "event_subject": "First Light (Switch 2)",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "iointeractive firstlightswitch2 release date announcement",
+        "subject": "First Light (Switch 2)",
+        "event_type": "announcement",
+        "action": "announce_release_date",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "First Light",
+        "franchise": "GoldenEye/James Bond",
+        "institution": "IO Interactive",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "release_date"
+      },
+      "modality": "unknown",
+      "topic": "release_date",
+      "institution": "IO Interactive",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "release set for 18 March 2027 with pre‑order bonus"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-10-15T11:38:44.969538+06:00"
+    },
+    "evt_4f19af19accec1": {
+      "event_id": "evt_4f19af19accec1",
+      "event_key": "nintendo ocarinaoftimeswitch2 overview trailer announcement",
+      "event_subject": "The Legend of Zelda: Ocarina of Time (Switch 2)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo ocarinaoftimeswitch2 overview trailer announcement",
+        "subject": "The Legend of Zelda: Ocarina of Time (Switch 2)",
+        "event_type": "other",
+        "action": "overview_release",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time",
+        "franchise": "The Legend of Zelda",
+        "institution": "Nintendo",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "game_content"
+      },
+      "modality": "unknown",
+      "topic": "game_content",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new museum and boss time‑trial mode shown"
+      ],
+      "importance_score": 47,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 47
+      },
+      "last_seen": "2026-10-15T11:38:44.969573+06:00"
+    },
+    "evt_177c1fe8a6fd58": {
+      "event_id": "evt_177c1fe8a6fd58",
+      "event_key": "shanghaialice touhoukoumakyouswitch2 physical edition announcement",
+      "event_subject": "Touhou Koumakyou: Embodiment of Scarlet Devil (Switch 2)",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "shanghaialice touhoukoumakyouswitch2 physical edition announcement",
+        "subject": "Touhou Koumakyou: Embodiment of Scarlet Devil (Switch 2)",
+        "event_type": "release",
+        "action": "announce_physical_edition",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Touhou Koumakyou: Embodiment of Scarlet Devil",
+        "franchise": "Touhou",
+        "institution": "Shanghai Alice Reprise",
+        "target": "collectors",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "product_release"
+      },
+      "modality": "unknown",
+      "topic": "product_release",
+      "institution": "Shanghai Alice Reprise",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "physical edition will launch December 17 in Japan"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-10-15T11:38:44.969579+06:00"
+    },
+    "evt_6a6f47419d5e4e": {
+      "event_id": "evt_6a6f47419d5e4e",
+      "event_key": "room6 reverieinthemoonlight release date announcement",
+      "event_subject": "Reverie in the Moonlight",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "room6 reverieinthemoonlight release date announcement",
+        "subject": "Reverie in the Moonlight",
+        "event_type": "announcement",
+        "action": "announce_release_date",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Reverie in the Moonlight",
+        "franchise": "Reverie in the Moonlight",
+        "institution": "room6",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "release_date"
+      },
+      "modality": "unknown",
+      "topic": "release_date",
+      "institution": "room6",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "launch on Switch 2 November 19"
+      ],
+      "importance_score": 41,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 41
+      },
+      "last_seen": "2026-10-15T11:38:44.969583+06:00"
+    },
+    "evt_15a6800c9d9158": {
+      "event_id": "evt_15a6800c9d9158",
+      "event_key": "bandainamco gundamblitzorder announcement release",
+      "event_subject": "Gundam Blitz Order",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "bandainamco gundamblitzorder announcement release",
+        "subject": "Gundam Blitz Order",
+        "event_type": "announcement",
+        "action": "announce_game",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Gundam Blitz Order",
+        "franchise": "Gundam",
+        "institution": "Bandai Namco",
+        "target": "mobile gamers",
+        "platforms": [
+          "iOS",
+          "Android"
+        ],
+        "topic": "game_release"
+      },
+      "modality": "unknown",
+      "topic": "game_release",
+      "institution": "Bandai Namco",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new idle simulation game announced"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 40
+      },
+      "last_seen": "2026-10-15T11:38:44.969587+06:00"
+    },
+    "evt_f2aa924a7a4f6e": {
+      "event_id": "evt_f2aa924a7a4f6e",
+      "event_key": "konami castlevaniabelmontscurse release info",
+      "event_subject": "Castlevania: Belmont's Curse",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "konami castlevaniabelmontscurse release info",
+        "subject": "Castlevania: Belmont's Curse",
+        "event_type": "other",
+        "action": "perform_whip_attack",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Castlevania: Belmont's Curse",
+        "franchise": "Castlevania",
+        "institution": "Konami",
+        "target": "players",
+        "platforms": [
+          "Switch",
+          "PS5",
+          "Xbox Series X"
+        ],
+        "topic": "gameplay"
+      },
+      "modality": "unknown",
+      "topic": "gameplay",
+      "institution": "Konami",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "how to defeat Medusa",
+        "how to use whip attack for Holy Cross' Work of Mercy",
+        "how to get to the top of the Prison Tower"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-10-15T11:38:44.969591+06:00"
+    },
+    "evt_fc8018fc647bc9": {
+      "event_id": "evt_fc8018fc647bc9",
+      "event_key": "polygon sciencefantasybooks article informational",
+      "event_subject": "Science‑Fantasy Books of the 21st Century",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "polygon sciencefantasybooks article informational",
+        "subject": "Science‑Fantasy Books of the 21st Century",
+        "event_type": "other",
+        "action": "list_best_books",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "readers",
+        "platforms": [],
+        "topic": "literature"
+      },
+      "modality": "unknown",
+      "topic": "literature",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "list of eight best sci‑fantasy books"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-15T11:38:44.969595+06:00"
     }
   },
   "posted_event_ids": [
@@ -115750,7 +116201,8 @@
     "evt_115cc5ca9d31b4",
     "evt_35059d6c4ada75",
     "evt_bf2d31a73e9e48",
-    "evt_887d72a8c734e5"
+    "evt_887d72a8c734e5",
+    "evt_4f19af19accec1"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -116076,10 +116528,11 @@
     "valve rumored to refresh steam frame with high resolution oled optics",
     "the coalition rolls out first major gears of war e day update since launch",
     "gaming factory announces supernatural arcade racer jdm ph4ntom driver for pc",
-    "zelda ocarina of time remake adds streamlined controls and visual overhaul"
+    "zelda ocarina of time remake adds streamlined controls and visual overhaul",
+    "zelda ocarina of time adds museum and boss time trial on switch 2"
   ],
   "category_coverage": {
-    "Game Updates": "2026-10-15T02:49:46.714370+06:00",
+    "Game Updates": "2026-10-15T11:42:42.967045+06:00",
     "Major Releases": "2026-10-15T02:49:36.702717+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
