@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1eee4-hqBYUyTSooFGcAHVE/HcY5Rgsec\"",
+      "etag": "W/\"21a71-mrNLP+M3d9Vw0YnXoWvR/SoVoKc\"",
       "last_modified": null,
-      "last_checked": "2026-10-16T16:45:09.022655+06:00",
+      "last_checked": "2026-10-16T21:12:47.722873+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-16T16:45:09.209732+06:00",
+      "last_checked": "2026-10-16T21:12:48.022766+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ad2002f-b25\"",
-      "last_modified": "Fri, 16 Oct 2026 10:45:03 GMT",
-      "last_checked": "2026-10-16T16:45:09.514387+06:00",
+      "etag": "\"6ad23e69-b86\"",
+      "last_modified": "Fri, 16 Oct 2026 15:10:33 GMT",
+      "last_checked": "2026-10-16T21:12:48.329725+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Fri, 16 Oct 2026 09:07:10 GMT",
-      "last_checked": "2026-10-16T16:45:09.686648+06:00",
+      "last_modified": "Fri, 16 Oct 2026 15:04:58 GMT",
+      "last_checked": "2026-10-16T21:12:48.596756+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ad1e9d3-1253\"",
-      "last_modified": "Fri, 16 Oct 2026 09:09:39 GMT",
-      "last_checked": "2026-10-16T16:45:10.025289+06:00",
+      "etag": "\"6ad231b1-126e\"",
+      "last_modified": "Fri, 16 Oct 2026 14:16:17 GMT",
+      "last_checked": "2026-10-16T21:12:48.914593+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-16T16:45:10.177450+06:00",
+      "last_checked": "2026-10-16T21:12:49.051455+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-16T16:45:11.328792+06:00",
+      "last_checked": "2026-10-16T21:12:50.214766+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"6f3b7db5d632bf3fcf473dfe31f714bf\"",
-      "last_modified": "Fri, 16 Oct 2026 10:15:09 GMT",
-      "last_checked": "2026-10-16T16:45:11.567673+06:00",
+      "etag": "W/\"9806b99d7e0ee37ea4d23ea5b9e50126\"",
+      "last_modified": "Fri, 16 Oct 2026 15:00:19 GMT",
+      "last_checked": "2026-10-16T21:12:50.442789+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-16T16:45:11.730033+06:00",
+      "last_checked": "2026-10-16T21:12:50.560524+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Fri, 16 Oct 2026 09:10:02 GMT",
-      "last_checked": "2026-10-16T16:45:12.132980+06:00",
+      "last_modified": "Fri, 16 Oct 2026 14:37:11 GMT",
+      "last_checked": "2026-10-16T21:12:51.105693+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Fri, 16 Oct 2026 10:45:12 GMT",
-      "last_checked": "2026-10-16T16:45:12.742497+06:00",
+      "last_modified": "Fri, 16 Oct 2026 15:12:51 GMT",
+      "last_checked": "2026-10-16T21:12:51.726439+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"d887f4b94b97269f69b5f8cda430bb5a\"",
-      "last_modified": "Fri, 16 Oct 2026 09:30:26 GMT",
-      "last_checked": "2026-10-16T16:45:12.872792+06:00",
+      "etag": "W/\"d6405389d38435578317d608e6e5d6df\"",
+      "last_modified": "Fri, 16 Oct 2026 14:06:56 GMT",
+      "last_checked": "2026-10-16T21:12:52.091452+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-16T16:45:13.233042+06:00",
+      "last_checked": "2026-10-16T21:12:52.434893+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-16T16:45:13.523406+06:00",
+      "last_checked": "2026-10-16T21:12:52.809570+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-16T16:45:13.818970+06:00",
+      "last_checked": "2026-10-16T21:12:53.129061+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-16T16:45:13.988859+06:00",
-      "fail_count": 85,
+      "last_checked": "2026-10-16T21:12:53.311600+06:00",
+      "fail_count": 86,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"2c3904aadc43fcc67582ebb2c0069caa\"",
-      "last_modified": "Thu, 15 Oct 2026 17:21:45 GMT",
-      "last_checked": "2026-10-16T16:45:14.078069+06:00",
+      "etag": "W/\"d9acebd0b7f04c11db2f70cc67274c45\"",
+      "last_modified": "Fri, 16 Oct 2026 14:28:19 GMT",
+      "last_checked": "2026-10-16T21:12:53.646572+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-16T16:45:14.211951+06:00",
+      "last_checked": "2026-10-16T21:12:53.853597+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-16T16:45:14.341371+06:00",
-      "fail_count": 85,
+      "last_checked": "2026-10-16T21:12:54.305842+06:00",
+      "fail_count": 86,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"2bbf1bfa77f102572f5c76d616b2bfe3\"",
-      "last_modified": "Thu, 15 Oct 2026 20:00:00 GMT",
-      "last_checked": "2026-10-16T16:45:14.482391+06:00",
+      "etag": "W/\"44bb532de117f48d3c10bef19ca3df77\"",
+      "last_modified": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "last_checked": "2026-10-16T21:12:54.432533+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -10982,6 +10982,934 @@
       "status": "pending",
       "first_seen": "2026-10-16T16:45:13.839600+06:00",
       "last_seen": "2026-10-16T16:45:13.839607+06:00"
+    },
+    "ign.com/articles/the-blood-of-dawnwalker-update-directional-based-animal-petting": {
+      "title": "The Blood of Dawnwalker Update 1.1 Adds Directional Animal Petting and Over 1,100 Other Improvements and Fixes",
+      "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-update-directional-based-animal-petting",
+      "canonical": "ign.com/articles/the-blood-of-dawnwalker-update-directional-based-animal-petting",
+      "published_dt": "2026-10-16T20:30:54+06:00",
+      "published_date": "2026-10-16T20:30:54+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "The Blood of Dawnwalker update 1.1 adds directional animal petting and over 1,100 other improvements and fixes.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/18/dawnwalker-brencis-blogroll-1789733324205.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:47.942307+06:00",
+      "last_seen": "2026-10-16T21:12:47.942314+06:00"
+    },
+    "ign.com/articles/iphone-duo-preorders-are-live-but-wait-times-are-long": {
+      "title": "iPhone Duo Preorders Are Live, But Shipping Is Already Pushed into 2027",
+      "url": "https://www.ign.com/articles/iphone-duo-preorders-are-live-but-wait-times-are-long",
+      "canonical": "ign.com/articles/iphone-duo-preorders-are-live-but-wait-times-are-long",
+      "published_dt": "2026-10-16T20:03:26+06:00",
+      "published_date": "2026-10-16T20:03:26+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Preorders are live for Apple's brand-new foldable iPhone Duo, but shipping is already pushed into 2027.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/09/screenshot-2026-09-09-105706-1788976950324.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:47.942484+06:00",
+      "last_seen": "2026-10-16T21:12:47.942488+06:00"
+    },
+    "ign.com/articles/street-fighter-4k-steelbook-where-to-buy": {
+      "title": "Street Fighter’s 4K Steelbook Is Up for Preorder, and Comes in Champion or Villain Variants",
+      "url": "https://www.ign.com/articles/street-fighter-4k-steelbook-where-to-buy",
+      "canonical": "ign.com/articles/street-fighter-4k-steelbook-where-to-buy",
+      "published_dt": "2026-10-16T19:36:18+06:00",
+      "published_date": "2026-10-16T19:36:18+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Street Fighter’s 4K Steelbook Edition asks fans to choose between a special edition champion or villain variant cover, with preorders now live at Amazon.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/16/street-fighter-preorders-4k-ign-1792157594485.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:47.942624+06:00",
+      "last_seen": "2026-10-16T21:12:47.942628+06:00"
+    },
+    "ign.com/articles/ken-kutaragi-physical-discs-ps5": {
+      "title": "The 'Father of PlayStation' Says Killing Discs Backlash Is a 'Mentality Issue'",
+      "url": "https://www.ign.com/articles/ken-kutaragi-physical-discs-ps5",
+      "canonical": "ign.com/articles/ken-kutaragi-physical-discs-ps5",
+      "published_dt": "2026-10-16T19:22:27+06:00",
+      "published_date": "2026-10-16T19:22:27+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Ken Kutaragi, known as \"The Father of PlayStation,\" has backed Sony's controversial decision to scrap discs on PS5. Kutaragi, who ran Sony's gaming business through its first three console generations, told VGC that while he understands the backlash, it isn't “economically reasonable.”",
+      "image": "https://assets-prd.ignimgs.com/2026/10/16/scee-1792156800107.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:47.942749+06:00",
+      "last_seen": "2026-10-16T21:12:47.942753+06:00"
+    },
+    "ign.com/articles/this-fallout-power-fist-11-scale-replica-will-have-you-ready-for-any-post-apocalyptic-future": {
+      "title": "This Fallout Power Fist 1:1 Scale Replica Will Have You Ready for Any Post-Apocalyptic Future",
+      "url": "https://www.ign.com/articles/this-fallout-power-fist-11-scale-replica-will-have-you-ready-for-any-post-apocalyptic-future",
+      "canonical": "ign.com/articles/this-fallout-power-fist-11-scale-replica-will-have-you-ready-for-any-post-apocalyptic-future",
+      "published_dt": "2026-10-16T19:22:03+06:00",
+      "published_date": "2026-10-16T19:22:03+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "As part of IGN Fan Fest: Fall Edition 2026, we were able to exclusively reveal a first look at the officially licensed Fallout Power Fist 1:1 Scale Replica, a perfect addition to the collection of those with fond memories of their visits to that iconic post-apocalyptic wasteland.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/15/power-fist-1792075074556.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:47.942875+06:00",
+      "last_seen": "2026-10-16T21:12:47.942879+06:00"
+    },
+    "ign.com/articles/asus-rog-xbox-x20-review": {
+      "title": "Asus ROG Xbox Ally X20 Review",
+      "url": "https://www.ign.com/articles/asus-rog-xbox-x20-review",
+      "canonical": "ign.com/articles/asus-rog-xbox-x20-review",
+      "published_dt": "2026-10-16T19:00:00+06:00",
+      "published_date": "2026-10-16T19:00:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "",
+      "image": "https://assets-prd.ignimgs.com/2026/10/15/x20-2-1792102340937.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:47.942993+06:00",
+      "last_seen": "2026-10-16T21:12:47.942997+06:00"
+    },
+    "gamespot.com/articles/the-blood-of-dawnwalkers-next-update-will-let-you-erase-your-mistakes-and-pet-the-dog": {
+      "title": "The Blood Of Dawnwalker’s Next Update Will Let You Erase Your Mistakes And Pet The Dog",
+      "url": "https://www.gamespot.com/articles/the-blood-of-dawnwalkers-next-update-will-let-you-erase-your-mistakes-and-pet-the-dog/",
+      "canonical": "gamespot.com/articles/the-blood-of-dawnwalkers-next-update-will-let-you-erase-your-mistakes-and-pet-the-dog",
+      "published_dt": "2026-10-16T21:09:53+06:00",
+      "published_date": "2026-10-16T21:09:53+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "The Blood of Dawnwalker is already one of the best role-playing games of the year, but developer Rebel Wolves is preparing a big update that should make it even better. Like all good things in life, it starts with getting to pet a dog. Update 1.1, which is scheduled to arrive next week, brings a number of new features to the game, including the ability to pet both dogs and cats via the game's directional system, which is currently only used for combat. It will also feature a new Story difficulty setting that provides \"additional combat assist,\" new subtitle settings across all lines of dialogue, and most crucially, an item called Draught of Mind Rebirth. The Draught of Mind Rebirth will allow you to forget all the skills and abilities you've acquired across the Swordmastery, Witchcraft, and Vampirism trees. Not only will this give you the chance to reallocate your points in a way that best fits your playstyle--it will also give you back the time associated with those skills. That means you'll have the chance to complete extra missions if you happen to find yourself impeded with Dawnwalker's 30-day limit. However, we don't find the system to be restrictive as it currently stands. The Blood of Dawnwalker Update 1.1 Alongside the new features, Update 1.1. will also feature some tweaks to existing systems. These include an update to the FrameGen system, improvements to the camera, better Shadowstep and Planeshift abilities, and the removal of censorship of blood in the Japanese version. It will also include combat improvements that should make it easier to correctly target your enemy of choice--currently, it's a little finicky because of the direction-based system which prioritizes you blocking incoming attacks--regardless of who's trying to strike you--over you focusing in on a particular enemy. The Blood of Dawnwalker is out now on PS5, Xbox Series X|S, and PC. In our review , Phil Hornshaw said, \"The Blood of Dawnwalker is the kind of RPG that feels great to get lost",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/ss_1af5d14d9b6a36c14eae3bebf56c0e0f63235633.1920x1080.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:48.063563+06:00",
+      "last_seen": "2026-10-16T21:12:48.063569+06:00"
+    },
+    "gamespot.com/articles/best-settings-for-modern-warfare-4-controller-layouts-sensitivity-and-more": {
+      "title": "Best Settings For Modern Warfare 4 – Controller Layouts, Sensitivity, And More",
+      "url": "https://www.gamespot.com/articles/best-settings-for-modern-warfare-4-controller-layouts-sensitivity-and-more/",
+      "canonical": "gamespot.com/articles/best-settings-for-modern-warfare-4-controller-layouts-sensitivity-and-more",
+      "published_dt": "2026-10-16T21:08:36+06:00",
+      "published_date": "2026-10-16T21:08:36+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "After going hands-on with Call of Duty: Modern Warfare 4 during the beta, we've curated some recommended settings for you to improve your aim and movement, as well as some important graphic settings to consider. This guide covers recommended settings for controllers, graphics, and audio settings in Modern Warfare 4. Optimal settings are always going to be subjective, but here we detail our preferred options for console players on PS5 and Xbox Series X|S. Nintendo Switch 2 is also a platform choice this year, but our suggested settings won't do much to help the poor graphical performance of MW4 on Nintendo's handheld. However, there is a feature that lets you use the Joy-Cons for mouse controls, and you can remap buttons to your preference. Call of Duty: Modern Warfare 4 launches on October 23 for PlayStation 5, Xbox Series X|S, PC, and Switch 2. Best controller settings Controller settings Inputs Edit button layout: Default or tactical Stick layout preset: Default Horizontal stick sensitivity: 1.50 to 1.85 Vertical stick sensitivity: 1.50 to 1.85 Simplified controls preset: Off Low motor strain preset: Off L1 Button ping: Off Swap L12/R1 with L2/R2: Off Controller Controller Vibration: Off Trigger effect: Off Whether you choose the default or tactical button layout might depend on the type of controller you use. Tactical layout is recommended for those using a standard controller, as it maps your crouch/slide/dive button to the thumbstick, so you can be quick without ever needing to move your thumb. If you have a controller that lets you remap the buttons, you can just leave this on its default setting and use the extra back buttons for actions like jump and crouch. Trigger Effect is something you definitely want to turn off for PS5. The immersion might feel cool, but for more precise aiming, you want to have this effect turned off. Deadzone Deadzone stick test Deadzone Inputs: Left Stick Min: 5 Left Stick Max: 99 Right Stick Min: 5 Right Stick Max: 99 L2 Button: 5 ",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4-REVEAL-014-1.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:48.071476+06:00",
+      "last_seen": "2026-10-16T21:12:48.071483+06:00"
+    },
+    "gamespot.com/articles/next-red-dead-launching-by-2027-or-2028-may-not-be-unreasonable-bank-says-but-it-definitely-is": {
+      "title": "Next Red Dead Launching By 2027 Or 2028 “May Not Be Unreasonable,” Bank Says, But It Definitely Is",
+      "url": "https://www.gamespot.com/articles/next-red-dead-launching-by-2027-or-2028-may-not-be-unreasonable-bank-says-but-it-definitely-is/",
+      "canonical": "gamespot.com/articles/next-red-dead-launching-by-2027-or-2028-may-not-be-unreasonable-bank-says-but-it-definitely-is",
+      "published_dt": "2026-10-16T21:07:49+06:00",
+      "published_date": "2026-10-16T21:07:49+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Citi, the investment bank and financial services company, has released a note about GTA 6 and Rockstar, and included in the brief is a line about what Rockstar could release next--a new Red Dead game. The company said in its memo that, if Rockstar is telling the truth that GTA 6 did not in fact cost $1.5 billion to make , then the studio may be able to get a new Red Dead game out sooner than anyone might have imagined. Citi said a new Red Dead game releasing in 2027 or 2028 \"may not be unreasonable,\" according to Yahoo Finance . A scene from Red Dead Redemption II. The bank might be saying this, but it would be incredibly shocking, for a number of reasons, if a new Red Dead game releases as soon as next year. There are historically years between major Rockstar releases, and even longer gaps between entries in the same series. For example, Red Dead Redemption launched in 2010, followed by GTA 5 in 2013, then Red Dead Redemption II in 2018, and now GTA 6 in 2026. Another notable element to consider is how Rockstar makes games today. The company tried to develop GTA 6 and Red Dead Redemption II concurrently, and if it was able to pull it off, Rockstar claimed it would have been able to release GTA 6 years earlier . However, Rockstar deemed this too ambitious, with studio head Rob Nelson opting to reassign staff from GTA 6 to Red Dead Redemption II to help get it out the door. At one point in time, developed multiple games concurrently across offices, but now, Rockstar’s network of teams work on one project together before moving on to the next. GTA 6 may be coming out soon, but Rockstar no doubt has committed extensive resources to post-launch support, and that's not even mentioning the next evolution of GTA Online . Although Rockstar has announced no plans for online support whatsoever for GTA 6, it's expected that GTA 6 will have some kind of extensive online experience that is supported for years to come. At the same time, a company like Rockstar is no doubt plannin",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/RDR2-Large.jpeg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:48.072802+06:00",
+      "last_seen": "2026-10-16T21:12:48.072808+06:00"
+    },
+    "gamespot.com/articles/why-do-big-games-keep-being-made-playable-in-browsers-a-guide-to-vibe-coded-ports": {
+      "title": "Why Do Big Games Keep Being Made Playable In Browsers? A Guide To Vibe-Coded Ports",
+      "url": "https://www.gamespot.com/articles/why-do-big-games-keep-being-made-playable-in-browsers-a-guide-to-vibe-coded-ports/",
+      "canonical": "gamespot.com/articles/why-do-big-games-keep-being-made-playable-in-browsers-a-guide-to-vibe-coded-ports",
+      "published_dt": "2026-10-16T20:33:15+06:00",
+      "published_date": "2026-10-16T20:33:15+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "For decades, if you wanted to play Call of Duty or Halo, you needed a console or a PC with decent hardware. But recently, a flood of vibe-coded games has been appearing online. What's happening here? It turns out that recent AI updates--like the release of Claude Opus 5.5--are making it very easy to reverse-engineer the source code for a game and get it running in a browser. So far, retro games from the 2000s and early 2010s are making the rounds, and if you're wondering just what the heck is going on, you can read our breakdown of why video game publishers are sweating buckets right now. What are vibe-coded browser ports? You've probably heard of vibe-coding by now, as this generally involves a person tasking an AI agent with generating, refactoring, and gluing code back together. I'm simplifying things here, but essentially, you tell the AI what you want, and it'll then write the code for you, as well as provide fixes. A vibe-coded browser port is essentially a video game that has been decompiled and then made playable on a website using AI; instead of downloading a massive file or installing an emulator to play the game, you just click a link, and you can start playing a game in your browser. So far, people have used AI to create all kinds of browser ports, ranging from classic console games to mash-ups of recent titles. How are they being made and reverse-engineered? https://twitter.com/TobynJacobs/status/2104884843297599594 Traditionally, reverse-engineering a commercial game required multiple steps. You'd need to use toolsets to disassemble and decompile games, analyze them, unravel rendering pipelines, and rewrite the logic behind them for a target platform, like a PC. With AI, this process has been accelerated significantly, as large-language models (LLMs) excel at pattern recognition and AI agents can take the raw, messy computer code from an old game disc or file, translating it into modern web languages. WebAssembly is a popular choice, as it allows web b",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Elden-Mario.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:48.128277+06:00",
+      "last_seen": "2026-10-16T21:12:48.128291+06:00"
+    },
+    "gamespot.com/articles/this-anime-stalker-russian-roulette-game-is-afraid-ai-copycats-will-steal-its-ideas": {
+      "title": "This Anime Stalker Russian Roulette Game Is Afraid AI Copycats Will Steal Its Ideas",
+      "url": "https://www.gamespot.com/articles/this-anime-stalker-russian-roulette-game-is-afraid-ai-copycats-will-steal-its-ideas/",
+      "canonical": "gamespot.com/articles/this-anime-stalker-russian-roulette-game-is-afraid-ai-copycats-will-steal-its-ideas",
+      "published_dt": "2026-10-16T19:52:33+06:00",
+      "published_date": "2026-10-16T19:52:33+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Developers have dealt with copycat games for many years, but generative AI has made it easier than ever to whip up a clone, and that problem has grown in recent years. The developer behind Drunken Goddess Reflux is aware of this, and out of fear that its anime Russian roulette game could be the victim of a cash-grab imitation, it has announced that it has canceled its upcoming public demo. Instead, Alliance Arts will hold closed online play sessions for a limited number of players. https://youtu.be/SRFDW2Pm9nk \"We sincerely apologize for the short notice to everyone who was looking forward to it,\" the developer wrote online . \"We're concerned that the demo's content could be used to quickly imitate or replicate the game's presentation and gameplay with AI or other tools, and that such works could be released before our launch.\" Alliance Arts is also concerned that it can't properly manage restrictions on posting and streaming content from the game, and it'll instead hand out demo keys and collect feedback for the game through its group Discord. The studio's fears aren't unwarranted, with the upcoming Needle in a Haystack being a prime example of Steam's copycat problem. After the game was announced in August and a clip of its purposefully tedious gameplay went viral--you genuinely are just looking for a needle in a haystack--clones quickly popped up online. A quick search on Steam reveals several games all with a similar theme, and these have been released within weeks of each other. Looks a little sus to me. What happened here? AI-assisted games have been popping up more and more lately on Steam, and while you'll seldom find disclosure text indicating that agents like Claude and ChatGPT have been used in their development, the fast turnaround, near-identical gameplay, and artwork with a telltale yellow filter suggest that the tech played a heavy hand in quickly whipping up a clone. With Claude 5.5 making it easier than ever to decompile a game into code that's play",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Drunken-Goddess-Reflux.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:48.131021+06:00",
+      "last_seen": "2026-10-16T21:12:48.131026+06:00"
+    },
+    "gamespot.com/articles/big-walk-wont-come-to-xbox-until-microsoft-is-no-longer-a-bds-boycott-target": {
+      "title": "Big Walk Won’t Come To Xbox Until Microsoft Is No Longer A BDS Boycott Target",
+      "url": "https://www.gamespot.com/articles/big-walk-wont-come-to-xbox-until-microsoft-is-no-longer-a-bds-boycott-target/",
+      "canonical": "gamespot.com/articles/big-walk-wont-come-to-xbox-until-microsoft-is-no-longer-a-bds-boycott-target",
+      "published_dt": "2026-10-16T19:32:33+06:00",
+      "published_date": "2026-10-16T19:32:33+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Big Walk has been a critical hit since it launched a few months ago on PC and PS5, but one major platform where you won't find it is Xbox Series X|S. That's no accident: Developer House House said its decision not to release the game on Xbox was a show of support for the Palestinian-led Boycott, Divestment, Sanctions (BDS) movement. \"It has always been our intention for Big Walk to be played by groups of friends, and we know that keeping the game off Xbox runs counter to those intentions,\" House House wrote in a statement. \"This decision means that some people will miss out on playing Big Walk with their friends, and we understand the disappointment we’re causing. We are disappointed too. We would love for people to be able to play the game on Xbox, but not until Microsoft and/or Xbox have been removed as BDS boycott targets. We’ve made this decision with the belief that meaningful change can be made in the world, that coordinated collective action can confront even the most powerful interests, and that one day, Palestine will be free.\" Microsoft became a priority target of the BDS initiative due to the contracts it had with the Israeli government and military. BDS has called for a boycott of the company, and by extension, all Xbox games, hardware, and subscriptions. In response to the announcement by House House, The Palestinian BDS movement wrote in a statement (via People Makes Games' Chris Bratt ) that it \"wholeheartedly\" supports the developers decision and that it encourages \"gamers, game developers, games journalists, and workers\" to sign the No Games for Genocide pledge and continue to boycott Xbox. That pressure on Microsoft has had results, as last year, the company did block the Israeli government from accessing its cloud storage and AI systems, which has reportedly been used to surveil Palestinians in both the West Bank and Gaza. While some people have asked why Big Walk is available on PCs running a Windows operating system, it is worth noting that purc",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Big-Walk_7e119a.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:48.131558+06:00",
+      "last_seen": "2026-10-16T21:12:48.131563+06:00"
+    },
+    "gamespot.com/articles/killing-ps5-discs-just-makes-sense-even-if-it-angers-people-former-playstation-exec-says": {
+      "title": "Killing PS5 Discs Just Makes Sense, Even If It Angers People, Former PlayStation Exec Says",
+      "url": "https://www.gamespot.com/articles/killing-ps5-discs-just-makes-sense-even-if-it-angers-people-former-playstation-exec-says/",
+      "canonical": "gamespot.com/articles/killing-ps5-discs-just-makes-sense-even-if-it-angers-people-former-playstation-exec-says",
+      "published_dt": "2026-10-16T19:30:39+06:00",
+      "published_date": "2026-10-16T19:30:39+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Ken Kutaragi, the former PlayStation executive known colloquially as the \"Father of PlayStation,\" has reacted to the ongoing debate and discussion about physical games in the wake of Sony's announcement that it will end support for PS5 game discs in 2028. Speaking to VGC , Kutaragi said he understands that people think they \"own\" games when they buy them physically. However, he said, \"Nobody thinks [physical media] is necessary for a networked device like a smartphone, for example, because people feel that they will keep their content.\" He went on to say that he \"really\" does understand why some people are upset about PlayStation's decision to end discs. After all, Sony continues to sell millions and millions of physical games annually , and in some regions, sales of new games on PS5 are more than 50% physical . However, as many others have said and data shows, consumers are increasingly leaning toward digital, and that trend is only expected to continue. \"I don’t think it’s economically reasonable [to continue to support discs]. Maybe it’s a mentality issue,\" he said. For its part, Sony said ending support for physical discs is a \"natural direction\" for the company as it adapts to consumer trends. One expert believes Sony killing discs is really about profitability and control . https://www.youtube.com/watch?v=4FatSqS3VYY Kutaragi went on to say he understands that PlayStation's teams now include people who came from \"outside,\" including people from streaming companies through Sony's buyout of streaming service Gaikai . As such, he thinks it only makes sense that these new hires might see PlayStation as \"not just a game console, but also a content terminal.\" \"Maybe that’s how those people are thinking. But this has caused some friction with game enthusiasts,\" he said. While Sony might be giving up on physical games, Nintendo doesn't plan to do that, at least not yet . Microsoft has not specified its plans for discs going forward, but most expect Xbox to kill off di",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/discs-Large.jpeg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:48.132549+06:00",
+      "last_seen": "2026-10-16T21:12:48.132554+06:00"
+    },
+    "gamespot.com/articles/over-the-hill-is-already-at-its-lowest-price-so-join-me-by-taking-the-scenic-route": {
+      "title": "Over The Hill Is Already At Its Lowest Price, So Join Me By Taking The Scenic Route",
+      "url": "https://www.gamespot.com/articles/over-the-hill-is-already-at-its-lowest-price-so-join-me-by-taking-the-scenic-route/",
+      "canonical": "gamespot.com/articles/over-the-hill-is-already-at-its-lowest-price-so-join-me-by-taking-the-scenic-route",
+      "published_dt": "2026-10-16T19:30:00+06:00",
+      "published_date": "2026-10-16T19:30:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Driving in a crowded town, with frequent stopping and starting as you wait for the hustle and bustle of daily life to fade, is, quite frankly, dull. I don’t mind blaring my music and singing out of tune to Zac Efron’s \"Bet On It\" as much as the next guy, but the reality is simple: Normal driving is boring. However, take away the road and head for the wilderness, and things get more interesting. That’s exactly what Over the Hill asks you to do. While most of the “friendslop” games around right now (which I think is just a silly subgenre name for some of the best co-op games , but I digress) focus on horror experiences or absurd worlds, Over the Hill is fittingly distinct in its normality. You and your friends drive cars through a stylized wilderness, heading off the tarmac and into scenic landscapes while helping each other overcome the obstacles in your way. Thunderstorms roll across the sky, bringing treacherous weather to your journey, before the storm clouds lift to reveal blue skies and a gentle sunset. Thick mud makes it difficult to get your car moving, but a handy winch lets your friends pull you out of the sludge and back on your way. Along the journey, you can also look for potential upgrades to make things a little easier before the next obstacle appears. Even if you’re a fan of racing games and feel truly comfortable behind the wheel, Over the Hill offers a different way to experience driving. This isn’t about reaching your destination faster; it’s about the journey. And when that journey takes you past beautiful lakes at sunrise or through snow-covered mountains that become more accessible as you plow through the terrain, well, it’s a journey worth taking. The game has only just launched, but if you’re looking to pick it up at a discount, you can grab it for just $15.74 / £14.17 at Fanatical . You’ll still get a Steam key for the game, so there’s no need to download any additional launchers. Just redeem it through your Steam account, hit install, and pre",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-over-the-hill-launch-discount.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:48.133175+06:00",
+      "last_seen": "2026-10-16T21:12:48.133180+06:00"
+    },
+    "gamespot.com/articles/gta-6-is-taking-over-miami-amid-pushback-from-officials-were-depicting-miami-like-a-murder-capital": {
+      "title": "GTA 6 Is Taking Over Miami Amid Pushback From Officials: “We’re Depicting Miami Like A Murder Capital”",
+      "url": "https://www.gamespot.com/articles/gta-6-is-taking-over-miami-amid-pushback-from-officials-were-depicting-miami-like-a-murder-capital/",
+      "canonical": "gamespot.com/articles/gta-6-is-taking-over-miami-amid-pushback-from-officials-were-depicting-miami-like-a-murder-capital",
+      "published_dt": "2026-10-16T19:01:12+06:00",
+      "published_date": "2026-10-16T19:01:12+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "GTA 6's takeover of real-life Miami is continuing, and in a big way, ahead of the open-world crime game's release in November. For anyone unaware, GTA 6 takes place in Vice City, which is a stand-in for Miami, and the game also takes players to surrounding areas of its version of Florida, known as Leonida. After the GTA 6 logo was airlifted onto Miami's Kaseya Earlier this month to promote the game and an upcoming Miami Heat x GTA 6 crossover , Rockstar's marketing efforts have now grown substantially. This has included a number of real-life marketing activations in the Miami area covering real cars, blimps, beach chairs, and more. The efforts have not been without controversy. Multiple Miami-Dade County commissioners expressed serious concerns about the city taking Rockstar's money to promote a game about violence and murder, among other ... vices. \"We're depicting Miami like a murder capital,\" Commissioner René Garcia said, according to the Miami Herald. Commissioner Micky Steinberg added: \"Philosophically, I feel we should not be moving forward.\" Miami-Dade County Mayor Daniella Levine Cava and her office is hoping to bring in millions from its partnership with Rockstar to promote GTA 6 in Miami. Her chief of staff, Chris Hudtwalcker, said the GTA 6 takeovers in Miami are a \"love letter\" to the city. Another lawmaker, chairman Anthony Rodriguez, said commissioners should remember GTA 6 is a work of fiction. \"We are all adults in this community. We recognize it's just a game,\" he said. \"We cut our nose to spite our face,\" said Chair Anthony Rodriguez, who sponsored the legislation authorizing the negotiations. He urged commissioners not to go overboard on concern for made-up plot lines and digital characters. \"This is a fictional game. We are all adults in this community. … We recognize it's just a game.\" People in Miami have reported seeing GTA-style cars on the city streets, along with a massive Vice City blimp soaring overhead. What's more, branded beach chairs",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Vice-City-2_14050e.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:48.134370+06:00",
+      "last_seen": "2026-10-16T21:12:48.134375+06:00"
+    },
+    "eurogamer.net/galaxies-showcase-2026-games-roundup": {
+      "title": "11 games and announcements that got us excited in the latest Galaxies Showcase",
+      "url": "https://www.eurogamer.net/galaxies-showcase-2026-games-roundup",
+      "canonical": "eurogamer.net/galaxies-showcase-2026-games-roundup",
+      "published_dt": "2026-10-16T21:04:58+06:00",
+      "published_date": "2026-10-16T21:04:58+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "You can smell it in the air can't you? Feel the chill in your nostrils and the earthy scent as leaves fall and the sun departs for another year? Yes, autumn is here, meaning we're teetering on the cavernous hole of near-nothingness as the entire games industry gives GTA 6 the widest berth imaginable. But that doesn't mean there isn't stuff to be excited about, of course. And the latest edition of the Galaxies Showcase has chucked a few more things onto the 'ooooh intriguing!' pile. Actually, quite a lot of things given its nearly two-hour runtime; but while you can watch the full thing and revel in its entirety if you've time, we've also picked out a few of the announcements that especially caught our eyes for your perusal. Was all this really just an excuse for Connor to enthuse about penguins? Perhaps! Read more",
+      "image": "https://assetsio.gnwcdn.com/deperson-header-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:48.701795+06:00",
+      "last_seen": "2026-10-16T21:12:48.701801+06:00"
+    },
+    "eurogamer.net/fortnite-linux-easy-anti-cheat-big-development": {
+      "title": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
+      "url": "https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
+      "canonical": "eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
+      "published_dt": "2026-10-16T19:46:23+06:00",
+      "published_date": "2026-10-16T19:46:23+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Epic Games is officially working on bringing its battle royale shooter Fortnite to Linux. The announcement was tucked away at the bottom of Epic's widely mocked blog post revealing the new, \"vibe-coded\" Epic Games Store, which is also coming to Linux. Read more",
+      "image": "https://assetsio.gnwcdn.com/fortnite-blitz-royale.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:48.702176+06:00",
+      "last_seen": "2026-10-16T21:12:48.702181+06:00"
+    },
+    "eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks": {
+      "title": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day",
+      "url": "https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks",
+      "canonical": "eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks",
+      "published_dt": "2026-10-16T19:41:05+06:00",
+      "published_date": "2026-10-16T19:41:05+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "The launch of a new live season is hard, and subtle changes to a game can have massive consequences when players get their hands on it. Wardogs proved this true with the launch of its second season this week, as players were able to unlock tanks on day one. Read more",
+      "image": "https://assetsio.gnwcdn.com/wardogs-screen-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:48.702446+06:00",
+      "last_seen": "2026-10-16T21:12:48.702451+06:00"
+    },
+    "gematsu.com/2026/10/stranger-than-heaven-act-1-kokura-story-trailer": {
+      "title": "STRANGER THAN HEAVEN ‘Act 1: Kokura’ story trailer",
+      "url": "https://www.gematsu.com/2026/10/stranger-than-heaven-act-1-kokura-story-trailer",
+      "canonical": "gematsu.com/2026/10/stranger-than-heaven-act-1-kokura-story-trailer",
+      "published_dt": "2026-10-16T20:12:33+06:00",
+      "published_date": "2026-10-16T20:12:33+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Publisher SEGA and developer RGG Studio have released the first in a set of multiple …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:48.939112+06:00",
+      "last_seen": "2026-10-16T21:12:48.939118+06:00"
+    },
+    "gematsu.com/2026/10/second-stone-demo-launches-october-19": {
+      "title": "Second Stone demo launches October 19",
+      "url": "https://www.gematsu.com/2026/10/second-stone-demo-launches-october-19",
+      "canonical": "gematsu.com/2026/10/second-stone-demo-launches-october-19",
+      "published_dt": "2026-10-16T20:07:17+06:00",
+      "published_date": "2026-10-16T20:07:17+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Publisher Headup and developer Skyward Entertainment will release a demo for action RPG Second Stone …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:48.939279+06:00",
+      "last_seen": "2026-10-16T21:12:48.939283+06:00"
+    },
+    "pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access": {
+      "title": "Modern Warfare 4 release times and early access explained",
+      "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/",
+      "canonical": "pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access",
+      "published_dt": "2026-10-16T18:44:53+06:00",
+      "published_date": "2026-10-16T18:44:53+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Here's what you can play and when.",
+      "image": "https://cdn.mos.cms.futurecdn.net/FWTAmnRbksM8Lg3gqrnMUM-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.073314+06:00",
+      "last_seen": "2026-10-16T21:12:50.073320+06:00"
+    },
+    "polygon.com/wishlister-october-16": {
+      "title": "6 Newly Announced Games You Need to Add to Your Steam Wishlist",
+      "url": "https://www.polygon.com/wishlister-october-16/",
+      "canonical": "polygon.com/wishlister-october-16",
+      "published_dt": "2026-10-16T21:00:20+06:00",
+      "published_date": "2026-10-16T21:00:20+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Following a loaded Triple-i Initiative showcase, we've got some fresh indies to add to your Steam wishlist.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/machanarium-2-robots-in-canyon.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.223321+06:00",
+      "last_seen": "2026-10-16T21:12:50.223326+06:00"
+    },
+    "polygon.com/legend-of-zelda-ocarina-of-time-new-trailers-dark-link": {
+      "title": "New Zelda: Ocarina of Time Trailer Reveal Dark Link",
+      "url": "https://www.polygon.com/legend-of-zelda-ocarina-of-time-new-trailers-dark-link/",
+      "canonical": "polygon.com/legend-of-zelda-ocarina-of-time-new-trailers-dark-link",
+      "published_dt": "2026-10-16T20:48:47+06:00",
+      "published_date": "2026-10-16T20:48:47+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The Legend of Zelda: Ocarina of Time remake received two new trailers on Friday. One offers fans their first glimpse at Dark Link.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_15.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.223471+06:00",
+      "last_seen": "2026-10-16T21:12:50.223476+06:00"
+    },
+    "polygon.com/arc-raiders-divided-quest-walkthrough-nomad-recordings": {
+      "title": "'Divided' quest walkthrough in Arc Raiders",
+      "url": "https://www.polygon.com/arc-raiders-divided-quest-walkthrough-nomad-recordings/",
+      "canonical": "polygon.com/arc-raiders-divided-quest-walkthrough-nomad-recordings",
+      "published_dt": "2026-10-16T20:44:55+06:00",
+      "published_date": "2026-10-16T20:44:55+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "A guide explaining how to complete the \"Divided\" quest in Arc Raiders and where to find the four nomad recordings on Pendola Pass.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/arc-raiders-divided-header.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.223610+06:00",
+      "last_seen": "2026-10-16T21:12:50.223614+06:00"
+    },
+    "polygon.com/control-resonant-just-1-million-copies-sold-remedy-fastest-selling-game": {
+      "title": "Control Resonant Just Became Remedy’s Fastest-Selling Game of All Time",
+      "url": "https://www.polygon.com/control-resonant-just-1-million-copies-sold-remedy-fastest-selling-game/",
+      "canonical": "polygon.com/control-resonant-just-1-million-copies-sold-remedy-fastest-selling-game",
+      "published_dt": "2026-10-16T20:40:11+06:00",
+      "published_date": "2026-10-16T20:40:11+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Remedy has sold 1 million copies of Control Resonant in less than a month, making the action RPG the studio's fastest-selling game",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/control-resonant.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.223747+06:00",
+      "last_seen": "2026-10-16T21:12:50.223751+06:00"
+    },
+    "polygon.com/cyberpunk-2077-movie-first-details-confirmed": {
+      "title": "'Cyberpunk 2077' Movie First Details Officially Confirmed, Won’t Adapt Game 1:1",
+      "url": "https://www.polygon.com/cyberpunk-2077-movie-first-details-confirmed/",
+      "canonical": "polygon.com/cyberpunk-2077-movie-first-details-confirmed",
+      "published_dt": "2026-10-16T20:20:54+06:00",
+      "published_date": "2026-10-16T20:20:54+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "CD Projekt Red CEO Michał Nowakowski confirmed that the upcoming live-action Cyberpunk movie won't be a 1:1 adaptation of the game.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/cyberpunk-2077_20201212190056-1.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.223886+06:00",
+      "last_seen": "2026-10-16T21:12:50.223890+06:00"
+    },
+    "polygon.com/eternal-anima-rpg-preview-ps5-switch-2-pc-xbox": {
+      "title": "One of the Most Intriguing RPGs of 2027 Plays With Time Brilliantly",
+      "url": "https://www.polygon.com/eternal-anima-rpg-preview-ps5-switch-2-pc-xbox/",
+      "canonical": "polygon.com/eternal-anima-rpg-preview-ps5-switch-2-pc-xbox",
+      "published_dt": "2026-10-16T20:10:03+06:00",
+      "published_date": "2026-10-16T20:10:03+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Eternal Anima is a new JRPG from Marvelous Inc. that uses time-manipulation to reinvent turn-based battles and class systems.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/eternal-anima.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.224029+06:00",
+      "last_seen": "2026-10-16T21:12:50.224033+06:00"
+    },
+    "polygon.com/smallville-25th-anniversary-superman": {
+      "title": "25 Years Later, DC's Most Innovative Sci-Fi Show Changed Superheroes Forever",
+      "url": "https://www.polygon.com/smallville-25th-anniversary-superman/",
+      "canonical": "polygon.com/smallville-25th-anniversary-superman",
+      "published_dt": "2026-10-16T20:01:17+06:00",
+      "published_date": "2026-10-16T20:01:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Smallville turns 25. Its focus on Clark Kent, friendship with Lex Luthor, and “no tights, no flights” rule helped change superhero TV.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/tcdsmal_ec178.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.224192+06:00",
+      "last_seen": "2026-10-16T21:12:50.224196+06:00"
+    },
+    "kotaku.com/runescape-announces-then-quickly-cancels-its-reignited-project-due-to-player-feedback-2000746746": {
+      "title": "Veteran Players Manage To Kill New RuneScape In Just Two Weeks",
+      "url": "https://kotaku.com/runescape-announces-then-quickly-cancels-its-reignited-project-due-to-player-feedback-2000746746",
+      "canonical": "kotaku.com/runescape-announces-then-quickly-cancels-its-reignited-project-due-to-player-feedback-2000746746",
+      "published_dt": "2026-10-16T21:00:19+06:00",
+      "published_date": "2026-10-16T21:00:19+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "RuneScape Reignited was set to launch in early December",
+      "image": "https://kotaku.com/app/uploads/2026/10/runescape-1-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.458868+06:00",
+      "last_seen": "2026-10-16T21:12:50.458873+06:00"
+    },
+    "kotaku.com/silent-hill-and-metal-gear-publisher-konami-does-not-believe-the-market-will-shift-significantly-because-of-ai-2000746506": {
+      "title": "Silent Hill And Metal Gear Publisher Konami Does ‘Not Believe The Market Will Shift Significantly’ Because Of AI",
+      "url": "https://kotaku.com/silent-hill-and-metal-gear-publisher-konami-does-not-believe-the-market-will-shift-significantly-because-of-ai-2000746506",
+      "canonical": "kotaku.com/silent-hill-and-metal-gear-publisher-konami-does-not-believe-the-market-will-shift-significantly-because-of-ai-2000746506",
+      "published_dt": "2026-10-16T20:30:23+06:00",
+      "published_date": "2026-10-16T20:30:23+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "The idea-making process of developers 'cannot be replaced easily,' the company insists in new financial report",
+      "image": "https://kotaku.com/app/uploads/2026/10/Snake-Eater-Delta-Solid-Snake-Gun-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.459021+06:00",
+      "last_seen": "2026-10-16T21:12:50.459025+06:00"
+    },
+    "kotaku.com/more-surprise-zelda-ocarina-of-time-remake-footage-reveals-one-of-the-coolest-moments-from-the-original-2000746734": {
+      "title": "More Surprise Zelda: Ocarina Of Time Remake Footage Reveals One Of The Coolest Moments From The Original",
+      "url": "https://kotaku.com/more-surprise-zelda-ocarina-of-time-remake-footage-reveals-one-of-the-coolest-moments-from-the-original-2000746734",
+      "canonical": "kotaku.com/more-surprise-zelda-ocarina-of-time-remake-footage-reveals-one-of-the-coolest-moments-from-the-original-2000746734",
+      "published_dt": "2026-10-16T20:00:21+06:00",
+      "published_date": "2026-10-16T20:00:21+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Dark Link was one of the top 10 highlights of the N64 classic",
+      "image": "https://kotaku.com/app/uploads/2026/10/dark-link.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.459182+06:00",
+      "last_seen": "2026-10-16T21:12:50.459187+06:00"
+    },
+    "kotaku.com/street-fighter-post-credits-scene-how-many-when-sagat-2000746739": {
+      "title": "Everything You Need To Know About Street Fighter’s Post-Credits Scene",
+      "url": "https://kotaku.com/street-fighter-post-credits-scene-how-many-when-sagat-2000746739",
+      "canonical": "kotaku.com/street-fighter-post-credits-scene-how-many-when-sagat-2000746739",
+      "published_dt": "2026-10-16T19:30:38+06:00",
+      "published_date": "2026-10-16T19:30:38+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Kitao Sakurai’s fighting game adaptation sets up a sequel with a familiar face",
+      "image": "https://kotaku.com/app/uploads/2025/12/Street-Fighter.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.459324+06:00",
+      "last_seen": "2026-10-16T21:12:50.459328+06:00"
+    },
+    "kotaku.com/warhammer-boltgun-2-is-basically-a-perfect-sequel-to-one-of-2023s-best-shooters-2000746431": {
+      "title": "Warhammer: Boltgun 2 Is Basically A Perfect Sequel To One Of 2023’s Best Shooters",
+      "url": "https://kotaku.com/warhammer-boltgun-2-is-basically-a-perfect-sequel-to-one-of-2023s-best-shooters-2000746431",
+      "canonical": "kotaku.com/warhammer-boltgun-2-is-basically-a-perfect-sequel-to-one-of-2023s-best-shooters-2000746431",
+      "published_dt": "2026-10-16T19:00:06+06:00",
+      "published_date": "2026-10-16T19:00:06+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "More guns, more enemies, more variety, and better levels makes this one of the best boomer shooters around",
+      "image": "https://kotaku.com/app/uploads/2026/10/Warhammer40kbolt2-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.459450+06:00",
+      "last_seen": "2026-10-16T21:12:50.459453+06:00"
+    },
+    "gamesradar.com/games/rpg/laying-a-boozy-trap-for-a-vampire-lush-in-witcher-3-is-one-of-my-favorite-quests-but-it-also-shows-the-missed-opportunity-that-witcher-4-needs-to-pick-up-on": {
+      "title": "I need The Witcher 4 to get creative with the Bestiary, and my favorite Witcher 3 mission proves why",
+      "url": "https://www.gamesradar.com/games/rpg/laying-a-boozy-trap-for-a-vampire-lush-in-witcher-3-is-one-of-my-favorite-quests-but-it-also-shows-the-missed-opportunity-that-witcher-4-needs-to-pick-up-on/",
+      "canonical": "gamesradar.com/games/rpg/laying-a-boozy-trap-for-a-vampire-lush-in-witcher-3-is-one-of-my-favorite-quests-but-it-also-shows-the-missed-opportunity-that-witcher-4-needs-to-pick-up-on",
+      "published_dt": "2026-10-16T21:00:00+06:00",
+      "published_date": "2026-10-16T21:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The RPG Club is in session, and The Witcher 3 Remastered still has a glaring problem with detective work",
+      "image": "https://cdn.mos.cms.futurecdn.net/HW3NzmjK4ggS4j3KJpKbYV-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.777847+06:00",
+      "last_seen": "2026-10-16T21:12:50.777853+06:00"
+    },
+    "gamesradar.com/games/assassin-s-creed/we-finally-get-to-see-the-canceled-assassins-creed-game-set-in-china-and-darn-it-it-looks-pretty-good": {
+      "title": "We finally get to see the canceled Assassin's Creed game set in China, and it looks pretty good",
+      "url": "https://www.gamesradar.com/games/assassin-s-creed/we-finally-get-to-see-the-canceled-assassins-creed-game-set-in-china-and-darn-it-it-looks-pretty-good/",
+      "canonical": "gamesradar.com/games/assassin-s-creed/we-finally-get-to-see-the-canceled-assassins-creed-game-set-in-china-and-darn-it-it-looks-pretty-good",
+      "published_dt": "2026-10-16T20:37:53+06:00",
+      "published_date": "2026-10-16T20:37:53+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Ubisoft and Tencent were making it together",
+      "image": "https://cdn.mos.cms.futurecdn.net/kVTNG76XNjYR6JGFteDkkU-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.777999+06:00",
+      "last_seen": "2026-10-16T21:12:50.778003+06:00"
+    },
+    "gamesradar.com/entertainment/live-action-movies/street-fighter-fans-cant-tell-how-they-feel-about-the-new-film-as-a-video-game-movie-you-could-do-a-lot-worse": {
+      "title": "Street Fighter fans can't tell how they feel about the new film: \"You could do a lot worse\"",
+      "url": "https://www.gamesradar.com/entertainment/live-action-movies/street-fighter-fans-cant-tell-how-they-feel-about-the-new-film-as-a-video-game-movie-you-could-do-a-lot-worse/",
+      "canonical": "gamesradar.com/entertainment/live-action-movies/street-fighter-fans-cant-tell-how-they-feel-about-the-new-film-as-a-video-game-movie-you-could-do-a-lot-worse",
+      "published_dt": "2026-10-16T20:22:19+06:00",
+      "published_date": "2026-10-16T20:22:19+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Street Fighter is in theaters now",
+      "image": "https://cdn.mos.cms.futurecdn.net/nb2dX9o2rUxx8UV58wpekb-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.778169+06:00",
+      "last_seen": "2026-10-16T21:12:50.778174+06:00"
+    },
+    "gamesradar.com/games/racing/ghost-driver-codes": {
+      "title": "All Ghost Driver codes (October 2026) and how to redeem them for free cash",
+      "url": "https://www.gamesradar.com/games/racing/ghost-driver-codes/",
+      "canonical": "gamesradar.com/games/racing/ghost-driver-codes",
+      "published_dt": "2026-10-16T19:30:32+06:00",
+      "published_date": "2026-10-16T19:30:32+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Use the latest Ghost Driver codes to boost your bank balance so you can afford a new ride",
+      "image": "https://cdn.mos.cms.futurecdn.net/cWqxujxSkMttmzCTztkgFS-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.778301+06:00",
+      "last_seen": "2026-10-16T21:12:50.778304+06:00"
+    },
+    "gamesradar.com/games/action-rpg/game-freak-is-moving-on-from-beast-of-reincarnation-with-major-updates-for-the-pokemon-devs-action-rpg-coming-to-an-end": {
+      "title": "Game Freak moving on from Beast of Reincarnation as major updates from the Pokemon devs come to end",
+      "url": "https://www.gamesradar.com/games/action-rpg/game-freak-is-moving-on-from-beast-of-reincarnation-with-major-updates-for-the-pokemon-devs-action-rpg-coming-to-an-end/",
+      "canonical": "gamesradar.com/games/action-rpg/game-freak-is-moving-on-from-beast-of-reincarnation-with-major-updates-for-the-pokemon-devs-action-rpg-coming-to-an-end",
+      "published_dt": "2026-10-16T19:18:29+06:00",
+      "published_date": "2026-10-16T19:18:29+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The game only launched two months ago",
+      "image": "https://cdn.mos.cms.futurecdn.net/8jGpXNoFYJSEbK6uMsNQgn-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.778433+06:00",
+      "last_seen": "2026-10-16T21:12:50.778437+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-movies/x-men-2-set-the-high-bar-for-ensemble-superhero-movies-and-it-should-be-the-template-for-avengers-doomsday": {
+      "title": "X-Men 2 set the high bar for ensemble superhero movies, and it should be the template for Avengers: Doomsday",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/x-men-2-set-the-high-bar-for-ensemble-superhero-movies-and-it-should-be-the-template-for-avengers-doomsday/",
+      "canonical": "gamesradar.com/entertainment/marvel-movies/x-men-2-set-the-high-bar-for-ensemble-superhero-movies-and-it-should-be-the-template-for-avengers-doomsday",
+      "published_dt": "2026-10-16T19:03:57+06:00",
+      "published_date": "2026-10-16T19:03:57+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "On the road to Doomsday, X-Men 2 provides the perfect model for Doctor Doom",
+      "image": "https://cdn.mos.cms.futurecdn.net/tAdGXYpUsNNWGaT5kjdqhj-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.778557+06:00",
+      "last_seen": "2026-10-16T21:12:50.778561+06:00"
+    },
+    "gamesradar.com/entertainment/horror-shows/crystal-lake-creator-says-he-changed-jason-voorhees-origin-because-the-franchise-is-already-wonky-nothing-is-consistent-in-the-canon-anyway": {
+      "title": "Crystal Lake creator says he changed Jason Voorhees' origin because \"nothing is consistent\" in the \"wonky\" franchise",
+      "url": "https://www.gamesradar.com/entertainment/horror-shows/crystal-lake-creator-says-he-changed-jason-voorhees-origin-because-the-franchise-is-already-wonky-nothing-is-consistent-in-the-canon-anyway/",
+      "canonical": "gamesradar.com/entertainment/horror-shows/crystal-lake-creator-says-he-changed-jason-voorhees-origin-because-the-franchise-is-already-wonky-nothing-is-consistent-in-the-canon-anyway",
+      "published_dt": "2026-10-16T18:56:16+06:00",
+      "published_date": "2026-10-16T18:56:16+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Exclusive: Crystal Lake creator Brad Caleb Kane wanted to \"go back and play with\" Jason Voorhees' origin as \"nothing is consistent\" in Friday the 13th canon",
+      "image": "https://cdn.mos.cms.futurecdn.net/TM8hpwKJdyyzMSbxoN78gJ-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.778680+06:00",
+      "last_seen": "2026-10-16T21:12:50.778683+06:00"
+    },
+    "gamesradar.com/toys-collectibles/heads-up-fire-emblem-fans-nintendo-uk-has-a-set-of-fortunes-weave-acrylic-magnets-up-for-the-taking": {
+      "title": "Heads up Fire Emblem fans, Nintendo UK has a set of Fortune's Weave acrylic magnets up for the taking",
+      "url": "https://www.gamesradar.com/toys-collectibles/heads-up-fire-emblem-fans-nintendo-uk-has-a-set-of-fortunes-weave-acrylic-magnets-up-for-the-taking/",
+      "canonical": "gamesradar.com/toys-collectibles/heads-up-fire-emblem-fans-nintendo-uk-has-a-set-of-fortunes-weave-acrylic-magnets-up-for-the-taking",
+      "published_dt": "2026-10-16T18:46:55+06:00",
+      "published_date": "2026-10-16T18:46:55+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Nintendo Rewards has a set of Fortune's Weave magnets up for the taking, but only UK Fire Emblem fans can grab them.",
+      "image": "https://cdn.mos.cms.futurecdn.net/DewPTebytnHJPBJwUE9yNY-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.778808+06:00",
+      "last_seen": "2026-10-16T21:12:50.778815+06:00"
+    },
+    "gamesradar.com/entertainment/anime-shows/cyberpunk-edgerunners-season-2-is-in-constant-dialogue-with-season-1-with-one-character-inspired-by-a-david-martinez-what-if-moment": {
+      "title": "Cyberpunk: Edgerunners season 2 is in \"constant dialogue\" with season 1, says creator",
+      "url": "https://www.gamesradar.com/entertainment/anime-shows/cyberpunk-edgerunners-season-2-is-in-constant-dialogue-with-season-1-with-one-character-inspired-by-a-david-martinez-what-if-moment/",
+      "canonical": "gamesradar.com/entertainment/anime-shows/cyberpunk-edgerunners-season-2-is-in-constant-dialogue-with-season-1-with-one-character-inspired-by-a-david-martinez-what-if-moment",
+      "published_dt": "2026-10-16T18:30:00+06:00",
+      "published_date": "2026-10-16T18:30:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Exclusive: Bartosz Sztybor on the key difference between Cyberpunk: Edgerunners seasons 1 and 2",
+      "image": "https://cdn.mos.cms.futurecdn.net/uiUibsDmxwKmNebuNtydoT-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:50.778931+06:00",
+      "last_seen": "2026-10-16T21:12:50.778934+06:00"
+    },
+    "insider-gaming.com/street-fighter-reviews-kod-by-mortal-kombat-2-in-movie-battle": {
+      "title": "Street Fighter Reviews KO’d by Mortal Kombat 2 in Movie Battle",
+      "url": "https://insider-gaming.com/street-fighter-reviews-kod-by-mortal-kombat-2-in-movie-battle/",
+      "canonical": "insider-gaming.com/street-fighter-reviews-kod-by-mortal-kombat-2-in-movie-battle",
+      "published_dt": "2026-10-16T20:06:20+06:00",
+      "published_date": "2026-10-16T20:06:20+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Mortal Kombat 2 has its hand raised high in the battle of fight-movie supremacy over Street Fighter in 2026. The post Street Fighter Reviews KO’d by Mortal Kombat 2 in Movie Battle appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:52.102901+06:00",
+      "last_seen": "2026-10-16T21:12:52.102906+06:00"
+    },
+    "insider-gaming.com/blood-of-dawnwalker-update-1-1-details-revealed": {
+      "title": "Blood of Dawnwalker Update 1.1 Details Revealed",
+      "url": "https://insider-gaming.com/blood-of-dawnwalker-update-1-1-details-revealed/",
+      "canonical": "insider-gaming.com/blood-of-dawnwalker-update-1-1-details-revealed",
+      "published_dt": "2026-10-16T20:05:34+06:00",
+      "published_date": "2026-10-16T20:05:34+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Blood of Dawnwalker have revealed the details of their upcoming update 1.1, listing new features, changes and improvements. The post Blood of Dawnwalker Update 1.1 Details Revealed appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:52.103228+06:00",
+      "last_seen": "2026-10-16T21:12:52.103234+06:00"
+    },
+    "insider-gaming.com/xbox-disc-to-digital-games-list": {
+      "title": "Complete XBOX Disc-to-Digital Games List",
+      "url": "https://insider-gaming.com/xbox-disc-to-digital-games-list/",
+      "canonical": "insider-gaming.com/xbox-disc-to-digital-games-list",
+      "published_dt": "2026-10-16T19:32:28+06:00",
+      "published_date": "2026-10-16T19:32:28+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "The promised XBOX Disc-to-Digital initiative is in effect, so find out every compatible game you can use with it. The post Complete XBOX Disc-to-Digital Games List appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:52.103497+06:00",
+      "last_seen": "2026-10-16T21:12:52.103501+06:00"
+    },
+    "insider-gaming.com/tutorial-wardogs": {
+      "title": "Can You Skip the Tutorial in WARDOGS?",
+      "url": "https://insider-gaming.com/tutorial-wardogs/",
+      "canonical": "insider-gaming.com/tutorial-wardogs",
+      "published_dt": "2026-10-16T19:15:17+06:00",
+      "published_date": "2026-10-16T19:15:17+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "WARDOGS has a mandatory tutorial that can take some time, but there's an easy skip to get out of it and dive into the main game. The post Can You Skip the Tutorial in WARDOGS? appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:52.103750+06:00",
+      "last_seen": "2026-10-16T21:12:52.103754+06:00"
+    },
+    "insider-gaming.com/first-angelfall-trailer-delivers-devilishly-demonic-gameplay": {
+      "title": "First Angelfall Trailer Delivers Devilishly Demonic Gameplay",
+      "url": "https://insider-gaming.com/first-angelfall-trailer-delivers-devilishly-demonic-gameplay/",
+      "canonical": "insider-gaming.com/first-angelfall-trailer-delivers-devilishly-demonic-gameplay",
+      "published_dt": "2026-10-16T18:44:52+06:00",
+      "published_date": "2026-10-16T18:44:52+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Make sure you check out the first gameplay trailer for Angelfall, featuring demons, darkness, and a deadly domain to conquer. The post First Angelfall Trailer Delivers Devilishly Demonic Gameplay appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:52.103997+06:00",
+      "last_seen": "2026-10-16T21:12:52.104001+06:00"
+    },
+    "nintendolife.com/reviews/nintendo-switch-2/the-witchs-bakery": {
+      "title": "Review: The Witch's Bakery (Switch 2) – A Cosy Narrative Sim That Rises To The Occasion",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-witchs-bakery",
+      "canonical": "nintendolife.com/reviews/nintendo-switch-2/the-witchs-bakery",
+      "published_dt": "2026-10-16T21:00:00+06:00",
+      "published_date": "2026-10-16T21:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Pain and pain au chocolat. Is there a scent more heartwarming than freshly baked bread? French developer Sunny Lab and publisher Silver Lining Interactive don’t think so, if The Witch’s Bakery is anything to go by. This narrative-led adventure sim is filled with cute characters, emotional stories, and pastries. And although you can’t smell the baked goods themselves, you can immerse yourself in Parisian – and otherworldly – wonderlands. You get flavours of Kiki’s Delivery Service throughout the game: anime art style, young witch protagonist, sassy familiar, bakery setting, not to mention emotional storyline. But instead of delivering for the bakery, this witch works in the bakery. And instead of flying, her main power is seeing into people’s hearts. Sunny Lab mixes these ingredients together to serve up a game that’s hearty and moreish, even if it doesn’t all go down smoothly. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/1d5a3b9587e57/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:52.457347+06:00",
+      "last_seen": "2026-10-16T21:12:52.457353+06:00"
+    },
+    "pushsquare.com/news/2026/10/over-1100-improvements-promised-in-the-blood-of-dawnwalker-patch-1-1": {
+      "title": "Over 1,100 Improvements Promised in The Blood of Dawnwalker Patch 1.1",
+      "url": "https://www.pushsquare.com/news/2026/10/over-1100-improvements-promised-in-the-blood-of-dawnwalker-patch-1-1",
+      "canonical": "pushsquare.com/news/2026/10/over-1100-improvements-promised-in-the-blood-of-dawnwalker-patch-1-1",
+      "published_dt": "2026-10-16T20:30:00+06:00",
+      "published_date": "2026-10-16T20:30:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Coming to PS5 next week. Dawnwalker developer Rebel Wolves has revealed a new PS5 patch for the RPG arriving next week will be packing more than 1,100 \"improvements and fixes\", and an infographic highlights the biggest ones. This is the major update the studio teased last month, where it spoke of an easier difficulty setting and some tweaks to combat and controls. The enhancements have indeed made it into patch 1.1, which goes live at some point next week. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/9930529f6eb39/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:52.831186+06:00",
+      "last_seen": "2026-10-16T21:12:52.831192+06:00"
+    },
+    "pushsquare.com/news/2026/10/sony-has-caused-friction-between-it-and-playstation-fans-over-disc-mess-says-ps1-ps2-ps3-creator": {
+      "title": "Sony Has Caused 'Friction' Between It and PlayStation Fans Over Disc Mess, Says PS1, PS2, PS3 Creator",
+      "url": "https://www.pushsquare.com/news/2026/10/sony-has-caused-friction-between-it-and-playstation-fans-over-disc-mess-says-ps1-ps2-ps3-creator",
+      "canonical": "pushsquare.com/news/2026/10/sony-has-caused-friction-between-it-and-playstation-fans-over-disc-mess-says-ps1-ps2-ps3-creator",
+      "published_dt": "2026-10-16T20:00:00+06:00",
+      "published_date": "2026-10-16T20:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Kutaragi understands both sides of the argument. The general sentiment surrounding PlayStation from hardcore players is at a real low point, spurred mostly by the firm's decision to stop making disc-based copies of PlayStation games from January 2028 onwards. It has gotten to the point where fairly innocuous pieces of news , that would usually just come and go, are attracting the ire of PlayStation fans — the brand can't do anything right at the moment, in some people's eyes. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/94391b6db0adc/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:52.831537+06:00",
+      "last_seen": "2026-10-16T21:12:52.831542+06:00"
+    },
+    "pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working": {
+      "title": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
+      "url": "https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working",
+      "canonical": "pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working",
+      "published_dt": "2026-10-16T19:30:00+06:00",
+      "published_date": "2026-10-16T19:30:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "\"I’m most definitely playing on a PS5\". Sony’s unprecedented multi-million dollar GTA 6 PS5 marketing push is already reaping dividends. A short reaction video published by juggernaut streamer IShowSpeed shows the platform holder’s approach working in real time. The manufacturer has paid handsomely to have its console closely associated with Rockstar’s upcoming open world game, and the launch trailer is packed with PlayStation iconography, including a short statement which says the game ‘ Plays Best on PS5 ’. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/1d0c2bdb607be/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:52.832025+06:00",
+      "last_seen": "2026-10-16T21:12:52.832029+06:00"
+    },
+    "pushsquare.com/news/2026/10/game-first-then-movie-ed-boon-responds-to-street-fighter-vs-mortal-kombat-crossover-pitch": {
+      "title": "'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch",
+      "url": "https://www.pushsquare.com/news/2026/10/game-first-then-movie-ed-boon-responds-to-street-fighter-vs-mortal-kombat-crossover-pitch",
+      "canonical": "pushsquare.com/news/2026/10/game-first-then-movie-ed-boon-responds-to-street-fighter-vs-mortal-kombat-crossover-pitch",
+      "published_dt": "2026-10-16T19:00:00+06:00",
+      "published_date": "2026-10-16T19:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Street Fighter movie cast think it would be \"sick\". For millions of fighting game fans around the world, Street Fighter vs Mortal Kombat has been the dream match-up since the 90s. And actor Noah Centineo, who plays Ken in Paramount’s latest live action Street Fighter movie, says he’d love to see some kind of crossover on the big screen. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/12e24a7e6f67f/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:52.832409+06:00",
+      "last_seen": "2026-10-16T21:12:52.832414+06:00"
+    },
+    "pushsquare.com/features/video-i-built-the-ps1-lego-set-and-nearly-lost-my-mind": {
+      "title": "Video: I Built the PS1 LEGO Set, and Nearly Lost My Mind",
+      "url": "https://www.pushsquare.com/features/video-i-built-the-ps1-lego-set-and-nearly-lost-my-mind",
+      "canonical": "pushsquare.com/features/video-i-built-the-ps1-lego-set-and-nearly-lost-my-mind",
+      "published_dt": "2026-10-16T18:30:00+06:00",
+      "published_date": "2026-10-16T18:30:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Bricking it. PlayStation recently sent me the PS1 LEGO set, which is made up of a whopping 1,911 pieces. I’ve never actually built a large LEGO set before; in fact, the last time I dabbled in LEGO was probably making some rubbish house in primary school, 20-something years ago. This LEGO set faithfully recreates the 1994 console, with a full analogue stick-less controller and a working lid that reveals two sliding dioramas of Ape Escape and Gran Turismo . Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/c2c2a1923de5d/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:52.832980+06:00",
+      "last_seen": "2026-10-16T21:12:52.832985+06:00"
+    },
+    "purexbox.com/news/2026/10/forgotten-monkey-survival-sim-getting-free-xbox-series-xs-upgrade-this-december": {
+      "title": "Forgotten Monkey Survival Sim Getting Free Xbox Series X|S Upgrade This December",
+      "url": "https://www.purexbox.com/news/2026/10/forgotten-monkey-survival-sim-getting-free-xbox-series-xs-upgrade-this-december",
+      "canonical": "purexbox.com/news/2026/10/forgotten-monkey-survival-sim-getting-free-xbox-series-xs-upgrade-this-december",
+      "published_dt": "2026-10-16T20:00:00+06:00",
+      "published_date": "2026-10-16T20:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Time to grow up. As far as my current-gen upgrade wishlist goes, the Xbox One animal evolution sim Ancestors: The Humankind Odyssey certainly was not in my top three. But hey ho let's go, because the game is set to evolve December 8th on Xbox Series X|S. Panache Digital Games has entirely rebuilt the game in Unreal Engine 5, and whilst this is essentially a new version, owners of the Xbox One release can upgrade for free. This remaster will also feature a proper photo mode and new \"documentary-style narration\", and spruce things up with a little bit of polish beyond the expected quality-of-life enhancements. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/08039ac4af899/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:53.148479+06:00",
+      "last_seen": "2026-10-16T21:12:53.148484+06:00"
+    },
+    "purexbox.com/news/2026/10/xboxs-new-oled-rog-ally-is-getting-huge-praise-from-this-former-playstation-exec": {
+      "title": "Xbox's New OLED ROG Ally Is Getting Huge Praise From This Former PlayStation Exec",
+      "url": "https://www.purexbox.com/news/2026/10/xboxs-new-oled-rog-ally-is-getting-huge-praise-from-this-former-playstation-exec",
+      "canonical": "purexbox.com/news/2026/10/xboxs-new-oled-rog-ally-is-getting-huge-praise-from-this-former-playstation-exec",
+      "published_dt": "2026-10-16T19:00:00+06:00",
+      "published_date": "2026-10-16T19:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "\"My new favorite portable gaming PC\". Yesterday, we highlighted many of the initial reviews for the ROG Xbox Ally X20 which indicated that it was a very impressive albeit expensive device, which pretty much lines up with what we expected. <related ids=\"207697\"> Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/0a6c827051a79/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:53.148824+06:00",
+      "last_seen": "2026-10-16T21:12:53.148829+06:00"
+    },
+    "siliconera.com/atelier-karia-lets-you-turn-body-shape-changes-on-and-off": {
+      "title": "Atelier Karia Lets You Turn Body Shape Changes On and Off",
+      "url": "https://www.siliconera.com/atelier-karia-lets-you-turn-body-shape-changes-on-and-off/",
+      "canonical": "siliconera.com/atelier-karia-lets-you-turn-body-shape-changes-on-and-off",
+      "published_dt": "2026-10-16T21:00:00+06:00",
+      "published_date": "2026-10-16T21:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "The body shape changes will be present in Atelier Karia and optional, with players able to choose between slim, default, and fuller looks.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:53.695024+06:00",
+      "last_seen": "2026-10-16T21:12:53.695029+06:00"
+    },
+    "siliconera.com/chiikawa-characters-get-jobs-in-ana-collaboration": {
+      "title": "Chiikawa Characters Get Jobs in ANA Collaboration",
+      "url": "https://www.siliconera.com/chiikawa-characters-get-jobs-in-ana-collaboration/",
+      "canonical": "siliconera.com/chiikawa-characters-get-jobs-in-ana-collaboration",
+      "published_dt": "2026-10-16T20:00:00+06:00",
+      "published_date": "2026-10-16T20:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "ChiikawANA.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:53.695184+06:00",
+      "last_seen": "2026-10-16T21:12:53.695188+06:00"
+    },
+    "siliconera.com/review-kernal-hearts-is-a-nier-like-roguelike": {
+      "title": "Review: Kernal Hearts Is a NieR-like Roguelike",
+      "url": "https://www.siliconera.com/review-kernal-hearts-is-a-nier-like-roguelike/",
+      "canonical": "siliconera.com/review-kernal-hearts-is-a-nier-like-roguelike",
+      "published_dt": "2026-10-16T19:00:00+06:00",
+      "published_date": "2026-10-16T19:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "The story and concept behind Kernal Hearts can feel inspired, but the actual gameplay could use some adjustments.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T21:12:53.695310+06:00",
+      "last_seen": "2026-10-16T21:12:53.695314+06:00"
     }
   },
   "events": {
@@ -98032,16 +98960,16 @@
       "claims": [
         "The promised XBOX Disc-to-Digital initiative is in effect, so find out every compatible game you can use with it. The post Complete XBOX Disc-to-Digital Games List appeared first on Insider Gaming ."
       ],
-      "importance_score": 39,
+      "importance_score": 34,
       "score_breakdown": {
-        "significance": 5,
+        "significance": 0,
         "coverage": 2,
         "originality": 12,
         "freshness": 10,
         "source_trust": 10,
-        "total": 39
+        "total": 34
       },
-      "last_seen": "2026-10-09T21:01:14.187005+06:00"
+      "last_seen": "2026-10-16T21:13:02.245754+06:00"
     },
     "evt_562c167fdfc0ce": {
       "event_id": "evt_562c167fdfc0ce",
@@ -125844,6 +126772,2341 @@
         "total": 29
       },
       "last_seen": "2026-10-16T16:50:11.838479+06:00"
+    },
+    "evt_ad2097006dc4b0": {
+      "event_id": "evt_ad2097006dc4b0",
+      "event_key": "blood of dawnwalker update 1 1 details revealed update",
+      "event_subject": "Blood of Dawnwalker Update 1.1 Details Revealed",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "blood of dawnwalker update 1 1 details revealed update",
+        "subject": "Blood of Dawnwalker Update 1.1 Details Revealed",
+        "event_type": "update",
+        "action": "update",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Blood of Dawnwalker Update 1.1 Details Revealed",
+        "franchise": "Blood of Dawnwalker Update 1.1 Details Revealed",
+        "institution": "",
+        "target": "Blood of Dawnwalker Update 1.1 Details Revealed",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Blood of Dawnwalker have revealed the details of their upcoming update 1.1, listing new features, changes and improvements. The post Blood of Dawnwalker Update 1.1 Details Revealed appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-10-16T21:13:02.245727+06:00"
+    },
+    "evt_673cd80fcd6beb": {
+      "event_id": "evt_673cd80fcd6beb",
+      "event_key": "can you skip the tutorial in wardogs other",
+      "event_subject": "Can You Skip the Tutorial in WARDOGS?",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "can you skip the tutorial in wardogs other",
+        "subject": "Can You Skip the Tutorial in WARDOGS?",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Can You Skip the Tutorial in WARDOGS?",
+        "franchise": "Can You Skip the Tutorial in WARDOGS?",
+        "institution": "",
+        "target": "Can You Skip the Tutorial in WARDOGS?",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "WARDOGS has a mandatory tutorial that can take some time, but there's an easy skip to get out of it and dive into the main game. The post Can You Skip the Tutorial in WARDOGS? appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-10-16T21:13:02.245745+06:00"
+    },
+    "evt_4c5e2f26c4d6f8": {
+      "event_id": "evt_4c5e2f26c4d6f8",
+      "event_key": "first angelfall trailer delivers devilishly demonic gameplay reveal",
+      "event_subject": "First Angelfall Trailer Delivers Devilishly Demonic Gameplay",
+      "event_type": "reveal",
+      "event_frame": {
+        "event_key": "first angelfall trailer delivers devilishly demonic gameplay reveal",
+        "subject": "First Angelfall Trailer Delivers Devilishly Demonic Gameplay",
+        "event_type": "reveal",
+        "action": "reveal",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "First Angelfall Trailer Delivers Devilishly Demonic Gameplay",
+        "franchise": "First Angelfall Trailer Delivers Devilishly Demonic Gameplay",
+        "institution": "",
+        "target": "First Angelfall Trailer Delivers Devilishly Demonic Gameplay",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Make sure you check out the first gameplay trailer for Angelfall, featuring demons, darkness, and a deadly domain to conquer. The post First Angelfall Trailer Delivers Devilishly Demonic Gameplay appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-10-16T21:13:02.245766+06:00"
+    },
+    "evt_0f3e605a2d03ed": {
+      "event_id": "evt_0f3e605a2d03ed",
+      "event_key": "stranger than heaven act 1 kokura story trailer release",
+      "event_subject": "STRANGER THAN HEAVEN ‘Act 1: Kokura’ story trailer",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "stranger than heaven act 1 kokura story trailer release",
+        "subject": "STRANGER THAN HEAVEN ‘Act 1: Kokura’ story trailer",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "STRANGER THAN HEAVEN ‘Act 1: Kokura’ story trailer",
+        "franchise": "STRANGER THAN HEAVEN ‘Act 1: Kokura’ story trailer",
+        "institution": "",
+        "target": "STRANGER THAN HEAVEN ‘Act 1: Kokura’ story trailer",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Publisher SEGA and developer RGG Studio have released the first in a set of multiple …"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-10-16T21:13:02.245773+06:00"
+    },
+    "evt_57527d16095dd4": {
+      "event_id": "evt_57527d16095dd4",
+      "event_key": "second stone demo release",
+      "event_subject": "Second Stone demo",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "second stone demo release",
+        "subject": "Second Stone demo",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Second Stone demo",
+        "franchise": "Second Stone demo",
+        "institution": "",
+        "target": "Second Stone demo",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Publisher Headup and developer Skyward Entertainment will release a demo for action RPG Second Stone …"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-10-16T21:13:02.245780+06:00"
+    },
+    "evt_e6e13fae61ecd3": {
+      "event_id": "evt_e6e13fae61ecd3",
+      "event_key": "street fighter reviews ko d by mortal kombat 2 in movie battle other",
+      "event_subject": "Street Fighter Reviews KO’d by Mortal Kombat 2 in Movie Battle",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "street fighter reviews ko d by mortal kombat 2 in movie battle other",
+        "subject": "Street Fighter Reviews KO’d by Mortal Kombat 2 in Movie Battle",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Street Fighter Reviews KO’d by Mortal Kombat 2 in Movie Battle",
+        "franchise": "Street Fighter Reviews KO’d by Mortal Kombat 2 in Movie Battle",
+        "institution": "",
+        "target": "Street Fighter Reviews KO’d by Mortal Kombat 2 in Movie Battle",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Mortal Kombat 2 has its hand raised high in the battle of fight-movie supremacy over Street Fighter in 2026. The post Street Fighter Reviews KO’d by Mortal Kombat 2 in Movie Battle appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-10-16T21:13:02.245787+06:00"
+    },
+    "evt_fe632f14a01828": {
+      "event_id": "evt_fe632f14a01828",
+      "event_key": "cyberpunk 2077 movie first details officially confirmed won t adapt game 1 1 other",
+      "event_subject": "'Cyberpunk 2077' Movie First Details Officially Confirmed, Won’t Adapt Game 1:1",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "cyberpunk 2077 movie first details officially confirmed won t adapt game 1 1 other",
+        "subject": "'Cyberpunk 2077' Movie First Details Officially Confirmed, Won’t Adapt Game 1:1",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "'Cyberpunk 2077' Movie First Details Officially Confirmed, Won’t Adapt Game 1:1",
+        "franchise": "'Cyberpunk 2077' Movie First Details Officially Confirmed, Won’t Adapt Game 1:1",
+        "institution": "",
+        "target": "'Cyberpunk 2077' Movie First Details Officially Confirmed, Won’t Adapt Game 1:1",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "CD Projekt Red CEO Michał Nowakowski confirmed that the upcoming live-action Cyberpunk movie won't be a 1:1 adaptation of the game."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245793+06:00"
+    },
+    "evt_e0ed9b79ea6289": {
+      "event_id": "evt_e0ed9b79ea6289",
+      "event_key": "divided quest walkthrough in arc raiders other",
+      "event_subject": "'Divided' quest walkthrough in Arc Raiders",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "divided quest walkthrough in arc raiders other",
+        "subject": "'Divided' quest walkthrough in Arc Raiders",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "'Divided' quest walkthrough in Arc Raiders",
+        "franchise": "'Divided' quest walkthrough in Arc Raiders",
+        "institution": "",
+        "target": "'Divided' quest walkthrough in Arc Raiders",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "A guide explaining how to complete the \"Divided\" quest in Arc Raiders and where to find the four nomad recordings on Pendola Pass."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245800+06:00"
+    },
+    "evt_57b2c729313758": {
+      "event_id": "evt_57b2c729313758",
+      "event_key": "game first then movie ed boon responds to street fighter vs mortal kombat crossover pitch milestone",
+      "event_subject": "'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch",
+      "event_type": "milestone",
+      "event_frame": {
+        "event_key": "game first then movie ed boon responds to street fighter vs mortal kombat crossover pitch milestone",
+        "subject": "'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch",
+        "event_type": "milestone",
+        "action": "milestone",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch",
+        "franchise": "'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch",
+        "institution": "",
+        "target": "'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Street Fighter movie cast think it would be \"sick\". For millions of fighting game fans around the world, Street Fighter vs Mortal Kombat has been the dream match-up since the 90s. And actor Noah Centineo, who plays Ken in Paramount’s latest live action Street Fighter movie, says he’d love to see some kind of crossover on the big screen. Read the full article on pushsquare.com"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245806+06:00"
+    },
+    "evt_b3466c5aff0c35": {
+      "event_id": "evt_b3466c5aff0c35",
+      "event_key": "11 games and announcements that got us excited in the latest galaxies showcase other",
+      "event_subject": "11 games and announcements that got us excited in the latest Galaxies Showcase",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "11 games and announcements that got us excited in the latest galaxies showcase other",
+        "subject": "11 games and announcements that got us excited in the latest Galaxies Showcase",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "11 games and announcements that got us excited in the latest Galaxies Showcase",
+        "franchise": "11 games and announcements that got us excited in the latest Galaxies Showcase",
+        "institution": "",
+        "target": "11 games and announcements that got us excited in the latest Galaxies Showcase",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "You can smell it in the air can't you? Feel the chill in your nostrils and the earthy scent as leaves fall and the sun departs for another year? Yes, autumn is here, meaning we're teetering on the cavernous hole of near-nothingness as the entire games industry gives GTA 6 the widest berth imaginable. But that doesn't mean there isn't stuff to be excited about, of course. And the latest edition of "
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245812+06:00"
+    },
+    "evt_236ffa2e6c3b9f": {
+      "event_id": "evt_236ffa2e6c3b9f",
+      "event_key": "25 years later dc s most innovative sci fi show changed superheroes forever other",
+      "event_subject": "25 Years Later, DC's Most Innovative Sci-Fi Show Changed Superheroes Forever",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "25 years later dc s most innovative sci fi show changed superheroes forever other",
+        "subject": "25 Years Later, DC's Most Innovative Sci-Fi Show Changed Superheroes Forever",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "25 Years Later, DC's Most Innovative Sci-Fi Show Changed Superheroes Forever",
+        "franchise": "25 Years Later, DC's Most Innovative Sci-Fi Show Changed Superheroes Forever",
+        "institution": "",
+        "target": "25 Years Later, DC's Most Innovative Sci-Fi Show Changed Superheroes Forever",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Smallville turns 25. Its focus on Clark Kent, friendship with Lex Luthor, and “no tights, no flights” rule helped change superhero TV."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245818+06:00"
+    },
+    "evt_6841154b1c6ac0": {
+      "event_id": "evt_6841154b1c6ac0",
+      "event_key": "6 newly other",
+      "event_subject": "6 Newly",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "6 newly other",
+        "subject": "6 Newly",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "6 Newly",
+        "franchise": "6 Newly",
+        "institution": "",
+        "target": "6 Newly",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Following a loaded Triple-i Initiative showcase, we've got some fresh indies to add to your Steam wishlist."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245824+06:00"
+    },
+    "evt_795719c81085ac": {
+      "event_id": "evt_795719c81085ac",
+      "event_key": "asus rog xbox ally x20 review other",
+      "event_subject": "Asus ROG Xbox Ally X20 Review",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "asus rog xbox ally x20 review other",
+        "subject": "Asus ROG Xbox Ally X20 Review",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Asus ROG Xbox Ally X20 Review",
+        "franchise": "Asus ROG Xbox Ally X20 Review",
+        "institution": "",
+        "target": "Asus ROG Xbox Ally X20 Review",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245831+06:00"
+    },
+    "evt_69b81f0352ad17": {
+      "event_id": "evt_69b81f0352ad17",
+      "event_key": "best settings for modern warfare 4 controller layouts sensitivity and more release",
+      "event_subject": "Best Settings For Modern Warfare 4 – Controller Layouts, Sensitivity, And More",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "best settings for modern warfare 4 controller layouts sensitivity and more release",
+        "subject": "Best Settings For Modern Warfare 4 – Controller Layouts, Sensitivity, And More",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Best Settings For Modern Warfare 4 – Controller Layouts, Sensitivity, And More",
+        "franchise": "Best Settings For Modern Warfare 4 – Controller Layouts, Sensitivity, And More",
+        "institution": "",
+        "target": "Best Settings For Modern Warfare 4 – Controller Layouts, Sensitivity, And More",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "After going hands-on with Call of Duty: Modern Warfare 4 during the beta, we've curated some recommended settings for you to improve your aim and movement, as well as some important graphic settings to consider. This guide covers recommended settings for controllers, graphics, and audio settings in Modern Warfare 4. Optimal settings are always going to be subjective, but here we detail our preferr"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245837+06:00"
+    },
+    "evt_d1cecbc89c5865": {
+      "event_id": "evt_d1cecbc89c5865",
+      "event_key": "big walk won t come to xbox until microsoft is no longer a bds boycott target release",
+      "event_subject": "Big Walk Won’t Come To Xbox Until Microsoft Is No Longer A BDS Boycott Target",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "big walk won t come to xbox until microsoft is no longer a bds boycott target release",
+        "subject": "Big Walk Won’t Come To Xbox Until Microsoft Is No Longer A BDS Boycott Target",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Big Walk Won’t Come To Xbox Until Microsoft Is No Longer A BDS Boycott Target",
+        "franchise": "Big Walk Won’t Come To Xbox Until Microsoft Is No Longer A BDS Boycott Target",
+        "institution": "",
+        "target": "Big Walk Won’t Come To Xbox Until Microsoft Is No Longer A BDS Boycott Target",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Big Walk has been a critical hit since it launched a few months ago on PC and PS5, but one major platform where you won't find it is Xbox Series X|S. That's no accident: Developer House House said its decision not to release the game on Xbox was a show of support for the Palestinian-led Boycott, Divestment, Sanctions (BDS) movement. \"It has always been our intention for Big Walk to be played by gr"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245843+06:00"
+    },
+    "evt_a309111bd6e202": {
+      "event_id": "evt_a309111bd6e202",
+      "event_key": "control resonant just became remedy s fastest selling game of all time milestone",
+      "event_subject": "Control Resonant Just Became Remedy’s Fastest-Selling Game of All Time",
+      "event_type": "milestone",
+      "event_frame": {
+        "event_key": "control resonant just became remedy s fastest selling game of all time milestone",
+        "subject": "Control Resonant Just Became Remedy’s Fastest-Selling Game of All Time",
+        "event_type": "milestone",
+        "action": "milestone",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Control Resonant Just Became Remedy’s Fastest-Selling Game of All Time",
+        "franchise": "Control Resonant Just Became Remedy’s Fastest-Selling Game of All Time",
+        "institution": "",
+        "target": "Control Resonant Just Became Remedy’s Fastest-Selling Game of All Time",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Remedy has sold 1 million copies of Control Resonant in less than a month, making the action RPG the studio's fastest-selling game"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245849+06:00"
+    },
+    "evt_815a6577892ba2": {
+      "event_id": "evt_815a6577892ba2",
+      "event_key": "forgotten monkey survival sim getting free xbox series x s upgrade this december release",
+      "event_subject": "Forgotten Monkey Survival Sim Getting Free Xbox Series X|S Upgrade This December",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "forgotten monkey survival sim getting free xbox series x s upgrade this december release",
+        "subject": "Forgotten Monkey Survival Sim Getting Free Xbox Series X|S Upgrade This December",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Forgotten Monkey Survival Sim Getting Free Xbox Series X|S Upgrade This December",
+        "franchise": "Forgotten Monkey Survival Sim Getting Free Xbox Series X|S Upgrade This December",
+        "institution": "",
+        "target": "Forgotten Monkey Survival Sim Getting Free Xbox Series X|S Upgrade This December",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Time to grow up. As far as my current-gen upgrade wishlist goes, the Xbox One animal evolution sim Ancestors: The Humankind Odyssey certainly was not in my top three. But hey ho let's go, because the game is set to evolve December 8th on Xbox Series X|S. Panache Digital Games has entirely rebuilt the game in Unreal Engine 5, and whilst this is essentially a new version, owners of the Xbox One rele"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245856+06:00"
+    },
+    "evt_e7369a32edefb6": {
+      "event_id": "evt_e7369a32edefb6",
+      "event_key": "fortnite is coming to linux so we may soon be able to play it and other games like apex legends on steam deck and steam machine other",
+      "event_subject": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fortnite is coming to linux so we may soon be able to play it and other games like apex legends on steam deck and steam machine other",
+        "subject": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
+        "franchise": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
+        "institution": "",
+        "target": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Epic Games is officially working on bringing its battle royale shooter Fortnite to Linux. The announcement was tucked away at the bottom of Epic's widely mocked blog post revealing the new, \"vibe-coded\" Epic Games Store, which is also coming to Linux. Read more"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245863+06:00"
+    },
+    "evt_f6f9730cb7f9db": {
+      "event_id": "evt_f6f9730cb7f9db",
+      "event_key": "gta 6 is taking over miami amid pushback from officials we re depicting miami like a murder capital release",
+      "event_subject": "GTA 6 Is Taking Over Miami Amid Pushback From Officials: “We’re Depicting Miami Like A Murder Capital”",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "gta 6 is taking over miami amid pushback from officials we re depicting miami like a murder capital release",
+        "subject": "GTA 6 Is Taking Over Miami Amid Pushback From Officials: “We’re Depicting Miami Like A Murder Capital”",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "GTA 6 Is Taking Over Miami Amid Pushback From Officials: “We’re Depicting Miami Like A Murder Capital”",
+        "franchise": "GTA 6 Is Taking Over Miami Amid Pushback From Officials: “We’re Depicting Miami Like A Murder Capital”",
+        "institution": "",
+        "target": "GTA 6 Is Taking Over Miami Amid Pushback From Officials: “We’re Depicting Miami Like A Murder Capital”",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "GTA 6's takeover of real-life Miami is continuing, and in a big way, ahead of the open-world crime game's release in November. For anyone unaware, GTA 6 takes place in Vice City, which is a stand-in for Miami, and the game also takes players to surrounding areas of its version of Florida, known as Leonida. After the GTA 6 logo was airlifted onto Miami's Kaseya Earlier this month to promote the gam"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245868+06:00"
+    },
+    "evt_59818d89970963": {
+      "event_id": "evt_59818d89970963",
+      "event_key": "killing ps5 discs just makes sense even if it angers people former playstation exec says milestone",
+      "event_subject": "Killing PS5 Discs Just Makes Sense, Even If It Angers People, Former PlayStation Exec Says",
+      "event_type": "milestone",
+      "event_frame": {
+        "event_key": "killing ps5 discs just makes sense even if it angers people former playstation exec says milestone",
+        "subject": "Killing PS5 Discs Just Makes Sense, Even If It Angers People, Former PlayStation Exec Says",
+        "event_type": "milestone",
+        "action": "milestone",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Killing PS5 Discs Just Makes Sense, Even If It Angers People, Former PlayStation Exec Says",
+        "franchise": "Killing PS5 Discs Just Makes Sense, Even If It Angers People, Former PlayStation Exec Says",
+        "institution": "",
+        "target": "Killing PS5 Discs Just Makes Sense, Even If It Angers People, Former PlayStation Exec Says",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Ken Kutaragi, the former PlayStation executive known colloquially as the \"Father of PlayStation,\" has reacted to the ongoing debate and discussion about physical games in the wake of Sony's announcement that it will end support for PS5 game discs in 2028. Speaking to VGC , Kutaragi said he understands that people think they \"own\" games when they buy them physically. However, he said, \"Nobody think"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245875+06:00"
+    },
+    "evt_e692f6d6e305ff": {
+      "event_id": "evt_e692f6d6e305ff",
+      "event_key": "modern warfare 4 release times and early access explained release",
+      "event_subject": "Modern Warfare 4 release times and early access explained",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "modern warfare 4 release times and early access explained release",
+        "subject": "Modern Warfare 4 release times and early access explained",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Modern Warfare 4 release times and early access explained",
+        "franchise": "Modern Warfare 4 release times and early access explained",
+        "institution": "",
+        "target": "Modern Warfare 4 release times and early access explained",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Here's what you can play and when."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245881+06:00"
+    },
+    "evt_e2f461976d84de": {
+      "event_id": "evt_e2f461976d84de",
+      "event_key": "new zelda ocarina of time trailer reveal dark link reveal",
+      "event_subject": "New Zelda: Ocarina of Time Trailer Reveal Dark Link",
+      "event_type": "reveal",
+      "event_frame": {
+        "event_key": "new zelda ocarina of time trailer reveal dark link reveal",
+        "subject": "New Zelda: Ocarina of Time Trailer Reveal Dark Link",
+        "event_type": "reveal",
+        "action": "reveal",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "New Zelda: Ocarina of Time Trailer Reveal Dark Link",
+        "franchise": "New Zelda: Ocarina of Time Trailer Reveal Dark Link",
+        "institution": "",
+        "target": "New Zelda: Ocarina of Time Trailer Reveal Dark Link",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The Legend of Zelda: Ocarina of Time remake received two new trailers on Friday. One offers fans their first glimpse at Dark Link."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245888+06:00"
+    },
+    "evt_54ef81951c3987": {
+      "event_id": "evt_54ef81951c3987",
+      "event_key": "next red dead launching by 2027 or 2028 may not be unreasonable bank says but it definitely is release",
+      "event_subject": "Next Red Dead Launching By 2027 Or 2028 “May Not Be Unreasonable,” Bank Says, But It Definitely Is",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "next red dead launching by 2027 or 2028 may not be unreasonable bank says but it definitely is release",
+        "subject": "Next Red Dead Launching By 2027 Or 2028 “May Not Be Unreasonable,” Bank Says, But It Definitely Is",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Next Red Dead Launching By 2027 Or 2028 “May Not Be Unreasonable,” Bank Says, But It Definitely Is",
+        "franchise": "Next Red Dead Launching By 2027 Or 2028 “May Not Be Unreasonable,” Bank Says, But It Definitely Is",
+        "institution": "",
+        "target": "Next Red Dead Launching By 2027 Or 2028 “May Not Be Unreasonable,” Bank Says, But It Definitely Is",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Citi, the investment bank and financial services company, has released a note about GTA 6 and Rockstar, and included in the brief is a line about what Rockstar could release next--a new Red Dead game. The company said in its memo that, if Rockstar is telling the truth that GTA 6 did not in fact cost $1.5 billion to make , then the studio may be able to get a new Red Dead game out sooner than anyon"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245894+06:00"
+    },
+    "evt_f62a9fd099a426": {
+      "event_id": "evt_f62a9fd099a426",
+      "event_key": "one of the most intriguing rpgs of 2027 plays with time brilliantly other",
+      "event_subject": "One of the Most Intriguing RPGs of 2027 Plays With Time Brilliantly",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "one of the most intriguing rpgs of 2027 plays with time brilliantly other",
+        "subject": "One of the Most Intriguing RPGs of 2027 Plays With Time Brilliantly",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "One of the Most Intriguing RPGs of 2027 Plays With Time Brilliantly",
+        "franchise": "One of the Most Intriguing RPGs of 2027 Plays With Time Brilliantly",
+        "institution": "",
+        "target": "One of the Most Intriguing RPGs of 2027 Plays With Time Brilliantly",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Eternal Anima is a new JRPG from Marvelous Inc. that uses time-manipulation to reinvent turn-based battles and class systems."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245901+06:00"
+    },
+    "evt_069538bb3560a5": {
+      "event_id": "evt_069538bb3560a5",
+      "event_key": "over 1 100 improvements promised in the blood of dawnwalker patch 1 1 update",
+      "event_subject": "Over 1,100 Improvements Promised in The Blood of Dawnwalker Patch 1.1",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "over 1 100 improvements promised in the blood of dawnwalker patch 1 1 update",
+        "subject": "Over 1,100 Improvements Promised in The Blood of Dawnwalker Patch 1.1",
+        "event_type": "update",
+        "action": "update",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Over 1,100 Improvements Promised in The Blood of Dawnwalker Patch 1.1",
+        "franchise": "Over 1,100 Improvements Promised in The Blood of Dawnwalker Patch 1.1",
+        "institution": "",
+        "target": "Over 1,100 Improvements Promised in The Blood of Dawnwalker Patch 1.1",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Coming to PS5 next week. Dawnwalker developer Rebel Wolves has revealed a new PS5 patch for the RPG arriving next week will be packing more than 1,100 \"improvements and fixes\", and an infographic highlights the biggest ones. This is the major update the studio teased last month, where it spoke of an easier difficulty setting and some tweaks to combat and controls. The enhancements have indeed made"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245907+06:00"
+    },
+    "evt_0db194f396353f": {
+      "event_id": "evt_0db194f396353f",
+      "event_key": "over the hill is already at its lowest price so join me by taking the scenic route release",
+      "event_subject": "Over The Hill Is Already At Its Lowest Price, So Join Me By Taking The Scenic Route",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "over the hill is already at its lowest price so join me by taking the scenic route release",
+        "subject": "Over The Hill Is Already At Its Lowest Price, So Join Me By Taking The Scenic Route",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Over The Hill Is Already At Its Lowest Price, So Join Me By Taking The Scenic Route",
+        "franchise": "Over The Hill Is Already At Its Lowest Price, So Join Me By Taking The Scenic Route",
+        "institution": "",
+        "target": "Over The Hill Is Already At Its Lowest Price, So Join Me By Taking The Scenic Route",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Driving in a crowded town, with frequent stopping and starting as you wait for the hustle and bustle of daily life to fade, is, quite frankly, dull. I don’t mind blaring my music and singing out of tune to Zac Efron’s \"Bet On It\" as much as the next guy, but the reality is simple: Normal driving is boring. However, take away the road and head for the wilderness, and things get more interesting. Th"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245914+06:00"
+    },
+    "evt_72a0617bc81220": {
+      "event_id": "evt_72a0617bc81220",
+      "event_key": "review the witch s bakery switch 2 a cosy narrative sim that rises to the occasion other",
+      "event_subject": "Review: The Witch's Bakery (Switch 2) – A Cosy Narrative Sim That Rises To The Occasion",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "review the witch s bakery switch 2 a cosy narrative sim that rises to the occasion other",
+        "subject": "Review: The Witch's Bakery (Switch 2) – A Cosy Narrative Sim That Rises To The Occasion",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Review: The Witch's Bakery (Switch 2) – A Cosy Narrative Sim That Rises To The Occasion",
+        "franchise": "Review: The Witch's Bakery (Switch 2) – A Cosy Narrative Sim That Rises To The Occasion",
+        "institution": "",
+        "target": "Review: The Witch's Bakery (Switch 2) – A Cosy Narrative Sim That Rises To The Occasion",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Pain and pain au chocolat. Is there a scent more heartwarming than freshly baked bread? French developer Sunny Lab and publisher Silver Lining Interactive don’t think so, if The Witch’s Bakery is anything to go by. This narrative-led adventure sim is filled with cute characters, emotional stories, and pastries. And although you can’t smell the baked goods themselves, you can immerse yourself in Pa"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245921+06:00"
+    },
+    "evt_d7e91fcae96ad8": {
+      "event_id": "evt_d7e91fcae96ad8",
+      "event_key": "sony has caused friction between it and playstation fans over disc mess says ps1 ps2 ps3 creator other",
+      "event_subject": "Sony Has Caused 'Friction' Between It and PlayStation Fans Over Disc Mess, Says PS1, PS2, PS3 Creator",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sony has caused friction between it and playstation fans over disc mess says ps1 ps2 ps3 creator other",
+        "subject": "Sony Has Caused 'Friction' Between It and PlayStation Fans Over Disc Mess, Says PS1, PS2, PS3 Creator",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Sony Has Caused 'Friction' Between It and PlayStation Fans Over Disc Mess, Says PS1, PS2, PS3 Creator",
+        "franchise": "Sony Has Caused 'Friction' Between It and PlayStation Fans Over Disc Mess, Says PS1, PS2, PS3 Creator",
+        "institution": "",
+        "target": "Sony Has Caused 'Friction' Between It and PlayStation Fans Over Disc Mess, Says PS1, PS2, PS3 Creator",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Kutaragi understands both sides of the argument. The general sentiment surrounding PlayStation from hardcore players is at a real low point, spurred mostly by the firm's decision to stop making disc-based copies of PlayStation games from January 2028 onwards. It has gotten to the point where fairly innocuous pieces of news , that would usually just come and go, are attracting the ire of PlayStatio"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245927+06:00"
+    },
+    "evt_a87af16f560816": {
+      "event_id": "evt_a87af16f560816",
+      "event_key": "sony s multi million dollar gta 6 ps5 marketing strategy is already working release",
+      "event_subject": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "sony s multi million dollar gta 6 ps5 marketing strategy is already working release",
+        "subject": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
+        "franchise": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
+        "institution": "",
+        "target": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "\"I’m most definitely playing on a PS5\". Sony’s unprecedented multi-million dollar GTA 6 PS5 marketing push is already reaping dividends. A short reaction video published by juggernaut streamer IShowSpeed shows the platform holder’s approach working in real time. The manufacturer has paid handsomely to have its console closely associated with Rockstar’s upcoming open world game, and the launch trai"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245934+06:00"
+    },
+    "evt_0977aa56472a63": {
+      "event_id": "evt_0977aa56472a63",
+      "event_key": "street fighter s 4k steelbook is up for preorder and comes in champion or villain variants other",
+      "event_subject": "Street Fighter’s 4K Steelbook Is Up for Preorder, and Comes in Champion or Villain Variants",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "street fighter s 4k steelbook is up for preorder and comes in champion or villain variants other",
+        "subject": "Street Fighter’s 4K Steelbook Is Up for Preorder, and Comes in Champion or Villain Variants",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Street Fighter’s 4K Steelbook Is Up for Preorder, and Comes in Champion or Villain Variants",
+        "franchise": "Street Fighter’s 4K Steelbook Is Up for Preorder, and Comes in Champion or Villain Variants",
+        "institution": "",
+        "target": "Street Fighter’s 4K Steelbook Is Up for Preorder, and Comes in Champion or Villain Variants",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Street Fighter’s 4K Steelbook Edition asks fans to choose between a special edition champion or villain variant cover, with preorders now live at Amazon."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245940+06:00"
+    },
+    "evt_f00d22a0e389fc": {
+      "event_id": "evt_f00d22a0e389fc",
+      "event_key": "the father of playstation says killing discs backlash is a mentality issue other",
+      "event_subject": "The 'Father of PlayStation' Says Killing Discs Backlash Is a 'Mentality Issue'",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "the father of playstation says killing discs backlash is a mentality issue other",
+        "subject": "The 'Father of PlayStation' Says Killing Discs Backlash Is a 'Mentality Issue'",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "The 'Father of PlayStation' Says Killing Discs Backlash Is a 'Mentality Issue'",
+        "franchise": "The 'Father of PlayStation' Says Killing Discs Backlash Is a 'Mentality Issue'",
+        "institution": "",
+        "target": "The 'Father of PlayStation' Says Killing Discs Backlash Is a 'Mentality Issue'",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Ken Kutaragi, known as \"The Father of PlayStation,\" has backed Sony's controversial decision to scrap discs on PS5. Kutaragi, who ran Sony's gaming business through its first three console generations, told VGC that while he understands the backlash, it isn't “economically reasonable.”"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245943+06:00"
+    },
+    "evt_507e5e980ba50a": {
+      "event_id": "evt_507e5e980ba50a",
+      "event_key": "the blood of dawnwalker s next update will let you erase your mistakes and pet the dog update",
+      "event_subject": "The Blood Of Dawnwalker’s Next Update Will Let You Erase Your Mistakes And Pet The Dog",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "the blood of dawnwalker s next update will let you erase your mistakes and pet the dog update",
+        "subject": "The Blood Of Dawnwalker’s Next Update Will Let You Erase Your Mistakes And Pet The Dog",
+        "event_type": "update",
+        "action": "update",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "The Blood Of Dawnwalker’s Next Update Will Let You Erase Your Mistakes And Pet The Dog",
+        "franchise": "The Blood Of Dawnwalker’s Next Update Will Let You Erase Your Mistakes And Pet The Dog",
+        "institution": "",
+        "target": "The Blood Of Dawnwalker’s Next Update Will Let You Erase Your Mistakes And Pet The Dog",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The Blood of Dawnwalker is already one of the best role-playing games of the year, but developer Rebel Wolves is preparing a big update that should make it even better. Like all good things in life, it starts with getting to pet a dog. Update 1.1, which is scheduled to arrive next week, brings a number of new features to the game, including the ability to pet both dogs and cats via the game's dire"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245947+06:00"
+    },
+    "evt_f7c9264cc667fa": {
+      "event_id": "evt_f7c9264cc667fa",
+      "event_key": "the blood of dawnwalker update 1 1 adds directional animal petting and over 1 100 other improvements and fixes update",
+      "event_subject": "The Blood of Dawnwalker Update 1.1 Adds Directional Animal Petting and Over 1,100 Other Improvements and Fixes",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "the blood of dawnwalker update 1 1 adds directional animal petting and over 1 100 other improvements and fixes update",
+        "subject": "The Blood of Dawnwalker Update 1.1 Adds Directional Animal Petting and Over 1,100 Other Improvements and Fixes",
+        "event_type": "update",
+        "action": "update",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "The Blood of Dawnwalker Update 1.1 Adds Directional Animal Petting and Over 1,100 Other Improvements and Fixes",
+        "franchise": "The Blood of Dawnwalker Update 1.1 Adds Directional Animal Petting and Over 1,100 Other Improvements and Fixes",
+        "institution": "",
+        "target": "The Blood of Dawnwalker Update 1.1 Adds Directional Animal Petting and Over 1,100 Other Improvements and Fixes",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The Blood of Dawnwalker update 1.1 adds directional animal petting and over 1,100 other improvements and fixes."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245951+06:00"
+    },
+    "evt_4a42a9b21b0b4f": {
+      "event_id": "evt_4a42a9b21b0b4f",
+      "event_key": "this anime stalker russian roulette game is afraid ai copycats will steal its ideas closure",
+      "event_subject": "This Anime Stalker Russian Roulette Game Is Afraid AI Copycats Will Steal Its Ideas",
+      "event_type": "closure",
+      "event_frame": {
+        "event_key": "this anime stalker russian roulette game is afraid ai copycats will steal its ideas closure",
+        "subject": "This Anime Stalker Russian Roulette Game Is Afraid AI Copycats Will Steal Its Ideas",
+        "event_type": "closure",
+        "action": "closure",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "This Anime Stalker Russian Roulette Game Is Afraid AI Copycats Will Steal Its Ideas",
+        "franchise": "This Anime Stalker Russian Roulette Game Is Afraid AI Copycats Will Steal Its Ideas",
+        "institution": "",
+        "target": "This Anime Stalker Russian Roulette Game Is Afraid AI Copycats Will Steal Its Ideas",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Developers have dealt with copycat games for many years, but generative AI has made it easier than ever to whip up a clone, and that problem has grown in recent years. The developer behind Drunken Goddess Reflux is aware of this, and out of fear that its anime Russian roulette game could be the victim of a cash-grab imitation, it has announced that it has canceled its upcoming public demo. Instead"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245954+06:00"
+    },
+    "evt_bf73fe33239d9b": {
+      "event_id": "evt_bf73fe33239d9b",
+      "event_key": "this fallout power fist 1 1 scale replica will have you ready for any post apocalyptic future other",
+      "event_subject": "This Fallout Power Fist 1:1 Scale Replica Will Have You Ready for Any Post-Apocalyptic Future",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "this fallout power fist 1 1 scale replica will have you ready for any post apocalyptic future other",
+        "subject": "This Fallout Power Fist 1:1 Scale Replica Will Have You Ready for Any Post-Apocalyptic Future",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "This Fallout Power Fist 1:1 Scale Replica Will Have You Ready for Any Post-Apocalyptic Future",
+        "franchise": "This Fallout Power Fist 1:1 Scale Replica Will Have You Ready for Any Post-Apocalyptic Future",
+        "institution": "",
+        "target": "This Fallout Power Fist 1:1 Scale Replica Will Have You Ready for Any Post-Apocalyptic Future",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "As part of IGN Fan Fest: Fall Edition 2026, we were able to exclusively reveal a first look at the officially licensed Fallout Power Fist 1:1 Scale Replica, a perfect addition to the collection of those with fond memories of their visits to that iconic post-apocalyptic wasteland."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245958+06:00"
+    },
+    "evt_033f91cbafdb55": {
+      "event_id": "evt_033f91cbafdb55",
+      "event_key": "video i built the ps1 lego set and nearly lost my mind other",
+      "event_subject": "Video: I Built the PS1 LEGO Set, and Nearly Lost My Mind",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "video i built the ps1 lego set and nearly lost my mind other",
+        "subject": "Video: I Built the PS1 LEGO Set, and Nearly Lost My Mind",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Video: I Built the PS1 LEGO Set, and Nearly Lost My Mind",
+        "franchise": "Video: I Built the PS1 LEGO Set, and Nearly Lost My Mind",
+        "institution": "",
+        "target": "Video: I Built the PS1 LEGO Set, and Nearly Lost My Mind",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Bricking it. PlayStation recently sent me the PS1 LEGO set, which is made up of a whopping 1,911 pieces. I’ve never actually built a large LEGO set before; in fact, the last time I dabbled in LEGO was probably making some rubbish house in primary school, 20-something years ago. This LEGO set faithfully recreates the 1994 console, with a full analogue stick-less controller and a working lid that re"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245962+06:00"
+    },
+    "evt_bc7fcfe231bd05": {
+      "event_id": "evt_bc7fcfe231bd05",
+      "event_key": "wardogs devs rush to fix xp exploit allowing players to quickly unlock tanks and stomp competition on season 2 s first day release",
+      "event_subject": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "wardogs devs rush to fix xp exploit allowing players to quickly unlock tanks and stomp competition on season 2 s first day release",
+        "subject": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day",
+        "franchise": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day",
+        "institution": "",
+        "target": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The launch of a new live season is hard, and subtle changes to a game can have massive consequences when players get their hands on it. Wardogs proved this true with the launch of its second season this week, as players were able to unlock tanks on day one. Read more"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245966+06:00"
+    },
+    "evt_6fb7cbd86da4d1": {
+      "event_id": "evt_6fb7cbd86da4d1",
+      "event_key": "why do big games keep being made playable in browsers a guide to vibe coded ports release",
+      "event_subject": "Why Do Big Games Keep Being Made Playable In Browsers? A Guide To Vibe-Coded Ports",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "why do big games keep being made playable in browsers a guide to vibe coded ports release",
+        "subject": "Why Do Big Games Keep Being Made Playable In Browsers? A Guide To Vibe-Coded Ports",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Why Do Big Games Keep Being Made Playable In Browsers? A Guide To Vibe-Coded Ports",
+        "franchise": "Why Do Big Games Keep Being Made Playable In Browsers? A Guide To Vibe-Coded Ports",
+        "institution": "",
+        "target": "Why Do Big Games Keep Being Made Playable In Browsers? A Guide To Vibe-Coded Ports",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "For decades, if you wanted to play Call of Duty or Halo, you needed a console or a PC with decent hardware. But recently, a flood of vibe-coded games has been appearing online. What's happening here? It turns out that recent AI updates--like the release of Claude Opus 5.5--are making it very easy to reverse-engineer the source code for a game and get it running in a browser. So far, retro games fr"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245969+06:00"
+    },
+    "evt_23105b397dd752": {
+      "event_id": "evt_23105b397dd752",
+      "event_key": "xbox s new oled rog ally is getting huge praise from this former playstation exec other",
+      "event_subject": "Xbox's New OLED ROG Ally Is Getting Huge Praise From This Former PlayStation Exec",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox s new oled rog ally is getting huge praise from this former playstation exec other",
+        "subject": "Xbox's New OLED ROG Ally Is Getting Huge Praise From This Former PlayStation Exec",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Xbox's New OLED ROG Ally Is Getting Huge Praise From This Former PlayStation Exec",
+        "franchise": "Xbox's New OLED ROG Ally Is Getting Huge Praise From This Former PlayStation Exec",
+        "institution": "",
+        "target": "Xbox's New OLED ROG Ally Is Getting Huge Praise From This Former PlayStation Exec",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "\"My new favorite portable gaming PC\". Yesterday, we highlighted many of the initial reviews for the ROG Xbox Ally X20 which indicated that it was a very impressive albeit expensive device, which pretty much lines up with what we expected. <related ids=\"207697\"> Read the full article on purexbox.com"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245973+06:00"
+    },
+    "evt_944bac4f5e915d": {
+      "event_id": "evt_944bac4f5e915d",
+      "event_key": "iphone duo preorders are live but shipping is already pushed into 2027 other",
+      "event_subject": "iPhone Duo Preorders Are Live, But Shipping Is Already Pushed into 2027",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "iphone duo preorders are live but shipping is already pushed into 2027 other",
+        "subject": "iPhone Duo Preorders Are Live, But Shipping Is Already Pushed into 2027",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "iPhone Duo Preorders Are Live, But Shipping Is Already Pushed into 2027",
+        "franchise": "iPhone Duo Preorders Are Live, But Shipping Is Already Pushed into 2027",
+        "institution": "",
+        "target": "iPhone Duo Preorders Are Live, But Shipping Is Already Pushed into 2027",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Preorders are live for Apple's brand-new foldable iPhone Duo, but shipping is already pushed into 2027."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T21:13:02.245977+06:00"
+    },
+    "evt_2890a70e5efb21": {
+      "event_id": "evt_2890a70e5efb21",
+      "event_key": "all ghost driver codes october 2026 and how to redeem them for free cash other",
+      "event_subject": "All Ghost Driver codes (October 2026) and how to redeem them for free cash",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "all ghost driver codes october 2026 and how to redeem them for free cash other",
+        "subject": "All Ghost Driver codes (October 2026) and how to redeem them for free cash",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "All Ghost Driver codes (October 2026) and how to redeem them for free cash",
+        "franchise": "All Ghost Driver codes (October 2026) and how to redeem them for free cash",
+        "institution": "",
+        "target": "All Ghost Driver codes (October 2026) and how to redeem them for free cash",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Use the latest Ghost Driver codes to boost your bank balance so you can afford a new ride"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-16T21:13:02.245980+06:00"
+    },
+    "evt_55bfe67c1e4b4c": {
+      "event_id": "evt_55bfe67c1e4b4c",
+      "event_key": "atelier karia lets you turn body shape changes on and off other",
+      "event_subject": "Atelier Karia Lets You Turn Body Shape Changes On and Off",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "atelier karia lets you turn body shape changes on and off other",
+        "subject": "Atelier Karia Lets You Turn Body Shape Changes On and Off",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Atelier Karia Lets You Turn Body Shape Changes On and Off",
+        "franchise": "Atelier Karia Lets You Turn Body Shape Changes On and Off",
+        "institution": "",
+        "target": "Atelier Karia Lets You Turn Body Shape Changes On and Off",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The body shape changes will be present in Atelier Karia and optional, with players able to choose between slim, default, and fuller looks."
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-16T21:13:02.245984+06:00"
+    },
+    "evt_501b7fe0d5308d": {
+      "event_id": "evt_501b7fe0d5308d",
+      "event_key": "chiikawa characters get jobs in ana collaboration other",
+      "event_subject": "Chiikawa Characters Get Jobs in ANA Collaboration",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "chiikawa characters get jobs in ana collaboration other",
+        "subject": "Chiikawa Characters Get Jobs in ANA Collaboration",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Chiikawa Characters Get Jobs in ANA Collaboration",
+        "franchise": "Chiikawa Characters Get Jobs in ANA Collaboration",
+        "institution": "",
+        "target": "Chiikawa Characters Get Jobs in ANA Collaboration",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "ChiikawANA."
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-16T21:13:02.245988+06:00"
+    },
+    "evt_c78a5c6603f298": {
+      "event_id": "evt_c78a5c6603f298",
+      "event_key": "crystal lake creator says he changed jason voorhees origin because nothing is consistent in the wonky franchise other",
+      "event_subject": "Crystal Lake creator says he changed Jason Voorhees' origin because \"nothing is consistent\" in the \"wonky\" franchise",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "crystal lake creator says he changed jason voorhees origin because nothing is consistent in the wonky franchise other",
+        "subject": "Crystal Lake creator says he changed Jason Voorhees' origin because \"nothing is consistent\" in the \"wonky\" franchise",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Crystal Lake creator says he changed Jason Voorhees' origin because \"nothing is consistent\" in the \"wonky\" franchise",
+        "franchise": "Crystal Lake creator says he changed Jason Voorhees' origin because \"nothing is consistent\" in the \"wonky\" franchise",
+        "institution": "",
+        "target": "Crystal Lake creator says he changed Jason Voorhees' origin because \"nothing is consistent\" in the \"wonky\" franchise",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Exclusive: Crystal Lake creator Brad Caleb Kane wanted to \"go back and play with\" Jason Voorhees' origin as \"nothing is consistent\" in Friday the 13th canon"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-16T21:13:02.245991+06:00"
+    },
+    "evt_77975f50f2048b": {
+      "event_id": "evt_77975f50f2048b",
+      "event_key": "cyberpunk edgerunners season 2 is in constant dialogue with season 1 says creator other",
+      "event_subject": "Cyberpunk: Edgerunners season 2 is in \"constant dialogue\" with season 1, says creator",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "cyberpunk edgerunners season 2 is in constant dialogue with season 1 says creator other",
+        "subject": "Cyberpunk: Edgerunners season 2 is in \"constant dialogue\" with season 1, says creator",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Cyberpunk: Edgerunners season 2 is in \"constant dialogue\" with season 1, says creator",
+        "franchise": "Cyberpunk: Edgerunners season 2 is in \"constant dialogue\" with season 1, says creator",
+        "institution": "",
+        "target": "Cyberpunk: Edgerunners season 2 is in \"constant dialogue\" with season 1, says creator",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Exclusive: Bartosz Sztybor on the key difference between Cyberpunk: Edgerunners seasons 1 and 2"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-16T21:13:02.245995+06:00"
+    },
+    "evt_7530402d1c4f8e": {
+      "event_id": "evt_7530402d1c4f8e",
+      "event_key": "everything you need to know about street fighter s post credits scene other",
+      "event_subject": "Everything You Need To Know About Street Fighter’s Post-Credits Scene",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "everything you need to know about street fighter s post credits scene other",
+        "subject": "Everything You Need To Know About Street Fighter’s Post-Credits Scene",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Everything You Need To Know About Street Fighter’s Post-Credits Scene",
+        "franchise": "Everything You Need To Know About Street Fighter’s Post-Credits Scene",
+        "institution": "",
+        "target": "Everything You Need To Know About Street Fighter’s Post-Credits Scene",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Kitao Sakurai’s fighting game adaptation sets up a sequel with a familiar face"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-16T21:13:02.245998+06:00"
+    },
+    "evt_33a32e2667bf4a": {
+      "event_id": "evt_33a32e2667bf4a",
+      "event_key": "game freak moving on from beast of reincarnation as major updates from the pokemon devs come to end release",
+      "event_subject": "Game Freak moving on from Beast of Reincarnation as major updates from the Pokemon devs come to end",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "game freak moving on from beast of reincarnation as major updates from the pokemon devs come to end release",
+        "subject": "Game Freak moving on from Beast of Reincarnation as major updates from the Pokemon devs come to end",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Game Freak moving on from Beast of Reincarnation as major updates from the Pokemon devs come to end",
+        "franchise": "Game Freak moving on from Beast of Reincarnation as major updates from the Pokemon devs come to end",
+        "institution": "",
+        "target": "Game Freak moving on from Beast of Reincarnation as major updates from the Pokemon devs come to end",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The game only launched two months ago"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-16T21:13:02.246002+06:00"
+    },
+    "evt_6b0bfe3b1fb487": {
+      "event_id": "evt_6b0bfe3b1fb487",
+      "event_key": "heads up fire emblem fans nintendo uk has a set of fortune s weave acrylic magnets up for the taking other",
+      "event_subject": "Heads up Fire Emblem fans, Nintendo UK has a set of Fortune's Weave acrylic magnets up for the taking",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "heads up fire emblem fans nintendo uk has a set of fortune s weave acrylic magnets up for the taking other",
+        "subject": "Heads up Fire Emblem fans, Nintendo UK has a set of Fortune's Weave acrylic magnets up for the taking",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Heads up Fire Emblem fans, Nintendo UK has a set of Fortune's Weave acrylic magnets up for the taking",
+        "franchise": "Heads up Fire Emblem fans, Nintendo UK has a set of Fortune's Weave acrylic magnets up for the taking",
+        "institution": "",
+        "target": "Heads up Fire Emblem fans, Nintendo UK has a set of Fortune's Weave acrylic magnets up for the taking",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Nintendo Rewards has a set of Fortune's Weave magnets up for the taking, but only UK Fire Emblem fans can grab them."
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-16T21:13:02.246006+06:00"
+    },
+    "evt_8bf573149d0191": {
+      "event_id": "evt_8bf573149d0191",
+      "event_key": "i need the witcher 4 to get creative with the bestiary and my favorite witcher 3 mission proves why other",
+      "event_subject": "I need The Witcher 4 to get creative with the Bestiary, and my favorite Witcher 3 mission proves why",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "i need the witcher 4 to get creative with the bestiary and my favorite witcher 3 mission proves why other",
+        "subject": "I need The Witcher 4 to get creative with the Bestiary, and my favorite Witcher 3 mission proves why",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "I need The Witcher 4 to get creative with the Bestiary, and my favorite Witcher 3 mission proves why",
+        "franchise": "I need The Witcher 4 to get creative with the Bestiary, and my favorite Witcher 3 mission proves why",
+        "institution": "",
+        "target": "I need The Witcher 4 to get creative with the Bestiary, and my favorite Witcher 3 mission proves why",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The RPG Club is in session, and The Witcher 3 Remastered still has a glaring problem with detective work"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-16T21:13:02.246010+06:00"
+    },
+    "evt_51bc7ba7138ed3": {
+      "event_id": "evt_51bc7ba7138ed3",
+      "event_key": "more surprise zelda ocarina of time remake footage other",
+      "event_subject": "More Surprise Zelda: Ocarina Of Time Remake Footage",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "more surprise zelda ocarina of time remake footage other",
+        "subject": "More Surprise Zelda: Ocarina Of Time Remake Footage",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "More Surprise Zelda: Ocarina Of Time Remake Footage",
+        "franchise": "More Surprise Zelda: Ocarina Of Time Remake Footage",
+        "institution": "",
+        "target": "More Surprise Zelda: Ocarina Of Time Remake Footage",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Dark Link was one of the top 10 highlights of the N64 classic"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-16T21:13:02.246013+06:00"
+    },
+    "evt_42e8ad46daa866": {
+      "event_id": "evt_42e8ad46daa866",
+      "event_key": "review kernal hearts is a nier like roguelike other",
+      "event_subject": "Review: Kernal Hearts Is a NieR-like Roguelike",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "review kernal hearts is a nier like roguelike other",
+        "subject": "Review: Kernal Hearts Is a NieR-like Roguelike",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Review: Kernal Hearts Is a NieR-like Roguelike",
+        "franchise": "Review: Kernal Hearts Is a NieR-like Roguelike",
+        "institution": "",
+        "target": "Review: Kernal Hearts Is a NieR-like Roguelike",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The story and concept behind Kernal Hearts can feel inspired, but the actual gameplay could use some adjustments."
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-16T21:13:02.246017+06:00"
+    },
+    "evt_87d41f46857248": {
+      "event_id": "evt_87d41f46857248",
+      "event_key": "silent hill and metal gear publisher konami does not believe the market will shift significantly because of ai other",
+      "event_subject": "Silent Hill And Metal Gear Publisher Konami Does ‘Not Believe The Market Will Shift Significantly’ Because Of AI",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "silent hill and metal gear publisher konami does not believe the market will shift significantly because of ai other",
+        "subject": "Silent Hill And Metal Gear Publisher Konami Does ‘Not Believe The Market Will Shift Significantly’ Because Of AI",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Silent Hill And Metal Gear Publisher Konami Does ‘Not Believe The Market Will Shift Significantly’ Because Of AI",
+        "franchise": "Silent Hill And Metal Gear Publisher Konami Does ‘Not Believe The Market Will Shift Significantly’ Because Of AI",
+        "institution": "",
+        "target": "Silent Hill And Metal Gear Publisher Konami Does ‘Not Believe The Market Will Shift Significantly’ Because Of AI",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The idea-making process of developers 'cannot be replaced easily,' the company insists in new financial report"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-16T21:13:02.246021+06:00"
+    },
+    "evt_8c5f46c9cce238": {
+      "event_id": "evt_8c5f46c9cce238",
+      "event_key": "street fighter fans can t tell how they feel about the new film you could do a lot worse other",
+      "event_subject": "Street Fighter fans can't tell how they feel about the new film: \"You could do a lot worse\"",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "street fighter fans can t tell how they feel about the new film you could do a lot worse other",
+        "subject": "Street Fighter fans can't tell how they feel about the new film: \"You could do a lot worse\"",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Street Fighter fans can't tell how they feel about the new film: \"You could do a lot worse\"",
+        "franchise": "Street Fighter fans can't tell how they feel about the new film: \"You could do a lot worse\"",
+        "institution": "",
+        "target": "Street Fighter fans can't tell how they feel about the new film: \"You could do a lot worse\"",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Street Fighter is in theaters now"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-16T21:13:02.246025+06:00"
+    },
+    "evt_246f095bfff147": {
+      "event_id": "evt_246f095bfff147",
+      "event_key": "veteran players manage to kill new runescape in just two weeks release",
+      "event_subject": "Veteran Players Manage To Kill New RuneScape In Just Two Weeks",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "veteran players manage to kill new runescape in just two weeks release",
+        "subject": "Veteran Players Manage To Kill New RuneScape In Just Two Weeks",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Veteran Players Manage To Kill New RuneScape In Just Two Weeks",
+        "franchise": "Veteran Players Manage To Kill New RuneScape In Just Two Weeks",
+        "institution": "",
+        "target": "Veteran Players Manage To Kill New RuneScape In Just Two Weeks",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "RuneScape Reignited was set to launch in early December"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-16T21:13:02.246028+06:00"
+    },
+    "evt_94119c2f969114": {
+      "event_id": "evt_94119c2f969114",
+      "event_key": "warhammer boltgun 2 is basically a perfect sequel to one of 2023 s best shooters other",
+      "event_subject": "Warhammer: Boltgun 2 Is Basically A Perfect Sequel To One Of 2023’s Best Shooters",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "warhammer boltgun 2 is basically a perfect sequel to one of 2023 s best shooters other",
+        "subject": "Warhammer: Boltgun 2 Is Basically A Perfect Sequel To One Of 2023’s Best Shooters",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Warhammer: Boltgun 2 Is Basically A Perfect Sequel To One Of 2023’s Best Shooters",
+        "franchise": "Warhammer: Boltgun 2 Is Basically A Perfect Sequel To One Of 2023’s Best Shooters",
+        "institution": "",
+        "target": "Warhammer: Boltgun 2 Is Basically A Perfect Sequel To One Of 2023’s Best Shooters",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "More guns, more enemies, more variety, and better levels makes this one of the best boomer shooters around"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-16T21:13:02.246032+06:00"
+    },
+    "evt_84a9af0b0c3551": {
+      "event_id": "evt_84a9af0b0c3551",
+      "event_key": "we finally get to see the canceled assassin s creed game set in china and it looks pretty good cancellation",
+      "event_subject": "We finally get to see the canceled Assassin's Creed game set in China, and it looks pretty good",
+      "event_type": "cancellation",
+      "event_frame": {
+        "event_key": "we finally get to see the canceled assassin s creed game set in china and it looks pretty good cancellation",
+        "subject": "We finally get to see the canceled Assassin's Creed game set in China, and it looks pretty good",
+        "event_type": "cancellation",
+        "action": "cancellation",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "We finally get to see the canceled Assassin's Creed game set in China, and it looks pretty good",
+        "franchise": "We finally get to see the canceled Assassin's Creed game set in China, and it looks pretty good",
+        "institution": "",
+        "target": "We finally get to see the canceled Assassin's Creed game set in China, and it looks pretty good",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Ubisoft and Tencent were making it together"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-16T21:13:02.246035+06:00"
+    },
+    "evt_417ef8f0319182": {
+      "event_id": "evt_417ef8f0319182",
+      "event_key": "x men 2 set the high bar for ensemble superhero movies and it should be the template for avengers doomsday other",
+      "event_subject": "X-Men 2 set the high bar for ensemble superhero movies, and it should be the template for Avengers: Doomsday",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "x men 2 set the high bar for ensemble superhero movies and it should be the template for avengers doomsday other",
+        "subject": "X-Men 2 set the high bar for ensemble superhero movies, and it should be the template for Avengers: Doomsday",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "X-Men 2 set the high bar for ensemble superhero movies, and it should be the template for Avengers: Doomsday",
+        "franchise": "X-Men 2 set the high bar for ensemble superhero movies, and it should be the template for Avengers: Doomsday",
+        "institution": "",
+        "target": "X-Men 2 set the high bar for ensemble superhero movies, and it should be the template for Avengers: Doomsday",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "On the road to Doomsday, X-Men 2 provides the perfect model for Doctor Doom"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-16T21:13:02.246039+06:00"
     }
   },
   "posted_event_ids": [
