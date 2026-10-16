@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"23ebc-m9aMpNFQhGk5ffG2PWa9RZcPkjY\"",
+      "etag": "W/\"1dc16-NC7I4LC4Wsk2t7bk9s7DvdALycc\"",
       "last_modified": null,
-      "last_checked": "2026-10-16T01:42:17.431161+06:00",
+      "last_checked": "2026-10-16T11:28:10.965406+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-16T01:42:17.675313+06:00",
+      "last_checked": "2026-10-16T11:28:11.189010+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ad12c13-aec\"",
-      "last_modified": "Thu, 15 Oct 2026 19:40:03 GMT",
-      "last_checked": "2026-10-16T01:42:18.724773+06:00",
+      "etag": "\"6ad1b52f-aeb\"",
+      "last_modified": "Fri, 16 Oct 2026 05:25:03 GMT",
+      "last_checked": "2026-10-16T11:28:11.549229+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Thu, 15 Oct 2026 16:10:34 GMT",
-      "last_checked": "2026-10-16T01:42:19.485337+06:00",
+      "last_checked": "2026-10-16T11:28:12.356320+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ad12c3c-1268\"",
-      "last_modified": "Thu, 15 Oct 2026 19:40:44 GMT",
-      "last_checked": "2026-10-16T01:42:19.901203+06:00",
+      "etag": "\"d1a6c6c656d5b20e2aa25c74310066b2\"",
+      "last_modified": "Fri, 16 Oct 2026 04:29:03 GMT",
+      "last_checked": "2026-10-16T11:28:12.588723+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-16T01:42:20.180841+06:00",
+      "last_checked": "2026-10-16T11:28:12.822840+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-16T01:42:21.633810+06:00",
+      "last_checked": "2026-10-16T11:28:14.386871+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"3ae79694562fa60a7283762501230622\"",
-      "last_modified": "Thu, 15 Oct 2026 19:34:12 GMT",
-      "last_checked": "2026-10-16T01:42:21.869088+06:00",
+      "etag": "W/\"5ac41bdb82b7d8f5925af102e8bde703\"",
+      "last_modified": "Thu, 15 Oct 2026 23:00:23 GMT",
+      "last_checked": "2026-10-16T11:28:14.631891+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-16T01:42:22.007725+06:00",
+      "last_checked": "2026-10-16T11:28:14.773806+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Thu, 15 Oct 2026 18:14:04 GMT",
-      "last_checked": "2026-10-16T01:42:22.389268+06:00",
+      "last_modified": "Fri, 16 Oct 2026 00:58:06 GMT",
+      "last_checked": "2026-10-16T11:28:15.259362+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Thu, 15 Oct 2026 19:42:22 GMT",
-      "last_checked": "2026-10-16T01:42:22.966192+06:00",
+      "last_modified": "Fri, 16 Oct 2026 05:28:15 GMT",
+      "last_checked": "2026-10-16T11:28:15.847429+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"73a114d115d11eb0ba264d7226d63693\"",
-      "last_modified": "Thu, 15 Oct 2026 18:44:28 GMT",
-      "last_checked": "2026-10-16T01:42:23.621716+06:00",
+      "etag": "W/\"477a489d8132ddd903334617c8890e37\"",
+      "last_modified": "Thu, 15 Oct 2026 23:54:53 GMT",
+      "last_checked": "2026-10-16T11:28:16.449365+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-16T01:42:24.159515+06:00",
+      "last_checked": "2026-10-16T11:28:16.892565+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-16T01:42:24.571034+06:00",
+      "last_checked": "2026-10-16T11:28:17.351412+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-16T01:42:25.111018+06:00",
+      "last_checked": "2026-10-16T11:28:17.945900+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-16T01:42:25.461311+06:00",
-      "fail_count": 83,
+      "last_checked": "2026-10-16T11:28:18.285039+06:00",
+      "fail_count": 84,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"93b63e0ad7644ad28dd004083bc04912\"",
-      "last_modified": "Thu, 15 Oct 2026 15:17:21 GMT",
-      "last_checked": "2026-10-16T01:42:25.584976+06:00",
+      "etag": "W/\"2c3904aadc43fcc67582ebb2c0069caa\"",
+      "last_modified": "Thu, 15 Oct 2026 17:21:45 GMT",
+      "last_checked": "2026-10-16T11:28:18.415160+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-16T01:42:25.843739+06:00",
+      "last_checked": "2026-10-16T11:28:18.597604+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-16T01:42:26.079053+06:00",
-      "fail_count": 83,
+      "last_checked": "2026-10-16T11:28:18.933507+06:00",
+      "fail_count": 84,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"82c5735c138967ce706f6ac9e1a7dc27\"",
-      "last_modified": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "last_checked": "2026-10-16T01:42:26.287107+06:00",
+      "etag": "W/\"2bbf1bfa77f102572f5c76d616b2bfe3\"",
+      "last_modified": "Thu, 15 Oct 2026 20:00:00 GMT",
+      "last_checked": "2026-10-16T11:28:19.078389+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -10274,59 +10274,158 @@
       "status": "pending",
       "first_seen": "2026-10-16T01:42:25.627630+06:00",
       "last_seen": "2026-10-16T01:42:25.627634+06:00"
+    },
+    "gematsu.com/2026/10/heavy-metal-death-can-now-available-for-ps5-xbox-series": {
+      "title": "Heavy Metal Death Can now available for PS5, Xbox Series",
+      "url": "https://www.gematsu.com/2026/10/heavy-metal-death-can-now-available-for-ps5-xbox-series",
+      "canonical": "gematsu.com/2026/10/heavy-metal-death-can-now-available-for-ps5-xbox-series",
+      "published_dt": "2026-10-16T10:05:50+06:00",
+      "published_date": "2026-10-16T10:05:50+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Survival horror game Heavy Metal Death Can is now available for PlayStation 5 and Xbox …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-16T11:28:12.613867+06:00",
+      "last_seen": "2026-10-16T11:28:12.613873+06:00",
+      "posted_at": "2026-10-16T11:40:07.953222+06:00"
+    },
+    "gematsu.com/2026/10/eternal-anima-interview-with-producer-makoto-shioda-and-development-director-katsuhisa-higuchi-future-sight-battles-time-travel-and-more": {
+      "title": "Eternal Anima interview with producer Makoto Shioda and development director Katsuhisa Higuchi – Future Sight Battles, time travel, and more",
+      "url": "https://www.gematsu.com/2026/10/eternal-anima-interview-with-producer-makoto-shioda-and-development-director-katsuhisa-higuchi-future-sight-battles-time-travel-and-more",
+      "canonical": "gematsu.com/2026/10/eternal-anima-interview-with-producer-makoto-shioda-and-development-director-katsuhisa-higuchi-future-sight-battles-time-travel-and-more",
+      "published_dt": "2026-10-16T10:01:34+06:00",
+      "published_date": "2026-10-16T10:01:34+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Gematsu recently sat down with Eternal Anima producer Makoto Shioda and development director Katsuhisa Higuchi …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T11:28:12.614061+06:00",
+      "last_seen": "2026-10-16T11:28:12.614066+06:00"
+    },
+    "gematsu.com/2026/10/eternal-anima-hands-on-gameplay-preview": {
+      "title": "Eternal Anima hands-on gameplay preview",
+      "url": "https://www.gematsu.com/2026/10/eternal-anima-hands-on-gameplay-preview",
+      "canonical": "gematsu.com/2026/10/eternal-anima-hands-on-gameplay-preview",
+      "published_dt": "2026-10-16T10:00:41+06:00",
+      "published_date": "2026-10-16T10:00:41+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Recently, I visited Marvelous at its Shinagawa headquarters for a one-hour preview of its upcoming …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T11:28:12.614218+06:00",
+      "last_seen": "2026-10-16T11:28:12.614223+06:00"
+    },
+    "gematsu.com/2026/10/brave-dungeon-dark-witchs-story-combat-coming-to-ps5-on-october-24": {
+      "title": "Brave Dungeon + Dark Witch’s Story: COMBAT coming to PS5 on October 24",
+      "url": "https://www.gematsu.com/2026/10/brave-dungeon-dark-witchs-story-combat-coming-to-ps5-on-october-24",
+      "canonical": "gematsu.com/2026/10/brave-dungeon-dark-witchs-story-combat-coming-to-ps5-on-october-24",
+      "published_dt": "2026-10-16T09:20:21+06:00",
+      "published_date": "2026-10-16T09:20:21+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Inside System will release dungeon RPG collection Brave Dungeon + Dark Witch’s Story: COMBAT for …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-16T11:28:12.614389+06:00",
+      "last_seen": "2026-10-16T11:28:12.614394+06:00",
+      "posted_at": "2026-10-16T11:39:57.015061+06:00"
+    },
+    "gematsu.com/2026/10/dementium-ii-coming-to-steam-on-october-20": {
+      "title": "Dementium II coming to Steam on October 20",
+      "url": "https://www.gematsu.com/2026/10/dementium-ii-coming-to-steam-on-october-20",
+      "canonical": "gematsu.com/2026/10/dementium-ii-coming-to-steam-on-october-20",
+      "published_dt": "2026-10-16T09:01:42+06:00",
+      "published_date": "2026-10-16T09:01:42+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Atooi will release horror first-person shooter sequel Dementium II for PC via Steam on October …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-16T11:28:12.614562+06:00",
+      "last_seen": "2026-10-16T11:28:12.614567+06:00",
+      "posted_at": "2026-10-16T11:40:02.571843+06:00"
+    },
+    "polygon.com/best-far-side-quote-ever": {
+      "title": "34 Years Later, the Best-Ever 'Far Side' Quote Will Still Leave You Speechless",
+      "url": "https://www.polygon.com/best-far-side-quote-ever/",
+      "canonical": "polygon.com/best-far-side-quote-ever",
+      "published_dt": "2026-10-16T10:00:23+06:00",
+      "published_date": "2026-10-16T10:00:23+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Gary Larson's comic strip The Far Side was known for its visual humor, but this is the best-ever quote from the series",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/screen-shot-2026-10-15-at-1-27-56-pm.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T11:28:14.396123+06:00",
+      "last_seen": "2026-10-16T11:28:14.396129+06:00"
+    },
+    "nintendolife.com/previews/eternal-anima-returns-to-the-past-to-create-a-modern-jrpg": {
+      "title": "Preview: 'Eternal Anima' Returns To The Past To Create A Modern JRPG",
+      "url": "https://www.nintendolife.com/previews/eternal-anima-returns-to-the-past-to-create-a-modern-jrpg",
+      "canonical": "nintendolife.com/previews/eternal-anima-returns-to-the-past-to-create-a-modern-jrpg",
+      "published_dt": "2026-10-16T10:00:00+06:00",
+      "published_date": "2026-10-16T10:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Back to the future. Originally revealed in 2023 as a working title named Project Life is RPG, Marvelous didn't show too much of their new IP, but said they were creating a game that pays respect to the classics of the genre, along with some gorgeous concept art. Jump forward to this year, and Eternal Anima was officially unveiled in September's Nintendo Direct. A bunch of game industry veterans are working on this title, such as Katsuhisa Higuchi ( Final Fantasy , Chrono Trigger , Chrono Cross , Xenogears ), Kazushige Nojima ( Final Fantasy , Kingdom Hearts ), and Keisuke Makino ( Metaphor: ReFantazio , Persona 5 ), to name a few. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/efc77a76ac4c6/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-16T11:28:16.915784+06:00",
+      "last_seen": "2026-10-16T11:28:16.915790+06:00"
+    },
+    "nintendolife.com/news/2026/10/zelda-ocarina-of-time-switch-2-replica-n64-box-revealed": {
+      "title": "Zelda: Ocarina Of Time Switch 2 \"Replica N64 Box\" Revealed",
+      "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-switch-2-replica-n64-box-revealed",
+      "canonical": "nintendolife.com/news/2026/10/zelda-ocarina-of-time-switch-2-replica-n64-box-revealed",
+      "published_dt": "2026-10-16T09:55:00+06:00",
+      "published_date": "2026-10-16T09:55:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "A bonus available in France. As we get closer to Zelda: Ocarina of Time 's return, more retailers around the world are announcing midnight launches and special bonuses. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/fa9beb913faba/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-16T11:28:16.916111+06:00",
+      "last_seen": "2026-10-16T11:28:16.916116+06:00",
+      "posted_at": "2026-10-16T11:40:21.251254+06:00"
+    },
+    "nintendolife.com/news/2026/10/nintendo-announces-switch-2-repair-price-hike-for-japan": {
+      "title": "Nintendo Announces Switch 2 Repair Price Hike For Japan",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-switch-2-repair-price-hike-for-japan",
+      "canonical": "nintendolife.com/news/2026/10/nintendo-announces-switch-2-repair-price-hike-for-japan",
+      "published_dt": "2026-10-16T08:55:00+06:00",
+      "published_date": "2026-10-16T08:55:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Effective as of 16th November 2026. Switch 2 and Switch have already been hit with global price hikes in 2026 , and now, Nintendo has announced it will increase the cost of hardware repairs in Japan. According to an official notice on Nintendo's Japanese website , the price revision (which will be applied to both the Switch 2 and Switch) will take effect next month on 16th November 2026 . Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/b38cfa4eab1f3/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-16T11:28:16.916530+06:00",
+      "last_seen": "2026-10-16T11:28:16.916535+06:00",
+      "posted_at": "2026-10-16T11:40:13.520586+06:00"
     }
   },
   "events": {
-    "evt_2e122773cc8ae5": {
-      "event_id": "evt_2e122773cc8ae5",
-      "event_key": "roblox developers standalone app release",
-      "event_subject": "Roblox",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "roblox developers standalone app release",
-        "subject": "Roblox",
-        "event_type": "other",
-        "action": "allow",
-        "status": "announced",
-        "modality": "confirmed",
-        "game": "",
-        "franchise": "",
-        "institution": "Roblox Corporation",
-        "target": "developer distribution",
-        "platforms": [],
-        "topic": "platform policy"
-      },
-      "sources": [
-        "Game Developer"
-      ],
-      "event_sources": [
-        "Game Developer"
-      ],
-      "claims": [
-        "Developers will be able to release games as standalone apps on other stores"
-      ],
-      "importance_score": 46,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Roblox Lets Developers Publish Standalone Games on Steam, App Store, and Google Play",
-      "summary": "Roblox will enable creators of titles like Steal an Egg and Welcome to Bloxburg to release standalone apps on major stores, extending the platform’s reach.",
-      "published_at": "2026-09-16T01:52:45+06:00",
-      "selected_at": "2026-09-15T20:14:06.437596+00:00",
-      "status": "published",
-      "message_id": 284,
-      "published_versions": [
-        {
-          "published_at": "2026-09-15T20:14:06.437596+00:00",
-          "headline": "Roblox Lets Developers Publish Standalone Games on Steam, App Store, and Google Play",
-          "claims": [
-            "Developers will be able to release games as standalone apps on other stores"
-          ]
-        }
-      ]
-    },
     "evt_4d2d2a30a0cf0c": {
       "event_id": "evt_4d2d2a30a0cf0c",
       "event_key": "armedfantasia wildarms successor cancellation",
@@ -21104,6 +21203,247 @@
           "claims": [
             "Power To The Players Act would end digital licenses"
           ]
+        }
+      ]
+    },
+    "evt_4f003866a983c1": {
+      "event_id": "evt_4f003866a983c1",
+      "event_key": "brave dungeon dark witch s story combat release ps5",
+      "event_subject": "Brave Dungeon + Dark Witch’s Story: COMBAT",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "brave dungeon dark witch s story combat release ps5",
+        "subject": "Brave Dungeon + Dark Witch’s Story: COMBAT",
+        "event_type": "release",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Brave Dungeon + Dark Witch’s Story: COMBAT",
+        "franchise": "Brave Dungeon + Dark Witch’s Story: COMBAT",
+        "institution": "Inside System",
+        "target": "",
+        "platforms": [
+          "PlayStation 5"
+        ],
+        "topic": "release"
+      },
+      "sources": [
+        "Gematsu"
+      ],
+      "event_sources": [
+        "Gematsu"
+      ],
+      "claims": [],
+      "importance_score": 39,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 5,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Inside System Brings Brave Dungeon + Dark Witch’s Story: COMBAT to PS5 on Oct 24",
+      "summary": "The indie studio Inside System releases the dungeon‑RPG bundle Brave Dungeon + Dark Witch’s Story: COMBAT for PlayStation 5 on October 24, now wishlisting on the PlayStation Store.",
+      "published_at": "2026-10-16T09:20:21+06:00",
+      "selected_at": "2026-10-16T05:39:57.015094+00:00",
+      "status": "published",
+      "message_id": 729,
+      "published_versions": [
+        {
+          "published_at": "2026-10-16T05:39:57.015094+00:00",
+          "headline": "Inside System Brings Brave Dungeon + Dark Witch’s Story: COMBAT to PS5 on Oct 24",
+          "claims": []
+        }
+      ]
+    },
+    "evt_9c2a7703d3269d": {
+      "event_id": "evt_9c2a7703d3269d",
+      "event_key": "dementium ii release steam",
+      "event_subject": "Dementium II",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "dementium ii release steam",
+        "subject": "Dementium II",
+        "event_type": "release",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Dementium II",
+        "franchise": "Dementium II",
+        "institution": "Atooi",
+        "target": "",
+        "platforms": [
+          "Steam"
+        ],
+        "topic": "release"
+      },
+      "sources": [
+        "Gematsu"
+      ],
+      "event_sources": [
+        "Gematsu"
+      ],
+      "claims": [],
+      "importance_score": 39,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 5,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Dementium II Remastered Hits Steam on October 20",
+      "summary": "Atooi’s horror sequel Dementium II launches a remastered PC version via Steam on October 20, reviving the classic for modern gamers.",
+      "published_at": "2026-10-16T09:01:42+06:00",
+      "selected_at": "2026-10-16T05:40:02.571872+00:00",
+      "status": "published",
+      "message_id": 730,
+      "published_versions": [
+        {
+          "published_at": "2026-10-16T05:40:02.571872+00:00",
+          "headline": "Dementium II Remastered Hits Steam on October 20",
+          "claims": []
+        }
+      ]
+    },
+    "evt_ca02cfc1805d68": {
+      "event_id": "evt_ca02cfc1805d68",
+      "event_key": "heavy metal death can release ps5 xbox series",
+      "event_subject": "Heavy Metal Death Can",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "heavy metal death can release ps5 xbox series",
+        "subject": "Heavy Metal Death Can",
+        "event_type": "release",
+        "action": "launch",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Heavy Metal Death Can",
+        "franchise": "Heavy Metal Death Can",
+        "institution": "Heavy Metal Death Can",
+        "target": "PlayStation 5, Xbox Series X|S",
+        "platforms": [
+          "PlayStation 5",
+          "Xbox Series X|S"
+        ],
+        "topic": "release"
+      },
+      "sources": [
+        "Gematsu"
+      ],
+      "event_sources": [
+        "Gematsu"
+      ],
+      "claims": [],
+      "importance_score": 39,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 5,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Heavy Metal Death Can launches on PlayStation 5 and Xbox Series at $17.49",
+      "summary": "Survival horror title Heavy Metal Death Can arrives on PlayStation 5 and Xbox Series, expanding beyond its original PC release with a $17.49 price tag.",
+      "published_at": "2026-10-16T10:05:50+06:00",
+      "selected_at": "2026-10-16T05:40:07.953252+00:00",
+      "status": "published",
+      "message_id": 731,
+      "published_versions": [
+        {
+          "published_at": "2026-10-16T05:40:07.953252+00:00",
+          "headline": "Heavy Metal Death Can launches on PlayStation 5 and Xbox Series at $17.49",
+          "claims": []
+        }
+      ]
+    },
+    "evt_c6e837d00f0b73": {
+      "event_id": "evt_c6e837d00f0b73",
+      "event_key": "nintendo switch 2 repair price hike japan",
+      "event_subject": "Switch 2 repair price hike",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo switch 2 repair price hike japan",
+        "subject": "Switch 2 repair price hike",
+        "event_type": "other",
+        "action": "increase",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Nintendo",
+        "target": "Japan",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "repair cost"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [],
+      "importance_score": 37,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 7,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Nintendo Raises Switch 2 Repair Costs Ahead of November Launch",
+      "summary": "Nintendo announced a repair price increase for Switch 2 and original Switch in Japan, effective 16 November 2026, affecting CPU board and LCD repairs.",
+      "published_at": "2026-10-16T08:55:00+06:00",
+      "selected_at": "2026-10-16T05:40:13.520612+00:00",
+      "status": "published",
+      "message_id": 732,
+      "published_versions": [
+        {
+          "published_at": "2026-10-16T05:40:13.520612+00:00",
+          "headline": "Nintendo Raises Switch 2 Repair Costs Ahead of November Launch",
+          "claims": []
+        }
+      ]
+    },
+    "evt_675e0148fd03b2": {
+      "event_id": "evt_675e0148fd03b2",
+      "event_key": "zelda ocarina of time switch 2 replica box reveal",
+      "event_subject": "Zelda: Ocarina of Time Switch 2",
+      "event_type": "reveal",
+      "event_frame": {
+        "event_key": "zelda ocarina of time switch 2 replica box reveal",
+        "subject": "Zelda: Ocarina of Time Switch 2",
+        "event_type": "reveal",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Zelda: Ocarina of Time",
+        "franchise": "Zelda",
+        "institution": "Nintendo",
+        "target": "French bonus",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "merchandise"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [],
+      "importance_score": 33,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 3,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Micromania Offers Replica Nintendo 64 Box With Zelda: Ocarina of Time Switch 2 Pre‑Orders",
+      "summary": "Fans can snag a limited‑edition Nintendo 64 box replica by pre‑ordering The Legend of Zelda: Ocarina of Time Switch 2 at Micromania’s midnight launch on November 4‑5 in France.",
+      "published_at": "2026-10-16T09:55:00+06:00",
+      "selected_at": "2026-10-16T05:40:21.251282+00:00",
+      "status": "published",
+      "message_id": 733,
+      "published_versions": [
+        {
+          "published_at": "2026-10-16T05:40:21.251282+00:00",
+          "headline": "Micromania Offers Replica Nintendo 64 Box With Zelda: Ocarina of Time Switch 2 Pre‑Orders",
+          "claims": []
         }
       ]
     }
@@ -123353,6 +123693,291 @@
         "total": 30
       },
       "last_seen": "2026-10-16T01:47:22.838450+06:00"
+    },
+    "evt_b2b5c4b805fddc": {
+      "event_id": "evt_b2b5c4b805fddc",
+      "event_key": "eternal anima interview producer",
+      "event_subject": "Eternal Anima",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "eternal anima interview producer",
+        "subject": "Eternal Anima",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Eternal Anima",
+        "franchise": "Eternal Anima",
+        "institution": "Marvelous",
+        "target": "Makoto Shioda, Katsuhisa Higuchi",
+        "platforms": [],
+        "topic": "development"
+      },
+      "modality": "unknown",
+      "topic": "development",
+      "institution": "Marvelous",
+      "sources": [
+        "Gematsu",
+        "Nintendo Life"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 44
+      },
+      "last_seen": "2026-10-16T11:30:25.904832+06:00"
+    },
+    "evt_c6e837d00f0b73": {
+      "event_id": "evt_c6e837d00f0b73",
+      "event_key": "nintendo switch 2 repair price hike japan",
+      "event_subject": "Switch 2 repair price hike",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo switch 2 repair price hike japan",
+        "subject": "Switch 2 repair price hike",
+        "event_type": "other",
+        "action": "increase",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Nintendo",
+        "target": "Japan",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "repair cost"
+      },
+      "modality": "unknown",
+      "topic": "repair cost",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 37
+      },
+      "last_seen": "2026-10-16T11:30:25.904852+06:00"
+    },
+    "evt_4f003866a983c1": {
+      "event_id": "evt_4f003866a983c1",
+      "event_key": "brave dungeon dark witch s story combat release ps5",
+      "event_subject": "Brave Dungeon + Dark Witch’s Story: COMBAT",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "brave dungeon dark witch s story combat release ps5",
+        "subject": "Brave Dungeon + Dark Witch’s Story: COMBAT",
+        "event_type": "release",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Brave Dungeon + Dark Witch’s Story: COMBAT",
+        "franchise": "Brave Dungeon + Dark Witch’s Story: COMBAT",
+        "institution": "Inside System",
+        "target": "",
+        "platforms": [
+          "PlayStation 5"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "Inside System",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-10-16T11:30:25.904861+06:00"
+    },
+    "evt_9c2a7703d3269d": {
+      "event_id": "evt_9c2a7703d3269d",
+      "event_key": "dementium ii release steam",
+      "event_subject": "Dementium II",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "dementium ii release steam",
+        "subject": "Dementium II",
+        "event_type": "release",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Dementium II",
+        "franchise": "Dementium II",
+        "institution": "Atooi",
+        "target": "",
+        "platforms": [
+          "Steam"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "Atooi",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-10-16T11:30:25.904868+06:00"
+    },
+    "evt_ca02cfc1805d68": {
+      "event_id": "evt_ca02cfc1805d68",
+      "event_key": "heavy metal death can release ps5 xbox series",
+      "event_subject": "Heavy Metal Death Can",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "heavy metal death can release ps5 xbox series",
+        "subject": "Heavy Metal Death Can",
+        "event_type": "release",
+        "action": "launch",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Heavy Metal Death Can",
+        "franchise": "Heavy Metal Death Can",
+        "institution": "Heavy Metal Death Can",
+        "target": "PlayStation 5, Xbox Series X|S",
+        "platforms": [
+          "PlayStation 5",
+          "Xbox Series X|S"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "Heavy Metal Death Can",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-10-16T11:30:25.904875+06:00"
+    },
+    "evt_675e0148fd03b2": {
+      "event_id": "evt_675e0148fd03b2",
+      "event_key": "zelda ocarina of time switch 2 replica box reveal",
+      "event_subject": "Zelda: Ocarina of Time Switch 2",
+      "event_type": "reveal",
+      "event_frame": {
+        "event_key": "zelda ocarina of time switch 2 replica box reveal",
+        "subject": "Zelda: Ocarina of Time Switch 2",
+        "event_type": "reveal",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Zelda: Ocarina of Time",
+        "franchise": "Zelda",
+        "institution": "Nintendo",
+        "target": "French bonus",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "merchandise"
+      },
+      "modality": "unknown",
+      "topic": "merchandise",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-16T11:30:25.904883+06:00"
+    },
+    "evt_e5b2a47c27776d": {
+      "event_id": "evt_e5b2a47c27776d",
+      "event_key": "far side quote commentary",
+      "event_subject": "Far Side quote",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "far side quote commentary",
+        "subject": "Far Side quote",
+        "event_type": "other",
+        "action": "highlight",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "Gary Larson",
+        "platforms": [],
+        "topic": "culture"
+      },
+      "modality": "unknown",
+      "topic": "culture",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-16T11:30:25.904891+06:00"
     }
   },
   "posted_event_ids": [
@@ -123691,7 +124316,12 @@
     "evt_b29391cd4d7f2c",
     "evt_0572e1ca17efe3",
     "evt_593c07059b3020",
-    "evt_61d7e5f819424a"
+    "evt_61d7e5f819424a",
+    "evt_4f003866a983c1",
+    "evt_9c2a7703d3269d",
+    "evt_ca02cfc1805d68",
+    "evt_c6e837d00f0b73",
+    "evt_675e0148fd03b2"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -124029,11 +124659,16 @@
     "supermarket simulator launches on ps5 this november with physical edition in december",
     "kingdom hearts collection tops japanese physical chart with 23 411 units sold",
     "blizzard begins cinematic shoot for diablo 5 aiming spring 2029 release",
-    "congressman ritchie torres pushes power to the players law to secure game ownership"
+    "congressman ritchie torres pushes power to the players law to secure game ownership",
+    "inside system brings brave dungeon dark witch s story combat to ps5 on oct 24",
+    "dementium ii remastered hits steam on october 20",
+    "heavy metal death can launches on playstation 5 and xbox series at 17 49",
+    "nintendo raises switch 2 repair costs ahead of november launch",
+    "micromania offers replica nintendo 64 box with zelda ocarina of time switch 2 pre orders"
   ],
   "category_coverage": {
-    "Game Updates": "2026-10-16T01:49:33.360447+06:00",
-    "Major Releases": "2026-10-15T21:53:23.387637+06:00",
+    "Game Updates": "2026-10-16T11:40:21.251305+06:00",
+    "Major Releases": "2026-10-16T11:40:07.953277+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-09-09T16:54:37.453168+06:00",
     "Nintendo": "2026-09-09T21:29:41.864902+06:00",
