@@ -2,272 +2,143 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1e7cb-LxWakqfCQUYYJqKfZKFgt4uwHnU\"",
+      "etag": "W/\"1e7b1-UmxhdinfEoH0A5g0B51ViOPlx6w\"",
       "last_modified": null,
-      "last_checked": "2026-10-17T11:19:47.821403+06:00",
+      "last_checked": "2026-10-17T16:11:23.793408+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-17T11:19:48.081217+06:00",
+      "last_checked": "2026-10-17T16:11:24.000971+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ad30474-b85\"",
-      "last_modified": "Sat, 17 Oct 2026 05:15:32 GMT",
-      "last_checked": "2026-10-17T11:19:48.468362+06:00",
+      "etag": "\"6ad34999-b86\"",
+      "last_modified": "Sat, 17 Oct 2026 10:10:33 GMT",
+      "last_checked": "2026-10-17T16:11:24.467097+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Fri, 16 Oct 2026 17:11:28 GMT",
-      "last_checked": "2026-10-17T11:19:48.746608+06:00",
+      "last_modified": "Sat, 17 Oct 2026 09:00:00 GMT",
+      "last_checked": "2026-10-17T16:11:24.719359+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6ad2ed5d-128d\"",
-      "last_modified": "Sat, 17 Oct 2026 03:37:01 GMT",
-      "last_checked": "2026-10-17T11:19:48.978384+06:00",
+      "etag": "\"01e76d9fc5f9e274360e453e7b081857\"",
+      "last_modified": "Sat, 17 Oct 2026 09:37:24 GMT",
+      "last_checked": "2026-10-17T16:11:25.026903+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-17T11:19:49.355322+06:00",
+      "last_checked": "2026-10-17T16:11:25.208135+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-17T11:19:50.453569+06:00",
+      "last_checked": "2026-10-17T16:11:26.468260+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"6ad5b7afee0fdcff4077464e712924ee\"",
-      "last_modified": "Fri, 16 Oct 2026 21:30:28 GMT",
-      "last_checked": "2026-10-17T11:19:50.710642+06:00",
+      "etag": "W/\"638c32bcc6fedb7ec2113f050628d4a8\"",
+      "last_modified": "Sat, 17 Oct 2026 08:00:08 GMT",
+      "last_checked": "2026-10-17T16:11:26.658047+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-17T11:19:50.863193+06:00",
+      "last_checked": "2026-10-17T16:11:26.804138+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Fri, 16 Oct 2026 18:05:01 GMT",
-      "last_checked": "2026-10-17T11:19:51.247745+06:00",
+      "last_modified": "Sat, 17 Oct 2026 08:32:03 GMT",
+      "last_checked": "2026-10-17T16:11:27.262522+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sat, 17 Oct 2026 05:19:51 GMT",
-      "last_checked": "2026-10-17T11:19:51.851392+06:00",
+      "last_modified": "Sat, 17 Oct 2026 10:11:27 GMT",
+      "last_checked": "2026-10-17T16:11:27.681541+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"583faffa00d05bec59b1c9451b03b99e\"",
-      "last_modified": "Sat, 17 Oct 2026 00:14:29 GMT",
-      "last_checked": "2026-10-17T11:19:52.028370+06:00",
+      "etag": "W/\"19f3107c3745cb19dcf2a9749fc2471d\"",
+      "last_modified": "Sat, 17 Oct 2026 07:43:53 GMT",
+      "last_checked": "2026-10-17T16:11:27.828915+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-17T11:19:52.468034+06:00",
+      "last_checked": "2026-10-17T16:11:28.104040+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-17T11:19:52.946336+06:00",
+      "last_checked": "2026-10-17T16:11:28.397341+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-17T11:19:53.409061+06:00",
+      "last_checked": "2026-10-17T16:11:28.759618+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-17T11:19:53.682810+06:00",
-      "fail_count": 88,
+      "last_checked": "2026-10-17T16:11:28.906186+06:00",
+      "fail_count": 89,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"c4a127ea399f17600550c9fcaadc5129\"",
       "last_modified": "Fri, 16 Oct 2026 18:39:09 GMT",
-      "last_checked": "2026-10-17T11:19:53.825292+06:00",
+      "last_checked": "2026-10-17T16:11:29.017635+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-17T11:19:54.074989+06:00",
+      "last_checked": "2026-10-17T16:11:29.183053+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-17T11:19:54.250807+06:00",
-      "fail_count": 88,
+      "last_checked": "2026-10-17T16:11:29.316317+06:00",
+      "fail_count": 89,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"ad68417caccb2d5a9359f79af27cfb86\"",
       "last_modified": "Fri, 16 Oct 2026 20:00:00 GMT",
-      "last_checked": "2026-10-17T11:19:55.070408+06:00",
+      "last_checked": "2026-10-17T16:11:29.429468+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "gamespot.com/reviews/castlevania-belmonts-curse-is-the-series-at-its-best": {
-      "title": "Castlevania: Belmont’s Curse Is The Series At Its Best",
-      "url": "https://www.gamespot.com/reviews/castlevania-belmonts-curse-is-the-series-at-its-best/",
-      "canonical": "gamespot.com/reviews/castlevania-belmonts-curse-is-the-series-at-its-best",
-      "published_dt": "2026-10-13T13:01:00+06:00",
-      "published_date": "2026-10-13T13:01:00+06:00",
-      "source": "GameSpot",
-      "region": "Gaming",
-      "excerpt": "When playing Castlevania: Belmont's Curse, I couldn't stop thinking about Symphony of the Night. Almost 30 years ago, that game reinvented Castlevania as a search-action game, and did it so brilliantly that it earned half of the \"metroidvania\" portmanteau. Belmont's Curse does not attempt such a dramatic shift. It doesn't change genres or reinvent the series as something entirely new. What it does, however, is achieve a brilliant synthesis, with every component operating at peak performance to deliver a new high for the series. Castlevania is back, and it is fantastic. Put simply, Belmont's Curse is the total package. A sprawling map bursting with mysteries to uncover, joyous traversal tools that make roaming the map feel great, a story that balances a macabre tone with occasional lightness, a cast of creative and well-drawn characters, and hands-down the best combat of any Castlevania game--in fact, among the best combat of any 2D action game, period. What makes all of these synergize so well is the addition of the tarot cards, which serve as an elegant way to fuse the game's disparate elements, and makes them all feel like part of one cohesive whole. At different points your tarot deck serves as mission signposting, environmental puzzles, pieces of story lore, characters to serve as dialogue for Rose, boss locations, and ultimately, your pool of spells. You play as Rose Belmont, daughter of Trevor Belmont, who has trained her whole life as the successor of the Belmont clan. Though silver-maned Trevor is still a capable fighter, Rose volunteers to investigate the otherworldly happenings in Paris, France, eager to prove herself worthy of the family name. But Rose is also afflicted with a cursed red mark on one arm, making her dangerously instrumental to the machinations of Dracula and his armies. The tarot deck is a set of magical cards gifted to Rose by her late mother, Sypha, who passed on the curse to her at birth. Each card represents a follower of Dracula, with",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/ss_6b415b89be320eac7232603e4edaab7b714fab30.1920x1080.jpg?w=300",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-13T13:23:04.496951+06:00",
-      "last_seen": "2026-10-13T13:23:04.496971+06:00"
-    },
-    "gamespot.com/videos/castlevania-belmonts-curse-is-the-series-at-its-best-review": {
-      "title": "Castlevania: Belmont’s Curse Is The Series At Its Best | Review",
-      "url": "https://www.gamespot.com/videos/castlevania-belmonts-curse-is-the-series-at-its-best-review/",
-      "canonical": "gamespot.com/videos/castlevania-belmonts-curse-is-the-series-at-its-best-review",
-      "published_dt": "2026-10-13T13:01:00+06:00",
-      "published_date": "2026-10-13T13:01:00+06:00",
-      "source": "GameSpot",
-      "region": "Gaming",
-      "excerpt": "Castlevania: Belmont's Curse is a new beginning for one of gaming's oldest franchises.",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Review_CastlevaniaBelmontsCurse_SITE.jpg?w=300",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-13T13:23:04.497197+06:00",
-      "last_seen": "2026-10-13T13:23:04.497200+06:00"
-    },
-    "videogameschronicle.com/review/castlevania-belmonts-curse-review": {
-      "title": "Castlevania Belmont’s Curse review: The first new 2D entry in 13 years looks incredible but lacks teeth",
-      "url": "https://www.videogameschronicle.com/review/castlevania-belmonts-curse-review/",
-      "canonical": "videogameschronicle.com/review/castlevania-belmonts-curse-review",
-      "published_dt": "2026-10-13T13:00:31+06:00",
-      "published_date": "2026-10-13T13:00:31+06:00",
-      "source": "VGC",
-      "region": "Gaming",
-      "excerpt": "Konami's iconic series makes a welcome return, but the bar has been raised during its absence",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-13T13:23:04.763048+06:00",
-      "last_seen": "2026-10-13T13:23:04.763052+06:00"
-    },
-    "polygon.com/castlevania-belmonts-curse-review": {
-      "title": "Castlevania: Belmont’s Curse Is a Near-Perfect Metroidvania",
-      "url": "https://www.polygon.com/castlevania-belmonts-curse-review/",
-      "canonical": "polygon.com/castlevania-belmonts-curse-review",
-      "published_dt": "2026-10-13T13:01:16+06:00",
-      "published_date": "2026-10-13T13:01:16+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "'Castlevania: Belmont's Curse' lives up to this series' lofty legacy with outstanding platforming, world design, and ambiance.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/castlevania-belmonts-curse-screenshot-3.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-13T13:23:06.438286+06:00",
-      "last_seen": "2026-10-13T13:23:06.438291+06:00"
-    },
-    "gamesradar.com/games/action-rpg/castlevania-belmonts-curse-review": {
-      "title": "Castlevania: Belmont's Curse review: \"Gothic brilliance and compellingly cryptic clues mark a triumphant return\"",
-      "url": "https://www.gamesradar.com/games/action-rpg/castlevania-belmonts-curse-review/",
-      "canonical": "gamesradar.com/games/action-rpg/castlevania-belmonts-curse-review",
-      "published_dt": "2026-10-13T13:00:00+06:00",
-      "published_date": "2026-10-13T13:00:00+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "Castlevania is back, trading its usual stone-carved ruins for the burning streets of 15th century Paris",
-      "image": "https://cdn.mos.cms.futurecdn.net/pYf9uZc9pKBubfJPuD5oSW-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-13T13:23:07.109409+06:00",
-      "last_seen": "2026-10-13T13:23:07.109415+06:00"
-    },
-    "nintendolife.com/news/2026/10/psa-metaphor-refantazio-demo-for-switch-2-now-available": {
-      "title": "PSA: Metaphor: ReFantazio Demo For Switch 2 Now Available",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-metaphor-refantazio-demo-for-switch-2-now-available",
-      "canonical": "nintendolife.com/news/2026/10/psa-metaphor-refantazio-demo-for-switch-2-now-available",
-      "published_dt": "2026-10-13T10:55:00+06:00",
-      "published_date": "2026-10-13T10:55:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Save data carries across. Ahead of Metaphor: ReFantazio arriving on the Switch 2 next month, Atlus has now released a demo on the eShop. This \"prologue\" demo and will allow you to experience the opening section of the title. Additionally, any save data you have can be transferred across to the full game when it launches for Switch 2 on 12th November 2026 . Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/3ab4386219d2f/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-10-13T13:23:09.075256+06:00",
-      "last_seen": "2026-10-13T13:23:09.075262+06:00",
-      "posted_at": "2026-10-13T13:26:17.550302+06:00"
-    },
-    "pushsquare.com/reviews/ps5/castlevania-belmonts-curse": {
-      "title": "Review: Castlevania: Belmont's Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania",
-      "url": "https://www.pushsquare.com/reviews/ps5/castlevania-belmonts-curse",
-      "canonical": "pushsquare.com/reviews/ps5/castlevania-belmonts-curse",
-      "published_dt": "2026-10-13T13:00:00+06:00",
-      "published_date": "2026-10-13T13:00:00+06:00",
-      "source": "Push Square",
-      "region": "Gaming",
-      "excerpt": "Rose's arm's red, violence ensues. Like Dracula himself, Konami has risen from a lengthy slumber and has spent the last few years reviving its most popular series, like Metal Gear Solid and Silent Hill . Now, it's Castlevania's turn. Castlevania: Belmont's Curse , developed by Evil Empire, is the first new 2D game in the historic franchise since 2008's Order of Ecclesia . Read the full article on pushsquare.com",
-      "image": "https://images.pushsquare.com/6306539efc754/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-13T13:23:09.625191+06:00",
-      "last_seen": "2026-10-13T13:23:09.625197+06:00"
-    },
-    "siliconera.com/review-castlevania-belmonts-curse-is-an-uneven-return": {
-      "title": "Review: Castlevania: Belmont’s Curse Is an Uneven Return",
-      "url": "https://www.siliconera.com/review-castlevania-belmonts-curse-is-an-uneven-return/",
-      "canonical": "siliconera.com/review-castlevania-belmonts-curse-is-an-uneven-return",
-      "published_dt": "2026-10-13T13:01:00+06:00",
-      "published_date": "2026-10-13T13:01:00+06:00",
-      "source": "Siliconera",
-      "region": "Gaming",
-      "excerpt": "Castlevania: Belmont's Curse does the job of bringing back the series well enough, but it struggles to reach its full potential due to a combination of some odd design decisions and technical issues.",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-13T13:23:10.464420+06:00",
-      "last_seen": "2026-10-13T13:23:10.464426+06:00"
-    },
     "ign.com/articles/nvidia-rtx-5090-reportedly-dead-but-its-so-expensive-that-it-doesnt-really-matter": {
       "title": "Nvidia RTX 5090 Reportedly Dead, but It's So Expensive That It Doesn't Really Matter",
       "url": "https://www.ign.com/articles/nvidia-rtx-5090-reportedly-dead-but-its-so-expensive-that-it-doesnt-really-matter",
@@ -11787,6 +11658,150 @@
       "status": "pending",
       "first_seen": "2026-10-17T11:19:52.482149+06:00",
       "last_seen": "2026-10-17T11:19:52.482154+06:00"
+    },
+    "eurogamer.net/over-the-hill-now-playing": {
+      "title": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow",
+      "url": "https://www.eurogamer.net/over-the-hill-now-playing",
+      "canonical": "eurogamer.net/over-the-hill-now-playing",
+      "published_dt": "2026-10-17T15:00:00+06:00",
+      "published_date": "2026-10-17T15:00:00+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "I'd nearly forgotten Over the Hill's predecessor, Art of Rally , was a racing game. But that's not meant as a slight. It's just that, for all the happy hours I poured into it, I don't recall doing a single race. Instead, it was the aimless meandering, the soothing rhythms of exploration and absent-minded collectible hunting in its free-roam mode that held me transfixed. So the fact Over the Hill completely jettisons the racing stuff and leans entirely into the meditative bit - it even starts with a golden Buddha statue running you through the basics, which probably tells you everything you need to know - is exactly my kind of thing. Read more",
+      "image": "https://assetsio.gnwcdn.com/over-the-hill-37.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-17T16:11:24.826875+06:00",
+      "last_seen": "2026-10-17T16:11:24.826881+06:00"
+    },
+    "polygon.com/horror-anthology-creepypasta-halloween-countdown": {
+      "title": "Stephen King Meets 'The Backrooms' in Syfy's Underrated 6-Part Anthology Series",
+      "url": "https://www.polygon.com/horror-anthology-creepypasta-halloween-countdown/",
+      "canonical": "polygon.com/horror-anthology-creepypasta-halloween-countdown",
+      "published_dt": "2026-10-17T16:00:18+06:00",
+      "published_date": "2026-10-17T16:00:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "A creepy contortionist clown isn't the only monster in this strange story.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/image-w1280-2.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-17T16:11:26.477659+06:00",
+      "last_seen": "2026-10-17T16:11:26.477664+06:00"
+    },
+    "polygon.com/garfield-alone": {
+      "title": "37 Years Ago, 'Garfield' Suddenly Changed Genres With a Mind-Blowing Comic Strip",
+      "url": "https://www.polygon.com/garfield-alone/",
+      "canonical": "polygon.com/garfield-alone",
+      "published_dt": "2026-10-17T15:00:18+06:00",
+      "published_date": "2026-10-17T15:00:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "This Garfield Halloween special might never have actually ended",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25174329/O_f2840_0210_comp_v005_2000x1081_thumbnail.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-17T16:11:26.477814+06:00",
+      "last_seen": "2026-10-17T16:11:26.477819+06:00"
+    },
+    "polygon.com/buffy-the-vampire-slayer-season-5-episode-4-retrospective": {
+      "title": "26 Years Ago, 'Buffy the Vampire Slayer' Officially Launched Its Most Controversial Couple",
+      "url": "https://www.polygon.com/buffy-the-vampire-slayer-season-5-episode-4-retrospective/",
+      "canonical": "polygon.com/buffy-the-vampire-slayer-season-5-episode-4-retrospective",
+      "published_dt": "2026-10-17T14:00:18+06:00",
+      "published_date": "2026-10-17T14:00:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "26 years ago, Buffy aired an episode that set up season five and launched one of the series' most important dynamics",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/buffy-1.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-17T16:11:26.477959+06:00",
+      "last_seen": "2026-10-17T16:11:26.477963+06:00"
+    },
+    "gamesradar.com/tabletop-gaming/after-a-few-hours-with-the-pre-painted-warhammer-40k-terrain-im-already-convinced-its-an-essential-purchase": {
+      "title": "After a few hours with the pre-painted Warhammer 40K terrain, I'm already convinced it's an essential purchase",
+      "url": "https://www.gamesradar.com/tabletop-gaming/after-a-few-hours-with-the-pre-painted-warhammer-40k-terrain-im-already-convinced-its-an-essential-purchase/",
+      "canonical": "gamesradar.com/tabletop-gaming/after-a-few-hours-with-the-pre-painted-warhammer-40k-terrain-im-already-convinced-its-an-essential-purchase",
+      "published_dt": "2026-10-17T15:00:00+06:00",
+      "published_date": "2026-10-17T15:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "I've been hands on with the new Warhammer 40,000 Battlefields: Armageddon box set, and came away very impressed by this pre-painted terrain",
+      "image": "https://cdn.mos.cms.futurecdn.net/4QhkCrDVGigaT4HxwcyFk7-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-17T16:11:27.057007+06:00",
+      "last_seen": "2026-10-17T16:11:27.057013+06:00"
+    },
+    "gamesradar.com/tabletop-gaming/i-adore-the-new-dwarf-khazlite-holds-army-for-warhammer-age-of-sigmar-but-i-worry-about-what-they-mean-for-the-future": {
+      "title": "I adore the new dwarf Khazlite Holds army for Warhammer Age of Sigmar, but I worry about what they mean for the future",
+      "url": "https://www.gamesradar.com/tabletop-gaming/i-adore-the-new-dwarf-khazlite-holds-army-for-warhammer-age-of-sigmar-but-i-worry-about-what-they-mean-for-the-future/",
+      "canonical": "gamesradar.com/tabletop-gaming/i-adore-the-new-dwarf-khazlite-holds-army-for-warhammer-age-of-sigmar-but-i-worry-about-what-they-mean-for-the-future",
+      "published_dt": "2026-10-17T15:00:00+06:00",
+      "published_date": "2026-10-17T15:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "I'm in two minds about the newest Warhammer Age of Sigmar army; I love how the Khazalite Holds look and play, but I'm concerned we're moving toward a more traditional dwarf faction instead of the bizarre options we've enjoyed so far",
+      "image": "https://cdn.mos.cms.futurecdn.net/PfNJQ23ZcZcMkq4LW7GRWD-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-17T16:11:27.057156+06:00",
+      "last_seen": "2026-10-17T16:11:27.057160+06:00"
+    },
+    "insider-gaming.com/nyt-connections-hints-solutions-october-17-1224": {
+      "title": "NYT Connections Hints Today (#1224)—Answers for Saturday, October 17",
+      "url": "https://insider-gaming.com/nyt-connections-hints-solutions-october-17-1224/",
+      "canonical": "insider-gaming.com/nyt-connections-hints-solutions-october-17-1224",
+      "published_dt": "2026-10-17T13:43:51+06:00",
+      "published_date": "2026-10-17T13:43:51+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1224)—Answers for Saturday, October 17 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-17T16:11:27.839977+06:00",
+      "last_seen": "2026-10-17T16:11:27.839983+06:00"
+    },
+    "nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-17th-october": {
+      "title": "Talking Point: What Are You Playing This Weekend? (17th October)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-17th-october",
+      "canonical": "nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-17th-october",
+      "published_dt": "2026-10-17T15:00:00+06:00",
+      "published_date": "2026-10-17T15:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Leon's Roar. We finally made it to the weekend — well done, everyone! After the silence of last week, things started to pick up in Nintendo news this week. The big hitter was previews going live for Ocarina of Time on Switch 2, which seems to be really rather wonderful. We also got a new overview trailer and shared over 20 minutes of gameplay footage from Link's latest. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/2e615bdd68a7d/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-17T16:11:28.126827+06:00",
+      "last_seen": "2026-10-17T16:11:28.126833+06:00"
+    },
+    "nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed": {
+      "title": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
+      "url": "https://www.nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed",
+      "canonical": "nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed",
+      "published_dt": "2026-10-17T14:00:00+06:00",
+      "published_date": "2026-10-17T14:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Join the cult next week. Cult of the Lamb has continued to receive all sorts of updates since it launched on the Switch, and now developer Massive Monster has shared some massive news. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/105fa42933e8e/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-17T16:11:28.127192+06:00",
+      "last_seen": "2026-10-17T16:11:28.127197+06:00"
     }
   },
   "events": {
@@ -131852,6 +131867,375 @@
         "total": 30
       },
       "last_seen": "2026-10-17T11:20:01.865490+06:00"
+    },
+    "evt_49e22218250786": {
+      "event_id": "evt_49e22218250786",
+      "event_key": "nyt connections hints today 1224 answers for saturday october 17 other",
+      "event_subject": "NYT Connections Hints Today (#1224)—Answers for Saturday, October 17",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nyt connections hints today 1224 answers for saturday october 17 other",
+        "subject": "NYT Connections Hints Today (#1224)—Answers for Saturday, October 17",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "NYT Connections Hints Today (#1224)—Answers for Saturday, October 17",
+        "franchise": "NYT Connections Hints Today (#1224)—Answers for Saturday, October 17",
+        "institution": "",
+        "target": "NYT Connections Hints Today (#1224)—Answers for Saturday, October 17",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1224)—Answers for Saturday, October 17 appeared first on Insider Gaming ."
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-10-17T16:11:36.065029+06:00"
+    },
+    "evt_7b5af7cdbdc946": {
+      "event_id": "evt_7b5af7cdbdc946",
+      "event_key": "26 years ago buffy the vampire slayer officially launched its most controversial couple release",
+      "event_subject": "26 Years Ago, 'Buffy the Vampire Slayer' Officially Launched Its Most Controversial Couple",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "26 years ago buffy the vampire slayer officially launched its most controversial couple release",
+        "subject": "26 Years Ago, 'Buffy the Vampire Slayer' Officially Launched Its Most Controversial Couple",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "26 Years Ago, 'Buffy the Vampire Slayer' Officially Launched Its Most Controversial Couple",
+        "franchise": "26 Years Ago, 'Buffy the Vampire Slayer' Officially Launched Its Most Controversial Couple",
+        "institution": "",
+        "target": "26 Years Ago, 'Buffy the Vampire Slayer' Officially Launched Its Most Controversial Couple",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "26 years ago, Buffy aired an episode that set up season five and launched one of the series' most important dynamics"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-17T16:11:36.065045+06:00"
+    },
+    "evt_ad53129dd03f5d": {
+      "event_id": "evt_ad53129dd03f5d",
+      "event_key": "37 years ago garfield suddenly changed genres with a mind blowing comic strip other",
+      "event_subject": "37 Years Ago, 'Garfield' Suddenly Changed Genres With a Mind-Blowing Comic Strip",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "37 years ago garfield suddenly changed genres with a mind blowing comic strip other",
+        "subject": "37 Years Ago, 'Garfield' Suddenly Changed Genres With a Mind-Blowing Comic Strip",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "37 Years Ago, 'Garfield' Suddenly Changed Genres With a Mind-Blowing Comic Strip",
+        "franchise": "37 Years Ago, 'Garfield' Suddenly Changed Genres With a Mind-Blowing Comic Strip",
+        "institution": "",
+        "target": "37 Years Ago, 'Garfield' Suddenly Changed Genres With a Mind-Blowing Comic Strip",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "This Garfield Halloween special might never have actually ended"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-17T16:11:36.065053+06:00"
+    },
+    "evt_e75f355a8ddf14": {
+      "event_id": "evt_e75f355a8ddf14",
+      "event_key": "art of rally follow up over the hill s biggest success is finding a way to be a driving game that asks you to take it slow other",
+      "event_subject": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "art of rally follow up over the hill s biggest success is finding a way to be a driving game that asks you to take it slow other",
+        "subject": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow",
+        "franchise": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow",
+        "institution": "",
+        "target": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "I'd nearly forgotten Over the Hill's predecessor, Art of Rally , was a racing game. But that's not meant as a slight. It's just that, for all the happy hours I poured into it, I don't recall doing a single race. Instead, it was the aimless meandering, the soothing rhythms of exploration and absent-minded collectible hunting in its free-roam mode that held me transfixed. So the fact Over the Hill c"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-17T16:11:36.065061+06:00"
+    },
+    "evt_1f1aceba87e80e": {
+      "event_id": "evt_1f1aceba87e80e",
+      "event_key": "cult of the lamb summons a switch 2 version free upgrade path confirmed release",
+      "event_subject": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "cult of the lamb summons a switch 2 version free upgrade path confirmed release",
+        "subject": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
+        "event_type": "release",
+        "action": "release",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
+        "franchise": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
+        "institution": "",
+        "target": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Join the cult next week. Cult of the Lamb has continued to receive all sorts of updates since it launched on the Switch, and now developer Massive Monster has shared some massive news. Read the full article on nintendolife.com"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-17T16:11:36.065068+06:00"
+    },
+    "evt_acad42aa59293f": {
+      "event_id": "evt_acad42aa59293f",
+      "event_key": "stephen king meets the backrooms in syfy s underrated 6 part anthology series other",
+      "event_subject": "Stephen King Meets 'The Backrooms' in Syfy's Underrated 6-Part Anthology Series",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "stephen king meets the backrooms in syfy s underrated 6 part anthology series other",
+        "subject": "Stephen King Meets 'The Backrooms' in Syfy's Underrated 6-Part Anthology Series",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Stephen King Meets 'The Backrooms' in Syfy's Underrated 6-Part Anthology Series",
+        "franchise": "Stephen King Meets 'The Backrooms' in Syfy's Underrated 6-Part Anthology Series",
+        "institution": "",
+        "target": "Stephen King Meets 'The Backrooms' in Syfy's Underrated 6-Part Anthology Series",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "A creepy contortionist clown isn't the only monster in this strange story."
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-17T16:11:36.065074+06:00"
+    },
+    "evt_1535dc01245bbd": {
+      "event_id": "evt_1535dc01245bbd",
+      "event_key": "talking point what are you playing this weekend 17th october reveal",
+      "event_subject": "Talking Point: What Are You Playing This Weekend? (17th October)",
+      "event_type": "reveal",
+      "event_frame": {
+        "event_key": "talking point what are you playing this weekend 17th october reveal",
+        "subject": "Talking Point: What Are You Playing This Weekend? (17th October)",
+        "event_type": "reveal",
+        "action": "reveal",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "Talking Point: What Are You Playing This Weekend? (17th October)",
+        "franchise": "Talking Point: What Are You Playing This Weekend? (17th October)",
+        "institution": "",
+        "target": "Talking Point: What Are You Playing This Weekend? (17th October)",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Leon's Roar. We finally made it to the weekend — well done, everyone! After the silence of last week, things started to pick up in Nintendo news this week. The big hitter was previews going live for Ocarina of Time on Switch 2, which seems to be really rather wonderful. We also got a new overview trailer and shared over 20 minutes of gameplay footage from Link's latest. Read the full article on ni"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-10-17T16:11:36.065081+06:00"
+    },
+    "evt_867a3070c32b14": {
+      "event_id": "evt_867a3070c32b14",
+      "event_key": "after a few hours with the pre painted warhammer 40k terrain i m already convinced it s an essential purchase other",
+      "event_subject": "After a few hours with the pre-painted Warhammer 40K terrain, I'm already convinced it's an essential purchase",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "after a few hours with the pre painted warhammer 40k terrain i m already convinced it s an essential purchase other",
+        "subject": "After a few hours with the pre-painted Warhammer 40K terrain, I'm already convinced it's an essential purchase",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "After a few hours with the pre-painted Warhammer 40K terrain, I'm already convinced it's an essential purchase",
+        "franchise": "After a few hours with the pre-painted Warhammer 40K terrain, I'm already convinced it's an essential purchase",
+        "institution": "",
+        "target": "After a few hours with the pre-painted Warhammer 40K terrain, I'm already convinced it's an essential purchase",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "I've been hands on with the new Warhammer 40,000 Battlefields: Armageddon box set, and came away very impressed by this pre-painted terrain"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-17T16:11:36.065087+06:00"
+    },
+    "evt_5dd8449d7b5ba5": {
+      "event_id": "evt_5dd8449d7b5ba5",
+      "event_key": "i adore the new dwarf khazlite holds army for warhammer age of sigmar but i worry about what they mean for the future other",
+      "event_subject": "I adore the new dwarf Khazlite Holds army for Warhammer Age of Sigmar, but I worry about what they mean for the future",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "i adore the new dwarf khazlite holds army for warhammer age of sigmar but i worry about what they mean for the future other",
+        "subject": "I adore the new dwarf Khazlite Holds army for Warhammer Age of Sigmar, but I worry about what they mean for the future",
+        "event_type": "other",
+        "action": "other",
+        "status": "current",
+        "modality": "confirmed",
+        "game": "I adore the new dwarf Khazlite Holds army for Warhammer Age of Sigmar, but I worry about what they mean for the future",
+        "franchise": "I adore the new dwarf Khazlite Holds army for Warhammer Age of Sigmar, but I worry about what they mean for the future",
+        "institution": "",
+        "target": "I adore the new dwarf Khazlite Holds army for Warhammer Age of Sigmar, but I worry about what they mean for the future",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "confirmed",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "I'm in two minds about the newest Warhammer Age of Sigmar army; I love how the Khazalite Holds look and play, but I'm concerned we're moving toward a more traditional dwarf faction instead of the bizarre options we've enjoyed so far"
+      ],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 26
+      },
+      "last_seen": "2026-10-17T16:11:36.065093+06:00"
     }
   },
   "posted_event_ids": [
