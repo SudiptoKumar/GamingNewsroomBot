@@ -2,223 +2,143 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"200cb-fcITiEucxL28Ch10+2Ch0RJ0RWQ\"",
+      "etag": "W/\"1934e-e4PHlUHstXWa3i67D+AIOJiKGkM\"",
       "last_modified": null,
-      "last_checked": "2026-10-21T01:50:06.155999+06:00",
+      "last_checked": "2026-10-21T11:44:06.748818+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-21T01:50:06.512381+06:00",
+      "last_checked": "2026-10-21T11:44:07.012298+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ad7c4dc-b92\"",
-      "last_modified": "Tue, 20 Oct 2026 19:45:32 GMT",
-      "last_checked": "2026-10-21T01:50:06.945151+06:00",
+      "etag": "\"6ad85050-b74\"",
+      "last_modified": "Wed, 21 Oct 2026 05:40:32 GMT",
+      "last_checked": "2026-10-21T11:44:07.377047+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Tue, 20 Oct 2026 15:45:04 GMT",
-      "last_checked": "2026-10-21T01:50:07.572482+06:00",
+      "last_checked": "2026-10-21T11:44:08.102634+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"1a1e9845d5ad013997d24bd15ce895fb\"",
-      "last_modified": "Tue, 20 Oct 2026 19:49:00 GMT",
-      "last_checked": "2026-10-21T01:50:07.997189+06:00",
+      "etag": "\"6ad84f8c-11ba\"",
+      "last_modified": "Wed, 21 Oct 2026 05:37:16 GMT",
+      "last_checked": "2026-10-21T11:44:08.343441+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-21T01:50:08.417975+06:00",
+      "last_checked": "2026-10-21T11:44:08.536318+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-21T01:50:09.274671+06:00",
+      "last_checked": "2026-10-21T11:44:09.315291+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"b5d0e90abd0941665a5aa450d372030f\"",
-      "last_modified": "Tue, 20 Oct 2026 19:43:10 GMT",
-      "last_checked": "2026-10-21T01:50:09.499029+06:00",
+      "etag": "W/\"93946f9068ef95810adbfa987dd8b2bd\"",
+      "last_modified": "Tue, 20 Oct 2026 22:00:46 GMT",
+      "last_checked": "2026-10-21T11:44:09.577370+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-21T01:50:09.825411+06:00",
+      "last_checked": "2026-10-21T11:44:09.764936+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Tue, 20 Oct 2026 18:12:04 GMT",
-      "last_checked": "2026-10-21T01:50:10.289930+06:00",
+      "last_modified": "Tue, 20 Oct 2026 22:10:21 GMT",
+      "last_checked": "2026-10-21T11:44:10.180189+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Tue, 20 Oct 2026 19:50:11 GMT",
-      "last_checked": "2026-10-21T01:50:11.032446+06:00",
+      "last_modified": "Wed, 21 Oct 2026 05:44:10 GMT",
+      "last_checked": "2026-10-21T11:44:10.823034+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"057a033b882d5516437d0aff04b3db9e\"",
-      "last_modified": "Tue, 20 Oct 2026 19:49:28 GMT",
-      "last_checked": "2026-10-21T01:50:11.641205+06:00",
+      "etag": "W/\"b35249ade209ba03bc4c3380ee835e33\"",
+      "last_modified": "Tue, 20 Oct 2026 21:20:10 GMT",
+      "last_checked": "2026-10-21T11:44:10.973683+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-21T01:50:12.195147+06:00",
+      "last_checked": "2026-10-21T11:44:11.364424+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-21T01:50:12.811325+06:00",
+      "last_checked": "2026-10-21T11:44:11.701267+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-21T01:50:13.390192+06:00",
+      "last_checked": "2026-10-21T11:44:12.142959+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-21T01:50:13.691928+06:00",
-      "fail_count": 102,
+      "last_checked": "2026-10-21T11:44:12.422046+06:00",
+      "fail_count": 103,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"768100b1447980ed8020b4944b21f5f6\"",
-      "last_modified": "Tue, 20 Oct 2026 14:50:04 GMT",
-      "last_checked": "2026-10-21T01:50:13.905297+06:00",
+      "etag": "W/\"2db897a6184aaac232777b559d388160\"",
+      "last_modified": "Tue, 20 Oct 2026 17:45:16 GMT",
+      "last_checked": "2026-10-21T11:44:12.565627+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-21T01:50:14.164789+06:00",
+      "last_checked": "2026-10-21T11:44:12.728370+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-21T01:50:14.402131+06:00",
-      "fail_count": 102,
+      "last_checked": "2026-10-21T11:44:12.949814+06:00",
+      "fail_count": 103,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"c08063f04edb2ff1921eba846dc3f5f1\"",
-      "last_modified": "Tue, 20 Oct 2026 13:48:58 GMT",
-      "last_checked": "2026-10-21T01:50:15.296964+06:00",
+      "etag": "W/\"3ff6ee061ebe1c4071e7fbb742e1130c\"",
+      "last_modified": "Tue, 20 Oct 2026 20:00:00 GMT",
+      "last_checked": "2026-10-21T11:44:13.125782+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "polygon.com/pokemon-pokopia-event-habitat-dex-pokedex-list-requirements-unlock": {
-      "title": "Event Habitat Dex and Pokédex list in Pokémon Pokopia",
-      "url": "https://www.polygon.com/pokemon-pokopia-event-habitat-dex-pokedex-list-requirements-unlock/",
-      "canonical": "polygon.com/pokemon-pokopia-event-habitat-dex-pokedex-list-requirements-unlock",
-      "published_dt": "2026-10-17T10:01:19+06:00",
-      "published_date": "2026-10-17T10:01:19+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Here are all the limited-time event habitats and Pokémon in Pokémon Pokopia and what you need to make them.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/obs64_2026-04-28_14-23-15.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-17T11:19:50.460960+06:00",
-      "last_seen": "2026-10-17T11:19:50.460965+06:00"
-    },
-    "polygon.com/pokemon-pokopia-event-schedule-holiday-dates": {
-      "title": "Pokémon Pokopia event schedule",
-      "url": "https://www.polygon.com/pokemon-pokopia-event-schedule-holiday-dates/",
-      "canonical": "polygon.com/pokemon-pokopia-event-schedule-holiday-dates",
-      "published_dt": "2026-10-17T10:01:19+06:00",
-      "published_date": "2026-10-17T10:01:19+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Our guide lists all the known limited-time events for Pokémon Pokopia, so you can find these event items and Pokémon.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/obs64_2026-03-31_14-18-22.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-17T11:19:50.461084+06:00",
-      "last_seen": "2026-10-17T11:19:50.461087+06:00"
-    },
-    "polygon.com/pokemon-pokopia-pumpkaboos-sweet-surprises-gourgeist-habitats-items": {
-      "title": "Pokémon Pokopia 'Pumpkaboo's Sweet Surprises' event guide",
-      "url": "https://www.polygon.com/pokemon-pokopia-pumpkaboos-sweet-surprises-gourgeist-habitats-items/",
-      "canonical": "polygon.com/pokemon-pokopia-pumpkaboos-sweet-surprises-gourgeist-habitats-items",
-      "published_dt": "2026-10-17T10:01:18+06:00",
-      "published_date": "2026-10-17T10:01:18+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "In this guide, you find all the information to complete Pokémon Pokopia's \"Pumpkaboo's Sweet Surprises\" Halloween event.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/pokopia_guide_pumpkaboo_lead.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-17T11:19:50.461205+06:00",
-      "last_seen": "2026-10-17T11:19:50.461207+06:00"
-    },
-    "polygon.com/best-mystery-tv-shows-worth-solving": {
-      "title": "10 Perfect Detective Thrillers That Get More Intense With Every Episode",
-      "url": "https://www.polygon.com/best-mystery-tv-shows-worth-solving/",
-      "canonical": "polygon.com/best-mystery-tv-shows-worth-solving",
-      "published_dt": "2026-10-17T10:00:23+06:00",
-      "published_date": "2026-10-17T10:00:23+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "These gripping mysteries explore the darkest corners of human nature, where each clue revels in the unexpected.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-killing-feature-1.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-17T11:19:50.461311+06:00",
-      "last_seen": "2026-10-17T11:19:50.461313+06:00"
-    },
-    "nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter": {
-      "title": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter",
-      "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
-      "canonical": "nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
-      "published_dt": "2026-10-17T10:05:00+06:00",
-      "published_date": "2026-10-17T10:05:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Releasing alongside a major update. Here on Nintendo Life, we first heard about the laid-back co-op farming sim Coral Island back in 2021, when it successfully hit its Kickstarter goal . Now, after overcoming some roadblocks , it seems it's finally getting a Nintendo release. This announcement was shared this week during The MIX Fall Showcase, with Stairway Games and Balor Games officially confirming a Switch 2 version will release alongside the free \" Kids Grow Up \" 1.4 Update in winter 2026 . Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/416335a352022/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-17T11:19:52.482149+06:00",
-      "last_seen": "2026-10-17T11:19:52.482154+06:00"
-    },
     "eurogamer.net/over-the-hill-now-playing": {
       "title": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow",
       "url": "https://www.eurogamer.net/over-the-hill-now-playing",
@@ -7570,6 +7490,135 @@
       "status": "pending",
       "first_seen": "2026-10-21T01:50:13.946488+06:00",
       "last_seen": "2026-10-21T01:50:13.946491+06:00"
+    },
+    "gematsu.com/2026/10/romance-visual-novel-bundle-einstein-yori-ai-o-komete-apollocrisis-coming-to-switch-in-2027-in-japan": {
+      "title": "Romance visual novel bundle Einstein Yori Ai o Komete + APOLLOCRISIS coming to Switch in 2027 in Japan",
+      "url": "https://www.gematsu.com/2026/10/romance-visual-novel-bundle-einstein-yori-ai-o-komete-apollocrisis-coming-to-switch-in-2027-in-japan",
+      "canonical": "gematsu.com/2026/10/romance-visual-novel-bundle-einstein-yori-ai-o-komete-apollocrisis-coming-to-switch-in-2027-in-japan",
+      "published_dt": "2026-10-21T10:19:15+06:00",
+      "published_date": "2026-10-21T10:19:15+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "PROTOTYPE will release romance visual novel bundle Einstein Yori Ai o Komete + APOLLOCRISIS for …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T11:44:08.363913+06:00",
+      "last_seen": "2026-10-21T11:44:08.363918+06:00"
+    },
+    "polygon.com/visionquest-episode-3-explained-friday-avengers-endgame-tony-stark-death": {
+      "title": "Marvel Officially Made the Saddest Death in MCU History More Tragic With Just 1 Sentence",
+      "url": "https://www.polygon.com/visionquest-episode-3-explained-friday-avengers-endgame-tony-stark-death/",
+      "canonical": "polygon.com/visionquest-episode-3-explained-friday-avengers-endgame-tony-stark-death",
+      "published_dt": "2026-10-21T09:00:19+06:00",
+      "published_date": "2026-10-21T09:00:19+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "In VisionQuest episode three, F.R.I.D.A.Y. reveals that she tried to save Tony in Avengers: Endgame",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdaven_ec256-1.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T11:44:09.323217+06:00",
+      "last_seen": "2026-10-21T11:44:09.323222+06:00"
+    },
+    "polygon.com/visionquest-original-human-torch-phineas-horton-explainer": {
+      "title": "Phineas Horton? Disney Just Officially Made a Forgotten Marvel Legend Into MCU Canon",
+      "url": "https://www.polygon.com/visionquest-original-human-torch-phineas-horton-explainer/",
+      "canonical": "polygon.com/visionquest-original-human-torch-phineas-horton-explainer",
+      "published_dt": "2026-10-21T08:45:18+06:00",
+      "published_date": "2026-10-21T08:45:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "In the fourth episode of VisionQuest, Dr. Phineas Horton is mentioned. Horton is a key figure in the earliest days of Marvel Comics",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19696105/Screen_Shot_2020_02_04_at_4.55.59_PM.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T11:44:09.323357+06:00",
+      "last_seen": "2026-10-21T11:44:09.323360+06:00"
+    },
+    "gamesradar.com/entertainment/fantasy-movies/the-hunt-for-gollums-aragorn-actor-says-hes-not-trying-to-outdo-viggo-mortensen-for-me-aragorn-will-always-be-just-viggo": {
+      "title": "The Hunt for Gollum's Aragorn actor says he's not trying to \"outdo\" Viggo Mortensen",
+      "url": "https://www.gamesradar.com/entertainment/fantasy-movies/the-hunt-for-gollums-aragorn-actor-says-hes-not-trying-to-outdo-viggo-mortensen-for-me-aragorn-will-always-be-just-viggo/",
+      "canonical": "gamesradar.com/entertainment/fantasy-movies/the-hunt-for-gollums-aragorn-actor-says-hes-not-trying-to-outdo-viggo-mortensen-for-me-aragorn-will-always-be-just-viggo",
+      "published_dt": "2026-10-21T11:23:01+06:00",
+      "published_date": "2026-10-21T11:23:01+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Jamie Dornan has some big shoes to fill",
+      "image": "https://cdn.mos.cms.futurecdn.net/EAQzBo9modRJo6QTCizUb8-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T11:44:09.972377+06:00",
+      "last_seen": "2026-10-21T11:44:09.972382+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-tv-shows/visionquest-who-is-the-client": {
+      "title": "Who is The Client in VisionQuest? Our top Marvel theories",
+      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-who-is-the-client/",
+      "canonical": "gamesradar.com/entertainment/marvel-tv-shows/visionquest-who-is-the-client",
+      "published_dt": "2026-10-21T09:00:00+06:00",
+      "published_date": "2026-10-21T09:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Who hired Paladin to capture Vision? We line up the suspects",
+      "image": "https://cdn.mos.cms.futurecdn.net/jA4CGMhkGrhqtBH8fFbeA3-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T11:44:09.972498+06:00",
+      "last_seen": "2026-10-21T11:44:09.972500+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-tv-shows/visionquest-paladin-daredevil-punisher": {
+      "title": "VisionQuest episode 3 reveals Paladin has history with some major MCU characters",
+      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-paladin-daredevil-punisher/",
+      "canonical": "gamesradar.com/entertainment/marvel-tv-shows/visionquest-paladin-daredevil-punisher",
+      "published_dt": "2026-10-21T09:00:00+06:00",
+      "published_date": "2026-10-21T09:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "VisionQuest episode 3 reveals that Paladin has history with some key Marvel characters",
+      "image": "https://cdn.mos.cms.futurecdn.net/7QmHrsYsksjBspvc2ddZCg-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T11:44:09.972604+06:00",
+      "last_seen": "2026-10-21T11:44:09.972606+06:00"
+    },
+    "nintendolife.com/news/2026/10/all-aboard-denshattack-physical-edition-arriving-on-switch-2-in-2027": {
+      "title": "All Aboard! Denshattack Physical Edition Arriving On Switch 2 In 2027",
+      "url": "https://www.nintendolife.com/news/2026/10/all-aboard-denshattack-physical-edition-arriving-on-switch-2-in-2027",
+      "canonical": "nintendolife.com/news/2026/10/all-aboard-denshattack-physical-edition-arriving-on-switch-2-in-2027",
+      "published_dt": "2026-10-21T10:45:00+06:00",
+      "published_date": "2026-10-21T10:45:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Here's an early look. If you've been holding out for a physical copy of Denshattack! , you'll be pleased to hear it's \"coming soon\" to the Switch 2. The video game merchandise company Fangamer will be releasing standard and deluxe editions at some point in 2027 . You can sign up to the same site to be notified about when the physical edition will be made available. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/c46fce9dea0dc/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-21T11:44:11.382640+06:00",
+      "last_seen": "2026-10-21T11:44:11.382644+06:00",
+      "posted_at": "2026-10-21T11:46:23.854917+06:00"
+    },
+    "nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed": {
+      "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 Estimated File Size Revealed",
+      "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed",
+      "canonical": "nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed",
+      "published_dt": "2026-10-21T09:30:00+06:00",
+      "published_date": "2026-10-21T09:30:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Update: File size spotted on download card. : The digital listing for the Switch 2 version of The Legend of Zelda: Ocarina of Time is now live on the eShop and it includes the game's estimated file size. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/3cae3dc49f114/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T11:44:11.382965+06:00",
+      "last_seen": "2026-10-21T11:44:11.382969+06:00"
     }
   },
   "events": {
@@ -21360,6 +21409,58 @@
           "headline": "Best Buy Cuts $10 Off Gift Cards With Select Fall 2026 Game Purchases",
           "claims": [
             "$10 off gaming gift card"
+          ]
+        }
+      ]
+    },
+    "evt_2a1c3c6363615e": {
+      "event_id": "evt_2a1c3c6363615e",
+      "event_key": "denshattack physical edition switch 2 release 2027",
+      "event_subject": "Denshattack",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "denshattack physical edition switch 2 release 2027",
+        "subject": "Denshattack",
+        "event_type": "other",
+        "action": "announce",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "Denshattack",
+        "franchise": "Denshattack",
+        "institution": "Fangamer",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "physical release"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [
+        "Physical edition arriving on Switch 2 in 2027"
+      ],
+      "importance_score": 36,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 6,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Physical Edition of Denshattack! Coming to Switch 2 in 2027",
+      "summary": "Fangamer will release standard and deluxe physical copies of Denshattack!",
+      "published_at": "2026-10-21T10:45:00+06:00",
+      "selected_at": "2026-10-21T05:46:23.854950+00:00",
+      "status": "published",
+      "message_id": 790,
+      "published_versions": [
+        {
+          "published_at": "2026-10-21T05:46:23.854950+00:00",
+          "headline": "Physical Edition of Denshattack! Coming to Switch 2 in 2027",
+          "claims": [
+            "Physical edition arriving on Switch 2 in 2027"
           ]
         }
       ]
@@ -146839,6 +146940,221 @@
         "total": 30
       },
       "last_seen": "2026-10-21T01:56:17.328475+06:00"
+    },
+    "evt_2a1c3c6363615e": {
+      "event_id": "evt_2a1c3c6363615e",
+      "event_key": "denshattack physical edition switch 2 release 2027",
+      "event_subject": "Denshattack",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "denshattack physical edition switch 2 release 2027",
+        "subject": "Denshattack",
+        "event_type": "other",
+        "action": "announce",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "Denshattack",
+        "franchise": "Denshattack",
+        "institution": "Fangamer",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "physical release"
+      },
+      "modality": "unknown",
+      "topic": "physical release",
+      "institution": "Fangamer",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Physical edition arriving on Switch 2 in 2027"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-10-21T11:45:20.309042+06:00"
+    },
+    "evt_21d509067b0d0c": {
+      "event_id": "evt_21d509067b0d0c",
+      "event_key": "visionquest episode 3 release",
+      "event_subject": "VisionQuest",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "visionquest episode 3 release",
+        "subject": "VisionQuest",
+        "event_type": "other",
+        "action": "release",
+        "status": "released",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Marvel",
+        "institution": "Marvel Studios",
+        "target": "viewers",
+        "platforms": [],
+        "topic": "story development"
+      },
+      "modality": "unknown",
+      "topic": "story development",
+      "institution": "Marvel Studios",
+      "sources": [
+        "Polygon",
+        "GamesRadar+"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Marvel made the saddest death in MCU history more tragic with just one sentence",
+        "Who is The Client in VisionQuest?",
+        "Paladin has history with major MCU characters",
+        "Phineas Horton officially made MCU canon"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 40
+      },
+      "last_seen": "2026-10-21T11:45:20.309064+06:00"
+    },
+    "evt_3c653e219e211f": {
+      "event_id": "evt_3c653e219e211f",
+      "event_key": "einstein yori ai o komete apollocrisis switch 2027 bundle release",
+      "event_subject": "Einstein Yori Ai o Komete + APOLLOCRISIS",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "einstein yori ai o komete apollocrisis switch 2027 bundle release",
+        "subject": "Einstein Yori Ai o Komete + APOLLOCRISIS",
+        "event_type": "other",
+        "action": "announce",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "Einstein Yori Ai o Komete + APOLLOCRISIS",
+        "franchise": "Einstein Yori Ai o Komete + APOLLOCRISIS",
+        "institution": "PROTOTYPE",
+        "target": "players",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "game release"
+      },
+      "modality": "unknown",
+      "topic": "game release",
+      "institution": "PROTOTYPE",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Romance visual novel bundle coming to Switch in 2027 in Japan"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-10-21T11:45:20.309072+06:00"
+    },
+    "evt_1a417b6fbc9144": {
+      "event_id": "evt_1a417b6fbc9144",
+      "event_key": "the hunt for gollum jamie dornan interview",
+      "event_subject": "The Hunt for Gollum",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "the hunt for gollum jamie dornan interview",
+        "subject": "The Hunt for Gollum",
+        "event_type": "other",
+        "action": "comment",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "The Hunt for Gollum",
+        "franchise": "The Hunt for Gollum",
+        "institution": "Warner Bros. Games",
+        "target": "players",
+        "platforms": [],
+        "topic": "casting"
+      },
+      "modality": "unknown",
+      "topic": "casting",
+      "institution": "Warner Bros. Games",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Jamie Dornan says he's not trying to outdo Viggo Mortensen"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-10-21T11:45:20.309090+06:00"
+    },
+    "evt_81a6bfb41800f8": {
+      "event_id": "evt_81a6bfb41800f8",
+      "event_key": "ocarina of time switch 2 file size reveal",
+      "event_subject": "The Legend of Zelda: Ocarina of Time",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ocarina of time switch 2 file size reveal",
+        "subject": "The Legend of Zelda: Ocarina of Time",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time",
+        "franchise": "The Legend of Zelda",
+        "institution": "Nintendo",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "technical specs"
+      },
+      "modality": "unknown",
+      "topic": "technical specs",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Estimated file size revealed on digital listing"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 39
+      },
+      "last_seen": "2026-10-21T11:45:20.309095+06:00"
     }
   },
   "posted_event_ids": [
@@ -147238,7 +147554,8 @@
     "evt_9800e20881ab1d",
     "evt_1a0afdcd737d7b",
     "evt_45fdae84eaeaf5",
-    "evt_c23991cb3d752e"
+    "evt_c23991cb3d752e",
+    "evt_2a1c3c6363615e"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -147637,11 +147954,12 @@
     "gta 5 and red dead redemption 2 removed from playstation plus catalog",
     "xbox adds eight indie gems to game pass at october showcase",
     "fallout 4 fever dreams surprise release revives wasteland adventure",
-    "best buy cuts 10 off gift cards with select fall 2026 game purchases"
+    "best buy cuts 10 off gift cards with select fall 2026 game purchases",
+    "physical edition of denshattack coming to switch 2 in 2027"
   ],
   "category_coverage": {
     "Game Updates": "2026-10-21T02:06:57.554699+06:00",
-    "Major Releases": "2026-10-20T21:50:17.388997+06:00",
+    "Major Releases": "2026-10-21T11:46:23.854975+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
     "Nintendo": "2026-09-09T21:29:41.864902+06:00",
