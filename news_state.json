@@ -2,287 +2,143 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1934e-e4PHlUHstXWa3i67D+AIOJiKGkM\"",
+      "etag": "W/\"18743-AS4TFNDtvEWZO6APPid2cGY/sM8\"",
       "last_modified": null,
-      "last_checked": "2026-10-21T11:44:06.748818+06:00",
+      "last_checked": "2026-10-21T17:12:44.213293+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-21T11:44:07.012298+06:00",
+      "last_checked": "2026-10-21T17:12:44.411666+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ad85050-b74\"",
-      "last_modified": "Wed, 21 Oct 2026 05:40:32 GMT",
-      "last_checked": "2026-10-21T11:44:07.377047+06:00",
+      "etag": "\"6ad89da8-b1e\"",
+      "last_modified": "Wed, 21 Oct 2026 11:10:32 GMT",
+      "last_checked": "2026-10-21T17:12:44.729883+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Tue, 20 Oct 2026 15:45:04 GMT",
-      "last_checked": "2026-10-21T11:44:08.102634+06:00",
+      "last_modified": "Wed, 21 Oct 2026 11:11:19 GMT",
+      "last_checked": "2026-10-21T17:12:44.968848+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
       "etag": "\"6ad84f8c-11ba\"",
       "last_modified": "Wed, 21 Oct 2026 05:37:16 GMT",
-      "last_checked": "2026-10-21T11:44:08.343441+06:00",
+      "last_checked": "2026-10-21T17:12:45.281720+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-21T11:44:08.536318+06:00",
+      "last_checked": "2026-10-21T17:12:45.395936+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-21T11:44:09.315291+06:00",
+      "last_checked": "2026-10-21T17:12:45.997670+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"93946f9068ef95810adbfa987dd8b2bd\"",
-      "last_modified": "Tue, 20 Oct 2026 22:00:46 GMT",
-      "last_checked": "2026-10-21T11:44:09.577370+06:00",
+      "etag": "W/\"57d260272bf0a56c627f4f7cca483440\"",
+      "last_modified": "Wed, 21 Oct 2026 10:45:48 GMT",
+      "last_checked": "2026-10-21T17:12:46.150614+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-21T11:44:09.764936+06:00",
+      "last_checked": "2026-10-21T17:12:46.263874+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Tue, 20 Oct 2026 22:10:21 GMT",
-      "last_checked": "2026-10-21T11:44:10.180189+06:00",
+      "last_modified": "Wed, 21 Oct 2026 11:09:49 GMT",
+      "last_checked": "2026-10-21T17:12:46.622200+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Wed, 21 Oct 2026 05:44:10 GMT",
-      "last_checked": "2026-10-21T11:44:10.823034+06:00",
+      "last_modified": "Wed, 21 Oct 2026 11:12:47 GMT",
+      "last_checked": "2026-10-21T17:12:47.126195+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"b35249ade209ba03bc4c3380ee835e33\"",
-      "last_modified": "Tue, 20 Oct 2026 21:20:10 GMT",
-      "last_checked": "2026-10-21T11:44:10.973683+06:00",
+      "etag": "W/\"529c626e68cd7659909ebae3a6714e43\"",
+      "last_modified": "Wed, 21 Oct 2026 10:49:32 GMT",
+      "last_checked": "2026-10-21T17:12:47.278703+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-21T11:44:11.364424+06:00",
+      "last_checked": "2026-10-21T17:12:47.573334+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-21T11:44:11.701267+06:00",
+      "last_checked": "2026-10-21T17:12:47.858679+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-21T11:44:12.142959+06:00",
+      "last_checked": "2026-10-21T17:12:48.229338+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-21T11:44:12.422046+06:00",
-      "fail_count": 103,
+      "last_checked": "2026-10-21T17:12:48.415114+06:00",
+      "fail_count": 104,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"2db897a6184aaac232777b559d388160\"",
       "last_modified": "Tue, 20 Oct 2026 17:45:16 GMT",
-      "last_checked": "2026-10-21T11:44:12.565627+06:00",
+      "last_checked": "2026-10-21T17:12:48.483318+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-21T11:44:12.728370+06:00",
+      "last_checked": "2026-10-21T17:12:48.654444+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-21T11:44:12.949814+06:00",
-      "fail_count": 103,
+      "last_checked": "2026-10-21T17:12:48.765668+06:00",
+      "fail_count": 104,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"3ff6ee061ebe1c4071e7fbb742e1130c\"",
       "last_modified": "Tue, 20 Oct 2026 20:00:00 GMT",
-      "last_checked": "2026-10-21T11:44:13.125782+06:00",
+      "last_checked": "2026-10-21T17:12:48.930291+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "eurogamer.net/over-the-hill-now-playing": {
-      "title": "Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow",
-      "url": "https://www.eurogamer.net/over-the-hill-now-playing",
-      "canonical": "eurogamer.net/over-the-hill-now-playing",
-      "published_dt": "2026-10-17T15:00:00+06:00",
-      "published_date": "2026-10-17T15:00:00+06:00",
-      "source": "Eurogamer",
-      "region": "Gaming",
-      "excerpt": "I'd nearly forgotten Over the Hill's predecessor, Art of Rally , was a racing game. But that's not meant as a slight. It's just that, for all the happy hours I poured into it, I don't recall doing a single race. Instead, it was the aimless meandering, the soothing rhythms of exploration and absent-minded collectible hunting in its free-roam mode that held me transfixed. So the fact Over the Hill completely jettisons the racing stuff and leans entirely into the meditative bit - it even starts with a golden Buddha statue running you through the basics, which probably tells you everything you need to know - is exactly my kind of thing. Read more",
-      "image": "https://assetsio.gnwcdn.com/over-the-hill-37.png?width=690&quality=85&format=jpg&auto=webp",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-17T16:11:24.826875+06:00",
-      "last_seen": "2026-10-17T16:11:24.826881+06:00"
-    },
-    "polygon.com/horror-anthology-creepypasta-halloween-countdown": {
-      "title": "Stephen King Meets 'The Backrooms' in Syfy's Underrated 6-Part Anthology Series",
-      "url": "https://www.polygon.com/horror-anthology-creepypasta-halloween-countdown/",
-      "canonical": "polygon.com/horror-anthology-creepypasta-halloween-countdown",
-      "published_dt": "2026-10-17T16:00:18+06:00",
-      "published_date": "2026-10-17T16:00:18+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "A creepy contortionist clown isn't the only monster in this strange story.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/image-w1280-2.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-17T16:11:26.477659+06:00",
-      "last_seen": "2026-10-17T16:11:26.477664+06:00"
-    },
-    "polygon.com/garfield-alone": {
-      "title": "37 Years Ago, 'Garfield' Suddenly Changed Genres With a Mind-Blowing Comic Strip",
-      "url": "https://www.polygon.com/garfield-alone/",
-      "canonical": "polygon.com/garfield-alone",
-      "published_dt": "2026-10-17T15:00:18+06:00",
-      "published_date": "2026-10-17T15:00:18+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "This Garfield Halloween special might never have actually ended",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25174329/O_f2840_0210_comp_v005_2000x1081_thumbnail.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-17T16:11:26.477814+06:00",
-      "last_seen": "2026-10-17T16:11:26.477819+06:00"
-    },
-    "polygon.com/buffy-the-vampire-slayer-season-5-episode-4-retrospective": {
-      "title": "26 Years Ago, 'Buffy the Vampire Slayer' Officially Launched Its Most Controversial Couple",
-      "url": "https://www.polygon.com/buffy-the-vampire-slayer-season-5-episode-4-retrospective/",
-      "canonical": "polygon.com/buffy-the-vampire-slayer-season-5-episode-4-retrospective",
-      "published_dt": "2026-10-17T14:00:18+06:00",
-      "published_date": "2026-10-17T14:00:18+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "26 years ago, Buffy aired an episode that set up season five and launched one of the series' most important dynamics",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/buffy-1.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-17T16:11:26.477959+06:00",
-      "last_seen": "2026-10-17T16:11:26.477963+06:00"
-    },
-    "gamesradar.com/tabletop-gaming/after-a-few-hours-with-the-pre-painted-warhammer-40k-terrain-im-already-convinced-its-an-essential-purchase": {
-      "title": "After a few hours with the pre-painted Warhammer 40K terrain, I'm already convinced it's an essential purchase",
-      "url": "https://www.gamesradar.com/tabletop-gaming/after-a-few-hours-with-the-pre-painted-warhammer-40k-terrain-im-already-convinced-its-an-essential-purchase/",
-      "canonical": "gamesradar.com/tabletop-gaming/after-a-few-hours-with-the-pre-painted-warhammer-40k-terrain-im-already-convinced-its-an-essential-purchase",
-      "published_dt": "2026-10-17T15:00:00+06:00",
-      "published_date": "2026-10-17T15:00:00+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "I've been hands on with the new Warhammer 40,000 Battlefields: Armageddon box set, and came away very impressed by this pre-painted terrain",
-      "image": "https://cdn.mos.cms.futurecdn.net/4QhkCrDVGigaT4HxwcyFk7-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-17T16:11:27.057007+06:00",
-      "last_seen": "2026-10-17T16:11:27.057013+06:00"
-    },
-    "gamesradar.com/tabletop-gaming/i-adore-the-new-dwarf-khazlite-holds-army-for-warhammer-age-of-sigmar-but-i-worry-about-what-they-mean-for-the-future": {
-      "title": "I adore the new dwarf Khazlite Holds army for Warhammer Age of Sigmar, but I worry about what they mean for the future",
-      "url": "https://www.gamesradar.com/tabletop-gaming/i-adore-the-new-dwarf-khazlite-holds-army-for-warhammer-age-of-sigmar-but-i-worry-about-what-they-mean-for-the-future/",
-      "canonical": "gamesradar.com/tabletop-gaming/i-adore-the-new-dwarf-khazlite-holds-army-for-warhammer-age-of-sigmar-but-i-worry-about-what-they-mean-for-the-future",
-      "published_dt": "2026-10-17T15:00:00+06:00",
-      "published_date": "2026-10-17T15:00:00+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "I'm in two minds about the newest Warhammer Age of Sigmar army; I love how the Khazalite Holds look and play, but I'm concerned we're moving toward a more traditional dwarf faction instead of the bizarre options we've enjoyed so far",
-      "image": "https://cdn.mos.cms.futurecdn.net/PfNJQ23ZcZcMkq4LW7GRWD-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-17T16:11:27.057156+06:00",
-      "last_seen": "2026-10-17T16:11:27.057160+06:00"
-    },
-    "insider-gaming.com/nyt-connections-hints-solutions-october-17-1224": {
-      "title": "NYT Connections Hints Today (#1224)—Answers for Saturday, October 17",
-      "url": "https://insider-gaming.com/nyt-connections-hints-solutions-october-17-1224/",
-      "canonical": "insider-gaming.com/nyt-connections-hints-solutions-october-17-1224",
-      "published_dt": "2026-10-17T13:43:51+06:00",
-      "published_date": "2026-10-17T13:43:51+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1224)—Answers for Saturday, October 17 appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-17T16:11:27.839977+06:00",
-      "last_seen": "2026-10-17T16:11:27.839983+06:00"
-    },
-    "nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-17th-october": {
-      "title": "Talking Point: What Are You Playing This Weekend? (17th October)",
-      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-17th-october",
-      "canonical": "nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-17th-october",
-      "published_dt": "2026-10-17T15:00:00+06:00",
-      "published_date": "2026-10-17T15:00:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Leon's Roar. We finally made it to the weekend — well done, everyone! After the silence of last week, things started to pick up in Nintendo news this week. The big hitter was previews going live for Ocarina of Time on Switch 2, which seems to be really rather wonderful. We also got a new overview trailer and shared over 20 minutes of gameplay footage from Link's latest. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/2e615bdd68a7d/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-17T16:11:28.126827+06:00",
-      "last_seen": "2026-10-17T16:11:28.126833+06:00"
-    },
-    "nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed": {
-      "title": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
-      "url": "https://www.nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed",
-      "canonical": "nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed",
-      "published_dt": "2026-10-17T14:00:00+06:00",
-      "published_date": "2026-10-17T14:00:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Join the cult next week. Cult of the Lamb has continued to receive all sorts of updates since it launched on the Switch, and now developer Massive Monster has shared some massive news. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/105fa42933e8e/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-17T16:11:28.127192+06:00",
-      "last_seen": "2026-10-17T16:11:28.127197+06:00"
-    },
     "ign.com/articles/crazy-movie-premises-that-actually-worked": {
       "title": "7 Crazy Movie Premises That Actually Worked",
       "url": "https://www.ign.com/articles/crazy-movie-premises-that-actually-worked",
@@ -7619,6 +7475,691 @@
       "status": "pending",
       "first_seen": "2026-10-21T11:44:11.382965+06:00",
       "last_seen": "2026-10-21T11:44:11.382969+06:00"
+    },
+    "ign.com/articles/aragorn-will-always-be-viggo-says-jamie-dornan-the-hunt-for-gollum": {
+      "title": "'Aragorn Will Always Be Viggo,' Says Jamie Dornan Ahead of His Turn as the Iconic Character in The Lord of the Rings: The Hunt for Gollum",
+      "url": "https://www.ign.com/articles/aragorn-will-always-be-viggo-says-jamie-dornan-the-hunt-for-gollum",
+      "canonical": "ign.com/articles/aragorn-will-always-be-viggo-says-jamie-dornan-the-hunt-for-gollum",
+      "published_dt": "2026-10-21T16:55:21+06:00",
+      "published_date": "2026-10-21T16:55:21+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Jamie Dornan will play a younger Aragorn in The Lord of the Rings: The Hunt for Gollum, but he’s aware of the magnitude of his role, and doesn’t see his take on the character as a replacement for Viggo Mortensen.",
+      "image": "https://assets1.ignimgs.com/2019/10/23/aragorn-lord-of-the-rings-1571864894448.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:44.291934+06:00",
+      "last_seen": "2026-10-21T17:12:44.291940+06:00"
+    },
+    "ign.com/articles/shrek-2-remastered-surprising-pc-requirements": {
+      "title": "Fans React to Shrek 2 Remastered's Surprising PC Requirements",
+      "url": "https://www.ign.com/articles/shrek-2-remastered-surprising-pc-requirements",
+      "canonical": "ign.com/articles/shrek-2-remastered-surprising-pc-requirements",
+      "published_dt": "2026-10-21T15:53:34+06:00",
+      "published_date": "2026-10-21T15:53:34+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Shrek 2 isn’t exactly pushing the bounds of PC graphics, but the recommended specs for the remaster are surprisingly hefty.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/21/shrek-2-remasterd-screenshot-farfaraway-1792575980552.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:44.292140+06:00",
+      "last_seen": "2026-10-21T17:12:44.292145+06:00"
+    },
+    "ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release": {
+      "title": "Sony Issues New PS5 Firmware Update as Jailbreak Race Heats Up Ahead of GTA 6 Release",
+      "url": "https://www.ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release",
+      "canonical": "ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release",
+      "published_dt": "2026-10-21T15:36:28+06:00",
+      "published_date": "2026-10-21T15:36:28+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Sony has issued a new PlayStation 5 firmware update amid the homebrew community's ongoing effort to jailbreak the console.",
+      "image": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-21T17:12:44.292285+06:00",
+      "last_seen": "2026-10-21T17:12:44.292289+06:00",
+      "posted_at": "2026-10-21T17:38:43.656132+06:00"
+    },
+    "videogameschronicle.com/news/ea-sports-fc-and-pokemon-go-age-ratings-bumped-to-16-in-pegi-loot-box-crackdown": {
+      "title": "EA Sports FC and Pokémon Go age ratings bumped to 16 in PEGI loot box crackdown",
+      "url": "https://www.videogameschronicle.com/news/ea-sports-fc-and-pokemon-go-age-ratings-bumped-to-16-in-pegi-loot-box-crackdown/",
+      "canonical": "videogameschronicle.com/news/ea-sports-fc-and-pokemon-go-age-ratings-bumped-to-16-in-pegi-loot-box-crackdown",
+      "published_dt": "2026-10-21T16:44:00+06:00",
+      "published_date": "2026-10-21T16:44:00+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "The European body has begun raising age ratings to 16 for games with loot boxes",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-21T17:12:44.739863+06:00",
+      "last_seen": "2026-10-21T17:12:44.739868+06:00",
+      "posted_at": "2026-10-21T17:38:33.890605+06:00"
+    },
+    "videogameschronicle.com/news/the-rest-of-octobers-xbox-game-pass-titles-have-been-revealed-including-final-fantasy-7-remake": {
+      "title": "The rest of October’s Xbox Game Pass titles have been revealed, including Final Fantasy 7 Remake",
+      "url": "https://www.videogameschronicle.com/news/the-rest-of-octobers-xbox-game-pass-titles-have-been-revealed-including-final-fantasy-7-remake/",
+      "canonical": "videogameschronicle.com/news/the-rest-of-octobers-xbox-game-pass-titles-have-been-revealed-including-final-fantasy-7-remake",
+      "published_dt": "2026-10-21T16:42:30+06:00",
+      "published_date": "2026-10-21T16:42:30+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "10 games are also set to leave the service later this month",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-21T17:12:44.740051+06:00",
+      "last_seen": "2026-10-21T17:12:44.740056+06:00",
+      "posted_at": "2026-10-21T17:39:28.910393+06:00"
+    },
+    "videogameschronicle.com/news/xbox-series-x-s-and-xbox-rog-ally-x-are-getting-amd-fsr-4-1-upscaling-to-improve-performance": {
+      "title": "Xbox Series X/S and Xbox ROG Ally X are getting AMD FSR 4.1 upscaling to improve performance",
+      "url": "https://www.videogameschronicle.com/news/xbox-series-x-s-and-xbox-rog-ally-x-are-getting-amd-fsr-4-1-upscaling-to-improve-performance/",
+      "canonical": "videogameschronicle.com/news/xbox-series-x-s-and-xbox-rog-ally-x-are-getting-amd-fsr-4-1-upscaling-to-improve-performance",
+      "published_dt": "2026-10-21T16:07:49+06:00",
+      "published_date": "2026-10-21T16:07:49+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Xbox will soon have its own alternative to PlayStation's PSSR and QSSR upscalers",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-21T17:12:44.740206+06:00",
+      "last_seen": "2026-10-21T17:12:44.740210+06:00",
+      "posted_at": "2026-10-21T17:38:38.774417+06:00"
+    },
+    "videogameschronicle.com/news/kojima-says-walking-simulator-comments-about-death-stranding-prove-social-media-can-form-hivemind-narratives": {
+      "title": "Kojima says ‘walking simulator’ comments about Death Stranding prove social media can form hivemind narratives",
+      "url": "https://www.videogameschronicle.com/news/kojima-says-walking-simulator-comments-about-death-stranding-prove-social-media-can-form-hivemind-narratives/",
+      "canonical": "videogameschronicle.com/news/kojima-says-walking-simulator-comments-about-death-stranding-prove-social-media-can-form-hivemind-narratives",
+      "published_dt": "2026-10-21T15:10:36+06:00",
+      "published_date": "2026-10-21T15:10:36+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "He finds it \"scary\" that people may one day never confront differing opinions",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-21T17:12:44.740352+06:00",
+      "last_seen": "2026-10-21T17:12:44.740356+06:00",
+      "posted_at": "2026-10-21T17:39:46.998746+06:00"
+    },
+    "videogameschronicle.com/news/is-control-resonant-teasing-alan-wake-3-resonants-director-explains-remedy-easter-egg": {
+      "title": "Is Control Resonant teasing Alan Wake 3? Resonant’s director explains Remedy easter egg",
+      "url": "https://www.videogameschronicle.com/news/is-control-resonant-teasing-alan-wake-3-resonants-director-explains-remedy-easter-egg/",
+      "canonical": "videogameschronicle.com/news/is-control-resonant-teasing-alan-wake-3-resonants-director-explains-remedy-easter-egg",
+      "published_dt": "2026-10-21T15:01:08+06:00",
+      "published_date": "2026-10-21T15:01:08+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Control Resonant's director explains the cameo from Remedy's other protagonist",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:44.740494+06:00",
+      "last_seen": "2026-10-21T17:12:44.740498+06:00"
+    },
+    "eurogamer.net/xbox-game-pass-list-october-2026": {
+      "title": "Here's our second wave of Xbox Game Pass games for October 2026",
+      "url": "https://www.eurogamer.net/xbox-game-pass-list-october-2026",
+      "canonical": "eurogamer.net/xbox-game-pass-list-october-2026",
+      "published_dt": "2026-10-21T17:11:19+06:00",
+      "published_date": "2026-10-21T17:11:19+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Microsoft has revealed the second batch of games coming to Xbox Game Pass this month, and there are few genuine corkers, including the console debuts of The Séance of Blake Manor and Mouthwashing , and the addition of Final Fantasy 7 Remake Intergrade - which only arrived on Xbox earlier this year. Read more",
+      "image": "https://assetsio.gnwcdn.com/mouthwashing-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:45.072893+06:00",
+      "last_seen": "2026-10-21T17:12:45.072900+06:00"
+    },
+    "eurogamer.net/subnautica-2-scariest-region-ever-made-update": {
+      "title": "Subnautica 2 adding its \"scariest\" region ever in next major update, the developers say",
+      "url": "https://www.eurogamer.net/subnautica-2-scariest-region-ever-made-update",
+      "canonical": "eurogamer.net/subnautica-2-scariest-region-ever-made-update",
+      "published_dt": "2026-10-21T17:08:04+06:00",
+      "published_date": "2026-10-21T17:08:04+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Subnautica 2 has begun its \"voyage to Early Access 2.0\", developer Unknown Worlds has said, with the revelation of a new update containing the \"scariest\" region they've ever made for the underwater game. Delightful. Read more",
+      "image": "https://assetsio.gnwcdn.com/subnautica-2-header-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-21T17:12:45.073245+06:00",
+      "last_seen": "2026-10-21T17:12:45.073251+06:00",
+      "posted_at": "2026-10-21T17:39:51.780969+06:00"
+    },
+    "eurogamer.net/football-manager-27-free-to-play-five-days": {
+      "title": "Football Manager 27 will be free to play for five days before its full release, in \"industry first\" for a game of its kind",
+      "url": "https://www.eurogamer.net/football-manager-27-free-to-play-five-days",
+      "canonical": "eurogamer.net/football-manager-27-free-to-play-five-days",
+      "published_dt": "2026-10-21T17:00:00+06:00",
+      "published_date": "2026-10-21T17:00:00+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "You can play Football Manager 27 on PC and Mac for free this year for five full days later this month, in a first for the series and apparently an \"industry first\" for games of its kind. Read more",
+      "image": "https://assetsio.gnwcdn.com/FMPlayForFree.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:45.073520+06:00",
+      "last_seen": "2026-10-21T17:12:45.073525+06:00"
+    },
+    "eurogamer.net/xbox-layoffs-october-november-january-report": {
+      "title": "Xbox reportedly planning three more rounds of layoffs, with the first wave coming as early as this month",
+      "url": "https://www.eurogamer.net/xbox-layoffs-october-november-january-report",
+      "canonical": "eurogamer.net/xbox-layoffs-october-november-january-report",
+      "published_dt": "2026-10-21T16:47:21+06:00",
+      "published_date": "2026-10-21T16:47:21+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Xbox is reportedly gearing up for three more rounds of layoffs as the Microsoft gaming division continues CEO Asha Sharma's plan to reset the business . According to a new report, the first of these is taking place this month, followed by another in November and one in January 2027. Read more",
+      "image": "https://assetsio.gnwcdn.com/xbox-sunsetted.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-21T17:12:45.073835+06:00",
+      "last_seen": "2026-10-21T17:12:45.073840+06:00",
+      "posted_at": "2026-10-21T17:38:28.228235+06:00"
+    },
+    "eurogamer.net/playstation-physical-disc-sales-statistics-alinea": {
+      "title": "Resident Evil: Requiem made more money from PlayStation discs than on Xbox in total, reportedly, as Sony's march to a discless future continues",
+      "url": "https://www.eurogamer.net/playstation-physical-disc-sales-statistics-alinea",
+      "canonical": "eurogamer.net/playstation-physical-disc-sales-statistics-alinea",
+      "published_dt": "2026-10-21T15:21:49+06:00",
+      "published_date": "2026-10-21T15:21:49+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Physical disc-based copies of Resident Evil: Requiem on PlayStation consoles may have been more popular than all versions of the game on Xbox, a new report has found, while unearthing a trove of other statistics about physical sales. Read more",
+      "image": "https://assetsio.gnwcdn.com/resident-evil-requiem-nostalgia-26.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:45.074130+06:00",
+      "last_seen": "2026-10-21T17:12:45.074135+06:00"
+    },
+    "eurogamer.net/microsoft-next-gen-xbox-helix-date-price": {
+      "title": "Xbox's next-gen console to reportedly cost up to $1,800, with a Helix handheld coming in 2027 and a full release in holiday 2028",
+      "url": "https://www.eurogamer.net/microsoft-next-gen-xbox-helix-date-price",
+      "canonical": "eurogamer.net/microsoft-next-gen-xbox-helix-date-price",
+      "published_dt": "2026-10-21T14:40:37+06:00",
+      "published_date": "2026-10-21T14:40:37+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "The price of Xbox's next generation console, codename Project Helix, may be higher than many of us expected. Helix, which is reportedly going to ship as two devices, is estimated to cost close to $2,000. Read more",
+      "image": "https://assetsio.gnwcdn.com/Project-Helix-logo-and-name-written-in-white-on-a-black-background.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:45.074393+06:00",
+      "last_seen": "2026-10-21T17:12:45.074398+06:00"
+    },
+    "pcgamer.com/software/security/we-expect-mass-attacks-to-start-within-15-minutes-of-the-release-web-admins-braced-for-emergency-php-updates-to-plug-leaked-high-severity-holes": {
+      "title": "'We expect mass attacks to start within 15 minutes of the release': Web admins braced for emergency PHP updates to plug leaked high-severity holes",
+      "url": "https://www.pcgamer.com/software/security/we-expect-mass-attacks-to-start-within-15-minutes-of-the-release-web-admins-braced-for-emergency-php-updates-to-plug-leaked-high-severity-holes/",
+      "canonical": "pcgamer.com/software/security/we-expect-mass-attacks-to-start-within-15-minutes-of-the-release-web-admins-braced-for-emergency-php-updates-to-plug-leaked-high-severity-holes",
+      "published_dt": "2026-10-21T16:39:05+06:00",
+      "published_date": "2026-10-21T16:39:05+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Batten down the virtual hatches.",
+      "image": "https://cdn.mos.cms.futurecdn.net/kNCDGE87fMuTymbxurAHYN-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-21T17:12:45.840670+06:00",
+      "last_seen": "2026-10-21T17:12:45.840677+06:00",
+      "posted_at": "2026-10-21T17:39:24.007488+06:00"
+    },
+    "pcgamer.com/hardware/graphics-cards/chinese-repair-centre-has-received-7-melted-12-4-pin-nvidia-gpus-in-just-the-past-two-days-alone": {
+      "title": "Chinese repair centre has received 7 melted 12+4-pin Nvidia GPUs in just the past two days alone",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/chinese-repair-centre-has-received-7-melted-12-4-pin-nvidia-gpus-in-just-the-past-two-days-alone/",
+      "canonical": "pcgamer.com/hardware/graphics-cards/chinese-repair-centre-has-received-7-melted-12-4-pin-nvidia-gpus-in-just-the-past-two-days-alone",
+      "published_dt": "2026-10-21T16:00:07+06:00",
+      "published_date": "2026-10-21T16:00:07+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "This is not getting better, is it?",
+      "image": "https://cdn.mos.cms.futurecdn.net/a9PnCDMGTLXJaMnyvDyntF-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-21T17:12:45.840817+06:00",
+      "last_seen": "2026-10-21T17:12:45.840822+06:00",
+      "posted_at": "2026-10-21T17:38:48.865205+06:00"
+    },
+    "pcgamer.com/hardware/graphics-cards/heres-another-gizmo-to-prevent-your-graphics-card-from-melting-wouldnt-it-be-nice-if-12-4-pin-connectors-werent-a-cause-for-concern-at-all": {
+      "title": "Here's another gizmo to prevent your graphics card from melting - wouldn't it be nice if 12+4-pin connectors weren't a cause for concern at all?",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/heres-another-gizmo-to-prevent-your-graphics-card-from-melting-wouldnt-it-be-nice-if-12-4-pin-connectors-werent-a-cause-for-concern-at-all/",
+      "canonical": "pcgamer.com/hardware/graphics-cards/heres-another-gizmo-to-prevent-your-graphics-card-from-melting-wouldnt-it-be-nice-if-12-4-pin-connectors-werent-a-cause-for-concern-at-all",
+      "published_dt": "2026-10-21T15:59:41+06:00",
+      "published_date": "2026-10-21T15:59:41+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "I'm thankful for accessories like this, but I wish it wasn't my problem to sort in the first place.",
+      "image": "https://cdn.mos.cms.futurecdn.net/SxnsCF6pwibC6d87uZFUBk-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:45.840954+06:00",
+      "last_seen": "2026-10-21T17:12:45.840958+06:00"
+    },
+    "polygon.com/cyberpunk-edgerunners-season-3-confirmed-release-date-story-characters": {
+      "title": "'Cyberpunk: Edgerunners' Season 3 Confirmed? Potential Release Date, Characters, and Everything You Need to Know",
+      "url": "https://www.polygon.com/cyberpunk-edgerunners-season-3-confirmed-release-date-story-characters/",
+      "canonical": "polygon.com/cyberpunk-edgerunners-season-3-confirmed-release-date-story-characters",
+      "published_dt": "2026-10-21T17:00:17+06:00",
+      "published_date": "2026-10-21T17:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Will Cyberpunk: Edgerunners get a season 3? Here’s what the creators have said about future stories and who could return after season 2’s ending.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/er2_talia_4-1.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.007511+06:00",
+      "last_seen": "2026-10-21T17:12:46.007516+06:00"
+    },
+    "polygon.com/critical-role-lord-of-the-rings-crossover-twitch-con": {
+      "title": "Critical Role Is Heading to Middle-earth With a Big Lord of the Rings Collaboration",
+      "url": "https://www.polygon.com/critical-role-lord-of-the-rings-crossover-twitch-con/",
+      "canonical": "polygon.com/critical-role-lord-of-the-rings-crossover-twitch-con",
+      "published_dt": "2026-10-21T16:14:12+06:00",
+      "published_date": "2026-10-21T16:14:12+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The Critical Role cast is headed for the Lord of the Rings setting in a thrilling new Rings of Power collaboration",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/critical-role-x-lotr.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-21T17:12:46.007673+06:00",
+      "last_seen": "2026-10-21T17:12:46.007677+06:00",
+      "posted_at": "2026-10-21T17:39:19.115079+06:00"
+    },
+    "polygon.com/best-calvin-and-hobbes-comics-about-the-parents": {
+      "title": "7 Funniest 'Calvin and Hobbes' Comics About Calvin's Mom and Dad",
+      "url": "https://www.polygon.com/best-calvin-and-hobbes-comics-about-the-parents/",
+      "canonical": "polygon.com/best-calvin-and-hobbes-comics-about-the-parents",
+      "published_dt": "2026-10-21T16:00:18+06:00",
+      "published_date": "2026-10-21T16:00:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Calvin's Mom and Dad are a great comedy duo in Calvin and Hobbes. Here are 7 strips that star them",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/calvin-hobbes-parents-mad-1.avif",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.007818+06:00",
+      "last_seen": "2026-10-21T17:12:46.007823+06:00"
+    },
+    "polygon.com/cyberpunk-2077-edgerunners-2-update-leak": {
+      "title": "Cyberpunk 2077 Edgerunners 2 Update Leaked Ahead of Reveal",
+      "url": "https://www.polygon.com/cyberpunk-2077-edgerunners-2-update-leak/",
+      "canonical": "polygon.com/cyberpunk-2077-edgerunners-2-update-leak",
+      "published_dt": "2026-10-21T15:55:20+06:00",
+      "published_date": "2026-10-21T15:55:20+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "To celebrate Edgerunners season 2, CD Projekt Red is releasing a patch for Cyberpunk 2077 riddled with themed content.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/cyberpunk-edgerunners-s2-netflix-3-1.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.007960+06:00",
+      "last_seen": "2026-10-21T17:12:46.007964+06:00"
+    },
+    "polygon.com/public-enemies-free-on-youtube": {
+      "title": "17 Years Later, Johnny Depp’s Overlooked Action Crime Thriller Is Officially Free on YouTube",
+      "url": "https://www.polygon.com/public-enemies-free-on-youtube/",
+      "canonical": "polygon.com/public-enemies-free-on-youtube",
+      "published_dt": "2026-10-21T15:00:18+06:00",
+      "published_date": "2026-10-21T15:00:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Johnny Depp brings cool charisma to Michael Mann’s gripping portrait of legendary bank robber John Dillinger.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdpuen_ec058.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.008138+06:00",
+      "last_seen": "2026-10-21T17:12:46.008142+06:00"
+    },
+    "polygon.com/mw4-modern-warfare-4-stranded-keypad-puzzle-code-locations": {
+      "title": "All 'Stranded' keypad puzzle codes in Modern Warfare 4",
+      "url": "https://www.polygon.com/mw4-modern-warfare-4-stranded-keypad-puzzle-code-locations/",
+      "canonical": "polygon.com/mw4-modern-warfare-4-stranded-keypad-puzzle-code-locations",
+      "published_dt": "2026-10-21T14:16:40+06:00",
+      "published_date": "2026-10-21T14:16:40+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Our guide explains where to find every keypad puzzle code in \"Stranded\" in Modern Warfare 4 and how to solve them.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/modern-warfare-4-stranded-keypad-puzzle-header.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.008276+06:00",
+      "last_seen": "2026-10-21T17:12:46.008280+06:00"
+    },
+    "gamesradar.com/games/open-world/crimson-desert-dlc-features-everything-from-shipbuilding-to-marriage-pearl-abyss-shows-off-in-new-preview-of-charting-the-unknown": {
+      "title": "Crimson Desert DLC features everything from shipbuilding to marriage",
+      "url": "https://www.gamesradar.com/games/open-world/crimson-desert-dlc-features-everything-from-shipbuilding-to-marriage-pearl-abyss-shows-off-in-new-preview-of-charting-the-unknown/",
+      "canonical": "gamesradar.com/games/open-world/crimson-desert-dlc-features-everything-from-shipbuilding-to-marriage-pearl-abyss-shows-off-in-new-preview-of-charting-the-unknown",
+      "published_dt": "2026-10-21T17:08:17+06:00",
+      "published_date": "2026-10-21T17:08:17+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Also you can use a turtle as a mount",
+      "image": "https://cdn.mos.cms.futurecdn.net/5D8DPiWuXhi2jPWNYCcdJS-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.496783+06:00",
+      "last_seen": "2026-10-21T17:12:46.496789+06:00"
+    },
+    "gamesradar.com/entertainment/horror-movies/28-years-later-stars-cillian-murphy-and-jack-oconnell-are-set-to-play-brothers-in-a-quiet-place-3": {
+      "title": "28 Years Later stars Cillian Murphy and Jack O'Connell are set to play brothers in A Quiet Place 3",
+      "url": "https://www.gamesradar.com/entertainment/horror-movies/28-years-later-stars-cillian-murphy-and-jack-oconnell-are-set-to-play-brothers-in-a-quiet-place-3/",
+      "canonical": "gamesradar.com/entertainment/horror-movies/28-years-later-stars-cillian-murphy-and-jack-oconnell-are-set-to-play-brothers-in-a-quiet-place-3",
+      "published_dt": "2026-10-21T17:04:20+06:00",
+      "published_date": "2026-10-21T17:04:20+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "After 28 Years Later, Cillian Murphy and Jack Connell are jumping to another horror franchise and will play brothers in A Quiet Place 3",
+      "image": "https://cdn.mos.cms.futurecdn.net/KM5dUQK9eiXxeomhnDNYW4-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.496930+06:00",
+      "last_seen": "2026-10-21T17:12:46.496934+06:00"
+    },
+    "gamesradar.com/toys-collectibles/even-if-i-dont-have-time-for-halloween-or-christmas-decorations-this-disney-mainstay-always-makes-me-feel-festive": {
+      "title": "Even if I don't have time for Halloween or Christmas decorations, this Disney mainstay always makes me feel festive",
+      "url": "https://www.gamesradar.com/toys-collectibles/even-if-i-dont-have-time-for-halloween-or-christmas-decorations-this-disney-mainstay-always-makes-me-feel-festive/",
+      "canonical": "gamesradar.com/toys-collectibles/even-if-i-dont-have-time-for-halloween-or-christmas-decorations-this-disney-mainstay-always-makes-me-feel-festive",
+      "published_dt": "2026-10-21T17:00:00+06:00",
+      "published_date": "2026-10-21T17:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "I've been a fan of Disney Spirit Jerseys for a long time, and the current Halloween design is on offer right now",
+      "image": "https://cdn.mos.cms.futurecdn.net/kuxbCp6cGuqAMpuFKcqoeD-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.497092+06:00",
+      "last_seen": "2026-10-21T17:12:46.497097+06:00"
+    },
+    "gamesradar.com/hardware/retro/if-the-idea-of-an-usd1-800-xbox-that-doesnt-even-run-physical-games-horrifies-you-id-pick-up-an-evercade-nexus-and-ignore-the-next-generation": {
+      "title": "If the idea of an $1,800 Xbox that doesn't even run physical games horrifies you, I'd pick up an Evercade Nexus and ignore the next generation",
+      "url": "https://www.gamesradar.com/hardware/retro/if-the-idea-of-an-usd1-800-xbox-that-doesnt-even-run-physical-games-horrifies-you-id-pick-up-an-evercade-nexus-and-ignore-the-next-generation/",
+      "canonical": "gamesradar.com/hardware/retro/if-the-idea-of-an-usd1-800-xbox-that-doesnt-even-run-physical-games-horrifies-you-id-pick-up-an-evercade-nexus-and-ignore-the-next-generation",
+      "published_dt": "2026-10-21T16:53:23+06:00",
+      "published_date": "2026-10-21T16:53:23+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Reports suggest the next Xbox could cost up to $1,800, so I'd suggest investing in the Evercade Nexus and its physical cartridge library instead.",
+      "image": "https://cdn.mos.cms.futurecdn.net/cMvgmuytmmqh4TTECu6Pz-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.497229+06:00",
+      "last_seen": "2026-10-21T17:12:46.497233+06:00"
+    },
+    "gamesradar.com/entertainment/james-bond-movies/bourne-director-paul-greengrass-was-offered-a-bond-film-but-felt-too-loyal-to-his-own-action-franchise": {
+      "title": "Bourne director Paul Greengrass was offered a Bond film but felt too \"loyal\" to his own franchise",
+      "url": "https://www.gamesradar.com/entertainment/james-bond-movies/bourne-director-paul-greengrass-was-offered-a-bond-film-but-felt-too-loyal-to-his-own-action-franchise/",
+      "canonical": "gamesradar.com/entertainment/james-bond-movies/bourne-director-paul-greengrass-was-offered-a-bond-film-but-felt-too-loyal-to-his-own-action-franchise",
+      "published_dt": "2026-10-21T16:52:57+06:00",
+      "published_date": "2026-10-21T16:52:57+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Paul Greengrass couldn't betray his loyalties",
+      "image": "https://cdn.mos.cms.futurecdn.net/PDoAAu6xUTBCuXSsmitEM6-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.497358+06:00",
+      "last_seen": "2026-10-21T17:12:46.497361+06:00"
+    },
+    "gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-patch-fixes-progression-issues-and-overzealous-enemy-ai-in-dmz-as-well-as-one-mission-in-the-campaign-ahead-of-the-games-full-launch": {
+      "title": "Call of Duty: Modern Warfare 4 patch fixes progression issues and overzealous enemy AI in DMZ",
+      "url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-patch-fixes-progression-issues-and-overzealous-enemy-ai-in-dmz-as-well-as-one-mission-in-the-campaign-ahead-of-the-games-full-launch/",
+      "canonical": "gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-patch-fixes-progression-issues-and-overzealous-enemy-ai-in-dmz-as-well-as-one-mission-in-the-campaign-ahead-of-the-games-full-launch",
+      "published_dt": "2026-10-21T16:37:46+06:00",
+      "published_date": "2026-10-21T16:37:46+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Infinity Ward is ironing out the creases",
+      "image": "https://cdn.mos.cms.futurecdn.net/te6SgBhuzTevsg4W5fc7f8-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.497483+06:00",
+      "last_seen": "2026-10-21T17:12:46.497487+06:00"
+    },
+    "gamesradar.com/entertainment/dc-movies/resident-evil-director-zach-cregger-still-wants-to-make-his-batman-story-henchman-im-so-fascinated-by-that": {
+      "title": "Resident Evil director Zach Cregger still wants to make his Batman story, Henchman: \"I'm so fascinated by that\"",
+      "url": "https://www.gamesradar.com/entertainment/dc-movies/resident-evil-director-zach-cregger-still-wants-to-make-his-batman-story-henchman-im-so-fascinated-by-that/",
+      "canonical": "gamesradar.com/entertainment/dc-movies/resident-evil-director-zach-cregger-still-wants-to-make-his-batman-story-henchman-im-so-fascinated-by-that",
+      "published_dt": "2026-10-21T16:14:36+06:00",
+      "published_date": "2026-10-21T16:14:36+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Zach Cregger still wants to make his Batman story",
+      "image": "https://cdn.mos.cms.futurecdn.net/ctfGHHeSPtsH52EdBThDG8-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.497609+06:00",
+      "last_seen": "2026-10-21T17:12:46.497613+06:00"
+    },
+    "gamesradar.com/entertainment/live-action-shows/life-is-strange-game-director-gives-upcoming-amazon-tv-adaptation-his-blessing-the-care-the-love-the-attention-to-detail-i-couldnt-be-prouder": {
+      "title": "Life is Strange game director gives upcoming Amazon TV adaptation his blessing: \"I couldn’t be prouder\"",
+      "url": "https://www.gamesradar.com/entertainment/live-action-shows/life-is-strange-game-director-gives-upcoming-amazon-tv-adaptation-his-blessing-the-care-the-love-the-attention-to-detail-i-couldnt-be-prouder/",
+      "canonical": "gamesradar.com/entertainment/live-action-shows/life-is-strange-game-director-gives-upcoming-amazon-tv-adaptation-his-blessing-the-care-the-love-the-attention-to-detail-i-couldnt-be-prouder",
+      "published_dt": "2026-10-21T16:03:05+06:00",
+      "published_date": "2026-10-21T16:03:05+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Life is Strange co-creator says visiting the set of the upcoming Prime Video TV show was the \"highlight of my career\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/8W5bK5h6pUi8JKsWkiDviH-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.497736+06:00",
+      "last_seen": "2026-10-21T17:12:46.497739+06:00"
+    },
+    "gamesradar.com/entertainment/anime-shows/cyberpunk-loremaster-confirms-year-of-edgerunners-2-despite-creator-originally-saying-its-a-spoiler": {
+      "title": "Cyberpunk loremaster confirms year of Edgerunners 2 despite creator saying it's a \"spoiler\"",
+      "url": "https://www.gamesradar.com/entertainment/anime-shows/cyberpunk-loremaster-confirms-year-of-edgerunners-2-despite-creator-originally-saying-its-a-spoiler/",
+      "canonical": "gamesradar.com/entertainment/anime-shows/cyberpunk-loremaster-confirms-year-of-edgerunners-2-despite-creator-originally-saying-its-a-spoiler",
+      "published_dt": "2026-10-21T15:57:25+06:00",
+      "published_date": "2026-10-21T15:57:25+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Edgerunners season 2 is officially set after Cyberpunk 2077",
+      "image": "https://cdn.mos.cms.futurecdn.net/Rqvh5pg3iroKVYVRPMWDaC-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.497860+06:00",
+      "last_seen": "2026-10-21T17:12:46.497863+06:00"
+    },
+    "gamesradar.com/entertainment/netflix/cyberpunk-edgerunners-2-fans-think-v-briefly-appears-in-the-new-season-and-it-could-mean-female-v-is-canon": {
+      "title": "Cyberpunk: Edgerunners 2 fans think V briefly appears in the new season, and it could mean female V is canon",
+      "url": "https://www.gamesradar.com/entertainment/netflix/cyberpunk-edgerunners-2-fans-think-v-briefly-appears-in-the-new-season-and-it-could-mean-female-v-is-canon/",
+      "canonical": "gamesradar.com/entertainment/netflix/cyberpunk-edgerunners-2-fans-think-v-briefly-appears-in-the-new-season-and-it-could-mean-female-v-is-canon",
+      "published_dt": "2026-10-21T15:51:02+06:00",
+      "published_date": "2026-10-21T15:51:02+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Cyberpunk: Edgerunners 2 features a nod to Cyberpunk 2077's player character",
+      "image": "https://cdn.mos.cms.futurecdn.net/qVty4g6to4nFDLw3V3cYWY-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.497985+06:00",
+      "last_seen": "2026-10-21T17:12:46.498008+06:00"
+    },
+    "gamesradar.com/games/grand-theft-auto/gta-6-could-cost-the-us-economy-usd1-billion-due-to-an-estimated-1-5-million-workers-calling-in-sick-economist-says": {
+      "title": "GTA 6 could cost the US economy $1 billion due to an estimated 1.5 million workers calling in sick, economist says",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-could-cost-the-us-economy-usd1-billion-due-to-an-estimated-1-5-million-workers-calling-in-sick-economist-says/",
+      "canonical": "gamesradar.com/games/grand-theft-auto/gta-6-could-cost-the-us-economy-usd1-billion-due-to-an-estimated-1-5-million-workers-calling-in-sick-economist-says",
+      "published_dt": "2026-10-21T15:44:30+06:00",
+      "published_date": "2026-10-21T15:44:30+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "It's bad news for the technology sector",
+      "image": "https://cdn.mos.cms.futurecdn.net/DjHygAvVxq5SRXiCL2bj3i-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.498140+06:00",
+      "last_seen": "2026-10-21T17:12:46.498144+06:00"
+    },
+    "rockpapershotgun.com/further-xbox-layoff-rounds-reportedly-planned-for-this-month-november-and-january-while-a-game-pass-overhaul-is-in-the-works": {
+      "title": "Further Xbox layoff rounds reportedly planned for this month, November, and January, while a Game Pass overhaul is in the works",
+      "url": "https://www.rockpapershotgun.com/further-xbox-layoff-rounds-reportedly-planned-for-this-month-november-and-january-while-a-game-pass-overhaul-is-in-the-works",
+      "canonical": "rockpapershotgun.com/further-xbox-layoff-rounds-reportedly-planned-for-this-month-november-and-january-while-a-game-pass-overhaul-is-in-the-works",
+      "published_dt": "2026-10-21T16:34:44+06:00",
+      "published_date": "2026-10-21T16:34:44+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "Further rounds of layoffs as part of Xbox's ongoing efforts to eventually have fed 3200 people into the furnace are reportedly planned to take place during this month, November, and January. The company previously made clear more cuts, following on from two rounds of mass layoffs already this year, would be coming at some juncture. Meanwhile, an overhaul of Xbox Game Pass is reportedly in the works and sounds aimed at offering subscribers more control of which individual aspects of the service they want to pay for as part of their deal. Read more",
+      "image": "https://assetsio.gnwcdn.com/xbox-layoffs-report-sep-2026-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.725134+06:00",
+      "last_seen": "2026-10-21T17:12:46.725142+06:00"
+    },
+    "rockpapershotgun.com/msi-claw-8-ex-ai-plus-review": {
+      "title": "MSI Claw 8 EX AI+ review - superlative playing power with familiar Windows handheld caveats",
+      "url": "https://www.rockpapershotgun.com/msi-claw-8-ex-ai-plus-review",
+      "canonical": "rockpapershotgun.com/msi-claw-8-ex-ai-plus-review",
+      "published_dt": "2026-10-21T14:40:01+06:00",
+      "published_date": "2026-10-21T14:40:01+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "Welcome to my review of the MSI Claw 8 EX AI+, a handheld PC that went on sale four months ago. And if you think that’s bad, tell it to the 2025-spec Lenovo Legion Go 2 I’ve left, neglected and unappraised, in the dusty heights of my utility cupboard. Read more",
+      "image": "https://assetsio.gnwcdn.com/MSI-Claw-8-EX-AI%2B-review.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:46.725482+06:00",
+      "last_seen": "2026-10-21T17:12:46.725487+06:00"
+    },
+    "insider-gaming.com/modern-warfare-4-dmz-reset-traits": {
+      "title": "Can You Reset Traits in Call of Duty: Modern Warfare 4 DMZ?",
+      "url": "https://insider-gaming.com/modern-warfare-4-dmz-reset-traits/",
+      "canonical": "insider-gaming.com/modern-warfare-4-dmz-reset-traits",
+      "published_dt": "2026-10-21T16:49:31+06:00",
+      "published_date": "2026-10-21T16:49:31+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "All the details on the Trait system in Call of Duty: Modern Warfare 4 and whether you can reset or respec your choices. The post Can You Reset Traits in Call of Duty: Modern Warfare 4 DMZ? appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:47.290682+06:00",
+      "last_seen": "2026-10-21T17:12:47.290688+06:00"
+    },
+    "insider-gaming.com/modern-warfare-4-dmz-all-operator-traits": {
+      "title": "All Modern Warfare 4 DMZ Operator Traits & Effects",
+      "url": "https://insider-gaming.com/modern-warfare-4-dmz-all-operator-traits/",
+      "canonical": "insider-gaming.com/modern-warfare-4-dmz-all-operator-traits",
+      "published_dt": "2026-10-21T16:26:33+06:00",
+      "published_date": "2026-10-21T16:26:33+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "A full list of every Trait available to equip to your Operators in Call of Duty: Modern Warfare 4 DMZ, so you can plan your build. The post All Modern Warfare 4 DMZ Operator Traits & Effects appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-21T17:12:47.290984+06:00",
+      "last_seen": "2026-10-21T17:12:47.291009+06:00",
+      "posted_at": "2026-10-21T17:39:13.923948+06:00"
+    },
+    "pushsquare.com/news/2026/10/youve-not-seen-anything-like-this-bizarre-ps5-open-world-rpg-ordinary-oddness": {
+      "title": "You've Not Seen Anything Like This Bizarre PS5 Open World RPG, Ordinary Oddness",
+      "url": "https://www.pushsquare.com/news/2026/10/youve-not-seen-anything-like-this-bizarre-ps5-open-world-rpg-ordinary-oddness",
+      "canonical": "pushsquare.com/news/2026/10/youve-not-seen-anything-like-this-bizarre-ps5-open-world-rpg-ordinary-oddness",
+      "published_dt": "2026-10-21T17:00:00+06:00",
+      "published_date": "2026-10-21T17:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Extraordinary. I wasn't sure what to expect going into the announcement trailer for Ordinary Oddness , and it's left me with more questions than answers, but I think that's sort of the point. This is a new open world RPG from publisher Tencent and developer COSMICPUP, and its 22-minute debut video is quite something: Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/627f3f9ab931d/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-21T17:12:47.880246+06:00",
+      "last_seen": "2026-10-21T17:12:47.880252+06:00",
+      "posted_at": "2026-10-21T17:39:42.068930+06:00"
+    },
+    "pushsquare.com/news/2026/10/ps5-firmware-update-26-07-14-20-00-available-to-download-now": {
+      "title": "PS5 Firmware Update 26.07-14.20.00 Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-firmware-update-26-07-14-20-00-available-to-download-now",
+      "canonical": "pushsquare.com/news/2026/10/ps5-firmware-update-26-07-14-20-00-available-to-download-now",
+      "published_dt": "2026-10-21T15:00:00+06:00",
+      "published_date": "2026-10-21T15:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "What does version 26.07-14.20.00 do? Sony has today pushed live a new PS5 firmware patch that updates the console to version number 26.07-14.20.00. The new firmware is live now, so you should be prompted to download it shortly. As per the official PlayStation website , the single patch note for update 26.07-14.20.00 is as follows: Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/4cad35fc2b20a/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:47.880591+06:00",
+      "last_seen": "2026-10-21T17:12:47.880596+06:00"
+    },
+    "pushsquare.com/news/2026/10/crimson-desert-reveals-just-how-big-its-ps5-dlc-really-is-in-new-trailer": {
+      "title": "Crimson Desert Reveals Just How Big Its PS5 DLC Really Is in New Trailer",
+      "url": "https://www.pushsquare.com/news/2026/10/crimson-desert-reveals-just-how-big-its-ps5-dlc-really-is-in-new-trailer",
+      "canonical": "pushsquare.com/news/2026/10/crimson-desert-reveals-just-how-big-its-ps5-dlc-really-is-in-new-trailer",
+      "published_dt": "2026-10-21T14:45:00+06:00",
+      "published_date": "2026-10-21T14:45:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Get a full overview of Charting the Unknown. Crimson Desert studio Pearl Abyss doesn't do things by halves; it's demonstrated how it's the literal embodiment of the phrase \"go big or go home\" in the video game industry. After a stupidly large base game and an absurd amount of post-launch patches, the developer is delivering its biggest update yet in the Charting the Unknown expansion. A fresh overview trailer teases what to expect from the big DLC, covering everything from the new story quests to extra features. Check it out above. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/f82fe3de274f6/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-21T17:12:47.880953+06:00",
+      "last_seen": "2026-10-21T17:12:47.880957+06:00"
+    },
+    "purexbox.com/news/2026/10/xbox-exec-shows-off-new-version-of-the-blades-dashboard-theyve-been-cooking-up": {
+      "title": "Xbox Exec Shows Off New Version Of The Blades Dashboard They've Been 'Cooking Up'",
+      "url": "https://www.purexbox.com/news/2026/10/xbox-exec-shows-off-new-version-of-the-blades-dashboard-theyve-been-cooking-up",
+      "canonical": "purexbox.com/news/2026/10/xbox-exec-shows-off-new-version-of-the-blades-dashboard-theyve-been-cooking-up",
+      "published_dt": "2026-10-21T16:00:00+06:00",
+      "published_date": "2026-10-21T16:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "\"Do we like this experiment?\". For years and years and years at this point, people have been clamouring for the return of the iconic \"Blades\" dashboard from the early days of the Xbox 360 era, and Xbox boss Asha Sharma actually teased it earlier this year . Now, Xbox CTO Scott Van Vliet has taken to social media to reveal that he's been \"cooking up\" a new version of the Xbox Blades dashboard along with other designs from the Xbox 360 generation as part of the new Xbox Labs division - a project that was announced last week to turn \"emerging ideas\" into new experiences. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/f24701dbf76c5/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-21T17:12:48.250641+06:00",
+      "last_seen": "2026-10-21T17:12:48.250648+06:00",
+      "posted_at": "2026-10-21T17:39:37.039966+06:00"
     }
   },
   "events": {
@@ -21461,6 +22002,674 @@
           "headline": "Physical Edition of Denshattack! Coming to Switch 2 in 2027",
           "claims": [
             "Physical edition arriving on Switch 2 in 2027"
+          ]
+        }
+      ]
+    },
+    "evt_c5d4840e619311": {
+      "event_id": "evt_c5d4840e619311",
+      "event_key": "microsoft xbox layoffs 2026 round1 report",
+      "event_subject": "Xbox layoffs report for 2026",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft xbox layoffs 2026 round1 report",
+        "subject": "Xbox layoffs report for 2026",
+        "event_type": "other",
+        "action": "report",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft/Xbox",
+        "target": "Xbox employees",
+        "platforms": [],
+        "topic": "Workforce reductions"
+      },
+      "sources": [
+        "Eurogamer"
+      ],
+      "event_sources": [
+        "Eurogamer"
+      ],
+      "claims": [
+        "First of three planned layoff rounds may start this month"
+      ],
+      "importance_score": 60,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 30,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Xbox Plans Three Additional Layoff Rounds Amid Cost‑Cutting Drive",
+      "summary": "Microsoft's Xbox division will begin a new layoff wave this month, with further cuts slated for November and January 2027 as part of CEO Asha Sharma's restructuring plan.",
+      "published_at": "2026-10-21T16:47:21+06:00",
+      "selected_at": "2026-10-21T11:38:28.228265+00:00",
+      "status": "published",
+      "message_id": 791,
+      "published_versions": [
+        {
+          "published_at": "2026-10-21T11:38:28.228265+00:00",
+          "headline": "Xbox Plans Three Additional Layoff Rounds Amid Cost‑Cutting Drive",
+          "claims": [
+            "First of three planned layoff rounds may start this month"
+          ]
+        }
+      ]
+    },
+    "evt_9174d033751968": {
+      "event_id": "evt_9174d033751968",
+      "event_key": "pegi lootbox agerating increase 16",
+      "event_subject": "PEGI raises age rating for loot‑box games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pegi lootbox agerating increase 16",
+        "subject": "PEGI raises age rating for loot‑box games",
+        "event_type": "other",
+        "action": "implement",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PEGI",
+        "target": "European game market",
+        "platforms": [],
+        "topic": "Rating policy"
+      },
+      "sources": [
+        "VGC"
+      ],
+      "event_sources": [
+        "VGC"
+      ],
+      "claims": [
+        "Age rating bumped to 16 for games with loot boxes"
+      ],
+      "importance_score": 59,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 25,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "PEGI Raises Loot‑Box Game Ratings to 16 Across Europe",
+      "summary": "European rating board PEGI is upgrading the age rating to 16 for games with loot boxes, affecting titles like EA Sports FC and Pokémon Go.",
+      "published_at": "2026-10-21T16:44:00+06:00",
+      "selected_at": "2026-10-21T11:38:33.890635+00:00",
+      "status": "published",
+      "message_id": 792,
+      "published_versions": [
+        {
+          "published_at": "2026-10-21T11:38:33.890635+00:00",
+          "headline": "PEGI Raises Loot‑Box Game Ratings to 16 Across Europe",
+          "claims": [
+            "Age rating bumped to 16 for games with loot boxes"
+          ]
+        }
+      ]
+    },
+    "evt_5b12e4aa01094e": {
+      "event_id": "evt_5b12e4aa01094e",
+      "event_key": "microsoft xbox fsr4 1 upscaling release",
+      "event_subject": "AMD FSR 4.1 upscaling coming to Xbox consoles",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft xbox fsr4 1 upscaling release",
+        "subject": "AMD FSR 4.1 upscaling coming to Xbox consoles",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "Xbox Series X|S and ROG Ally X owners",
+        "platforms": [
+          "Xbox Series X|S",
+          "Xbox ROG Ally X"
+        ],
+        "topic": "Graphics technology"
+      },
+      "sources": [
+        "VGC"
+      ],
+      "event_sources": [
+        "VGC"
+      ],
+      "claims": [
+        "FSR 4.1 will improve performance on Xbox hardware"
+      ],
+      "importance_score": 48,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 14,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "AMD FSR 4.1 Upscaling Arrives on Xbox Series X/S and ROG Ally X",
+      "summary": "Xbox Series X/S consoles and the ASUS ROG Ally X handheld will receive AMD’s FSR 4.1 upscaling, promising higher frame rates with near‑native 4K quality.",
+      "published_at": "2026-10-21T16:07:49+06:00",
+      "selected_at": "2026-10-21T11:38:38.774445+00:00",
+      "status": "published",
+      "message_id": 793,
+      "published_versions": [
+        {
+          "published_at": "2026-10-21T11:38:38.774445+00:00",
+          "headline": "AMD FSR 4.1 Upscaling Arrives on Xbox Series X/S and ROG Ally X",
+          "claims": [
+            "FSR 4.1 will improve performance on Xbox hardware"
+          ]
+        }
+      ]
+    },
+    "evt_5d3c668dab5351": {
+      "event_id": "evt_5d3c668dab5351",
+      "event_key": "sony ps5 firmware update jailbreak race response",
+      "event_subject": "Sony releases new PS5 firmware amid jailbreak race",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sony ps5 firmware update jailbreak race response",
+        "subject": "Sony releases new PS5 firmware amid jailbreak race",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Sony",
+        "target": "PS5 owners",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "Console security"
+      },
+      "sources": [
+        "IGN"
+      ],
+      "event_sources": [
+        "IGN"
+      ],
+      "claims": [
+        "Firmware update issued as homebrew community intensifies"
+      ],
+      "importance_score": 45,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Sony Deploys New PS5 Firmware Amid Escalating Jailbreak Race",
+      "summary": "Sony released firmware 26.07‑14.20.00, claiming UI tweaks, while the homebrew community scrambles to bypass security ahead of the imminent GTA 6 launch.",
+      "published_at": "2026-10-21T15:36:28+06:00",
+      "selected_at": "2026-10-21T11:38:43.656157+00:00",
+      "status": "published",
+      "message_id": 794,
+      "published_versions": [
+        {
+          "published_at": "2026-10-21T11:38:43.656157+00:00",
+          "headline": "Sony Deploys New PS5 Firmware Amid Escalating Jailbreak Race",
+          "claims": [
+            "Firmware update issued as homebrew community intensifies"
+          ]
+        }
+      ]
+    },
+    "evt_886364b16d8738": {
+      "event_id": "evt_886364b16d8738",
+      "event_key": "nvidia gpu melted repaircenter incidents report",
+      "event_subject": "Chinese repair centre sees surge of melted Nvidia GPUs",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nvidia gpu melted repaircenter incidents report",
+        "subject": "Chinese repair centre sees surge of melted Nvidia GPUs",
+        "event_type": "other",
+        "action": "report",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Nvidia",
+        "target": "GPU users",
+        "platforms": [],
+        "topic": "Hardware failures"
+      },
+      "sources": [
+        "PC Gamer"
+      ],
+      "event_sources": [
+        "PC Gamer"
+      ],
+      "claims": [
+        "7 melted 12+4‑pin GPUs received in two days"
+      ],
+      "importance_score": 43,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 13,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Melted 12+4‑Pin Nvidia GPUs Flood Chinese Repair Shop",
+      "summary": "A Chinese repair centre reported seven RTX 5090 and RTX 4090 GPUs melted at the 12+4‑pin power connector within two days, highlighting a widespread hardware flaw.",
+      "published_at": "2026-10-21T16:00:07+06:00",
+      "selected_at": "2026-10-21T11:38:48.865232+00:00",
+      "status": "published",
+      "message_id": 795,
+      "published_versions": [
+        {
+          "published_at": "2026-10-21T11:38:48.865232+00:00",
+          "headline": "Melted 12+4‑Pin Nvidia GPUs Flood Chinese Repair Shop",
+          "claims": [
+            "7 melted 12+4‑pin GPUs received in two days"
+          ]
+        }
+      ]
+    },
+    "evt_58501eaab68b19": {
+      "event_id": "evt_58501eaab68b19",
+      "event_key": "activision callofdutymw4 dmz traits list reference",
+      "event_subject": "Complete list of DMZ operator traits",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "activision callofdutymw4 dmz traits list reference",
+        "subject": "Complete list of DMZ operator traits",
+        "event_type": "other",
+        "action": "publish",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Call of Duty: Modern Warfare 4",
+        "franchise": "Call of Duty",
+        "institution": "Activision",
+        "target": "MW4 DMZ players",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "Gameplay guide"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [
+        "Full enumeration of all operator traits and effects"
+      ],
+      "importance_score": 42,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 3,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "All Modern Warfare 4 DMZ Operator Traits Revealed With Full Effects",
+      "summary": "A comprehensive guide lists every Warfighter, Scout and Survivalist trait in Modern Warfare 4’s DMZ mode, detailing their in‑game benefits.",
+      "published_at": "2026-10-21T16:26:33+06:00",
+      "selected_at": "2026-10-21T11:39:13.923976+00:00",
+      "status": "published",
+      "message_id": 796,
+      "published_versions": [
+        {
+          "published_at": "2026-10-21T11:39:13.923976+00:00",
+          "headline": "All Modern Warfare 4 DMZ Operator Traits Revealed With Full Effects",
+          "claims": [
+            "Full enumeration of all operator traits and effects"
+          ]
+        }
+      ]
+    },
+    "evt_2cb47d6622d9b0": {
+      "event_id": "evt_2cb47d6622d9b0",
+      "event_key": "criticalrole middleearth collaboration ringsofpower",
+      "event_subject": "Critical Role collaboration with Middle‑earth franchise",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "criticalrole middleearth collaboration ringsofpower",
+        "subject": "Critical Role collaboration with Middle‑earth franchise",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "The Lord of the Rings",
+        "institution": "Critical Role",
+        "target": "Critical Role audience",
+        "platforms": [],
+        "topic": "Media partnership"
+      },
+      "sources": [
+        "Polygon"
+      ],
+      "event_sources": [
+        "Polygon"
+      ],
+      "claims": [
+        "Cast heading to Middle‑earth for a Rings of Power crossover"
+      ],
+      "importance_score": 42,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Critical Role Teams Up With The Rings of Power for Middle‑Earth One‑Shot at TwitchCon",
+      "summary": "Critical Role will join The Rings of Power cast for a live tabletop adventure on Nov.",
+      "published_at": "2026-10-21T16:14:12+06:00",
+      "selected_at": "2026-10-21T11:39:19.115112+00:00",
+      "status": "published",
+      "message_id": 797,
+      "published_versions": [
+        {
+          "published_at": "2026-10-21T11:39:19.115112+00:00",
+          "headline": "Critical Role Teams Up With The Rings of Power for Middle‑Earth One‑Shot at TwitchCon",
+          "claims": [
+            "Cast heading to Middle‑earth for a Rings of Power crossover"
+          ]
+        }
+      ]
+    },
+    "evt_438cd0d9653ac7": {
+      "event_id": "evt_438cd0d9653ac7",
+      "event_key": "php zeroday leak emergencypatch alert",
+      "event_subject": "Emergency PHP updates due to leaked high‑severity bugs",
+      "event_type": "security",
+      "event_frame": {
+        "event_key": "php zeroday leak emergencypatch alert",
+        "subject": "Emergency PHP updates due to leaked high‑severity bugs",
+        "event_type": "security",
+        "action": "alert",
+        "status": "warning",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PHP Community",
+        "target": "Web admins",
+        "platforms": [],
+        "topic": "Security vulnerability"
+      },
+      "sources": [
+        "PC Gamer"
+      ],
+      "event_sources": [
+        "PC Gamer"
+      ],
+      "claims": [
+        "Mass attacks expected within 15 minutes of release; urgent patches needed"
+      ],
+      "importance_score": 42,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Critical PHP Flaws Prompt Emergency Updates Across Web Servers",
+      "summary": "Two newly leaked PHP vulnerabilities rated 9.2 CVSS are set to be patched at 14:00 UTC, with mass exploitation expected within minutes.",
+      "published_at": "2026-10-21T16:39:05+06:00",
+      "selected_at": "2026-10-21T11:39:24.007514+00:00",
+      "status": "published",
+      "message_id": 798,
+      "published_versions": [
+        {
+          "published_at": "2026-10-21T11:39:24.007514+00:00",
+          "headline": "Critical PHP Flaws Prompt Emergency Updates Across Web Servers",
+          "claims": [
+            "Mass attacks expected within 15 minutes of release; urgent patches needed"
+          ]
+        }
+      ]
+    },
+    "evt_58d7e69d0335c2": {
+      "event_id": "evt_58d7e69d0335c2",
+      "event_key": "microsoft xboxgamepass october2026 fulllist announcement",
+      "event_subject": "Full October Xbox Game Pass lineup revealed",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft xboxgamepass october2026 fulllist announcement",
+        "subject": "Full October Xbox Game Pass lineup revealed",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Various",
+        "franchise": "Various",
+        "institution": "Microsoft/Xbox",
+        "target": "Xbox Game Pass subscribers",
+        "platforms": [
+          "Xbox Series X|S",
+          "Xbox Cloud Gaming"
+        ],
+        "topic": "Game Pass schedule"
+      },
+      "sources": [
+        "VGC"
+      ],
+      "event_sources": [
+        "VGC"
+      ],
+      "claims": [
+        "Complete list of October titles, including Final Fantasy VII Remake"
+      ],
+      "importance_score": 42,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 8,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Xbox Game Pass October Lineup Adds Final Fantasy VII Remake Intergrade",
+      "summary": "Xbox announced a fresh slate of titles for Game Pass, highlighted by Final Fantasy VII Remake Intergrade arriving on October 29 across consoles, PC and cloud.",
+      "published_at": "2026-10-21T16:42:30+06:00",
+      "selected_at": "2026-10-21T11:39:28.910417+00:00",
+      "status": "published",
+      "message_id": 799,
+      "published_versions": [
+        {
+          "published_at": "2026-10-21T11:39:28.910417+00:00",
+          "headline": "Xbox Game Pass October Lineup Adds Final Fantasy VII Remake Intergrade",
+          "claims": [
+            "Complete list of October titles, including Final Fantasy VII Remake"
+          ]
+        }
+      ]
+    },
+    "evt_12b6da695c704e": {
+      "event_id": "evt_12b6da695c704e",
+      "event_key": "microsoft xbox bladesdashboard prototype showcase",
+      "event_subject": "Xbox exec shows new Blades dashboard prototype",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft xbox bladesdashboard prototype showcase",
+        "subject": "Xbox exec shows new Blades dashboard prototype",
+        "event_type": "other",
+        "action": "showcase",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "Xbox community",
+        "platforms": [
+          "Xbox Series X|S"
+        ],
+        "topic": "UI redesign"
+      },
+      "sources": [
+        "Pure Xbox"
+      ],
+      "event_sources": [
+        "Pure Xbox"
+      ],
+      "claims": [
+        "CTO Scott Van Vliet reveals experimental Blades‑style dashboard"
+      ],
+      "importance_score": 40,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 10,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Xbox CTO Unveils New Blades Dashboard Prototype",
+      "summary": "Xbox CTO Scott Van Vliet reveals a revamped Blades dashboard prototype, hinting at AI-driven UI experiments for future Xbox experiences.",
+      "published_at": "2026-10-21T16:00:00+06:00",
+      "selected_at": "2026-10-21T11:39:37.040031+00:00",
+      "status": "published",
+      "message_id": 800,
+      "published_versions": [
+        {
+          "published_at": "2026-10-21T11:39:37.040031+00:00",
+          "headline": "Xbox CTO Unveils New Blades Dashboard Prototype",
+          "claims": [
+            "CTO Scott Van Vliet reveals experimental Blades‑style dashboard"
+          ]
+        }
+      ]
+    },
+    "evt_d882136aafb64a": {
+      "event_id": "evt_d882136aafb64a",
+      "event_key": "tencent cosmicpup ordinaryoddness announcementtrailer",
+      "event_subject": "Ordinary Oddness open‑world RPG trailer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "tencent cosmicpup ordinaryoddness announcementtrailer",
+        "subject": "Ordinary Oddness open‑world RPG trailer",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Ordinary Oddness",
+        "franchise": "Ordinary Oddness",
+        "institution": "Tencent",
+        "target": "RPG audience",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "Game announcement"
+      },
+      "sources": [
+        "Push Square"
+      ],
+      "event_sources": [
+        "Push Square"
+      ],
+      "claims": [
+        "22‑minute debut video released for new open‑world RPG"
+      ],
+      "importance_score": 39,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 9,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Tencent's Ordinary Oddness Unveiled as Bizarre PS5 Open‑World RPG",
+      "summary": "A 22‑minute trailer reveals Ordinary Oddness, a free‑to‑play, Unreal Engine 5 RPG where mythic beings and shifting realities collide on PS5.",
+      "published_at": "2026-10-21T17:00:00+06:00",
+      "selected_at": "2026-10-21T11:39:42.068956+00:00",
+      "status": "published",
+      "message_id": 801,
+      "published_versions": [
+        {
+          "published_at": "2026-10-21T11:39:42.068956+00:00",
+          "headline": "Tencent's Ordinary Oddness Unveiled as Bizarre PS5 Open‑World RPG",
+          "claims": [
+            "22‑minute debut video released for new open‑world RPG"
+          ]
+        }
+      ]
+    },
+    "evt_fff3b89268f556": {
+      "event_id": "evt_fff3b89268f556",
+      "event_key": "kojima deathstranding walkingsimulator commentary",
+      "event_subject": "Kojima comments on walking‑simulator remarks about Death Stranding",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "kojima deathstranding walkingsimulator commentary",
+        "subject": "Kojima comments on walking‑simulator remarks about Death Stranding",
+        "event_type": "other",
+        "action": "comment",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Death Stranding",
+        "franchise": "Death Stranding",
+        "institution": "Kojima Productions",
+        "target": "Gaming community",
+        "platforms": [],
+        "topic": "Industry commentary"
+      },
+      "sources": [
+        "VGC"
+      ],
+      "event_sources": [
+        "VGC"
+      ],
+      "claims": [
+        "Calls social media hive‑mind narratives \"scary\""
+      ],
+      "importance_score": 37,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 3,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Kojima warns social‑media ‘hivemind’ mislabels Death Stranding as walking simulator",
+      "summary": "Hideo Kojova highlights how fragmented online discourse lets uninformed opinions dominate, using Death Stranding’s “walking simulator” label as a cautionary example.",
+      "published_at": "2026-10-21T15:10:36+06:00",
+      "selected_at": "2026-10-21T11:39:46.998774+00:00",
+      "status": "published",
+      "message_id": 802,
+      "published_versions": [
+        {
+          "published_at": "2026-10-21T11:39:46.998774+00:00",
+          "headline": "Kojima warns social‑media ‘hivemind’ mislabels Death Stranding as walking simulator",
+          "claims": [
+            "Calls social media hive‑mind narratives \"scary\""
+          ]
+        }
+      ]
+    },
+    "evt_29937152b48665": {
+      "event_id": "evt_29937152b48665",
+      "event_key": "unknownworlds subnautica2 earlyaccess2 update scariestregion",
+      "event_subject": "Subnautica 2 major update preview",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "unknownworlds subnautica2 earlyaccess2 update scariestregion",
+        "subject": "Subnautica 2 major update preview",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Subnautica 2",
+        "franchise": "Subnautica 2",
+        "institution": "Unknown Worlds Entertainment",
+        "target": "Subnautica 2 community",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "Game update"
+      },
+      "sources": [
+        "Eurogamer"
+      ],
+      "event_sources": [
+        "Eurogamer"
+      ],
+      "claims": [
+        "Next major update will introduce the \"scariest\" region ever"
+      ],
+      "importance_score": 37,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 7,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Subnautica 2 Announces \"Scariest\" Region in Upcoming Early Access 2.0 Update",
+      "summary": "Unknown Worlds revealed a major update for Subnautica 2 that adds new biomes, Leviathan behavior changes, a pilotable Frog chassis, and underwater dash capability.",
+      "published_at": "2026-10-21T17:08:04+06:00",
+      "selected_at": "2026-10-21T11:39:51.781044+00:00",
+      "status": "published",
+      "message_id": 803,
+      "published_versions": [
+        {
+          "published_at": "2026-10-21T11:39:51.781044+00:00",
+          "headline": "Subnautica 2 Announces \"Scariest\" Region in Upcoming Early Access 2.0 Update",
+          "claims": [
+            "Next major update will introduce the \"scariest\" region ever"
           ]
         }
       ]
@@ -147155,6 +148364,1776 @@
         "total": 39
       },
       "last_seen": "2026-10-21T11:45:20.309095+06:00"
+    },
+    "evt_dec950b1acd15f": {
+      "event_id": "evt_dec950b1acd15f",
+      "event_key": "microsoft xbox layoffs 2026 roundseries report",
+      "event_subject": "Further Xbox layoff rounds and Game Pass overhaul report",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft xbox layoffs 2026 roundseries report",
+        "subject": "Further Xbox layoff rounds and Game Pass overhaul report",
+        "event_type": "other",
+        "action": "report",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft/Xbox",
+        "target": "Xbox workforce and subscribers",
+        "platforms": [],
+        "topic": "Corporate restructuring"
+      },
+      "modality": "unknown",
+      "topic": "Corporate restructuring",
+      "institution": "Microsoft/Xbox",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Layoffs planned for this month, November, Jan 2027; Game Pass overhaul in development"
+      ],
+      "importance_score": 58,
+      "score_breakdown": {
+        "significance": 32,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 58
+      },
+      "last_seen": "2026-10-21T17:24:41.773120+06:00"
+    },
+    "evt_c5d4840e619311": {
+      "event_id": "evt_c5d4840e619311",
+      "event_key": "microsoft xbox layoffs 2026 round1 report",
+      "event_subject": "Xbox layoffs report for 2026",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft xbox layoffs 2026 round1 report",
+        "subject": "Xbox layoffs report for 2026",
+        "event_type": "other",
+        "action": "report",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft/Xbox",
+        "target": "Xbox employees",
+        "platforms": [],
+        "topic": "Workforce reductions"
+      },
+      "modality": "unknown",
+      "topic": "Workforce reductions",
+      "institution": "Microsoft/Xbox",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "First of three planned layoff rounds may start this month"
+      ],
+      "importance_score": 60,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 60
+      },
+      "last_seen": "2026-10-21T17:24:41.773141+06:00"
+    },
+    "evt_9174d033751968": {
+      "event_id": "evt_9174d033751968",
+      "event_key": "pegi lootbox agerating increase 16",
+      "event_subject": "PEGI raises age rating for loot‑box games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pegi lootbox agerating increase 16",
+        "subject": "PEGI raises age rating for loot‑box games",
+        "event_type": "other",
+        "action": "implement",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PEGI",
+        "target": "European game market",
+        "platforms": [],
+        "topic": "Rating policy"
+      },
+      "modality": "unknown",
+      "topic": "Rating policy",
+      "institution": "PEGI",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Age rating bumped to 16 for games with loot boxes"
+      ],
+      "importance_score": 59,
+      "score_breakdown": {
+        "significance": 25,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 59
+      },
+      "last_seen": "2026-10-21T17:24:41.773150+06:00"
+    },
+    "evt_303acaff4c2749": {
+      "event_id": "evt_303acaff4c2749",
+      "event_key": "microsoft projecthelix price report rumor",
+      "event_subject": "Project Helix next‑gen Xbox pricing report",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft projecthelix price report rumor",
+        "subject": "Project Helix next‑gen Xbox pricing report",
+        "event_type": "other",
+        "action": "report",
+        "status": "rumored",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "Project Helix console",
+        "platforms": [],
+        "topic": "Hardware pricing"
+      },
+      "modality": "unknown",
+      "topic": "Hardware pricing",
+      "institution": "Microsoft",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The console could cost up to $1,800"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-10-21T17:24:41.773157+06:00"
+    },
+    "evt_5d3c668dab5351": {
+      "event_id": "evt_5d3c668dab5351",
+      "event_key": "sony ps5 firmware update jailbreak race response",
+      "event_subject": "Sony releases new PS5 firmware amid jailbreak race",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sony ps5 firmware update jailbreak race response",
+        "subject": "Sony releases new PS5 firmware amid jailbreak race",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Sony",
+        "target": "PS5 owners",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "Console security"
+      },
+      "modality": "unknown",
+      "topic": "Console security",
+      "institution": "Sony",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Firmware update issued as homebrew community intensifies"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-10-21T17:24:41.773163+06:00"
+    },
+    "evt_5b12e4aa01094e": {
+      "event_id": "evt_5b12e4aa01094e",
+      "event_key": "microsoft xbox fsr4 1 upscaling release",
+      "event_subject": "AMD FSR 4.1 upscaling coming to Xbox consoles",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft xbox fsr4 1 upscaling release",
+        "subject": "AMD FSR 4.1 upscaling coming to Xbox consoles",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "Xbox Series X|S and ROG Ally X owners",
+        "platforms": [
+          "Xbox Series X|S",
+          "Xbox ROG Ally X"
+        ],
+        "topic": "Graphics technology"
+      },
+      "modality": "unknown",
+      "topic": "Graphics technology",
+      "institution": "Microsoft",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "FSR 4.1 will improve performance on Xbox hardware"
+      ],
+      "importance_score": 48,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 48
+      },
+      "last_seen": "2026-10-21T17:24:41.773170+06:00"
+    },
+    "evt_886364b16d8738": {
+      "event_id": "evt_886364b16d8738",
+      "event_key": "nvidia gpu melted repaircenter incidents report",
+      "event_subject": "Chinese repair centre sees surge of melted Nvidia GPUs",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nvidia gpu melted repaircenter incidents report",
+        "subject": "Chinese repair centre sees surge of melted Nvidia GPUs",
+        "event_type": "other",
+        "action": "report",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Nvidia",
+        "target": "GPU users",
+        "platforms": [],
+        "topic": "Hardware failures"
+      },
+      "modality": "unknown",
+      "topic": "Hardware failures",
+      "institution": "Nvidia",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "7 melted 12+4‑pin GPUs received in two days"
+      ],
+      "importance_score": 43,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 43
+      },
+      "last_seen": "2026-10-21T17:24:41.773176+06:00"
+    },
+    "evt_cfd938b1ffea46": {
+      "event_id": "evt_cfd938b1ffea46",
+      "event_key": "pearlabyss crimsondesert chartingtheunknown trailer release",
+      "event_subject": "Crimson Desert – Charting the Unknown DLC trailer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pearlabyss crimsondesert chartingtheunknown trailer release",
+        "subject": "Crimson Desert – Charting the Unknown DLC trailer",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Crimson Desert",
+        "franchise": "Crimson Desert",
+        "institution": "Pearl Abyss",
+        "target": "Charting the Unknown expansion",
+        "platforms": [],
+        "topic": "DLC preview"
+      },
+      "modality": "unknown",
+      "topic": "DLC preview",
+      "institution": "Pearl Abyss",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "A new trailer showcases the upcoming DLC’s content"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-10-21T17:24:41.773183+06:00"
+    },
+    "evt_2cb47d6622d9b0": {
+      "event_id": "evt_2cb47d6622d9b0",
+      "event_key": "criticalrole middleearth collaboration ringsofpower",
+      "event_subject": "Critical Role collaboration with Middle‑earth franchise",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "criticalrole middleearth collaboration ringsofpower",
+        "subject": "Critical Role collaboration with Middle‑earth franchise",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "The Lord of the Rings",
+        "institution": "Critical Role",
+        "target": "Critical Role audience",
+        "platforms": [],
+        "topic": "Media partnership"
+      },
+      "modality": "unknown",
+      "topic": "Media partnership",
+      "institution": "Critical Role",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Cast heading to Middle‑earth for a Rings of Power crossover"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-10-21T17:24:41.773189+06:00"
+    },
+    "evt_438cd0d9653ac7": {
+      "event_id": "evt_438cd0d9653ac7",
+      "event_key": "php zeroday leak emergencypatch alert",
+      "event_subject": "Emergency PHP updates due to leaked high‑severity bugs",
+      "event_type": "security",
+      "event_frame": {
+        "event_key": "php zeroday leak emergencypatch alert",
+        "subject": "Emergency PHP updates due to leaked high‑severity bugs",
+        "event_type": "security",
+        "action": "alert",
+        "status": "warning",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PHP Community",
+        "target": "Web admins",
+        "platforms": [],
+        "topic": "Security vulnerability"
+      },
+      "modality": "unknown",
+      "topic": "Security vulnerability",
+      "institution": "PHP Community",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Mass attacks expected within 15 minutes of release; urgent patches needed"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-10-21T17:24:41.773195+06:00"
+    },
+    "evt_0f32a351804c49": {
+      "event_id": "evt_0f32a351804c49",
+      "event_key": "cdprojektred edgerunners2 patch leak prerelease",
+      "event_subject": "Leak of Edgerunners season 2 patch for Cyberpunk 2077",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "cdprojektred edgerunners2 patch leak prerelease",
+        "subject": "Leak of Edgerunners season 2 patch for Cyberpunk 2077",
+        "event_type": "other",
+        "action": "leak",
+        "status": "leaked",
+        "modality": "unknown",
+        "game": "Cyberpunk 2077",
+        "franchise": "Cyberpunk: Edgerunners",
+        "institution": "CD Projekt Red",
+        "target": "Cyberpunk players",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "Content leak"
+      },
+      "modality": "unknown",
+      "topic": "Content leak",
+      "institution": "CD Projekt Red",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Patch with themed content leaked ahead of official reveal"
+      ],
+      "importance_score": 41,
+      "score_breakdown": {
+        "significance": 11,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 41
+      },
+      "last_seen": "2026-10-21T17:24:41.773201+06:00"
+    },
+    "evt_106737e4243340": {
+      "event_id": "evt_106737e4243340",
+      "event_key": "sportsinteractive footballmanager27 freetoplay preview",
+      "event_subject": "Football Manager 27 free‑play trial",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sportsinteractive footballmanager27 freetoplay preview",
+        "subject": "Football Manager 27 free‑play trial",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Football Manager 27",
+        "franchise": "Football Manager",
+        "institution": "Sports Interactive",
+        "target": "PC & Mac gamers",
+        "platforms": [
+          "PC",
+          "Mac"
+        ],
+        "topic": "Promotional trial"
+      },
+      "modality": "unknown",
+      "topic": "Promotional trial",
+      "institution": "Sports Interactive",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Game will be free to play for five days before full release"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-10-21T17:24:41.773208+06:00"
+    },
+    "evt_f31f3c09cb7d13": {
+      "event_id": "evt_f31f3c09cb7d13",
+      "event_key": "eurogamer residentevilrequiem physicalsales disparity report",
+      "event_subject": "Resident Evil: Requiem physical sales higher on PlayStation",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "eurogamer residentevilrequiem physicalsales disparity report",
+        "subject": "Resident Evil: Requiem physical sales higher on PlayStation",
+        "event_type": "other",
+        "action": "report",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "Resident Evil: Requiem",
+        "franchise": "Resident Evil",
+        "institution": "Eurogamer",
+        "target": "Industry analysts",
+        "platforms": [
+          "PlayStation",
+          "Xbox"
+        ],
+        "topic": "Physical sales data"
+      },
+      "modality": "unknown",
+      "topic": "Physical sales data",
+      "institution": "Eurogamer",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "More disc sales on PlayStation than Xbox overall"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-10-21T17:24:41.773214+06:00"
+    },
+    "evt_12b6da695c704e": {
+      "event_id": "evt_12b6da695c704e",
+      "event_key": "microsoft xbox bladesdashboard prototype showcase",
+      "event_subject": "Xbox exec shows new Blades dashboard prototype",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft xbox bladesdashboard prototype showcase",
+        "subject": "Xbox exec shows new Blades dashboard prototype",
+        "event_type": "other",
+        "action": "showcase",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "Xbox community",
+        "platforms": [
+          "Xbox Series X|S"
+        ],
+        "topic": "UI redesign"
+      },
+      "modality": "unknown",
+      "topic": "UI redesign",
+      "institution": "Microsoft",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "CTO Scott Van Vliet reveals experimental Blades‑style dashboard"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-10-21T17:24:41.773220+06:00"
+    },
+    "evt_d882136aafb64a": {
+      "event_id": "evt_d882136aafb64a",
+      "event_key": "tencent cosmicpup ordinaryoddness announcementtrailer",
+      "event_subject": "Ordinary Oddness open‑world RPG trailer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "tencent cosmicpup ordinaryoddness announcementtrailer",
+        "subject": "Ordinary Oddness open‑world RPG trailer",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Ordinary Oddness",
+        "franchise": "Ordinary Oddness",
+        "institution": "Tencent",
+        "target": "RPG audience",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "Game announcement"
+      },
+      "modality": "unknown",
+      "topic": "Game announcement",
+      "institution": "Tencent",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "22‑minute debut video released for new open‑world RPG"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 9,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 39
+      },
+      "last_seen": "2026-10-21T17:24:41.773226+06:00"
+    },
+    "evt_48031fe7c9d3a0": {
+      "event_id": "evt_48031fe7c9d3a0",
+      "event_key": "gta6 economic impact estimate 1billion sickworkers",
+      "event_subject": "Economist predicts GTA 6 could cost US economy $1 B",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 economic impact estimate 1billion sickworkers",
+        "subject": "Economist predicts GTA 6 could cost US economy $1 B",
+        "event_type": "other",
+        "action": "estimate",
+        "status": "speculation",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "GTA",
+        "institution": "GamesRadar+",
+        "target": "Economists & industry watchers",
+        "platforms": [],
+        "topic": "Economic impact"
+      },
+      "modality": "unknown",
+      "topic": "Economic impact",
+      "institution": "GamesRadar+",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "1.5 million workers may call in sick, costing $1 B"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 9,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 35
+      },
+      "last_seen": "2026-10-21T17:24:41.773231+06:00"
+    },
+    "evt_889dfc04be945d": {
+      "event_id": "evt_889dfc04be945d",
+      "event_key": "remedy controlresonance alanwake3 tease commentary",
+      "event_subject": "Control Resonance DLC",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "remedy controlresonance alanwake3 tease commentary",
+        "subject": "Control Resonance DLC",
+        "event_type": "other",
+        "action": "explain",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Control",
+        "franchise": "Control",
+        "institution": "Remedy Entertainment",
+        "target": "Alan Wake 3",
+        "platforms": [],
+        "topic": "Alan Wake 3 teaser"
+      },
+      "modality": "unknown",
+      "topic": "Alan Wake 3 teaser",
+      "institution": "Remedy Entertainment",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The DLC contains an easter‑egg that hints at Alan Wake 3"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-10-21T17:24:41.773237+06:00"
+    },
+    "evt_58d7e69d0335c2": {
+      "event_id": "evt_58d7e69d0335c2",
+      "event_key": "microsoft xboxgamepass october2026 fulllist announcement",
+      "event_subject": "Full October Xbox Game Pass lineup revealed",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft xboxgamepass october2026 fulllist announcement",
+        "subject": "Full October Xbox Game Pass lineup revealed",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Various",
+        "franchise": "Various",
+        "institution": "Microsoft/Xbox",
+        "target": "Xbox Game Pass subscribers",
+        "platforms": [
+          "Xbox Series X|S",
+          "Xbox Cloud Gaming"
+        ],
+        "topic": "Game Pass schedule"
+      },
+      "modality": "unknown",
+      "topic": "Game Pass schedule",
+      "institution": "Microsoft/Xbox",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Complete list of October titles, including Final Fantasy VII Remake"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-10-21T17:24:41.773244+06:00"
+    },
+    "evt_2c7ee402afa48a": {
+      "event_id": "evt_2c7ee402afa48a",
+      "event_key": "microsoft xboxgamepass october2026 secondwave announcement",
+      "event_subject": "Xbox Game Pass October 2026 second wave of titles",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft xboxgamepass october2026 secondwave announcement",
+        "subject": "Xbox Game Pass October 2026 second wave of titles",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Various (The Séance of Blake Manor, Mouthwashing, Final Fantasy VII Remake Intergrade)",
+        "franchise": "Various (The Séance of Blake Manor, Mouthwashing, Final Fantasy VII Remake Intergrade)",
+        "institution": "Microsoft/Xbox",
+        "target": "Xbox Game Pass",
+        "platforms": [
+          "Xbox Series X|S",
+          "Xbox Cloud Gaming"
+        ],
+        "topic": "Game Pass lineup"
+      },
+      "modality": "unknown",
+      "topic": "Game Pass lineup",
+      "institution": "Microsoft/Xbox",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Second batch of games added to Xbox Game Pass for October 2026"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-10-21T17:24:41.773249+06:00"
+    },
+    "evt_fdd49252394e61": {
+      "event_id": "evt_fdd49252394e61",
+      "event_key": "lifeisstrange director amazontv adaptation blessing",
+      "event_subject": "Life Is Strange director praises Amazon TV adaptation",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "lifeisstrange director amazontv adaptation blessing",
+        "subject": "Life Is Strange director praises Amazon TV adaptation",
+        "event_type": "other",
+        "action": "comment",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Life Is Strange",
+        "franchise": "Life Is Strange",
+        "institution": "Amazon Studios",
+        "target": "Life Is Strange fans",
+        "platforms": [
+          "Streaming"
+        ],
+        "topic": "Adaptation approval"
+      },
+      "modality": "unknown",
+      "topic": "Adaptation approval",
+      "institution": "Amazon Studios",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Director gave his blessing after visiting set"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-10-21T17:24:41.773255+06:00"
+    },
+    "evt_29937152b48665": {
+      "event_id": "evt_29937152b48665",
+      "event_key": "unknownworlds subnautica2 earlyaccess2 update scariestregion",
+      "event_subject": "Subnautica 2 major update preview",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "unknownworlds subnautica2 earlyaccess2 update scariestregion",
+        "subject": "Subnautica 2 major update preview",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Subnautica 2",
+        "franchise": "Subnautica 2",
+        "institution": "Unknown Worlds Entertainment",
+        "target": "Subnautica 2 community",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "Game update"
+      },
+      "modality": "unknown",
+      "topic": "Game update",
+      "institution": "Unknown Worlds Entertainment",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Next major update will introduce the \"scariest\" region ever"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 37
+      },
+      "last_seen": "2026-10-21T17:24:41.773262+06:00"
+    },
+    "evt_31343f9668d884": {
+      "event_id": "evt_31343f9668d884",
+      "event_key": "activision modernwarfare4 stranded puzzleguide guide",
+      "event_subject": "Modern Warfare 4 – ‘Stranded’ keypad puzzle guide",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "activision modernwarfare4 stranded puzzleguide guide",
+        "subject": "Modern Warfare 4 – ‘Stranded’ keypad puzzle guide",
+        "event_type": "other",
+        "action": "document",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Call of Duty: Modern Warfare 4",
+        "franchise": "Call of Duty",
+        "institution": "Activision",
+        "target": "Stranded puzzle",
+        "platforms": [],
+        "topic": "Gameplay walkthrough"
+      },
+      "modality": "unknown",
+      "topic": "Gameplay walkthrough",
+      "institution": "Activision",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "All keypad codes and solutions are listed"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-10-21T17:24:41.773268+06:00"
+    },
+    "evt_f863f49a468cdc": {
+      "event_id": "evt_f863f49a468cdc",
+      "event_key": "activision callofdutymw4 dmz patch fix progressionai",
+      "event_subject": "MW4 DMZ patch fixes progression and AI issues",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "activision callofdutymw4 dmz patch fix progressionai",
+        "subject": "MW4 DMZ patch fixes progression and AI issues",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Call of Duty: Modern Warfare 4",
+        "franchise": "Call of Duty",
+        "institution": "Activision",
+        "target": "MW4 DMZ players",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "Patch notes"
+      },
+      "modality": "unknown",
+      "topic": "Patch notes",
+      "institution": "Activision",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Patch addresses progression bugs and over‑aggressive enemy AI"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 32
+      },
+      "last_seen": "2026-10-21T17:24:41.773274+06:00"
+    },
+    "evt_61080349b75fc0": {
+      "event_id": "evt_61080349b75fc0",
+      "event_key": "pcgamer graphicscard meltprevention gadget review",
+      "event_subject": "Gadget to prevent GPU connector melting",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pcgamer graphicscard meltprevention gadget review",
+        "subject": "Gadget to prevent GPU connector melting",
+        "event_type": "other",
+        "action": "review",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PC Gamer",
+        "target": "PC builders",
+        "platforms": [],
+        "topic": "Hardware accessory"
+      },
+      "modality": "unknown",
+      "topic": "Hardware accessory",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Accessory aims to avoid 12+4‑pin connector overheating"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-10-21T17:24:41.773280+06:00"
+    },
+    "evt_bc392bc6d757ae": {
+      "event_id": "evt_bc392bc6d757ae",
+      "event_key": "krafton crimsondesert dlc features shipbuilding marriage",
+      "event_subject": "Crimson Desert DLC details",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "krafton crimsondesert dlc features shipbuilding marriage",
+        "subject": "Crimson Desert DLC details",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Crimson Desert",
+        "franchise": "Crimson Desert",
+        "institution": "Krafton",
+        "target": "Crimson Desert players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "DLC features"
+      },
+      "modality": "unknown",
+      "topic": "DLC features",
+      "institution": "Krafton",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "New DLC adds shipbuilding, marriage and a turtle mount"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-10-21T17:24:41.773286+06:00"
+    },
+    "evt_4771eb72bc8b97": {
+      "event_id": "evt_4771eb72bc8b97",
+      "event_key": "msi claw8exai review review",
+      "event_subject": "MSI Claw 8 EX AI+ handheld review",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "msi claw8exai review review",
+        "subject": "MSI Claw 8 EX AI+ handheld review",
+        "event_type": "review",
+        "action": "evaluate",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "MSI",
+        "target": "Claw 8 EX AI+ handheld",
+        "platforms": [],
+        "topic": "Handheld PC review"
+      },
+      "modality": "unknown",
+      "topic": "Handheld PC review",
+      "institution": "MSI",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The device offers strong performance with typical Windows handheld drawbacks"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-10-21T17:24:41.773293+06:00"
+    },
+    "evt_86e8525572e876": {
+      "event_id": "evt_86e8525572e876",
+      "event_key": "xbox nextgen cost rumor evercadenexus alternative",
+      "event_subject": "Rumor about $1,800 next‑gen Xbox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox nextgen cost rumor evercadenexus alternative",
+        "subject": "Rumor about $1,800 next‑gen Xbox",
+        "event_type": "other",
+        "action": "report",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Xbox",
+        "institution": "Microsoft",
+        "target": "Console buyers",
+        "platforms": [],
+        "topic": "Hardware pricing"
+      },
+      "modality": "unknown",
+      "topic": "Hardware pricing",
+      "institution": "Microsoft",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Next Xbox could cost $1,800; suggests Evercade Nexus as cheaper alternative"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-10-21T17:24:41.773299+06:00"
+    },
+    "evt_778e7510542d56": {
+      "event_id": "evt_778e7510542d56",
+      "event_key": "activision callofdutymw4 dmz traitreset question",
+      "event_subject": "Can traits be reset in COD MW4 DMZ?",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "activision callofdutymw4 dmz traitreset question",
+        "subject": "Can traits be reset in COD MW4 DMZ?",
+        "event_type": "other",
+        "action": "inquire",
+        "status": "question",
+        "modality": "unknown",
+        "game": "Call of Duty: Modern Warfare 4",
+        "franchise": "Call of Duty",
+        "institution": "Activision",
+        "target": "MW4 DMZ players",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "Gameplay mechanics"
+      },
+      "modality": "unknown",
+      "topic": "Gameplay mechanics",
+      "institution": "Activision",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Exploring whether trait respec is possible"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 38
+      },
+      "last_seen": "2026-10-21T17:24:41.773305+06:00"
+    },
+    "evt_18ac1dd35310f4": {
+      "event_id": "evt_18ac1dd35310f4",
+      "event_key": "thelordoftherings huntforgollum casting jamiedornan",
+      "event_subject": "Jamie Dornan cast as young Aragorn",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "thelordoftherings huntforgollum casting jamiedornan",
+        "subject": "Jamie Dornan cast as young Aragorn",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "The Lord of the Rings: The Hunt for Gollum",
+        "franchise": "The Lord of the Rings",
+        "institution": "Amazon Studios",
+        "target": "Game & film fans",
+        "platforms": [],
+        "topic": "Casting"
+      },
+      "modality": "unknown",
+      "topic": "Casting",
+      "institution": "Amazon Studios",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Dornan will portray a younger Aragorn"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-10-21T17:24:41.773310+06:00"
+    },
+    "evt_1728c847d54f19": {
+      "event_id": "evt_1728c847d54f19",
+      "event_key": "netflix cyberpunkedgerunners season3 rumor",
+      "event_subject": "Potential third season of Cyberpunk: Edgerunners",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "netflix cyberpunkedgerunners season3 rumor",
+        "subject": "Potential third season of Cyberpunk: Edgerunners",
+        "event_type": "other",
+        "action": "speculate",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Cyberpunk: Edgerunners",
+        "institution": "Netflix",
+        "target": "Cyberpunk fans",
+        "platforms": [
+          "Streaming"
+        ],
+        "topic": "Series continuation"
+      },
+      "modality": "unknown",
+      "topic": "Series continuation",
+      "institution": "Netflix",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Possibility of Season 3 discussed by creators"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-10-21T17:24:41.773316+06:00"
+    },
+    "evt_382fa05ac5c13a": {
+      "event_id": "evt_382fa05ac5c13a",
+      "event_key": "shrek2 remastered pc requirements surprise",
+      "event_subject": "Shrek 2 Remastered PC specs cause surprise",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "shrek2 remastered pc requirements surprise",
+        "subject": "Shrek 2 Remastered PC specs cause surprise",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Shrek 2 Remastered",
+        "franchise": "Shrek",
+        "institution": "N/A",
+        "target": "PC gamers",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "Performance requirements"
+      },
+      "modality": "unknown",
+      "topic": "Performance requirements",
+      "institution": "N/A",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Recommended specs are higher than expected for remaster"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-10-21T17:24:41.773322+06:00"
+    },
+    "evt_08ba86c3e57c55": {
+      "event_id": "evt_08ba86c3e57c55",
+      "event_key": "cdprojektred edgerunners2 yearconfirmation spoiler",
+      "event_subject": "Edgerunners season 2 set year confirmed",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "cdprojektred edgerunners2 yearconfirmation spoiler",
+        "subject": "Edgerunners season 2 set year confirmed",
+        "event_type": "other",
+        "action": "confirm",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Cyberpunk: Edgerunners",
+        "institution": "CD Projekt Red",
+        "target": "Edgers fans",
+        "platforms": [],
+        "topic": "Series timeline"
+      },
+      "modality": "unknown",
+      "topic": "Series timeline",
+      "institution": "CD Projekt Red",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Season 2 takes place after Cyberpunk 2077 events"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-10-21T17:24:41.773329+06:00"
+    },
+    "evt_58501eaab68b19": {
+      "event_id": "evt_58501eaab68b19",
+      "event_key": "activision callofdutymw4 dmz traits list reference",
+      "event_subject": "Complete list of DMZ operator traits",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "activision callofdutymw4 dmz traits list reference",
+        "subject": "Complete list of DMZ operator traits",
+        "event_type": "other",
+        "action": "publish",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Call of Duty: Modern Warfare 4",
+        "franchise": "Call of Duty",
+        "institution": "Activision",
+        "target": "MW4 DMZ players",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "Gameplay guide"
+      },
+      "modality": "unknown",
+      "topic": "Gameplay guide",
+      "institution": "Activision",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Full enumeration of all operator traits and effects"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-10-21T17:24:41.773335+06:00"
+    },
+    "evt_fff3b89268f556": {
+      "event_id": "evt_fff3b89268f556",
+      "event_key": "kojima deathstranding walkingsimulator commentary",
+      "event_subject": "Kojima comments on walking‑simulator remarks about Death Stranding",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "kojima deathstranding walkingsimulator commentary",
+        "subject": "Kojima comments on walking‑simulator remarks about Death Stranding",
+        "event_type": "other",
+        "action": "comment",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Death Stranding",
+        "franchise": "Death Stranding",
+        "institution": "Kojima Productions",
+        "target": "Gaming community",
+        "platforms": [],
+        "topic": "Industry commentary"
+      },
+      "modality": "unknown",
+      "topic": "Industry commentary",
+      "institution": "Kojima Productions",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Calls social media hive‑mind narratives \"scary\""
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 37
+      },
+      "last_seen": "2026-10-21T17:24:41.773341+06:00"
+    },
+    "evt_f1a5c20f83572a": {
+      "event_id": "evt_f1a5c20f83572a",
+      "event_key": "sony ps5 firmware 26 07 14 20 00 release update",
+      "event_subject": "PS5 firmware version 26.07-14.20.00",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "sony ps5 firmware 26 07 14 20 00 release update",
+        "subject": "PS5 firmware version 26.07-14.20.00",
+        "event_type": "update",
+        "action": "release",
+        "status": "released",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Sony Interactive Entertainment",
+        "target": "PS5 console",
+        "platforms": [
+          "PlayStation 5"
+        ],
+        "topic": "PS5 system software"
+      },
+      "modality": "unknown",
+      "topic": "PS5 system software",
+      "institution": "Sony Interactive Entertainment",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Sony has pushed the new firmware to consoles"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-21T17:24:41.773347+06:00"
+    },
+    "evt_484628e91149bd": {
+      "event_id": "evt_484628e91149bd",
+      "event_key": "paramount aquietplace3 casting cillianmurphy jackoconnell",
+      "event_subject": "Casting news for A Quiet Place 3",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "paramount aquietplace3 casting cillianmurphy jackoconnell",
+        "subject": "Casting news for A Quiet Place 3",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "A Quiet Place",
+        "institution": "Paramount Pictures",
+        "target": "A Quiet Place 3 audience",
+        "platforms": [],
+        "topic": "Film casting"
+      },
+      "modality": "unknown",
+      "topic": "Film casting",
+      "institution": "Paramount Pictures",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Cillian Murphy and Jack O'Connell will play brothers"
+      ],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-10-21T17:24:41.773354+06:00"
+    },
+    "evt_662227d5644863": {
+      "event_id": "evt_662227d5644863",
+      "event_key": "edgerunners2 v cameo fanspeculation canon",
+      "event_subject": "Fans speculate V appears in Edgerunners season 2",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "edgerunners2 v cameo fanspeculation canon",
+        "subject": "Fans speculate V appears in Edgerunners season 2",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Cyberpunk: Edgerunners",
+        "institution": "CD Projekt Red",
+        "target": "Edgerunners fans",
+        "platforms": [],
+        "topic": "Story speculation"
+      },
+      "modality": "unknown",
+      "topic": "Story speculation",
+      "institution": "CD Projekt Red",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Possible cameo could make female V canon"
+      ],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-10-21T17:24:41.773360+06:00"
+    },
+    "evt_99f36ecd0ded74": {
+      "event_id": "evt_99f36ecd0ded74",
+      "event_key": "youtube johndillingerfilm release free",
+      "event_subject": "Johnny Depp‑starring John Dillinger film",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "youtube johndillingerfilm release free",
+        "subject": "Johnny Depp‑starring John Dillinger film",
+        "event_type": "release",
+        "action": "make free",
+        "status": "available",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "YouTube",
+        "target": "film",
+        "platforms": [
+          "YouTube"
+        ],
+        "topic": "Classic film streaming"
+      },
+      "modality": "unknown",
+      "topic": "Classic film streaming",
+      "institution": "YouTube",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "The film is now free to watch on YouTube"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-10-21T17:24:41.773366+06:00"
+    },
+    "evt_0ce97fb5232ef8": {
+      "event_id": "evt_0ce97fb5232ef8",
+      "event_key": "disney spiritjerseys festive design release",
+      "event_subject": "Disney Spirit Jerseys Halloween design",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "disney spiritjerseys festive design release",
+        "subject": "Disney Spirit Jerseys Halloween design",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Disney",
+        "institution": "Disney",
+        "target": "Disney merchandise fans",
+        "platforms": [],
+        "topic": "Merchandise"
+      },
+      "modality": "unknown",
+      "topic": "Merchandise",
+      "institution": "Disney",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "New Halloween-themed Spirit Jersey now available"
+      ],
+      "importance_score": 28,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 28
+      },
+      "last_seen": "2026-10-21T17:24:41.773373+06:00"
+    },
+    "evt_a6fe1e34e47b45": {
+      "event_id": "evt_a6fe1e34e47b45",
+      "event_key": "paulgreengrass bond film offer decline",
+      "event_subject": "Greengrass turned down Bond film offer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "paulgreengrass bond film offer decline",
+        "subject": "Greengrass turned down Bond film offer",
+        "event_type": "other",
+        "action": "decline",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "James Bond",
+        "institution": "Unknown",
+        "target": "Bond franchise",
+        "platforms": [],
+        "topic": "Industry news"
+      },
+      "modality": "unknown",
+      "topic": "Industry news",
+      "institution": "Unknown",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Director felt too loyal to his own franchise to take Bond job"
+      ],
+      "importance_score": 28,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 28
+      },
+      "last_seen": "2026-10-21T17:24:41.773379+06:00"
+    },
+    "evt_be11cf5aefceae": {
+      "event_id": "evt_be11cf5aefceae",
+      "event_key": "residentevil zachcregger batman project interest",
+      "event_subject": "Zach Cregger still wants to make Batman story",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "residentevil zachcregger batman project interest",
+        "subject": "Zach Cregger still wants to make Batman story",
+        "event_type": "other",
+        "action": "express",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Batman",
+        "institution": "Zach Cregger",
+        "target": "Batman fans",
+        "platforms": [],
+        "topic": "Film development"
+      },
+      "modality": "unknown",
+      "topic": "Film development",
+      "institution": "Zach Cregger",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Director remains fascinated with making a Batman film"
+      ],
+      "importance_score": 28,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 28
+      },
+      "last_seen": "2026-10-21T17:24:41.773385+06:00"
+    },
+    "evt_644f4e7b372f6d": {
+      "event_id": "evt_644f4e7b372f6d",
+      "event_key": "calvinandhobbes comics feature funny parents",
+      "event_subject": "Calvin and Hobbes comics about parents",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "calvinandhobbes comics feature funny parents",
+        "subject": "Calvin and Hobbes comics about parents",
+        "event_type": "other",
+        "action": "publish",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Calvin and Hobbes",
+        "institution": "Bill Watterson",
+        "target": "Comic readers",
+        "platforms": [],
+        "topic": "Comic roundup"
+      },
+      "modality": "unknown",
+      "topic": "Comic roundup",
+      "institution": "Bill Watterson",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Collection of 7 funniest strips featuring Calvin's mom and dad"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-10-21T17:24:41.773391+06:00"
     }
   },
   "posted_event_ids": [
@@ -147555,7 +150534,20 @@
     "evt_1a0afdcd737d7b",
     "evt_45fdae84eaeaf5",
     "evt_c23991cb3d752e",
-    "evt_2a1c3c6363615e"
+    "evt_2a1c3c6363615e",
+    "evt_c5d4840e619311",
+    "evt_9174d033751968",
+    "evt_5b12e4aa01094e",
+    "evt_5d3c668dab5351",
+    "evt_886364b16d8738",
+    "evt_58501eaab68b19",
+    "evt_2cb47d6622d9b0",
+    "evt_438cd0d9653ac7",
+    "evt_58d7e69d0335c2",
+    "evt_12b6da695c704e",
+    "evt_d882136aafb64a",
+    "evt_fff3b89268f556",
+    "evt_29937152b48665"
   ],
   "recent_titles": [
     "riot games mulls premium titles amid free to play dominance",
@@ -147955,16 +150947,29 @@
     "xbox adds eight indie gems to game pass at october showcase",
     "fallout 4 fever dreams surprise release revives wasteland adventure",
     "best buy cuts 10 off gift cards with select fall 2026 game purchases",
-    "physical edition of denshattack coming to switch 2 in 2027"
+    "physical edition of denshattack coming to switch 2 in 2027",
+    "xbox plans three additional layoff rounds amid cost cutting drive",
+    "pegi raises loot box game ratings to 16 across europe",
+    "amd fsr 4 1 upscaling arrives on xbox series x s and rog ally x",
+    "sony deploys new ps5 firmware amid escalating jailbreak race",
+    "melted 12 4 pin nvidia gpus flood chinese repair shop",
+    "all modern warfare 4 dmz operator traits revealed with full effects",
+    "critical role teams up with the rings of power for middle earth one shot at twitchcon",
+    "critical php flaws prompt emergency updates across web servers",
+    "xbox game pass october lineup adds final fantasy vii remake intergrade",
+    "xbox cto unveils new blades dashboard prototype",
+    "tencent s ordinary oddness unveiled as bizarre ps5 open world rpg",
+    "kojima warns social media hivemind mislabels death stranding as walking simulator",
+    "subnautica 2 announces scariest region in upcoming early access 2 0 update"
   ],
   "category_coverage": {
-    "Game Updates": "2026-10-21T02:06:57.554699+06:00",
+    "Game Updates": "2026-10-21T17:39:51.781071+06:00",
     "Major Releases": "2026-10-21T11:46:23.854975+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
     "Nintendo": "2026-09-09T21:29:41.864902+06:00",
     "Expansions and DLC": "2026-10-15T21:53:17.497684+06:00",
-    "Gaming Hardware": "2026-10-21T02:06:14.443703+06:00",
+    "Gaming Hardware": "2026-10-21T17:38:48.865253+06:00",
     "Cybersecurity": "2026-10-14T17:19:55.509114+06:00",
     "Pricing and Monetization": "2026-10-03T01:17:37.865799+06:00",
     "Anti-Cheat": "2026-10-21T02:06:25.030099+06:00",
