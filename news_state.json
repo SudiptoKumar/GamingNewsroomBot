@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1d97b-5bvIcvg2SsDCz+N89AeXOz6424M\"",
+      "etag": "W/\"1e5fa-/GqzLtP3MPc8/NyXpc1nmQPLjUY\"",
       "last_modified": null,
-      "last_checked": "2026-10-22T11:45:57.424770+06:00",
+      "last_checked": "2026-10-22T17:11:51.194882+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-22T11:45:57.623672+06:00",
+      "last_checked": "2026-10-22T17:11:51.370618+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ad9a2fb-b4b\"",
-      "last_modified": "Thu, 22 Oct 2026 05:45:31 GMT",
-      "last_checked": "2026-10-22T11:45:58.005168+06:00",
+      "etag": "\"6ad9ef28-b85\"",
+      "last_modified": "Thu, 22 Oct 2026 11:10:32 GMT",
+      "last_checked": "2026-10-22T17:11:51.703988+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Wed, 21 Oct 2026 19:01:46 GMT",
-      "last_checked": "2026-10-22T11:45:58.545103+06:00",
+      "last_modified": "Thu, 22 Oct 2026 09:10:43 GMT",
+      "last_checked": "2026-10-22T17:11:52.441061+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"50368e5f275b32df67ded5b01d1f0084\"",
-      "last_modified": "Thu, 22 Oct 2026 05:09:52 GMT",
-      "last_checked": "2026-10-22T11:45:58.740318+06:00",
+      "etag": "\"6ad9ad5e-1290\"",
+      "last_modified": "Thu, 22 Oct 2026 06:29:50 GMT",
+      "last_checked": "2026-10-22T17:11:52.729003+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-22T11:45:58.953553+06:00",
+      "last_checked": "2026-10-22T17:11:52.976593+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-22T11:46:00.022658+06:00",
+      "last_checked": "2026-10-22T17:11:53.810995+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"40668c1e83fc578e267f1c5c7a95b3d2\"",
-      "last_modified": "Wed, 21 Oct 2026 23:30:00 GMT",
-      "last_checked": "2026-10-22T11:46:00.243536+06:00",
+      "etag": "W/\"71267ad527790ed5971c6df7651e2cf6\"",
+      "last_modified": "Thu, 22 Oct 2026 10:45:49 GMT",
+      "last_checked": "2026-10-22T17:11:54.073016+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-22T11:46:00.487625+06:00",
+      "last_checked": "2026-10-22T17:11:54.244340+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Wed, 21 Oct 2026 17:49:48 GMT",
-      "last_checked": "2026-10-22T11:46:00.940997+06:00",
+      "last_modified": "Thu, 22 Oct 2026 08:22:57 GMT",
+      "last_checked": "2026-10-22T17:11:54.667162+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Thu, 22 Oct 2026 05:46:01 GMT",
-      "last_checked": "2026-10-22T11:46:01.708326+06:00",
+      "last_modified": "Thu, 22 Oct 2026 11:11:55 GMT",
+      "last_checked": "2026-10-22T17:11:55.373331+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"d87f110f8333f19e500b600612e1e5d8\"",
-      "last_modified": "Wed, 21 Oct 2026 22:14:51 GMT",
-      "last_checked": "2026-10-22T11:46:01.892803+06:00",
+      "etag": "W/\"98d69daf30f2c4f66193f680e5baa5f8\"",
+      "last_modified": "Thu, 22 Oct 2026 10:55:08 GMT",
+      "last_checked": "2026-10-22T17:11:55.515361+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-22T11:46:02.418804+06:00",
+      "last_checked": "2026-10-22T17:11:55.852054+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-22T11:46:02.974884+06:00",
+      "last_checked": "2026-10-22T17:11:56.249055+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-22T11:46:03.563936+06:00",
+      "last_checked": "2026-10-22T17:11:56.664897+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-22T11:46:03.933592+06:00",
-      "fail_count": 108,
+      "last_checked": "2026-10-22T17:11:56.882496+06:00",
+      "fail_count": 109,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"92fdf91cfc810440bb280eb669f296cc\"",
       "last_modified": "Wed, 21 Oct 2026 18:37:00 GMT",
-      "last_checked": "2026-10-22T11:46:04.061269+06:00",
+      "last_checked": "2026-10-22T17:11:57.021323+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-22T11:46:04.237775+06:00",
+      "last_checked": "2026-10-22T17:11:57.183643+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-22T11:46:04.411315+06:00",
-      "fail_count": 108,
+      "last_checked": "2026-10-22T17:11:57.338449+06:00",
+      "fail_count": 109,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"0620511a02068087e855b53b1c46863a\"",
       "last_modified": "Wed, 21 Oct 2026 13:41:03 GMT",
-      "last_checked": "2026-10-22T11:46:04.592128+06:00",
+      "last_checked": "2026-10-22T17:11:57.751980+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -154,136 +154,6 @@
       "status": "pending",
       "first_seen": "2026-10-17T20:04:04.005270+06:00",
       "last_seen": "2026-10-18T20:18:41.758420+06:00"
-    },
-    "eurogamer.net/game-boy-musuem-cartridge-marcel-pflug": {
-      "title": "In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons",
-      "url": "https://www.eurogamer.net/game-boy-musuem-cartridge-marcel-pflug",
-      "canonical": "eurogamer.net/game-boy-musuem-cartridge-marcel-pflug",
-      "published_dt": "2026-10-18T15:00:00+06:00",
-      "published_date": "2026-10-18T15:00:00+06:00",
-      "source": "Eurogamer",
-      "region": "Gaming",
-      "excerpt": "\"Let me be honest from the start: nobody was waiting for this. The world has many needs, and a Game Boy cartridge with no game inside it was not high on the list.\" So begins Dr Marcel Pflug's  explanation for one of the most unexpected projects I've come across in a while: a Game Boy reference museum that isn't just a Game Boy reference museum; it's one that works on a Game Boy cartridge . Read more",
-      "image": "https://assetsio.gnwcdn.com/game-boy-museum-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-18T16:26:45.285910+06:00",
-      "last_seen": "2026-10-18T16:26:45.285915+06:00"
-    },
-    "pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months": {
-      "title": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months",
-      "url": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
-      "canonical": "pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months",
-      "published_dt": "2026-10-18T15:50:29+06:00",
-      "published_date": "2026-10-18T15:50:29+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "The administrator is currently seeking a buyer for the studio and its assets.",
-      "image": "https://cdn.mos.cms.futurecdn.net/c3XaG7583gHQj3hZfsQNXm-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-10-18T16:26:46.368947+06:00",
-      "last_seen": "2026-10-18T16:26:46.368952+06:00",
-      "posted_at": "2026-10-18T16:28:00.309972+06:00"
-    },
-    "polygon.com/fromsoftware-echo-night-ps1": {
-      "title": "Before Dark Souls, FromSoftware’s Forgotten PS1 Horror Game Was a Haunting Exercise in Empathy",
-      "url": "https://www.polygon.com/fromsoftware-echo-night-ps1/",
-      "canonical": "polygon.com/fromsoftware-echo-night-ps1",
-      "published_dt": "2026-10-18T16:00:18+06:00",
-      "published_date": "2026-10-18T16:00:18+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "FromSoft’s Echo Night asks players to bring peace to the dead.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/echo-night.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-18T16:26:46.719648+06:00",
-      "last_seen": "2026-10-18T16:26:46.719652+06:00"
-    },
-    "polygon.com/10-best-horror-books-ranked-goodreads": {
-      "title": "The 10 Best Horror Books of All Time According to Goodreads, Ranked",
-      "url": "https://www.polygon.com/10-best-horror-books-ranked-goodreads/",
-      "canonical": "polygon.com/10-best-horror-books-ranked-goodreads",
-      "published_dt": "2026-10-18T15:00:18+06:00",
-      "published_date": "2026-10-18T15:00:18+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Pick up one of these tales of demons, vampires, or monsters for spooky season",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/carrie-white-prom.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-18T16:26:46.719756+06:00",
-      "last_seen": "2026-10-18T16:26:46.719758+06:00"
-    },
-    "polygon.com/stephen-king-the-shining-on-hbo-max": {
-      "title": "Stephen King and Stanley Kubrick's Near-Perfect Psychological Thriller Is Officially Back on Streaming",
-      "url": "https://www.polygon.com/stephen-king-the-shining-on-hbo-max/",
-      "canonical": "polygon.com/stephen-king-the-shining-on-hbo-max",
-      "published_dt": "2026-10-18T14:00:19+06:00",
-      "published_date": "2026-10-18T14:00:19+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Stephen King's novels have inspired many movies. One of the best is also one he deeply dislikes.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/image-1.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-18T16:26:46.719850+06:00",
-      "last_seen": "2026-10-18T16:26:46.719852+06:00"
-    },
-    "nintendolife.com/features/box-art-brawl-duel-metal-slug-advance-gba": {
-      "title": "Feature: Box Art Brawl - Duel: Metal Slug Advance (GBA)",
-      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-metal-slug-advance-gba",
-      "canonical": "nintendolife.com/features/box-art-brawl-duel-metal-slug-advance-gba",
-      "published_dt": "2026-10-18T15:00:00+06:00",
-      "published_date": "2026-10-18T15:00:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Mission 1 Start! Howdy folks, and welcome back to another edition of Box Art Brawl ! Before we get cracking this this week's brawl, let's see how things went down last week. We checked out Wii Sports Resort for the, uh, Wii. To say it was a one-sided battle would be quite the understatement. Europe and Japan comfortably won the vote with a staggering 84% turnout. North America took the remaining 16% – maybe next time, eh? Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/bb4d331d3b257/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-18T16:26:48.753250+06:00",
-      "last_seen": "2026-10-18T16:26:48.753254+06:00"
-    },
-    "nintendolife.com/news/2026/10/round-up-the-reviews-for-call-of-duty-modern-warfare-4s-campaign-are-in": {
-      "title": "Round Up: The Reviews For Call Of Duty: Modern Warfare 4's Campaign Are In",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-call-of-duty-modern-warfare-4s-campaign-are-in",
-      "canonical": "nintendolife.com/news/2026/10/round-up-the-reviews-for-call-of-duty-modern-warfare-4s-campaign-are-in",
-      "published_dt": "2026-10-18T13:30:00+06:00",
-      "published_date": "2026-10-18T13:30:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Here's what the critics had to say. Call of Duty: Modern Warfare 4 officially launches for Switch 2 and multiple other platforms next week on 23rd October 2026 . Early access for the campaign has also gone live this week, and the critic reviews are now rolling in. If you haven't already seen it, we've also shared our own impressions of the Switch 2 version here on Nintendo Life , with a full review to follow. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/b8f510922d359/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-18T16:26:48.753519+06:00",
-      "last_seen": "2026-10-18T16:26:48.753522+06:00"
-    },
-    "purexbox.com/news/2026/10/eight-games-are-leaving-xbox-game-pass-in-late-october-2026": {
-      "title": "Eight Games Are Leaving Xbox Game Pass In Late October 2026",
-      "url": "https://www.purexbox.com/news/2026/10/eight-games-are-leaving-xbox-game-pass-in-late-october-2026",
-      "canonical": "purexbox.com/news/2026/10/eight-games-are-leaving-xbox-game-pass-in-late-october-2026",
-      "published_dt": "2026-10-18T15:50:00+06:00",
-      "published_date": "2026-10-18T15:50:00+06:00",
-      "source": "Pure Xbox",
-      "region": "Gaming",
-      "excerpt": "The latest official batch of departures. Microsoft has revealed the next eight games leaving Xbox Game Pass in late October 2026, with all of these being highlighted as \"leaving soon\" on the official Xbox phone app. There are some pretty big favourites in here, including LEGO Star Wars: The Skywalker Saga and the always popular Deep Rock Galactic , so it's definitely worth giving those a try before the end of October if you haven't yet! Read the full article on purexbox.com",
-      "image": "https://images.purexbox.com/cfb7c6327c553/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-10-18T16:26:49.693932+06:00",
-      "last_seen": "2026-10-18T16:26:49.693936+06:00",
-      "posted_at": "2026-10-18T16:28:05.527366+06:00"
     },
     "gamespot.com/articles/fire-emblems-remarkable-comeback": {
       "title": "Fire Emblem’s Remarkable Comeback",
@@ -10795,6 +10665,779 @@
       "first_seen": "2026-10-22T11:46:02.440533+06:00",
       "last_seen": "2026-10-22T11:46:02.440548+06:00",
       "posted_at": "2026-10-22T11:48:20.788979+06:00"
+    },
+    "ign.com/articles/wardogs-fans-upset-region-lock": {
+      "title": "'Regions Are Cheating and We Need to Address It' — Wardogs Dev Says Region Locking Is About 'Protecting the Largest Amount of Players'",
+      "url": "https://www.ign.com/articles/wardogs-fans-upset-region-lock",
+      "canonical": "ign.com/articles/wardogs-fans-upset-region-lock",
+      "published_dt": "2026-10-22T16:38:21+06:00",
+      "published_date": "2026-10-22T16:38:21+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Bulkhead is rolling out region locking in Wardogs to, in the studio's words, protect \"the largest amount of players from an influx of regions that are more prone to cheating.\" However, legitimate players in Asia have raised concerns, and cross-region players have criticized the developer for blocked from joining their friends.",
+      "image": "https://assets-prd.ignimgs.com/2026/03/04/wardogs-blog-1772625638529.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:51.237989+06:00",
+      "last_seen": "2026-10-22T17:11:51.237994+06:00"
+    },
+    "ign.com/articles/resident-evil-developer-capcom-issues-phishing-warning-after-data-breach-hits-over-11-million-customer-accounts": {
+      "title": "Resident Evil Developer Capcom Issues Phishing Warning After Data Breach Hits Over 11 Million Customer Accounts",
+      "url": "https://www.ign.com/articles/resident-evil-developer-capcom-issues-phishing-warning-after-data-breach-hits-over-11-million-customer-accounts",
+      "canonical": "ign.com/articles/resident-evil-developer-capcom-issues-phishing-warning-after-data-breach-hits-over-11-million-customer-accounts",
+      "published_dt": "2026-10-22T16:17:24+06:00",
+      "published_date": "2026-10-22T16:17:24+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Capcom has disclosed a data breach of its online membership service affecting over 11 million customer accounts, warning gamers to brace themselves for potential phishing attempts.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/22/gettyimages-2230476823-1792664085949.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-22T17:11:51.238102+06:00",
+      "last_seen": "2026-10-22T17:11:51.238104+06:00",
+      "posted_at": "2026-10-22T17:23:10.228235+06:00"
+    },
+    "ign.com/articles/street-fighter-was-never-going-to-be-a-dark-grounded-batman-begins-style-movie-director-insists-the-studio-wanted-silliness-and-absurdity": {
+      "title": "Street Fighter Was Never Going to Be a Dark, Grounded Batman Begins-Style Movie, Director Insists — the Studio Wanted Silliness and Absurdity",
+      "url": "https://www.ign.com/articles/street-fighter-was-never-going-to-be-a-dark-grounded-batman-begins-style-movie-director-insists-the-studio-wanted-silliness-and-absurdity",
+      "canonical": "ign.com/articles/street-fighter-was-never-going-to-be-a-dark-grounded-batman-begins-style-movie-director-insists-the-studio-wanted-silliness-and-absurdity",
+      "published_dt": "2026-10-22T15:33:48+06:00",
+      "published_date": "2026-10-22T15:33:48+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Street Fighter is the number one movie in North America, but it’s sparked much debate about its goofy tone. Some fans of Capcom’s fighting game franchise had wanted something darker and more grounded than what they got, but according to the movie’s director, that was never on the cards.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/16/street-fighter-ending-explained-thumb-1792186722001.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:51.238177+06:00",
+      "last_seen": "2026-10-22T17:11:51.238178+06:00"
+    },
+    "ign.com/articles/pokemon-tcg-30th-celebration-elite-trainer-box-down-to-5999-at-amazon": {
+      "title": "Amazon Is Selling Pokémon TCG: 30th Celebration ETBs Below Market Rate — if You Can Secure an Invite",
+      "url": "https://www.ign.com/articles/pokemon-tcg-30th-celebration-elite-trainer-box-down-to-5999-at-amazon",
+      "canonical": "ign.com/articles/pokemon-tcg-30th-celebration-elite-trainer-box-down-to-5999-at-amazon",
+      "published_dt": "2026-10-22T14:33:40+06:00",
+      "published_date": "2026-10-22T14:33:40+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Amazon is now offering Pokémon TCG: 30th Celebration Elite Trainer Boxes for $59.99, around 50% below the current market price. Here's how to request an invite to purchase and when you can expect to buy.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/25/target-pokemon-tcg-restock-1790332390787.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:51.238245+06:00",
+      "last_seen": "2026-10-22T17:11:51.238246+06:00"
+    },
+    "videogameschronicle.com/news/mass-effect-tv-series-still-in-production-despite-bioware-closure-as-game-director-writes-at-least-i-can-play-gta-6": {
+      "title": "Mass Effect TV series ‘still in production’ despite BioWare closure, as game director writes: ‘At least I can play GTA 6’",
+      "url": "https://www.videogameschronicle.com/news/mass-effect-tv-series-still-in-production-despite-bioware-closure-as-game-director-writes-at-least-i-can-play-gta-6/",
+      "canonical": "videogameschronicle.com/news/mass-effect-tv-series-still-in-production-despite-bioware-closure-as-game-director-writes-at-least-i-can-play-gta-6",
+      "published_dt": "2026-10-22T17:06:04+06:00",
+      "published_date": "2026-10-22T17:06:04+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Amazon's Mass Effect series is reportedly unaffected by this week's game cancellation",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:51.709414+06:00",
+      "last_seen": "2026-10-22T17:11:51.709416+06:00"
+    },
+    "videogameschronicle.com/guide/cod-mw4-campaign-all-codes-for-safes-doors-and-lockboxes": {
+      "title": "COD MW4 Campaign: All codes for safes, doors, and lockboxes",
+      "url": "https://www.videogameschronicle.com/guide/cod-mw4-campaign-all-codes-for-safes-doors-and-lockboxes/",
+      "canonical": "videogameschronicle.com/guide/cod-mw4-campaign-all-codes-for-safes-doors-and-lockboxes",
+      "published_dt": "2026-10-22T17:00:21+06:00",
+      "published_date": "2026-10-22T17:00:21+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "All codes you need to find optional items in Call of Duty: Modern Warfare 4's Campaign",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:51.709504+06:00",
+      "last_seen": "2026-10-22T17:11:51.709505+06:00"
+    },
+    "videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected": {
+      "title": "Capcom says a data breach affected more than 11 million Capcom ID accounts, credit card details unaffected",
+      "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/",
+      "canonical": "videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected",
+      "published_dt": "2026-10-22T15:45:28+06:00",
+      "published_date": "2026-10-22T15:45:28+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Around 200 passwords were changed as a result of the breach",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:51.709577+06:00",
+      "last_seen": "2026-10-22T17:11:51.709578+06:00"
+    },
+    "videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important": {
+      "title": "Masahiro Sakurai says as AI games dominate Steam, developers who are truly creative will become even more important",
+      "url": "https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important/",
+      "canonical": "videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important",
+      "published_dt": "2026-10-22T15:17:50+06:00",
+      "published_date": "2026-10-22T15:17:50+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "The Smash Bros and Kirby creator worries most games are becoming imitations of existing titles",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:51.709646+06:00",
+      "last_seen": "2026-10-22T17:11:51.709647+06:00"
+    },
+    "eurogamer.net/xbox-cloud-gaming-prices-revealed": {
+      "title": "Xbox cloud gaming prices revealed, with 50 hours of ad-free game-time priced $11.99",
+      "url": "https://www.eurogamer.net/xbox-cloud-gaming-prices-revealed",
+      "canonical": "eurogamer.net/xbox-cloud-gaming-prices-revealed",
+      "published_dt": "2026-10-22T15:10:43+06:00",
+      "published_date": "2026-10-22T15:10:43+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Microsoft has revealed how much its Xbox cloud gaming service is going to cost, with 50 hours of stream-time selling for an introductory price of $11.99. Read more",
+      "image": "https://assetsio.gnwcdn.com/asobo-talks-opening-up-flight-simulators-world-to-everyone-via-xbox-cloud-gaming-1646154881580.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-22T17:11:52.492811+06:00",
+      "last_seen": "2026-10-22T17:11:52.492815+06:00",
+      "posted_at": "2026-10-22T17:23:26.069438+06:00"
+    },
+    "eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report": {
+      "title": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn",
+      "url": "https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
+      "canonical": "eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
+      "published_dt": "2026-10-22T14:40:15+06:00",
+      "published_date": "2026-10-22T14:40:15+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "A new Star Wars: Battlefront game is reportedly in the works, and it's said to have Apex Legends and Star Wars Jedi studio Respawn working on it, as well as Battlefield and Battlefront developer DICE. Read more",
+      "image": "https://assetsio.gnwcdn.com/ea-is-forging-ahead-with-star-wars-titles-despite-end-of-exclusivity-deal-1612351239770.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-22T17:11:52.493019+06:00",
+      "last_seen": "2026-10-22T17:11:52.493021+06:00",
+      "posted_at": "2026-10-22T17:23:31.407960+06:00"
+    },
+    "pcgamer.com/hardware/the-iconic-windows-fish-screensaver-was-inspired-by-a-dentists-office-which-makes-a-lot-of-sense-when-you-think-about-it": {
+      "title": "The iconic Windows fish screensaver was inspired by a dentist's office, which makes a lot of sense when you think about it",
+      "url": "https://www.pcgamer.com/hardware/the-iconic-windows-fish-screensaver-was-inspired-by-a-dentists-office-which-makes-a-lot-of-sense-when-you-think-about-it/",
+      "canonical": "pcgamer.com/hardware/the-iconic-windows-fish-screensaver-was-inspired-by-a-dentists-office-which-makes-a-lot-of-sense-when-you-think-about-it",
+      "published_dt": "2026-10-22T16:58:33+06:00",
+      "published_date": "2026-10-22T16:58:33+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Top ten screensaver?",
+      "image": "https://cdn.mos.cms.futurecdn.net/qwdLL2AC6gWQTMZNmursuM-1920-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:53.414233+06:00",
+      "last_seen": "2026-10-22T17:11:53.414237+06:00"
+    },
+    "pcgamer.com/movies-tv/mass-effects-amazon-series-is-reportedly-continuing-after-bioware-shutdown-whichll-make-an-uncomfortable-gravestone-for-the-studios-work": {
+      "title": "Mass Effect's Amazon series is reportedly continuing after BioWare shutdown, which'll make an uncomfortable gravestone for the studio's work",
+      "url": "https://www.pcgamer.com/movies-tv/mass-effects-amazon-series-is-reportedly-continuing-after-bioware-shutdown-whichll-make-an-uncomfortable-gravestone-for-the-studios-work/",
+      "canonical": "pcgamer.com/movies-tv/mass-effects-amazon-series-is-reportedly-continuing-after-bioware-shutdown-whichll-make-an-uncomfortable-gravestone-for-the-studios-work",
+      "published_dt": "2026-10-22T16:52:44+06:00",
+      "published_date": "2026-10-22T16:52:44+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Here lies BioWare's sci-fi opera, you can tell because we put 'Mass Effect' on the gravestone.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ncQwyMwrdc34veGSVsc8DP-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:53.414317+06:00",
+      "last_seen": "2026-10-22T17:11:53.414318+06:00"
+    },
+    "pcgamer.com/games/mmo/star-wars-the-old-republic-lead-writer-calls-out-bioware-for-snubbing-the-mmo": {
+      "title": "Star Wars: The Old Republic lead writer calls out BioWare for snubbing the MMO",
+      "url": "https://www.pcgamer.com/games/mmo/star-wars-the-old-republic-lead-writer-calls-out-bioware-for-snubbing-the-mmo/",
+      "canonical": "pcgamer.com/games/mmo/star-wars-the-old-republic-lead-writer-calls-out-bioware-for-snubbing-the-mmo",
+      "published_dt": "2026-10-22T16:51:53+06:00",
+      "published_date": "2026-10-22T16:51:53+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "The long-running MMO didn't get a mention when BioWare announced it was closing.",
+      "image": "https://cdn.mos.cms.futurecdn.net/VhX9aPj2cv9pvwxxepKE6C-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:53.414383+06:00",
+      "last_seen": "2026-10-22T17:11:53.414384+06:00"
+    },
+    "pcgamer.com/games/call-of-duty/dmz-electronic-sensors-location": {
+      "title": "How to get electronic sensors in Modern Warfare 4 DMZ",
+      "url": "https://www.pcgamer.com/games/call-of-duty/dmz-electronic-sensors-location/",
+      "canonical": "pcgamer.com/games/call-of-duty/dmz-electronic-sensors-location",
+      "published_dt": "2026-10-22T16:26:58+06:00",
+      "published_date": "2026-10-22T16:26:58+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "One of two materials you'll need to expand your stash.",
+      "image": "https://cdn.mos.cms.futurecdn.net/dQxXi738t9kDCNLUpeZcAe-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:53.414445+06:00",
+      "last_seen": "2026-10-22T17:11:53.414446+06:00"
+    },
+    "pcgamer.com/hardware/controllers/black-friday-controller-deals": {
+      "title": "Best Black Friday controller deals",
+      "url": "https://www.pcgamer.com/hardware/controllers/black-friday-controller-deals/",
+      "canonical": "pcgamer.com/hardware/controllers/black-friday-controller-deals",
+      "published_dt": "2026-10-22T16:04:38+06:00",
+      "published_date": "2026-10-22T16:04:38+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "With the Black Friday sales rolling around again, peripherals like controllers could have some of the best deals.",
+      "image": "https://cdn.mos.cms.futurecdn.net/SHB4vmy4M9VU5rbKmWiXW5-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:53.414505+06:00",
+      "last_seen": "2026-10-22T17:11:53.414507+06:00"
+    },
+    "pcgamer.com/hardware/pc-cases/cooler-master-haf-ii-500-review": {
+      "title": "Cooler Master HAF II 500 review",
+      "url": "https://www.pcgamer.com/hardware/pc-cases/cooler-master-haf-ii-500-review/",
+      "canonical": "pcgamer.com/hardware/pc-cases/cooler-master-haf-ii-500-review",
+      "published_dt": "2026-10-22T14:48:50+06:00",
+      "published_date": "2026-10-22T14:48:50+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Three mighty fans make for a mighty amount of airflow.",
+      "image": "https://cdn.mos.cms.futurecdn.net/zCDhvBjY4FquBpnBsv2KwJ-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:53.414567+06:00",
+      "last_seen": "2026-10-22T17:11:53.414568+06:00"
+    },
+    "polygon.com/nintendo-switch-2-open-world-era": {
+      "title": "The Nintendo Switch 2’s Open-World Era Is Officially Here, and It Rules",
+      "url": "https://www.polygon.com/nintendo-switch-2-open-world-era/",
+      "canonical": "polygon.com/nintendo-switch-2-open-world-era",
+      "published_dt": "2026-10-22T17:00:17+06:00",
+      "published_date": "2026-10-22T17:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Nintendo Switch Sports Resort's excellent open-world modes continues an emerging Switch 2 trend started with Mario Kart World.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/nintendo-switch-sports-resort-prop-plane-wuhu-island.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:53.815738+06:00",
+      "last_seen": "2026-10-22T17:11:53.815751+06:00"
+    },
+    "polygon.com/devilman-crybaby-horror-anime-halloween-countdown": {
+      "title": "Anime's Most Devastating Horror Story Is a Tragedy About Being Human",
+      "url": "https://www.polygon.com/devilman-crybaby-horror-anime-halloween-countdown/",
+      "canonical": "polygon.com/devilman-crybaby-horror-anime-halloween-countdown",
+      "published_dt": "2026-10-22T16:00:18+06:00",
+      "published_date": "2026-10-22T16:00:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Devilman Crybaby is a brutal anime that transforms the end of the world into a nightmare about what makes us human.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/devilman-crybaby-2-1.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:53.815833+06:00",
+      "last_seen": "2026-10-22T17:11:53.815835+06:00"
+    },
+    "polygon.com/phantom-blade-zero-physical-release-disc": {
+      "title": "Phantom Blade Zero Will Get a Physical Release, But There's a Catch",
+      "url": "https://www.polygon.com/phantom-blade-zero-physical-release-disc/",
+      "canonical": "polygon.com/phantom-blade-zero-physical-release-disc",
+      "published_dt": "2026-10-22T15:43:37+06:00",
+      "published_date": "2026-10-22T15:43:37+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Phantom Blade Zero will have a physical edition, but it will not be available on launch day.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/phantom-blade-1.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:53.815903+06:00",
+      "last_seen": "2026-10-22T17:11:53.815905+06:00"
+    },
+    "gamesradar.com/games/dragon-age/ea-killing-bioware-could-lead-to-mass-effect-and-dragon-age-rights-being-sold-former-lead-says-but-they-could-just-as-easily-bury-them-in-the-vault": {
+      "title": "EA killing BioWare could lead to Mass Effect and Dragon Age rights being sold, ex-studio lead says",
+      "url": "https://www.gamesradar.com/games/dragon-age/ea-killing-bioware-could-lead-to-mass-effect-and-dragon-age-rights-being-sold-former-lead-says-but-they-could-just-as-easily-bury-them-in-the-vault/",
+      "canonical": "gamesradar.com/games/dragon-age/ea-killing-bioware-could-lead-to-mass-effect-and-dragon-age-rights-being-sold-former-lead-says-but-they-could-just-as-easily-bury-them-in-the-vault",
+      "published_dt": "2026-10-22T17:02:52+06:00",
+      "published_date": "2026-10-22T17:02:52+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Don't expect new installments of either any time soon",
+      "image": "https://cdn.mos.cms.futurecdn.net/fskhL84aLabt5ksXKsG9YC-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:54.355422+06:00",
+      "last_seen": "2026-10-22T17:11:54.355426+06:00"
+    },
+    "gamesradar.com/toys-collectibles/lego-rayquaza-72168-review": {
+      "title": "Lego Rayquaza #72168 review: \"One of the best Pokemon builds, even if the price remains less than legendary\"",
+      "url": "https://www.gamesradar.com/toys-collectibles/lego-rayquaza-72168-review/",
+      "canonical": "gamesradar.com/toys-collectibles/lego-rayquaza-72168-review",
+      "published_dt": "2026-10-22T17:00:00+06:00",
+      "published_date": "2026-10-22T17:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Lego Rayquaza #72168 review",
+      "image": "https://cdn.mos.cms.futurecdn.net/yK5gcU5phRD443agiqaWd4-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:54.355500+06:00",
+      "last_seen": "2026-10-22T17:11:54.355501+06:00"
+    },
+    "gamesradar.com/games/board-games/this-wildly-gothic-board-game-pits-dracula-against-sherlock-holmes-and-its-perfect-for-fans-of-both": {
+      "title": "This wildly gothic board game pits Dracula against Sherlock Holmes, and it's perfect for fans of both",
+      "url": "https://www.gamesradar.com/games/board-games/this-wildly-gothic-board-game-pits-dracula-against-sherlock-holmes-and-its-perfect-for-fans-of-both/",
+      "canonical": "gamesradar.com/games/board-games/this-wildly-gothic-board-game-pits-dracula-against-sherlock-holmes-and-its-perfect-for-fans-of-both",
+      "published_dt": "2026-10-22T17:00:00+06:00",
+      "published_date": "2026-10-22T17:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The Unmatched: Cobble & Fog skirmish board game is a creepy feast for lovers of the gothic and macabre",
+      "image": "https://cdn.mos.cms.futurecdn.net/Wb2KrvomRpBvHrUnPFamVN-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:54.355575+06:00",
+      "last_seen": "2026-10-22T17:11:54.355576+06:00"
+    },
+    "gamesradar.com/entertainment/horror-shows/it-welcome-to-derry-season-2-showrunner-teases-very-bloody-and-very-different-season-described-as-a-gangster-picture-told-through-the-lens-of-pennywise": {
+      "title": "It: Welcome to Derry showrunner teases \"very bloody\" season 2, described as a \"gangster picture\" told through Pennywise",
+      "url": "https://www.gamesradar.com/entertainment/horror-shows/it-welcome-to-derry-season-2-showrunner-teases-very-bloody-and-very-different-season-described-as-a-gangster-picture-told-through-the-lens-of-pennywise/",
+      "canonical": "gamesradar.com/entertainment/horror-shows/it-welcome-to-derry-season-2-showrunner-teases-very-bloody-and-very-different-season-described-as-a-gangster-picture-told-through-the-lens-of-pennywise",
+      "published_dt": "2026-10-22T16:55:45+06:00",
+      "published_date": "2026-10-22T16:55:45+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The It: Welcome to Derry team has \"broken more than half the story for season 2,\" confirms showrunner Brad Caleb Kane",
+      "image": "https://cdn.mos.cms.futurecdn.net/kUP7b2KVnRx9ydxtKJVzuL-1920-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:54.355639+06:00",
+      "last_seen": "2026-10-22T17:11:54.355640+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-movies/obsession-star-inde-navarrette-was-dropping-hints-about-playing-rogue-in-x-men-before-marvels-reveal-but-no-one-caught-it": {
+      "title": "Inde Navarrette was \"dropping hints\" about playing Rogue in X-Men months ago, but no one caught it",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/obsession-star-inde-navarrette-was-dropping-hints-about-playing-rogue-in-x-men-before-marvels-reveal-but-no-one-caught-it/",
+      "canonical": "gamesradar.com/entertainment/marvel-movies/obsession-star-inde-navarrette-was-dropping-hints-about-playing-rogue-in-x-men-before-marvels-reveal-but-no-one-caught-it",
+      "published_dt": "2026-10-22T16:52:55+06:00",
+      "published_date": "2026-10-22T16:52:55+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "That Mystique misdirect was actually important after all",
+      "image": "https://cdn.mos.cms.futurecdn.net/DsgBMsKLdQidbWzMbHDpQ4-1920-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:54.355700+06:00",
+      "last_seen": "2026-10-22T17:11:54.355701+06:00"
+    },
+    "gamesradar.com/platforms/nintendo-switch-2/nintendo-switch-2-jailbroken-for-the-first-time-thanks-to-ai-but-taking-part-involves-a-usd25-eshop-purchase-i-dont-see-sticking-around": {
+      "title": "Nintendo Switch 2 jailbroken thanks to AI, but taking part involves a $25 eShop purchase",
+      "url": "https://www.gamesradar.com/platforms/nintendo-switch-2/nintendo-switch-2-jailbroken-for-the-first-time-thanks-to-ai-but-taking-part-involves-a-usd25-eshop-purchase-i-dont-see-sticking-around/",
+      "canonical": "gamesradar.com/platforms/nintendo-switch-2/nintendo-switch-2-jailbroken-for-the-first-time-thanks-to-ai-but-taking-part-involves-a-usd25-eshop-purchase-i-dont-see-sticking-around",
+      "published_dt": "2026-10-22T16:44:35+06:00",
+      "published_date": "2026-10-22T16:44:35+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Don't expect Nintendo to wait around",
+      "image": "https://cdn.mos.cms.futurecdn.net/frMirVcZVD8rGuwfq9tX7R-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:54.355769+06:00",
+      "last_seen": "2026-10-22T17:11:54.355770+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-movies/guardians-of-the-galaxy-star-chris-pratt-says-hard-action-is-being-taken-to-bring-star-lord-back-to-the-mcu-hes-not-going-anywhere": {
+      "title": "Guardians of the Galaxy star Chris Pratt says \"hard action\" is being taken to bring Star-Lord back to the MCU",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/guardians-of-the-galaxy-star-chris-pratt-says-hard-action-is-being-taken-to-bring-star-lord-back-to-the-mcu-hes-not-going-anywhere/",
+      "canonical": "gamesradar.com/entertainment/marvel-movies/guardians-of-the-galaxy-star-chris-pratt-says-hard-action-is-being-taken-to-bring-star-lord-back-to-the-mcu-hes-not-going-anywhere",
+      "published_dt": "2026-10-22T16:16:41+06:00",
+      "published_date": "2026-10-22T16:16:41+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The legendary Star-Lord will return",
+      "image": "https://cdn.mos.cms.futurecdn.net/mgyAYot9josoM3L3mPv2UM-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:54.355828+06:00",
+      "last_seen": "2026-10-22T17:11:54.355829+06:00"
+    },
+    "gamesradar.com/games/rpg/adventure-time-rpg-codes": {
+      "title": "All Adventure Time RPG codes (October 2026) and how to redeem them for free coins",
+      "url": "https://www.gamesradar.com/games/rpg/adventure-time-rpg-codes/",
+      "canonical": "gamesradar.com/games/rpg/adventure-time-rpg-codes",
+      "published_dt": "2026-10-22T16:09:31+06:00",
+      "published_date": "2026-10-22T16:09:31+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Use Adventure Time RPG codes to boost your bank balance and buy cool new wares",
+      "image": "https://cdn.mos.cms.futurecdn.net/yqm2CNu6YnHQX2VLVZ6m9Q-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:54.355886+06:00",
+      "last_seen": "2026-10-22T17:11:54.355887+06:00"
+    },
+    "gamesradar.com/games/mass-effect/former-mass-effect-and-star-wars-kotor-boss-calls-bioware-closure-sad-says-the-studios-legacy-will-live-on-through-those-who-were-part-of-it": {
+      "title": "Former Mass Effect and Star Wars: KOTOR boss calls BioWare closure \"sad\"",
+      "url": "https://www.gamesradar.com/games/mass-effect/former-mass-effect-and-star-wars-kotor-boss-calls-bioware-closure-sad-says-the-studios-legacy-will-live-on-through-those-who-were-part-of-it/",
+      "canonical": "gamesradar.com/games/mass-effect/former-mass-effect-and-star-wars-kotor-boss-calls-bioware-closure-sad-says-the-studios-legacy-will-live-on-through-those-who-were-part-of-it",
+      "published_dt": "2026-10-22T16:04:35+06:00",
+      "published_date": "2026-10-22T16:04:35+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Casey Hudson worked on Mass Effect, Star Wars: Knights of the Old Republic, Anthem, and more during his time with the developer",
+      "image": "https://cdn.mos.cms.futurecdn.net/jfjn9qv8MEPEFjB6C36aV7-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:54.355943+06:00",
+      "last_seen": "2026-10-22T17:11:54.355944+06:00"
+    },
+    "gamesradar.com/entertainment/marvel-movies/comics-legend-jonathan-hickman-reveals-he-reads-most-marvel-scripts-before-filming-and-says-the-shift-in-avengers-doomsday-over-the-past-two-years-is-fascinating": {
+      "title": "Jonathan Hickman has seen a \"work in progress\" cut of Avengers: Doomsday and calls recent changes \"fascinating\"",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/comics-legend-jonathan-hickman-reveals-he-reads-most-marvel-scripts-before-filming-and-says-the-shift-in-avengers-doomsday-over-the-past-two-years-is-fascinating/",
+      "canonical": "gamesradar.com/entertainment/marvel-movies/comics-legend-jonathan-hickman-reveals-he-reads-most-marvel-scripts-before-filming-and-says-the-shift-in-avengers-doomsday-over-the-past-two-years-is-fascinating",
+      "published_dt": "2026-10-22T16:00:00+06:00",
+      "published_date": "2026-10-22T16:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Marvel Comics writer Jonathan Hickman consulted on the Avengers: Doomsday script before filming and has seen some footage already",
+      "image": "https://cdn.mos.cms.futurecdn.net/ypYk2k9dzw8mGCCnckHXgL-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:54.356002+06:00",
+      "last_seen": "2026-10-22T17:11:54.356003+06:00"
+    },
+    "gamesradar.com/games/mass-effect/mass-effect-amazon-tv-show-remains-in-development-despite-bioware-shutting-down": {
+      "title": "Mass Effect Amazon TV show remains in development despite BioWare shutting down",
+      "url": "https://www.gamesradar.com/games/mass-effect/mass-effect-amazon-tv-show-remains-in-development-despite-bioware-shutting-down/",
+      "canonical": "gamesradar.com/games/mass-effect/mass-effect-amazon-tv-show-remains-in-development-despite-bioware-shutting-down",
+      "published_dt": "2026-10-22T15:46:54+06:00",
+      "published_date": "2026-10-22T15:46:54+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Mass Effect lives on with Prime Video",
+      "image": "https://cdn.mos.cms.futurecdn.net/TV86sxfZ54BykVpdybnr4H-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:54.356059+06:00",
+      "last_seen": "2026-10-22T17:11:54.356060+06:00"
+    },
+    "gamesradar.com/entertainment/dc-movies/clayface-debuts-to-better-rotten-tomatoes-score-than-supergirl-as-james-gunn-calls-working-with-director-a-pleasure": {
+      "title": "Clayface debuts to better Rotten Tomatoes score than Supergirl as James Gunn calls working with director a \"pleasure\"",
+      "url": "https://www.gamesradar.com/entertainment/dc-movies/clayface-debuts-to-better-rotten-tomatoes-score-than-supergirl-as-james-gunn-calls-working-with-director-a-pleasure/",
+      "canonical": "gamesradar.com/entertainment/dc-movies/clayface-debuts-to-better-rotten-tomatoes-score-than-supergirl-as-james-gunn-calls-working-with-director-a-pleasure",
+      "published_dt": "2026-10-22T15:42:23+06:00",
+      "published_date": "2026-10-22T15:42:23+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Clayface is faring better with critics than Supergirl",
+      "image": "https://cdn.mos.cms.futurecdn.net/F5roPKN6bCCWg4ysYGG8fi-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:54.356126+06:00",
+      "last_seen": "2026-10-22T17:11:54.356127+06:00"
+    },
+    "insider-gaming.com/marvel-rivals-avengers-end-game-times-dates": {
+      "title": "When Can You Play Marvel Rivals Avengers: Endgame Event? Full Schedule & Release Times",
+      "url": "https://insider-gaming.com/marvel-rivals-avengers-end-game-times-dates/",
+      "canonical": "insider-gaming.com/marvel-rivals-avengers-end-game-times-dates",
+      "published_dt": "2026-10-22T16:55:04+06:00",
+      "published_date": "2026-10-22T16:55:04+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "All the details and the precise availability times for the Avengers: Endgame event in Marvel Rivals as the Path to Doomsday continues. The post When Can You Play Marvel Rivals Avengers: Endgame Event? Full Schedule & Release Times appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:55.522165+06:00",
+      "last_seen": "2026-10-22T17:11:55.522167+06:00"
+    },
+    "insider-gaming.com/roblox-dream-car-collection-codes": {
+      "title": "Dream Car Collection Codes (October 2026)",
+      "url": "https://insider-gaming.com/roblox-dream-car-collection-codes/",
+      "canonical": "insider-gaming.com/roblox-dream-car-collection-codes",
+      "published_dt": "2026-10-22T16:42:44+06:00",
+      "published_date": "2026-10-22T16:42:44+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Use these monthly Dream Car Collection redeem codes to get your hands on free rewards like Gems, Potions, and instant boosts. The post Dream Car Collection Codes (October 2026) appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:55.522321+06:00",
+      "last_seen": "2026-10-22T17:11:55.522323+06:00"
+    },
+    "insider-gaming.com/roblox-smash-the-city-codes": {
+      "title": "Smash The City Codes (October 2026)",
+      "url": "https://insider-gaming.com/roblox-smash-the-city-codes/",
+      "canonical": "insider-gaming.com/roblox-smash-the-city-codes",
+      "published_dt": "2026-10-22T16:38:26+06:00",
+      "published_date": "2026-10-22T16:38:26+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Use these monthly Smash the City redeem codes to get your hands on plenty of free rewards, including Coins and much more. The post Smash The City Codes (October 2026) appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:55.522460+06:00",
+      "last_seen": "2026-10-22T17:11:55.522461+06:00"
+    },
+    "insider-gaming.com/mass-effect-tv-series-going-ahead-despite-bioware-closure": {
+      "title": "Mass Effect TV Series Going Ahead Despite BioWare Closure",
+      "url": "https://insider-gaming.com/mass-effect-tv-series-going-ahead-despite-bioware-closure/",
+      "canonical": "insider-gaming.com/mass-effect-tv-series-going-ahead-despite-bioware-closure",
+      "published_dt": "2026-10-22T16:32:46+06:00",
+      "published_date": "2026-10-22T16:32:46+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "The future of a Mass Effect TV series in the works at Amazon Prime Video has not been impacted by EA's BioWare closure. The post Mass Effect TV Series Going Ahead Despite BioWare Closure appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:55.522597+06:00",
+      "last_seen": "2026-10-22T17:11:55.522598+06:00"
+    },
+    "insider-gaming.com/dragon-ball-xenoverse-3-release-window-narrowed-by-bandai-namco": {
+      "title": "Dragon Ball Xenoverse 3 Release Window Narrowed by Bandai Namco",
+      "url": "https://insider-gaming.com/dragon-ball-xenoverse-3-release-window-narrowed-by-bandai-namco/",
+      "canonical": "insider-gaming.com/dragon-ball-xenoverse-3-release-window-narrowed-by-bandai-namco",
+      "published_dt": "2026-10-22T16:19:15+06:00",
+      "published_date": "2026-10-22T16:19:15+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "The release window for Dragon Ball Xenoverse 3 has been significantly narrowed by Bandai Namco ahead of next year's arrival. The post Dragon Ball Xenoverse 3 Release Window Narrowed by Bandai Namco appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:55.522730+06:00",
+      "last_seen": "2026-10-22T17:11:55.522731+06:00"
+    },
+    "insider-gaming.com/ea-could-sell-off-mass-effect-license-former-bioware-executive-says": {
+      "title": "EA Could Sell Off Mass Effect License, Former BioWare Executive Says",
+      "url": "https://insider-gaming.com/ea-could-sell-off-mass-effect-license-former-bioware-executive-says/",
+      "canonical": "insider-gaming.com/ea-could-sell-off-mass-effect-license-former-bioware-executive-says",
+      "published_dt": "2026-10-22T16:10:04+06:00",
+      "published_date": "2026-10-22T16:10:04+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "EA could sell off the Mass Effect IP to raise funds, according to a former BioWare executive, but may also bury the franchise. The post EA Could Sell Off Mass Effect License, Former BioWare Executive Says appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:55.522875+06:00",
+      "last_seen": "2026-10-22T17:11:55.522876+06:00"
+    },
+    "insider-gaming.com/riot-games-outlines-valorant-partnership-criteria": {
+      "title": "Riot Games Outlines Valorant Partnership Criteria",
+      "url": "https://insider-gaming.com/riot-games-outlines-valorant-partnership-criteria/",
+      "canonical": "insider-gaming.com/riot-games-outlines-valorant-partnership-criteria",
+      "published_dt": "2026-10-22T16:05:32+06:00",
+      "published_date": "2026-10-22T16:05:32+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Riot officially unveiled the Partner Teams for Valorant's 2027 & 2028 Circuit, confirming the 32 teams that will benefit from Partner Status. The post Riot Games Outlines Valorant Partnership Criteria appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-22T17:11:55.523017+06:00",
+      "last_seen": "2026-10-22T17:11:55.523018+06:00",
+      "posted_at": "2026-10-22T17:23:16.019988+06:00"
+    },
+    "insider-gaming.com/gta-6-marketing-now-includes-real-life-burger-shot-cluckin-bell": {
+      "title": "GTA 6 Marketing Now Includes Real-Life Burger Shot & Cluckin’ Bell",
+      "url": "https://insider-gaming.com/gta-6-marketing-now-includes-real-life-burger-shot-cluckin-bell/",
+      "canonical": "insider-gaming.com/gta-6-marketing-now-includes-real-life-burger-shot-cluckin-bell",
+      "published_dt": "2026-10-22T15:56:47+06:00",
+      "published_date": "2026-10-22T15:56:47+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "A real-life Burger Shot and Cluckin' Bell have appeared in Miami as part of Rockstar's continued GTA 6 marketing stunts. The post GTA 6 Marketing Now Includes Real-Life Burger Shot & Cluckin’ Bell appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:55.523162+06:00",
+      "last_seen": "2026-10-22T17:11:55.523163+06:00"
+    },
+    "insider-gaming.com/mass-effect-5-writers-speak-out-after-eas-bioware-closure": {
+      "title": "Mass Effect 5 Writers Speak Out After EA’s BioWare Closure",
+      "url": "https://insider-gaming.com/mass-effect-5-writers-speak-out-after-eas-bioware-closure/",
+      "canonical": "insider-gaming.com/mass-effect-5-writers-speak-out-after-eas-bioware-closure",
+      "published_dt": "2026-10-22T15:43:58+06:00",
+      "published_date": "2026-10-22T15:43:58+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Writers working on Mass Effect 5 have spoken out following BioWare's closure and the cancelation of the title. The post Mass Effect 5 Writers Speak Out After EA’s BioWare Closure appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:55.523299+06:00",
+      "last_seen": "2026-10-22T17:11:55.523300+06:00"
+    },
+    "nintendolife.com/news/2026/10/pokemon-apps-are-coming-back-online-after-extended-cybersecurity-outage": {
+      "title": "Pokémon Apps Are Coming Back Online After Extended Cybersecurity Outage",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-apps-are-coming-back-online-after-extended-cybersecurity-outage",
+      "canonical": "nintendolife.com/news/2026/10/pokemon-apps-are-coming-back-online-after-extended-cybersecurity-outage",
+      "published_dt": "2026-10-22T16:45:00+06:00",
+      "published_date": "2026-10-22T16:45:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Sleep, HOME and Champions all went down yesterday. You may have read yesterday about the cybersecurity alert that hit sites and apps around the world after two vulnerabilities were found in the popular programming language, PHP. The Pokémon Company were one of the many teams hit by the outage, with Pokémon HOME , Sleep and Champions all going offline yesterday without an end time in sight. Well, fortunately, they have started to come back. As shared on the apps' official social media accounts , it seems that TPC is now on top of the issue and is in the process of restoring functionality. Champions was the first to come back online at around 3am BST this morning, followed by HOME a few hours later. Pokémon Sleep was a little later to join the party, but ended its maintenance around 10am BST. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/0080562a5553b/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-22T17:11:55.864325+06:00",
+      "last_seen": "2026-10-22T17:11:55.864327+06:00",
+      "posted_at": "2026-10-22T17:23:21.036149+06:00"
+    },
+    "pushsquare.com/news/2026/10/cyberpunk-2077-has-over-50-mods-on-ps5-including-new-quests-improved-romance-cut-content-and-more": {
+      "title": "Cyberpunk 2077 Has Over 50 Mods on PS5, Including New Quests, Improved Romance, Cut Content, and More",
+      "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-has-over-50-mods-on-ps5-including-new-quests-improved-romance-cut-content-and-more",
+      "canonical": "pushsquare.com/news/2026/10/cyberpunk-2077-has-over-50-mods-on-ps5-including-new-quests-improved-romance-cut-content-and-more",
+      "published_dt": "2026-10-22T17:00:00+06:00",
+      "published_date": "2026-10-22T17:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "V good. With the release of Patch 2.5 , Cyberpunk 2077 players on PS5 now have access to user-created mods — and there are 52 of them to choose from at launch. Just like The Witcher 3 Remastered , downloading and installing mods is really easy: you just click the new 'Mods' option on the title's main menu, and then you're just a button press away from adding them to your game. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/90d3301cf0e03/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:56.260862+06:00",
+      "last_seen": "2026-10-22T17:11:56.260865+06:00"
+    },
+    "pushsquare.com/news/2026/10/dawnwalker-ps5-patch-1-1-is-available-to-download-now-13gb-update-with-over-1100-improvements": {
+      "title": "Dawnwalker PS5 Patch 1.1 Is Available to Download Now, 13GB Update with Over 1,100 Improvements",
+      "url": "https://www.pushsquare.com/news/2026/10/dawnwalker-ps5-patch-1-1-is-available-to-download-now-13gb-update-with-over-1100-improvements",
+      "canonical": "pushsquare.com/news/2026/10/dawnwalker-ps5-patch-1-1-is-available-to-download-now-13gb-update-with-over-1100-improvements",
+      "published_dt": "2026-10-22T16:45:00+06:00",
+      "published_date": "2026-10-22T16:45:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Get all the patch notes here. As promised by developer Rebel Wolves last week, a new Dawnwalker update has gone live today that marks the PS5 game's first major overhaul and slate of enhancements. The patch is 12.882GB on PS5, and you can download it now. Since the studio already published some of the highlights in a social media graphic last week, there aren't that many surprises in the patch notes. The main additions are indeed the Draught of Mind Rebirth, the ability to pet animals, an easier difficulty mode, improved combat targeting, and camera adjustments. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/01bb2adae2140/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:56.261065+06:00",
+      "last_seen": "2026-10-22T17:11:56.261067+06:00"
+    },
+    "pushsquare.com/news/2026/10/cyberpunk-2077-ps5-update-2-5-live-now-get-the-patch-notes-here": {
+      "title": "Cyberpunk 2077 PS5 Update 2.5 Live Now, Get the Patch Notes Here",
+      "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-update-2-5-live-now-get-the-patch-notes-here",
+      "canonical": "pushsquare.com/news/2026/10/cyberpunk-2077-ps5-update-2-5-live-now-get-the-patch-notes-here",
+      "published_dt": "2026-10-22T16:15:00+06:00",
+      "published_date": "2026-10-22T16:15:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Get the full list of updates and changes here. CD Projekt Red has announced it's got yet another Cyberpunk 2077 patch on the way, this time in collaboration with the second season of its anime TV show spin-off, Edgerunners . The developer will update the RPG to version 2.5 on 22nd October 2026, and tomorrow it will have a REDstream to share what's in store. The blog post teases \"cyberware customization, a new dual-wielding playstyle, and more\". Presumably, it will all link into the TV series in some way. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/7b51496b9b293/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:56.261267+06:00",
+      "last_seen": "2026-10-22T17:11:56.261269+06:00"
+    },
+    "pushsquare.com/news/2026/10/reminder-pre-orders-go-live-today-for-gran-turismos-gorgeous-ps5-controller": {
+      "title": "Reminder: Pre-Orders Go Live Today for Gran Turismo's Gorgeous PS5 Controller",
+      "url": "https://www.pushsquare.com/news/2026/10/reminder-pre-orders-go-live-today-for-gran-turismos-gorgeous-ps5-controller",
+      "canonical": "pushsquare.com/news/2026/10/reminder-pre-orders-go-live-today-for-gran-turismos-gorgeous-ps5-controller",
+      "published_dt": "2026-10-22T16:00:00+06:00",
+      "published_date": "2026-10-22T16:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "New model. In case you missed it, Sony announced a special, limited edition DualSense PS5 controller that celebrates the Gran Turismo series' 30th anniversary. It's a really nice-looking controller, with go-faster stripes on the touchpad, carbon fibre-like detailing, and a bunch of racing-inspired decals. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/4f9314a7ccfdd/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:56.261441+06:00",
+      "last_seen": "2026-10-22T17:11:56.261443+06:00"
+    },
+    "pushsquare.com/news/2026/10/phantom-blade-zero-physical-version-set-for-2027-3-ps5-editions-revealed": {
+      "title": "Phantom Blade Zero Physical Version Set for 2027, 3 PS5 Editions Revealed",
+      "url": "https://www.pushsquare.com/news/2026/10/phantom-blade-zero-physical-version-set-for-2027-3-ps5-editions-revealed",
+      "canonical": "pushsquare.com/news/2026/10/phantom-blade-zero-physical-version-set-for-2027-3-ps5-editions-revealed",
+      "published_dt": "2026-10-22T14:30:00+06:00",
+      "published_date": "2026-10-22T14:30:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Own it on a PS5 disc next year. S-GAME has announced a physical version of Phantom Blade Zero will be available next year. The developer shared the news as a stinger at the end of its new launch trailer, with the full title launch via digital means coming next week, 29th October 2026. Check it out above. When the physical launch rolls around, there'll be three editions to choose from: Standard Edition, Deluxe Edition, and an Ultimate Edition with a collectible steel case. Currently, the base game costs £54.99 / $59.99 digitally, while the Deluxe Edition is an extra £10 / $10, so I'd expect similar pricing for the boxed copies. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/c8caed9539628/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:56.261617+06:00",
+      "last_seen": "2026-10-22T17:11:56.261619+06:00"
+    },
+    "purexbox.com/news/2026/10/xbox-mandates-four-day-office-work-for-certain-employees-said-to-affect-thousands": {
+      "title": "Xbox Mandates Four-Day Office Work For Certain Employees, Said To Affect 'Thousands'",
+      "url": "https://www.purexbox.com/news/2026/10/xbox-mandates-four-day-office-work-for-certain-employees-said-to-affect-thousands",
+      "canonical": "purexbox.com/news/2026/10/xbox-mandates-four-day-office-work-for-certain-employees-said-to-affect-thousands",
+      "published_dt": "2026-10-22T17:00:00+06:00",
+      "published_date": "2026-10-22T17:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "\"Taking advantage of that proximity...\". Last year, Microsoft announced to its employees that it expected them to start working at least three days in the office per-week, and now that requirement is going up to four days for certain Xbox employees as of February 2027. This is according to a report from The Verge , which quotes Xbox's chief people officer (Jacinda Chislum Pearson) from a recent internal memo. In a nutshell, it sounds like anyone who lives within a short distance of Microsoft's campus in Redmond, Washington will be told to attend the office for four days or more per-week. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/d1449d8bb818a/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:56.675904+06:00",
+      "last_seen": "2026-10-22T17:11:56.675907+06:00"
+    },
+    "purexbox.com/news/2026/10/10-xbox-games-are-out-today-including-a-new-pixel-art-jrpg-banger-october-22": {
+      "title": "10 Xbox Games Are Out Today, Including A New Pixel-Art JRPG Banger (October 22)",
+      "url": "https://www.purexbox.com/news/2026/10/10-xbox-games-are-out-today-including-a-new-pixel-art-jrpg-banger-october-22",
+      "canonical": "purexbox.com/news/2026/10/10-xbox-games-are-out-today-including-a-new-pixel-art-jrpg-banger-october-22",
+      "published_dt": "2026-10-22T16:00:00+06:00",
+      "published_date": "2026-10-22T16:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Who 'Final Fancies' a new adventure? It's time for your daily fix of new games launching on Xbox today! We've got 10 games coming out over the course of the day, including the stellar Final Fantasy Resonance and bangin' Galeco Sports Collection . Also, ICYMI, Cyberpunk 2077's version 2.5 update is available to download too. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/740b35c1f4efd/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T17:11:56.676142+06:00",
+      "last_seen": "2026-10-22T17:11:56.676143+06:00"
     }
   },
   "events": {
@@ -26281,6 +26924,253 @@
           "headline": "Minecraft × Dragon Ball Z 1.1 Legends Update Expands Fighter Roster and Adds Custom Tournaments",
           "claims": [
             "adds new characters, story mode fights and custom tournament"
+          ]
+        }
+      ]
+    },
+    "evt_cadc444bfe7dea": {
+      "event_id": "evt_cadc444bfe7dea",
+      "event_key": "capcom data breach 2026",
+      "event_subject": "Resident Evil Developer Capcom Issues Phishing Warning After Data Breach Hits Over 11 Million Customer Accounts",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "capcom data breach 2026",
+        "subject": "Resident Evil Developer Capcom Issues Phishing Warning After Data Breach Hits Over 11 Million Customer Accounts",
+        "event_type": "other",
+        "action": "warn",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Capcom",
+        "target": "customers",
+        "platforms": [],
+        "topic": "Phishing warning after breach"
+      },
+      "sources": [
+        "IGN"
+      ],
+      "event_sources": [
+        "IGN"
+      ],
+      "claims": [
+        "Data breach affecting 11 million accounts"
+      ],
+      "importance_score": 60,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 30,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Capcom Warns of Phishing After Data Breach Hits Over 11 Million Accounts",
+      "summary": "Capcom disclosed a breach of its online membership service affecting 11.7 million users, urging gamers to watch for phishing attempts.",
+      "published_at": "2026-10-22T16:17:24+06:00",
+      "selected_at": "2026-10-22T11:23:10.228268+00:00",
+      "status": "published",
+      "message_id": 822,
+      "published_versions": [
+        {
+          "published_at": "2026-10-22T11:23:10.228268+00:00",
+          "headline": "Capcom Warns of Phishing After Data Breach Hits Over 11 Million Accounts",
+          "claims": [
+            "Data breach affecting 11 million accounts"
+          ]
+        }
+      ]
+    },
+    "evt_0f52ec61754e14": {
+      "event_id": "evt_0f52ec61754e14",
+      "event_key": "valorant partner criteria 2026",
+      "event_subject": "Riot Games Outlines Valorant Partnership Criteria",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "valorant partner criteria 2026",
+        "subject": "Riot Games Outlines Valorant Partnership Criteria",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Valorant",
+        "institution": "Riot Games",
+        "target": "esports teams",
+        "platforms": [],
+        "topic": "Partner team selection"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [],
+      "importance_score": 47,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 13,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Riot Games Reveals Valorant Partner Teams and Selection Criteria",
+      "summary": "Riot disclosed the 32 partner teams for the Valorant 2027‑2028 circuit and detailed a five‑point framework guiding its selection process.",
+      "published_at": "2026-10-22T16:05:32+06:00",
+      "selected_at": "2026-10-22T11:23:16.020019+00:00",
+      "status": "published",
+      "message_id": 823,
+      "published_versions": [
+        {
+          "published_at": "2026-10-22T11:23:16.020019+00:00",
+          "headline": "Riot Games Reveals Valorant Partner Teams and Selection Criteria",
+          "claims": []
+        }
+      ]
+    },
+    "evt_fdd063159ac3d3": {
+      "event_id": "evt_fdd063159ac3d3",
+      "event_key": "pokemon apps outage recovery 2026",
+      "event_subject": "Pokémon Apps Are Coming Back Online After Extended Cybersecurity Outage",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pokemon apps outage recovery 2026",
+        "subject": "Pokémon Apps Are Coming Back Online After Extended Cybersecurity Outage",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Pokemon",
+        "institution": "The Pokémon Company",
+        "target": "app users",
+        "platforms": [
+          "iOS",
+          "Android"
+        ],
+        "topic": "Restoration after security incident"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [],
+      "importance_score": 45,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Pokémon Mobile Apps Restored After Major PHP Security Outage",
+      "summary": "After a worldwide PHP vulnerability forced Pokémon HOME, Sleep and Champions offline, the services resumed early Thursday, confirming full restoration across all platforms.",
+      "published_at": "2026-10-22T16:45:00+06:00",
+      "selected_at": "2026-10-22T11:23:21.036181+00:00",
+      "status": "published",
+      "message_id": 824,
+      "published_versions": [
+        {
+          "published_at": "2026-10-22T11:23:21.036181+00:00",
+          "headline": "Pokémon Mobile Apps Restored After Major PHP Security Outage",
+          "claims": []
+        }
+      ]
+    },
+    "evt_74d24bea461c29": {
+      "event_id": "evt_74d24bea461c29",
+      "event_key": "microsoft xboxcloudgaming price announcement",
+      "event_subject": "Microsoft",
+      "event_type": "pricing",
+      "event_frame": {
+        "event_key": "microsoft xboxcloudgaming price announcement",
+        "subject": "Microsoft",
+        "event_type": "pricing",
+        "action": "reveal",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "consumers",
+        "platforms": [
+          "Xbox Cloud Gaming"
+        ],
+        "topic": "service pricing"
+      },
+      "sources": [
+        "Eurogamer"
+      ],
+      "event_sources": [
+        "Eurogamer"
+      ],
+      "claims": [
+        "50 hours of ad‑free cloud gaming priced at $11.99"
+      ],
+      "importance_score": 42,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Xbox Cloud Gaming Packs Launch at $11.99 for 50 Hours",
+      "summary": "Microsoft introduces paid Xbox cloud gaming packs, offering 10, 25 and 50 hours of ad‑free streaming starting at $3.99, $7.99 and $11.99 respectively.",
+      "published_at": "2026-10-22T15:10:43+06:00",
+      "selected_at": "2026-10-22T11:23:26.069470+00:00",
+      "status": "published",
+      "message_id": 825,
+      "published_versions": [
+        {
+          "published_at": "2026-10-22T11:23:26.069470+00:00",
+          "headline": "Xbox Cloud Gaming Packs Launch at $11.99 for 50 Hours",
+          "claims": [
+            "50 hours of ad‑free cloud gaming priced at $11.99"
+          ]
+        }
+      ]
+    },
+    "evt_7b8abed29379c2": {
+      "event_id": "evt_7b8abed29379c2",
+      "event_key": "ea dice respawn starwarsbattlefront3 co development rumor",
+      "event_subject": "Electronic Arts",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "ea dice respawn starwarsbattlefront3 co development rumor",
+        "subject": "Electronic Arts",
+        "event_type": "rumor",
+        "action": "report",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "Star Wars: Battlefront 3",
+        "franchise": "Star Wars Battlefront",
+        "institution": "EA",
+        "target": "players",
+        "platforms": [],
+        "topic": "development"
+      },
+      "sources": [
+        "Eurogamer"
+      ],
+      "event_sources": [
+        "Eurogamer"
+      ],
+      "claims": [
+        "Battlefront 3 reportedly co‑developed by DICE and Respawn Studios"
+      ],
+      "importance_score": 40,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 10,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Star Wars: Battlefront 3 Rumored as DICE Teams Up With Respawn",
+      "summary": "EA is reportedly co‑developing a new Star Wars: Battlefront 3 with DICE and Respawn amid recent studio closures and a high‑profile acquisition.",
+      "published_at": "2026-10-22T14:40:15+06:00",
+      "selected_at": "2026-10-22T11:23:31.407991+00:00",
+      "status": "published",
+      "message_id": 826,
+      "published_versions": [
+        {
+          "published_at": "2026-10-22T11:23:31.407991+00:00",
+          "headline": "Star Wars: Battlefront 3 Rumored as DICE Teams Up With Respawn",
+          "claims": [
+            "Battlefront 3 reportedly co‑developed by DICE and Respawn Studios"
           ]
         }
       ]
@@ -161205,6 +162095,1636 @@
         "total": 33
       },
       "last_seen": "2026-10-22T11:46:13.125974+06:00"
+    },
+    "evt_dab648875eb719": {
+      "event_id": "evt_dab648875eb719",
+      "event_key": "bioware masseffect5 cancellation",
+      "event_subject": "BioWare/EA",
+      "event_type": "cancellation",
+      "event_frame": {
+        "event_key": "bioware masseffect5 cancellation",
+        "subject": "BioWare/EA",
+        "event_type": "cancellation",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Mass Effect 5",
+        "franchise": "Mass Effect",
+        "institution": "Electronic Arts",
+        "target": "writers",
+        "platforms": [],
+        "topic": "studio shutdown"
+      },
+      "modality": "unknown",
+      "topic": "studio shutdown",
+      "institution": "Electronic Arts",
+      "sources": [
+        "GamesRadar+",
+        "Insider Gaming"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Mass Effect TV series remains in development despite BioWare studio closure",
+        "Writers on Mass Effect 5 speak out after BioWare closure and title cancellation"
+      ],
+      "importance_score": 79,
+      "score_breakdown": {
+        "significance": 40,
+        "coverage": 6,
+        "originality": 13,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 79
+      },
+      "last_seen": "2026-10-22T17:18:06.540506+06:00"
+    },
+    "evt_b79eaf57ae793c": {
+      "event_id": "evt_b79eaf57ae793c",
+      "event_key": "ea bioware closure 2026",
+      "event_subject": "Mass Effect TV series ‘still in production’ despite BioWare closure",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ea bioware closure 2026",
+        "subject": "Mass Effect TV series ‘still in production’ despite BioWare closure",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Mass Effect",
+        "franchise": "Mass Effect",
+        "institution": "Electronic Arts",
+        "target": "TV series production",
+        "platforms": [],
+        "topic": "Mass Effect TV series continuation after BioWare shutdown"
+      },
+      "modality": "unknown",
+      "topic": "Mass Effect TV series continuation after BioWare shutdown",
+      "institution": "Electronic Arts",
+      "sources": [
+        "VGC",
+        "GamesRadar+",
+        "PC Gamer",
+        "Insider Gaming"
+      ],
+      "source_count": 4,
+      "independent_source_count": 4,
+      "claims": [
+        "EA may sell Mass Effect and Dragon Age licenses",
+        "EA may sell Mass Effect license"
+      ],
+      "importance_score": 80,
+      "score_breakdown": {
+        "significance": 38,
+        "coverage": 14,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 80
+      },
+      "last_seen": "2026-10-22T17:18:06.540523+06:00"
+    },
+    "evt_cadc444bfe7dea": {
+      "event_id": "evt_cadc444bfe7dea",
+      "event_key": "capcom data breach 2026",
+      "event_subject": "Resident Evil Developer Capcom Issues Phishing Warning After Data Breach Hits Over 11 Million Customer Accounts",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "capcom data breach 2026",
+        "subject": "Resident Evil Developer Capcom Issues Phishing Warning After Data Breach Hits Over 11 Million Customer Accounts",
+        "event_type": "other",
+        "action": "warn",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Capcom",
+        "target": "customers",
+        "platforms": [],
+        "topic": "Phishing warning after breach"
+      },
+      "modality": "unknown",
+      "topic": "Phishing warning after breach",
+      "institution": "Capcom",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Data breach affecting 11 million accounts"
+      ],
+      "importance_score": 60,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 60
+      },
+      "last_seen": "2026-10-22T17:18:06.540527+06:00"
+    },
+    "evt_18ad4b97788f48": {
+      "event_id": "evt_18ad4b97788f48",
+      "event_key": "capcom data breach",
+      "event_subject": "Capcom",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "capcom data breach",
+        "subject": "Capcom",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Capcom",
+        "target": "Capcom ID accounts",
+        "platforms": [],
+        "topic": "cybersecurity"
+      },
+      "modality": "unknown",
+      "topic": "cybersecurity",
+      "institution": "Capcom",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "data breach affected >11 million accounts; credit‑card data not compromised"
+      ],
+      "importance_score": 62,
+      "score_breakdown": {
+        "significance": 28,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 62
+      },
+      "last_seen": "2026-10-22T17:18:06.540530+06:00"
+    },
+    "evt_fdd063159ac3d3": {
+      "event_id": "evt_fdd063159ac3d3",
+      "event_key": "pokemon apps outage recovery 2026",
+      "event_subject": "Pokémon Apps Are Coming Back Online After Extended Cybersecurity Outage",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pokemon apps outage recovery 2026",
+        "subject": "Pokémon Apps Are Coming Back Online After Extended Cybersecurity Outage",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Pokemon",
+        "institution": "The Pokémon Company",
+        "target": "app users",
+        "platforms": [
+          "iOS",
+          "Android"
+        ],
+        "topic": "Restoration after security incident"
+      },
+      "modality": "unknown",
+      "topic": "Restoration after security incident",
+      "institution": "The Pokémon Company",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-10-22T17:18:06.540533+06:00"
+    },
+    "evt_619c7d00517955": {
+      "event_id": "evt_619c7d00517955",
+      "event_key": "wardogs region locking 2026",
+      "event_subject": "'Regions Are Cheating and We Need to Address It' — Wardogs Dev Says Region Locking Is About 'Protecting the Largest Amount of Players'",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "wardogs region locking 2026",
+        "subject": "'Regions Are Cheating and We Need to Address It' — Wardogs Dev Says Region Locking Is About 'Protecting the Largest Amount of Players'",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Wardogs",
+        "franchise": "Wardogs",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "Region‑locking implementation"
+      },
+      "modality": "unknown",
+      "topic": "Region‑locking implementation",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 44
+      },
+      "last_seen": "2026-10-22T17:18:06.540536+06:00"
+    },
+    "evt_5be4d1558baf90": {
+      "event_id": "evt_5be4d1558baf90",
+      "event_key": "dragon ball xenoverse 3 release window 2026",
+      "event_subject": "Dragon Ball Xenoverse 3 Release Window Narrowed by Bandai Namco",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "dragon ball xenoverse 3 release window 2026",
+        "subject": "Dragon Ball Xenoverse 3 Release Window Narrowed by Bandai Namco",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Dragon Ball Xenoverse 3",
+        "franchise": "Dragon Ball",
+        "institution": "Bandai Namco",
+        "target": "players",
+        "platforms": [],
+        "topic": "Adjusted launch timeframe"
+      },
+      "modality": "unknown",
+      "topic": "Adjusted launch timeframe",
+      "institution": "Bandai Namco",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 52,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 52
+      },
+      "last_seen": "2026-10-22T17:18:06.540539+06:00"
+    },
+    "evt_0f52ec61754e14": {
+      "event_id": "evt_0f52ec61754e14",
+      "event_key": "valorant partner criteria 2026",
+      "event_subject": "Riot Games Outlines Valorant Partnership Criteria",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "valorant partner criteria 2026",
+        "subject": "Riot Games Outlines Valorant Partnership Criteria",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Valorant",
+        "institution": "Riot Games",
+        "target": "esports teams",
+        "platforms": [],
+        "topic": "Partner team selection"
+      },
+      "modality": "unknown",
+      "topic": "Partner team selection",
+      "institution": "Riot Games",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 47,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 47
+      },
+      "last_seen": "2026-10-22T17:18:06.540541+06:00"
+    },
+    "evt_c4dbf2e7a6b191": {
+      "event_id": "evt_c4dbf2e7a6b191",
+      "event_key": "s game phantombladezero physical release announcement",
+      "event_subject": "S‑Game",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "s game phantombladezero physical release announcement",
+        "subject": "S‑Game",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Phantom Blade Zero",
+        "franchise": "Phantom Blade Zero",
+        "institution": "S‑Game",
+        "target": "players",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "physical release"
+      },
+      "modality": "unknown",
+      "topic": "physical release",
+      "institution": "S‑Game",
+      "sources": [
+        "Polygon",
+        "Push Square"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Physical edition will launch later with a delayed start date",
+        "Physical version for 2027 with three PS5 editions revealed"
+      ],
+      "importance_score": 47,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 47
+      },
+      "last_seen": "2026-10-22T17:18:06.540544+06:00"
+    },
+    "evt_6a7ef6891d9176": {
+      "event_id": "evt_6a7ef6891d9176",
+      "event_key": "cyberpunk2077 ps5 mods release 2026",
+      "event_subject": "Cyberpunk 2077 Has Over 50 Mods on PS5, Including New Quests, Improved Romance, Cut Content, and More",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "cyberpunk2077 ps5 mods release 2026",
+        "subject": "Cyberpunk 2077 Has Over 50 Mods on PS5, Including New Quests, Improved Romance, Cut Content, and More",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Cyberpunk 2077",
+        "franchise": "Cyberpunk",
+        "institution": "CD Projekt Red",
+        "target": "PS5 players",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "Mod support on console"
+      },
+      "modality": "unknown",
+      "topic": "Mod support on console",
+      "institution": "CD Projekt Red",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-10-22T17:18:06.540547+06:00"
+    },
+    "evt_9a87465268568d": {
+      "event_id": "evt_9a87465268568d",
+      "event_key": "cyberpunk2077 ps5 patch 2 5 2026",
+      "event_subject": "Cyberpunk 2077 PS5 Update 2.5 Live Now, Get the Patch Notes Here",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "cyberpunk2077 ps5 patch 2 5 2026",
+        "subject": "Cyberpunk 2077 PS5 Update 2.5 Live Now, Get the Patch Notes Here",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Cyberpunk 2077",
+        "franchise": "Cyberpunk",
+        "institution": "CD Projekt Red",
+        "target": "PS5 players",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "Version 2.5 update"
+      },
+      "modality": "unknown",
+      "topic": "Version 2.5 update",
+      "institution": "CD Projekt Red",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 47,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 47
+      },
+      "last_seen": "2026-10-22T17:18:06.540550+06:00"
+    },
+    "evt_0700ce1b9ac054": {
+      "event_id": "evt_0700ce1b9ac054",
+      "event_key": "dawnwalker ps5 patch 1 1 2026",
+      "event_subject": "Dawnwalker PS5 Patch 1.1 Is Available to Download Now, 13GB Update with Over 1,100 Improvements",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "dawnwalker ps5 patch 1 1 2026",
+        "subject": "Dawnwalker PS5 Patch 1.1 Is Available to Download Now, 13GB Update with Over 1,100 Improvements",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Dawnwalker",
+        "franchise": "Dawnwalker",
+        "institution": "Rebel Wolves",
+        "target": "players",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "Major patch rollout"
+      },
+      "modality": "unknown",
+      "topic": "Major patch rollout",
+      "institution": "Rebel Wolves",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-10-22T17:18:06.540552+06:00"
+    },
+    "evt_74d24bea461c29": {
+      "event_id": "evt_74d24bea461c29",
+      "event_key": "microsoft xboxcloudgaming price announcement",
+      "event_subject": "Microsoft",
+      "event_type": "pricing",
+      "event_frame": {
+        "event_key": "microsoft xboxcloudgaming price announcement",
+        "subject": "Microsoft",
+        "event_type": "pricing",
+        "action": "reveal",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "consumers",
+        "platforms": [
+          "Xbox Cloud Gaming"
+        ],
+        "topic": "service pricing"
+      },
+      "modality": "unknown",
+      "topic": "service pricing",
+      "institution": "Microsoft",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "50 hours of ad‑free cloud gaming priced at $11.99"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-10-22T17:18:06.540555+06:00"
+    },
+    "evt_171fe147c49454": {
+      "event_id": "evt_171fe147c49454",
+      "event_key": "nintendo switch 2 jailbreak 2026",
+      "event_subject": "Nintendo Switch 2 jailbroken thanks to AI, but taking part involves a $25 eShop purchase",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo switch 2 jailbreak 2026",
+        "subject": "Nintendo Switch 2 jailbroken thanks to AI, but taking part involves a $25 eShop purchase",
+        "event_type": "other",
+        "action": "announce",
+        "status": "informative",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Nintendo",
+        "target": "modders",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "topic": "AI‑assisted jailbreak"
+      },
+      "modality": "unknown",
+      "topic": "AI‑assisted jailbreak",
+      "institution": "Nintendo",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 38
+      },
+      "last_seen": "2026-10-22T17:18:06.540557+06:00"
+    },
+    "evt_818f3ce7fb3aab": {
+      "event_id": "evt_818f3ce7fb3aab",
+      "event_key": "rockstar gta6 real life marketing stunt",
+      "event_subject": "Rockstar Games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "rockstar gta6 real life marketing stunt",
+        "subject": "Rockstar Games",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar Games",
+        "target": "public",
+        "platforms": [],
+        "topic": "marketing stunt"
+      },
+      "modality": "unknown",
+      "topic": "marketing stunt",
+      "institution": "Rockstar Games",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "real-life Burger Shot and Cluckin’ Bell pop‑up locations in Miami as part of GTA 6 promotion"
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 44
+      },
+      "last_seen": "2026-10-22T17:18:06.540560+06:00"
+    },
+    "evt_27a0966693d71b": {
+      "event_id": "evt_27a0966693d71b",
+      "event_key": "xbox game release roundup oct2026",
+      "event_subject": "10 Xbox Games Are Out Today, Including A New Pixel‑Art JRPG Banger (October 22)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox game release roundup oct2026",
+        "subject": "10 Xbox Games Are Out Today, Including A New Pixel‑Art JRPG Banger (October 22)",
+        "event_type": "other",
+        "action": "list",
+        "status": "informative",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft/Xbox",
+        "target": "players",
+        "platforms": [
+          "Xbox Series X|S"
+        ],
+        "topic": "Daily launch lineup"
+      },
+      "modality": "unknown",
+      "topic": "Daily launch lineup",
+      "institution": "Microsoft/Xbox",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-10-22T17:18:06.540563+06:00"
+    },
+    "evt_7b8abed29379c2": {
+      "event_id": "evt_7b8abed29379c2",
+      "event_key": "ea dice respawn starwarsbattlefront3 co development rumor",
+      "event_subject": "Electronic Arts",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "ea dice respawn starwarsbattlefront3 co development rumor",
+        "subject": "Electronic Arts",
+        "event_type": "rumor",
+        "action": "report",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "Star Wars: Battlefront 3",
+        "franchise": "Star Wars Battlefront",
+        "institution": "EA",
+        "target": "players",
+        "platforms": [],
+        "topic": "development"
+      },
+      "modality": "unknown",
+      "topic": "development",
+      "institution": "EA",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Battlefront 3 reportedly co‑developed by DICE and Respawn Studios"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-10-22T17:18:06.540565+06:00"
+    },
+    "evt_56cdb8319121c7": {
+      "event_id": "evt_56cdb8319121c7",
+      "event_key": "xbox employee office policy 2027",
+      "event_subject": "Xbox Mandates Four-Day Office Work For Certain Employees, Said To Affect 'Thousands'",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox employee office policy 2027",
+        "subject": "Xbox Mandates Four-Day Office Work For Certain Employees, Said To Affect 'Thousands'",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft/Xbox",
+        "target": "Xbox staff",
+        "platforms": [],
+        "topic": "Office‑attendance requirement"
+      },
+      "modality": "unknown",
+      "topic": "Office‑attendance requirement",
+      "institution": "Microsoft/Xbox",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-10-22T17:18:06.540567+06:00"
+    },
+    "evt_19d88660c1d259": {
+      "event_id": "evt_19d88660c1d259",
+      "event_key": "nintendo switch 2 launch 2026",
+      "event_subject": "The Nintendo Switch 2’s Open-World Era Is Officially Here, and It Rules",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo switch 2 launch 2026",
+        "subject": "The Nintendo Switch 2’s Open-World Era Is Officially Here, and It Rules",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Nintendo",
+        "target": "Nintendo Switch 2",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "topic": "Open‑world titles on Switch 2"
+      },
+      "modality": "unknown",
+      "topic": "Open‑world titles on Switch 2",
+      "institution": "Nintendo",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-10-22T17:18:06.540570+06:00"
+    },
+    "evt_37722eeb24d67d": {
+      "event_id": "evt_37722eeb24d67d",
+      "event_key": "call of duty mw4 campaign codes 2026",
+      "event_subject": "COD MW4 Campaign: All codes for safes, doors, and lockboxes",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "call of duty mw4 campaign codes 2026",
+        "subject": "COD MW4 Campaign: All codes for safes, doors, and lockboxes",
+        "event_type": "other",
+        "action": "provide",
+        "status": "informative",
+        "modality": "unknown",
+        "game": "Call of Duty: Modern Warfare 4",
+        "franchise": "Call of Duty",
+        "institution": "Activision",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "PS5",
+          "Xbox Series X|S"
+        ],
+        "topic": "Campaign puzzle codes"
+      },
+      "modality": "unknown",
+      "topic": "Campaign puzzle codes",
+      "institution": "Activision",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-10-22T17:18:06.540572+06:00"
+    },
+    "evt_654607669bf192": {
+      "event_id": "evt_654607669bf192",
+      "event_key": "nintendo masahirosakurai ai games commentary",
+      "event_subject": "Masahiro Sakurai",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo masahirosakurai ai games commentary",
+        "subject": "Masahiro Sakurai",
+        "event_type": "other",
+        "action": "comment",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Nintendo",
+        "target": "developers",
+        "platforms": [],
+        "topic": "industry outlook"
+      },
+      "modality": "unknown",
+      "topic": "industry outlook",
+      "institution": "Nintendo",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "AI‑dominated games on Steam make creative developers more important"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-10-22T17:18:06.540575+06:00"
+    },
+    "evt_808f18abc2f008": {
+      "event_id": "evt_808f18abc2f008",
+      "event_key": "marvel rivals avengers endgame event schedule 2026",
+      "event_subject": "When Can You Play Marvel Rivals Avengers: Endgame Event? Full Schedule & Release Times",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "marvel rivals avengers endgame event schedule 2026",
+        "subject": "When Can You Play Marvel Rivals Avengers: Endgame Event? Full Schedule & Release Times",
+        "event_type": "other",
+        "action": "provide",
+        "status": "informative",
+        "modality": "unknown",
+        "game": "Marvel Rivals",
+        "franchise": "Marvel",
+        "institution": "Gameloft",
+        "target": "players",
+        "platforms": [
+          "iOS",
+          "Android"
+        ],
+        "topic": "In‑game event timing"
+      },
+      "modality": "unknown",
+      "topic": "In‑game event timing",
+      "institution": "Gameloft",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-10-22T17:18:06.540577+06:00"
+    },
+    "evt_c5e03aecb97c49": {
+      "event_id": "evt_c5e03aecb97c49",
+      "event_key": "black friday controller deals 2026",
+      "event_subject": "Best Black Friday controller deals",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "black friday controller deals 2026",
+        "subject": "Best Black Friday controller deals",
+        "event_type": "other",
+        "action": "list",
+        "status": "informative",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "consumers",
+        "platforms": [],
+        "topic": "Discounted controllers"
+      },
+      "modality": "unknown",
+      "topic": "Discounted controllers",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-10-22T17:18:06.540580+06:00"
+    },
+    "evt_e0473a719ee461": {
+      "event_id": "evt_e0473a719ee461",
+      "event_key": "capcom streetfightermovie director statement",
+      "event_subject": "Capcom/film studio",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "capcom streetfightermovie director statement",
+        "subject": "Capcom/film studio",
+        "event_type": "other",
+        "action": "comment",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Street Fighter",
+        "institution": "Capcom",
+        "target": "fans",
+        "platforms": [],
+        "topic": "tone"
+      },
+      "modality": "unknown",
+      "topic": "tone",
+      "institution": "Capcom",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Director says movie was never intended to be a dark, grounded Batman‑style film"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-10-22T17:18:06.540582+06:00"
+    },
+    "evt_e11c44b20960b4": {
+      "event_id": "evt_e11c44b20960b4",
+      "event_key": "call of duty mw4 dmz sensors guide 2026",
+      "event_subject": "How to get electronic sensors in Modern Warfare 4 DMZ",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "call of duty mw4 dmz sensors guide 2026",
+        "subject": "How to get electronic sensors in Modern Warfare 4 DMZ",
+        "event_type": "other",
+        "action": "provide",
+        "status": "informative",
+        "modality": "unknown",
+        "game": "Call of Duty: Modern Warfare 4",
+        "franchise": "Call of Duty",
+        "institution": "Activision",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "PS5",
+          "Xbox Series X|S"
+        ],
+        "topic": "DMZ material acquisition"
+      },
+      "modality": "unknown",
+      "topic": "DMZ material acquisition",
+      "institution": "Activision",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-10-22T17:18:06.540584+06:00"
+    },
+    "evt_09e94ddd9d8b58": {
+      "event_id": "evt_09e94ddd9d8b58",
+      "event_key": "gran turismo ps5 controller preorder 2026",
+      "event_subject": "Reminder: Pre‑Orders Go Live Today for Gran Turismo's Gorgeous PS5 Controller",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gran turismo ps5 controller preorder 2026",
+        "subject": "Reminder: Pre‑Orders Go Live Today for Gran Turismo's Gorgeous PS5 Controller",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Gran Turismo",
+        "institution": "Sony",
+        "target": "consumers",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "Limited‑edition DualSense controller"
+      },
+      "modality": "unknown",
+      "topic": "Limited‑edition DualSense controller",
+      "institution": "Sony",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-10-22T17:18:06.540586+06:00"
+    },
+    "evt_870b86bd1f1e5e": {
+      "event_id": "evt_870b86bd1f1e5e",
+      "event_key": "dream car collection codes oct2026",
+      "event_subject": "Dream Car Collection Codes (October 2026)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "dream car collection codes oct2026",
+        "subject": "Dream Car Collection Codes (October 2026)",
+        "event_type": "other",
+        "action": "provide",
+        "status": "informative",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "Monthly redemption codes"
+      },
+      "modality": "unknown",
+      "topic": "Monthly redemption codes",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 38
+      },
+      "last_seen": "2026-10-22T17:18:06.540589+06:00"
+    },
+    "evt_df9a4f97b6a06e": {
+      "event_id": "evt_df9a4f97b6a06e",
+      "event_key": "smash the city codes oct2026",
+      "event_subject": "Smash The City Codes (October 2026)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "smash the city codes oct2026",
+        "subject": "Smash The City Codes (October 2026)",
+        "event_type": "other",
+        "action": "provide",
+        "status": "informative",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "Monthly redemption codes"
+      },
+      "modality": "unknown",
+      "topic": "Monthly redemption codes",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 38
+      },
+      "last_seen": "2026-10-22T17:18:06.540591+06:00"
+    },
+    "evt_4a1181891045e7": {
+      "event_id": "evt_4a1181891045e7",
+      "event_key": "thepokemoncompany pok montcg30th amazon sale",
+      "event_subject": "The Pokémon Company",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "thepokemoncompany pok montcg30th amazon sale",
+        "subject": "The Pokémon Company",
+        "event_type": "other",
+        "action": "offer",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Pokémon TCG: 30th Celebration",
+        "franchise": "Pokémon",
+        "institution": "The Pokémon Company",
+        "target": "collectors",
+        "platforms": [
+          "Amazon"
+        ],
+        "topic": "product availability"
+      },
+      "modality": "unknown",
+      "topic": "product availability",
+      "institution": "The Pokémon Company",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Elite Trainer Boxes sold at ~50 % discount via invite‑only Amazon sale"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-10-22T17:18:06.540594+06:00"
+    },
+    "evt_e8be38aefd1833": {
+      "event_id": "evt_e8be38aefd1833",
+      "event_key": "adventure time rpg codes oct2026",
+      "event_subject": "All Adventure Time RPG codes (October 2026) and how to redeem them for free coins",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "adventure time rpg codes oct2026",
+        "subject": "All Adventure Time RPG codes (October 2026) and how to redeem them for free coins",
+        "event_type": "other",
+        "action": "provide",
+        "status": "informative",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Adventure Time",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "Monthly redemption codes"
+      },
+      "modality": "unknown",
+      "topic": "Monthly redemption codes",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-10-22T17:18:06.540596+06:00"
+    },
+    "evt_814dc5a84cf299": {
+      "event_id": "evt_814dc5a84cf299",
+      "event_key": "xmen rogue hint by inde navarrette 2026",
+      "event_subject": "Inde Navarrette was \"dropping hints\" about playing Rogue in X‑Men months ago, but no one caught it",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "xmen rogue hint by inde navarrette 2026",
+        "subject": "Inde Navarrette was \"dropping hints\" about playing Rogue in X‑Men months ago, but no one caught it",
+        "event_type": "rumor",
+        "action": "report",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "X‑Men",
+        "institution": "",
+        "target": "fans",
+        "platforms": [],
+        "topic": "Potential Rogue playable content"
+      },
+      "modality": "unknown",
+      "topic": "Potential Rogue playable content",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Inde Navarrette hinted at Rogue playable"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-10-22T17:18:06.540599+06:00"
+    },
+    "evt_0314c3a30a0428": {
+      "event_id": "evt_0314c3a30a0428",
+      "event_key": "lego rayquaza 72168 review 2026",
+      "event_subject": "Lego Rayquaza #72168 review",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "lego rayquaza 72168 review 2026",
+        "subject": "Lego Rayquaza #72168 review",
+        "event_type": "other",
+        "action": "review",
+        "status": "informative",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Pokemon",
+        "institution": "Lego",
+        "target": "consumers",
+        "platforms": [],
+        "topic": "Lego Pokemon set evaluation"
+      },
+      "modality": "unknown",
+      "topic": "Lego Pokemon set evaluation",
+      "institution": "Lego",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-10-22T17:18:06.540602+06:00"
+    },
+    "evt_1a49bb5ab30c4d": {
+      "event_id": "evt_1a49bb5ab30c4d",
+      "event_key": "unmatched cobble fog review 2026",
+      "event_subject": "This wildly gothic board game pits Dracula against Sherlock Holmes, and it's perfect for fans of both",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "unmatched cobble fog review 2026",
+        "subject": "This wildly gothic board game pits Dracula against Sherlock Holmes, and it's perfect for fans of both",
+        "event_type": "other",
+        "action": "review",
+        "status": "informative",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Unmatched",
+        "institution": "Restless Studios",
+        "target": "board gamers",
+        "platforms": [],
+        "topic": "Board game review"
+      },
+      "modality": "unknown",
+      "topic": "Board game review",
+      "institution": "Restless Studios",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-10-22T17:18:06.540605+06:00"
+    },
+    "evt_da7e170d03b2aa": {
+      "event_id": "evt_da7e170d03b2aa",
+      "event_key": "coolermaster hafii500 product review",
+      "event_subject": "Cooler Master",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "coolermaster hafii500 product review",
+        "subject": "Cooler Master",
+        "event_type": "review",
+        "action": "review",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Cooler Master",
+        "target": "PC builders",
+        "platforms": [],
+        "topic": "hardware review"
+      },
+      "modality": "unknown",
+      "topic": "hardware review",
+      "institution": "Cooler Master",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Three fans provide strong airflow in the HAF II 500 cooler"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-22T17:18:06.540607+06:00"
+    },
+    "evt_5e57b6d58a49e4": {
+      "event_id": "evt_5e57b6d58a49e4",
+      "event_key": "chris pratt guardians return 2026",
+      "event_subject": "Guardians of the Galaxy star Chris Pratt says \"hard action\" is being taken to bring Star‑Lord back to the MCU",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "chris pratt guardians return 2026",
+        "subject": "Guardians of the Galaxy star Chris Pratt says \"hard action\" is being taken to bring Star‑Lord back to the MCU",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Guardians of the Galaxy",
+        "institution": "",
+        "target": "MCU fans",
+        "platforms": [],
+        "topic": "Star‑Lord return plans"
+      },
+      "modality": "unknown",
+      "topic": "Star‑Lord return plans",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-10-22T17:18:06.540610+06:00"
+    },
+    "evt_1b304c3c2a0e54": {
+      "event_id": "evt_1b304c3c2a0e54",
+      "event_key": "it welcome to derry season2 tease 2026",
+      "event_subject": "It: Welcome to Derry showrunner teases \"very bloody\" season 2",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "it welcome to derry season2 tease 2026",
+        "subject": "It: Welcome to Derry showrunner teases \"very bloody\" season 2",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "It",
+        "institution": "Amazon Prime Video",
+        "target": "viewers",
+        "platforms": [],
+        "topic": "Season 2 preview"
+      },
+      "modality": "unknown",
+      "topic": "Season 2 preview",
+      "institution": "Amazon Prime Video",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-10-22T17:18:06.540612+06:00"
+    },
+    "evt_ba1f92c75fb3da": {
+      "event_id": "evt_ba1f92c75fb3da",
+      "event_key": "avengers doomsday cut preview 2026",
+      "event_subject": "Jonathan Hickman has seen a \"work in progress\" cut of Avengers: Doomsday and calls recent changes \"fascinating\"",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "avengers doomsday cut preview 2026",
+        "subject": "Jonathan Hickman has seen a \"work in progress\" cut of Avengers: Doomsday and calls recent changes \"fascinating\"",
+        "event_type": "other",
+        "action": "report",
+        "status": "informative",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Avengers: Doomsday",
+        "institution": "",
+        "target": "fans",
+        "platforms": [],
+        "topic": "Sneak peek of upcoming film"
+      },
+      "modality": "unknown",
+      "topic": "Sneak peek of upcoming film",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-10-22T17:18:06.540614+06:00"
+    },
+    "evt_db4ad46a7f01bd": {
+      "event_id": "evt_db4ad46a7f01bd",
+      "event_key": "warner clayface release and reviews",
+      "event_subject": "Warner Bros.",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "warner clayface release and reviews",
+        "subject": "Warner Bros.",
+        "event_type": "release",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Clayface",
+        "institution": "Warner Bros.",
+        "target": "audience",
+        "platforms": [],
+        "topic": "film reception"
+      },
+      "modality": "unknown",
+      "topic": "film reception",
+      "institution": "Warner Bros.",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Clayface movie receives higher Rotten Tomatoes score than Supergirl"
+      ],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-10-22T17:18:06.540616+06:00"
+    },
+    "evt_7235e7265c4dc3": {
+      "event_id": "evt_7235e7265c4dc3",
+      "event_key": "devilman crybaby analysis 2026",
+      "event_subject": "Anime's Most Devastating Horror Story Is a Tragedy About Being Human",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "devilman crybaby analysis 2026",
+        "subject": "Anime's Most Devastating Horror Story Is a Tragedy About Being Human",
+        "event_type": "other",
+        "action": "review",
+        "status": "informative",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Devilman Crybaby",
+        "institution": "",
+        "target": "viewers",
+        "platforms": [],
+        "topic": "Thematic analysis"
+      },
+      "modality": "unknown",
+      "topic": "Thematic analysis",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-10-22T17:18:06.540619+06:00"
+    },
+    "evt_9a3ad413846e9b": {
+      "event_id": "evt_9a3ad413846e9b",
+      "event_key": "windows fish screensaver origin 2026",
+      "event_subject": "The iconic Windows fish screensaver was inspired by a dentist's office",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "windows fish screensaver origin 2026",
+        "subject": "The iconic Windows fish screensaver was inspired by a dentist's office",
+        "event_type": "other",
+        "action": "explain",
+        "status": "informative",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "general audience",
+        "platforms": [],
+        "topic": "Screensaver backstory"
+      },
+      "modality": "unknown",
+      "topic": "Screensaver backstory",
+      "institution": "Microsoft",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-10-22T17:18:06.540622+06:00"
     }
   },
   "posted_event_ids": [
@@ -161636,11 +164156,14 @@
     "evt_66981aa8c59c6c",
     "evt_ce2c9124530e09",
     "evt_ae7924fdef0b68",
-    "evt_85cbac036a9d71"
+    "evt_85cbac036a9d71",
+    "evt_cadc444bfe7dea",
+    "evt_0f52ec61754e14",
+    "evt_fdd063159ac3d3",
+    "evt_74d24bea461c29",
+    "evt_7b8abed29379c2"
   ],
   "recent_titles": [
-    "microsoft s ai driven patch tuesday tackles 974 windows security flaws",
-    "xbox game studios picks up physint after sony steps away",
     "monster hunter wilds arrives on switch 2 on december 4 2026",
     "metroid ravenous on switch 2 to deliver 120hz performance",
     "crisis core final fantasy vii reunion launches on switch 2 at discounted price",
@@ -162040,18 +164563,23 @@
     "genshin impact announces 7 2 special program stream and releases 7 1 soundtrack ep",
     "sony patches massive ps5 exploit in firmware 14 20 update",
     "pocket mirror goldenertraum launches on playstation 5 playstation 4 and switch",
-    "minecraft dragon ball z 1 1 legends update expands fighter roster and adds custom tournaments"
+    "minecraft dragon ball z 1 1 legends update expands fighter roster and adds custom tournaments",
+    "capcom warns of phishing after data breach hits over 11 million accounts",
+    "riot games reveals valorant partner teams and selection criteria",
+    "pok mon mobile apps restored after major php security outage",
+    "xbox cloud gaming packs launch at 11 99 for 50 hours",
+    "star wars battlefront 3 rumored as dice teams up with respawn"
   ],
   "category_coverage": {
-    "Game Updates": "2026-10-22T11:48:20.789036+06:00",
+    "Game Updates": "2026-10-22T17:23:31.408009+06:00",
     "Major Releases": "2026-10-22T02:44:35.618708+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
     "Nintendo": "2026-09-09T21:29:41.864902+06:00",
     "Expansions and DLC": "2026-10-15T21:53:17.497684+06:00",
     "Gaming Hardware": "2026-10-21T17:38:48.865253+06:00",
-    "Cybersecurity": "2026-10-22T02:44:51.625635+06:00",
-    "Pricing and Monetization": "2026-10-21T19:42:13.231980+06:00",
+    "Cybersecurity": "2026-10-22T17:23:10.228289+06:00",
+    "Pricing and Monetization": "2026-10-22T17:23:26.069489+06:00",
     "Anti-Cheat": "2026-10-21T02:06:25.030099+06:00",
     "Cancellations": "2026-10-17T20:17:10.839662+06:00",
     "Studio Closures": "2026-09-14T00:35:40.039904+06:00",
