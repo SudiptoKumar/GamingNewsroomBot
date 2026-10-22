@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"20207-hS7Q71FjG/0oRcspqDa303klQaY\"",
+      "etag": "W/\"1d97b-5bvIcvg2SsDCz+N89AeXOz6424M\"",
       "last_modified": null,
-      "last_checked": "2026-10-22T02:27:13.411402+06:00",
+      "last_checked": "2026-10-22T11:45:57.424770+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-22T02:27:13.701499+06:00",
+      "last_checked": "2026-10-22T11:45:57.623672+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ad91fbc-b4a\"",
-      "last_modified": "Wed, 21 Oct 2026 20:25:32 GMT",
-      "last_checked": "2026-10-22T02:27:13.970915+06:00",
+      "etag": "\"6ad9a2fb-b4b\"",
+      "last_modified": "Thu, 22 Oct 2026 05:45:31 GMT",
+      "last_checked": "2026-10-22T11:45:58.005168+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Wed, 21 Oct 2026 19:01:46 GMT",
-      "last_checked": "2026-10-22T02:27:14.162041+06:00",
+      "last_checked": "2026-10-22T11:45:58.545103+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"74426f03427c4e69f0482656a3e82fee\"",
-      "last_modified": "Wed, 21 Oct 2026 17:50:50 GMT",
-      "last_checked": "2026-10-22T02:27:14.476082+06:00",
+      "etag": "\"50368e5f275b32df67ded5b01d1f0084\"",
+      "last_modified": "Thu, 22 Oct 2026 05:09:52 GMT",
+      "last_checked": "2026-10-22T11:45:58.740318+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-22T02:27:14.651689+06:00",
+      "last_checked": "2026-10-22T11:45:58.953553+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-22T02:27:15.443245+06:00",
+      "last_checked": "2026-10-22T11:46:00.022658+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"f68893359163a6d478bb38e43faa4eab\"",
-      "last_modified": "Wed, 21 Oct 2026 20:12:04 GMT",
-      "last_checked": "2026-10-22T02:27:15.658715+06:00",
+      "etag": "W/\"40668c1e83fc578e267f1c5c7a95b3d2\"",
+      "last_modified": "Wed, 21 Oct 2026 23:30:00 GMT",
+      "last_checked": "2026-10-22T11:46:00.243536+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-22T02:27:15.789703+06:00",
+      "last_checked": "2026-10-22T11:46:00.487625+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Wed, 21 Oct 2026 17:49:48 GMT",
-      "last_checked": "2026-10-22T02:27:16.150844+06:00",
+      "last_checked": "2026-10-22T11:46:00.940997+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Wed, 21 Oct 2026 20:27:16 GMT",
-      "last_checked": "2026-10-22T02:27:16.577188+06:00",
+      "last_modified": "Thu, 22 Oct 2026 05:46:01 GMT",
+      "last_checked": "2026-10-22T11:46:01.708326+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"ec53511c2357934168438a556f7aae74\"",
-      "last_modified": "Wed, 21 Oct 2026 20:12:29 GMT",
-      "last_checked": "2026-10-22T02:27:16.724367+06:00",
+      "etag": "W/\"d87f110f8333f19e500b600612e1e5d8\"",
+      "last_modified": "Wed, 21 Oct 2026 22:14:51 GMT",
+      "last_checked": "2026-10-22T11:46:01.892803+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-22T02:27:16.983620+06:00",
+      "last_checked": "2026-10-22T11:46:02.418804+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-22T02:27:17.229370+06:00",
+      "last_checked": "2026-10-22T11:46:02.974884+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-22T02:27:17.603220+06:00",
+      "last_checked": "2026-10-22T11:46:03.563936+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-22T02:27:17.721594+06:00",
-      "fail_count": 107,
+      "last_checked": "2026-10-22T11:46:03.933592+06:00",
+      "fail_count": 108,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"cff52e3819e9fe74d2153e00e527585f\"",
-      "last_modified": "Wed, 21 Oct 2026 18:07:10 GMT",
-      "last_checked": "2026-10-22T02:27:18.135310+06:00",
+      "etag": "W/\"92fdf91cfc810440bb280eb669f296cc\"",
+      "last_modified": "Wed, 21 Oct 2026 18:37:00 GMT",
+      "last_checked": "2026-10-22T11:46:04.061269+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-22T02:27:18.285025+06:00",
+      "last_checked": "2026-10-22T11:46:04.237775+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-22T02:27:18.880233+06:00",
-      "fail_count": 107,
+      "last_checked": "2026-10-22T11:46:04.411315+06:00",
+      "fail_count": 108,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"0620511a02068087e855b53b1c46863a\"",
       "last_modified": "Wed, 21 Oct 2026 13:41:03 GMT",
-      "last_checked": "2026-10-22T02:27:19.007312+06:00",
+      "last_checked": "2026-10-22T11:46:04.592128+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -154,54 +154,6 @@
       "status": "pending",
       "first_seen": "2026-10-17T20:04:04.005270+06:00",
       "last_seen": "2026-10-18T20:18:41.758420+06:00"
-    },
-    "polygon.com/november-2026-game-releases": {
-      "title": "Every Major Game Releasing in November That Isn’t GTA 6",
-      "url": "https://www.polygon.com/november-2026-game-releases/",
-      "canonical": "polygon.com/november-2026-game-releases",
-      "published_dt": "2026-10-18T10:00:23+06:00",
-      "published_date": "2026-10-18T10:00:23+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Grand Theft Auto 6 isn't the only game coming out in November. Here's what's daring to share space with Rockstar's latest.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_15.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-18T11:27:10.444727+06:00",
-      "last_seen": "2026-10-18T11:27:10.444731+06:00"
-    },
-    "polygon.com/the-terminator-1984-free-on-youtube": {
-      "title": "42 Years Later, the Definitive Sci-Fi Action Thriller is Free to Watch on YouTube",
-      "url": "https://www.polygon.com/the-terminator-1984-free-on-youtube/",
-      "canonical": "polygon.com/the-terminator-1984-free-on-youtube",
-      "published_dt": "2026-10-18T09:00:19+06:00",
-      "published_date": "2026-10-18T09:00:19+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "James Cameron's genre-redefining sci-fi thriller The Terminator is currently free to stream on YouTube",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdterm_ec077_h.JPG",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-18T11:27:10.444866+06:00",
-      "last_seen": "2026-10-18T11:27:10.444869+06:00"
-    },
-    "nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-switch-2-update-currently-in-development": {
-      "title": "Dragon's Dogma 2: Dark Arisen Switch 2 Update Currently In Development",
-      "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-switch-2-update-currently-in-development",
-      "canonical": "nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-switch-2-update-currently-in-development",
-      "published_dt": "2026-10-18T09:05:00+06:00",
-      "published_date": "2026-10-18T09:05:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Capcom confirms. Following the release of Dragon's Dogma 2: Dark Arisen earlier this month, Capcom has now rolled out a title update for multiple platforms. Although there's no update for Switch 2 players just yet, Capcom has noted an update for this version of the game is \"currently in development\" and will be arriving at a later date. So, if you have been encountering any issues in the Switch 2 build, fixes are on the way. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/567b8097e717a/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-18T11:27:12.647421+06:00",
-      "last_seen": "2026-10-18T11:27:12.647426+06:00"
     },
     "eurogamer.net/game-boy-musuem-cartridge-marcel-pflug": {
       "title": "In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons",
@@ -10697,6 +10649,152 @@
       "status": "pending",
       "first_seen": "2026-10-22T02:27:18.180484+06:00",
       "last_seen": "2026-10-22T02:27:18.180488+06:00"
+    },
+    "gematsu.com/2026/10/pocket-mirror-goldenertraum-now-available-for-ps5-ps4-and-switch": {
+      "title": "Pocket Mirror: GoldenerTraum now available for PS5, PS4, and Switch",
+      "url": "https://www.gematsu.com/2026/10/pocket-mirror-goldenertraum-now-available-for-ps5-ps4-and-switch",
+      "canonical": "gematsu.com/2026/10/pocket-mirror-goldenertraum-now-available-for-ps5-ps4-and-switch",
+      "published_dt": "2026-10-22T11:08:58+06:00",
+      "published_date": "2026-10-22T11:08:58+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Horror RPG Pocket Mirror: GoldenerTraum is now available for PlayStation 5, PlayStation 4, and Switch …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-22T11:45:58.764825+06:00",
+      "last_seen": "2026-10-22T11:45:58.764830+06:00",
+      "posted_at": "2026-10-22T11:48:15.089730+06:00"
+    },
+    "gematsu.com/2026/10/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-frontier-zero-announced-for-pc-ios-and-android": {
+      "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Frontier Zero announced for PC, iOS, and Android",
+      "url": "https://www.gematsu.com/2026/10/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-frontier-zero-announced-for-pc-ios-and-android",
+      "canonical": "gematsu.com/2026/10/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-frontier-zero-announced-for-pc-ios-and-android",
+      "published_dt": "2026-10-22T09:55:50+06:00",
+      "published_date": "2026-10-22T09:55:50+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "enish has announced Is It Wrong to Try to Pick Up Girls in a Dungeon? …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T11:45:58.764997+06:00",
+      "last_seen": "2026-10-22T11:45:58.765002+06:00"
+    },
+    "polygon.com/final-fantasy-resonance-party-members-location-how-to-unlock": {
+      "title": "All party members in Final Fantasy Resonance",
+      "url": "https://www.polygon.com/final-fantasy-resonance-party-members-location-how-to-unlock/",
+      "canonical": "polygon.com/final-fantasy-resonance-party-members-location-how-to-unlock",
+      "published_dt": "2026-10-22T10:01:17+06:00",
+      "published_date": "2026-10-22T10:01:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "In this guide, you find the list of all party members you can recruit in Final Fantasy Resonance, when you unlock them, and their roles.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ffresonance_guide_partymembers_lead.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T11:46:00.031930+06:00",
+      "last_seen": "2026-10-22T11:46:00.031935+06:00"
+    },
+    "polygon.com/final-fantasy-resonance-visions-locations-how-to-unlock": {
+      "title": "All unlockable Visions in Final Fantasy Resonance",
+      "url": "https://www.polygon.com/final-fantasy-resonance-visions-locations-how-to-unlock/",
+      "canonical": "polygon.com/final-fantasy-resonance-visions-locations-how-to-unlock",
+      "published_dt": "2026-10-22T10:01:17+06:00",
+      "published_date": "2026-10-22T10:01:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Here's a list of all Visions available in Final Fantasy Resonance, where you can find them, and the prerequisites for unlocking each one.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ffresonance_guide_visions_lead.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T11:46:00.032076+06:00",
+      "last_seen": "2026-10-22T11:46:00.032081+06:00"
+    },
+    "polygon.com/final-fantasy-resonance-ancient-equipment-upgrade-locations": {
+      "title": "Where to find all ancient equipment in Final Fantasy Resonance",
+      "url": "https://www.polygon.com/final-fantasy-resonance-ancient-equipment-upgrade-locations/",
+      "canonical": "polygon.com/final-fantasy-resonance-ancient-equipment-upgrade-locations",
+      "published_dt": "2026-10-22T10:01:17+06:00",
+      "published_date": "2026-10-22T10:01:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Here's where to upgrade ancient equipment into the best weapons in Final Fantasy Resonance, and where to find all the ancient equips.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/jlee_261021_1001_ffr_ancient_0.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T11:46:00.032221+06:00",
+      "last_seen": "2026-10-22T11:46:00.032226+06:00"
+    },
+    "polygon.com/final-fantasy-resonance-mysidia-location-how-to-find": {
+      "title": "How to find Mysidia in Final Fantasy Resonance",
+      "url": "https://www.polygon.com/final-fantasy-resonance-mysidia-location-how-to-find/",
+      "canonical": "polygon.com/final-fantasy-resonance-mysidia-location-how-to-find",
+      "published_dt": "2026-10-22T10:01:17+06:00",
+      "published_date": "2026-10-22T10:01:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "In this guide, you learn how to find Mysidia in Final Fantasy Resonance, the Magiopolis as well as the exact location where you must use the radar.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ffresonance_guide_mysidia_header.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T11:46:00.032372+06:00",
+      "last_seen": "2026-10-22T11:46:00.032376+06:00"
+    },
+    "polygon.com/final-fantasy-resonance-adamantite-use-locations-weapons": {
+      "title": "Where to find and use Adamantite in Final Fantasy Resonance",
+      "url": "https://www.polygon.com/final-fantasy-resonance-adamantite-use-locations-weapons/",
+      "canonical": "polygon.com/final-fantasy-resonance-adamantite-use-locations-weapons",
+      "published_dt": "2026-10-22T10:01:17+06:00",
+      "published_date": "2026-10-22T10:01:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Here's where to find Adamantite in Final Fantasy Resonance, which makes some powerful weapons and armor, if you bring it to the right person.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/jlee_261014_1001_ffr_shard.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T11:46:00.032535+06:00",
+      "last_seen": "2026-10-22T11:46:00.032540+06:00"
+    },
+    "polygon.com/final-fantasy-resonance-sephiroth-vision-where-to-find-boss-fight": {
+      "title": "How to get Sephiroth's Vision in Final Fantasy Resonance",
+      "url": "https://www.polygon.com/final-fantasy-resonance-sephiroth-vision-where-to-find-boss-fight/",
+      "canonical": "polygon.com/final-fantasy-resonance-sephiroth-vision-where-to-find-boss-fight",
+      "published_dt": "2026-10-22T10:01:17+06:00",
+      "published_date": "2026-10-22T10:01:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "If you want the Sephiroth's Vision in Final Fantasy Resonance, you'll need to take on the One-Winged Angel himself. Here's how to beat him.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/obs64_2026-10-13_11-41-15-copy.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-22T11:46:00.032679+06:00",
+      "last_seen": "2026-10-22T11:46:00.032683+06:00"
+    },
+    "nintendolife.com/news/2026/10/minecraft-x-dragon-ball-z-1-1-legends-update-adds-more-characters-new-story-mode-fights-and-custom-tournament": {
+      "title": "Minecraft x Dragon Ball Z - 1.1 Legends Update Adds More Characters, New Story Mode Fights & Custom Tournament",
+      "url": "https://www.nintendolife.com/news/2026/10/minecraft-x-dragon-ball-z-1-1-legends-update-adds-more-characters-new-story-mode-fights-and-custom-tournament",
+      "canonical": "nintendolife.com/news/2026/10/minecraft-x-dragon-ball-z-1-1-legends-update-adds-more-characters-new-story-mode-fights-and-custom-tournament",
+      "published_dt": "2026-10-22T10:45:00+06:00",
+      "published_date": "2026-10-22T10:45:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Just a week out from the Switch 2 release. Last year, Minecraft got a DLC crossover with the manga and anime series Dragon Ball Z . Now, almost a year later, a special \"1.1 Legends Update\" has been released. It comes loaded with new fighters (like Bardock, Teen Gohan, Gotenks, Vegito), new battle areas, and you'll also be able to compete in a new custom tournament for up to eight players. You can also continue the story mode with 4 new fights and unlock alternate versions of the original characters. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/9296df27710d4/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-22T11:46:02.440533+06:00",
+      "last_seen": "2026-10-22T11:46:02.440548+06:00",
+      "posted_at": "2026-10-22T11:48:20.788979+06:00"
     }
   },
   "events": {
@@ -26077,6 +26175,112 @@
           "headline": "Sony Patches Massive PS5 Exploit in Firmware 14.20 Update",
           "claims": [
             "exploit may have been patched after hacker refused release"
+          ]
+        }
+      ]
+    },
+    "evt_ae7924fdef0b68": {
+      "event_id": "evt_ae7924fdef0b68",
+      "event_key": "pocket mirror goldenertraum release ps5 ps4 switch",
+      "event_subject": "Pocket Mirror: GoldenerTraum",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "pocket mirror goldenertraum release ps5 ps4 switch",
+        "subject": "Pocket Mirror: GoldenerTraum",
+        "event_type": "release",
+        "action": "launch",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Pocket Mirror: GoldenerTraum",
+        "franchise": "Pocket Mirror: GoldenerTraum",
+        "institution": "",
+        "target": "consumers",
+        "platforms": [
+          "PS5",
+          "PS4",
+          "Switch"
+        ],
+        "topic": "availability"
+      },
+      "sources": [
+        "Gematsu"
+      ],
+      "event_sources": [
+        "Gematsu"
+      ],
+      "claims": [
+        "available on new platforms"
+      ],
+      "importance_score": 46,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Pocket Mirror: GoldenerTraum launches on PlayStation 5, PlayStation 4 and Switch",
+      "summary": "The horror RPG Pocket Mirror: GoldenerTraum is now available on PlayStation 5, PlayStation 4 and Switch for $19.99, expanding its audience beyond PC.",
+      "published_at": "2026-10-22T11:08:58+06:00",
+      "selected_at": "2026-10-22T05:48:15.089765+00:00",
+      "status": "published",
+      "message_id": 820,
+      "published_versions": [
+        {
+          "published_at": "2026-10-22T05:48:15.089765+00:00",
+          "headline": "Pocket Mirror: GoldenerTraum launches on PlayStation 5, PlayStation 4 and Switch",
+          "claims": [
+            "available on new platforms"
+          ]
+        }
+      ]
+    },
+    "evt_85cbac036a9d71": {
+      "event_id": "evt_85cbac036a9d71",
+      "event_key": "minecraft dragonballz 1 1 legends update release",
+      "event_subject": "Minecraft x Dragon Ball Z 1.1 Legends Update",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "minecraft dragonballz 1 1 legends update release",
+        "subject": "Minecraft x Dragon Ball Z 1.1 Legends Update",
+        "event_type": "update",
+        "action": "release",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Minecraft",
+        "franchise": "Dragon Ball Z",
+        "institution": "Mojang Studios",
+        "target": "players",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "content update"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [
+        "adds new characters, story mode fights and custom tournament"
+      ],
+      "importance_score": 45,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Minecraft × Dragon Ball Z 1.1 Legends Update Expands Fighter Roster and Adds Custom Tournaments",
+      "summary": "The new 1.1 Legends Update for Minecraft × Dragon Ball Z introduces fresh characters, extra story fights, and an eight‑player custom tournament mode.",
+      "published_at": "2026-10-22T10:45:00+06:00",
+      "selected_at": "2026-10-22T05:48:20.789008+00:00",
+      "status": "published",
+      "message_id": 821,
+      "published_versions": [
+        {
+          "published_at": "2026-10-22T05:48:20.789008+00:00",
+          "headline": "Minecraft × Dragon Ball Z 1.1 Legends Update Expands Fighter Roster and Adds Custom Tournaments",
+          "claims": [
+            "adds new characters, story mode fights and custom tournament"
           ]
         }
       ]
@@ -160822,6 +161026,185 @@
         "total": 31
       },
       "last_seen": "2026-10-22T02:32:20.541339+06:00"
+    },
+    "evt_85cbac036a9d71": {
+      "event_id": "evt_85cbac036a9d71",
+      "event_key": "minecraft dragonballz 1 1 legends update release",
+      "event_subject": "Minecraft x Dragon Ball Z 1.1 Legends Update",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "minecraft dragonballz 1 1 legends update release",
+        "subject": "Minecraft x Dragon Ball Z 1.1 Legends Update",
+        "event_type": "update",
+        "action": "release",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Minecraft",
+        "franchise": "Dragon Ball Z",
+        "institution": "Mojang Studios",
+        "target": "players",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "content update"
+      },
+      "modality": "unknown",
+      "topic": "content update",
+      "institution": "Mojang Studios",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "adds new characters, story mode fights and custom tournament"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-10-22T11:46:13.125929+06:00"
+    },
+    "evt_ae7924fdef0b68": {
+      "event_id": "evt_ae7924fdef0b68",
+      "event_key": "pocket mirror goldenertraum release ps5 ps4 switch",
+      "event_subject": "Pocket Mirror: GoldenerTraum",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "pocket mirror goldenertraum release ps5 ps4 switch",
+        "subject": "Pocket Mirror: GoldenerTraum",
+        "event_type": "release",
+        "action": "launch",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Pocket Mirror: GoldenerTraum",
+        "franchise": "Pocket Mirror: GoldenerTraum",
+        "institution": "",
+        "target": "consumers",
+        "platforms": [
+          "PS5",
+          "PS4",
+          "Switch"
+        ],
+        "topic": "availability"
+      },
+      "modality": "unknown",
+      "topic": "availability",
+      "institution": "",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "available on new platforms"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 46
+      },
+      "last_seen": "2026-10-22T11:46:13.125953+06:00"
+    },
+    "evt_186e947fca8f41": {
+      "event_id": "evt_186e947fca8f41",
+      "event_key": "danmachi frontier zero port announcement pc ios android",
+      "event_subject": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Frontier Zero",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "danmachi frontier zero port announcement pc ios android",
+        "subject": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Frontier Zero",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Frontier Zero",
+        "franchise": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "institution": "enish",
+        "target": "PC, iOS, Android users",
+        "platforms": [
+          "PC",
+          "iOS",
+          "Android"
+        ],
+        "topic": "platform expansion"
+      },
+      "modality": "unknown",
+      "topic": "platform expansion",
+      "institution": "enish",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "ported to new platforms"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-10-22T11:46:13.125964+06:00"
+    },
+    "evt_91c98beb486edd": {
+      "event_id": "evt_91c98beb486edd",
+      "event_key": "final fantasy resonance guide mysidia location",
+      "event_subject": "How to find Mysidia in Final Fantasy Resonance",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "final fantasy resonance guide mysidia location",
+        "subject": "How to find Mysidia in Final Fantasy Resonance",
+        "event_type": "other",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Final Fantasy Resonance",
+        "franchise": "Final Fantasy",
+        "institution": "Polygon",
+        "target": "players",
+        "platforms": [],
+        "topic": "game guide"
+      },
+      "modality": "unknown",
+      "topic": "game guide",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "list of recruitable party members and their roles",
+        "list of all Visions and unlocking prerequisites",
+        "locations and upgrade paths for ancient equipment",
+        "directions to locate Mysidia and use radar",
+        "locations for Adamantite and crafting information",
+        "steps to defeat Sephiroth and obtain his Vision"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-22T11:46:13.125974+06:00"
     }
   },
   "posted_event_ids": [
@@ -161251,14 +161634,11 @@
     "evt_94a407e58442d1",
     "evt_0832580fed6338",
     "evt_66981aa8c59c6c",
-    "evt_ce2c9124530e09"
+    "evt_ce2c9124530e09",
+    "evt_ae7924fdef0b68",
+    "evt_85cbac036a9d71"
   ],
   "recent_titles": [
-    "steelseries aeon pro controller launches with infinite battery and quickswitch",
-    "six new xbox insider features roll out to alpha members today",
-    "asus rog strix scar 18 sets new benchmark for gaming laptops",
-    "metroid ravenous shows nintendo finally giving samus a ferocious voice",
-    "gundam rogue orbit shows high speed mecha action at gamescom",
     "microsoft s ai driven patch tuesday tackles 974 windows security flaws",
     "xbox game studios picks up physint after sony steps away",
     "monster hunter wilds arrives on switch 2 on december 4 2026",
@@ -161658,10 +162038,12 @@
     "xbox insiders get introductory cloud playtime pricing ahead of broad rollout",
     "season two echoes of skyrim launches free greymoor and wolfhunter content",
     "genshin impact announces 7 2 special program stream and releases 7 1 soundtrack ep",
-    "sony patches massive ps5 exploit in firmware 14 20 update"
+    "sony patches massive ps5 exploit in firmware 14 20 update",
+    "pocket mirror goldenertraum launches on playstation 5 playstation 4 and switch",
+    "minecraft dragon ball z 1 1 legends update expands fighter roster and adds custom tournaments"
   ],
   "category_coverage": {
-    "Game Updates": "2026-10-22T02:44:46.779497+06:00",
+    "Game Updates": "2026-10-22T11:48:20.789036+06:00",
     "Major Releases": "2026-10-22T02:44:35.618708+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
