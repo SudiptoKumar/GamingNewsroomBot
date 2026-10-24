@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"2390b-SVz59ZoJLqf3yLz3YFSIxpwoO7A\"",
+      "etag": "W/\"1b6a1-DsJtMlw0FQ770MSNULejLZcEUdA\"",
       "last_modified": null,
-      "last_checked": "2026-10-24T02:12:14.958194+06:00",
+      "last_checked": "2026-10-24T11:23:45.286790+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-24T02:12:15.260652+06:00",
+      "last_checked": "2026-10-24T11:23:45.548844+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6adbbf38-b16\"",
-      "last_modified": "Fri, 23 Oct 2026 20:10:32 GMT",
-      "last_checked": "2026-10-24T02:12:15.839002+06:00",
+      "etag": "\"6adc4020-b16\"",
+      "last_modified": "Sat, 24 Oct 2026 05:20:32 GMT",
+      "last_checked": "2026-10-24T11:23:46.038858+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Fri, 23 Oct 2026 18:38:57 GMT",
-      "last_checked": "2026-10-24T02:12:16.153311+06:00",
+      "last_modified": "Fri, 23 Oct 2026 20:12:34 GMT",
+      "last_checked": "2026-10-24T11:23:46.260824+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "W/\"81edcb91a606b52ea4b09758bc449e58\"",
-      "last_modified": "Fri, 23 Oct 2026 18:27:47 GMT",
-      "last_checked": "2026-10-24T02:12:16.682321+06:00",
+      "etag": "W/\"6ab6bc44f5c41e9dd33e1417f79a1e83\"",
+      "last_modified": "Sat, 24 Oct 2026 02:20:53 GMT",
+      "last_checked": "2026-10-24T11:23:46.607363+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-24T02:12:17.179222+06:00",
+      "last_checked": "2026-10-24T11:23:46.878487+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-24T02:12:18.299649+06:00",
+      "last_checked": "2026-10-24T11:23:47.951430+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"e6f75549e6a782bac10579e2acc0e174\"",
-      "last_modified": "Fri, 23 Oct 2026 20:00:30 GMT",
-      "last_checked": "2026-10-24T02:12:18.641601+06:00",
+      "etag": "W/\"adc7e14be1aa67bfe6013e43c8226a47\"",
+      "last_modified": "Fri, 23 Oct 2026 21:26:36 GMT",
+      "last_checked": "2026-10-24T11:23:48.628791+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-24T02:12:18.908376+06:00",
+      "last_checked": "2026-10-24T11:23:48.949383+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Fri, 23 Oct 2026 18:25:53 GMT",
-      "last_checked": "2026-10-24T02:12:19.368356+06:00",
+      "last_checked": "2026-10-24T11:23:49.451727+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Fri, 23 Oct 2026 20:12:21 GMT",
-      "last_checked": "2026-10-24T02:12:21.259256+06:00",
+      "last_modified": "Sat, 24 Oct 2026 05:23:50 GMT",
+      "last_checked": "2026-10-24T11:23:50.128247+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"d1c5d0f45838bf086d41d7f7005e45ea\"",
-      "last_modified": "Fri, 23 Oct 2026 18:47:33 GMT",
-      "last_checked": "2026-10-24T02:12:21.616834+06:00",
+      "etag": "W/\"025ef941e08fe02fd23107e8aa7b812c\"",
+      "last_modified": "Sat, 24 Oct 2026 05:23:49 GMT",
+      "last_checked": "2026-10-24T11:23:50.591000+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-24T02:12:22.064227+06:00",
+      "last_checked": "2026-10-24T11:23:50.822387+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-24T02:12:22.548763+06:00",
+      "last_checked": "2026-10-24T11:23:51.300273+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-24T02:12:23.185114+06:00",
+      "last_checked": "2026-10-24T11:23:51.619713+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-24T02:12:23.472134+06:00",
-      "fail_count": 115,
+      "last_checked": "2026-10-24T11:23:51.873086+06:00",
+      "fail_count": 116,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"fd231eeefb93417073e322ab19064460\"",
-      "last_modified": "Fri, 23 Oct 2026 16:44:56 GMT",
-      "last_checked": "2026-10-24T02:12:23.775293+06:00",
+      "etag": "W/\"42f32d93a09aba34d1b350a46d8687ad\"",
+      "last_modified": "Fri, 23 Oct 2026 17:52:29 GMT",
+      "last_checked": "2026-10-24T11:23:51.992525+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-24T02:12:24.057031+06:00",
+      "last_checked": "2026-10-24T11:23:52.227894+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-24T02:12:24.388548+06:00",
-      "fail_count": 115,
+      "last_checked": "2026-10-24T11:23:52.399616+06:00",
+      "fail_count": 116,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"11e646ca6b6665ef64b792aaea76c0e4\"",
       "last_modified": "Fri, 23 Oct 2026 14:59:23 GMT",
-      "last_checked": "2026-10-24T02:12:24.837500+06:00",
+      "last_checked": "2026-10-24T11:23:52.563857+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -14420,6 +14420,55 @@
       "status": "pending",
       "first_seen": "2026-10-24T02:12:23.828830+06:00",
       "last_seen": "2026-10-24T02:12:23.828834+06:00"
+    },
+    "polygon.com/cloverfield-jj-abrams-streaming-peacock-paramount-plus-pluto-tv": {
+      "title": "J.J. Abrams’ Best Original Sci-Fi Movie Officially Finds a New Home on Streaming",
+      "url": "https://www.polygon.com/cloverfield-jj-abrams-streaming-peacock-paramount-plus-pluto-tv/",
+      "canonical": "polygon.com/cloverfield-jj-abrams-streaming-peacock-paramount-plus-pluto-tv",
+      "published_dt": "2026-10-24T10:00:21+06:00",
+      "published_date": "2026-10-24T10:00:21+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Cloverfield blends monster chaos with personal stories in New York City, and it's just found a new home on streaming.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdclov_ec005.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-24T11:23:47.962605+06:00",
+      "last_seen": "2026-10-24T11:23:47.962611+06:00"
+    },
+    "insider-gaming.com/roblox-backseat-rally-codes": {
+      "title": "Backseat Rally Codes (October 2026)",
+      "url": "https://insider-gaming.com/roblox-backseat-rally-codes/",
+      "canonical": "insider-gaming.com/roblox-backseat-rally-codes",
+      "published_dt": "2026-10-24T11:23:48+06:00",
+      "published_date": "2026-10-24T11:23:48+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Use these monthly Backseat Rally codes to get your hands on plenty of free rewards, including Credits and much more. The post Backseat Rally Codes (October 2026) appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-24T11:23:50.602484+06:00",
+      "last_seen": "2026-10-24T11:23:50.602490+06:00"
+    },
+    "nintendolife.com/news/2026/10/icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-free-upgrade-path": {
+      "title": "ICYMI: Cult Of The Lamb Summons A Switch 2 Version, Includes Free Upgrade Path",
+      "url": "https://www.nintendolife.com/news/2026/10/icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-free-upgrade-path",
+      "canonical": "nintendolife.com/news/2026/10/icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-free-upgrade-path",
+      "published_dt": "2026-10-24T09:30:00+06:00",
+      "published_date": "2026-10-24T09:30:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Join the cult today. Cult of the Lamb has continued to receive all sorts of updates since it launched on the Switch, and now developer Massive Monster has shared some massive news. The title, where you start your own cult and build up a loyal following, will be getting a Switch 2 version next week on 22nd October 2026 . Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/105fa42933e8e/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-24T11:23:50.844336+06:00",
+      "last_seen": "2026-10-24T11:23:50.844344+06:00",
+      "posted_at": "2026-10-24T11:25:02.869775+06:00"
     }
   },
   "events": {
@@ -32224,6 +32273,58 @@
           "published_at": "2026-10-23T20:25:59.325657+00:00",
           "headline": "Factorio 2.1 Update Rolls Out Final Major Features",
           "claims": []
+        }
+      ]
+    },
+    "evt_6b803a0787c311": {
+      "event_id": "evt_6b803a0787c311",
+      "event_key": "cult of the lamb switch2 release announcement",
+      "event_subject": "Cult of the Lamb",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "cult of the lamb switch2 release announcement",
+        "subject": "Cult of the Lamb",
+        "event_type": "release",
+        "action": "announce_platform_release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Cult of the Lamb",
+        "franchise": "Cult of the Lamb",
+        "institution": "Massive Monster",
+        "target": "Switch 2 owners",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "topic": "release"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [
+        "Switch 2 version with free upgrade path"
+      ],
+      "importance_score": 42,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Cult of the Lamb Launches Switch 2 Edition with Free Upgrade Path",
+      "summary": "The new Switch 2 version of Cult of the Lamb arrives on October 22, 2026, offering enhanced graphics and a free upgrade for existing owners.",
+      "published_at": "2026-10-24T09:30:00+06:00",
+      "selected_at": "2026-10-24T05:25:02.869806+00:00",
+      "status": "published",
+      "message_id": 868,
+      "published_versions": [
+        {
+          "published_at": "2026-10-24T05:25:02.869806+00:00",
+          "headline": "Cult of the Lamb Launches Switch 2 Edition with Free Upgrade Path",
+          "claims": [
+            "Switch 2 version with free upgrade path"
+          ]
         }
       ]
     }
@@ -181709,6 +181810,131 @@
         "total": 31
       },
       "last_seen": "2026-10-24T02:14:34.725153+06:00"
+    },
+    "evt_6b803a0787c311": {
+      "event_id": "evt_6b803a0787c311",
+      "event_key": "cult of the lamb switch2 release announcement",
+      "event_subject": "Cult of the Lamb",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "cult of the lamb switch2 release announcement",
+        "subject": "Cult of the Lamb",
+        "event_type": "release",
+        "action": "announce_platform_release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Cult of the Lamb",
+        "franchise": "Cult of the Lamb",
+        "institution": "Massive Monster",
+        "target": "Switch 2 owners",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "Massive Monster",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Switch 2 version with free upgrade path"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-10-24T11:24:00.519935+06:00"
+    },
+    "evt_eceddfb3a79b3f": {
+      "event_id": "evt_eceddfb3a79b3f",
+      "event_key": "backseat rally promotional codes release",
+      "event_subject": "Backseat Rally",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "backseat rally promotional codes release",
+        "subject": "Backseat Rally",
+        "event_type": "other",
+        "action": "release_codes",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Backseat Rally",
+        "franchise": "Backseat Rally",
+        "institution": "Backseat Rally",
+        "target": "players",
+        "platforms": [],
+        "topic": "promotions"
+      },
+      "modality": "unknown",
+      "topic": "promotions",
+      "institution": "Backseat Rally",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "monthly promotional codes for credits and rewards"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 37
+      },
+      "last_seen": "2026-10-24T11:24:00.519960+06:00"
+    },
+    "evt_a16b02ed96839a": {
+      "event_id": "evt_a16b02ed96839a",
+      "event_key": "cloverfield streaming release announcement",
+      "event_subject": "Cloverfield",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "cloverfield streaming release announcement",
+        "subject": "Cloverfield",
+        "event_type": "other",
+        "action": "streaming_release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Cloverfield",
+        "institution": "Streaming platform",
+        "target": "viewers",
+        "platforms": [],
+        "topic": "distribution"
+      },
+      "modality": "unknown",
+      "topic": "distribution",
+      "institution": "Streaming platform",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "film now available on streaming"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-10-24T11:24:00.519969+06:00"
     }
   },
   "posted_event_ids": [
@@ -182186,17 +182412,10 @@
     "evt_322eca4257e137",
     "evt_2352460f23372b",
     "evt_d3230b0738464c",
-    "evt_6e455935911b19"
+    "evt_6e455935911b19",
+    "evt_6b803a0787c311"
   ],
   "recent_titles": [
-    "mercurysteam hints at involvement in metroid ravenous with ninja emoji",
-    "kirby s 35th anniversary kicks off with new switch 2 game reveal",
-    "marvel s wolverine review sparks fart gas controversy over hand holding",
-    "rockstar vs iwgb tribunal exposes secretive union crackdown at gta 6 studio",
-    "sony walks away from kojima s physint over budget xbox steps in",
-    "minecraft dungeons 2 launches september 29 2026 with early playstation release",
-    "double fine returns indie hopes game pass revives after xbox reset",
-    "star wars outlaws joins amazon luna library expanding cloud gaming lineup",
     "playstation footage leaks reveal haven studios fairgames shooter",
     "thq nordic unveils early access roadmap for the guild remake europa 1410",
     "nintendo announces switch 2 monster hunter wilds bundle for december release",
@@ -182596,11 +182815,12 @@
     "gamemaker makes gmrt runtime free for all developers starting january 2027",
     "fallout shelter the experiment set for prime video premiere on january 13 2027",
     "taylor sheridan promises soulful call of duty film for 2028 release",
-    "factorio 2 1 update rolls out final major features"
+    "factorio 2 1 update rolls out final major features",
+    "cult of the lamb launches switch 2 edition with free upgrade path"
   ],
   "category_coverage": {
     "Game Updates": "2026-10-24T02:25:59.325683+06:00",
-    "Major Releases": "2026-10-23T02:48:42.300294+06:00",
+    "Major Releases": "2026-10-24T11:25:02.869831+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
     "Nintendo": "2026-09-09T21:29:41.864902+06:00",
