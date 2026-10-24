@@ -4,189 +4,141 @@
     "https://feeds.ign.com/ign/all": {
       "etag": "W/\"1b6a1-DsJtMlw0FQ770MSNULejLZcEUdA\"",
       "last_modified": null,
-      "last_checked": "2026-10-24T11:23:45.286790+06:00",
+      "last_checked": "2026-10-24T16:19:36.364919+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-24T11:23:45.548844+06:00",
+      "last_checked": "2026-10-24T16:19:36.511278+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6adc4020-b16\"",
-      "last_modified": "Sat, 24 Oct 2026 05:20:32 GMT",
-      "last_checked": "2026-10-24T11:23:46.038858+06:00",
+      "etag": "\"6adc8544-b16\"",
+      "last_modified": "Sat, 24 Oct 2026 10:15:32 GMT",
+      "last_checked": "2026-10-24T16:19:37.034033+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Fri, 23 Oct 2026 20:12:34 GMT",
-      "last_checked": "2026-10-24T11:23:46.260824+06:00",
+      "last_modified": "Sat, 24 Oct 2026 07:00:00 GMT",
+      "last_checked": "2026-10-24T16:19:37.596212+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
       "etag": "W/\"6ab6bc44f5c41e9dd33e1417f79a1e83\"",
       "last_modified": "Sat, 24 Oct 2026 02:20:53 GMT",
-      "last_checked": "2026-10-24T11:23:46.607363+06:00",
+      "last_checked": "2026-10-24T16:19:37.968094+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-24T11:23:46.878487+06:00",
+      "last_checked": "2026-10-24T16:19:38.194330+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-24T11:23:47.951430+06:00",
-      "fail_count": 0,
+      "last_checked": "2026-10-24T16:20:01.212833+06:00",
+      "fail_count": 1,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"adc7e14be1aa67bfe6013e43c8226a47\"",
-      "last_modified": "Fri, 23 Oct 2026 21:26:36 GMT",
-      "last_checked": "2026-10-24T11:23:48.628791+06:00",
+      "etag": "W/\"9e5f01cef046b0f38f965be167be81a5\"",
+      "last_modified": "Sat, 24 Oct 2026 07:51:16 GMT",
+      "last_checked": "2026-10-24T16:20:01.455518+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-24T11:23:48.949383+06:00",
+      "last_checked": "2026-10-24T16:20:01.543683+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Fri, 23 Oct 2026 18:25:53 GMT",
-      "last_checked": "2026-10-24T11:23:49.451727+06:00",
+      "last_modified": "Sat, 24 Oct 2026 08:18:24 GMT",
+      "last_checked": "2026-10-24T16:20:02.017686+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sat, 24 Oct 2026 05:23:50 GMT",
-      "last_checked": "2026-10-24T11:23:50.128247+06:00",
+      "last_modified": "Sat, 24 Oct 2026 10:20:02 GMT",
+      "last_checked": "2026-10-24T16:20:02.926755+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
       "etag": "W/\"025ef941e08fe02fd23107e8aa7b812c\"",
       "last_modified": "Sat, 24 Oct 2026 05:23:49 GMT",
-      "last_checked": "2026-10-24T11:23:50.591000+06:00",
+      "last_checked": "2026-10-24T16:20:03.071429+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-24T11:23:50.822387+06:00",
+      "last_checked": "2026-10-24T16:20:03.586922+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-24T11:23:51.300273+06:00",
+      "last_checked": "2026-10-24T16:20:04.136084+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-24T11:23:51.619713+06:00",
+      "last_checked": "2026-10-24T16:20:04.506023+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-24T11:23:51.873086+06:00",
-      "fail_count": 116,
+      "last_checked": "2026-10-24T16:20:04.853403+06:00",
+      "fail_count": 117,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"42f32d93a09aba34d1b350a46d8687ad\"",
       "last_modified": "Fri, 23 Oct 2026 17:52:29 GMT",
-      "last_checked": "2026-10-24T11:23:51.992525+06:00",
+      "last_checked": "2026-10-24T16:20:04.951644+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-24T11:23:52.227894+06:00",
+      "last_checked": "2026-10-24T16:20:05.076425+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-24T11:23:52.399616+06:00",
-      "fail_count": 116,
+      "last_checked": "2026-10-24T16:20:05.247628+06:00",
+      "fail_count": 117,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"11e646ca6b6665ef64b792aaea76c0e4\"",
       "last_modified": "Fri, 23 Oct 2026 14:59:23 GMT",
-      "last_checked": "2026-10-24T11:23:52.563857+06:00",
+      "last_checked": "2026-10-24T16:20:05.399050+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "pcgamer.com/games/survival-crafting/enshrouded-base-locations": {
-      "title": "The best Enshrouded base locations for picturesque vistas or strategic strongholds",
-      "url": "https://www.pcgamer.com/games/survival-crafting/enshrouded-base-locations/",
-      "canonical": "pcgamer.com/games/survival-crafting/enshrouded-base-locations",
-      "published_dt": "2026-10-20T11:36:16+06:00",
-      "published_date": "2026-10-20T11:36:16+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "From the Springlands to Veilwater Basin, these are my favorite places to build.",
-      "image": "https://cdn.mos.cms.futurecdn.net/aDmtDjSv4HJBnYeMAxpqad-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-20T11:41:03.080578+06:00",
-      "last_seen": "2026-10-20T11:41:03.080585+06:00"
-    },
-    "nintendolife.com/news/2026/10/the-runtime-of-sonics-fourth-movie-outing-has-seemingly-been-revealed": {
-      "title": "The Runtime Of Sonic's Fourth Movie Outing Has Seemingly Been Revealed",
-      "url": "https://www.nintendolife.com/news/2026/10/the-runtime-of-sonics-fourth-movie-outing-has-seemingly-been-revealed",
-      "canonical": "nintendolife.com/news/2026/10/the-runtime-of-sonics-fourth-movie-outing-has-seemingly-been-revealed",
-      "published_dt": "2026-10-20T10:45:00+06:00",
-      "published_date": "2026-10-20T10:45:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Speeding into cinemas next March. It's Sonic's 35th birthday this year, and the celebrations will continue next year with the release of the new live-action movie Sonic the Hedgehog 4 . Since the cast reveal and the news filming has officially wrapped, we haven't heard much, but there's now been a new discovery. As highlighted by Sonic Stadium , according to the Entertainment Identifier Registry (EIDR) website , Sonic's fourth outing on the big screen has a two-hour runtime. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/d9bee67963cd5/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-20T11:41:05.870690+06:00",
-      "last_seen": "2026-10-20T11:41:05.870697+06:00"
-    },
-    "nintendolife.com/news/2026/10/pokemon-pokopia-and-fire-emblem-fortunes-weave-shortlisted-for-console-game-of-the-year": {
-      "title": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-and-fire-emblem-fortunes-weave-shortlisted-for-console-game-of-the-year",
-      "canonical": "nintendolife.com/news/2026/10/pokemon-pokopia-and-fire-emblem-fortunes-weave-shortlisted-for-console-game-of-the-year",
-      "published_dt": "2026-10-20T08:45:00+06:00",
-      "published_date": "2026-10-20T08:45:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Award season is here. We're getting closer to that time of year when a lot of game awards are announced and it seems Nintendo is already up for some nominations. The 44th annual Golden JoyStick Awards for 2026 have now opened voting across 21 categories, and a handful of Nintendo games have been shortlisted. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/03591e8b6cfa3/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-20T11:41:05.871053+06:00",
-      "last_seen": "2026-10-20T11:41:05.871058+06:00"
-    },
     "ign.com/articles/dying-light-the-beast-no-updates": {
       "title": "Techland CEO Addresses Fans as Dying Light: The Beast Support Comes to an End",
       "url": "https://www.ign.com/articles/dying-light-the-beast-no-updates",
@@ -14469,6 +14421,38 @@
       "first_seen": "2026-10-24T11:23:50.844336+06:00",
       "last_seen": "2026-10-24T11:23:50.844344+06:00",
       "posted_at": "2026-10-24T11:25:02.869775+06:00"
+    },
+    "nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-24th-october": {
+      "title": "Talking Point: What Are You Playing This Weekend? (24th October)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-24th-october",
+      "canonical": "nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-24th-october",
+      "published_dt": "2026-10-24T15:00:00+06:00",
+      "published_date": "2026-10-24T15:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Peak gaming. The weekend? Already? It was a reasonably busy one in Nintendo Land this week, as we marked 10 years since the big Switch 1 reveal , got a nostalgic throwback with the new Ocarina of Time trailer, received yet another Tomb Raider shadow drop and had a new trio of games added to the NSO Game Boy library . Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/1e4bfe33ce755/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-24T16:20:03.609356+06:00",
+      "last_seen": "2026-10-24T16:20:03.609363+06:00"
+    },
+    "nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack": {
+      "title": "\"Final Battle\" - Nintendo Music Expands Its Library With The ARMS Soundtrack",
+      "url": "https://www.nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack",
+      "canonical": "nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack",
+      "published_dt": "2026-10-24T14:00:00+06:00",
+      "published_date": "2026-10-24T14:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "\"Raise your hands (and arms)\". It's an exciting week if you're an ARMS fan, with Nintendo updating its music application Nintendo Music with the game's soundtrack. Here's what you can expect from this latest update for the service, including the full list of songs and various other details, including the game's composers. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/2676d7db38580/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-24T16:20:03.609785+06:00",
+      "last_seen": "2026-10-24T16:20:03.609790+06:00"
     }
   },
   "events": {
@@ -181935,6 +181919,93 @@
         "total": 32
       },
       "last_seen": "2026-10-24T11:24:00.519969+06:00"
+    },
+    "evt_353d837ba7dbaf": {
+      "event_id": "evt_353d837ba7dbaf",
+      "event_key": "nintendo switch 10th anniversary 2026",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo switch 10th anniversary 2026",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Nintendo Switch",
+        "franchise": "Nintendo Switch",
+        "institution": "Nintendo",
+        "target": "public",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "topic": "anniversary events"
+      },
+      "modality": "unknown",
+      "topic": "anniversary events",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "celebrate 10 years since Switch reveal with multiple announcements"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-10-24T16:20:14.606588+06:00"
+    },
+    "evt_181fc2a8b205b2": {
+      "event_id": "evt_181fc2a8b205b2",
+      "event_key": "nintendo music arms soundtrack update",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo music arms soundtrack update",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "add",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "ARMS",
+        "franchise": "ARMS",
+        "institution": "Nintendo",
+        "target": "Nintendo Music service",
+        "platforms": [
+          "Nintendo Switch",
+          "Mobile"
+        ],
+        "topic": "music library expansion"
+      },
+      "modality": "unknown",
+      "topic": "music library expansion",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "ARMS soundtrack added to Nintendo Music library"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-10-24T16:20:14.606608+06:00"
     }
   },
   "posted_event_ids": [
@@ -182416,7 +182487,6 @@
     "evt_6b803a0787c311"
   ],
   "recent_titles": [
-    "playstation footage leaks reveal haven studios fairgames shooter",
     "thq nordic unveils early access roadmap for the guild remake europa 1410",
     "nintendo announces switch 2 monster hunter wilds bundle for december release",
     "melty blood twi lumina set for multi platform launch on april 22 2027",
