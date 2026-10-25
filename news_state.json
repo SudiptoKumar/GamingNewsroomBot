@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"22122-Flp3jBh9WNlq6sO4VPKfdd/sthQ\"",
+      "etag": "W/\"22134-VZHTb9c5dTGKQpeFCNhFWb0o6+c\"",
       "last_modified": null,
-      "last_checked": "2026-10-25T11:42:25.700331+06:00",
+      "last_checked": "2026-10-25T16:46:27.010041+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-25T11:42:25.856513+06:00",
+      "last_checked": "2026-10-25T16:46:27.279942+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6add9650-b1e\"",
-      "last_modified": "Sun, 25 Oct 2026 05:40:32 GMT",
-      "last_checked": "2026-10-25T11:42:26.267598+06:00",
+      "etag": "\"6addddcc-b2d\"",
+      "last_modified": "Sun, 25 Oct 2026 10:45:32 GMT",
+      "last_checked": "2026-10-25T16:46:27.609132+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Sat, 24 Oct 2026 18:08:22 GMT",
-      "last_checked": "2026-10-25T11:42:26.453743+06:00",
+      "last_modified": "Sun, 25 Oct 2026 10:00:00 GMT",
+      "last_checked": "2026-10-25T16:46:28.207715+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
       "etag": "\"6add80f7-13f4\"",
       "last_modified": "Sun, 25 Oct 2026 04:09:27 GMT",
-      "last_checked": "2026-10-25T11:42:26.744063+06:00",
+      "last_checked": "2026-10-25T16:46:28.456048+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-25T11:42:26.880976+06:00",
+      "last_checked": "2026-10-25T16:46:28.530476+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-25T11:42:27.534543+06:00",
+      "last_checked": "2026-10-25T16:46:29.077786+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"08cd43b328c88b9f701dd5bc423b2f43\"",
-      "last_modified": "Sun, 25 Oct 2026 01:46:01 GMT",
-      "last_checked": "2026-10-25T11:42:27.702442+06:00",
+      "etag": "W/\"fc63b18eec031a366ff78aa83b2e909f\"",
+      "last_modified": "Sun, 25 Oct 2026 07:50:38 GMT",
+      "last_checked": "2026-10-25T16:46:29.309825+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-25T11:42:27.845971+06:00",
+      "last_checked": "2026-10-25T16:46:29.469747+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Sat, 24 Oct 2026 23:20:55 GMT",
-      "last_checked": "2026-10-25T11:42:28.217931+06:00",
+      "last_modified": "Sun, 25 Oct 2026 10:31:49 GMT",
+      "last_checked": "2026-10-25T16:46:29.774638+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sun, 25 Oct 2026 05:42:28 GMT",
-      "last_checked": "2026-10-25T11:42:28.662037+06:00",
+      "last_modified": "Sun, 25 Oct 2026 10:46:30 GMT",
+      "last_checked": "2026-10-25T16:46:30.216052+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
       "etag": "W/\"fba15025e7b583c4213b79d75470bd03\"",
       "last_modified": "Sat, 24 Oct 2026 23:59:45 GMT",
-      "last_checked": "2026-10-25T11:42:28.789769+06:00",
+      "last_checked": "2026-10-25T16:46:30.342973+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-25T11:42:29.050078+06:00",
+      "last_checked": "2026-10-25T16:46:30.654288+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-25T11:42:29.336347+06:00",
+      "last_checked": "2026-10-25T16:46:30.997207+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-25T11:42:29.709853+06:00",
+      "last_checked": "2026-10-25T16:46:31.322974+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-25T11:42:29.872720+06:00",
-      "fail_count": 120,
+      "last_checked": "2026-10-25T16:46:31.469536+06:00",
+      "fail_count": 121,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"3096fe44f15072f046e573e1bcb4fa6d\"",
       "last_modified": "Sat, 10 Oct 2026 04:49:51 GMT",
-      "last_checked": "2026-10-25T11:42:29.948436+06:00",
+      "last_checked": "2026-10-25T16:46:31.525365+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-25T11:42:30.108224+06:00",
+      "last_checked": "2026-10-25T16:46:31.716874+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-25T11:42:30.218705+06:00",
-      "fail_count": 120,
+      "last_checked": "2026-10-25T16:46:31.833826+06:00",
+      "fail_count": 121,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"ec42a384e3a69aa66ce1994abc5b983c\"",
-      "last_modified": "Sat, 24 Oct 2026 11:40:52 GMT",
-      "last_checked": "2026-10-25T11:42:30.332572+06:00",
+      "etag": "W/\"7594faafa204c92c61834a91fe255e99\"",
+      "last_modified": "Sun, 25 Oct 2026 09:27:00 GMT",
+      "last_checked": "2026-10-25T16:46:31.924032+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -154,135 +154,6 @@
       "status": "pending",
       "first_seen": "2026-10-21T01:50:11.652242+06:00",
       "last_seen": "2026-10-24T02:12:21.628967+06:00"
-    },
-    "gematsu.com/2026/10/romance-visual-novel-bundle-einstein-yori-ai-o-komete-apollocrisis-coming-to-switch-in-2027-in-japan": {
-      "title": "Romance visual novel bundle Einstein Yori Ai o Komete + APOLLOCRISIS coming to Switch in 2027 in Japan",
-      "url": "https://www.gematsu.com/2026/10/romance-visual-novel-bundle-einstein-yori-ai-o-komete-apollocrisis-coming-to-switch-in-2027-in-japan",
-      "canonical": "gematsu.com/2026/10/romance-visual-novel-bundle-einstein-yori-ai-o-komete-apollocrisis-coming-to-switch-in-2027-in-japan",
-      "published_dt": "2026-10-21T10:19:15+06:00",
-      "published_date": "2026-10-21T10:19:15+06:00",
-      "source": "Gematsu",
-      "region": "Gaming",
-      "excerpt": "PROTOTYPE will release romance visual novel bundle Einstein Yori Ai o Komete + APOLLOCRISIS for …",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-21T11:44:08.363913+06:00",
-      "last_seen": "2026-10-21T11:44:08.363918+06:00"
-    },
-    "polygon.com/visionquest-episode-3-explained-friday-avengers-endgame-tony-stark-death": {
-      "title": "Marvel Officially Made the Saddest Death in MCU History More Tragic With Just 1 Sentence",
-      "url": "https://www.polygon.com/visionquest-episode-3-explained-friday-avengers-endgame-tony-stark-death/",
-      "canonical": "polygon.com/visionquest-episode-3-explained-friday-avengers-endgame-tony-stark-death",
-      "published_dt": "2026-10-21T09:00:19+06:00",
-      "published_date": "2026-10-21T09:00:19+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "In VisionQuest episode three, F.R.I.D.A.Y. reveals that she tried to save Tony in Avengers: Endgame",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdaven_ec256-1.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-21T11:44:09.323217+06:00",
-      "last_seen": "2026-10-21T11:44:09.323222+06:00"
-    },
-    "polygon.com/visionquest-original-human-torch-phineas-horton-explainer": {
-      "title": "Phineas Horton? Disney Just Officially Made a Forgotten Marvel Legend Into MCU Canon",
-      "url": "https://www.polygon.com/visionquest-original-human-torch-phineas-horton-explainer/",
-      "canonical": "polygon.com/visionquest-original-human-torch-phineas-horton-explainer",
-      "published_dt": "2026-10-21T08:45:18+06:00",
-      "published_date": "2026-10-21T08:45:18+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "In the fourth episode of VisionQuest, Dr. Phineas Horton is mentioned. Horton is a key figure in the earliest days of Marvel Comics",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19696105/Screen_Shot_2020_02_04_at_4.55.59_PM.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-21T11:44:09.323357+06:00",
-      "last_seen": "2026-10-21T11:44:09.323360+06:00"
-    },
-    "gamesradar.com/entertainment/fantasy-movies/the-hunt-for-gollums-aragorn-actor-says-hes-not-trying-to-outdo-viggo-mortensen-for-me-aragorn-will-always-be-just-viggo": {
-      "title": "The Hunt for Gollum's Aragorn actor says he's not trying to \"outdo\" Viggo Mortensen",
-      "url": "https://www.gamesradar.com/entertainment/fantasy-movies/the-hunt-for-gollums-aragorn-actor-says-hes-not-trying-to-outdo-viggo-mortensen-for-me-aragorn-will-always-be-just-viggo/",
-      "canonical": "gamesradar.com/entertainment/fantasy-movies/the-hunt-for-gollums-aragorn-actor-says-hes-not-trying-to-outdo-viggo-mortensen-for-me-aragorn-will-always-be-just-viggo",
-      "published_dt": "2026-10-21T11:23:01+06:00",
-      "published_date": "2026-10-21T11:23:01+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "Jamie Dornan has some big shoes to fill",
-      "image": "https://cdn.mos.cms.futurecdn.net/EAQzBo9modRJo6QTCizUb8-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-21T11:44:09.972377+06:00",
-      "last_seen": "2026-10-21T11:44:09.972382+06:00"
-    },
-    "gamesradar.com/entertainment/marvel-tv-shows/visionquest-who-is-the-client": {
-      "title": "Who is The Client in VisionQuest? Our top Marvel theories",
-      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-who-is-the-client/",
-      "canonical": "gamesradar.com/entertainment/marvel-tv-shows/visionquest-who-is-the-client",
-      "published_dt": "2026-10-21T09:00:00+06:00",
-      "published_date": "2026-10-21T09:00:00+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "Who hired Paladin to capture Vision? We line up the suspects",
-      "image": "https://cdn.mos.cms.futurecdn.net/jA4CGMhkGrhqtBH8fFbeA3-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-21T11:44:09.972498+06:00",
-      "last_seen": "2026-10-21T11:44:09.972500+06:00"
-    },
-    "gamesradar.com/entertainment/marvel-tv-shows/visionquest-paladin-daredevil-punisher": {
-      "title": "VisionQuest episode 3 reveals Paladin has history with some major MCU characters",
-      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-paladin-daredevil-punisher/",
-      "canonical": "gamesradar.com/entertainment/marvel-tv-shows/visionquest-paladin-daredevil-punisher",
-      "published_dt": "2026-10-21T09:00:00+06:00",
-      "published_date": "2026-10-21T09:00:00+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "VisionQuest episode 3 reveals that Paladin has history with some key Marvel characters",
-      "image": "https://cdn.mos.cms.futurecdn.net/7QmHrsYsksjBspvc2ddZCg-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-21T11:44:09.972604+06:00",
-      "last_seen": "2026-10-21T11:44:09.972606+06:00"
-    },
-    "nintendolife.com/news/2026/10/all-aboard-denshattack-physical-edition-arriving-on-switch-2-in-2027": {
-      "title": "All Aboard! Denshattack Physical Edition Arriving On Switch 2 In 2027",
-      "url": "https://www.nintendolife.com/news/2026/10/all-aboard-denshattack-physical-edition-arriving-on-switch-2-in-2027",
-      "canonical": "nintendolife.com/news/2026/10/all-aboard-denshattack-physical-edition-arriving-on-switch-2-in-2027",
-      "published_dt": "2026-10-21T10:45:00+06:00",
-      "published_date": "2026-10-21T10:45:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Here's an early look. If you've been holding out for a physical copy of Denshattack! , you'll be pleased to hear it's \"coming soon\" to the Switch 2. The video game merchandise company Fangamer will be releasing standard and deluxe editions at some point in 2027 . You can sign up to the same site to be notified about when the physical edition will be made available. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/c46fce9dea0dc/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-10-21T11:44:11.382640+06:00",
-      "last_seen": "2026-10-21T11:44:11.382644+06:00",
-      "posted_at": "2026-10-21T11:46:23.854917+06:00"
-    },
-    "nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed": {
-      "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 Estimated File Size Revealed",
-      "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed",
-      "canonical": "nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed",
-      "published_dt": "2026-10-21T09:30:00+06:00",
-      "published_date": "2026-10-21T09:30:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Update: File size spotted on download card. : The digital listing for the Switch 2 version of The Legend of Zelda: Ocarina of Time is now live on the eShop and it includes the game's estimated file size. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/3cae3dc49f114/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-21T11:44:11.382965+06:00",
-      "last_seen": "2026-10-21T11:44:11.382969+06:00"
     },
     "ign.com/articles/aragorn-will-always-be-viggo-says-jamie-dornan-the-hunt-for-gollum": {
       "title": "'Aragorn Will Always Be Viggo,' Says Jamie Dornan Ahead of His Turn as the Iconic Character in The Lord of the Rings: The Hunt for Gollum",
@@ -11661,6 +11532,201 @@
       "status": "pending",
       "first_seen": "2026-10-25T11:42:27.543355+06:00",
       "last_seen": "2026-10-25T11:42:27.543360+06:00"
+    },
+    "eurogamer.net/cyberpunk-edgerunners-season-2-major-theme": {
+      "title": "Cyberpunk: Edgerunners Season 2 is more than a retread of Netflix's beloved first season - it's a story that truly understands what it means to exist in Night City",
+      "url": "https://www.eurogamer.net/cyberpunk-edgerunners-season-2-major-theme",
+      "canonical": "eurogamer.net/cyberpunk-edgerunners-season-2-major-theme",
+      "published_dt": "2026-10-25T16:00:00+06:00",
+      "published_date": "2026-10-25T16:00:00+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Last night, I sat down with a greasy pizza and a few bottles of beer and braced myself for 10 episodes of heartbreak. Cyberpunk: Edgerunners' second season is out, and it follows in the footsteps of Studio Trigger's beloved, and tragic, debut . My expectations were way off. Read more",
+      "image": "https://assetsio.gnwcdn.com/ER2_D_1.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-25T16:46:28.277413+06:00",
+      "last_seen": "2026-10-25T16:46:28.277418+06:00"
+    },
+    "polygon.com/halloween-horror-what-to-watch-vincent-price-abominable-dr-phibes": {
+      "title": "Vincent Price Is the Weirdest Serial Killer Ever in this '70s Cult Classic",
+      "url": "https://www.polygon.com/halloween-horror-what-to-watch-vincent-price-abominable-dr-phibes/",
+      "canonical": "polygon.com/halloween-horror-what-to-watch-vincent-price-abominable-dr-phibes",
+      "published_dt": "2026-10-25T16:00:18+06:00",
+      "published_date": "2026-10-25T16:00:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The Abominable Dr. Phibes is a campy horror movie about an organist who murders surgeons",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdabdr_ec010_h.JPG",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-25T16:46:29.083981+06:00",
+      "last_seen": "2026-10-25T16:46:29.083985+06:00"
+    },
+    "polygon.com/best-psychological-thrillers-movies-streaming-free-online": {
+      "title": "5 Near-Perfect Psychological Thriller Movies Streaming for Free",
+      "url": "https://www.polygon.com/best-psychological-thrillers-movies-streaming-free-online/",
+      "canonical": "polygon.com/best-psychological-thrillers-movies-streaming-free-online",
+      "published_dt": "2026-10-25T14:54:46+06:00",
+      "published_date": "2026-10-25T14:54:46+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "These tense genre picks are well worth your time.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/msdamps_ec010.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-25T16:46:29.084085+06:00",
+      "last_seen": "2026-10-25T16:46:29.084088+06:00"
+    },
+    "polygon.com/buffy-vampire-slayer-best-spike-quote": {
+      "title": "23 Years Later, Spike's Best 'Buffy' Quote Is Still One of the Best Lines in TV History",
+      "url": "https://www.polygon.com/buffy-vampire-slayer-best-spike-quote/",
+      "canonical": "polygon.com/buffy-vampire-slayer-best-spike-quote",
+      "published_dt": "2026-10-25T14:08:18+06:00",
+      "published_date": "2026-10-25T14:08:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Spike's best quote sums up his arc as one of the main characters in Buffy the Vampire Slayer.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/spike.jpeg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-25T16:46:29.084201+06:00",
+      "last_seen": "2026-10-25T16:46:29.084204+06:00"
+    },
+    "polygon.com/paul-atreides-best-dune-quote": {
+      "title": "61 Years Later, Paul's Best Dune Line Is Still the Coldest Quote in Sci-Fi History",
+      "url": "https://www.polygon.com/paul-atreides-best-dune-quote/",
+      "canonical": "polygon.com/paul-atreides-best-dune-quote",
+      "published_dt": "2026-10-25T14:00:18+06:00",
+      "published_date": "2026-10-25T14:00:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "This brilliant quote from Frank Herbert's Dune reveals an unsavory truth.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/l-intro-1739976137.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-25T16:46:29.084299+06:00",
+      "last_seen": "2026-10-25T16:46:29.084301+06:00"
+    },
+    "gamesradar.com/entertainment/fantasy-movies/the-elden-ring-movie-is-reportedly-a24s-most-expensive-production-ever-the-studios-spending-an-eye-watering-usd200-million-on-fromsoftwares-rpg": {
+      "title": "The Elden Ring movie is reportedly A24's most expensive production ever with a $200 million budget",
+      "url": "https://www.gamesradar.com/entertainment/fantasy-movies/the-elden-ring-movie-is-reportedly-a24s-most-expensive-production-ever-the-studios-spending-an-eye-watering-usd200-million-on-fromsoftwares-rpg/",
+      "canonical": "gamesradar.com/entertainment/fantasy-movies/the-elden-ring-movie-is-reportedly-a24s-most-expensive-production-ever-the-studios-spending-an-eye-watering-usd200-million-on-fromsoftwares-rpg",
+      "published_dt": "2026-10-25T15:16:54+06:00",
+      "published_date": "2026-10-25T15:16:54+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Grab the popcorn",
+      "image": "https://cdn.mos.cms.futurecdn.net/8jdwBqJxh7r8GHwBaYfURG-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-25T16:46:29.625217+06:00",
+      "last_seen": "2026-10-25T16:46:29.625222+06:00"
+    },
+    "gamesradar.com/games/the-witcher/the-witcher-star-doug-cockle-recorded-all-of-geralts-lines-for-the-og-rpg-in-just-8-days-my-voice-was-wrecked": {
+      "title": "The Witcher star Doug Cockle recorded all of Geralt's lines for the OG RPG in just 8 days",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-star-doug-cockle-recorded-all-of-geralts-lines-for-the-og-rpg-in-just-8-days-my-voice-was-wrecked/",
+      "canonical": "gamesradar.com/games/the-witcher/the-witcher-star-doug-cockle-recorded-all-of-geralts-lines-for-the-og-rpg-in-just-8-days-my-voice-was-wrecked",
+      "published_dt": "2026-10-25T14:52:05+06:00",
+      "published_date": "2026-10-25T14:52:05+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"We were recording six, seven hours a day\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/in4TLDLeTEyoo4WANwxiN8-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-25T16:46:29.625320+06:00",
+      "last_seen": "2026-10-25T16:46:29.625322+06:00"
+    },
+    "rockpapershotgun.com/the-sunday-papers-833": {
+      "title": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-833",
+      "canonical": "rockpapershotgun.com/the-sunday-papers-833",
+      "published_dt": "2026-10-25T16:00:00+06:00",
+      "published_date": "2026-10-25T16:00:00+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "Sundays are, again , for running taxi duty for relatives visiting from overseas. If I had a nickel for every time I had an early morning Gatwick run in tandem with a Sunday Papers post, I’d have two nickels, which isn’t a lot but it’s weird than I’m being paid in USD when I live in the United Kingdom. In that international spirit, here are some fine writings from around the globe. Read more",
+      "image": "https://assetsio.gnwcdn.com/the-sunday-papers-big.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-25T16:46:29.841796+06:00",
+      "last_seen": "2026-10-25T16:46:29.841801+06:00"
+    },
+    "nintendolife.com/features/box-art-brawl-duel-avenging-spirit-game-boy": {
+      "title": "Feature: Box Art Brawl - Duel: Avenging Spirit (Game Boy)",
+      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-avenging-spirit-game-boy",
+      "canonical": "nintendolife.com/features/box-art-brawl-duel-avenging-spirit-game-boy",
+      "published_dt": "2026-10-25T16:00:00+06:00",
+      "published_date": "2026-10-25T16:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Spirits, Assemble. We are back with another Box Art Brawl ! Last time , we took a look at a head-to-head match-up for Metal Slug Advance — celebrating its arrival on the NSO GBA library — and it was yet another one-sided affair. North America and Europe took a commanding win with 73% of the vote, leaving the Japanese variant with the remaining 27%. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/6832d6ebefd54/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-25T16:46:30.668804+06:00",
+      "last_seen": "2026-10-25T16:46:30.668809+06:00"
+    },
+    "nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition": {
+      "title": "\"Forward Now, Into Oblivion's Inky Embrace\" - Darkest Dungeon II Now Has A Switch 2 Edition",
+      "url": "https://www.nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition",
+      "canonical": "nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition",
+      "published_dt": "2026-10-25T15:00:00+06:00",
+      "published_date": "2026-10-25T15:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "A paid upgrade is also available. A lot of Switch games have been getting Switch 2 Editions recently, and the latest one is for the roguelike role-playing title, Darkest Dungeon 2 . It's priced at $42.98 / £36.24 , or if you own the existing version on Switch, you can get the upgrade pack for just $2.99 / £2.24 ( or your regional equivalent ). The Switch version of the title is also currently on sale in select locations. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/204d6a9cf2c4b/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-25T16:46:30.669103+06:00",
+      "last_seen": "2026-10-25T16:46:30.669106+06:00",
+      "posted_at": "2026-10-25T16:49:40.346543+06:00"
+    },
+    "nintendolife.com/news/2026/10/video-the-tomb-raider-series-celebrates-its-30th-anniversary-this-week": {
+      "title": "Video: The Tomb Raider Series Celebrates Its 30th Anniversary This Week",
+      "url": "https://www.nintendolife.com/news/2026/10/video-the-tomb-raider-series-celebrates-its-30th-anniversary-this-week",
+      "canonical": "nintendolife.com/news/2026/10/video-the-tomb-raider-series-celebrates-its-30th-anniversary-this-week",
+      "published_dt": "2026-10-25T14:00:00+06:00",
+      "published_date": "2026-10-25T14:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "\"Here's to our lady of tombs\". Earlier this week, the third entry in Lara Croft's Tomb Raider 'Survivor' trilogy got shadow-dropped on the Switch 2 . This lines up with Tomb Raider's 30th anniversary this week. Now, to add to this, Aspyr has released a special celebration trailer. It showcases all the games this particular team has helped revive in recent years, including the collections. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/1cd4c130bbb2c/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-25T16:46:30.669357+06:00",
+      "last_seen": "2026-10-25T16:46:30.669360+06:00",
+      "posted_at": "2026-10-25T16:49:50.913722+06:00"
+    },
+    "escapistmagazine.com/look-outside-console-release": {
+      "title": "Look Outside Brings Its Apartment Horror to PS5 and Switch 2 on October 30",
+      "url": "https://www.escapistmagazine.com/look-outside-console-release/",
+      "canonical": "escapistmagazine.com/look-outside-console-release",
+      "published_dt": "2026-10-25T15:27:00+06:00",
+      "published_date": "2026-10-25T15:27:00+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "Look Outside, Francis Coulombe's apartment-bound survival horror RPG, launches on Switch 2, Switch, PS5 and PS4 on October 30, Devolver Digital has confirmed. The post Look Outside Brings Its Apartment Horror to PS5 and Switch 2 on October 30 appeared first on The Escapist .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-10-25T16:46:31.951756+06:00",
+      "last_seen": "2026-10-25T16:46:31.951761+06:00",
+      "posted_at": "2026-10-25T16:49:45.997272+06:00"
     }
   },
   "events": {
@@ -29721,6 +29787,153 @@
           "claims": [
             "Theft of 6 451 cards, including ~3 000 Pokémon cards"
           ]
+        }
+      ]
+    },
+    "evt_8e6ee493fd3d3f": {
+      "event_id": "evt_8e6ee493fd3d3f",
+      "event_key": "darkest dungeon 2 upgrade switch 2 edition article announcement",
+      "event_subject": "\"Forward Now, Into Oblivion's Inky Embrace\" - Darkest Dungeon II Now Has A Switch 2 Edition",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "darkest dungeon 2 upgrade switch 2 edition article announcement",
+        "subject": "\"Forward Now, Into Oblivion's Inky Embrace\" - Darkest Dungeon II Now Has A Switch 2 Edition",
+        "event_type": "other",
+        "action": "upgrade",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Darkest Dungeon 2",
+        "franchise": "Darkest Dungeon 2",
+        "institution": "Nintendo Life",
+        "target": "",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "game update"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [],
+      "importance_score": 40,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 10,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Darkest Dungeon II Switch 2 Edition Boosts Performance and Adds Mouse Support",
+      "summary": "Darkest Dungeon II now launches on Nintendo Switch 2 with 1080p handheld, 1440p TV mode, 60 FPS, and Joy‑Con 2 mouse support.",
+      "published_at": "2026-10-25T15:00:00+06:00",
+      "selected_at": "2026-10-25T10:49:40.346572+00:00",
+      "status": "published",
+      "message_id": 873,
+      "published_versions": [
+        {
+          "published_at": "2026-10-25T10:49:40.346572+00:00",
+          "headline": "Darkest Dungeon II Switch 2 Edition Boosts Performance and Adds Mouse Support",
+          "claims": []
+        }
+      ]
+    },
+    "evt_64de720b4837d6": {
+      "event_id": "evt_64de720b4837d6",
+      "event_key": "look outside release ps5 switch 2 article announcement",
+      "event_subject": "Look Outside Brings Its Apartment Horror to PS5 and Switch 2 on October 30",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "look outside release ps5 switch 2 article announcement",
+        "subject": "Look Outside Brings Its Apartment Horror to PS5 and Switch 2 on October 30",
+        "event_type": "other",
+        "action": "release",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Look Outside",
+        "franchise": "Look Outside",
+        "institution": "The Escapist",
+        "target": "",
+        "platforms": [
+          "PS5",
+          "Switch 2",
+          "PS4",
+          "Switch"
+        ],
+        "topic": "game release"
+      },
+      "sources": [
+        "The Escapist"
+      ],
+      "event_sources": [
+        "The Escapist"
+      ],
+      "claims": [],
+      "importance_score": 38,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Look Outside Expands to PlayStation and Switch on October 30",
+      "summary": "Indie horror RPG Look Outside launches on PlayStation 5, PlayStation 4, Nintendo Switch 2 and Switch on October 30, ending its PC‑only run.",
+      "published_at": "2026-10-25T15:27:00+06:00",
+      "selected_at": "2026-10-25T10:49:45.997303+00:00",
+      "status": "published",
+      "message_id": 874,
+      "published_versions": [
+        {
+          "published_at": "2026-10-25T10:49:45.997303+00:00",
+          "headline": "Look Outside Expands to PlayStation and Switch on October 30",
+          "claims": []
+        }
+      ]
+    },
+    "evt_077580f5e3e75b": {
+      "event_id": "evt_077580f5e3e75b",
+      "event_key": "tomb raider celebration 30th anniversary trailer article announcement",
+      "event_subject": "Video: The Tomb Raider Series Celebrates Its 30th Anniversary This Week",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "tomb raider celebration 30th anniversary trailer article announcement",
+        "subject": "Video: The Tomb Raider Series Celebrates Its 30th Anniversary This Week",
+        "event_type": "other",
+        "action": "celebration",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Tomb Raider",
+        "franchise": "Tomb Raider",
+        "institution": "Nintendo Life",
+        "target": "",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "anniversary"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [],
+      "importance_score": 35,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 5,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Tomb Raider Marks 30th Anniversary with New Switch 2 Release and Discounts",
+      "summary": "The series celebrates its 30th anniversary this week, featuring a surprise Switch 2 drop, special trailer, and multiple sales across the franchise.",
+      "published_at": "2026-10-25T14:00:00+06:00",
+      "selected_at": "2026-10-25T10:49:50.913749+00:00",
+      "status": "published",
+      "message_id": 875,
+      "published_versions": [
+        {
+          "published_at": "2026-10-25T10:49:50.913749+00:00",
+          "headline": "Tomb Raider Marks 30th Anniversary with New Switch 2 Release and Discounts",
+          "claims": []
         }
       ]
     }
@@ -181070,6 +181283,487 @@
         "total": 31
       },
       "last_seen": "2026-10-25T11:42:37.420334+06:00"
+    },
+    "evt_694612fe2fb4e5": {
+      "event_id": "evt_694612fe2fb4e5",
+      "event_key": "elden ring movie rumor budget 200m article rumor",
+      "event_subject": "The Elden Ring movie is reportedly A24's most expensive production ever with a $200 million budget",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "elden ring movie rumor budget 200m article rumor",
+        "subject": "The Elden Ring movie is reportedly A24's most expensive production ever with a $200 million budget",
+        "event_type": "other",
+        "action": "rumor",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Elden Ring",
+        "franchise": "Elden Ring",
+        "institution": "GamesRadar+",
+        "target": "",
+        "platforms": [],
+        "topic": "film adaptation"
+      },
+      "modality": "unknown",
+      "topic": "film adaptation",
+      "institution": "GamesRadar+",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "budget $200M"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 46
+      },
+      "last_seen": "2026-10-25T16:47:38.142697+06:00"
+    },
+    "evt_64de720b4837d6": {
+      "event_id": "evt_64de720b4837d6",
+      "event_key": "look outside release ps5 switch 2 article announcement",
+      "event_subject": "Look Outside Brings Its Apartment Horror to PS5 and Switch 2 on October 30",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "look outside release ps5 switch 2 article announcement",
+        "subject": "Look Outside Brings Its Apartment Horror to PS5 and Switch 2 on October 30",
+        "event_type": "other",
+        "action": "release",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Look Outside",
+        "franchise": "Look Outside",
+        "institution": "The Escapist",
+        "target": "",
+        "platforms": [
+          "PS5",
+          "Switch 2",
+          "PS4",
+          "Switch"
+        ],
+        "topic": "game release"
+      },
+      "modality": "unknown",
+      "topic": "game release",
+      "institution": "The Escapist",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 38
+      },
+      "last_seen": "2026-10-25T16:47:38.142714+06:00"
+    },
+    "evt_8e6ee493fd3d3f": {
+      "event_id": "evt_8e6ee493fd3d3f",
+      "event_key": "darkest dungeon 2 upgrade switch 2 edition article announcement",
+      "event_subject": "\"Forward Now, Into Oblivion's Inky Embrace\" - Darkest Dungeon II Now Has A Switch 2 Edition",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "darkest dungeon 2 upgrade switch 2 edition article announcement",
+        "subject": "\"Forward Now, Into Oblivion's Inky Embrace\" - Darkest Dungeon II Now Has A Switch 2 Edition",
+        "event_type": "other",
+        "action": "upgrade",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Darkest Dungeon 2",
+        "franchise": "Darkest Dungeon 2",
+        "institution": "Nintendo Life",
+        "target": "",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "game update"
+      },
+      "modality": "unknown",
+      "topic": "game update",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-10-25T16:47:38.142719+06:00"
+    },
+    "evt_077580f5e3e75b": {
+      "event_id": "evt_077580f5e3e75b",
+      "event_key": "tomb raider celebration 30th anniversary trailer article announcement",
+      "event_subject": "Video: The Tomb Raider Series Celebrates Its 30th Anniversary This Week",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "tomb raider celebration 30th anniversary trailer article announcement",
+        "subject": "Video: The Tomb Raider Series Celebrates Its 30th Anniversary This Week",
+        "event_type": "other",
+        "action": "celebration",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Tomb Raider",
+        "franchise": "Tomb Raider",
+        "institution": "Nintendo Life",
+        "target": "",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "anniversary"
+      },
+      "modality": "unknown",
+      "topic": "anniversary",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-10-25T16:47:38.142722+06:00"
+    },
+    "evt_75776f59923ca6": {
+      "event_id": "evt_75776f59923ca6",
+      "event_key": "the witcher interview doug cockle recording article report",
+      "event_subject": "The Witcher star Doug Cockle recorded all of Geralt's lines for the OG RPG in just 8 days",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "the witcher interview doug cockle recording article report",
+        "subject": "The Witcher star Doug Cockle recorded all of Geralt's lines for the OG RPG in just 8 days",
+        "event_type": "other",
+        "action": "interview",
+        "status": "published",
+        "modality": "unknown",
+        "game": "The Witcher",
+        "franchise": "The Witcher",
+        "institution": "GamesRadar+",
+        "target": "",
+        "platforms": [],
+        "topic": "voice acting"
+      },
+      "modality": "unknown",
+      "topic": "voice acting",
+      "institution": "GamesRadar+",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-10-25T16:47:38.142726+06:00"
+    },
+    "evt_fa2e7a4a435ccc": {
+      "event_id": "evt_fa2e7a4a435ccc",
+      "event_key": "none review cyberpunk edgerunners season 2 article report",
+      "event_subject": "Cyberpunk: Edgerunners Season 2 is more than a retread of Netflix's beloved first season - it's a story that truly understands what it means to exist in Night City",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "none review cyberpunk edgerunners season 2 article report",
+        "subject": "Cyberpunk: Edgerunners Season 2 is more than a retread of Netflix's beloved first season - it's a story that truly understands what it means to exist in Night City",
+        "event_type": "other",
+        "action": "review",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Cyberpunk: Edgerunners",
+        "institution": "Eurogamer",
+        "target": "",
+        "platforms": [],
+        "topic": "tv"
+      },
+      "modality": "unknown",
+      "topic": "tv",
+      "institution": "Eurogamer",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-25T16:47:38.142728+06:00"
+    },
+    "evt_c97d08f6a1c79a": {
+      "event_id": "evt_c97d08f6a1c79a",
+      "event_key": "box art brawl feature duel avenging spirit game boy article report",
+      "event_subject": "Feature: Box Art Brawl - Duel: Avenging Spirit (Game Boy)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "box art brawl feature duel avenging spirit game boy article report",
+        "subject": "Feature: Box Art Brawl - Duel: Avenging Spirit (Game Boy)",
+        "event_type": "other",
+        "action": "feature",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Duel: Avenging Spirit",
+        "franchise": "Box Art Brawl",
+        "institution": "Nintendo Life",
+        "target": "",
+        "platforms": [
+          "Game Boy"
+        ],
+        "topic": "gaming"
+      },
+      "modality": "unknown",
+      "topic": "gaming",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-10-25T16:47:38.142731+06:00"
+    },
+    "evt_7b279cca64bc40": {
+      "event_id": "evt_7b279cca64bc40",
+      "event_key": "none feature none article report",
+      "event_subject": "Vincent Price Is the Weirdest Serial Killer Ever in this '70s Cult Classic",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "none feature none article report",
+        "subject": "Vincent Price Is the Weirdest Serial Killer Ever in this '70s Cult Classic",
+        "event_type": "other",
+        "action": "feature",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "",
+        "platforms": [],
+        "topic": "film"
+      },
+      "modality": "unknown",
+      "topic": "film",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-10-25T16:47:38.142734+06:00"
+    },
+    "evt_448483ee99fdfb": {
+      "event_id": "evt_448483ee99fdfb",
+      "event_key": "none analysis buffy quote article report",
+      "event_subject": "23 Years Later, Spike's Best 'Buffy' Quote Is Still One of the Best Lines in TV History",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "none analysis buffy quote article report",
+        "subject": "23 Years Later, Spike's Best 'Buffy' Quote Is Still One of the Best Lines in TV History",
+        "event_type": "other",
+        "action": "analysis",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Buffy the Vampire Slayer",
+        "institution": "Polygon",
+        "target": "",
+        "platforms": [],
+        "topic": "tv"
+      },
+      "modality": "unknown",
+      "topic": "tv",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-10-25T16:47:38.142737+06:00"
+    },
+    "evt_b65f6de8973c19": {
+      "event_id": "evt_b65f6de8973c19",
+      "event_key": "none list psychological thriller movies article report",
+      "event_subject": "5 Near-Perfect Psychological Thriller Movies Streaming for Free",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "none list psychological thriller movies article report",
+        "subject": "5 Near-Perfect Psychological Thriller Movies Streaming for Free",
+        "event_type": "other",
+        "action": "list",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "",
+        "platforms": [],
+        "topic": "film"
+      },
+      "modality": "unknown",
+      "topic": "film",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-10-25T16:47:38.142741+06:00"
+    },
+    "evt_8bf0f031a414f4": {
+      "event_id": "evt_8bf0f031a414f4",
+      "event_key": "none analysis dune quote article report",
+      "event_subject": "61 Years Later, Paul's Best Dune Line Is Still the Coldest Quote in Sci-Fi History",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "none analysis dune quote article report",
+        "subject": "61 Years Later, Paul's Best Dune Line Is Still the Coldest Quote in Sci-Fi History",
+        "event_type": "other",
+        "action": "analysis",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Dune",
+        "institution": "Polygon",
+        "target": "",
+        "platforms": [],
+        "topic": "literature"
+      },
+      "modality": "unknown",
+      "topic": "literature",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-10-25T16:47:38.142743+06:00"
+    },
+    "evt_b5908a2b739cf6": {
+      "event_id": "evt_b5908a2b739cf6",
+      "event_key": "none column sunday papers article report",
+      "event_subject": "The Sunday Papers",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "none column sunday papers article report",
+        "subject": "The Sunday Papers",
+        "event_type": "other",
+        "action": "column",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Rock Paper Shotgun",
+        "target": "",
+        "platforms": [],
+        "topic": "opinion"
+      },
+      "modality": "unknown",
+      "topic": "opinion",
+      "institution": "Rock Paper Shotgun",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 27,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 27
+      },
+      "last_seen": "2026-10-25T16:47:38.142747+06:00"
     }
   },
   "posted_event_ids": [
@@ -181552,7 +182246,10 @@
     "evt_b133bdf0a47fe4",
     "evt_0e4e97b93b7de5",
     "evt_a5bc7d0def4d13",
-    "evt_3b0902d697d8d3"
+    "evt_3b0902d697d8d3",
+    "evt_8e6ee493fd3d3f",
+    "evt_64de720b4837d6",
+    "evt_077580f5e3e75b"
   ],
   "recent_titles": [
     "fallout new vegas remaster turns nightmarish after multiple dlss 5 passes",
@@ -181954,11 +182651,14 @@
     "fallout day 2026 unveils pets new expansions and prime video competition",
     "xbox coo helen chiang departs microsoft after three months",
     "steam launches personal calendar to sharpen game discovery",
-    "fbi probes 963 000 theft of 6 451 psa graded trading cards"
+    "fbi probes 963 000 theft of 6 451 psa graded trading cards",
+    "darkest dungeon ii switch 2 edition boosts performance and adds mouse support",
+    "look outside expands to playstation and switch on october 30",
+    "tomb raider marks 30th anniversary with new switch 2 release and discounts"
   ],
   "category_coverage": {
-    "Game Updates": "2026-10-25T00:05:19.932734+06:00",
-    "Major Releases": "2026-10-24T11:25:02.869831+06:00",
+    "Game Updates": "2026-10-25T16:49:50.913768+06:00",
+    "Major Releases": "2026-10-25T16:49:45.997323+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
     "Nintendo": "2026-09-09T21:29:41.864902+06:00",
