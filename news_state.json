@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1d116-Pir1REjJHFZx38GJLcS1HJnwBl0\"",
+      "etag": "W/\"1c528-Bvncm1Cg2i2QR9Nmfe9Cyle4X9c\"",
       "last_modified": null,
-      "last_checked": "2026-10-29T01:20:18.102126+06:00",
+      "last_checked": "2026-10-29T12:45:38.860798+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-29T01:20:18.408306+06:00",
+      "last_checked": "2026-10-29T12:45:39.158701+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ae249d4-b1b\"",
-      "last_modified": "Wed, 28 Oct 2026 19:15:32 GMT",
-      "last_checked": "2026-10-29T01:20:18.659517+06:00",
+      "etag": "\"6ae2eb8c-b1b\"",
+      "last_modified": "Thu, 29 Oct 2026 06:45:32 GMT",
+      "last_checked": "2026-10-29T12:45:39.598182+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Wed, 28 Oct 2026 19:16:08 GMT",
-      "last_checked": "2026-10-29T01:20:18.864787+06:00",
+      "last_modified": "Wed, 28 Oct 2026 20:08:50 GMT",
+      "last_checked": "2026-10-29T12:45:39.836888+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "W/\"4eea24f644a16bc05b0fbc7d8654fbcd\"",
-      "last_modified": "Wed, 28 Oct 2026 13:18:36 GMT",
-      "last_checked": "2026-10-29T01:20:19.140139+06:00",
+      "etag": "W/\"8c07062d43f3b0aca8d75c366b4c48d4\"",
+      "last_modified": "Thu, 29 Oct 2026 03:32:39 GMT",
+      "last_checked": "2026-10-29T12:45:40.221723+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-29T01:20:19.239672+06:00",
+      "last_checked": "2026-10-29T12:45:40.385939+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-29T01:20:19.725831+06:00",
+      "last_checked": "2026-10-29T12:45:41.175023+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"f0167f52b6115281abe906d7535cf34b\"",
-      "last_modified": "Wed, 28 Oct 2026 19:00:10 GMT",
-      "last_checked": "2026-10-29T01:20:19.909874+06:00",
+      "etag": "W/\"0e8c792f5a1efb064f003890239f49d1\"",
+      "last_modified": "Thu, 29 Oct 2026 00:45:20 GMT",
+      "last_checked": "2026-10-29T12:45:41.445145+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-29T01:20:20.029694+06:00",
+      "last_checked": "2026-10-29T12:45:41.612286+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Wed, 28 Oct 2026 18:03:09 GMT",
-      "last_checked": "2026-10-29T01:20:20.428612+06:00",
+      "last_checked": "2026-10-29T12:45:42.376167+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Wed, 28 Oct 2026 19:20:20 GMT",
-      "last_checked": "2026-10-29T01:20:20.964977+06:00",
+      "last_modified": "Thu, 29 Oct 2026 06:45:42 GMT",
+      "last_checked": "2026-10-29T12:45:42.984485+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"bbff2019a2555f34bfcd4409451ea0c5\"",
-      "last_modified": "Wed, 28 Oct 2026 18:56:25 GMT",
-      "last_checked": "2026-10-29T01:20:21.093139+06:00",
+      "etag": "W/\"7d6382669ef868228bb9f04e4fa6b37e\"",
+      "last_modified": "Thu, 29 Oct 2026 03:49:28 GMT",
+      "last_checked": "2026-10-29T12:45:43.138763+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-29T01:20:21.581403+06:00",
+      "last_checked": "2026-10-29T12:45:43.383082+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-29T01:20:21.916889+06:00",
+      "last_checked": "2026-10-29T12:45:43.959233+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-10-29T01:20:22.390411+06:00",
+      "last_checked": "2026-10-29T12:45:44.508160+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-10-29T01:20:22.551506+06:00",
-      "fail_count": 132,
+      "last_checked": "2026-10-29T12:45:44.864908+06:00",
+      "fail_count": 133,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"d779f2745453fc810a6054501ab18ad9\"",
-      "last_modified": "Wed, 28 Oct 2026 15:30:32 GMT",
-      "last_checked": "2026-10-29T01:20:22.657277+06:00",
+      "etag": "W/\"ed870c27c8e2c1e7768300acd7d1d26e\"",
+      "last_modified": "Wed, 28 Oct 2026 18:43:12 GMT",
+      "last_checked": "2026-10-29T12:45:44.978536+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-10-29T01:20:22.810338+06:00",
+      "last_checked": "2026-10-29T12:45:45.173161+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-10-29T01:20:23.023886+06:00",
-      "fail_count": 132,
+      "last_checked": "2026-10-29T12:45:45.418547+06:00",
+      "fail_count": 133,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"ff01e3e3efe8b027da43d7b8103f2c43\"",
       "last_modified": "Wed, 28 Oct 2026 09:50:37 GMT",
-      "last_checked": "2026-10-29T01:20:23.248096+06:00",
+      "last_checked": "2026-10-29T12:45:45.686831+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -170,38 +170,6 @@
       "status": "pending",
       "first_seen": "2026-10-22T02:27:13.492620+06:00",
       "last_seen": "2026-10-29T01:20:18.267183+06:00"
-    },
-    "ign.com/articles/man-arrested-for-brandishing-knife-at-crew-on-the-set-of-miami-vice-85": {
-      "title": "Man Arrested for Brandishing Knife at Crew on the Set of Miami Vice ‘85",
-      "url": "https://www.ign.com/articles/man-arrested-for-brandishing-knife-at-crew-on-the-set-of-miami-vice-85",
-      "canonical": "ign.com/articles/man-arrested-for-brandishing-knife-at-crew-on-the-set-of-miami-vice-85",
-      "published_dt": "2026-10-25T10:23:32+06:00",
-      "published_date": "2026-10-25T10:23:32+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "A knife-wielding man was arrested Friday night for threatening crew members on the Brooklyn set of Miami Vice ‘85. Citing information from the NYPD, TMZ reports that a police officer working security on the set arrested Alex Perez, 23.",
-      "image": "https://assets-prd.ignimgs.com/2026/10/12/miami-vice-85-michael-b-jordan-1791817174472.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-25T11:42:25.782802+06:00",
-      "last_seen": "2026-10-25T11:42:25.782809+06:00"
-    },
-    "polygon.com/war-of-worlds-streaming-free-youtube-october-2026": {
-      "title": "Forget Tom Cruise, Sci-Fi's Foundational 1950s Classic Movie Is Free to Watch on YouTube",
-      "url": "https://www.polygon.com/war-of-worlds-streaming-free-youtube-october-2026/",
-      "canonical": "polygon.com/war-of-worlds-streaming-free-youtube-october-2026",
-      "published_dt": "2026-10-25T10:01:20+06:00",
-      "published_date": "2026-10-25T10:01:20+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Every little green man from space for 70 years owes his existence to this flick from 1953",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ann-robinson-gene-barry-war-of-the-worlds-1953.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-25T11:42:27.543355+06:00",
-      "last_seen": "2026-10-25T11:42:27.543360+06:00"
     },
     "eurogamer.net/cyberpunk-edgerunners-season-2-major-theme": {
       "title": "Cyberpunk: Edgerunners Season 2 is more than a retread of Netflix's beloved first season - it's a story that truly understands what it means to exist in Night City",
@@ -7364,6 +7332,70 @@
       "status": "pending",
       "first_seen": "2026-10-29T01:20:22.696197+06:00",
       "last_seen": "2026-10-29T01:20:22.696199+06:00"
+    },
+    "ign.com/articles/gigabyte-go27q24a-gaming-monitor-australia-deal-street-fighter-giveaway-au-deals": {
+      "title": "Upgrade to OLED Gaming With the Entry-Level Gigabyte GO27Q24A Monitor",
+      "url": "https://www.ign.com/articles/gigabyte-go27q24a-gaming-monitor-australia-deal-street-fighter-giveaway-au-deals",
+      "canonical": "ign.com/articles/gigabyte-go27q24a-gaming-monitor-australia-deal-street-fighter-giveaway-au-deals",
+      "published_dt": "2026-10-29T10:00:29+06:00",
+      "published_date": "2026-10-29T10:00:29+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "",
+      "image": "https://assets-prd.ignimgs.com/2026/10/29/gigabyte-go27q24a-hero-1793245919554.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-29T12:45:38.926891+06:00",
+      "last_seen": "2026-10-29T12:45:38.926896+06:00"
+    },
+    "polygon.com/fast-furious-five-leaving-netflix-november-2026": {
+      "title": "15 Years Later, the Most Near-Perfect Fast and Furious Movie Is Getting From Netflix",
+      "url": "https://www.polygon.com/fast-furious-five-leaving-netflix-november-2026/",
+      "canonical": "polygon.com/fast-furious-five-leaving-netflix-november-2026",
+      "published_dt": "2026-10-29T10:24:17+06:00",
+      "published_date": "2026-10-29T10:24:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Even after 11 movies, Fast Five is still the best by a mile. Watch it now, while you still can.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/mcdfafi_ec040.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-29T12:45:41.183613+06:00",
+      "last_seen": "2026-10-29T12:45:41.183618+06:00"
+    },
+    "polygon.com/9-years-ago-season-2-of-this-sci-fi-series-proved-the-first-season-wasnt-a-fluke": {
+      "title": "9 Years Ago, Netflix Released a Rare Sci-Fi Sequel Even Better Than the Original",
+      "url": "https://www.polygon.com/9-years-ago-season-2-of-this-sci-fi-series-proved-the-first-season-wasnt-a-fluke/",
+      "canonical": "polygon.com/9-years-ago-season-2-of-this-sci-fi-series-proved-the-first-season-wasnt-a-fluke",
+      "published_dt": "2026-10-29T10:00:18+06:00",
+      "published_date": "2026-10-29T10:00:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Season 2 of Stranger Things premiered nine years ago, which proved to be nearly as good as season 1 thanks to some great new characters",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/aaaaqybuvbspm0usrnmzelpdizqminuzokjmqivtluzb0b6p0nbo5smgxrtpzzkfruwrrfgpbhksnqelnt_jhf-e7kiynhqpdgrk7yefvzr9mqzde_z9xy37x-gx8nlk2teftzsyf3ya0j5q6n8xedpcofap.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-29T12:45:41.183768+06:00",
+      "last_seen": "2026-10-29T12:45:41.183773+06:00"
+    },
+    "nintendolife.com/news/2026/10/no-mans-sky-unveils-forsaken-update-7-10-here-are-the-full-patch-notes": {
+      "title": "No Man's Sky Unveils Forsaken (Update 7.10), Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/10/no-mans-sky-unveils-forsaken-update-7-10-here-are-the-full-patch-notes",
+      "canonical": "nintendolife.com/news/2026/10/no-mans-sky-unveils-forsaken-update-7-10-here-are-the-full-patch-notes",
+      "published_dt": "2026-10-29T11:30:00+06:00",
+      "published_date": "2026-10-29T11:30:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "New \"spooky new gameplay\" just in time for Halloween. The space exploration title No Man's Sky didn't launch in the best state, but 10 years later, it's doing better than ever thanks to new features, content and regular game updates. With this in mind, the latest free update has now arrived. No Man's Sky: Forsaken (Update 7.10) allows players to explore the darker side of the universe, and bunch of other features. It also introduces iPad and iPhone support for the first time. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/3bc1e6869b3a5/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-10-29T12:45:43.404788+06:00",
+      "last_seen": "2026-10-29T12:45:43.404793+06:00"
     }
   },
   "events": {
@@ -194278,6 +194310,182 @@
         "total": 32
       },
       "last_seen": "2026-10-29T01:37:26.536837+06:00"
+    },
+    "evt_8371d07aecfb33": {
+      "event_id": "evt_8371d07aecfb33",
+      "event_key": "noman ssky update7 10 release",
+      "event_subject": "No Man's Sky",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "noman ssky update7 10 release",
+        "subject": "No Man's Sky",
+        "event_type": "other",
+        "action": "release",
+        "status": "released",
+        "modality": "unknown",
+        "game": "No Man's Sky",
+        "franchise": "No Man's Sky",
+        "institution": "Hello Games",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "PlayStation",
+          "Xbox",
+          "iOS",
+          "iPadOS"
+        ],
+        "topic": "patch_notes"
+      },
+      "modality": "unknown",
+      "topic": "patch_notes",
+      "institution": "Hello Games",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Update 7.10 (Forsaken) adds new gameplay, dark universe content and mobile support"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-10-29T12:50:57.277452+06:00"
+    },
+    "evt_93e0a3243ec7d3": {
+      "event_id": "evt_93e0a3243ec7d3",
+      "event_key": "gigabyte go27q24a release",
+      "event_subject": "Gigabyte GO27Q24A Monitor",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gigabyte go27q24a release",
+        "subject": "Gigabyte GO27Q24A Monitor",
+        "event_type": "other",
+        "action": "launch",
+        "status": "released",
+        "modality": "unknown",
+        "game": "N/A",
+        "franchise": "N/A",
+        "institution": "Gigabyte",
+        "target": "gamers",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "monitor_release"
+      },
+      "modality": "unknown",
+      "topic": "monitor_release",
+      "institution": "Gigabyte",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Entry‑level Gigabyte GO27Q24A OLED gaming monitor now available"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-10-29T12:50:57.277470+06:00"
+    },
+    "evt_2557c2d75bd322": {
+      "event_id": "evt_2557c2d75bd322",
+      "event_key": "fastfurious fastfive netflix addition",
+      "event_subject": "Fast Five",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fastfurious fastfive netflix addition",
+        "subject": "Fast Five",
+        "event_type": "other",
+        "action": "add",
+        "status": "available",
+        "modality": "unknown",
+        "game": "N/A",
+        "franchise": "Fast & Furious",
+        "institution": "Netflix",
+        "target": "subscribers",
+        "platforms": [
+          "Netflix"
+        ],
+        "topic": "streaming_release"
+      },
+      "modality": "unknown",
+      "topic": "streaming_release",
+      "institution": "Netflix",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Fast Five movie added to Netflix catalog"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-10-29T12:50:57.277480+06:00"
+    },
+    "evt_79e1af095e2614": {
+      "event_id": "evt_79e1af095e2614",
+      "event_key": "strangerthings season2 netflix release",
+      "event_subject": "Stranger Things Season 2",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "strangerthings season2 netflix release",
+        "subject": "Stranger Things Season 2",
+        "event_type": "other",
+        "action": "release",
+        "status": "released",
+        "modality": "unknown",
+        "game": "N/A",
+        "franchise": "Stranger Things",
+        "institution": "Netflix",
+        "target": "viewers",
+        "platforms": [
+          "Netflix"
+        ],
+        "topic": "retrospective"
+      },
+      "modality": "unknown",
+      "topic": "retrospective",
+      "institution": "Netflix",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Season 2 of Stranger Things premiered on Netflix nine years ago"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-10-29T12:50:57.277487+06:00"
     }
   },
   "posted_event_ids": [
@@ -194783,14 +194991,6 @@
     "evt_b404d81ac1365e"
   ],
   "recent_titles": [
-    "nintendo customer appreciation sale slashes switch games and accessories by up to 30",
-    "valve opens steam frame vr pre orders pricing starts at 1 059 with half life alyx included",
-    "netflix teams with sega for crazy taxi stranger than heaven films and sonic kids series",
-    "of ash and steel expands to ps5 and xbox series with new dlc",
-    "world of warcraft forever announces hardcore mode for winter release",
-    "blizzard says battle net won t challenge steam or epic despite adding the witcher 3 and cyberpunk 2077",
-    "hori unveils modular arcade classic pro for switch 2",
-    "valorant champions shanghai skips new warden rifle release",
     "level 5 faces fan backlash after generative ai used in showcase",
     "valve pushes steamos closer to nvidia driver support",
     "harvey smith calls redfall a misguided games as a service experiment",
