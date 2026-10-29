@@ -3160,22 +3160,34 @@ def dynamic_rich_html(story):
     if platform not in {"PlayStation", "Xbox", "PC Game", "Mobile Game"}:
         platform = "PC Game"
 
+    # POSTCARD FORMAT (network standard, Karn's pick 2026-10-30): photo,
+    # headline, the whole story in one bold line, then every detail inside a
+    # single tap-to-expand FULL STORY block. No visible section template.
+    # Collapsed, Telegram shows the header plus about one line — that line
+    # must be story content, so highlights lead and the platform rides last.
     parts = [
         '<img src="tg://photo?id=newsphoto">',
         "<h1>" + escape_rich_html(story["headline"]) + "</h1>",
-        "<p>" + bold_terms_html(story["summary"], terms) + "</p>",
-        "<aside>" + escape_rich_html(platform) + "</aside>",
-        "<h2>KEY HIGHLIGHTS</h2>",
-        "<p>" + "<br>".join(
-            "• " + bold_terms_html(point, terms)
-            for point in story.get("highlights", [])
-        ) + "</p>",
-        "<h2>WHY IT MATTERS</h2>",
-        "<p>" + bold_terms_html(story.get("why_it_matters", ""), terms) + "</p>",
-        "<blockquote expandable><b>WHAT'S NEXT</b><br>"
-        + bold_terms_html(story.get("whats_next", ""), terms)
-        + "</blockquote>",
+        "<p><b>" + bold_terms_html(story["summary"], terms) + "</b></p>",
     ]
+
+    story_blocks = []
+    highlights = story.get("highlights", [])
+    if highlights:
+        story_blocks.append("<br>".join(
+            "• " + bold_terms_html(point, terms)
+            for point in highlights
+        ))
+    if story.get("why_it_matters"):
+        story_blocks.append(bold_terms_html(story["why_it_matters"], terms))
+    if story.get("whats_next"):
+        story_blocks.append(bold_terms_html(story["whats_next"], terms))
+    story_blocks.append("<b>Platform:</b> " + escape_rich_html(platform))
+    parts.append(
+        "<blockquote expandable><b>FULL STORY</b><br>"
+        + "<br><br>".join(story_blocks)
+        + "</blockquote>"
+    )
 
     hashtags = " ".join(category_hashtags(story))
     if hashtags:
@@ -4528,9 +4540,13 @@ def self_test():
     assert not ok and "markdown_asterisk" in errors
     rendered = dynamic_rich_html({**sample, "bold_terms":["PlayStation","expansion"], "source":"IGN", "url":"https://example.com/story", "region":"Gaming", "topic":"Expansions and DLC", "institution":"Sony"})
     assert "*" not in rendered
-    assert "WHY IT MATTERS" in rendered
-    assert "WHAT'S NEXT" in rendered
-    assert "<aside>PlayStation</aside>" in rendered
+    assert "WHY IT MATTERS" not in rendered
+    assert "WHAT'S NEXT" not in rendered
+    assert "KEY HIGHLIGHTS" not in rendered
+    assert "<b>FULL STORY</b>" in rendered
+    assert rendered.count('<blockquote expandable>') == 1
+    assert "<aside>" not in rendered
+    assert "<b>Platform:</b> PlayStation" in rendered
     assert canonical_url("https://www.example.com/story/?utm_source=x") == "example.com/story"
 
     # Image fallback regression: no article image must use publisher identity,
