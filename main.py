@@ -30,6 +30,8 @@ from urllib3.util.retry import Retry
 from exa_py import Exa
 from cerebras.cloud.sdk import Cerebras
 
+
+import cerebras_keys
 TRACKING = {"utm_source","utm_medium","utm_campaign","utm_term","utm_content","gclid","fbclid","ref"}
 
 def canonical_url(url: str) -> str:
@@ -1633,13 +1635,33 @@ cerebras = Cerebras(
 )
 
 
+def _reset_cerebras_client():
+    global cerebras
+    cerebras = Cerebras(api_key=cerebras_keys.active_key() or CEREBRAS_API_KEY)
+
+
 def cerebras_create(**kwargs):
-    """Single AI gateway used by Gaming News Bot event selection and story generation."""
+    """Single AI gateway used by Gaming News Bot event selection and story generation.
+
+    Multi-key failover (2026-10-31): on a quota/auth status (401/402/403/429)
+    the active Cerebras key is retired for the run (owner alerted via the
+    Newsroom bot), the client is rebuilt on the next key, and the call
+    retries. Any other error propagates untouched.
+    """
     kwargs.pop("model_name", None)
-    return cerebras.chat.completions.create(
-        model=CEREBRAS_MODEL,
-        **kwargs,
-    )
+    kwargs.pop("model", None)
+    while True:
+        try:
+            return cerebras.chat.completions.create(
+                model=CEREBRAS_MODEL,
+                **kwargs,
+            )
+        except Exception as exc:
+            status = getattr(exc, "status_code", None)
+            if cerebras_keys.is_quota_status(status) and cerebras_keys.failover(status):
+                _reset_cerebras_client()
+                continue
+            raise
 
 
 # ============================================================
@@ -2747,7 +2769,7 @@ Platform line
 
     for attempt in range(3):
         try:
-            response = cerebras.chat.completions.create(
+            response = cerebras_create(
                 model=CEREBRAS_MODEL,
                 messages=[
                     {
@@ -4019,7 +4041,7 @@ Return only the JSON schema.
     )
 
     try:
-        response = cerebras.chat.completions.create(
+        response = cerebras_create(
             model=CEREBRAS_MODEL,
             messages=[
                 {"role": "system", "content": prompt},
