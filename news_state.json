@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"2d036-xyGZw7ckxHzxOSG02uZXCdUQBYw\"",
+      "etag": "W/\"30582-2pHlC2PHFptwOSMcWZvLBtOAGdc\"",
       "last_modified": null,
-      "last_checked": "2026-11-01T00:11:30.098933+06:00",
+      "last_checked": "2026-11-01T13:08:27.064281+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-01T00:11:30.336106+06:00",
+      "last_checked": "2026-11-01T13:08:27.308452+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6ae62f18-b6b\"",
-      "last_modified": "Sat, 31 Oct 2026 18:10:32 GMT",
-      "last_checked": "2026-11-01T00:11:30.886286+06:00",
+      "etag": "\"6ae6e4bc-b6b\"",
+      "last_modified": "Sun, 01 Nov 2026 07:05:32 GMT",
+      "last_checked": "2026-11-01T13:08:27.755834+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Sat, 31 Oct 2026 17:35:36 GMT",
-      "last_checked": "2026-11-01T00:11:31.626897+06:00",
+      "last_checked": "2026-11-01T13:08:27.947968+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "W/\"a2152399a5579333708d59af0a42bd4b\"",
-      "last_modified": "Sat, 31 Oct 2026 15:00:28 GMT",
-      "last_checked": "2026-11-01T00:11:31.934816+06:00",
+      "etag": "W/\"97604faf44fc76a68017a968abaf74bc\"",
+      "last_modified": "Sun, 01 Nov 2026 03:02:46 GMT",
+      "last_checked": "2026-11-01T13:08:28.175950+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-01T00:11:32.113641+06:00",
+      "last_checked": "2026-11-01T13:08:28.329000+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-01T00:11:32.606079+06:00",
+      "last_checked": "2026-11-01T13:08:28.889185+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"aece9014f50195d966af0063a139759f\"",
-      "last_modified": "Sat, 31 Oct 2026 18:09:03 GMT",
-      "last_checked": "2026-11-01T00:11:32.773427+06:00",
+      "etag": "W/\"9b306d957101be1047791f0e08854a09\"",
+      "last_modified": "Sun, 01 Nov 2026 07:07:54 GMT",
+      "last_checked": "2026-11-01T13:08:29.196740+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-01T00:11:32.930759+06:00",
+      "last_checked": "2026-11-01T13:08:29.350156+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Sat, 31 Oct 2026 13:10:14 GMT",
-      "last_checked": "2026-11-01T00:11:33.287787+06:00",
+      "last_checked": "2026-11-01T13:08:29.778676+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sat, 31 Oct 2026 18:11:33 GMT",
-      "last_checked": "2026-11-01T00:11:33.847219+06:00",
+      "last_modified": "Sun, 01 Nov 2026 07:08:30 GMT",
+      "last_checked": "2026-11-01T13:08:30.253755+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"10a0b1fbb8eeccfd6337580246288a89\"",
-      "last_modified": "Sat, 31 Oct 2026 17:49:35 GMT",
-      "last_checked": "2026-11-01T00:11:34.366066+06:00",
+      "etag": "W/\"55ea4dbde9450936cdb54d3d381692d4\"",
+      "last_modified": "Sun, 01 Nov 2026 05:28:26 GMT",
+      "last_checked": "2026-11-01T13:08:30.385052+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-01T00:11:34.819709+06:00",
+      "last_checked": "2026-11-01T13:08:30.810152+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-01T00:11:35.189534+06:00",
+      "last_checked": "2026-11-01T13:08:31.204890+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-01T00:11:35.554626+06:00",
+      "last_checked": "2026-11-01T13:08:31.669294+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-01T00:11:35.795946+06:00",
-      "fail_count": 140,
+      "last_checked": "2026-11-01T13:08:31.902678+06:00",
+      "fail_count": 141,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"380ddae24c44765a1d2609639e5d6409\"",
-      "last_modified": "Wed, 14 Oct 2026 20:01:30 GMT",
-      "last_checked": "2026-11-01T00:11:35.921792+06:00",
+      "etag": "W/\"822da465aa72e828053ecf9999a0da2e\"",
+      "last_modified": "Mon, 19 Oct 2026 20:22:49 GMT",
+      "last_checked": "2026-11-01T13:08:32.099574+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-01T00:11:36.084260+06:00",
+      "last_checked": "2026-11-01T13:08:32.316446+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-01T00:11:36.276251+06:00",
-      "fail_count": 140,
+      "last_checked": "2026-11-01T13:08:32.481661+06:00",
+      "fail_count": 141,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"36d533bbc3b74c4a5bce1b4ab03eda0f\"",
-      "last_modified": "Sat, 31 Oct 2026 06:13:15 GMT",
-      "last_checked": "2026-11-01T00:11:37.096996+06:00",
+      "etag": "W/\"221cb12cd7f37bd9d4c12cf2f6e82ebb\"",
+      "last_modified": "Sun, 01 Nov 2026 06:13:13 GMT",
+      "last_checked": "2026-11-01T13:08:32.734563+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -186,71 +186,6 @@
       "status": "pending",
       "first_seen": "2026-10-27T23:53:19.031113+06:00",
       "last_seen": "2026-10-29T01:20:18.267276+06:00"
-    },
-    "ign.com/articles/blade-runner-2099-the-board-game-will-feature-a-different-story-than-the-tv-series": {
-      "title": "The Upcoming Blade Runner 2099 Board Game Will Feature a Different Story Than the TV Series",
-      "url": "https://www.ign.com/articles/blade-runner-2099-the-board-game-will-feature-a-different-story-than-the-tv-series",
-      "canonical": "ign.com/articles/blade-runner-2099-the-board-game-will-feature-a-different-story-than-the-tv-series",
-      "published_dt": "2026-10-28T09:39:28+06:00",
-      "published_date": "2026-10-28T09:39:28+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "",
-      "image": "https://assets-prd.ignimgs.com/2026/10/28/blade-runner-board-game-1793158502327.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-28T12:38:22.833891+06:00",
-      "last_seen": "2026-10-28T12:38:22.833898+06:00"
-    },
-    "gematsu.com/2026/10/digimon-alysion-pre-registration-now-available": {
-      "title": "Digimon Alysion pre-registration now available",
-      "url": "https://www.gematsu.com/2026/10/digimon-alysion-pre-registration-now-available",
-      "canonical": "gematsu.com/2026/10/digimon-alysion-pre-registration-now-available",
-      "published_dt": "2026-10-28T10:32:24+06:00",
-      "published_date": "2026-10-28T10:32:24+06:00",
-      "source": "Gematsu",
-      "region": "Gaming",
-      "excerpt": "Pre-registration for Digimon Alysion, the free-to-play mobile game based on Digimon Card Game, is now …",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-28T12:38:24.106121+06:00",
-      "last_seen": "2026-10-28T12:38:24.106127+06:00"
-    },
-    "polygon.com/buffy-halloween-season-2-rupert-giles-ripper": {
-      "title": "29 Years Ago, ‘Buffy’s Wisest Character Got a Shocking Backstory that Redefined the Entire Series",
-      "url": "https://www.polygon.com/buffy-halloween-season-2-rupert-giles-ripper/",
-      "canonical": "polygon.com/buffy-halloween-season-2-rupert-giles-ripper",
-      "published_dt": "2026-10-28T10:00:18+06:00",
-      "published_date": "2026-10-28T10:00:18+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Buffy the Vampire Slayer began to find its rhythm in season 2, after introducing an unnerving backstory to Rupert Giles.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/buffy-halloween.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-28T12:38:25.100945+06:00",
-      "last_seen": "2026-10-28T12:38:25.100950+06:00"
-    },
-    "nintendolife.com/news/2026/10/psa-minecraft-switch-2-now-available-switch-physical-owners-get-a-digital-discount": {
-      "title": "PSA: Minecraft Switch 2 Now Available, Switch Physical Owners Get A Digital Discount",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-minecraft-switch-2-now-available-switch-physical-owners-get-a-digital-discount",
-      "canonical": "nintendolife.com/news/2026/10/psa-minecraft-switch-2-now-available-switch-physical-owners-get-a-digital-discount",
-      "published_dt": "2026-10-28T10:55:00+06:00",
-      "published_date": "2026-10-28T10:55:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Pay less for the Ultimate Edition. It's all happening on the Switch 2 this week, and to add to this, Minecraft is now available on the new hybrid system. While Mojang already confirmed it's a free upgrade for owners of the digital Switch version , we've now also got details about the upgrade for anyone who owns a physical Switch copy. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/683ba06371ebf/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-10-28T12:38:27.259199+06:00",
-      "last_seen": "2026-10-28T12:38:27.259205+06:00",
-      "posted_at": "2026-10-28T12:42:41.543393+06:00"
     },
     "ign.com/articles/valve-ai-slop-on-steam-comments": {
       "title": "Valve 'Thinking About How to Solve' Steam's AI Slop Problem, but Won't Limit Developer Access",
@@ -6965,64 +6900,90 @@
       "status": "pending",
       "first_seen": "2026-11-01T00:11:35.565227+06:00",
       "last_seen": "2026-11-01T00:11:35.565230+06:00"
+    },
+    "polygon.com/jon-bernthal-punisher-action-masterpiece-marvel-disney-plus": {
+      "title": "9 Years Later, Jon Bernthal’s Action Series Is a Masterpiece From Start to Finish",
+      "url": "https://www.polygon.com/jon-bernthal-punisher-action-masterpiece-marvel-disney-plus/",
+      "canonical": "polygon.com/jon-bernthal-punisher-action-masterpiece-marvel-disney-plus",
+      "published_dt": "2026-11-01T11:30:17+06:00",
+      "published_date": "2026-11-01T11:30:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "One batch, two batch, penny and dime",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/jon-bernthal-punisher-born-again.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-01T13:08:28.894832+06:00",
+      "last_seen": "2026-11-01T13:08:28.894835+06:00"
+    },
+    "polygon.com/ridley-scott-blade-runner-final-cut-streaming-november-2026": {
+      "title": "Ridley Scott's Near-Perfect Sci-Fi Masterpiece is Waiting to Be Rediscovered on Streaming",
+      "url": "https://www.polygon.com/ridley-scott-blade-runner-final-cut-streaming-november-2026/",
+      "canonical": "polygon.com/ridley-scott-blade-runner-final-cut-streaming-november-2026",
+      "published_dt": "2026-11-01T10:26:17+06:00",
+      "published_date": "2026-11-01T10:26:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "One of the best films in Ridley Scott's filmography and a key entry into the sci-fi canon",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/blade-runner-3.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-01T13:08:28.894925+06:00",
+      "last_seen": "2026-11-01T13:08:28.894926+06:00"
+    },
+    "insider-gaming.com/algs-split-2-playoffs-final-teams-set-unlimit-eliminated": {
+      "title": "ALGS Split 2 Playoffs Final Set After Brutally Close Winner’s Bracket",
+      "url": "https://insider-gaming.com/algs-split-2-playoffs-final-teams-set-unlimit-eliminated/",
+      "canonical": "insider-gaming.com/algs-split-2-playoffs-final-teams-set-unlimit-eliminated",
+      "published_dt": "2026-11-01T11:15:11+06:00",
+      "published_date": "2026-11-01T11:15:11+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "The ALGS Split 2 Playoffs has its final 20 teams after a brutal three-way tie in Winners and the elimination of Split 1 Champions UNLIMIT The post ALGS Split 2 Playoffs Final Set After Brutally Close Winner’s Bracket appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-01T13:08:30.391222+06:00",
+      "last_seen": "2026-11-01T13:08:30.391226+06:00",
+      "posted_at": "2026-11-01T13:12:41.221443+06:00"
+    },
+    "nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts": {
+      "title": "Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts",
+      "url": "https://www.nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts",
+      "canonical": "nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts",
+      "published_dt": "2026-11-01T11:45:00+06:00",
+      "published_date": "2026-11-01T11:45:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Happy Pikmin Day! Nintendo surprised us with a Pikmin -themed Direct this weekend, announcing Pikmin Day! If you haven't already watched the video, here's everything from the broadcast: Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/95bbae1942c49/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-01T13:08:30.822293+06:00",
+      "last_seen": "2026-11-01T13:08:30.822297+06:00"
+    },
+    "escapistmagazine.com/ubisoft-rules-out-more-assassins-creed-remakes-despite-black-flag-resynceds-hot-start": {
+      "title": "Ubisoft Rules Out More Assassin’s Creed Remakes Despite Black Flag Resynced’s Hot Start",
+      "url": "https://www.escapistmagazine.com/ubisoft-rules-out-more-assassins-creed-remakes-despite-black-flag-resynceds-hot-start/",
+      "canonical": "escapistmagazine.com/ubisoft-rules-out-more-assassins-creed-remakes-despite-black-flag-resynceds-hot-start",
+      "published_dt": "2026-11-01T12:13:13+06:00",
+      "published_date": "2026-11-01T12:13:13+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "Ubisoft has no other Assassin's Creed remake in active development, even after Black Flag Resynced beat its annual sales expectations within 14 days. Fans waiting on Codename Hexe face a long wait too, with its next major update set for 2027. The post Ubisoft Rules Out More Assassin’s Creed Remakes Despite Black Flag Resynced’s Hot Start appeared first on The Escapist .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-01T13:08:32.756770+06:00",
+      "last_seen": "2026-11-01T13:08:32.756775+06:00"
     }
   },
   "events": {
-    "evt_c77a411d8800b6": {
-      "event_id": "evt_c77a411d8800b6",
-      "event_key": "minecraft dungeons ii release",
-      "event_subject": "Minecraft Dungeons II",
-      "event_type": "release",
-      "event_frame": {
-        "event_key": "minecraft dungeons ii release",
-        "subject": "Minecraft Dungeons II",
-        "event_type": "release",
-        "action": "launch",
-        "status": "released",
-        "modality": "unknown",
-        "game": "Minecraft Dungeons II",
-        "franchise": "Minecraft",
-        "institution": "Mojang Studios",
-        "target": "players",
-        "platforms": [
-          "Nintendo Switch",
-          "PlayStation",
-          "Xbox",
-          "PC"
-        ],
-        "topic": "game_release"
-      },
-      "sources": [
-        "Nintendo Life"
-      ],
-      "event_sources": [
-        "Nintendo Life"
-      ],
-      "claims": [
-        "released"
-      ],
-      "importance_score": 55,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 25,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Minecraft Dungeons II Launches with Strong Reviews Across Platforms",
-      "summary": "Minecraft Dungeons II arrives with a Metacritic score of 75, praised for deeper combat and expanded worlds despite minor end‑game issues.",
-      "published_at": "2026-10-02T11:55:00+06:00",
-      "selected_at": "2026-10-02T06:44:36.076330+00:00",
-      "status": "published",
-      "message_id": 538,
-      "published_versions": [
-        {
-          "published_at": "2026-10-02T06:44:36.076330+00:00",
-          "headline": "Minecraft Dungeons II Launches with Strong Reviews Across Platforms",
-          "claims": [
-            "released"
-          ]
-        }
-      ]
-    },
     "evt_34716f3aafd1ab": {
       "event_id": "evt_34716f3aafd1ab",
       "event_key": "squareenix ff7remake finalsephirothfight directorinterview",
@@ -25318,6 +25279,56 @@
           "published_at": "2026-10-31T18:17:03.912946+00:00",
           "headline": "Former Volunteer Sues Skyblivion Team Over Oblivion Mod Decompilation",
           "claims": []
+        }
+      ]
+    },
+    "evt_3616614f9f093e": {
+      "event_id": "evt_3616614f9f093e",
+      "event_key": "algs split2 playoffs bracket finalized",
+      "event_subject": "ALGS",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "algs split2 playoffs bracket finalized",
+        "subject": "ALGS",
+        "event_type": "other",
+        "action": "finalize",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Apex Legends",
+        "franchise": "Apex Legends",
+        "institution": "ALGS",
+        "target": "playoff bracket",
+        "platforms": [],
+        "topic": "esports"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [
+        "final 20 teams set after close winner's bracket"
+      ],
+      "importance_score": 44,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 10,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "ALGS Split 2 Playoffs Bracket Stage Ends with Ten Teams Advancing",
+      "summary": "The Apex Legends Global Series Split 2 Playoffs bracket concluded, leaving ten teams to battle for the championship in a tense Match Point showdown.",
+      "published_at": "2026-11-01T11:15:11+06:00",
+      "selected_at": "2026-11-01T07:12:41.221480+00:00",
+      "status": "published",
+      "message_id": 918,
+      "published_versions": [
+        {
+          "published_at": "2026-11-01T07:12:41.221480+00:00",
+          "headline": "ALGS Split 2 Playoffs Bracket Stage Ends with Ten Teams Advancing",
+          "claims": [
+            "final 20 teams set after close winner's bracket"
+          ]
         }
       ]
     }
@@ -202730,10 +202741,214 @@
         "total": 31
       },
       "last_seen": "2026-11-01T00:12:42.673314+06:00"
+    },
+    "evt_3616614f9f093e": {
+      "event_id": "evt_3616614f9f093e",
+      "event_key": "algs split2 playoffs bracket finalized",
+      "event_subject": "ALGS",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "algs split2 playoffs bracket finalized",
+        "subject": "ALGS",
+        "event_type": "other",
+        "action": "finalize",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Apex Legends",
+        "franchise": "Apex Legends",
+        "institution": "ALGS",
+        "target": "playoff bracket",
+        "platforms": [],
+        "topic": "esports"
+      },
+      "modality": "unknown",
+      "topic": "esports",
+      "institution": "ALGS",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "final 20 teams set after close winner's bracket"
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 44
+      },
+      "last_seen": "2026-11-01T13:11:36.151492+06:00"
+    },
+    "evt_aaf5d457da9b2c": {
+      "event_id": "evt_aaf5d457da9b2c",
+      "event_key": "ubisoft no further assassin creed remake announcement",
+      "event_subject": "Ubisoft",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ubisoft no further assassin creed remake announcement",
+        "subject": "Ubisoft",
+        "event_type": "other",
+        "action": "rule_out",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Assassin's Creed",
+        "franchise": "Assassin's Creed",
+        "institution": "Ubisoft",
+        "target": "future remakes",
+        "platforms": [],
+        "topic": "remake_policy"
+      },
+      "modality": "unknown",
+      "topic": "remake_policy",
+      "institution": "Ubisoft",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "no further Assassin's Creed remakes are in development"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-11-01T13:11:36.151513+06:00"
+    },
+    "evt_a5f1df786df056": {
+      "event_id": "evt_a5f1df786df056",
+      "event_key": "nintendo pikmin day 2026 announcements",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo pikmin day 2026 announcements",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Pikmin",
+        "franchise": "Pikmin",
+        "institution": "Nintendo",
+        "target": "new demo and animated shorts",
+        "platforms": [],
+        "topic": "Pikmin_Day"
+      },
+      "modality": "unknown",
+      "topic": "Pikmin_Day",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new Pikmin content revealed during Pikmin Day 2026 Direct"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-11-01T13:11:36.151519+06:00"
+    },
+    "evt_f565792b0c1fa0": {
+      "event_id": "evt_f565792b0c1fa0",
+      "event_key": "jon bernthal series masterpiece review",
+      "event_subject": "Jon Bernthal",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "jon bernthal series masterpiece review",
+        "subject": "Jon Bernthal",
+        "event_type": "other",
+        "action": "review",
+        "status": "opinion",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "action series starring Jon Bernthal",
+        "platforms": [],
+        "topic": "TV_series"
+      },
+      "modality": "unknown",
+      "topic": "TV_series",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "the series is a masterpiece from start to finish"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-01T13:11:36.151523+06:00"
+    },
+    "evt_2d670a0effb34c": {
+      "event_id": "evt_2d670a0effb34c",
+      "event_key": "ridley scott film streaming announcement",
+      "event_subject": "Ridley Scott",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ridley scott film streaming announcement",
+        "subject": "Ridley Scott",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "film",
+        "platforms": [],
+        "topic": "film_streaming"
+      },
+      "modality": "unknown",
+      "topic": "film_streaming",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "near-perfect sci‑fi masterpiece awaiting rediscovery on streaming platforms"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-11-01T13:11:36.151527+06:00"
     }
   },
   "posted_event_ids": [
-    "evt_78fed5913880ae",
     "evt_95874135066a6a",
     "evt_b6d55d3931fa97",
     "evt_6a329f8525e038",
@@ -203232,13 +203447,10 @@
     "evt_b9e6ec7fc64fe3",
     "evt_a7e44eef05a894",
     "evt_7d2d9c0f773111",
-    "evt_d9c9717e217d74"
+    "evt_d9c9717e217d74",
+    "evt_3616614f9f093e"
   ],
   "recent_titles": [
-    "josh holloway leads live action prequel hour zero for ace combat 8",
-    "xbox cto warns players of fraudulent game code risks",
-    "bethesda cuts veteran the elder scrolls 6 team amid xbox s speed up push",
-    "roblox lets developers publish standalone games on steam app store and google play",
     "apex legends teams up with street fighter 6 for epic crossover event",
     "riot buffs lucian mid ahead of worlds 2026 in patch 26 19",
     "epic games unveils kingdom hearts fortnite trailer that mirrors kingdom hearts 2 opening",
@@ -203638,7 +203850,8 @@
     "pikmin 4 switch 2 edition launches november 12 2026 with dandori academy",
     "anthropic updates claude opus 5 5 to block ai game cloning",
     "pubg live action series confirmed with donald glover directing and starring",
-    "former volunteer sues skyblivion team over oblivion mod decompilation"
+    "former volunteer sues skyblivion team over oblivion mod decompilation",
+    "algs split 2 playoffs bracket stage ends with ten teams advancing"
   ],
   "category_coverage": {
     "Game Updates": "2026-11-01T00:17:03.912965+06:00",
@@ -203655,6 +203868,6 @@
     "Studio Closures": "2026-09-14T00:35:40.039904+06:00",
     "Layoffs": "2026-10-28T20:06:57.938872+06:00",
     "Mobile Gaming": "2026-10-07T20:39:29.212212+06:00",
-    "Esports": "2026-10-18T00:07:38.169060+06:00"
+    "Esports": "2026-11-01T13:12:41.221501+06:00"
   }
 }
