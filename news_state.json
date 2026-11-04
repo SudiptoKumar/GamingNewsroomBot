@@ -2,256 +2,143 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"23409-yxV59O65zZvbYMOBgUJ3ZWyWirY\"",
+      "etag": "W/\"22af0-CELRGr7BONSoG9cK7ak8L0tILsY\"",
       "last_modified": null,
-      "last_checked": "2026-11-04T03:30:18.350000+06:00",
+      "last_checked": "2026-11-04T13:14:55.982625+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-04T03:30:18.562899+06:00",
+      "last_checked": "2026-11-04T13:14:56.131066+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aea514c-a6d\"",
-      "last_modified": "Tue, 03 Nov 2026 21:25:32 GMT",
-      "last_checked": "2026-11-04T03:30:18.840937+06:00",
+      "etag": "\"6aeada69-ac6\"",
+      "last_modified": "Wed, 04 Nov 2026 07:10:33 GMT",
+      "last_checked": "2026-11-04T13:14:56.455630+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Tue, 03 Nov 2026 15:34:03 GMT",
-      "last_checked": "2026-11-04T03:30:19.002386+06:00",
+      "last_checked": "2026-11-04T13:14:56.604462+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "W/\"5cdba1e130adc3031d94eff631870c17\"",
-      "last_modified": "Tue, 03 Nov 2026 18:10:57 GMT",
-      "last_checked": "2026-11-04T03:30:19.314597+06:00",
+      "etag": "W/\"541242adb09bb8fd4e9b31e06c9c8c62\"",
+      "last_modified": "Wed, 04 Nov 2026 04:30:03 GMT",
+      "last_checked": "2026-11-04T13:14:56.775560+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-04T03:30:19.468845+06:00",
+      "last_checked": "2026-11-04T13:14:56.925572+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-04T03:30:20.129403+06:00",
+      "last_checked": "2026-11-04T13:14:57.561190+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"9dc49b1e5fa769a9488276e436b0b867\"",
-      "last_modified": "Tue, 03 Nov 2026 21:23:36 GMT",
-      "last_checked": "2026-11-04T03:30:20.305843+06:00",
+      "etag": "W/\"606737f5fe659140b2a926bd3d5eabe3\"",
+      "last_modified": "Wed, 04 Nov 2026 07:14:06 GMT",
+      "last_checked": "2026-11-04T13:14:57.696892+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-04T03:30:20.513107+06:00",
+      "last_checked": "2026-11-04T13:14:57.791064+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Tue, 3 Nov 2026 21:03:47 GMT",
-      "last_checked": "2026-11-04T03:30:20.888702+06:00",
+      "last_modified": "Tue, 3 Nov 2026 23:44:22 GMT",
+      "last_checked": "2026-11-04T13:14:58.130776+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Tue, 03 Nov 2026 21:30:22 GMT",
-      "last_checked": "2026-11-04T03:30:22.288352+06:00",
+      "last_modified": "Wed, 04 Nov 2026 07:14:58 GMT",
+      "last_checked": "2026-11-04T13:14:58.611390+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"1b986a8d2a0a44e2c109456bc782e598\"",
-      "last_modified": "Tue, 03 Nov 2026 20:24:46 GMT",
-      "last_checked": "2026-11-04T03:30:22.440071+06:00",
+      "etag": "W/\"dc11bd71d54188a397b58569bbefb751\"",
+      "last_modified": "Wed, 04 Nov 2026 07:02:34 GMT",
+      "last_checked": "2026-11-04T13:14:58.734341+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-04T03:30:22.711406+06:00",
+      "last_checked": "2026-11-04T13:14:58.995478+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-04T03:30:23.120070+06:00",
+      "last_checked": "2026-11-04T13:14:59.371045+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-04T03:30:23.574092+06:00",
+      "last_checked": "2026-11-04T13:14:59.747270+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-04T03:30:23.793703+06:00",
-      "fail_count": 145,
+      "last_checked": "2026-11-04T13:14:59.950875+06:00",
+      "fail_count": 146,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"9014e3bb039047def4002ba06be2a00b\"",
-      "last_modified": "Tue, 03 Nov 2026 16:50:19 GMT",
-      "last_checked": "2026-11-04T03:30:23.890105+06:00",
+      "etag": "W/\"29d07c4613704488f076aa993766a6f8\"",
+      "last_modified": "Wed, 04 Nov 2026 04:16:30 GMT",
+      "last_checked": "2026-11-04T13:15:00.039261+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-04T03:30:24.081696+06:00",
+      "last_checked": "2026-11-04T13:15:00.214211+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-04T03:30:24.247170+06:00",
-      "fail_count": 145,
+      "last_checked": "2026-11-04T13:15:00.328432+06:00",
+      "fail_count": 146,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"68cac4c432f9d9bf75262572c77ae476\"",
       "last_modified": "Tue, 03 Nov 2026 08:09:23 GMT",
-      "last_checked": "2026-11-04T03:30:24.365753+06:00",
+      "last_checked": "2026-11-04T13:15:00.564229+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "ign.com/articles/costco-reveals-its-full-black-friday-ad-and-sale-dates-for-2026": {
-      "title": "Costco Reveals Its Full Black Friday Ad and Sale Dates for 2026",
-      "url": "https://www.ign.com/articles/costco-reveals-its-full-black-friday-ad-and-sale-dates-for-2026",
-      "canonical": "ign.com/articles/costco-reveals-its-full-black-friday-ad-and-sale-dates-for-2026",
-      "published_dt": "2026-10-31T10:51:13+06:00",
-      "published_date": "2026-10-31T10:51:13+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "",
-      "image": "https://assets-prd.ignimgs.com/2023/10/24/costco-black-friday-1698188768103.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-31T12:45:50.494394+06:00",
-      "last_seen": "2026-10-31T12:45:50.494401+06:00"
-    },
-    "gematsu.com/2026/10/final-fantasy-xiv-evercold-expansion-delayed-to-february-23-2027": {
-      "title": "Final Fantasy XIV: Evercold expansion delayed to February 23, 2027",
-      "url": "https://www.gematsu.com/2026/10/final-fantasy-xiv-evercold-expansion-delayed-to-february-23-2027",
-      "canonical": "gematsu.com/2026/10/final-fantasy-xiv-evercold-expansion-delayed-to-february-23-2027",
-      "published_dt": "2026-10-31T10:25:20+06:00",
-      "published_date": "2026-10-31T10:25:20+06:00",
-      "source": "Gematsu",
-      "region": "Gaming",
-      "excerpt": "Final Fantasy XIV: Evercold, the patch 8.0 expansion for Final Fantasy XIV, will launch on …",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-10-31T12:45:51.797450+06:00",
-      "last_seen": "2026-10-31T12:45:51.797457+06:00",
-      "posted_at": "2026-10-31T12:47:03.622793+06:00"
-    },
-    "gematsu.com/2026/10/silver-palace-launches-december-14": {
-      "title": "Silver Palace launches December 14",
-      "url": "https://www.gematsu.com/2026/10/silver-palace-launches-december-14",
-      "canonical": "gematsu.com/2026/10/silver-palace-launches-december-14",
-      "published_dt": "2026-10-31T10:15:39+06:00",
-      "published_date": "2026-10-31T10:15:39+06:00",
-      "source": "Gematsu",
-      "region": "Gaming",
-      "excerpt": "Free-to-play open-world action adventure RPG Silver Palace will launch for PlayStation 5, PC via client …",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-31T12:45:51.797618+06:00",
-      "last_seen": "2026-10-31T12:45:51.797623+06:00"
-    },
-    "polygon.com/new-xbox-games-november-2026": {
-      "title": "5 Must-Play New Xbox Games Coming in November, Including GTA 6",
-      "url": "https://www.polygon.com/new-xbox-games-november-2026/",
-      "canonical": "polygon.com/new-xbox-games-november-2026",
-      "published_dt": "2026-10-31T10:00:18+06:00",
-      "published_date": "2026-10-31T10:00:18+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Xbox Series X is getting a lot of hidden gems in November, alongside Grand Theft Auto 6.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/grassrivers_06.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-31T12:45:52.314268+06:00",
-      "last_seen": "2026-10-31T12:45:52.314274+06:00"
-    },
-    "insider-gaming.com/algs-split-2-playoffs-groups-results-the-bracket-stage-is-set": {
-      "title": "ALGS Split 2 Playoffs Groups Results: The Bracket Stage is Set",
-      "url": "https://insider-gaming.com/algs-split-2-playoffs-groups-results-the-bracket-stage-is-set/",
-      "canonical": "insider-gaming.com/algs-split-2-playoffs-groups-results-the-bracket-stage-is-set",
-      "published_dt": "2026-10-31T12:16:47+06:00",
-      "published_date": "2026-10-31T12:16:47+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "The Group Stage of the ALGS Split 2 Playoffs has concluded with dark horses DINOS leading the pack heading into the Bracket Stage The post ALGS Split 2 Playoffs Groups Results: The Bracket Stage is Set appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-31T12:45:53.678438+06:00",
-      "last_seen": "2026-10-31T12:45:53.678444+06:00"
-    },
-    "nintendolife.com/news/2026/10/its-absolutely-still-in-progress-yacht-club-shares-an-update-about-mina-the-hollowers-physical-release": {
-      "title": "\"It's Absolutely Still In Progress\" - Yacht Club Shares An Update About Mina The Hollower's Physical Release",
-      "url": "https://www.nintendolife.com/news/2026/10/its-absolutely-still-in-progress-yacht-club-shares-an-update-about-mina-the-hollowers-physical-release",
-      "canonical": "nintendolife.com/news/2026/10/its-absolutely-still-in-progress-yacht-club-shares-an-update-about-mina-the-hollowers-physical-release",
-      "published_dt": "2026-10-31T11:55:00+06:00",
-      "published_date": "2026-10-31T11:55:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "The team is also working on \"more post-release features\". Mina The Hollower has been digitally available for Switch 1 & 2 since May, and if you're wondering about the status of the physical edition, you're not alone. During a chat with the Switch community on Reddit this week , developer Yacht Club Games has reassured fans it's \"still planned\". Company founder Sean Velasco says the team is still working on finding the right publishing and distribution partner: Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/f772af6752104/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-31T12:45:54.043331+06:00",
-      "last_seen": "2026-10-31T12:45:54.043339+06:00"
-    },
-    "nintendolife.com/news/2026/10/final-fantasy-xiv-onlines-sixth-expansion-evercold-launches-february-2027": {
-      "title": "Final Fantasy XIV Online's Sixth Expansion 'Evercold' Launches February 2027",
-      "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-xiv-onlines-sixth-expansion-evercold-launches-february-2027",
-      "canonical": "nintendolife.com/news/2026/10/final-fantasy-xiv-onlines-sixth-expansion-evercold-launches-february-2027",
-      "published_dt": "2026-10-31T09:55:00+06:00",
-      "published_date": "2026-10-31T09:55:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "New job and much more revealed. Now that the MMORPG Final Fantasy XIV Online is available on the Switch 2, Square Enix is looking towards the game's sixth expansion, Evercold . We previously heard how it would be coming in January 2027, and now at the Final Fantasy XIV Fan Fest in Tokyo this weekend, Square Enix has announced the date has been shifted to 23rd February 2027 . Pre-orders will begin on 4th November 2026 , with early access opening on 19th February 2027 . Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/b8ab9102b2c84/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-10-31T12:45:54.043868+06:00",
-      "last_seen": "2026-10-31T12:45:54.043873+06:00"
-    },
     "ign.com/articles/aliens-bigfoots-and-monsters-remembering-the-age-of-the-weirdumentary": {
       "title": "Aliens, Bigfoots, and Monsters… Remembering the Age of the Weirdumentary",
       "url": "https://www.ign.com/articles/aliens-bigfoots-and-monsters-remembering-the-age-of-the-weirdumentary",
@@ -2758,55 +2645,107 @@
       "status": "pending",
       "first_seen": "2026-11-04T03:30:23.926903+06:00",
       "last_seen": "2026-11-04T03:30:23.926905+06:00"
+    },
+    "ign.com/articles/talix-20000mah-190w-power-bank-deal-november-2026": {
+      "title": "The Talix 20,000mAh Power Bank With 190W of Total Power Output Drops to $29.99 Ahead of Black Friday",
+      "url": "https://www.ign.com/articles/talix-20000mah-190w-power-bank-deal-november-2026",
+      "canonical": "ign.com/articles/talix-20000mah-190w-power-bank-deal-november-2026",
+      "published_dt": "2026-11-04T11:00:00+06:00",
+      "published_date": "2026-11-04T11:00:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Can fast charge the 2026 Apple MacBook Pro 16\" M5, Xbox Ally X20, Lenovo Legion Go, and more.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/04/talixpowerbankwhite-1793750581935.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-04T13:14:56.065486+06:00",
+      "last_seen": "2026-11-04T13:14:56.065492+06:00"
+    },
+    "insider-gaming.com/arc-raiders-ceo-admits-both-pve-and-pvp-cater": {
+      "title": "ARC Raiders CEO Admits Both PvE and PvP Need To Be Catered For",
+      "url": "https://insider-gaming.com/arc-raiders-ceo-admits-both-pve-and-pvp-cater/",
+      "canonical": "insider-gaming.com/arc-raiders-ceo-admits-both-pve-and-pvp-cater",
+      "published_dt": "2026-11-04T13:02:33+06:00",
+      "published_date": "2026-11-04T13:02:33+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Patrick Soderlund, CEO of Embark Studios, has admitted that PvE should be catered for in ARC Raiders, all these months later. The post ARC Raiders CEO Admits Both PvE and PvP Need To Be Catered For appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-04T13:14:58.745547+06:00",
+      "last_seen": "2026-11-04T13:14:58.745552+06:00"
+    },
+    "insider-gaming.com/nyt-strands-hints-answers-november-4-2026": {
+      "title": "NYT Strands Hints and Answers for Game #976 on November 4, 2026",
+      "url": "https://insider-gaming.com/nyt-strands-hints-answers-november-4-2026/",
+      "canonical": "insider-gaming.com/nyt-strands-hints-answers-november-4-2026",
+      "published_dt": "2026-11-04T11:53:34+06:00",
+      "published_date": "2026-11-04T11:53:34+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Stuck on NYT Strands #976? Use these November 4 hints to solve the workplace-themed puzzle and reveal its spangram and five answers. The post NYT Strands Hints and Answers for Game #976 on November 4, 2026 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-04T13:14:58.745887+06:00",
+      "last_seen": "2026-11-04T13:14:58.745893+06:00"
+    },
+    "nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-on-switch-2-has-been-updated": {
+      "title": "The Legend Of Zelda: Ocarina Of Time On Switch 2 Has Been Updated",
+      "url": "https://www.nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-on-switch-2-has-been-updated",
+      "canonical": "nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-on-switch-2-has-been-updated",
+      "published_dt": "2026-11-04T11:55:00+06:00",
+      "published_date": "2026-11-04T11:55:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Version 1.1.1 is now live. Some parts of the world are now just hours away from the launch of Zelda: Ocarina of Time remake for Switch 2, and ahead of this, Nintendo has rolled out a new game update. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/7cb213a589318/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-04T13:14:59.017822+06:00",
+      "last_seen": "2026-11-04T13:14:59.017829+06:00"
+    },
+    "siliconera.com/goddess-of-victory-nikke-pc-launcher-tampered-with-by-third-party": {
+      "title": "Goddess of Victory: NIKKE PC Launcher Tampered With by Third Party",
+      "url": "https://www.siliconera.com/goddess-of-victory-nikke-pc-launcher-tampered-with-by-third-party/",
+      "canonical": "siliconera.com/goddess-of-victory-nikke-pc-launcher-tampered-with-by-third-party",
+      "published_dt": "2026-11-04T10:30:00+06:00",
+      "published_date": "2026-11-04T10:30:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "If you play Goddess of Victory: NIKKE using the PC launcher, check to see if your computer is infected by a stealer agent.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-04T13:15:00.080413+06:00",
+      "last_seen": "2026-11-04T13:15:00.080418+06:00",
+      "posted_at": "2026-11-04T13:23:26.315884+06:00"
+    },
+    "escapistmagazine.com/the-elder-scrolls-vi-is-titled-sentinel-with-a-hammerfell-setting-but-no-release-date": {
+      "title": "The Elder Scrolls VI is titled Sentinel, with a Hammerfell setting but no release date - The Escapist",
+      "url": "https://www.escapistmagazine.com/the-elder-scrolls-vi-is-titled-sentinel-with-a-hammerfell-setting-but-no-release-date/",
+      "canonical": "escapistmagazine.com/the-elder-scrolls-vi-is-titled-sentinel-with-a-hammerfell-setting-but-no-release-date",
+      "published_dt": "2026-11-04T12:13:14+06:00",
+      "published_date": "2026-11-04T12:13:14+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "posted",
+      "first_seen": "2026-11-04T13:15:07.000168+06:00",
+      "last_seen": "2026-11-04T13:15:07.000172+06:00",
+      "posted_at": "2026-11-04T13:23:19.053970+06:00"
     }
   },
   "events": {
-    "evt_d590d2003c50e4": {
-      "event_id": "evt_d590d2003c50e4",
-      "event_key": "the new denpa men service end shutdown confirmed article the new denpa men bandai namco",
-      "event_subject": "The New Denpa Men",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "the new denpa men service end shutdown confirmed article the new denpa men bandai namco",
-        "subject": "The New Denpa Men",
-        "event_type": "other",
-        "action": "shutdown",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "The New Denpa Men",
-        "franchise": "The New Denpa Men",
-        "institution": "Bandai Namco",
-        "target": "",
-        "platforms": [],
-        "topic": "mobile"
-      },
-      "sources": [
-        "Gematsu"
-      ],
-      "event_sources": [
-        "Gematsu"
-      ],
-      "claims": [],
-      "importance_score": 39,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 5,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "The New Denpa Men to End Service on December 6",
-      "summary": "Free‑to‑play RPG The New Denpa Men will shut down on December 6, ending all in‑game purchases and data access for players.",
-      "published_at": "2026-10-05T09:38:21+06:00",
-      "selected_at": "2026-10-05T06:37:58.966032+00:00",
-      "status": "published",
-      "message_id": 570,
-      "published_versions": [
-        {
-          "published_at": "2026-10-05T06:37:58.966032+00:00",
-          "headline": "The New Denpa Men to End Service on December 6",
-          "claims": []
-        }
-      ]
-    },
     "evt_10afc6850ee1ae": {
       "event_id": "evt_10afc6850ee1ae",
       "event_key": "resident evil remake plan commentary",
@@ -19767,6 +19706,112 @@
           "headline": "Bethesda Says The Elder Scrolls VI: Sentinel Still Years Away",
           "claims": [
             "Game still a long way off; Bethesda says more time needed before sharing details"
+          ]
+        }
+      ]
+    },
+    "evt_7587a180812893": {
+      "event_id": "evt_7587a180812893",
+      "event_key": "the elder scrolls vi title sentinel",
+      "event_subject": "The Elder Scrolls VI",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "the elder scrolls vi title sentinel",
+        "subject": "The Elder Scrolls VI",
+        "event_type": "other",
+        "action": "announced title and setting",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "The Elder Scrolls VI",
+        "franchise": "The Elder Scrolls",
+        "institution": "Bethesda Game Studios",
+        "target": "fans",
+        "platforms": [
+          "PC",
+          "PlayStation",
+          "Xbox"
+        ],
+        "topic": "game announcement"
+      },
+      "sources": [
+        "The Escapist"
+      ],
+      "event_sources": [
+        "The Escapist"
+      ],
+      "claims": [
+        "Title is Sentinel, set in Hammerfell, no release date"
+      ],
+      "importance_score": 46,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 20,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Bethesda Reveals Elder Scrolls VI Title “Sentinel” with Hammerfell Setting",
+      "summary": "Bethesda Game Studios announced the official name Sentinel for The Elder Scrolls VI, confirming a Hammerfell backdrop but offering no release date.",
+      "published_at": "2026-11-04T12:13:14+06:00",
+      "selected_at": "2026-11-04T07:23:19.054006+00:00",
+      "status": "published",
+      "message_id": 930,
+      "published_versions": [
+        {
+          "published_at": "2026-11-04T07:23:19.054006+00:00",
+          "headline": "Bethesda Reveals Elder Scrolls VI Title “Sentinel” with Hammerfell Setting",
+          "claims": [
+            "Title is Sentinel, set in Hammerfell, no release date"
+          ]
+        }
+      ]
+    },
+    "evt_1f1f2bd323a918": {
+      "event_id": "evt_1f1f2bd323a918",
+      "event_key": "goddess of victory nikke security launcher tampering",
+      "event_subject": "Goddess of Victory: NIKKE",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "goddess of victory nikke security launcher tampering",
+        "subject": "Goddess of Victory: NIKKE",
+        "event_type": "other",
+        "action": "reported third‑party tampering of PC launcher",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Goddess of Victory: NIKKE",
+        "franchise": "NIKKE",
+        "institution": "Siliconera",
+        "target": "PC players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "cybersecurity"
+      },
+      "sources": [
+        "Siliconera"
+      ],
+      "event_sources": [
+        "Siliconera"
+      ],
+      "claims": [
+        "PC launcher may be infected by a stealer agent"
+      ],
+      "importance_score": 38,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Goddess of Victory: NIKKE PC Launcher Compromised by Third Party",
+      "summary": "A third‑party tampered the Goddess of Victory: NIKKE PC launcher, exposing players to a stealer agent that can harvest passwords, payment data and crypto wallets.",
+      "published_at": "2026-11-04T10:30:00+06:00",
+      "selected_at": "2026-11-04T07:23:26.315919+00:00",
+      "status": "published",
+      "message_id": 931,
+      "published_versions": [
+        {
+          "published_at": "2026-11-04T07:23:26.315919+00:00",
+          "headline": "Goddess of Victory: NIKKE PC Launcher Compromised by Third Party",
+          "claims": [
+            "PC launcher may be infected by a stealer agent"
           ]
         }
       ]
@@ -200888,11 +200933,267 @@
         "total": 28
       },
       "last_seen": "2026-11-04T03:33:25.615929+06:00"
+    },
+    "evt_7587a180812893": {
+      "event_id": "evt_7587a180812893",
+      "event_key": "the elder scrolls vi title sentinel",
+      "event_subject": "The Elder Scrolls VI",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "the elder scrolls vi title sentinel",
+        "subject": "The Elder Scrolls VI",
+        "event_type": "other",
+        "action": "announced title and setting",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "The Elder Scrolls VI",
+        "franchise": "The Elder Scrolls",
+        "institution": "Bethesda Game Studios",
+        "target": "fans",
+        "platforms": [
+          "PC",
+          "PlayStation",
+          "Xbox"
+        ],
+        "topic": "game announcement"
+      },
+      "modality": "unknown",
+      "topic": "game announcement",
+      "institution": "Bethesda Game Studios",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Title is Sentinel, set in Hammerfell, no release date"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 46
+      },
+      "last_seen": "2026-11-04T13:18:19.167396+06:00"
+    },
+    "evt_1f1f2bd323a918": {
+      "event_id": "evt_1f1f2bd323a918",
+      "event_key": "goddess of victory nikke security launcher tampering",
+      "event_subject": "Goddess of Victory: NIKKE",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "goddess of victory nikke security launcher tampering",
+        "subject": "Goddess of Victory: NIKKE",
+        "event_type": "other",
+        "action": "reported third‑party tampering of PC launcher",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Goddess of Victory: NIKKE",
+        "franchise": "NIKKE",
+        "institution": "Siliconera",
+        "target": "PC players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "cybersecurity"
+      },
+      "modality": "unknown",
+      "topic": "cybersecurity",
+      "institution": "Siliconera",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "PC launcher may be infected by a stealer agent"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 38
+      },
+      "last_seen": "2026-11-04T13:18:19.167418+06:00"
+    },
+    "evt_1b103578e42a71": {
+      "event_id": "evt_1b103578e42a71",
+      "event_key": "arc raiders design pve pvp statement",
+      "event_subject": "ARC Raiders",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "arc raiders design pve pvp statement",
+        "subject": "ARC Raiders",
+        "event_type": "other",
+        "action": "CEO admission",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "ARC Raiders",
+        "franchise": "ARC Raiders",
+        "institution": "Embark Studios",
+        "target": "players (PvE and PvP)",
+        "platforms": [
+          "PC",
+          "PlayStation",
+          "Xbox"
+        ],
+        "topic": "game development"
+      },
+      "modality": "unknown",
+      "topic": "game development",
+      "institution": "Embark Studios",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Both PvE and PvP need to be catered for"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-11-04T13:18:19.167427+06:00"
+    },
+    "evt_fc4eaa0a47cb50": {
+      "event_id": "evt_fc4eaa0a47cb50",
+      "event_key": "zelda ocarina of time remake patch v1 1 1",
+      "event_subject": "The Legend of Zelda: Ocarina of Time Remake",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "zelda ocarina of time remake patch v1 1 1",
+        "subject": "The Legend of Zelda: Ocarina of Time Remake",
+        "event_type": "other",
+        "action": "released patch version 1.1.1",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time Remake",
+        "franchise": "The Legend of Zelda",
+        "institution": "Nintendo",
+        "target": "players",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "game update"
+      },
+      "modality": "unknown",
+      "topic": "game update",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Version 1.1.1 is now live"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-11-04T13:18:19.167434+06:00"
+    },
+    "evt_4bcf466f0d33d9": {
+      "event_id": "evt_4bcf466f0d33d9",
+      "event_key": "nyt strands puzzle hint 976",
+      "event_subject": "NYT Strands Puzzle #976",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nyt strands puzzle hint 976",
+        "subject": "NYT Strands Puzzle #976",
+        "event_type": "other",
+        "action": "provided hints and answers",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "The New York Times",
+        "target": "puzzle solvers",
+        "platforms": [],
+        "topic": "puzzle solving"
+      },
+      "modality": "unknown",
+      "topic": "puzzle solving",
+      "institution": "The New York Times",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Hints and answers for Game #976 on November 4, 2026"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 34
+      },
+      "last_seen": "2026-11-04T13:18:19.167441+06:00"
+    },
+    "evt_675f59ef63be4e": {
+      "event_id": "evt_675f59ef63be4e",
+      "event_key": "talix 20 000mah power bank price drop black friday",
+      "event_subject": "Talix 20,000mAh Power Bank",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "talix 20 000mah power bank price drop black friday",
+        "subject": "Talix 20,000mAh Power Bank",
+        "event_type": "other",
+        "action": "price reduced to $29.99",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Talix",
+        "target": "consumers",
+        "platforms": [],
+        "topic": "consumer electronics"
+      },
+      "modality": "unknown",
+      "topic": "consumer electronics",
+      "institution": "Talix",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Drops to $29.99 ahead of Black Friday"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-11-04T13:18:19.167447+06:00"
     }
   },
   "posted_event_ids": [
-    "evt_2a4cd6a71d3618",
-    "evt_22cd9c55797d05",
     "evt_5787c25bfb4a29",
     "evt_95ec78d0e26aa8",
     "evt_ae41cc320e0f31",
@@ -201390,11 +201691,11 @@
     "evt_942a79c304f09a",
     "evt_dc208172b58a39",
     "evt_b8fb6c7b6b6838",
-    "evt_7be8ec73c78c9d"
+    "evt_7be8ec73c78c9d",
+    "evt_7587a180812893",
+    "evt_1f1f2bd323a918"
   ],
   "recent_titles": [
-    "armed fantasia cancelled after 3 million kickstarter funding",
-    "cd projekt red rewrites phantom liberty s final choice to boost narrative impact",
     "god of war laufey pre order bonuses and digital deluxe edition unveiled",
     "xbox streamlines after cutting over 5 750 jobs in three years",
     "minecraft dungeons 2 receives strong reviews beats original metacritic scores",
@@ -201794,17 +202095,19 @@
     "mihoyo announces petit planet for switch 2 launching in 2027",
     "resident evil hits digital platforms after 400 million box office run",
     "ubisoft bids to acquire dishonored studio arkane lyon from xbox",
-    "bethesda says the elder scrolls vi sentinel still years away"
+    "bethesda says the elder scrolls vi sentinel still years away",
+    "bethesda reveals elder scrolls vi title sentinel with hammerfell setting",
+    "goddess of victory nikke pc launcher compromised by third party"
   ],
   "category_coverage": {
-    "Game Updates": "2026-11-04T03:37:33.644497+06:00",
+    "Game Updates": "2026-11-04T13:23:19.054036+06:00",
     "Major Releases": "2026-11-01T20:50:31.055973+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
     "Nintendo": "2026-09-09T21:29:41.864902+06:00",
     "Expansions and DLC": "2026-10-31T12:47:03.622858+06:00",
     "Gaming Hardware": "2026-10-30T20:08:35.772801+06:00",
-    "Cybersecurity": "2026-10-27T18:03:27.798219+06:00",
+    "Cybersecurity": "2026-11-04T13:23:26.315950+06:00",
     "Pricing and Monetization": "2026-10-22T17:23:26.069489+06:00",
     "Anti-Cheat": "2026-10-21T02:06:25.030099+06:00",
     "Cancellations": "2026-10-28T00:01:30.660228+06:00",
