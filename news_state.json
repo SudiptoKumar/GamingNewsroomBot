@@ -2,224 +2,143 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1ea3f-vC8j2FCfSmwvJ7NN9NweHJM34IY\"",
+      "etag": "W/\"1fca4-6vPU2MeDRCQwXc/C5L1Kmdr7enI\"",
       "last_modified": null,
-      "last_checked": "2026-11-05T03:46:31.712177+06:00",
+      "last_checked": "2026-11-05T13:43:09.938269+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-05T03:46:31.966131+06:00",
+      "last_checked": "2026-11-05T13:43:10.238939+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aeba77d-a85\"",
-      "last_modified": "Wed, 04 Nov 2026 21:45:33 GMT",
-      "last_checked": "2026-11-05T03:46:32.279035+06:00",
+      "etag": "\"6aec32f1-a2c\"",
+      "last_modified": "Thu, 05 Nov 2026 07:40:33 GMT",
+      "last_checked": "2026-11-05T13:43:10.504190+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Wed, 04 Nov 2026 20:33:10 GMT",
-      "last_checked": "2026-11-05T03:46:32.917209+06:00",
+      "last_checked": "2026-11-05T13:43:10.696294+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "W/\"7ae58b5432e5d37523104041ae8f878b\"",
-      "last_modified": "Wed, 04 Nov 2026 20:14:50 GMT",
-      "last_checked": "2026-11-05T03:46:33.277901+06:00",
+      "etag": "W/\"a2aac49005af23242d674085d7741e8a\"",
+      "last_modified": "Thu, 05 Nov 2026 06:57:53 GMT",
+      "last_checked": "2026-11-05T13:43:10.962723+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-05T03:46:33.692402+06:00",
+      "last_checked": "2026-11-05T13:43:11.329266+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-05T03:46:34.563791+06:00",
+      "last_checked": "2026-11-05T13:43:11.977104+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"0d9dca29a29ccd7efd3325024b5558fb\"",
-      "last_modified": "Wed, 04 Nov 2026 21:37:34 GMT",
-      "last_checked": "2026-11-05T03:46:34.828656+06:00",
+      "etag": "W/\"c639a13f99afdc05dbee6735ed8bbe41\"",
+      "last_modified": "Thu, 05 Nov 2026 07:42:23 GMT",
+      "last_checked": "2026-11-05T13:43:12.097692+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-05T03:46:35.192278+06:00",
+      "last_checked": "2026-11-05T13:43:12.269472+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Wed, 4 Nov 2026 19:30:15 GMT",
-      "last_checked": "2026-11-05T03:46:35.581629+06:00",
+      "last_checked": "2026-11-05T13:43:12.628488+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Wed, 04 Nov 2026 21:46:36 GMT",
-      "last_checked": "2026-11-05T03:46:36.348708+06:00",
+      "last_modified": "Thu, 05 Nov 2026 07:43:13 GMT",
+      "last_checked": "2026-11-05T13:43:13.128322+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"40f14e6e331e615ce76fae166d3c05ae\"",
-      "last_modified": "Wed, 04 Nov 2026 21:19:11 GMT",
-      "last_checked": "2026-11-05T03:46:36.962435+06:00",
+      "etag": "W/\"230535009a6e2158f1c0fb6ac6bf17b5\"",
+      "last_modified": "Thu, 05 Nov 2026 07:39:15 GMT",
+      "last_checked": "2026-11-05T13:43:13.278791+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-05T03:46:37.507808+06:00",
+      "last_checked": "2026-11-05T13:43:13.799940+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-05T03:46:38.076795+06:00",
+      "last_checked": "2026-11-05T13:43:14.292229+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-05T03:46:38.629146+06:00",
+      "last_checked": "2026-11-05T13:43:14.814423+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-05T03:46:38.990604+06:00",
-      "fail_count": 148,
+      "last_checked": "2026-11-05T13:43:15.060523+06:00",
+      "fail_count": 149,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"f53c63ac07f9e58d0c59beb634375930\"",
-      "last_modified": "Wed, 04 Nov 2026 17:04:45 GMT",
-      "last_checked": "2026-11-05T03:46:39.149567+06:00",
+      "etag": "W/\"0717a19820ee0c8ab90dc5b5f8b28515\"",
+      "last_modified": "Thu, 05 Nov 2026 04:48:39 GMT",
+      "last_checked": "2026-11-05T13:43:15.207316+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-05T03:46:39.339498+06:00",
+      "last_checked": "2026-11-05T13:43:15.404395+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-05T03:46:39.565370+06:00",
-      "fail_count": 148,
+      "last_checked": "2026-11-05T13:43:15.610097+06:00",
+      "fail_count": 149,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"97f589a36d61ba30568b7fffa841db19\"",
-      "last_modified": "Wed, 04 Nov 2026 06:13:14 GMT",
-      "last_checked": "2026-11-05T03:46:39.881748+06:00",
+      "etag": "W/\"b4fe6ae2e5d9dacf0178155266d53d12\"",
+      "last_modified": "Thu, 05 Nov 2026 06:13:13 GMT",
+      "last_checked": "2026-11-05T13:43:15.816270+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "polygon.com/jon-bernthal-punisher-action-masterpiece-marvel-disney-plus": {
-      "title": "9 Years Later, Jon Bernthal’s Action Series Is a Masterpiece From Start to Finish",
-      "url": "https://www.polygon.com/jon-bernthal-punisher-action-masterpiece-marvel-disney-plus/",
-      "canonical": "polygon.com/jon-bernthal-punisher-action-masterpiece-marvel-disney-plus",
-      "published_dt": "2026-11-01T11:30:17+06:00",
-      "published_date": "2026-11-01T11:30:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "One batch, two batch, penny and dime",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/jon-bernthal-punisher-born-again.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-01T13:08:28.894832+06:00",
-      "last_seen": "2026-11-01T13:08:28.894835+06:00"
-    },
-    "polygon.com/ridley-scott-blade-runner-final-cut-streaming-november-2026": {
-      "title": "Ridley Scott's Near-Perfect Sci-Fi Masterpiece is Waiting to Be Rediscovered on Streaming",
-      "url": "https://www.polygon.com/ridley-scott-blade-runner-final-cut-streaming-november-2026/",
-      "canonical": "polygon.com/ridley-scott-blade-runner-final-cut-streaming-november-2026",
-      "published_dt": "2026-11-01T10:26:17+06:00",
-      "published_date": "2026-11-01T10:26:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "One of the best films in Ridley Scott's filmography and a key entry into the sci-fi canon",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/blade-runner-3.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-01T13:08:28.894925+06:00",
-      "last_seen": "2026-11-01T13:08:28.894926+06:00"
-    },
-    "insider-gaming.com/algs-split-2-playoffs-final-teams-set-unlimit-eliminated": {
-      "title": "ALGS Split 2 Playoffs Final Set After Brutally Close Winner’s Bracket",
-      "url": "https://insider-gaming.com/algs-split-2-playoffs-final-teams-set-unlimit-eliminated/",
-      "canonical": "insider-gaming.com/algs-split-2-playoffs-final-teams-set-unlimit-eliminated",
-      "published_dt": "2026-11-01T11:15:11+06:00",
-      "published_date": "2026-11-01T11:15:11+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "The ALGS Split 2 Playoffs has its final 20 teams after a brutal three-way tie in Winners and the elimination of Split 1 Champions UNLIMIT The post ALGS Split 2 Playoffs Final Set After Brutally Close Winner’s Bracket appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-11-01T13:08:30.391222+06:00",
-      "last_seen": "2026-11-01T13:08:30.391226+06:00",
-      "posted_at": "2026-11-01T13:12:41.221443+06:00"
-    },
-    "nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts": {
-      "title": "Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts",
-      "url": "https://www.nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts",
-      "canonical": "nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts",
-      "published_dt": "2026-11-01T11:45:00+06:00",
-      "published_date": "2026-11-01T11:45:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Happy Pikmin Day! Nintendo surprised us with a Pikmin -themed Direct this weekend, announcing Pikmin Day! If you haven't already watched the video, here's everything from the broadcast: Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/95bbae1942c49/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-01T13:08:30.822293+06:00",
-      "last_seen": "2026-11-01T13:08:30.822297+06:00"
-    },
-    "escapistmagazine.com/ubisoft-rules-out-more-assassins-creed-remakes-despite-black-flag-resynceds-hot-start": {
-      "title": "Ubisoft Rules Out More Assassin’s Creed Remakes Despite Black Flag Resynced’s Hot Start",
-      "url": "https://www.escapistmagazine.com/ubisoft-rules-out-more-assassins-creed-remakes-despite-black-flag-resynceds-hot-start/",
-      "canonical": "escapistmagazine.com/ubisoft-rules-out-more-assassins-creed-remakes-despite-black-flag-resynceds-hot-start",
-      "published_dt": "2026-11-01T12:13:13+06:00",
-      "published_date": "2026-11-01T12:13:13+06:00",
-      "source": "The Escapist",
-      "region": "Gaming",
-      "excerpt": "Ubisoft has no other Assassin's Creed remake in active development, even after Black Flag Resynced beat its annual sales expectations within 14 days. Fans waiting on Codename Hexe face a long wait too, with its next major update set for 2027. The post Ubisoft Rules Out More Assassin’s Creed Remakes Despite Black Flag Resynced’s Hot Start appeared first on The Escapist .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-01T13:08:32.756770+06:00",
-      "last_seen": "2026-11-01T13:08:32.756775+06:00"
-    },
     "ign.com/articles/everyone-is-running-a-con-in-you-can-see-everything": {
       "title": "Everyone Is Running a Con in You Can See Everything",
       "url": "https://www.ign.com/articles/everyone-is-running-a-con-in-you-can-see-everything",
@@ -781,7 +700,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-11-03T13:34:54.662163+06:00",
-      "last_seen": "2026-11-03T13:34:54.662169+06:00"
+      "last_seen": "2026-11-05T13:43:13.285484+06:00"
     },
     "insider-gaming.com/gta-6-ultimate-edition-is-it-worth-paying-more": {
       "title": "GTA 6 Ultimate Edition: Is It Worth Paying More?",
@@ -2855,7 +2774,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-11-04T21:57:46.832291+06:00",
-      "last_seen": "2026-11-04T21:57:46.832296+06:00"
+      "last_seen": "2026-11-05T13:43:13.285608+06:00"
     },
     "insider-gaming.com/best-games-to-play-while-we-wait-for-gta-6": {
       "title": "Best Games To Play While We Wait for GTA 6",
@@ -2871,7 +2790,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-11-04T21:57:46.832576+06:00",
-      "last_seen": "2026-11-04T21:57:46.832581+06:00"
+      "last_seen": "2026-11-05T13:43:13.284934+06:00"
     },
     "nintendolife.com/news/2026/11/kirby-air-riders-cancelled-halloween-event-gets-a-returning-replacement": {
       "title": "Kirby Air Riders' Cancelled Halloween Event Gets A Returning Replacement",
@@ -4000,111 +3919,553 @@
       "status": "pending",
       "first_seen": "2026-11-05T03:46:49.783386+06:00",
       "last_seen": "2026-11-05T03:46:49.783387+06:00"
+    },
+    "ign.com/articles/adam-driver-confirms-his-role-in-heat-2-comments-on-recent-michael-mann-shooting": {
+      "title": "Adam Driver Confirms His Role in Heat 2, Comments on Recent Michael Mann Shooting",
+      "url": "https://www.ign.com/articles/adam-driver-confirms-his-role-in-heat-2-comments-on-recent-michael-mann-shooting",
+      "canonical": "ign.com/articles/adam-driver-confirms-his-role-in-heat-2-comments-on-recent-michael-mann-shooting",
+      "published_dt": "2026-11-05T12:21:02+06:00",
+      "published_date": "2026-11-05T12:21:02+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Adam Driver Confirms His Role in Heat 2, Comments on Recent Michael Mann Shooting",
+      "image": "https://assets-prd.ignimgs.com/2026/11/05/driverheat-1793859649714.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:09.979814+06:00",
+      "last_seen": "2026-11-05T13:43:09.979819+06:00"
+    },
+    "gamespot.com/articles/zelda-ocarina-of-times-npcs-stay-busy-all-night-and-sounds-like-that-was-a-pain": {
+      "title": "Zelda: Ocarina Of Time’s NPCs Stay Busy All Night, And Sounds Like That Was A Pain",
+      "url": "https://www.gamespot.com/articles/zelda-ocarina-of-times-npcs-stay-busy-all-night-and-sounds-like-that-was-a-pain/",
+      "canonical": "gamespot.com/articles/zelda-ocarina-of-times-npcs-stay-busy-all-night-and-sounds-like-that-was-a-pain",
+      "published_dt": "2026-11-05T11:00:00+06:00",
+      "published_date": "2026-11-05T11:00:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "The Legend of Zelda: Ocarina of Time for Switch 2 is a mostly faithful remake, but it does introduce some new features and bells and whistles that modernize the experience. Some of those are very noticeable, like the addition of a jump button, while others are more subtle. One such subtle change is the new full-day passage of time inside Hyrule Castle Town, which also means NPCs need something to do all night. And according to producer Hidemaro Fujibayashi, that meant a ton of extra work, especially for him. \"I reviewed every single text of the NPCs,\" Fujibayashi told GameSpot. \"And before, in the original game, each NPC didn't have a strict 24-hour routine, but in this game, they do. The director said, 'We want to have a 24-hour routine for every NPC.' And in my mind, I was like, 'That's going to be a lot of work.' [laughs] And I told them, 'That's going to be a lot of work,' but they said they want to do it. So in my heart, I was like, 'Okay, I guess I'm committed.' \"Because on the one hand, I know it's going to be a lot of work, but I also didn't want to discourage the young staff from coming up with new ideas and taking on new challenges,\" he continued. \"So I had to roll up my sleeves and, on a daily basis, try to check as much of the dialogue as possible, working with the team, discussing what can be tweaked, what can be adjusted. So all of that to say that it was a lot of work.\" The idea of a younger generation coming up with new ideas to modernize Ocarina of Time was a repeated theme during our wide-ranging interview with producers Eiji Aonuma and Hidemaro Fujibayashi, as well as how the more experienced developers would push the younger class to rethink their assumptions. Ocarina of Time is enjoying stellar reviews across the board, including in GameSpot's 9/10 review . Currently it is also the top-rated game of 2026 on GameSpot sister site Metacritic.",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Switch2_ZeldaOoT_MedaiBroll_SCRN_16.png?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:10.253516+06:00",
+      "last_seen": "2026-11-05T13:43:10.253521+06:00"
+    },
+    "gamespot.com/articles/zelda-ocarina-of-time-remake-accidentally-made-redeads-too-scary-at-one-point": {
+      "title": "Zelda: Ocarina Of Time Remake Accidentally Made ReDeads Too Scary At One Point",
+      "url": "https://www.gamespot.com/articles/zelda-ocarina-of-time-remake-accidentally-made-redeads-too-scary-at-one-point/",
+      "canonical": "gamespot.com/articles/zelda-ocarina-of-time-remake-accidentally-made-redeads-too-scary-at-one-point",
+      "published_dt": "2026-11-05T11:00:00+06:00",
+      "published_date": "2026-11-05T11:00:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Every The Legend of Zelda: Ocarina of Time player remembers their first encounter with the ReDeads. The shambling zombie-like enemies occupy Hyrule Castle Town when you emerge from the Temple of Time and immediately freak you out, with a sudden piercing scream that freezes you in place. The new ReDeads work largely the same way, but at one point in development they were made significantly scarier. \"With this remake, the graphics are a lot improved, and so the ReDead--the sound, the graphics, and the movement--ended up being very, very scary,\" producer Hidemaro Fujibayashi told GameSpot via a translator. \"And the staff wanted to make this in service of making a good gameplay experience. But from our perspective, taking a step back, we felt like, let's remember the experience that we don't want to change, and taking that into consideration, maybe we've gone a step too far, so let's dial it back.\" As Fujibayashi and fellow producer Eiji Aonuma mentioned several times in our wide-ranging interview , this project was full of younger staffers who had new ideas for how to modernize the classic, while also learning the ropes of a classic Zelda design. Those young guns may have had a different idea of what constitutes a scary moment in a Zelda game, especially if the already-spooky ReDead were made too spooky. The ReDead have been slightly revised from their original version, with clearer visual indicators to show their gaze and a red vine-like tendril to signify your frozen state. They can still be pretty alarming, but once you understand how to beat them the new indicators make it easier to avoid their attack and strike them from behind. Those careful details are part of why I called this version of Ocarina of Time the \"definitive way to experience this all-time classic\" in my Zelda: Ocarina of Time review , and why it's currently the top-rated game of 2026 on GameSpot sister site Metacritic.",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Switch2_ZeldaOoT_MedaiBroll_SCRN_21.png?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:10.253801+06:00",
+      "last_seen": "2026-11-05T13:43:10.253803+06:00"
+    },
+    "gamespot.com/articles/nintendo-explains-how-it-made-the-zelda-ocarina-of-time-remake-only-it-could-create": {
+      "title": "Nintendo Explains How It Made The Zelda: Ocarina Of Time Remake Only It Could Create",
+      "url": "https://www.gamespot.com/articles/nintendo-explains-how-it-made-the-zelda-ocarina-of-time-remake-only-it-could-create/",
+      "canonical": "gamespot.com/articles/nintendo-explains-how-it-made-the-zelda-ocarina-of-time-remake-only-it-could-create",
+      "published_dt": "2026-11-05T11:00:00+06:00",
+      "published_date": "2026-11-05T11:00:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "The Legend of Zelda: Ocarina of Time is one of Nintendo's most revered games of all time, even by the lofty standards of a company known for making influential, groundbreaking video games. That legacy means extra care and consideration put into remaking the game for modern audiences on the Nintendo Switch 2, with a remake that is receiving a glowing reception both in our GameSpot review and across the industry. It is now the top-ranked game of 2026 on GameSpot sister site Metacritic. It's a titanic achievement, but to hear producers Eiji Aonuma and Hidemaro Fujibayashi, it was also intended as a learning experience for both the new generation, and for themselves. In a wide-ranging interview just hours ahead of the release of the game, the two repeatedly came back to how younger staff, some of whom had never played the original game, were both discovering the craft of classic Zelda design and introducing their own bold new ideas. They talked about what needed to be modernized, and what was important to preserve, in creating what I called \"definitive way to experience this all-time classic.\" The interview below was conducted via interpreters. It has been edited for length and clarity. GameSpot: In your Ask the Developer QA you said you remember the feeling of nervousness and anticipation leading up to the original launch of Ocarina. So I have to ask: How are you feeling today? Eiji Aonuma: How am I feeling today? Well, since we've arrived in New York, we've had these really good opportunities to talk to media. These are folks who, of course, got early copies of the game for the purpose of reviews. And I got to hear about their experiences playing, and some of them talked about being moved to tears while playing, which was amazing for me to hear. And now knowing that with the official release, many more people will be able to play and share their experiences with us. So, yes, I would say that my nerves have calmed quite a bit, and I'm feeling very happy right now. It's",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/125697-125698-nintendo-the-legend-of-zelda-ocarina-of-time-ss-5-1280x720-1.jpeg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:10.265887+06:00",
+      "last_seen": "2026-11-05T13:43:10.265903+06:00"
+    },
+    "gamespot.com/videos/ocarina-of-time-original-vs-remake-comparison": {
+      "title": "Ocarina of Time – Original vs Remake Comparison",
+      "url": "https://www.gamespot.com/videos/ocarina-of-time-original-vs-remake-comparison/",
+      "canonical": "gamespot.com/videos/ocarina-of-time-original-vs-remake-comparison",
+      "published_dt": "2026-11-05T11:00:00+06:00",
+      "published_date": "2026-11-05T11:00:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Enjoy this graphics comparison of the original N64 version of The Legend of Zelda: Ocarina of Time and the brand new Switch 2 remake. This video will cover from the beginning of the game up to getting the Master Sword. Footage of the N64 version is captured from an original NTSC 1.0 cartridge running on an Analogue 3D with de-blur enabled.",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GraphicsComp_OcarinaOfTime_V4.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:10.266091+06:00",
+      "last_seen": "2026-11-05T13:43:10.266092+06:00"
+    },
+    "gamespot.com/articles/how-zelda-ocarina-of-time-benefits-from-a-glaringly-obvious-tactic-that-few-game-devs-follow": {
+      "title": "How Zelda: Ocarina Of Time Benefits From A Glaringly Obvious Tactic That Few Game Devs Follow",
+      "url": "https://www.gamespot.com/articles/how-zelda-ocarina-of-time-benefits-from-a-glaringly-obvious-tactic-that-few-game-devs-follow/",
+      "canonical": "gamespot.com/articles/how-zelda-ocarina-of-time-benefits-from-a-glaringly-obvious-tactic-that-few-game-devs-follow",
+      "published_dt": "2026-11-05T11:00:00+06:00",
+      "published_date": "2026-11-05T11:00:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "The Legend of Zelda: Ocarina of Time has been regarded as one of the best games ever made for nearly 30 years, and its new Switch 2 remake is seeing similar levels of acclaim. Part of the reason for its critical success seems to be its deep understanding of the source material, and that shouldn't be a surprise when considering how well Nintendo has retained staff over the years--something very few other game companies have managed to do. Speaking to GameSpot, longtime Zelda producer Eiji Aonuma acknowledged the benefits of having developers on the team who have been working at Nintendo for decades. \"I think you see a real benefit to having some very long-term-tenured staff members around who have shared the same experiences over time, because every time you get to the next step, it's easier to discuss how to proceed, or if you're going to do something new,\" Aonuma said via an interpreter. \"When you have new staff coming in, of course you want to make sure that you're bringing everyone up with a lot of discussion, explaining how to do things, why you're doing things certain ways, as well as the language that you're using. But that takes some more time, as well. So you need a bit of a balance.\" https://www.youtube.com/watch?v=_xMM7L2XoMc Despite not having everyone move from one Zelda project to the next, enough developers have remained at Nintendo to provide a consistent throughline. \"And so you do see the Zelda team change over time, but there is a continuity of core staff--certainly at least from one project to the next--so that we have that base that we can build from and bring up new staff with it,\" Aonuma added. \"And this is something that I think Nintendo has done for a very long time, even since Miyamoto [was] originally working on projects like this. And it contributes to some of the sense of continuity that you do feel in games in the Zelda franchise, for example.\" \"Continuity\" might not be the first thing you think of when Zelda gets mentioned, but Nintendo",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/125697-125698-nintendo-the-legend-of-zelda-ocarina-of-time-ss-5-1280x720-1.jpeg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:10.266346+06:00",
+      "last_seen": "2026-11-05T13:43:10.266348+06:00"
+    },
+    "gamespot.com/articles/nintendo-wanted-ocarina-of-time-to-feel-better-in-the-remake-not-just-different": {
+      "title": "Nintendo Wanted Ocarina Of Time To Feel Better In The Remake, Not Just Different",
+      "url": "https://www.gamespot.com/articles/nintendo-wanted-ocarina-of-time-to-feel-better-in-the-remake-not-just-different/",
+      "canonical": "gamespot.com/articles/nintendo-wanted-ocarina-of-time-to-feel-better-in-the-remake-not-just-different",
+      "published_dt": "2026-11-05T11:00:00+06:00",
+      "published_date": "2026-11-05T11:00:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Remaking a game like The Legend of Zelda: The Ocarina of Time required Nintendo to nail a fine balance between staying faithful to the original and updating it where it mattered. The Ocarina of Time remake largely sticks to the original's foundations while adding features like a dedicated jump button and updated controls. That was one of several changes, as Nintendo's core design philosophy was to modernize execution and comfort while preserving the original emotional and narrative intent. As Legend of Zelda producer Hidemaro Fujibayashi explained in an interview with GameSpot, early pre-production focused on setting clear boundaries for what would and wouldn't change in the remake. \"One of the first discussions we had leading up to the full-blown development of the title was really clearly establishing what it is we were going to change and what it is that we weren't going to change,\" Fujibayashi said via a translator. \"Starting with the kind of stuff that we wanted to change, was really focused on leveraging the capabilities of the Nintendo Switch 2 hardware because it was going to be developed for that hardware. Leveraging all that capability so that we can remove any stress from the gameplay experience so that people can enjoy the game, fully.\" https://www.youtube.com/watch?v=_xMM7L2XoMc In addition to the changes in the game's controls, Fujibayashi added that the updated graphics also allowed the team to \"provide a lot more information\" to players, and the sound design also got a big upgrade: 5.1-channel surround sound for the background music. To reduce friction, the team concluded that a dedicated jump action would give players more agency to explore the world without changing the core experience. \"There was a lot of heavy discussion, as you mentioned, about the jump button,\" Fujibayashi said. \"Ultimately, we ended up in the conclusion that being able to allow players to jump anywhere will make the gameplay experience a lot smoother and allow players to be re",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Oot-2026.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:10.266635+06:00",
+      "last_seen": "2026-11-05T13:43:10.266637+06:00"
+    },
+    "gematsu.com/2026/11/mages-to-announce-girls-und-panzer-game-for-console-on-november-14": {
+      "title": "MAGES. to announce Girls und Panzer game for console on November 14",
+      "url": "https://www.gematsu.com/2026/11/mages-to-announce-girls-und-panzer-game-for-console-on-november-14",
+      "canonical": "gematsu.com/2026/11/mages-to-announce-girls-und-panzer-game-for-console-on-november-14",
+      "published_dt": "2026-11-05T12:57:53+06:00",
+      "published_date": "2026-11-05T12:57:53+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "MAGES. will announce a new Girls und Panzer game for console at “Oarai Ankou Matsuri …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:10.975015+06:00",
+      "last_seen": "2026-11-05T13:43:10.975020+06:00"
+    },
+    "gematsu.com/2026/11/ps5-shipments-top-97-9-million-marvels-wolverine-tops-2-4-million": {
+      "title": "PS5 shipments top 97.9 million, Marvel’s Wolverine tops 2.4 million",
+      "url": "https://www.gematsu.com/2026/11/ps5-shipments-top-97-9-million-marvels-wolverine-tops-2-4-million",
+      "canonical": "gematsu.com/2026/11/ps5-shipments-top-97-9-million-marvels-wolverine-tops-2-4-million",
+      "published_dt": "2026-11-05T12:44:41+06:00",
+      "published_date": "2026-11-05T12:44:41+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "PlayStation 5 has shipped 97.9 million units worldwide, Sony announced in its financial results for …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:10.975114+06:00",
+      "last_seen": "2026-11-05T13:43:10.975115+06:00"
+    },
+    "gematsu.com/2026/11/switch-2-worldwide-sales-top-26-35-million-switch-tops-157-20-million": {
+      "title": "Switch 2 worldwide sales top 26.35 million, Switch tops 157.20 million",
+      "url": "https://www.gematsu.com/2026/11/switch-2-worldwide-sales-top-26-35-million-switch-tops-157-20-million",
+      "canonical": "gematsu.com/2026/11/switch-2-worldwide-sales-top-26-35-million-switch-tops-157-20-million",
+      "published_dt": "2026-11-05T12:38:57+06:00",
+      "published_date": "2026-11-05T12:38:57+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Nintendo Switch 2 has sold 26.35 million units and Switch has sold 157.20 million units …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:10.975192+06:00",
+      "last_seen": "2026-11-05T13:43:10.975193+06:00"
+    },
+    "gematsu.com/2026/11/damon-and-baby-free-update-rise-of-the-oracle-announced-alongside-switch-2-version": {
+      "title": "DAMON and BABY free update ‘RISE OF THE ORACLE’ announced alongside Switch 2 version",
+      "url": "https://www.gematsu.com/2026/11/damon-and-baby-free-update-rise-of-the-oracle-announced-alongside-switch-2-version",
+      "canonical": "gematsu.com/2026/11/damon-and-baby-free-update-rise-of-the-oracle-announced-alongside-switch-2-version",
+      "published_dt": "2026-11-05T12:29:11+06:00",
+      "published_date": "2026-11-05T12:29:11+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Arc System Works has announced top-down action adventure shooter DAMON and BABY free update “RISE …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:10.975274+06:00",
+      "last_seen": "2026-11-05T13:43:10.975275+06:00"
+    },
+    "gematsu.com/2026/11/my-hero-ultra-rumble-coming-to-ios-android": {
+      "title": "My Hero Ultra Rumble coming to iOS, Android",
+      "url": "https://www.gematsu.com/2026/11/my-hero-ultra-rumble-coming-to-ios-android",
+      "canonical": "gematsu.com/2026/11/my-hero-ultra-rumble-coming-to-ios-android",
+      "published_dt": "2026-11-05T10:49:49+06:00",
+      "published_date": "2026-11-05T10:49:49+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Bandai Namco will release free-to-play battle royale game My Hero Ultra Rumble for iOS and …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:10.975347+06:00",
+      "last_seen": "2026-11-05T13:43:10.975348+06:00"
+    },
+    "polygon.com/green-room-free-tubi-streaming-november-2026": {
+      "title": "11 Years Later, Patrick Stewart's Near-Perfect Siege Thriller Is Officially Free on Streaming",
+      "url": "https://www.polygon.com/green-room-free-tubi-streaming-november-2026/",
+      "canonical": "polygon.com/green-room-free-tubi-streaming-november-2026",
+      "published_dt": "2026-11-05T12:00:18+06:00",
+      "published_date": "2026-11-05T12:00:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Check out one of Stewart's rare villain roles in Jeremy Saulnier's grimy crime film",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/mcdgrro_ec013.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:11.981515+06:00",
+      "last_seen": "2026-11-05T13:43:11.981518+06:00"
+    },
+    "polygon.com/zelda-ocarina-of-time-remake-oot-bottle-locations": {
+      "title": "All bottle locations in Ocarina of Time",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-bottle-locations/",
+      "canonical": "polygon.com/zelda-ocarina-of-time-remake-oot-bottle-locations",
+      "published_dt": "2026-11-05T11:01:18+06:00",
+      "published_date": "2026-11-05T11:01:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Bottles are valuable items that let you store things in Ocarina of Time. Here's where you can find all five bottles and how to get them.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/bug-in-a-bottle_oot.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:11.981595+06:00",
+      "last_seen": "2026-11-05T13:43:11.981596+06:00"
+    },
+    "polygon.com/zelda-ocarina-of-time-remake-oot-beginners-tips-tricks": {
+      "title": "10 Ocarina of Time beginner's tips that will save you some time",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-beginners-tips-tricks/",
+      "canonical": "polygon.com/zelda-ocarina-of-time-remake-oot-beginners-tips-tricks",
+      "published_dt": "2026-11-05T11:01:18+06:00",
+      "published_date": "2026-11-05T11:01:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The Legend of Zelda: Ocarina of Time remake is as challenging as ever. Here are 10 beginner's tips and tricks that will help you save the world.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/sleeping-link_oot.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:11.981664+06:00",
+      "last_seen": "2026-11-05T13:43:11.981665+06:00"
+    },
+    "polygon.com/zelda-ocarina-of-time-remake-oot-ganondorfs-castle-walkthrough": {
+      "title": "Ganondorf's Castle dungeon walkthrough in Ocarina of Time",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-ganondorfs-castle-walkthrough/",
+      "canonical": "polygon.com/zelda-ocarina-of-time-remake-oot-ganondorfs-castle-walkthrough",
+      "published_dt": "2026-11-05T11:01:18+06:00",
+      "published_date": "2026-11-05T11:01:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Ganondorf's Castle is the final dungeon in Ocarina of Time. Here's how to break the barriers and defeat Ganon, so you can save Princess Zelda.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ganondorfs-castle_oot.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:11.981729+06:00",
+      "last_seen": "2026-11-05T13:43:11.981730+06:00"
+    },
+    "polygon.com/zelda-ocarina-of-time-remake-oot-spirit-temple-dungeon-walkthrough": {
+      "title": "Spirit Temple dungeon walkthrough in Ocarina of Time",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-spirit-temple-dungeon-walkthrough/",
+      "canonical": "polygon.com/zelda-ocarina-of-time-remake-oot-spirit-temple-dungeon-walkthrough",
+      "published_dt": "2026-11-05T11:01:18+06:00",
+      "published_date": "2026-11-05T11:01:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The Spirit Temple will force you to travel through time in Ocarina of Time. Here's how to complete the dungeon.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/spirit-temple_oot.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:11.981794+06:00",
+      "last_seen": "2026-11-05T13:43:11.981795+06:00"
+    },
+    "polygon.com/zelda-ocarina-of-time-remake-oot-shadow-temple-dungeon-walkthrough": {
+      "title": "Shadow Temple dungeon walkthrough in Ocarina of Time",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-shadow-temple-dungeon-walkthrough/",
+      "canonical": "polygon.com/zelda-ocarina-of-time-remake-oot-shadow-temple-dungeon-walkthrough",
+      "published_dt": "2026-11-05T11:01:18+06:00",
+      "published_date": "2026-11-05T11:01:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The Shadow Temple in Ocarina of Time will deceive your eyes. Here's how to safely find your way through and defeat the boss.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/shadow-temple_oot.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:11.981859+06:00",
+      "last_seen": "2026-11-05T13:43:11.981861+06:00"
+    },
+    "polygon.com/zelda-ocarina-of-time-remake-oot-bottom-well-dungeon-walkthrough": {
+      "title": "Bottom of the Well dungeon walkthrough in Ocarina of Time",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-bottom-well-dungeon-walkthrough/",
+      "canonical": "polygon.com/zelda-ocarina-of-time-remake-oot-bottom-well-dungeon-walkthrough",
+      "published_dt": "2026-11-05T11:01:18+06:00",
+      "published_date": "2026-11-05T11:01:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "In this walkthrough, we'll guide you through the Bottom of the Well in Ocarina of Time. Here's how to get the Lenses of Truth and a few collectibles.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/bottom-of-the-well_oot.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:11.981933+06:00",
+      "last_seen": "2026-11-05T13:43:11.981933+06:00"
+    },
+    "polygon.com/zelda-ocarina-of-time-remake-oot-water-temple-dungeon-walkthrough": {
+      "title": "Water Temple dungeon walkthrough in Ocarina of Time",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-water-temple-dungeon-walkthrough/",
+      "canonical": "polygon.com/zelda-ocarina-of-time-remake-oot-water-temple-dungeon-walkthrough",
+      "published_dt": "2026-11-05T11:01:18+06:00",
+      "published_date": "2026-11-05T11:01:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "In this walkthrough, we'll guide you through the Water Temple in Ocarina of Time, including how to beat the boss.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/water-temple_oot.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:11.981994+06:00",
+      "last_seen": "2026-11-05T13:43:11.981995+06:00"
+    },
+    "polygon.com/zelda-ocarina-of-time-remake-oot-ice-cavern-walkthrough": {
+      "title": "Ice Cavern dungeon walkthrough in Ocarina of Time",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-ice-cavern-walkthrough/",
+      "canonical": "polygon.com/zelda-ocarina-of-time-remake-oot-ice-cavern-walkthrough",
+      "published_dt": "2026-11-05T11:01:18+06:00",
+      "published_date": "2026-11-05T11:01:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The Ice Cavern is a short dungeon in Ocarina of Time, but it's full of icy foes. Here's how to get through the Ice Cavern.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/ice-cavern_oot.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:11.982055+06:00",
+      "last_seen": "2026-11-05T13:43:11.982057+06:00"
+    },
+    "polygon.com/zelda-ocarina-of-time-remake-oot-fire-temple-dungeon-walkthrough": {
+      "title": "Fire Temple dungeon walkthrough in Ocarina of Time",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-fire-temple-dungeon-walkthrough/",
+      "canonical": "polygon.com/zelda-ocarina-of-time-remake-oot-fire-temple-dungeon-walkthrough",
+      "published_dt": "2026-11-05T11:01:18+06:00",
+      "published_date": "2026-11-05T11:01:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The Fire Temple is a dungeon full of fire traps in Ocarina of Time. Here's how to survive the heat and beat the boss inside.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/fire-temple_oot.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:11.982116+06:00",
+      "last_seen": "2026-11-05T13:43:11.982117+06:00"
+    },
+    "insider-gaming.com/gta-trailers-timeline-gta-6": {
+      "title": "Every Grand Theft Auto 6 Trailer Released—GTA 6 Gameplay Videos",
+      "url": "https://insider-gaming.com/gta-trailers-timeline-gta-6/",
+      "canonical": "insider-gaming.com/gta-trailers-timeline-gta-6",
+      "published_dt": "2026-11-05T13:39:14+06:00",
+      "published_date": "2026-11-05T13:39:14+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Rockstar Games has released plenty of GTA 6 content. Here's a list of all the GTA 6 trailers showcased to date by the developer. The post Every Grand Theft Auto 6 Trailer Released—GTA 6 Gameplay Videos appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:13.284770+06:00",
+      "last_seen": "2026-11-05T13:43:13.284774+06:00"
+    },
+    "insider-gaming.com/how-to-gta-6-early-new-zealand-trick-playstation-5": {
+      "title": "How to Play GTA 6 Early on PS5 With New Zealand Trick—All Time Zones, Explained",
+      "url": "https://insider-gaming.com/how-to-gta-6-early-new-zealand-trick-playstation-5/",
+      "canonical": "insider-gaming.com/how-to-gta-6-early-new-zealand-trick-playstation-5",
+      "published_dt": "2026-11-05T13:18:58+06:00",
+      "published_date": "2026-11-05T13:18:58+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Learn how to play GTA 6 early on PS5 using the New Zealand trick with this super handy, short-form guide, complete with time zone breakdown. The post How to Play GTA 6 Early on PS5 With New Zealand Trick—All Time Zones, Explained appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:13.285075+06:00",
+      "last_seen": "2026-11-05T13:43:13.285076+06:00"
+    },
+    "insider-gaming.com/how-to-play-gta-6-early-xbox-new-zealand-trick": {
+      "title": "How to Play GTA 6 Early on XBOX With New Zealand Trick—All Time Zones, Explained",
+      "url": "https://insider-gaming.com/how-to-play-gta-6-early-xbox-new-zealand-trick/",
+      "canonical": "insider-gaming.com/how-to-play-gta-6-early-xbox-new-zealand-trick",
+      "published_dt": "2026-11-05T13:18:57+06:00",
+      "published_date": "2026-11-05T13:18:57+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "If you want to get the earliest access possible to GTA 6 on XBOX, you'll want to make full use of the New Zealand trick. Here's how it works. The post How to Play GTA 6 Early on XBOX With New Zealand Trick—All Time Zones, Explained appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:13.285207+06:00",
+      "last_seen": "2026-11-05T13:43:13.285208+06:00"
+    },
+    "insider-gaming.com/take-two-ceo-faces-bizarre-question-not-enough-hits": {
+      "title": "Take-Two CEO Faces Bizarre Question Over Company’s Lack of ‘Enough Hits’",
+      "url": "https://insider-gaming.com/take-two-ceo-faces-bizarre-question-not-enough-hits/",
+      "canonical": "insider-gaming.com/take-two-ceo-faces-bizarre-question-not-enough-hits",
+      "published_dt": "2026-11-05T13:17:10+06:00",
+      "published_date": "2026-11-05T13:17:10+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Strauss Zelnick, the CEO of Take-Two Interactive, faced an awkward interview, in which it was suggested the firm hasn't had 'enough hits'. The post Take-Two CEO Faces Bizarre Question Over Company’s Lack of ‘Enough Hits’ appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:13.285355+06:00",
+      "last_seen": "2026-11-05T13:43:13.285356+06:00"
+    },
+    "insider-gaming.com/nyt-connections-hints-solutions-november-5-1243": {
+      "title": "NYT Connections Hints Today (#1243)—Answers for Thursday, November 5",
+      "url": "https://insider-gaming.com/nyt-connections-hints-solutions-november-5-1243/",
+      "canonical": "insider-gaming.com/nyt-connections-hints-solutions-november-5-1243",
+      "published_dt": "2026-11-05T12:45:17+06:00",
+      "published_date": "2026-11-05T12:45:17+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1243)—Answers for Thursday, November 5 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:13.285734+06:00",
+      "last_seen": "2026-11-05T13:43:13.285735+06:00"
+    },
+    "nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake": {
+      "title": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables",
+      "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
+      "canonical": "nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
+      "published_dt": "2026-11-05T11:00:00+06:00",
+      "published_date": "2026-11-05T11:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Your companion to a huge adventure. Zelda: Ocarina of Time is a dense adventure with many secrets to find, and while the critical path is fairly linear, it's rarely straightforward - asking you to pick up select items and upgrades before you can start exploring its many dungeons. That's why a Zelda: Ocarina of Time walkthrough comes in handy. Though the Switch 2 version follows the same beats as the N64 original, we'd estimate around 10% of the game's puzzles and locations have been changed or updated - just enough to throw off those very familiar with the 1998 version. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/9fa3a2c73d8a6/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:13.811151+06:00",
+      "last_seen": "2026-11-05T13:43:13.811156+06:00"
+    },
+    "nintendolife.com/guides/zelda-ocarina-of-time-hall-of-fallen-foes-heroes-location-switch-2": {
+      "title": "Guide: How To Unlock The Hall Of Fallen Foes In Zelda: Ocarina Of Time",
+      "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-hall-of-fallen-foes-heroes-location-switch-2",
+      "canonical": "nintendolife.com/guides/zelda-ocarina-of-time-hall-of-fallen-foes-heroes-location-switch-2",
+      "published_dt": "2026-11-05T11:00:00+06:00",
+      "published_date": "2026-11-05T11:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Where to find the Switch 2 remake's big new feature. The Hall of Fallen Foes is a new addition to Zelda: Ocarina of Time's Switch 2 remake. The feature is both a museum cataloguing all the enemies you've encountered so far, and a way to rematch bosses for an extra challenge. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/57c1664a902e4/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:13.811333+06:00",
+      "last_seen": "2026-11-05T13:43:13.811334+06:00"
+    },
+    "nintendolife.com/news/2026/11/xenoblade-chronicles-studio-monolith-soft-helped-out-with-the-zelda-ocarina-of-time-remake": {
+      "title": "Xenoblade Chronicles Studio Monolith Soft Helped Out With The Zelda: Ocarina Of Time Remake",
+      "url": "https://www.nintendolife.com/news/2026/11/xenoblade-chronicles-studio-monolith-soft-helped-out-with-the-zelda-ocarina-of-time-remake",
+      "canonical": "nintendolife.com/news/2026/11/xenoblade-chronicles-studio-monolith-soft-helped-out-with-the-zelda-ocarina-of-time-remake",
+      "published_dt": "2026-11-05T10:55:00+06:00",
+      "published_date": "2026-11-05T10:55:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Nintendo confirmed the main devs earlier this week. Earlier this week, Nintendo confirmed Ocarina of Time for the Switch 2 was developed internally by Nintendo's Entertainment Planning & Development (EPD) Production Group No. 3. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/ea62040739695/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:13.811523+06:00",
+      "last_seen": "2026-11-05T13:43:13.811524+06:00"
+    },
+    "siliconera.com/honkai-nexus-anima-final-closed-beta-and-release-window-dates-set": {
+      "title": "Honkai: Nexus Anima Final Closed Beta and Release Window Dates Set",
+      "url": "https://www.siliconera.com/honkai-nexus-anima-final-closed-beta-and-release-window-dates-set/",
+      "canonical": "siliconera.com/honkai-nexus-anima-final-closed-beta-and-release-window-dates-set",
+      "published_dt": "2026-11-05T11:00:00+06:00",
+      "published_date": "2026-11-05T11:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "The Honkai: Nexus Anima Final Closed Beta test date is set for this month and the release window is set for the first half of 2027.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:15.231995+06:00",
+      "last_seen": "2026-11-05T13:43:15.231998+06:00"
+    },
+    "escapistmagazine.com/god-of-war-laufey-slips-to-may-20-2027-still-ahead-of-sonys-disc-cutoff": {
+      "title": "God of War Laufey Slips to May 20, 2027, Still Ahead of Sony’s Disc Cutoff",
+      "url": "https://www.escapistmagazine.com/god-of-war-laufey-slips-to-may-20-2027-still-ahead-of-sonys-disc-cutoff/",
+      "canonical": "escapistmagazine.com/god-of-war-laufey-slips-to-may-20-2027-still-ahead-of-sonys-disc-cutoff",
+      "published_dt": "2026-11-05T12:13:13+06:00",
+      "published_date": "2026-11-05T12:13:13+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "Santa Monica Studio has pushed God of War Laufey back three months, from February to May 2027, to add finishing touches. Pre-order customers and Collector Box buyers now face a later date for the game, though it still lands before Sony ends disc production. The post God of War Laufey Slips to May 20, 2027, Still Ahead of Sony’s Disc Cutoff appeared first on The Escapist .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:15.836116+06:00",
+      "last_seen": "2026-11-05T13:43:15.836120+06:00"
+    },
+    "shacknews.com/article/151283/rhythm-heaven-groove-launch-sales-units": {
+      "title": "Rhythm Heaven Groove has sold 2.89 million units since releasing in July | Shacknews",
+      "url": "https://www.shacknews.com/article/151283/rhythm-heaven-groove-launch-sales-units",
+      "canonical": "shacknews.com/article/151283/rhythm-heaven-groove-launch-sales-units",
+      "published_dt": "2026-11-05T12:50:00+06:00",
+      "published_date": "2026-11-05T12:50:00+06:00",
+      "source": "Shacknews",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2026/06/11/rhythm-heaven-groove-hands-on-preview-shacknews_feature.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:21.671399+06:00",
+      "last_seen": "2026-11-05T13:43:21.671403+06:00"
+    },
+    "kotaku.com/games/thap-tuyet-tran": {
+      "title": "Thập Tuyệt Trận - Kotaku",
+      "url": "https://kotaku.com/games/thap-tuyet-tran",
+      "canonical": "kotaku.com/games/thap-tuyet-tran",
+      "published_dt": "2026-11-05T13:02:51+06:00",
+      "published_date": "2026-11-05T13:02:51+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://kotaku.com/app/uploads/2025/07/kotaku-1200x900-1.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-05T13:43:25.314391+06:00",
+      "last_seen": "2026-11-05T13:43:25.314395+06:00"
     }
   },
   "events": {
-    "evt_c4324214021007": {
-      "event_id": "evt_c4324214021007",
-      "event_key": "supermassive layoffs postdirective8020",
-      "event_subject": "Supermassive Games",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "supermassive layoffs postdirective8020",
-        "subject": "Supermassive Games",
-        "event_type": "other",
-        "action": "lay_off",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Directive 8020",
-        "franchise": "Directive",
-        "institution": "Supermassive Games",
-        "target": "70 employees",
-        "platforms": [],
-        "topic": "company news"
-      },
-      "sources": [
-        "Kotaku"
-      ],
-      "event_sources": [
-        "Kotaku"
-      ],
-      "claims": [
-        "70 staff let go after mixed reviews"
-      ],
-      "importance_score": 46,
-      "coverage_score": 2,
-      "originality_score": 8,
-      "significance_score": 20,
-      "freshness_score": 10,
-      "source_trust_score": 6,
-      "headline": "Supermassive Games Cuts 70 Jobs Six Months After Directive 8020 Launch",
-      "summary": "Supermassive Games announced a 70‑person layoff, citing sustainability concerns after the mixed‑reception of its new sci‑fi horror title Directive 8020.",
-      "published_at": "2026-10-06T03:46:42+06:00",
-      "selected_at": "2026-10-05T22:31:11.083162+00:00",
-      "status": "published",
-      "message_id": 578,
-      "published_versions": [
-        {
-          "published_at": "2026-10-05T22:31:11.083162+00:00",
-          "headline": "Supermassive Games Cuts 70 Jobs Six Months After Directive 8020 Launch",
-          "claims": [
-            "70 staff let go after mixed reviews"
-          ]
-        }
-      ]
-    },
-    "evt_b62e707476197e": {
-      "event_id": "evt_b62e707476197e",
-      "event_key": "escapefromtarkov pveupdate 2026 10 06",
-      "event_subject": "Escape From Tarkov",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "escapefromtarkov pveupdate 2026 10 06",
-        "subject": "Escape From Tarkov",
-        "event_type": "other",
-        "action": "release",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Escape From Tarkov",
-        "franchise": "Escape From Tarkov",
-        "institution": "Battlestate Games",
-        "target": "PvE content",
-        "platforms": [
-          "PC"
-        ],
-        "topic": "game_update"
-      },
-      "sources": [
-        "Polygon"
-      ],
-      "event_sources": [
-        "Polygon"
-      ],
-      "claims": [
-        "new PvE update makes game easier for newcomers"
-      ],
-      "importance_score": 42,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Escape From Tarkov Launches EXFIL Brothers PvE Update to Aid Newbies",
-      "summary": "The 1.2.0.0 patch adds the EXFIL Brothers mentorship program, PvE prestige tiers, bot reworks, and a limited‑time POLYGON code reward bundle.",
-      "published_at": "2026-10-06T13:00:17+06:00",
-      "selected_at": "2026-10-06T07:14:38.636803+00:00",
-      "status": "published",
-      "message_id": 580,
-      "published_versions": [
-        {
-          "published_at": "2026-10-06T07:14:38.636803+00:00",
-          "headline": "Escape From Tarkov Launches EXFIL Brothers PvE Update to Aid Newbies",
-          "claims": [
-            "new PvE update makes game easier for newcomers"
-          ]
-        }
-      ]
-    },
     "evt_9dd527b3d0fa1b": {
       "event_id": "evt_9dd527b3d0fa1b",
       "event_key": "nintendo switch sports resort release 2026",
@@ -207555,6 +207916,658 @@
         "total": 28
       },
       "last_seen": "2026-11-05T03:54:46.680860+06:00"
+    },
+    "evt_39c3e880a06abd": {
+      "event_id": "evt_39c3e880a06abd",
+      "event_key": "ps5 shipments financial results",
+      "event_subject": "PlayStation 5",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ps5 shipments financial results",
+        "subject": "PlayStation 5",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Sony Interactive Entertainment",
+        "target": "investors",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "hardware sales"
+      },
+      "modality": "unknown",
+      "topic": "hardware sales",
+      "institution": "Sony Interactive Entertainment",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "PS5 shipments total 97.9 million units"
+      ],
+      "importance_score": 74,
+      "score_breakdown": {
+        "significance": 40,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 74
+      },
+      "last_seen": "2026-11-05T13:49:25.370216+06:00"
+    },
+    "evt_d1cda5b1a2e5fb": {
+      "event_id": "evt_d1cda5b1a2e5fb",
+      "event_key": "rockstar gta6 trailers release",
+      "event_subject": "Grand Theft Auto VI",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "rockstar gta6 trailers release",
+        "subject": "Grand Theft Auto VI",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar Games",
+        "target": "players",
+        "platforms": [
+          "PS5",
+          "Xbox Series X",
+          "PC"
+        ],
+        "topic": "trailer compilation"
+      },
+      "modality": "unknown",
+      "topic": "trailer compilation",
+      "institution": "Rockstar Games",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "All GTA 6 trailers released to date",
+        "How to play GTA 6 early on PS5 using the New Zealand time‑zone trick",
+        "How to play GTA 6 early on Xbox using the New Zealand time‑zone trick"
+      ],
+      "importance_score": 74,
+      "score_breakdown": {
+        "significance": 38,
+        "coverage": 2,
+        "originality": 14,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 74
+      },
+      "last_seen": "2026-11-05T13:49:25.370239+06:00"
+    },
+    "evt_fc1f7a66987f32": {
+      "event_id": "evt_fc1f7a66987f32",
+      "event_key": "switch2 sales report",
+      "event_subject": "Nintendo Switch 2",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "switch2 sales report",
+        "subject": "Nintendo Switch 2",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Nintendo",
+        "target": "investors",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "hardware sales"
+      },
+      "modality": "unknown",
+      "topic": "hardware sales",
+      "institution": "Nintendo",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Switch 2 worldwide sales 26.35 million; Switch total 157.20 million"
+      ],
+      "importance_score": 69,
+      "score_breakdown": {
+        "significance": 35,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 69
+      },
+      "last_seen": "2026-11-05T13:49:25.370245+06:00"
+    },
+    "evt_36b548bdbcc65b": {
+      "event_id": "evt_36b548bdbcc65b",
+      "event_key": "god of war laufey release delay",
+      "event_subject": "God of War Laufey",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "god of war laufey release delay",
+        "subject": "God of War Laufey",
+        "event_type": "other",
+        "action": "delay",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "God of War Laufey",
+        "franchise": "God of War",
+        "institution": "Sony Interactive Entertainment",
+        "target": "players",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "release date change"
+      },
+      "modality": "unknown",
+      "topic": "release date change",
+      "institution": "Sony Interactive Entertainment",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Release pushed to May 20 2027, still before Sony disc cutoff"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 46
+      },
+      "last_seen": "2026-11-05T13:49:25.370249+06:00"
+    },
+    "evt_e3b922c329ddd3": {
+      "event_id": "evt_e3b922c329ddd3",
+      "event_key": "honkai nexus anima beta release window",
+      "event_subject": "Honkai: Nexus Anima",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "honkai nexus anima beta release window",
+        "subject": "Honkai: Nexus Anima",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Honkai: Nexus Anima",
+        "franchise": "Honkai",
+        "institution": "Siliconera",
+        "target": "players",
+        "platforms": [
+          "PC",
+          "Console"
+        ],
+        "topic": "release schedule"
+      },
+      "modality": "unknown",
+      "topic": "release schedule",
+      "institution": "Siliconera",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Final closed beta set for this month; release window first half 2027"
+      ],
+      "importance_score": 41,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 41
+      },
+      "last_seen": "2026-11-05T13:49:25.370254+06:00"
+    },
+    "evt_66b50625d00181": {
+      "event_id": "evt_66b50625d00181",
+      "event_key": "my hero ultra rumble mobile release",
+      "event_subject": "My Hero Ultra Rumble",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "my hero ultra rumble mobile release",
+        "subject": "My Hero Ultra Rumble",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "My Hero Ultra Rumble",
+        "franchise": "My Hero Academia",
+        "institution": "Bandai Namco",
+        "target": "players",
+        "platforms": [
+          "iOS",
+          "Android"
+        ],
+        "topic": "mobile launch"
+      },
+      "modality": "unknown",
+      "topic": "mobile launch",
+      "institution": "Bandai Namco",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Free‑to‑play battle royale coming to iOS and Android"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 46
+      },
+      "last_seen": "2026-11-05T13:49:25.370258+06:00"
+    },
+    "evt_4d0c9062b2ad29": {
+      "event_id": "evt_4d0c9062b2ad29",
+      "event_key": "rhythm heaven groove sales report",
+      "event_subject": "Rhythm Heaven Groove",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "rhythm heaven groove sales report",
+        "subject": "Rhythm Heaven Groove",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Rhythm Heaven Groove",
+        "franchise": "Rhythm Heaven",
+        "institution": "Nintendo",
+        "target": "investors",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "sales figures"
+      },
+      "modality": "unknown",
+      "topic": "sales figures",
+      "institution": "Nintendo",
+      "sources": [
+        "Shacknews"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Rhythm Heaven Groove has sold 2.89 million units since July"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-11-05T13:49:25.370262+06:00"
+    },
+    "evt_694081b3f3b13c": {
+      "event_id": "evt_694081b3f3b13c",
+      "event_key": "mages girls und panzer console announcement",
+      "event_subject": "Girls und Panzer",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "mages girls und panzer console announcement",
+        "subject": "Girls und Panzer",
+        "event_type": "announcement",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Girls und Panzer (new console title)",
+        "franchise": "Girls und Panzer",
+        "institution": "MAGES.",
+        "target": "players",
+        "platforms": [
+          "Console"
+        ],
+        "topic": "new game announcement"
+      },
+      "modality": "unknown",
+      "topic": "new game announcement",
+      "institution": "MAGES.",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "MAGES. will announce a new Girls und Panzer game for console on November 14"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-11-05T13:49:25.370266+06:00"
+    },
+    "evt_3ba0c191ad9583": {
+      "event_id": "evt_3ba0c191ad9583",
+      "event_key": "damon baby rise of the oracle update",
+      "event_subject": "DAMON and BABY",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "damon baby rise of the oracle update",
+        "subject": "DAMON and BABY",
+        "event_type": "other",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "DAMON and BABY",
+        "franchise": "DAMON and BABY",
+        "institution": "Arc System Works",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "content update"
+      },
+      "modality": "unknown",
+      "topic": "content update",
+      "institution": "Arc System Works",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Free update ‘RISE OF THE ORACLE’ announced alongside Switch 2 version"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 40
+      },
+      "last_seen": "2026-11-05T13:49:25.370270+06:00"
+    },
+    "evt_c96f8c9d2dde3d": {
+      "event_id": "evt_c96f8c9d2dde3d",
+      "event_key": "take2 ceo hits question",
+      "event_subject": "Take‑Two Interactive",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "take2 ceo hits question",
+        "subject": "Take‑Two Interactive",
+        "event_type": "other",
+        "action": "face",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Take‑Two Interactive",
+        "target": "media",
+        "platforms": [],
+        "topic": "executive interview"
+      },
+      "modality": "unknown",
+      "topic": "executive interview",
+      "institution": "Take‑Two Interactive",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "CEO Strauss Zelnick was asked about the company’s lack of ‘enough hits’"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-11-05T13:49:25.370273+06:00"
+    },
+    "evt_5067d4b8eaba47": {
+      "event_id": "evt_5067d4b8eaba47",
+      "event_key": "ocarina of time remake walkthroughs",
+      "event_subject": "The Legend of Zelda: Ocarina of Time (Switch 2 remake)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ocarina of time remake walkthroughs",
+        "subject": "The Legend of Zelda: Ocarina of Time (Switch 2 remake)",
+        "event_type": "other",
+        "action": "provide",
+        "status": "published",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time",
+        "franchise": "The Legend of Zelda",
+        "institution": "Polygon",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "game guide"
+      },
+      "modality": "unknown",
+      "topic": "game guide",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon",
+        "GameSpot",
+        "Nintendo Life"
+      ],
+      "source_count": 3,
+      "independent_source_count": 3,
+      "claims": [
+        "All bottle locations in Ocarina of Time",
+        "10 beginner tips for Ocarina of Time",
+        "Ganondorf's Castle dungeon walkthrough",
+        "Spirit Temple dungeon walkthrough",
+        "Shadow Temple dungeon walkthrough",
+        "Bottom of the Well dungeon walkthrough",
+        "Water Temple dungeon walkthrough",
+        "Ice Cavern dungeon walkthrough",
+        "Fire Temple dungeon walkthrough",
+        "Producer talks about 24‑hour NPC routines"
+      ],
+      "importance_score": 43,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 10,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 43
+      },
+      "last_seen": "2026-11-05T13:49:25.370277+06:00"
+    },
+    "evt_889ce724c12acb": {
+      "event_id": "evt_889ce724c12acb",
+      "event_key": "adam driver heat2 casting confirmation",
+      "event_subject": "Heat 2",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "adam driver heat2 casting confirmation",
+        "subject": "Heat 2",
+        "event_type": "other",
+        "action": "confirm",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "IGN",
+        "target": "fans",
+        "platforms": [],
+        "topic": "film casting"
+      },
+      "modality": "unknown",
+      "topic": "film casting",
+      "institution": "IGN",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Adam Driver confirms role in Heat 2"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-11-05T13:49:25.370281+06:00"
+    },
+    "evt_f18038c9191a1d": {
+      "event_id": "evt_f18038c9191a1d",
+      "event_key": "thap tuyet tran kotaku coverage",
+      "event_subject": "Thập Tuyệt Trận",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "thap tuyet tran kotaku coverage",
+        "subject": "Thập Tuyệt Trận",
+        "event_type": "other",
+        "action": "cover",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Kotaku",
+        "target": "readers",
+        "platforms": [],
+        "topic": "game coverage"
+      },
+      "modality": "unknown",
+      "topic": "game coverage",
+      "institution": "Kotaku",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Article about Thập Tuyệt Trận"
+      ],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-11-05T13:49:25.370285+06:00"
+    },
+    "evt_2d6288bb6cfda8": {
+      "event_id": "evt_2d6288bb6cfda8",
+      "event_key": "nyt connections daily guide",
+      "event_subject": "NYT Connections",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nyt connections daily guide",
+        "subject": "NYT Connections",
+        "event_type": "other",
+        "action": "provide",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Insider Gaming",
+        "target": "players",
+        "platforms": [],
+        "topic": "puzzle guide"
+      },
+      "modality": "unknown",
+      "topic": "puzzle guide",
+      "institution": "Insider Gaming",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "NYT Connections hints and answers for November 5"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 36
+      },
+      "last_seen": "2026-11-05T13:49:25.370288+06:00"
+    },
+    "evt_d01f9ad2b8616d": {
+      "event_id": "evt_d01f9ad2b8616d",
+      "event_key": "patrick stewart film free streaming",
+      "event_subject": "Unnamed crime film starring Patrick Stewart",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "patrick stewart film free streaming",
+        "subject": "Unnamed crime film starring Patrick Stewart",
+        "event_type": "other",
+        "action": "make free",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "viewers",
+        "platforms": [],
+        "topic": "media distribution"
+      },
+      "modality": "unknown",
+      "topic": "media distribution",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Film now free on streaming platforms"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-11-05T13:49:25.370291+06:00"
     }
   },
   "posted_event_ids": [
@@ -208060,12 +209073,6 @@
     "evt_2824fce4570230"
   ],
   "recent_titles": [
-    "crimson desert charting the unknown dlc delayed to october 29 2026",
-    "steam shifts to dynamic personalized discounts starting early 2027",
-    "grasshopper manufacture regains independence from netease after studio split",
-    "capcom achieves stable 30fps on switch 2 for monster hunter wilds",
-    "zelda 40th anniversary concert tickets go live across europe",
-    "xbox ceo asha sharma vows no sale amid massive restructuring",
     "blizzard s new skyborne race stirs design debate in world of warcraft forever",
     "grasshopper manufacture splits from netease returns to independence",
     "capcom maps future strategy as resident evil remakes near crossover point",
