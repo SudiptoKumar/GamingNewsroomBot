@@ -2,239 +2,143 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1d4ac-aCUG7h/MCNMYYvXYcJfQX2AYWJw\"",
+      "etag": "W/\"1f368-fFbGDMAxp5p2KImpYnXfetl/i8k\"",
       "last_modified": null,
-      "last_checked": "2026-11-06T04:32:52.788106+06:00",
+      "last_checked": "2026-11-06T13:40:01.603991+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-06T04:32:53.000809+06:00",
+      "last_checked": "2026-11-06T13:40:01.872901+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aed0388-7f3\"",
-      "last_modified": "Thu, 05 Nov 2026 22:30:32 GMT",
-      "last_checked": "2026-11-06T04:32:53.373928+06:00",
+      "etag": "\"6aed8344-76c\"",
+      "last_modified": "Fri, 06 Nov 2026 07:35:32 GMT",
+      "last_checked": "2026-11-06T13:40:02.326338+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Thu, 05 Nov 2026 16:18:40 GMT",
-      "last_checked": "2026-11-06T04:32:54.069730+06:00",
+      "last_checked": "2026-11-06T13:40:02.952937+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "W/\"7e2ea5f5cded27913e870ecdd5e42468\"",
-      "last_modified": "Thu, 05 Nov 2026 18:34:55 GMT",
-      "last_checked": "2026-11-06T04:32:54.439568+06:00",
+      "etag": "W/\"28c297932191742f6a2dc033fe876482\"",
+      "last_modified": "Fri, 06 Nov 2026 05:03:35 GMT",
+      "last_checked": "2026-11-06T13:40:03.247394+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-06T04:32:54.683838+06:00",
+      "last_checked": "2026-11-06T13:40:03.615943+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-06T04:32:55.454146+06:00",
+      "last_checked": "2026-11-06T13:40:04.437548+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"837bf856f5be82b6ba18cae04058a024\"",
-      "last_modified": "Thu, 05 Nov 2026 22:30:17 GMT",
-      "last_checked": "2026-11-06T04:32:55.712520+06:00",
+      "etag": "W/\"3aa9d5c156c20800d2d3f2ba1d2d8129\"",
+      "last_modified": "Fri, 06 Nov 2026 07:40:03 GMT",
+      "last_checked": "2026-11-06T13:40:04.614809+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-06T04:32:55.851683+06:00",
+      "last_checked": "2026-11-06T13:40:04.813760+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Thu, 5 Nov 2026 20:40:58 GMT",
-      "last_checked": "2026-11-06T04:32:56.166800+06:00",
+      "last_modified": "Thu, 5 Nov 2026 23:11:04 GMT",
+      "last_checked": "2026-11-06T13:40:05.378491+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Thu, 05 Nov 2026 22:32:57 GMT",
-      "last_checked": "2026-11-06T04:32:57.094608+06:00",
+      "last_modified": "Fri, 06 Nov 2026 07:40:05 GMT",
+      "last_checked": "2026-11-06T13:40:05.961542+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"4e32f100200f895567f6087057bfe417\"",
-      "last_modified": "Thu, 05 Nov 2026 22:16:19 GMT",
-      "last_checked": "2026-11-06T04:32:57.267945+06:00",
+      "etag": "W/\"ab0057c71ce4497fd2adb1f0efafc376\"",
+      "last_modified": "Fri, 06 Nov 2026 07:39:40 GMT",
+      "last_checked": "2026-11-06T13:40:06.565157+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-06T04:32:57.789205+06:00",
+      "last_checked": "2026-11-06T13:40:07.094590+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-06T04:32:58.224256+06:00",
+      "last_checked": "2026-11-06T13:40:07.522908+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-06T04:32:58.754557+06:00",
+      "last_checked": "2026-11-06T13:40:08.040825+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-06T04:32:59.047847+06:00",
-      "fail_count": 150,
+      "last_checked": "2026-11-06T13:40:08.312132+06:00",
+      "fail_count": 151,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"834d37c73753a40a590343ceaf46e6a3\"",
       "last_modified": "Thu, 05 Nov 2026 19:38:47 GMT",
-      "last_checked": "2026-11-06T04:32:59.188722+06:00",
+      "last_checked": "2026-11-06T13:40:08.498122+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-06T04:32:59.395591+06:00",
+      "last_checked": "2026-11-06T13:40:08.692359+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-06T04:32:59.647094+06:00",
-      "fail_count": 150,
+      "last_checked": "2026-11-06T13:40:08.944149+06:00",
+      "fail_count": 151,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"b4fe6ae2e5d9dacf0178155266d53d12\"",
       "last_modified": "Thu, 05 Nov 2026 06:13:13 GMT",
-      "last_checked": "2026-11-06T04:32:59.957872+06:00",
+      "last_checked": "2026-11-06T13:40:09.192099+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "polygon.com/luke-skywalker-best-quote-has-nothing-to-do-with-darth-vader": {
-      "title": "Luke Skywalker's Single Greatest Star Wars Line Hits Harder Than Any Sci-Fi Quote Since",
-      "url": "https://www.polygon.com/luke-skywalker-best-quote-has-nothing-to-do-with-darth-vader/",
-      "canonical": "polygon.com/luke-skywalker-best-quote-has-nothing-to-do-with-darth-vader",
-      "published_dt": "2026-11-02T11:00:17+06:00",
-      "published_date": "2026-11-02T11:00:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Luke Skywalker is easily the greatest 'Star Wars' character of all time. But what was his best quote?",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9857353/TheLastJedi59b8503e4ea1e.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-02T13:15:14.073978+06:00",
-      "last_seen": "2026-11-02T13:15:14.073982+06:00"
-    },
-    "gamesradar.com/entertainment/sci-fi-shows/blade-runner-2099-showrunner-confirms-the-events-of-blade-runner-2049-are-not-directly-connected-to-the-prime-video-show-as-its-designed-to-stand-alone": {
-      "title": "Blade Runner 2099 showrunner says the events of Blade Runner 2049 are \"not directly connected\" to the Prime Video show",
-      "url": "https://www.gamesradar.com/entertainment/sci-fi-shows/blade-runner-2099-showrunner-confirms-the-events-of-blade-runner-2049-are-not-directly-connected-to-the-prime-video-show-as-its-designed-to-stand-alone/",
-      "canonical": "gamesradar.com/entertainment/sci-fi-shows/blade-runner-2099-showrunner-confirms-the-events-of-blade-runner-2049-are-not-directly-connected-to-the-prime-video-show-as-its-designed-to-stand-alone",
-      "published_dt": "2026-11-02T12:00:00+06:00",
-      "published_date": "2026-11-02T12:00:00+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "Prime Video's Blade Runner show won't deal with the fallout of Blade Runner 2049",
-      "image": "https://cdn.mos.cms.futurecdn.net/9nmKqepF5tVKHdvANtcnJH-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-02T13:15:14.559427+06:00",
-      "last_seen": "2026-11-02T13:15:14.559432+06:00"
-    },
-    "insider-gaming.com/team-liquid-win-algs-split-2-playoffs-final": {
-      "title": "Team Liquid Win ALGS Split 2 Playoffs After Nine-Game Final",
-      "url": "https://insider-gaming.com/team-liquid-win-algs-split-2-playoffs-final/",
-      "canonical": "insider-gaming.com/team-liquid-win-algs-split-2-playoffs-final",
-      "published_dt": "2026-11-02T12:18:50+06:00",
-      "published_date": "2026-11-02T12:18:50+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Team Liquid lifted the ALGS Split 2 Playoffs trophy in Las Vegas after denying Forged Wolves and earning Zer0's 100th ALGS match win The post Team Liquid Win ALGS Split 2 Playoffs After Nine-Game Final appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-02T13:15:15.435497+06:00",
-      "last_seen": "2026-11-02T13:15:15.435501+06:00"
-    },
-    "escapistmagazine.com/schell-games-cuts-49-more-jobs-two-months-after-its-first-layoffs-in-24-years": {
-      "title": "Schell Games Cuts 49 More Jobs, Two Months After Its First Layoffs in 24 Years",
-      "url": "https://www.escapistmagazine.com/schell-games-cuts-49-more-jobs-two-months-after-its-first-layoffs-in-24-years/",
-      "canonical": "escapistmagazine.com/schell-games-cuts-49-more-jobs-two-months-after-its-first-layoffs-in-24-years",
-      "published_dt": "2026-11-02T12:13:13+06:00",
-      "published_date": "2026-11-02T12:13:13+06:00",
-      "source": "The Escapist",
-      "region": "Gaming",
-      "excerpt": "Schell Games, the Pittsburgh studio behind I Expect You To Die, has made a second round of cuts this year. Among Us 3D players are shielded, since the studio no longer works on that game. The post Schell Games Cuts 49 More Jobs, Two Months After Its First Layoffs in 24 Years appeared first on The Escapist .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-02T13:15:17.049874+06:00",
-      "last_seen": "2026-11-02T13:15:17.049879+06:00"
-    },
-    "shacknews.com/article/151228/what-is-the-map-size-gta-6": {
-      "title": "How big is the GTA 6 map? | Shacknews",
-      "url": "https://www.shacknews.com/article/151228/what-is-the-map-size-gta-6",
-      "canonical": "shacknews.com/article/151228/what-is-the-map-size-gta-6",
-      "published_dt": "2026-11-02T11:30:00+06:00",
-      "published_date": "2026-11-02T11:30:00+06:00",
-      "source": "Shacknews",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-02T13:15:23.768695+06:00",
-      "last_seen": "2026-11-02T13:15:23.768699+06:00"
-    },
-    "shacknews.com/article/151227/weekend-discussion-november-1-2026": {
-      "title": "Weekend Discussion - November 1, 2026 | Shacknews",
-      "url": "https://www.shacknews.com/article/151227/weekend-discussion-november-1-2026",
-      "canonical": "shacknews.com/article/151227/weekend-discussion-november-1-2026",
-      "published_dt": "2026-11-02T10:55:00+06:00",
-      "published_date": "2026-11-02T10:55:00+06:00",
-      "source": "Shacknews",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-02T13:15:23.768807+06:00",
-      "last_seen": "2026-11-02T13:15:23.768809+06:00"
-    },
     "ign.com/articles/trent-reznor-and-atticus-ross-have-provided-the-score-to-david-finchers-the-further-mis-adventures-of-cliff-booth": {
       "title": "Trent Reznor and Atticus Ross Have Provided the Score to David Fincher's The Further Mis-Adventures of Cliff Booth",
       "url": "https://www.ign.com/articles/trent-reznor-and-atticus-ross-have-provided-the-score-to-david-finchers-the-further-mis-adventures-of-cliff-booth",
@@ -314,7 +218,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-11-03T13:34:54.662163+06:00",
-      "last_seen": "2026-11-05T13:43:13.285484+06:00"
+      "last_seen": "2026-11-06T13:40:06.574800+06:00"
     },
     "insider-gaming.com/gta-6-ultimate-edition-is-it-worth-paying-more": {
       "title": "GTA 6 Ultimate Edition: Is It Worth Paying More?",
@@ -330,7 +234,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-11-03T13:34:54.662454+06:00",
-      "last_seen": "2026-11-04T21:57:46.832835+06:00"
+      "last_seen": "2026-11-06T13:40:06.574578+06:00"
     },
     "nintendolife.com/news/2026/11/zelda-ocarina-of-time-switch-2-free-n64-box-replica-announced-for-argos-midnight-launch-uk": {
       "title": "Zelda: Ocarina Of Time Switch 2 \"Free N64 Box Replica\" Announced For Argos Midnight Launch (UK)",
@@ -5025,7 +4929,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-11-06T04:32:57.275256+06:00",
-      "last_seen": "2026-11-06T04:32:57.275257+06:00"
+      "last_seen": "2026-11-06T13:40:06.575013+06:00"
     },
     "insider-gaming.com/acclaim-gta-6-hype-get-that-acclaim-six-bundle": {
       "title": "Acclaim Gets In On The GTA 6 Hype With A “Get That Acclaim SIX” Bundle",
@@ -5091,64 +4995,266 @@
       "first_seen": "2026-11-06T04:32:59.216094+06:00",
       "last_seen": "2026-11-06T04:32:59.216095+06:00",
       "posted_at": "2026-11-06T04:43:30.947158+06:00"
+    },
+    "ign.com/articles/after-buying-ea-silver-lake-and-pif-are-reportedly-now-seeking-to-acquire-gaming-software-provider-unity": {
+      "title": "After Buying EA, Silver Lake and PIF Are Reportedly Now Seeking to Acquire Gaming Software Provider Unity",
+      "url": "https://www.ign.com/articles/after-buying-ea-silver-lake-and-pif-are-reportedly-now-seeking-to-acquire-gaming-software-provider-unity",
+      "canonical": "ign.com/articles/after-buying-ea-silver-lake-and-pif-are-reportedly-now-seeking-to-acquire-gaming-software-provider-unity",
+      "published_dt": "2026-11-06T11:41:38+06:00",
+      "published_date": "2026-11-06T11:41:38+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "After Buying EA, Silver Lake and PIF Are Reportedly Now Seeking to Acquire Gaming Software Provider Unity",
+      "image": "https://assets-prd.ignimgs.com/2026/11/06/unityblogroll-1793943131268.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-06T13:40:01.666349+06:00",
+      "last_seen": "2026-11-06T13:40:01.666354+06:00"
+    },
+    "gematsu.com/2026/11/japanese-rural-life-adventure-now-available-for-ps4": {
+      "title": "Japanese Rural Life Adventure now available for PS4",
+      "url": "https://www.gematsu.com/2026/11/japanese-rural-life-adventure-now-available-for-ps4",
+      "canonical": "gematsu.com/2026/11/japanese-rural-life-adventure-now-available-for-ps4",
+      "published_dt": "2026-11-06T11:02:27+06:00",
+      "published_date": "2026-11-06T11:02:27+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Publisher G-MODE Corporation and developer GAME START LLC have released a PlayStation 4 version of …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-06T13:40:03.266530+06:00",
+      "last_seen": "2026-11-06T13:40:03.266534+06:00"
+    },
+    "pcgamer.com/gaming-industry/saudi-arabia-owns-ea-and-according-to-a-reuters-report-unity-is-next": {
+      "title": "Saudi Arabia owns EA, and according to a Reuters report, Unity is next",
+      "url": "https://www.pcgamer.com/gaming-industry/saudi-arabia-owns-ea-and-according-to-a-reuters-report-unity-is-next/",
+      "canonical": "pcgamer.com/gaming-industry/saudi-arabia-owns-ea-and-according-to-a-reuters-report-unity-is-next",
+      "published_dt": "2026-11-06T11:27:40+06:00",
+      "published_date": "2026-11-06T11:27:40+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Recent games made in Unity include Big Walk, Endless Legend 2, and Agent 64: Spies Never Die.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ai54DrFGrRDcNqszBWZd8c-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-06T13:40:04.049141+06:00",
+      "last_seen": "2026-11-06T13:40:04.049146+06:00"
+    },
+    "polygon.com/steven-spielberg-clouse-encounters-directors-cut-streaming-free-youtube": {
+      "title": "49 Years Later, Steven Spielberg’s Sci-Fi Thriller Masterpiece Is Officially Free on YouTube",
+      "url": "https://www.polygon.com/steven-spielberg-clouse-encounters-directors-cut-streaming-free-youtube/",
+      "canonical": "polygon.com/steven-spielberg-clouse-encounters-directors-cut-streaming-free-youtube",
+      "published_dt": "2026-11-06T11:00:18+06:00",
+      "published_date": "2026-11-06T11:00:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The aliens are coming and they're driving Richard Dreyfuss insane",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/msdclen_ec024.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-06T13:40:04.444840+06:00",
+      "last_seen": "2026-11-06T13:40:04.444843+06:00"
+    },
+    "insider-gaming.com/mass-effect-merchandise-electronic-arts-tone-deaf": {
+      "title": "EA Promotes Mass Effect Merch for N7 Day Weeks After Cancelling The Brand",
+      "url": "https://insider-gaming.com/mass-effect-merchandise-electronic-arts-tone-deaf/",
+      "canonical": "insider-gaming.com/mass-effect-merchandise-electronic-arts-tone-deaf",
+      "published_dt": "2026-11-06T13:38:54+06:00",
+      "published_date": "2026-11-06T13:38:54+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "In an ill-timed post on social media, Electronic Arts has tried cashing in on Mass Effect, a franchise it has just killed. The post EA Promotes Mass Effect Merch for N7 Day Weeks After Cancelling The Brand appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-06T13:40:06.574122+06:00",
+      "last_seen": "2026-11-06T13:40:06.574126+06:00"
+    },
+    "insider-gaming.com/saudi-silver-lake-pif-unity-acquisition-buyout": {
+      "title": "Silver Lake and Saudi PIF Bought EA; Now They Reportedly Want Unity",
+      "url": "https://insider-gaming.com/saudi-silver-lake-pif-unity-acquisition-buyout/",
+      "canonical": "insider-gaming.com/saudi-silver-lake-pif-unity-acquisition-buyout",
+      "published_dt": "2026-11-06T13:25:25+06:00",
+      "published_date": "2026-11-06T13:25:25+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "It has been claimed in a new report that the Saudi Arabian PIF and Silver Lake want to acquire Unity after the $55 billion EA buyout. The post Silver Lake and Saudi PIF Bought EA; Now They Reportedly Want Unity appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-06T13:40:06.574367+06:00",
+      "last_seen": "2026-11-06T13:40:06.574370+06:00"
+    },
+    "nintendolife.com/news/2026/11/nintendo-to-continue-delivering-movies-beyond-live-action-zelda-unsurprisingly": {
+      "title": "Nintendo To Continue Delivering Movies Beyond Live-Action Zelda, Unsurprisingly",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-to-continue-delivering-movies-beyond-live-action-zelda-unsurprisingly",
+      "canonical": "nintendolife.com/news/2026/11/nintendo-to-continue-delivering-movies-beyond-live-action-zelda-unsurprisingly",
+      "published_dt": "2026-11-06T11:55:00+06:00",
+      "published_date": "2026-11-06T11:55:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "So, what's next? Nintendo is now fully committed to the movie business thanks to Super Mario and the upcoming live-action Zelda film, due out 30th April 2027 . Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/82a16b92906f9/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-06T13:40:07.111249+06:00",
+      "last_seen": "2026-11-06T13:40:07.111254+06:00",
+      "posted_at": "2026-11-06T13:46:19.079597+06:00"
+    },
+    "nintendolife.com/news/2026/11/nintendo-highlights-multiple-major-third-party-releases-on-the-way-to-switch-2-in-2027": {
+      "title": "Nintendo Highlights Multiple Major Third-Party Releases On The Way To Switch 2 In 2027",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-highlights-multiple-major-third-party-releases-on-the-way-to-switch-2-in-2027",
+      "canonical": "nintendolife.com/news/2026/11/nintendo-highlights-multiple-major-third-party-releases-on-the-way-to-switch-2-in-2027",
+      "published_dt": "2026-11-06T10:45:00+06:00",
+      "published_date": "2026-11-06T10:45:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Final Fantasy, Resident Evil and more. The third-party support for the Switch 2 has been mostly outstanding so far, with releases such as Cyberpunk 2077 and Call of Duty: Modern Warfare 4 . Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/b415f25ed2494/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-06T13:40:07.111580+06:00",
+      "last_seen": "2026-11-06T13:40:07.111582+06:00"
+    },
+    "escapistmagazine.com/switch-2-shipments-fall-37-4-in-first-half-but-nintendo-holds-its-16-5-million-target": {
+      "title": "Switch 2 shipments fall 37.4% in first half, but Nintendo holds its 16.5 million target - The Escapist",
+      "url": "https://www.escapistmagazine.com/switch-2-shipments-fall-37-4-in-first-half-but-nintendo-holds-its-16-5-million-target/",
+      "canonical": "escapistmagazine.com/switch-2-shipments-fall-37-4-in-first-half-but-nintendo-holds-its-16-5-million-target",
+      "published_dt": "2026-11-06T13:23:18+06:00",
+      "published_date": "2026-11-06T13:23:18+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://www.escapistmagazine.com/wp-content/uploads/2026/11/match-1219227.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-06T13:40:16.610843+06:00",
+      "last_seen": "2026-11-06T13:40:16.610847+06:00"
+    },
+    "de.ign.com/xbox-game-pass/157023/microsoft-fahrt-endlich-wichtiges-update-auf-der-xbox-pc-app-und-gibt-an-sie-sei-nun-60-prozent-schn": {
+      "title": "Microsoft fährt endlich wichtiges Update auf der Xbox-PC-App und gibt an, sie sei nun 60 Prozent schneller",
+      "url": "https://de.ign.com/xbox-game-pass/157023/microsoft-fahrt-endlich-wichtiges-update-auf-der-xbox-pc-app-und-gibt-an-sie-sei-nun-60-prozent-schn",
+      "canonical": "de.ign.com/xbox-game-pass/157023/microsoft-fahrt-endlich-wichtiges-update-auf-der-xbox-pc-app-und-gibt-an-sie-sei-nun-60-prozent-schn",
+      "published_dt": "2026-11-06T13:00:32+06:00",
+      "published_date": "2026-11-06T13:00:32+06:00",
+      "source": "de.ign.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://sm.ign.com/t/ign_de/news/m/microsoft-/microsoft-updates-xbox-pc-app-says-its-60-faster_7557.1200.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-06T13:40:16.610926+06:00",
+      "last_seen": "2026-11-06T13:40:16.610927+06:00"
+    },
+    "hu.ign.com/grand-theft-auto-vi/114893/oriasi-adag-uj-kep-erkezett-a-gta-6-bol-amik-egy-elettel-teli-es-meglehetosen-szines-vice-cityt-fest": {
+      "title": "Óriási adag új kép érkezett a GTA 6-ból, amik egy élettel teli és meglehetősen színes Vice Cityt festenek le nekünk",
+      "url": "https://hu.ign.com/grand-theft-auto-vi/114893/oriasi-adag-uj-kep-erkezett-a-gta-6-bol-amik-egy-elettel-teli-es-meglehetosen-szines-vice-cityt-fest",
+      "canonical": "hu.ign.com/grand-theft-auto-vi/114893/oriasi-adag-uj-kep-erkezett-a-gta-6-bol-amik-egy-elettel-teli-es-meglehetosen-szines-vice-cityt-fest",
+      "published_dt": "2026-11-06T12:49:11+06:00",
+      "published_date": "2026-11-06T12:49:11+06:00",
+      "source": "hu.ign.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://sm.ign.com/t/ign_hu/gallery/g/gta-6-laun/gta-6-launch-screenshots_fmm8.1200.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-06T13:40:16.610966+06:00",
+      "last_seen": "2026-11-06T13:40:16.610968+06:00"
+    },
+    "kotaku.com/games/wing-commander-iii-heart-of-the-tiger-30th-anniversary-edition": {
+      "title": "Wing Commander III: Heart of the Tiger - 30th Anniversary Edition - Kotaku",
+      "url": "https://kotaku.com/games/wing-commander-iii-heart-of-the-tiger-30th-anniversary-edition",
+      "canonical": "kotaku.com/games/wing-commander-iii-heart-of-the-tiger-30th-anniversary-edition",
+      "published_dt": "2026-11-06T13:02:43+06:00",
+      "published_date": "2026-11-06T13:02:43+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://kotaku.com/app/uploads/2025/07/kotaku-1200x900-1.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-06T13:40:16.611005+06:00",
+      "last_seen": "2026-11-06T13:40:16.611007+06:00"
+    },
+    "de.ign.com/john-wick-chapter-4/157029/ein-john-wick-prequel-film-mit-keanu-reeves-ist-in-der-mache-aber-es-gibt-einen-haken": {
+      "title": "Ein John Wick Prequel Film mit Keanu Reeves ist in der Mache, aber es gibt einen Haken",
+      "url": "https://de.ign.com/john-wick-chapter-4/157029/ein-john-wick-prequel-film-mit-keanu-reeves-ist-in-der-mache-aber-es-gibt-einen-haken",
+      "canonical": "de.ign.com/john-wick-chapter-4/157029/ein-john-wick-prequel-film-mit-keanu-reeves-ist-in-der-mache-aber-es-gibt-einen-haken",
+      "published_dt": "2026-11-06T10:49:04+06:00",
+      "published_date": "2026-11-06T10:49:04+06:00",
+      "source": "de.ign.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://sm.ign.com/t/ign_de/news/a/animated-j/animated-john-wick-prequel-film-in-the-works-starring-keanu_95hb.1200.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-06T13:40:16.611041+06:00",
+      "last_seen": "2026-11-06T13:40:16.611042+06:00"
+    },
+    "polygon.com/star-trek-2009-streaming-free-pluto-tv-november-2026": {
+      "title": "17 Years Later, J.J Abrams's Sci-Fi Masterpiece that Saved a Franchise is Free on Streaming",
+      "url": "https://www.polygon.com/star-trek-2009-streaming-free-pluto-tv-november-2026/",
+      "canonical": "polygon.com/star-trek-2009-streaming-free-pluto-tv-november-2026",
+      "published_dt": "2026-11-06T13:11:17+06:00",
+      "published_date": "2026-11-06T13:11:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/star-trek.jpg?w=1600&h=900&fit=crop",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-06T13:40:16.611078+06:00",
+      "last_seen": "2026-11-06T13:40:16.611080+06:00"
+    },
+    "kotaku.com/games/wing-commander-prophecy-30th-anniversary-edition": {
+      "title": "Wing Commander Prophecy: 30th Anniversary Edition - Kotaku",
+      "url": "https://kotaku.com/games/wing-commander-prophecy-30th-anniversary-edition",
+      "canonical": "kotaku.com/games/wing-commander-prophecy-30th-anniversary-edition",
+      "published_dt": "2026-11-06T13:02:43+06:00",
+      "published_date": "2026-11-06T13:02:43+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://kotaku.com/app/uploads/2025/07/kotaku-1200x900-1.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-06T13:40:19.386556+06:00",
+      "last_seen": "2026-11-06T13:40:19.386561+06:00"
+    },
+    "kotaku.com/games/persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-3": {
+      "title": "Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 3 - Kotaku",
+      "url": "https://kotaku.com/games/persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-3",
+      "canonical": "kotaku.com/games/persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-3",
+      "published_dt": "2026-11-06T13:02:39+06:00",
+      "published_date": "2026-11-06T13:02:39+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-06T13:40:21.749825+06:00",
+      "last_seen": "2026-11-06T13:40:21.749829+06:00"
     }
   },
   "events": {
-    "evt_b039b50e5e4d38": {
-      "event_id": "evt_b039b50e5e4d38",
-      "event_key": "pok mon home firered leafgreen compatibility update v4 1 0",
-      "event_subject": "Pokémon HOME FireRed & LeafGreen Compatibility Update Now Live (Version 4.1.0)",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "pok mon home firered leafgreen compatibility update v4 1 0",
-        "subject": "Pokémon HOME FireRed & LeafGreen Compatibility Update Now Live (Version 4.1.0)",
-        "event_type": "other",
-        "action": "release",
-        "status": "live",
-        "modality": "unknown",
-        "game": "Pokémon HOME",
-        "franchise": "Pokémon",
-        "institution": "The Pokémon Company",
-        "target": "Pokémon HOME users",
-        "platforms": [
-          "iOS",
-          "Android"
-        ],
-        "topic": "compatibility"
-      },
-      "sources": [
-        "Nintendo Life"
-      ],
-      "event_sources": [
-        "Nintendo Life"
-      ],
-      "claims": [
-        "adds support for FireRed and LeafGreen transfers",
-        "adds support for FireRed and LeafGreen transfers"
-      ],
-      "importance_score": 42,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Pokémon HOME Update Adds FireRed & LeafGreen Compatibility in Version 4.1.0",
-      "summary": "The Pokémon Company’s latest Pokémon HOME 4.1.0 update finally lets trainers move Pokémon from FireRed and LeafGreen into the cloud service, with new limits and bonuses.",
-      "published_at": "2026-10-07T10:30:00+06:00",
-      "selected_at": "2026-10-07T06:55:49.623995+00:00",
-      "status": "published",
-      "message_id": 593,
-      "published_versions": [
-        {
-          "published_at": "2026-10-07T06:55:49.623995+00:00",
-          "headline": "Pokémon HOME Update Adds FireRed & LeafGreen Compatibility in Version 4.1.0",
-          "claims": [
-            "adds support for FireRed and LeafGreen transfers",
-            "adds support for FireRed and LeafGreen transfers"
-          ]
-        }
-      ]
-    },
     "evt_4ffc9c266373e6": {
       "event_id": "evt_4ffc9c266373e6",
       "event_key": "gta 6 big interview",
@@ -22427,6 +22533,62 @@
           "published_at": "2026-11-05T22:43:30.947193+00:00",
           "headline": "Myethos Unveils New Honkai: Star Rail Dan Heng Gift+ and Dorm Chibi Figures",
           "claims": []
+        }
+      ]
+    },
+    "evt_43c7f9dc01b7b7": {
+      "event_id": "evt_43c7f9dc01b7b7",
+      "event_key": "nintendo movie strategy continuation",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo movie strategy continuation",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "continue_movie_production",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Nintendo",
+        "target": "Nintendo movies",
+        "platforms": [],
+        "topic": "company_strategy"
+      },
+      "sources": [
+        "The Escapist",
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "The Escapist",
+        "Nintendo Life"
+      ],
+      "claims": [
+        "Switch 2 shipments fell 37.4% in H1 2026 but target remains 16.5M units",
+        "Nintendo will keep producing movies beyond live‑action Zelda",
+        "Multiple major third‑party titles slated for Switch 2 in 2027"
+      ],
+      "importance_score": 47,
+      "coverage_score": 6,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 9,
+      "headline": "Nintendo Commits to Ongoing Film Franchise After Live‑Action Zelda Release",
+      "summary": "Nintendo president Shuntaro Furukawa announced a framework for future movies, leveraging the success of Super Mario and the upcoming Zelda film.",
+      "published_at": "2026-11-06T11:55:00+06:00",
+      "selected_at": "2026-11-06T07:46:19.079653+00:00",
+      "status": "published",
+      "message_id": 952,
+      "published_versions": [
+        {
+          "published_at": "2026-11-06T07:46:19.079653+00:00",
+          "headline": "Nintendo Commits to Ongoing Film Franchise After Live‑Action Zelda Release",
+          "claims": [
+            "Switch 2 shipments fell 37.4% in H1 2026 but target remains 16.5M units",
+            "Nintendo will keep producing movies beyond live‑action Zelda",
+            "Multiple major third‑party titles slated for Switch 2 in 2027"
+          ]
         }
       ]
     }
@@ -211052,10 +211214,476 @@
         "total": 30
       },
       "last_seen": "2026-11-06T04:35:01.594199+06:00"
+    },
+    "evt_4b31474859b16d": {
+      "event_id": "evt_4b31474859b16d",
+      "event_key": "gta6 vicecity screenshots leak",
+      "event_subject": "Rockstar Games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 vicecity screenshots leak",
+        "subject": "Rockstar Games",
+        "event_type": "other",
+        "action": "leak_screenshots",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "GTA",
+        "institution": "Rockstar Games",
+        "target": "Vice City location",
+        "platforms": [],
+        "topic": "leak"
+      },
+      "modality": "unknown",
+      "topic": "leak",
+      "institution": "Rockstar Games",
+      "sources": [
+        "hu.ign.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Large batch of GTA 6 screenshots showing Vice City released"
+      ],
+      "importance_score": 55,
+      "score_breakdown": {
+        "significance": 35,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 55
+      },
+      "last_seen": "2026-11-06T13:42:23.854450+06:00"
+    },
+    "evt_2a2c0d7295b49e": {
+      "event_id": "evt_2a2c0d7295b49e",
+      "event_key": "silverlake pif acquire unity",
+      "event_subject": "Silver Lake & Saudi PIF",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "silverlake pif acquire unity",
+        "subject": "Silver Lake & Saudi PIF",
+        "event_type": "other",
+        "action": "seek_acquire",
+        "status": "rumored",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "Unity Technologies",
+        "platforms": [],
+        "topic": "industry_m&A"
+      },
+      "modality": "unknown",
+      "topic": "industry_m&A",
+      "institution": "",
+      "sources": [
+        "Insider Gaming",
+        "IGN",
+        "PC Gamer"
+      ],
+      "source_count": 3,
+      "independent_source_count": 3,
+      "claims": [
+        "Silver Lake and Saudi PIF may acquire Unity after buying EA",
+        "Silver Lake and Saudi PIF may acquire Unity after buying EA",
+        "Saudi Arabia-owned EA leads to possible Unity acquisition"
+      ],
+      "importance_score": 70,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 10,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 70
+      },
+      "last_seen": "2026-11-06T13:42:23.854469+06:00"
+    },
+    "evt_43c7f9dc01b7b7": {
+      "event_id": "evt_43c7f9dc01b7b7",
+      "event_key": "nintendo movie strategy continuation",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo movie strategy continuation",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "continue_movie_production",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Nintendo",
+        "target": "Nintendo movies",
+        "platforms": [],
+        "topic": "company_strategy"
+      },
+      "modality": "unknown",
+      "topic": "company_strategy",
+      "institution": "Nintendo",
+      "sources": [
+        "The Escapist",
+        "Nintendo Life"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Switch 2 shipments fell 37.4% in H1 2026 but target remains 16.5M units",
+        "Nintendo will keep producing movies beyond live‑action Zelda",
+        "Multiple major third‑party titles slated for Switch 2 in 2027"
+      ],
+      "importance_score": 47,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 47
+      },
+      "last_seen": "2026-11-06T13:42:23.854475+06:00"
+    },
+    "evt_7908766a5cc860": {
+      "event_id": "evt_7908766a5cc860",
+      "event_key": "microsoft xboxpcapp speed update",
+      "event_subject": "Microsoft",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft xboxpcapp speed update",
+        "subject": "Microsoft",
+        "event_type": "other",
+        "action": "improve_performance",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "Xbox PC app",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "software_update"
+      },
+      "modality": "unknown",
+      "topic": "software_update",
+      "institution": "Microsoft",
+      "sources": [
+        "de.ign.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Xbox PC app now 60% faster after update"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 30
+      },
+      "last_seen": "2026-11-06T13:42:23.854479+06:00"
+    },
+    "evt_2706620a234415": {
+      "event_id": "evt_2706620a234415",
+      "event_key": "wingcommander 30th anniversary editions release",
+      "event_subject": "Wing Commander",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "wingcommander 30th anniversary editions release",
+        "subject": "Wing Commander",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Wing Commander III: Heart of the Tiger",
+        "franchise": "Wing Commander",
+        "institution": "",
+        "target": "30th Anniversary Edition",
+        "platforms": [],
+        "topic": "game_release"
+      },
+      "modality": "unknown",
+      "topic": "game_release",
+      "institution": "",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Wing Commander III 30th Anniversary Edition released",
+        "Wing Commander Prophecy 30th Anniversary Edition released"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-11-06T13:42:23.854482+06:00"
+    },
+    "evt_3144b546981665": {
+      "event_id": "evt_3144b546981665",
+      "event_key": "japaneserurallifeadventure ps4 release",
+      "event_subject": "G‑MODE Corporation & GAME START LLC",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "japaneserurallifeadventure ps4 release",
+        "subject": "G‑MODE Corporation & GAME START LLC",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Japanese Rural Life Adventure",
+        "franchise": "Japanese Rural Life Adventure",
+        "institution": "G‑MODE Corporation",
+        "target": "PlayStation 4 version",
+        "platforms": [
+          "PS4"
+        ],
+        "topic": "game_release"
+      },
+      "modality": "unknown",
+      "topic": "game_release",
+      "institution": "G‑MODE Corporation",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Japanese Rural Life Adventure now available on PS4"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 40
+      },
+      "last_seen": "2026-11-06T13:42:23.854486+06:00"
+    },
+    "evt_7f20d4a9331a29": {
+      "event_id": "evt_7f20d4a9331a29",
+      "event_key": "ea cancel masseffect brand",
+      "event_subject": "Electronic Arts",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ea cancel masseffect brand",
+        "subject": "Electronic Arts",
+        "event_type": "other",
+        "action": "cancel",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Mass Effect",
+        "franchise": "Mass Effect",
+        "institution": "Electronic Arts",
+        "target": "Mass Effect franchise",
+        "platforms": [],
+        "topic": "company_actions"
+      },
+      "modality": "unknown",
+      "topic": "company_actions",
+      "institution": "Electronic Arts",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "EA has cancelled the Mass Effect brand"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-11-06T13:42:23.854490+06:00"
+    },
+    "evt_574ffbfb86892c": {
+      "event_id": "evt_574ffbfb86892c",
+      "event_key": "persona5 thephantomx chapter3 release",
+      "event_subject": "Atlus",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "persona5 thephantomx chapter3 release",
+        "subject": "Atlus",
+        "event_type": "other",
+        "action": "release",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Persona5: The Phantom X",
+        "franchise": "Persona",
+        "institution": "Atlus",
+        "target": "Main Story Chapter 3: Unconditional Love Phase 3",
+        "platforms": [],
+        "topic": "dlc"
+      },
+      "modality": "unknown",
+      "topic": "dlc",
+      "institution": "Atlus",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Persona5: The Phantom X Chapter 3 released"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-11-06T13:42:23.854493+06:00"
+    },
+    "evt_27773c0f89cbf2": {
+      "event_id": "evt_27773c0f89cbf2",
+      "event_key": "johnwick prequel announcement",
+      "event_subject": "Warner Bros.",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "johnwick prequel announcement",
+        "subject": "Warner Bros.",
+        "event_type": "other",
+        "action": "announce_prequel",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "John Wick",
+        "institution": "Warner Bros.",
+        "target": "John Wick prequel starring Keanu Reeves",
+        "platforms": [],
+        "topic": "film"
+      },
+      "modality": "unknown",
+      "topic": "film",
+      "institution": "Warner Bros.",
+      "sources": [
+        "de.ign.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "John Wick prequel announced with Keanu Reeves attached, but with a hitch"
+      ],
+      "importance_score": 24,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 24
+      },
+      "last_seen": "2026-11-06T13:42:23.854496+06:00"
+    },
+    "evt_bfbd6fb50b672e": {
+      "event_id": "evt_bfbd6fb50b672e",
+      "event_key": "jjabrams film free streaming",
+      "event_subject": "J.J. Abrams",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "jjabrams film free streaming",
+        "subject": "J.J. Abrams",
+        "event_type": "other",
+        "action": "make_free",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "Sci‑Fi Masterpiece",
+        "platforms": [
+          "YouTube"
+        ],
+        "topic": "media_release"
+      },
+      "modality": "unknown",
+      "topic": "media_release",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Abrams' sci‑fi film is now free on streaming platforms"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-11-06T13:42:23.854500+06:00"
+    },
+    "evt_9bf405bda7b4c6": {
+      "event_id": "evt_9bf405bda7b4c6",
+      "event_key": "spielberg film free youtube",
+      "event_subject": "Steven Spielberg",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "spielberg film free youtube",
+        "subject": "Steven Spielberg",
+        "event_type": "other",
+        "action": "make_free",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "Sci‑Fi Thriller",
+        "platforms": [
+          "YouTube"
+        ],
+        "topic": "media_release"
+      },
+      "modality": "unknown",
+      "topic": "media_release",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Spielberg's sci‑fi thriller now free on YouTube"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-06T13:42:23.854503+06:00"
     }
   },
   "posted_event_ids": [
-    "evt_14b02e131e5de4",
     "evt_836cf04ea58849",
     "evt_f81bac879ef4f4",
     "evt_c424620211ce79",
@@ -211554,15 +212182,10 @@
     "evt_62b170d6079d23",
     "evt_3c22d06d047b6d",
     "evt_b8537e5990c8cf",
-    "evt_75e694f840765b"
+    "evt_75e694f840765b",
+    "evt_43c7f9dc01b7b7"
   ],
   "recent_titles": [
-    "blizzard s new skyborne race stirs design debate in world of warcraft forever",
-    "grasshopper manufacture splits from netease returns to independence",
-    "capcom maps future strategy as resident evil remakes near crossover point",
-    "ea sports hires engineer for unannounced aaa free to play live service title",
-    "ubisoft montreal workers rally to preserve hybrid work amid company wide return to office push",
-    "microsoft s xbox deal for hideo kojima s physint costs far less than expected",
     "xbox cloud gaming cuts back samsung tv support ends soon",
     "analyst says cancelled ps5 port of gears of war e day was a missed revenue chance",
     "modern warfare 4 introduces counter strike style collateral mode",
@@ -211962,10 +212585,11 @@
     "saving mass effect 5 could cost over 200 million bioware co founder warns",
     "nier automata update swells file size to 366 gb on steam",
     "three ice cavern gold skulltula spots revealed in zelda switch remake",
-    "myethos unveils new honkai star rail dan heng gift and dorm chibi figures"
+    "myethos unveils new honkai star rail dan heng gift and dorm chibi figures",
+    "nintendo commits to ongoing film franchise after live action zelda release"
   ],
   "category_coverage": {
-    "Game Updates": "2026-11-06T04:43:30.947222+06:00",
+    "Game Updates": "2026-11-06T13:46:19.079687+06:00",
     "Major Releases": "2026-11-05T04:00:15.924977+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
