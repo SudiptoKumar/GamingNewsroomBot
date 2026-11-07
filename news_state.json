@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"23729-oB+gxo6s7PwCfq1rKzjjKBPjdJw\"",
+      "etag": "W/\"2b9ae-AtwtAiA6t7JFOj+7BBhlAxVpuZI\"",
       "last_modified": null,
-      "last_checked": "2026-11-07T19:44:52.028223+06:00",
+      "last_checked": "2026-11-08T00:28:29.820995+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T19:44:52.235762+06:00",
+      "last_checked": "2026-11-08T00:28:30.143653+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aef2a51-a0b\"",
-      "last_modified": "Sat, 07 Nov 2026 13:40:33 GMT",
-      "last_checked": "2026-11-07T19:44:52.704835+06:00",
+      "etag": "\"6aef6d1f-9ae\"",
+      "last_modified": "Sat, 07 Nov 2026 18:25:35 GMT",
+      "last_checked": "2026-11-08T00:28:30.603553+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Sat, 07 Nov 2026 12:30:10 GMT",
-      "last_checked": "2026-11-07T19:44:53.172240+06:00",
+      "last_modified": "Sat, 07 Nov 2026 16:55:30 GMT",
+      "last_checked": "2026-11-08T00:28:30.818269+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"6aee2cfc-12b0\"",
-      "last_modified": "Fri, 06 Nov 2026 19:39:40 GMT",
-      "last_checked": "2026-11-07T19:44:53.575530+06:00",
+      "etag": "\"5dffa74660b13e815236aa37a99c182f\"",
+      "last_modified": "Sat, 07 Nov 2026 15:26:23 GMT",
+      "last_checked": "2026-11-08T00:28:31.274758+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T19:44:53.706219+06:00",
+      "last_checked": "2026-11-08T00:28:31.494010+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T19:44:54.541569+06:00",
+      "last_checked": "2026-11-08T00:28:32.128503+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"de1a0d62458e9889e4dcedf245d79dd0\"",
-      "last_modified": "Sat, 07 Nov 2026 08:43:08 GMT",
-      "last_checked": "2026-11-07T19:44:54.820412+06:00",
+      "etag": "W/\"80ae17146c82880bc420c291ed9f083e\"",
+      "last_modified": "Sat, 07 Nov 2026 17:00:29 GMT",
+      "last_checked": "2026-11-08T00:28:32.293828+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T19:44:54.959034+06:00",
+      "last_checked": "2026-11-08T00:28:32.489907+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Sat, 7 Nov 2026 08:28:38 GMT",
-      "last_checked": "2026-11-07T19:44:55.685509+06:00",
+      "last_modified": "Sat, 7 Nov 2026 18:08:09 GMT",
+      "last_checked": "2026-11-08T00:28:32.947663+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sat, 07 Nov 2026 13:44:56 GMT",
-      "last_checked": "2026-11-07T19:44:56.407072+06:00",
+      "last_modified": "Sat, 07 Nov 2026 18:28:33 GMT",
+      "last_checked": "2026-11-08T00:28:33.589385+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"9649a3910780f530e5ca376cbc89e929\"",
-      "last_modified": "Sat, 07 Nov 2026 09:46:43 GMT",
-      "last_checked": "2026-11-07T19:44:56.958331+06:00",
+      "etag": "W/\"208376ecfc059d5b3153ef0914865a50\"",
+      "last_modified": "Sat, 07 Nov 2026 17:17:57 GMT",
+      "last_checked": "2026-11-08T00:28:33.811609+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T19:44:57.348632+06:00",
+      "last_checked": "2026-11-08T00:28:34.337249+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T19:44:57.777458+06:00",
+      "last_checked": "2026-11-08T00:28:34.633779+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T19:44:58.338657+06:00",
+      "last_checked": "2026-11-08T00:28:35.160531+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-07T19:44:58.705826+06:00",
-      "fail_count": 154,
+      "last_checked": "2026-11-08T00:28:35.397092+06:00",
+      "fail_count": 155,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"aca1b4833d22e55f8002c37505b97eb6\"",
-      "last_modified": "Fri, 06 Nov 2026 19:01:37 GMT",
-      "last_checked": "2026-11-07T19:44:58.806548+06:00",
+      "etag": "W/\"ceb6373fba75b392281bd47c0f3797d8\"",
+      "last_modified": "Fri, 06 Nov 2026 04:17:04 GMT",
+      "last_checked": "2026-11-08T00:28:35.548070+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-07T19:44:58.928806+06:00",
+      "last_checked": "2026-11-08T00:28:35.775077+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-07T19:44:59.112784+06:00",
-      "fail_count": 154,
+      "last_checked": "2026-11-08T00:28:35.992831+06:00",
+      "fail_count": 155,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"66667a1dfb673d89050345914fb9130d\"",
-      "last_modified": "Sat, 07 Nov 2026 06:13:11 GMT",
-      "last_checked": "2026-11-07T19:44:59.286407+06:00",
+      "etag": "W/\"a40cba2f2163d89476d10be041d16d63\"",
+      "last_modified": "Sat, 07 Nov 2026 08:38:19 GMT",
+      "last_checked": "2026-11-08T00:28:36.222011+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -6501,117 +6501,538 @@
       "status": "pending",
       "first_seen": "2026-11-07T19:45:10.827858+06:00",
       "last_seen": "2026-11-07T19:45:10.827860+06:00"
+    },
+    "ign.com/articles/mass-effect-cast-celebrates-n7-day-with-video-asking-fans-to-help-save-the-franchise": {
+      "title": "Mass Effect Cast Celebrates N7 Day With Video Asking Fans to Help Save the Franchise",
+      "url": "https://www.ign.com/articles/mass-effect-cast-celebrates-n7-day-with-video-asking-fans-to-help-save-the-franchise",
+      "canonical": "ign.com/articles/mass-effect-cast-celebrates-n7-day-with-video-asking-fans-to-help-save-the-franchise",
+      "published_dt": "2026-11-07T23:28:09+06:00",
+      "published_date": "2026-11-07T23:28:09+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Without BioWare, N7 Day is quieter this year, but that didn't stop the Normandy cast and crew from teaming up for a video message asking fans to help save Mass Effect.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/17/me1-blogroll-1786972844387.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:29.897020+06:00",
+      "last_seen": "2026-11-08T00:28:29.897026+06:00"
+    },
+    "ign.com/articles/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition": {
+      "title": "BioWare May Be Dead, But a Modder Has Rebuilt Mass Effect 3's Multiplayer Into the Legendary Edition",
+      "url": "https://www.ign.com/articles/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition",
+      "canonical": "ign.com/articles/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition",
+      "published_dt": "2026-11-07T23:00:00+06:00",
+      "published_date": "2026-11-07T23:00:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "When the Mass Effect Legendary Edition came out in 2021, it included the single player campaign of all three original games, along with all the DLC. But while all the story content you could ever want was included, Mass Effect 3's multiplayer mode was conspicuously absent, despite having a dedicated fanbase.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/06/masseffect-multiplayermod-interview-blogroll-1793999260678.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:29.897175+06:00",
+      "last_seen": "2026-11-08T00:28:29.897178+06:00"
+    },
+    "ign.com/articles/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene": {
+      "title": "'I Feel Like Modding is Kind Of Dying' – Mass Effect 3 Multiplayer Modder on AI's Impact on the Scene",
+      "url": "https://www.ign.com/articles/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene",
+      "canonical": "ign.com/articles/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene",
+      "published_dt": "2026-11-07T23:00:00+06:00",
+      "published_date": "2026-11-07T23:00:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Over the past few months, there's been a sort of explosion of AI in the modding scene. Whether it's mashup mods on Twitter or full decompilation done by Claude, AI is everywhere in the mod community, and it may just be killing the hobby.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:29.897297+06:00",
+      "last_seen": "2026-11-08T00:28:29.897299+06:00"
+    },
+    "gamespot.com/articles/the-best-gta-alternatives-for-kids-and-families": {
+      "title": "The Best GTA Alternatives For Kids And Families",
+      "url": "https://www.gamespot.com/articles/the-best-gta-alternatives-for-kids-and-families/",
+      "canonical": "gamespot.com/articles/the-best-gta-alternatives-for-kids-and-families",
+      "published_dt": "2026-11-07T23:00:00+06:00",
+      "published_date": "2026-11-07T23:00:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Grand Theft Auto VI is going to be the biggest video game launch of all time, and it's not particularly close. Millions and millions of people are eagerly awaiting their chance to start up the game on Xbox or PlayStation and sink hundreds (or more) hours into Leonida, but there is a very large demographic that Rockstar's game doesn't target: families with kids. GTA 6 is filled with drugs, murder, sex, and pretty much everything else you could think to put in the ESRB rating description for a video game. That means you probably aren't letting your kids play it (seriously, please don't), but there's a good chance they're going to experience some FOMO--especially if they hear other kids at school are playing it (though those kids are probably lying). So, with that in mind, it's a good idea to have some GTA alternatives ready to go, not only so your kids have something fun to play, but also so you can enjoy a game together. Below are 10 great Grand Theft Auto VI alternatives for kids and families, ranging from games that play like \"baby's first GTA\" to games that take one element of Rockstar's series and run with it … and one bizarre, family-friendly game that Rockstar happened to make itself. Lego City Undercover (PS4, Xbox One, Switch, Wii U, PC) Of any game on this list, Lego City Undercover is the one that most resembles Grand Theft Auto in its structure, with access to a big open world and vehicles to drive. Because it's a family-friendly game, however, you play as police officer Chase McCain rather than a hardened criminal, with a particular focus on detective work as you investigate crimes throughout the city. It supports two-person cooperative play, and because there are a whole bunch of movie references intended for parents rather than kids--unless you've shown them Shawshank Redemption already--you may want to pick up the second controller yourself. See at Steam Lego Batman: Legacy of the Dark Knight (PS5, Xbox Series X|S, Switch 2, PC) If you're looking for a",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/legocityundercover1.jpeg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:30.265209+06:00",
+      "last_seen": "2026-11-08T00:28:30.265225+06:00"
+    },
+    "videogameschronicle.com/guide/zelda-oot-remake-business-scrub-password-solution": {
+      "title": "Zelda OOT Remake: Business Scrub Password solution",
+      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-business-scrub-password-solution/",
+      "canonical": "videogameschronicle.com/guide/zelda-oot-remake-business-scrub-password-solution",
+      "published_dt": "2026-11-08T00:06:58+06:00",
+      "published_date": "2026-11-08T00:06:58+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "How to find the Business Scrub's Password in The Legend of Zelda: Ocarina of Time remake",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:30.611731+06:00",
+      "last_seen": "2026-11-08T00:28:30.611735+06:00"
+    },
+    "videogameschronicle.com/guide/zelda-oot-remake-scarecrow-song-explained-unlock": {
+      "title": "Zelda OOT Remake: Scarecrow Song explained, how to get and use it",
+      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-scarecrow-song-explained-unlock/",
+      "canonical": "videogameschronicle.com/guide/zelda-oot-remake-scarecrow-song-explained-unlock",
+      "published_dt": "2026-11-07T22:07:39+06:00",
+      "published_date": "2026-11-07T22:07:39+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "How to unlock the Scarecrow Song and use it in The Legend of Zelda: Ocarina of Time remake",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:30.611864+06:00",
+      "last_seen": "2026-11-08T00:28:30.611866+06:00"
+    },
+    "eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave": {
+      "title": "Wardogs Season 3 brings an urban map, Limited Mode, and a 185,000-account ban wave",
+      "url": "https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
+      "canonical": "eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
+      "published_dt": "2026-11-07T22:55:30+06:00",
+      "published_date": "2026-11-07T22:55:30+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Wardogs' Season 3 will launch on 12th November, complete with a new urban map, a new Limited Mode, and a ban wave targeting 185,000 accounts. Read more",
+      "image": "https://assetsio.gnwcdn.com/wardogs-review-header.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:30.897390+06:00",
+      "last_seen": "2026-11-08T00:28:30.897396+06:00"
+    },
+    "pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company": {
+      "title": "AMD CEO Lisa Su: 'We are a data center-first company'",
+      "url": "https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/",
+      "canonical": "pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company",
+      "published_dt": "2026-11-08T00:10:16+06:00",
+      "published_date": "2026-11-08T00:10:16+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Congratulations.",
+      "image": "https://cdn.mos.cms.futurecdn.net/qDK99x7KtDSDHFZjKX9dj3-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:31.776083+06:00",
+      "last_seen": "2026-11-08T00:28:31.776088+06:00"
+    },
+    "pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay": {
+      "title": "After seeing them myself, I'm convinced WoW: Forever's RP servers don't need to be this separate, and I say that as a decorated veteran of MMO roleplay",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay/",
+      "canonical": "pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay",
+      "published_dt": "2026-11-08T00:00:00+06:00",
+      "published_date": "2026-11-08T00:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "I'm kinda just playing chiller PvE, here.",
+      "image": "https://cdn.mos.cms.futurecdn.net/6Ywe8m6nRRzBLZTNpNbAXn-1920-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:31.776211+06:00",
+      "last_seen": "2026-11-08T00:28:31.776213+06:00"
+    },
+    "pcgamer.com/games/rpg/whats-the-toughest-choice-youve-made-in-an-rpg": {
+      "title": "What's the toughest choice you've made in an RPG?",
+      "url": "https://www.pcgamer.com/games/rpg/whats-the-toughest-choice-youve-made-in-an-rpg/",
+      "canonical": "pcgamer.com/games/rpg/whats-the-toughest-choice-youve-made-in-an-rpg",
+      "published_dt": "2026-11-07T23:00:00+06:00",
+      "published_date": "2026-11-07T23:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Unburden yourself.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ahPWtukZQkroGgxFKvPUZT-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:31.776322+06:00",
+      "last_seen": "2026-11-08T00:28:31.776324+06:00"
+    },
+    "polygon.com/switchboard-zelda-ocarina-of-time-switch-2-remake": {
+      "title": "I Wouldn’t Dream of Playing the Zelda: Ocarina of Time Remake Right Now",
+      "url": "https://www.polygon.com/switchboard-zelda-ocarina-of-time-switch-2-remake/",
+      "canonical": "polygon.com/switchboard-zelda-ocarina-of-time-switch-2-remake",
+      "published_dt": "2026-11-08T00:00:17+06:00",
+      "published_date": "2026-11-08T00:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The Legenda of Zelda: OoT is sacred, so I'll be waiting to playing the Switch 2 remake",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-legend-of-zelda-ocarina-of-time-sheik-with-harp.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:32.135923+06:00",
+      "last_seen": "2026-11-08T00:28:32.135928+06:00"
+    },
+    "polygon.com/gta-6-grand-theft-auto-physical-copies-retail": {
+      "title": "Grand Theft Auto 6 Physical Copies Are Officially in the Wild",
+      "url": "https://www.polygon.com/gta-6-grand-theft-auto-physical-copies-retail/",
+      "canonical": "polygon.com/gta-6-grand-theft-auto-physical-copies-retail",
+      "published_dt": "2026-11-07T23:26:29+06:00",
+      "published_date": "2026-11-07T23:26:29+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Physical editions of GTA 6 have started to arrive at retailers, offering a first look at the box and its contents.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ultimate_edition_electric_fang_02.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:32.136053+06:00",
+      "last_seen": "2026-11-08T00:28:32.136056+06:00"
+    },
+    "polygon.com/mass-effect-commander-shepard-jennifer-hale-mark-meer-interview-n7-day-2026": {
+      "title": "Commander Shepard’s Actors Are ‘Wildly Hopeful’ for Mass Effect, Despite Everything",
+      "url": "https://www.polygon.com/mass-effect-commander-shepard-jennifer-hale-mark-meer-interview-n7-day-2026/",
+      "canonical": "polygon.com/mass-effect-commander-shepard-jennifer-hale-mark-meer-interview-n7-day-2026",
+      "published_dt": "2026-11-07T23:00:19+06:00",
+      "published_date": "2026-11-07T23:00:19+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Polygon spoke to Mass Effect's Jennifer Hale and Mark Meer about their optimism for Mass Effect after EA shut down BioWare and canceled Mass Effect 5.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/masseffectlegendaryedition_helmet.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:32.136172+06:00",
+      "last_seen": "2026-11-08T00:28:32.136175+06:00"
+    },
+    "polygon.com/wardogs-season-3-reveal": {
+      "title": "Wardogs Season 3 Will Add A Mode That Limits What Weapons Players Can Use",
+      "url": "https://www.polygon.com/wardogs-season-3-reveal/",
+      "canonical": "polygon.com/wardogs-season-3-reveal",
+      "published_dt": "2026-11-07T22:47:52+06:00",
+      "published_date": "2026-11-07T22:47:52+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Wardogs' lengthier Season 3 will introduce Limited Mode, which should be friendlier to new players",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/wardogs-_-launch-trailer-0-8-screenshot.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:32.136283+06:00",
+      "last_seen": "2026-11-08T00:28:32.136285+06:00"
+    },
+    "polygon.com/path-of-exile-2-launch-update": {
+      "title": "Path of Exile 2 Sets The Stage For Massive Update Alongside December Launch",
+      "url": "https://www.polygon.com/path-of-exile-2-launch-update/",
+      "canonical": "polygon.com/path-of-exile-2-launch-update",
+      "published_dt": "2026-11-07T22:13:09+06:00",
+      "published_date": "2026-11-07T22:13:09+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The campaign will wrap up and the Shadow class will be introduced next month",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/shadow_closeup3.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:32.136385+06:00",
+      "last_seen": "2026-11-08T00:28:32.136387+06:00"
+    },
+    "polygon.com/paramount-gi-joe-release-date-paranormal-activity-delay": {
+      "title": "GI Joe and Paranormal Activity Get New Official Release Dates from Paramount",
+      "url": "https://www.polygon.com/paramount-gi-joe-release-date-paranormal-activity-delay/",
+      "canonical": "polygon.com/paramount-gi-joe-release-date-paranormal-activity-delay",
+      "published_dt": "2026-11-07T21:31:59+06:00",
+      "published_date": "2026-11-07T21:31:59+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Paramount reveals the release date for Danny McBride's GI Joe reboot and delays the next installment in the Paranormal Activity series.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/mcdpaac_ec023.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:32.136496+06:00",
+      "last_seen": "2026-11-08T00:28:32.136499+06:00"
+    },
+    "kotaku.com/mass-effect-3-multiplayer-legendary-edition-mod-me3tweaks-2000754691": {
+      "title": "How Modders Spent Three Years Remastering Mass Effect 3’s Fantastic Multiplayer For Legendary Edition: ‘Let’s Do Something Stupid’",
+      "url": "https://kotaku.com/mass-effect-3-multiplayer-legendary-edition-mod-me3tweaks-2000754691",
+      "canonical": "kotaku.com/mass-effect-3-multiplayer-legendary-edition-mod-me3tweaks-2000754691",
+      "published_dt": "2026-11-07T23:00:29+06:00",
+      "published_date": "2026-11-07T23:00:29+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "The ME3Tweaks Legendary Edition mod is out today for N7 Day",
+      "image": "https://kotaku.com/app/uploads/2026/11/me3mplead-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:32.306882+06:00",
+      "last_seen": "2026-11-08T00:28:32.306887+06:00"
+    },
+    "kotaku.com/sony-delays-wireless-playstation-pulse-speakers-a-week-away-from-launch-2000754806": {
+      "title": "Sony Delays Wireless PlayStation Pulse Speakers A Week Away From Launch",
+      "url": "https://kotaku.com/sony-delays-wireless-playstation-pulse-speakers-a-week-away-from-launch-2000754806",
+      "canonical": "kotaku.com/sony-delays-wireless-playstation-pulse-speakers-a-week-away-from-launch-2000754806",
+      "published_dt": "2026-11-07T21:59:42+06:00",
+      "published_date": "2026-11-07T21:59:42+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Sony cites a 'production issue' as hardware shortages stymie what would have been an otherwise whirlwind holiday season for the console",
+      "image": "https://kotaku.com/app/uploads/2026/11/pspulsespeaker-1280x720.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:32.307008+06:00",
+      "last_seen": "2026-11-08T00:28:32.307011+06:00"
+    },
+    "gamesradar.com/games/the-elder-scrolls/skyrims-lead-designer-hopes-the-elder-scrolls-6-sentinel-finally-fixes-the-rpg-series-strange-ladder-problem": {
+      "title": "Skyrim's lead designer hopes The Elder Scrolls 6: Sentinel finally fixes the series' ladder problem",
+      "url": "https://www.gamesradar.com/games/the-elder-scrolls/skyrims-lead-designer-hopes-the-elder-scrolls-6-sentinel-finally-fixes-the-rpg-series-strange-ladder-problem/",
+      "canonical": "gamesradar.com/games/the-elder-scrolls/skyrims-lead-designer-hopes-the-elder-scrolls-6-sentinel-finally-fixes-the-rpg-series-strange-ladder-problem",
+      "published_dt": "2026-11-07T21:37:34+06:00",
+      "published_date": "2026-11-07T21:37:34+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Bruce Nesmith also hopes for a \"better implementation of mounts\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/HnjzxkWV9n6AANqfi3PUn3-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:32.683928+06:00",
+      "last_seen": "2026-11-08T00:28:32.683934+06:00"
+    },
+    "rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more": {
+      "title": "Path of Exile 2's 1.0 version is out this year after all, arriving in December with a full campaign, two neat new classes, and more",
+      "url": "https://www.rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more",
+      "canonical": "rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more",
+      "published_dt": "2026-11-08T00:00:40+06:00",
+      "published_date": "2026-11-08T00:00:40+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "About a year ago, the devs behind Path of Exile 2 delayed the game's 1.0 release to an unspecified point in time, only offering the hope that it wouldn't slip into 2027 (doing much the same about half a year later). But there's good news: it won't! As the action RPG now has a 1.0 release date locked in, alongside a look at what you can expect when it arrives. Read more",
+      "image": "https://assetsio.gnwcdn.com/path-of-exile-2-release-date.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:33.028481+06:00",
+      "last_seen": "2026-11-08T00:28:33.028488+06:00"
+    },
+    "rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy": {
+      "title": "\"I feel that sense of responsibility more acutely\": After BioWare's closure, the makers of a new Mass Effect 3 co-op remaster mod look to carry their legacy",
+      "url": "https://www.rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy",
+      "canonical": "rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy",
+      "published_dt": "2026-11-07T23:00:00+06:00",
+      "published_date": "2026-11-07T23:00:00+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "It appears I was premature in suggesting that the closure of BioWare might quickly spell an end for Mass Effect 3 's strangely good , preposterously enduring co-op mode. I reinstalled and logged on just last week, and easily found a series of packed lobbies. Still, it was always regrettable that 2021's Mass Effect Legendary Edition opted not to remaster this multiplayer component alongside its dolled-up main trilogy, thus failing to introduce to a new generation the joys of performing teleporting psychic headbutts as a millennia-old bipedal frog. Read more",
+      "image": "https://assetsio.gnwcdn.com/LMP.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:33.028841+06:00",
+      "last_seen": "2026-11-08T00:28:33.028844+06:00"
+    },
+    "rockpapershotgun.com/after-star-wars-zero-company-dev-bit-reactor-brought-back-an-unspecified-number-of-furloughed-devs-some-of-those-who-werent-have-seemingly-been-laid-off": {
+      "title": "After Star Wars Zero Company dev Bit Reactor brought back an unspecified number of furloughed devs, some of those who weren't have seemingly been laid off",
+      "url": "https://www.rockpapershotgun.com/after-star-wars-zero-company-dev-bit-reactor-brought-back-an-unspecified-number-of-furloughed-devs-some-of-those-who-werent-have-seemingly-been-laid-off",
+      "canonical": "rockpapershotgun.com/after-star-wars-zero-company-dev-bit-reactor-brought-back-an-unspecified-number-of-furloughed-devs-some-of-those-who-werent-have-seemingly-been-laid-off",
+      "published_dt": "2026-11-07T22:57:30+06:00",
+      "published_date": "2026-11-07T22:57:30+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "Early last month, Star Wars Zero Company developer Bit Reactor brought back a number of developers who had been furloughed before the game launched in August. At the time they did not specify how many devs were returning to the studio, with a separate report claiming more than half had become full time staffers again. Unfortunately, it does now seem like not everyone was able to be brought back, with a number of now former workers sharing word of having been laid off. Read more",
+      "image": "https://assetsio.gnwcdn.com/star-wars-zero-company_uSqeJIo.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:33.029123+06:00",
+      "last_seen": "2026-11-08T00:28:33.029125+06:00"
+    },
+    "insider-gaming.com/gta-6-discord-quest-free-rewards": {
+      "title": "How to Complete GTA 6 Discord Quest and Get Free Rewards",
+      "url": "https://insider-gaming.com/gta-6-discord-quest-free-rewards/",
+      "canonical": "insider-gaming.com/gta-6-discord-quest-free-rewards",
+      "published_dt": "2026-11-07T23:17:55+06:00",
+      "published_date": "2026-11-07T23:17:55+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "You can act now to complete a GTA 6 Discord Quest that will reward you with a gift for doing almost nothing on the app. The post How to Complete GTA 6 Discord Quest and Get Free Rewards appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:33.820666+06:00",
+      "last_seen": "2026-11-08T00:28:33.820672+06:00"
+    },
+    "insider-gaming.com/gta-6-game-of-the-year-awards-chances": {
+      "title": "89% of People Think GTA 6 Will Win Game of the Year at The Game Awards",
+      "url": "https://insider-gaming.com/gta-6-game-of-the-year-awards-chances/",
+      "canonical": "insider-gaming.com/gta-6-game-of-the-year-awards-chances",
+      "published_dt": "2026-11-07T22:59:42+06:00",
+      "published_date": "2026-11-07T22:59:42+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Grand Theft Auto 6 has an 89% chance of securing Game of the Year at The Game Awards this year, one site has predicted. The post 89% of People Think GTA 6 Will Win Game of the Year at The Game Awards appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:33.820909+06:00",
+      "last_seen": "2026-11-08T00:28:33.820911+06:00"
+    },
+    "insider-gaming.com/all-escape-from-tarkov-codes-rewards": {
+      "title": "All Escape from Tarkov Codes—Active Reward Codes and Free Items",
+      "url": "https://insider-gaming.com/all-escape-from-tarkov-codes-rewards/",
+      "canonical": "insider-gaming.com/all-escape-from-tarkov-codes-rewards",
+      "published_dt": "2026-11-07T22:42:49+06:00",
+      "published_date": "2026-11-07T22:42:49+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "If you're hunting for more Escape from Tarkov codes for free items, you'll want to check out this guide, it has all the codes you need. The post All Escape from Tarkov Codes—Active Reward Codes and Free Items appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:33.821128+06:00",
+      "last_seen": "2026-11-08T00:28:33.821131+06:00"
+    },
+    "insider-gaming.com/assassins-creed-rome-game": {
+      "title": "Two New Assassin’s Creed Games Are Reportedly in Development, With One Set in Ancient Rome",
+      "url": "https://insider-gaming.com/assassins-creed-rome-game/",
+      "canonical": "insider-gaming.com/assassins-creed-rome-game",
+      "published_dt": "2026-11-07T21:37:12+06:00",
+      "published_date": "2026-11-07T21:37:12+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Two new Assassin's Creed games are reportedly in development at Ubisoft, with one set in ancient Rome. The post Two New Assassin’s Creed Games Are Reportedly in Development, With One Set in Ancient Rome appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-08T00:28:33.821373+06:00",
+      "last_seen": "2026-11-08T00:28:33.821376+06:00",
+      "posted_at": "2026-11-08T00:44:57.652752+06:00"
+    },
+    "pushsquare.com/news/2026/11/playstation-exclusive-branding-added-to-tentpole-ps5-games-as-sony-doubles-down": {
+      "title": "'PlayStation Exclusive' Branding Added to Tentpole PS5 Games as Sony Doubles Down",
+      "url": "https://www.pushsquare.com/news/2026/11/playstation-exclusive-branding-added-to-tentpole-ps5-games-as-sony-doubles-down",
+      "canonical": "pushsquare.com/news/2026/11/playstation-exclusive-branding-added-to-tentpole-ps5-games-as-sony-doubles-down",
+      "published_dt": "2026-11-07T21:30:00+06:00",
+      "published_date": "2026-11-07T21:30:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Only on PS5. For a period of the PS5 generation, Sony ported its games to the PC, rendering very few of its titles genuine exclusives. In the last year and a bit it’s made an internal decision to focus solely on exclusivity , and it’s slowly beginning to promote that again. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/3d0fa98966ac2/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:34.650187+06:00",
+      "last_seen": "2026-11-08T00:28:34.650192+06:00"
+    },
+    "es.kotaku.com/tres-juegos-gratuitos-que-puedes-jugar-gratis-este-fin-de-semana-en-pc-2000056549": {
+      "title": "Tres juegos gratuitos que puedes jugar gratis este fin de semana en PC - Kotaku en Español",
+      "url": "https://es.kotaku.com/tres-juegos-gratuitos-que-puedes-jugar-gratis-este-fin-de-semana-en-pc-2000056549",
+      "canonical": "es.kotaku.com/tres-juegos-gratuitos-que-puedes-jugar-gratis-este-fin-de-semana-en-pc-2000056549",
+      "published_dt": "2026-11-07T21:28:48+06:00",
+      "published_date": "2026-11-07T21:28:48+06:00",
+      "source": "es.kotaku.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:44.065824+06:00",
+      "last_seen": "2026-11-08T00:28:44.065829+06:00"
+    },
+    "nordic.ign.com/mass-effect-next-chapter/115380/mass-effect-cast-celebrates-n7-day-with-video-asking-fans-to-help-save-the-franchise": {
+      "title": "Mass Effect Cast Celebrates N7 Day With Video Asking Fans to Help Save the Franchise",
+      "url": "https://nordic.ign.com/mass-effect-next-chapter/115380/mass-effect-cast-celebrates-n7-day-with-video-asking-fans-to-help-save-the-franchise",
+      "canonical": "nordic.ign.com/mass-effect-next-chapter/115380/mass-effect-cast-celebrates-n7-day-with-video-asking-fans-to-help-save-the-franchise",
+      "published_dt": "2026-11-07T23:28:10+06:00",
+      "published_date": "2026-11-07T23:28:10+06:00",
+      "source": "nordic.ign.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://sm.ign.com/t/ign_nordic/news/m/mass-effec/mass-effect-cast-celebrates-n7-day-with-video-asking-fans-to_ju8w.1200.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:50.300915+06:00",
+      "last_seen": "2026-11-08T00:28:50.300920+06:00"
+    },
+    "nordic.ign.com/mass-effect-3/115378/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition": {
+      "title": "BioWare May Be Dead, But a Modder Has Rebuilt Mass Effect 3's Multiplayer Into the Legendary Edition",
+      "url": "https://nordic.ign.com/mass-effect-3/115378/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition",
+      "canonical": "nordic.ign.com/mass-effect-3/115378/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition",
+      "published_dt": "2026-11-07T23:00:00+06:00",
+      "published_date": "2026-11-07T23:00:00+06:00",
+      "source": "nordic.ign.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://sm.ign.com/t/ign_nordic/feature/b/bioware-ma/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s_kaqj.1200.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:50.300955+06:00",
+      "last_seen": "2026-11-08T00:28:50.300957+06:00"
+    },
+    "in.ign.com/mass-effect-3/276439/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene": {
+      "title": "'I Feel Like Modding is Kind Of Dying' – Mass Effect 3 Multiplayer Modder on AI's Impact on the Scene",
+      "url": "https://in.ign.com/mass-effect-3/276439/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene",
+      "canonical": "in.ign.com/mass-effect-3/276439/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene",
+      "published_dt": "2026-11-07T23:00:00+06:00",
+      "published_date": "2026-11-07T23:00:00+06:00",
+      "source": "in.ign.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://sm.ign.com/t/ign_in/news/i/i-feel-lik/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplay_r2vp.1200.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:52.522606+06:00",
+      "last_seen": "2026-11-08T00:28:52.522610+06:00"
+    },
+    "nordic.ign.com/mass-effect-3/115379/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene": {
+      "title": "'I Feel Like Modding is Kind Of Dying' – Mass Effect 3 Multiplayer Modder on AI's Impact on the Scene",
+      "url": "https://nordic.ign.com/mass-effect-3/115379/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene",
+      "canonical": "nordic.ign.com/mass-effect-3/115379/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene",
+      "published_dt": "2026-11-07T23:00:00+06:00",
+      "published_date": "2026-11-07T23:00:00+06:00",
+      "source": "nordic.ign.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://sm.ign.com/t/ign_nordic/news/i/i-feel-lik/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplay_uu99.1200.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:52.522681+06:00",
+      "last_seen": "2026-11-08T00:28:52.522683+06:00"
+    },
+    "in.ign.com/mass-effect-3/276438/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition": {
+      "title": "BioWare May Be Dead, But a Modder Has Rebuilt Mass Effect 3's Multiplayer Into the Legendary Edition",
+      "url": "https://in.ign.com/mass-effect-3/276438/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition",
+      "canonical": "in.ign.com/mass-effect-3/276438/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition",
+      "published_dt": "2026-11-07T23:00:00+06:00",
+      "published_date": "2026-11-07T23:00:00+06:00",
+      "source": "in.ign.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://sm.ign.com/t/ign_in/feature/b/bioware-ma/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s_1j3a.1200.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-08T00:28:52.522747+06:00",
+      "last_seen": "2026-11-08T00:28:52.522748+06:00"
     }
   },
   "events": {
-    "evt_537c4b0eb841be": {
-      "event_id": "evt_537c4b0eb841be",
-      "event_key": "cdprojektred witcher3remastered patch release",
-      "event_subject": "CD Projekt Red",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "cdprojektred witcher3remastered patch release",
-        "subject": "CD Projekt Red",
-        "event_type": "other",
-        "action": "released",
-        "status": "released",
-        "modality": "unknown",
-        "game": "The Witcher 3: Wild Hunt – Remastered",
-        "franchise": "The Witcher",
-        "institution": "CD Projekt Red",
-        "target": "players",
-        "platforms": [
-          "PC",
-          "Console",
-          "Switch"
-        ],
-        "topic": "patch"
-      },
-      "sources": [
-        "Eurogamer",
-        "IGN"
-      ],
-      "event_sources": [
-        "Eurogamer",
-        "IGN"
-      ],
-      "claims": [
-        "Patch adds lighting options and fixes visuals",
-        "Patch adds Bloom toggle and lighting changes"
-      ],
-      "importance_score": 51,
-      "coverage_score": 6,
-      "originality_score": 11,
-      "significance_score": 10,
-      "freshness_score": 10,
-      "source_trust_score": 9,
-      "headline": "CD Projekt Red Deploys Witcher 3 Remastered Patch 5.01 Across PC, PS5 and Xbox",
-      "summary": "The new patch adds Bloom, Light Shafts and performance tweaks while fixing stamina drains, boat physics and graphics setting bugs on all platforms.",
-      "published_at": "2026-10-08T20:20:01+06:00",
-      "selected_at": "2026-10-08T14:44:55.433625+00:00",
-      "status": "published",
-      "message_id": 623,
-      "published_versions": [
-        {
-          "published_at": "2026-10-08T14:44:55.433625+00:00",
-          "headline": "CD Projekt Red Deploys Witcher 3 Remastered Patch 5.01 Across PC, PS5 and Xbox",
-          "claims": [
-            "Patch adds lighting options and fixes visuals",
-            "Patch adds Bloom toggle and lighting changes"
-          ]
-        }
-      ]
-    },
-    "evt_762f742fa04817": {
-      "event_id": "evt_762f742fa04817",
-      "event_key": "forza horizon 6 ps5 release date announcement",
-      "event_subject": "Forza Horizon 6",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "forza horizon 6 ps5 release date announcement",
-        "subject": "Forza Horizon 6",
-        "event_type": "other",
-        "action": "announce",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Forza Horizon 6",
-        "franchise": "Forza",
-        "institution": "Microsoft Studios",
-        "target": "",
-        "platforms": [
-          "PS5"
-        ],
-        "topic": "release date"
-      },
-      "sources": [
-        "VGC",
-        "Insider Gaming"
-      ],
-      "event_sources": [
-        "VGC",
-        "Insider Gaming"
-      ],
-      "claims": [],
-      "importance_score": 67,
-      "coverage_score": 6,
-      "originality_score": 13,
-      "significance_score": 28,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Forza Horizon 6 Set for January 26 PS5 Launch with First Expansion",
-      "summary": "PlayStation 5 will see Forza Horizon 6 arrive on January 26, with the debut expansion dropping five days earlier for Premium pre‑orders.",
-      "published_at": "2026-10-08T23:59:50+06:00",
-      "selected_at": "2026-10-08T20:45:52.212338+00:00",
-      "status": "published",
-      "message_id": 630,
-      "published_versions": [
-        {
-          "published_at": "2026-10-08T20:45:52.212338+00:00",
-          "headline": "Forza Horizon 6 Set for January 26 PS5 Launch with First Expansion",
-          "claims": []
-        }
-      ]
-    },
     "evt_04472c260272c1": {
       "event_id": "evt_04472c260272c1",
       "event_key": "rainbow six siege mobile shutdown announcement",
@@ -6670,52 +7091,6 @@
             "Game will close Jan 16 2027",
             "Game will close in 2027 after launch in 2026"
           ]
-        }
-      ]
-    },
-    "evt_9ce88890624e0f": {
-      "event_id": "evt_9ce88890624e0f",
-      "event_key": "telltale games revives the wolf among us",
-      "event_subject": "The Wolf Among Us",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "telltale games revives the wolf among us",
-        "subject": "The Wolf Among Us",
-        "event_type": "other",
-        "action": "announce",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "The Wolf Among Us",
-        "franchise": "Telltale Games",
-        "institution": "Telltale Games",
-        "target": "",
-        "platforms": [],
-        "topic": "game revival"
-      },
-      "sources": [
-        "Polygon"
-      ],
-      "event_sources": [
-        "Polygon"
-      ],
-      "claims": [],
-      "importance_score": 48,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 18,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "The Wolf Among Us Remastered Returns with Noir Mode and Bonus Content",
-      "summary": "Telltale’s acclaimed noir adventure The Wolf Among Us gets a visual overhaul, new Noir Mode, and extra behind‑the‑scenes material for a 2026 launch.",
-      "published_at": "2026-10-09T00:20:16+06:00",
-      "selected_at": "2026-10-08T20:46:01.780682+00:00",
-      "status": "published",
-      "message_id": 632,
-      "published_versions": [
-        {
-          "published_at": "2026-10-08T20:46:01.780682+00:00",
-          "headline": "The Wolf Among Us Remastered Returns with Noir Mode and Bonus Content",
-          "claims": []
         }
       ]
     },
@@ -23368,6 +23743,52 @@
         {
           "published_at": "2026-11-07T13:53:52.360990+00:00",
           "headline": "EA Releases 25 Classic PC Games with Seven New Remasters",
+          "claims": []
+        }
+      ]
+    },
+    "evt_d333b228dae6dd": {
+      "event_id": "evt_d333b228dae6dd",
+      "event_key": "assassins creed future projects rumor",
+      "event_subject": "Assassin's Creed future games",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "assassins creed future projects rumor",
+        "subject": "Assassin's Creed future games",
+        "event_type": "rumor",
+        "action": "reported",
+        "status": "unconfirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Assassin's Creed",
+        "institution": "Ubisoft",
+        "target": "players",
+        "platforms": [],
+        "topic": "new titles in development"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [],
+      "importance_score": 46,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Two New Assassin’s Creed Titles Reported, One Set in Ancient Rome",
+      "summary": "Ubisoft is reportedly developing two new Assassin’s Creed games, with Mars taking players to ancient Rome and Pocket delivering a mobile adventure in Jerusalem.",
+      "published_at": "2026-11-07T21:37:12+06:00",
+      "selected_at": "2026-11-07T18:44:57.652785+00:00",
+      "status": "published",
+      "message_id": 971,
+      "published_versions": [
+        {
+          "published_at": "2026-11-07T18:44:57.652785+00:00",
+          "headline": "Two New Assassin’s Creed Titles Reported, One Set in Ancient Rome",
           "claims": []
         }
       ]
@@ -215700,10 +216121,894 @@
         "total": 31
       },
       "last_seen": "2026-11-07T19:46:13.169868+06:00"
+    },
+    "evt_8bb5663c1562ae": {
+      "event_id": "evt_8bb5663c1562ae",
+      "event_key": "zelda oot remake content guide",
+      "event_subject": "The Legend of Zelda: Ocarina of Time Remake",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "zelda oot remake content guide",
+        "subject": "The Legend of Zelda: Ocarina of Time Remake",
+        "event_type": "other",
+        "action": "explained",
+        "status": "published",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time",
+        "franchise": "The Legend of Zelda",
+        "institution": "",
+        "target": "players",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "gameplay secrets"
+      },
+      "modality": "unknown",
+      "topic": "gameplay secrets",
+      "institution": "",
+      "sources": [
+        "VGC",
+        "Polygon"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [],
+      "importance_score": 68,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 6,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 68
+      },
+      "last_seen": "2026-11-08T00:37:56.204640+06:00"
+    },
+    "evt_927597f55b4bd2": {
+      "event_id": "evt_927597f55b4bd2",
+      "event_key": "path of exile 2 release date announced",
+      "event_subject": "Path of Exile 2",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "path of exile 2 release date announced",
+        "subject": "Path of Exile 2",
+        "event_type": "other",
+        "action": "announced",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Path of Exile 2",
+        "franchise": "Path of Exile",
+        "institution": "Grinding Gear Games",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "release date and upcoming update"
+      },
+      "modality": "unknown",
+      "topic": "release date and upcoming update",
+      "institution": "Grinding Gear Games",
+      "sources": [
+        "Rock Paper Shotgun",
+        "Polygon"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [],
+      "importance_score": 60,
+      "score_breakdown": {
+        "significance": 25,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 60
+      },
+      "last_seen": "2026-11-08T00:37:56.204665+06:00"
+    },
+    "evt_40af5fd364cb32": {
+      "event_id": "evt_40af5fd364cb32",
+      "event_key": "playstation exclusive branding strategy",
+      "event_subject": "PlayStation exclusive branding",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "playstation exclusive branding strategy",
+        "subject": "PlayStation exclusive branding",
+        "event_type": "other",
+        "action": "implemented",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Sony",
+        "target": "gamers",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "exclusivity focus"
+      },
+      "modality": "unknown",
+      "topic": "exclusivity focus",
+      "institution": "Sony",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 50,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 50
+      },
+      "last_seen": "2026-11-08T00:37:56.204672+06:00"
+    },
+    "evt_40d9e8f442cbe3": {
+      "event_id": "evt_40d9e8f442cbe3",
+      "event_key": "mass effect 3 multiplayer mod release",
+      "event_subject": "ME3Tweaks Legendary Edition mod",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "mass effect 3 multiplayer mod release",
+        "subject": "ME3Tweaks Legendary Edition mod",
+        "event_type": "other",
+        "action": "published",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Mass Effect 3",
+        "franchise": "Mass Effect",
+        "institution": "ME3Tweaks",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "multiplayer remaster"
+      },
+      "modality": "unknown",
+      "topic": "multiplayer remaster",
+      "institution": "ME3Tweaks",
+      "sources": [
+        "Kotaku",
+        "Rock Paper Shotgun",
+        "nordic.ign.com",
+        "IGN",
+        "in.ign.com"
+      ],
+      "source_count": 5,
+      "independent_source_count": 3,
+      "claims": [],
+      "importance_score": 52,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 10,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 52
+      },
+      "last_seen": "2026-11-08T00:37:56.204678+06:00"
+    },
+    "evt_d333b228dae6dd": {
+      "event_id": "evt_d333b228dae6dd",
+      "event_key": "assassins creed future projects rumor",
+      "event_subject": "Assassin's Creed future games",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "assassins creed future projects rumor",
+        "subject": "Assassin's Creed future games",
+        "event_type": "rumor",
+        "action": "reported",
+        "status": "unconfirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Assassin's Creed",
+        "institution": "Ubisoft",
+        "target": "players",
+        "platforms": [],
+        "topic": "new titles in development"
+      },
+      "modality": "unknown",
+      "topic": "new titles in development",
+      "institution": "Ubisoft",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 46
+      },
+      "last_seen": "2026-11-08T00:37:56.204684+06:00"
+    },
+    "evt_db67bb2da0da68": {
+      "event_id": "evt_db67bb2da0da68",
+      "event_key": "gta6 physical copies arrival",
+      "event_subject": "Grand Theft Auto VI physical edition",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 physical copies arrival",
+        "subject": "Grand Theft Auto VI physical edition",
+        "event_type": "other",
+        "action": "arrived",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar Games",
+        "target": "retailers",
+        "platforms": [
+          "PS5",
+          "Xbox Series X"
+        ],
+        "topic": "physical edition launch"
+      },
+      "modality": "unknown",
+      "topic": "physical edition launch",
+      "institution": "Rockstar Games",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 47,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 47
+      },
+      "last_seen": "2026-11-08T00:37:56.204690+06:00"
+    },
+    "evt_4e1532e62a2dc3": {
+      "event_id": "evt_4e1532e62a2dc3",
+      "event_key": "sony playstation pulse speaker delay",
+      "event_subject": "PlayStation Pulse speakers",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sony playstation pulse speaker delay",
+        "subject": "PlayStation Pulse speakers",
+        "event_type": "other",
+        "action": "announced",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Sony",
+        "target": "consumers",
+        "platforms": [],
+        "topic": "production issue"
+      },
+      "modality": "unknown",
+      "topic": "production issue",
+      "institution": "Sony",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 38
+      },
+      "last_seen": "2026-11-08T00:37:56.204695+06:00"
+    },
+    "evt_df718f8bcbf82e": {
+      "event_id": "evt_df718f8bcbf82e",
+      "event_key": "star wars zero company staff changes",
+      "event_subject": "Star Wars Zero Company (Bit Reactor)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "star wars zero company staff changes",
+        "subject": "Star Wars Zero Company (Bit Reactor)",
+        "event_type": "other",
+        "action": "reported",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Star Wars",
+        "institution": "Bit Reactor",
+        "target": "employees",
+        "platforms": [],
+        "topic": "re‑hiring and layoffs"
+      },
+      "modality": "unknown",
+      "topic": "re‑hiring and layoffs",
+      "institution": "Bit Reactor",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 38
+      },
+      "last_seen": "2026-11-08T00:37:56.204701+06:00"
+    },
+    "evt_cdd4fea3b7fa14": {
+      "event_id": "evt_cdd4fea3b7fa14",
+      "event_key": "wardogs season3 update",
+      "event_subject": "Wardogs Season 3",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "wardogs season3 update",
+        "subject": "Wardogs Season 3",
+        "event_type": "update",
+        "action": "announced",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Wardogs",
+        "franchise": "Wardogs",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "new map, limited mode, ban wave"
+      },
+      "modality": "unknown",
+      "topic": "new map, limited mode, ban wave",
+      "institution": "",
+      "sources": [
+        "Eurogamer",
+        "Polygon"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 45
+      },
+      "last_seen": "2026-11-08T00:37:56.204706+06:00"
+    },
+    "evt_7a3863164a248c": {
+      "event_id": "evt_7a3863164a248c",
+      "event_key": "mass effect cast interview optimism",
+      "event_subject": "Mass Effect actors",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "mass effect cast interview optimism",
+        "subject": "Mass Effect actors",
+        "event_type": "other",
+        "action": "discussed",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Mass Effect series",
+        "franchise": "Mass Effect",
+        "institution": "BioWare/EA",
+        "target": "media",
+        "platforms": [],
+        "topic": "future outlook"
+      },
+      "modality": "unknown",
+      "topic": "future outlook",
+      "institution": "BioWare/EA",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-11-08T00:37:56.204711+06:00"
+    },
+    "evt_d3a523ea3306b3": {
+      "event_id": "evt_d3a523ea3306b3",
+      "event_key": "mass effect n7 day video campaign",
+      "event_subject": "Mass Effect cast",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "mass effect n7 day video campaign",
+        "subject": "Mass Effect cast",
+        "event_type": "other",
+        "action": "released",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Mass Effect series",
+        "franchise": "Mass Effect",
+        "institution": "BioWare/EA",
+        "target": "fans",
+        "platforms": [],
+        "topic": "save the franchise"
+      },
+      "modality": "unknown",
+      "topic": "save the franchise",
+      "institution": "BioWare/EA",
+      "sources": [
+        "nordic.ign.com",
+        "IGN"
+      ],
+      "source_count": 2,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 39
+      },
+      "last_seen": "2026-11-08T00:37:56.204717+06:00"
+    },
+    "evt_37853893911590": {
+      "event_id": "evt_37853893911590",
+      "event_key": "gta6 goty prediction poll",
+      "event_subject": "GTA VI Game of the Year prediction",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 goty prediction poll",
+        "subject": "GTA VI Game of the Year prediction",
+        "event_type": "other",
+        "action": "reported",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "public",
+        "platforms": [],
+        "topic": "award odds"
+      },
+      "modality": "unknown",
+      "topic": "award odds",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-11-08T00:37:56.204724+06:00"
+    },
+    "evt_357ca97e39d42c": {
+      "event_id": "evt_357ca97e39d42c",
+      "event_key": "gta6 discord quest rewards",
+      "event_subject": "GTA 6 Discord Quest",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 discord quest rewards",
+        "subject": "GTA 6 Discord Quest",
+        "event_type": "other",
+        "action": "outlined",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar Games",
+        "target": "players",
+        "platforms": [
+          "Discord"
+        ],
+        "topic": "reward quest"
+      },
+      "modality": "unknown",
+      "topic": "reward quest",
+      "institution": "Rockstar Games",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 40
+      },
+      "last_seen": "2026-11-08T00:37:56.204731+06:00"
+    },
+    "evt_c760d40f6f28bc": {
+      "event_id": "evt_c760d40f6f28bc",
+      "event_key": "elder scrolls 6 sentinel design comments",
+      "event_subject": "Skyrim lead designer Bruce Nesmith",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "elder scrolls 6 sentinel design comments",
+        "subject": "Skyrim lead designer Bruce Nesmith",
+        "event_type": "other",
+        "action": "stated",
+        "status": "published",
+        "modality": "unknown",
+        "game": "The Elder Scrolls VI: Sentinel",
+        "franchise": "The Elder Scrolls",
+        "institution": "Bethesda",
+        "target": "players",
+        "platforms": [],
+        "topic": "mount implementation"
+      },
+      "modality": "unknown",
+      "topic": "mount implementation",
+      "institution": "Bethesda",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 32
+      },
+      "last_seen": "2026-11-08T00:37:56.204737+06:00"
+    },
+    "evt_6e63946662a4b4": {
+      "event_id": "evt_6e63946662a4b4",
+      "event_key": "mass effect modding ai impact",
+      "event_subject": "Mass Effect 3 modder",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "mass effect modding ai impact",
+        "subject": "Mass Effect 3 modder",
+        "event_type": "other",
+        "action": "commented",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Mass Effect 3",
+        "franchise": "Mass Effect",
+        "institution": "",
+        "target": "modding community",
+        "platforms": [],
+        "topic": "AI impact on modding"
+      },
+      "modality": "unknown",
+      "topic": "AI impact on modding",
+      "institution": "",
+      "sources": [
+        "nordic.ign.com",
+        "IGN",
+        "in.ign.com"
+      ],
+      "source_count": 3,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 31
+      },
+      "last_seen": "2026-11-08T00:37:56.204743+06:00"
+    },
+    "evt_097c643fcd1869": {
+      "event_id": "evt_097c643fcd1869",
+      "event_key": "amd ceo lisa su data center focus",
+      "event_subject": "AMD CEO Lisa Su",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "amd ceo lisa su data center focus",
+        "subject": "AMD CEO Lisa Su",
+        "event_type": "other",
+        "action": "asserted",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "AMD",
+        "target": "data center market",
+        "platforms": [],
+        "topic": "company strategy"
+      },
+      "modality": "unknown",
+      "topic": "company strategy",
+      "institution": "AMD",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-11-08T00:37:56.204749+06:00"
+    },
+    "evt_439d7fc5bc589b": {
+      "event_id": "evt_439d7fc5bc589b",
+      "event_key": "wow forever rp servers discussion",
+      "event_subject": "World of Warcraft: Forever",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "wow forever rp servers discussion",
+        "subject": "World of Warcraft: Forever",
+        "event_type": "other",
+        "action": "argued",
+        "status": "published",
+        "modality": "unknown",
+        "game": "World of Warcraft: Forever",
+        "franchise": "World of Warcraft",
+        "institution": "Blizzard Entertainment",
+        "target": "community",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "role‑play server separation"
+      },
+      "modality": "unknown",
+      "topic": "role‑play server separation",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-11-08T00:37:56.204755+06:00"
+    },
+    "evt_416aad11e7cf9e": {
+      "event_id": "evt_416aad11e7cf9e",
+      "event_key": "escape from tarkov reward codes guide",
+      "event_subject": "Escape from Tarkov reward codes",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "escape from tarkov reward codes guide",
+        "subject": "Escape from Tarkov reward codes",
+        "event_type": "other",
+        "action": "compiled",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Escape from Tarkov",
+        "franchise": "Escape from Tarkov",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "active codes"
+      },
+      "modality": "unknown",
+      "topic": "active codes",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 38
+      },
+      "last_seen": "2026-11-08T00:37:56.204761+06:00"
+    },
+    "evt_bc969d061ef1d7": {
+      "event_id": "evt_bc969d061ef1d7",
+      "event_key": "gta6 alternatives for families",
+      "event_subject": "GTA VI alternatives",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 alternatives for families",
+        "subject": "GTA VI alternatives",
+        "event_type": "other",
+        "action": "listed",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "parents/families",
+        "platforms": [],
+        "topic": "family‑friendly games"
+      },
+      "modality": "unknown",
+      "topic": "family‑friendly games",
+      "institution": "",
+      "sources": [
+        "GameSpot"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-11-08T00:37:56.204766+06:00"
+    },
+    "evt_6c7ab3ccb5119e": {
+      "event_id": "evt_6c7ab3ccb5119e",
+      "event_key": "free pc weekend games spain",
+      "event_subject": "Free PC weekend games (Spanish)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "free pc weekend games spain",
+        "subject": "Free PC weekend games (Spanish)",
+        "event_type": "other",
+        "action": "listed",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "free weekend titles"
+      },
+      "modality": "unknown",
+      "topic": "free weekend titles",
+      "institution": "",
+      "sources": [
+        "es.kotaku.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 23,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 23
+      },
+      "last_seen": "2026-11-08T00:37:56.204772+06:00"
+    },
+    "evt_54d1ffe20537b8": {
+      "event_id": "evt_54d1ffe20537b8",
+      "event_key": "gi joe paranormal activity release dates",
+      "event_subject": "GI Joe reboot and Paranormal Activity sequel",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gi joe paranormal activity release dates",
+        "subject": "GI Joe reboot and Paranormal Activity sequel",
+        "event_type": "other",
+        "action": "revealed",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Paramount Pictures",
+        "target": "audience",
+        "platforms": [],
+        "topic": "official release dates"
+      },
+      "modality": "unknown",
+      "topic": "official release dates",
+      "institution": "Paramount Pictures",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-08T00:37:56.204778+06:00"
+    },
+    "evt_b3a55bd4da4168": {
+      "event_id": "evt_b3a55bd4da4168",
+      "event_key": "rpg toughest choice discussion",
+      "event_subject": "RPG players",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "rpg toughest choice discussion",
+        "subject": "RPG players",
+        "event_type": "other",
+        "action": "posed",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "readers",
+        "platforms": [],
+        "topic": "role‑playing choices"
+      },
+      "modality": "unknown",
+      "topic": "role‑playing choices",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-11-08T00:37:56.204784+06:00"
     }
   },
   "posted_event_ids": [
-    "evt_d464300df938af",
     "evt_7eefd7571a7ec4",
     "evt_02dc7d09f472be",
     "evt_1e1e410b107af5",
@@ -216202,16 +217507,10 @@
     "evt_e6e0277ce5effa",
     "evt_7ca6fded64c069",
     "evt_072ae75e07546d",
-    "evt_5a5af5aff84e47"
+    "evt_5a5af5aff84e47",
+    "evt_d333b228dae6dd"
   ],
   "recent_titles": [
-    "square enix s final fantasy vii revelation promises extravagant sephiroth finale",
-    "star wars galactic racer revives burnout style arcade racing on playstation",
-    "micron warns ram shortages will tighten through 2028 as prices surge",
-    "activision s sledgehammer team set to reboot halo franchise",
-    "blizzard cracks down on rmt as streamers ziqo and payo face bans in wow forever",
-    "steam poised to smash 20 billion revenue mark thanks to the witcher 3 remastered and wardogs",
-    "gears of war e day launch lacks legacy features coalition promises future return",
     "bethesda sends cease and desist to ai generated fallout new york browser game",
     "gta 6 receives pegi 18 rating marking series most mature release",
     "warhorse coo urges gta 6 to set new 80 price standard for triple a games",
@@ -216611,10 +217910,11 @@
     "ananta announces free to play open world launch on jan 15 2027",
     "shawn layden says ps6 should prioritize affordability over power",
     "todd howard leaves tes vi exclusivity open ps5 future unclear",
-    "ea releases 25 classic pc games with seven new remasters"
+    "ea releases 25 classic pc games with seven new remasters",
+    "two new assassin s creed titles reported one set in ancient rome"
   ],
   "category_coverage": {
-    "Game Updates": "2026-11-07T19:53:52.361012+06:00",
+    "Game Updates": "2026-11-08T00:44:57.652811+06:00",
     "Major Releases": "2026-11-07T19:53:36.952443+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
