@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"25b28-jRwZbCnCGH/dOBGja8Bm215Clr8\"",
+      "etag": "W/\"2043f-HxYl4UQcVygnKxEBt9FQ1/1VPA8\"",
       "last_modified": null,
-      "last_checked": "2026-11-07T03:17:05.073526+06:00",
+      "last_checked": "2026-11-07T12:50:24.208514+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T03:17:05.380966+06:00",
+      "last_checked": "2026-11-07T12:50:24.411629+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aee4375-a07\"",
-      "last_modified": "Fri, 06 Nov 2026 21:15:33 GMT",
-      "last_checked": "2026-11-07T03:17:05.927153+06:00",
+      "etag": "\"6aeec90d-a0b\"",
+      "last_modified": "Sat, 07 Nov 2026 06:45:33 GMT",
+      "last_checked": "2026-11-07T12:50:24.701327+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Fri, 06 Nov 2026 19:58:20 GMT",
-      "last_checked": "2026-11-07T03:17:06.178064+06:00",
+      "last_checked": "2026-11-07T12:50:24.936903+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
       "etag": "W/\"8ccb097592e683991a3fd769162f25ee\"",
       "last_modified": "Fri, 06 Nov 2026 19:38:23 GMT",
-      "last_checked": "2026-11-07T03:17:06.584751+06:00",
+      "last_checked": "2026-11-07T12:50:25.111619+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T03:17:06.798706+06:00",
+      "last_checked": "2026-11-07T12:50:25.395294+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T03:17:07.505158+06:00",
+      "last_checked": "2026-11-07T12:50:25.821843+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"1d1d87299eed33ec90a48647cc87ef26\"",
-      "last_modified": "Fri, 06 Nov 2026 21:15:31 GMT",
-      "last_checked": "2026-11-07T03:17:08.188829+06:00",
+      "etag": "W/\"7bd099db5ef10d32295f5b47a6d488d9\"",
+      "last_modified": "Sat, 07 Nov 2026 01:31:47 GMT",
+      "last_checked": "2026-11-07T12:50:26.004383+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T03:17:08.515149+06:00",
+      "last_checked": "2026-11-07T12:50:26.178761+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Fri, 6 Nov 2026 18:48:55 GMT",
-      "last_checked": "2026-11-07T03:17:08.952276+06:00",
+      "last_checked": "2026-11-07T12:50:26.560188+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Fri, 06 Nov 2026 21:17:09 GMT",
-      "last_checked": "2026-11-07T03:17:09.650044+06:00",
+      "last_modified": "Sat, 07 Nov 2026 06:50:27 GMT",
+      "last_checked": "2026-11-07T12:50:27.504901+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"a630fc544aa39287848f301a5f4bf8d0\"",
-      "last_modified": "Fri, 06 Nov 2026 20:38:17 GMT",
-      "last_checked": "2026-11-07T03:17:09.848077+06:00",
+      "etag": "W/\"8508ac2086e806bfd55cf6d76b14e5f3\"",
+      "last_modified": "Sat, 07 Nov 2026 00:33:36 GMT",
+      "last_checked": "2026-11-07T12:50:27.616985+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T03:17:10.339521+06:00",
+      "last_checked": "2026-11-07T12:50:28.043893+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T03:17:10.848298+06:00",
+      "last_checked": "2026-11-07T12:50:28.458823+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T03:17:11.417678+06:00",
+      "last_checked": "2026-11-07T12:50:28.878182+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-07T03:17:11.644171+06:00",
-      "fail_count": 152,
+      "last_checked": "2026-11-07T12:50:29.102657+06:00",
+      "fail_count": 153,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"f592ec4961ac957a92d65448425232eb\"",
-      "last_modified": "Fri, 06 Nov 2026 16:58:44 GMT",
-      "last_checked": "2026-11-07T03:17:11.798760+06:00",
+      "etag": "W/\"aca1b4833d22e55f8002c37505b97eb6\"",
+      "last_modified": "Fri, 06 Nov 2026 19:01:37 GMT",
+      "last_checked": "2026-11-07T12:50:29.248931+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-07T03:17:12.028256+06:00",
+      "last_checked": "2026-11-07T12:50:29.452315+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-07T03:17:12.242817+06:00",
-      "fail_count": 152,
+      "last_checked": "2026-11-07T12:50:29.639558+06:00",
+      "fail_count": 153,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"0599fd31556aa296edcb93716234eb51\"",
       "last_modified": "Fri, 06 Nov 2026 08:08:48 GMT",
-      "last_checked": "2026-11-07T03:17:12.529008+06:00",
+      "last_checked": "2026-11-07T12:50:29.758831+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -6175,63 +6175,73 @@
       "status": "pending",
       "first_seen": "2026-11-07T03:17:26.039343+06:00",
       "last_seen": "2026-11-07T03:17:26.039346+06:00"
+    },
+    "polygon.com/best-castlevania-games": {
+      "title": "The 8 Best Castlevania Games Of All Time, Ranked",
+      "url": "https://www.polygon.com/best-castlevania-games/",
+      "canonical": "polygon.com/best-castlevania-games",
+      "published_dt": "2026-11-07T09:52:17+06:00",
+      "published_date": "2026-11-07T09:52:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The finest Castlevania games of all time come from multiple decades. Together, they built a franchise that is better than ever.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/castlevania-dracula-adaptations-bram-stoker.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-07T12:50:25.826445+06:00",
+      "last_seen": "2026-11-07T12:50:25.826447+06:00"
+    },
+    "nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery": {
+      "title": "Sudden Illness Sees Miyamoto Miss Nintendo's Financial Briefing, But He's Expected To Make A Quick Recovery",
+      "url": "https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery",
+      "canonical": "nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery",
+      "published_dt": "2026-11-07T11:00:00+06:00",
+      "published_date": "2026-11-07T11:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "He'll be back at it very soon. Nintendo legend and creative mastermind Shigeru Miyamoto is almost 74, and while he has taken a step back in recent years, he's still quite active within the Japanese video game company. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/dc139ad057bb9/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-07T12:50:28.054473+06:00",
+      "last_seen": "2026-11-07T12:50:28.054477+06:00"
+    },
+    "escapistmagazine.com/playstation-forecast-rises-on-third-party-sales-as-wolverine-trails-spider-man-2": {
+      "title": "PlayStation Forecast Rises on Third-Party Sales as Wolverine Trails Spider-Man 2 - The Escapist",
+      "url": "https://www.escapistmagazine.com/playstation-forecast-rises-on-third-party-sales-as-wolverine-trails-spider-man-2/",
+      "canonical": "escapistmagazine.com/playstation-forecast-rises-on-third-party-sales-as-wolverine-trails-spider-man-2",
+      "published_dt": "2026-11-07T12:13:11+06:00",
+      "published_date": "2026-11-07T12:13:11+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://www.escapistmagazine.com/wp-content/uploads/2026/11/video-games-5.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-07T12:50:35.805292+06:00",
+      "last_seen": "2026-11-07T12:50:35.805298+06:00"
+    },
+    "shacknews.com/article/151297/evening-reading-november-6-2026": {
+      "title": "Evening Reading - November 6, 2026 | Shacknews",
+      "url": "https://www.shacknews.com/article/151297/evening-reading-november-6-2026",
+      "canonical": "shacknews.com/article/151297/evening-reading-november-6-2026",
+      "published_dt": "2026-11-07T10:30:00+06:00",
+      "published_date": "2026-11-07T10:30:00+06:00",
+      "source": "Shacknews",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://d1lss44hh2trtw.cloudfront.net/assets/articles/2026/11/04/evening-reading_feature.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-07T12:50:35.805344+06:00",
+      "last_seen": "2026-11-07T12:50:35.805345+06:00"
     }
   },
   "events": {
-    "evt_628c19725b8ec6": {
-      "event_id": "evt_628c19725b8ec6",
-      "event_key": "dragon s dogma 2 dark arisen expansion release",
-      "event_subject": "Dark Arisen",
-      "event_type": "release",
-      "event_frame": {
-        "event_key": "dragon s dogma 2 dark arisen expansion release",
-        "subject": "Dark Arisen",
-        "event_type": "release",
-        "action": "launched",
-        "status": "released",
-        "modality": "unknown",
-        "game": "Dragon's Dogma 2",
-        "franchise": "Dragon's Dogma",
-        "institution": "Capcom",
-        "target": "expansion",
-        "platforms": [
-          "Switch 2",
-          "PC",
-          "PlayStation"
-        ],
-        "topic": "game review"
-      },
-      "sources": [
-        "Nintendo Life"
-      ],
-      "event_sources": [
-        "Nintendo Life"
-      ],
-      "claims": [
-        "expansion available across all platforms"
-      ],
-      "importance_score": 45,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 15,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Dragon’s Dogma 2: Dark Arisen Receives Strong Praise Across Reviews",
-      "summary": "Critics laud the expansion for its vibrant enemies, engaging story, and refined combat, though some note lingering issues from the base game.",
-      "published_at": "2026-10-08T11:25:00+06:00",
-      "selected_at": "2026-10-08T07:05:41.313061+00:00",
-      "status": "published",
-      "message_id": 619,
-      "published_versions": [
-        {
-          "published_at": "2026-10-08T07:05:41.313061+00:00",
-          "headline": "Dragon’s Dogma 2: Dark Arisen Receives Strong Praise Across Reviews",
-          "claims": [
-            "expansion available across all platforms"
-          ]
-        }
-      ]
-    },
     "evt_966b2f3b03459e": {
       "event_id": "evt_966b2f3b03459e",
       "event_key": "xbox xp division launch 2026 10 08",
@@ -214381,6 +214391,164 @@
         "total": 27
       },
       "last_seen": "2026-11-07T03:22:29.113212+06:00"
+    },
+    "evt_9c726ba8e5c9ef": {
+      "event_id": "evt_9c726ba8e5c9ef",
+      "event_key": "sony financial forecast 2026 q4 third party sales",
+      "event_subject": "Sony",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sony financial forecast 2026 q4 third party sales",
+        "subject": "Sony",
+        "event_type": "other",
+        "action": "forecast",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "Marvel's Wolverine, Marvel's Spider-Man 2",
+        "franchise": "Marvel",
+        "institution": "Sony Interactive Entertainment",
+        "target": "third-party sales",
+        "platforms": [
+          "PlayStation"
+        ],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "Sony Interactive Entertainment",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-11-07T12:52:38.501406+06:00"
+    },
+    "evt_7af2dc42ce8f09": {
+      "event_id": "evt_7af2dc42ce8f09",
+      "event_key": "nintendo personnel 2026 financial briefing miyamoto absence",
+      "event_subject": "Shigeru Miyamoto",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo personnel 2026 financial briefing miyamoto absence",
+        "subject": "Shigeru Miyamoto",
+        "event_type": "other",
+        "action": "missed",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Nintendo",
+        "target": "financial briefing",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-11-07T12:52:38.501430+06:00"
+    },
+    "evt_bba6a68fbc6ff7": {
+      "event_id": "evt_bba6a68fbc6ff7",
+      "event_key": "polygon feature 2026 castlevania ranking",
+      "event_subject": "Polygon",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "polygon feature 2026 castlevania ranking",
+        "subject": "Polygon",
+        "event_type": "other",
+        "action": "rank",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "Castlevania",
+        "franchise": "Castlevania",
+        "institution": "",
+        "target": "games",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-07T12:52:38.501436+06:00"
+    },
+    "evt_81fb49be8dd60c": {
+      "event_id": "evt_81fb49be8dd60c",
+      "event_key": "shacknews editorial 2026 daily roundup",
+      "event_subject": "Shacknews",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "shacknews editorial 2026 daily roundup",
+        "subject": "Shacknews",
+        "event_type": "other",
+        "action": "publish",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "readers",
+        "platforms": [],
+        "topic": "Gaming"
+      },
+      "modality": "unknown",
+      "topic": "Gaming",
+      "institution": "",
+      "sources": [
+        "Shacknews"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-11-07T12:52:38.501440+06:00"
     }
   },
   "posted_event_ids": [
@@ -214886,17 +215054,6 @@
     "evt_8b7b0cad478997"
   ],
   "recent_titles": [
-    "analyst says cancelled ps5 port of gears of war e day was a missed revenue chance",
-    "modern warfare 4 introduces counter strike style collateral mode",
-    "nintendo packs pokemon legends z a and mega dimension dlc on one switch cartridge",
-    "gears of war e day delivers relentless action yet stumbles on story",
-    "krafton cancels pubg black budget extraction shooter after year long development",
-    "rockstar lights up miami s kaseya center with gta 6 welcome to vice city display",
-    "iem cologne 2027 introduces 360 degree stage for playoffs",
-    "take two signs long term publishing deal with xbox amid industry debate",
-    "capcom bets on endless resident evil remakes amid crossover plans",
-    "aoc unveils 1 000 hz ips monitor with 0 1 ms response time",
-    "minecraft dungeons ii launches with strong reviews across platforms",
     "square enix s final fantasy vii revelation promises extravagant sephiroth finale",
     "star wars galactic racer revives burnout style arcade racing on playstation",
     "micron warns ram shortages will tighten through 2028 as prices surge",
