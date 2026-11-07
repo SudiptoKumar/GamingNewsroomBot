@@ -2,208 +2,143 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"2043f-HxYl4UQcVygnKxEBt9FQ1/1VPA8\"",
+      "etag": "W/\"23729-oB+gxo6s7PwCfq1rKzjjKBPjdJw\"",
       "last_modified": null,
-      "last_checked": "2026-11-07T12:50:24.208514+06:00",
+      "last_checked": "2026-11-07T19:44:52.028223+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T12:50:24.411629+06:00",
+      "last_checked": "2026-11-07T19:44:52.235762+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aeec90d-a0b\"",
-      "last_modified": "Sat, 07 Nov 2026 06:45:33 GMT",
-      "last_checked": "2026-11-07T12:50:24.701327+06:00",
+      "etag": "\"6aef2a51-a0b\"",
+      "last_modified": "Sat, 07 Nov 2026 13:40:33 GMT",
+      "last_checked": "2026-11-07T19:44:52.704835+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Fri, 06 Nov 2026 19:58:20 GMT",
-      "last_checked": "2026-11-07T12:50:24.936903+06:00",
+      "last_modified": "Sat, 07 Nov 2026 12:30:10 GMT",
+      "last_checked": "2026-11-07T19:44:53.172240+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "W/\"8ccb097592e683991a3fd769162f25ee\"",
-      "last_modified": "Fri, 06 Nov 2026 19:38:23 GMT",
-      "last_checked": "2026-11-07T12:50:25.111619+06:00",
+      "etag": "\"6aee2cfc-12b0\"",
+      "last_modified": "Fri, 06 Nov 2026 19:39:40 GMT",
+      "last_checked": "2026-11-07T19:44:53.575530+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T12:50:25.395294+06:00",
+      "last_checked": "2026-11-07T19:44:53.706219+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T12:50:25.821843+06:00",
+      "last_checked": "2026-11-07T19:44:54.541569+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"7bd099db5ef10d32295f5b47a6d488d9\"",
-      "last_modified": "Sat, 07 Nov 2026 01:31:47 GMT",
-      "last_checked": "2026-11-07T12:50:26.004383+06:00",
+      "etag": "W/\"de1a0d62458e9889e4dcedf245d79dd0\"",
+      "last_modified": "Sat, 07 Nov 2026 08:43:08 GMT",
+      "last_checked": "2026-11-07T19:44:54.820412+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T12:50:26.178761+06:00",
+      "last_checked": "2026-11-07T19:44:54.959034+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Fri, 6 Nov 2026 18:48:55 GMT",
-      "last_checked": "2026-11-07T12:50:26.560188+06:00",
+      "last_modified": "Sat, 7 Nov 2026 08:28:38 GMT",
+      "last_checked": "2026-11-07T19:44:55.685509+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sat, 07 Nov 2026 06:50:27 GMT",
-      "last_checked": "2026-11-07T12:50:27.504901+06:00",
+      "last_modified": "Sat, 07 Nov 2026 13:44:56 GMT",
+      "last_checked": "2026-11-07T19:44:56.407072+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"8508ac2086e806bfd55cf6d76b14e5f3\"",
-      "last_modified": "Sat, 07 Nov 2026 00:33:36 GMT",
-      "last_checked": "2026-11-07T12:50:27.616985+06:00",
+      "etag": "W/\"9649a3910780f530e5ca376cbc89e929\"",
+      "last_modified": "Sat, 07 Nov 2026 09:46:43 GMT",
+      "last_checked": "2026-11-07T19:44:56.958331+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T12:50:28.043893+06:00",
+      "last_checked": "2026-11-07T19:44:57.348632+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T12:50:28.458823+06:00",
+      "last_checked": "2026-11-07T19:44:57.777458+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-07T12:50:28.878182+06:00",
+      "last_checked": "2026-11-07T19:44:58.338657+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-07T12:50:29.102657+06:00",
-      "fail_count": 153,
+      "last_checked": "2026-11-07T19:44:58.705826+06:00",
+      "fail_count": 154,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"aca1b4833d22e55f8002c37505b97eb6\"",
       "last_modified": "Fri, 06 Nov 2026 19:01:37 GMT",
-      "last_checked": "2026-11-07T12:50:29.248931+06:00",
+      "last_checked": "2026-11-07T19:44:58.806548+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-07T12:50:29.452315+06:00",
+      "last_checked": "2026-11-07T19:44:58.928806+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-07T12:50:29.639558+06:00",
-      "fail_count": 153,
+      "last_checked": "2026-11-07T19:44:59.112784+06:00",
+      "fail_count": 154,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"0599fd31556aa296edcb93716234eb51\"",
-      "last_modified": "Fri, 06 Nov 2026 08:08:48 GMT",
-      "last_checked": "2026-11-07T12:50:29.758831+06:00",
+      "etag": "W/\"66667a1dfb673d89050345914fb9130d\"",
+      "last_modified": "Sat, 07 Nov 2026 06:13:11 GMT",
+      "last_checked": "2026-11-07T19:44:59.286407+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "ign.com/articles/trent-reznor-and-atticus-ross-have-provided-the-score-to-david-finchers-the-further-mis-adventures-of-cliff-booth": {
-      "title": "Trent Reznor and Atticus Ross Have Provided the Score to David Fincher's The Further Mis-Adventures of Cliff Booth",
-      "url": "https://www.ign.com/articles/trent-reznor-and-atticus-ross-have-provided-the-score-to-david-finchers-the-further-mis-adventures-of-cliff-booth",
-      "canonical": "ign.com/articles/trent-reznor-and-atticus-ross-have-provided-the-score-to-david-finchers-the-further-mis-adventures-of-cliff-booth",
-      "published_dt": "2026-11-03T11:26:59+06:00",
-      "published_date": "2026-11-03T11:26:59+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "Trent Reznor and Atticus Ross Have Provided the Score to David Fincher's The Further Mis-Adventures of Cliff Booth",
-      "image": "https://assets-prd.ignimgs.com/2021/06/02/bradpittonceuponatimeinhollywood-1622671012760.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-03T13:34:49.880617+06:00",
-      "last_seen": "2026-11-03T13:34:49.880627+06:00"
-    },
-    "ign.com/articles/resident-evil-lands-on-digital-after-monstrous-box-office-run": {
-      "title": "Resident Evil Lands on Digital After Monstrous Box Office Run",
-      "url": "https://www.ign.com/articles/resident-evil-lands-on-digital-after-monstrous-box-office-run",
-      "canonical": "ign.com/articles/resident-evil-lands-on-digital-after-monstrous-box-office-run",
-      "published_dt": "2026-11-03T11:00:00+06:00",
-      "published_date": "2026-11-03T11:00:00+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "",
-      "image": "https://assets-prd.ignimgs.com/2026/09/16/residentevil-review-blogroll-1789573947783.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-11-03T13:34:49.880788+06:00",
-      "last_seen": "2026-11-03T13:34:49.880793+06:00",
-      "posted_at": "2026-11-03T13:41:04.231324+06:00"
-    },
-    "polygon.com/zelda-ocarina-of-time-release-time-est-pst-pre-orders": {
-      "title": "Zelda Ocarina of Time release time in your time zone",
-      "url": "https://www.polygon.com/zelda-ocarina-of-time-release-time-est-pst-pre-orders/",
-      "canonical": "polygon.com/zelda-ocarina-of-time-release-time-est-pst-pre-orders",
-      "published_dt": "2026-11-03T11:01:17+06:00",
-      "published_date": "2026-11-03T11:01:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "The Zelda Ocarina of Time release time is just around the corner. Here's when you can expect Ocarina of Time to launch in your time zone",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ocarina-of-time-remake-release-time.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-03T13:34:52.837844+06:00",
-      "last_seen": "2026-11-03T13:34:52.837851+06:00"
-    },
-    "polygon.com/avatar-the-last-airbenders-best-quote": {
-      "title": "20 Years Later, Uncle Iroh's Wisest 'Avatar: The Last Airbender Quote' Is Still Undefeated",
-      "url": "https://www.polygon.com/avatar-the-last-airbenders-best-quote/",
-      "canonical": "polygon.com/avatar-the-last-airbenders-best-quote",
-      "published_dt": "2026-11-03T11:00:17+06:00",
-      "published_date": "2026-11-03T11:00:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Uncle Iroh's timeless advice helped shape Zuko's journey, and its message still resonates almost two decades later.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25270110/avatar3x20_0593.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-03T13:34:52.838002+06:00",
-      "last_seen": "2026-11-03T13:34:52.838007+06:00"
-    },
     "insider-gaming.com/is-gta-6-out-now-launch-day-tracker": {
       "title": "Is GTA 6 Out Now? Grand Theft Auto 6 Launch Day Tracker",
       "url": "https://insider-gaming.com/is-gta-6-out-now-launch-day-tracker/",
@@ -235,118 +170,6 @@
       "status": "pending",
       "first_seen": "2026-11-03T13:34:54.662454+06:00",
       "last_seen": "2026-11-06T13:40:06.574578+06:00"
-    },
-    "nintendolife.com/news/2026/11/zelda-ocarina-of-time-switch-2-free-n64-box-replica-announced-for-argos-midnight-launch-uk": {
-      "title": "Zelda: Ocarina Of Time Switch 2 \"Free N64 Box Replica\" Announced For Argos Midnight Launch (UK)",
-      "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-switch-2-free-n64-box-replica-announced-for-argos-midnight-launch-uk",
-      "canonical": "nintendolife.com/news/2026/11/zelda-ocarina-of-time-switch-2-free-n64-box-replica-announced-for-argos-midnight-launch-uk",
-      "published_dt": "2026-11-03T12:30:00+06:00",
-      "published_date": "2026-11-03T12:30:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "\"One night only\". As we get closer to the launch of Zelda: Ocarina of Time remake, more retailers have been revealing all sorts of goodies. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/0f855dd77c7ea/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-03T13:34:55.175919+06:00",
-      "last_seen": "2026-11-03T13:34:55.175926+06:00"
-    },
-    "nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-stellar-blades-switch-2-port": {
-      "title": "Round Up: The Reviews Are In For Stellar Blade's Switch 2 Port",
-      "url": "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-stellar-blades-switch-2-port",
-      "canonical": "nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-stellar-blades-switch-2-port",
-      "published_dt": "2026-11-03T11:30:00+06:00",
-      "published_date": "2026-11-03T11:30:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Is it a stellar port? It's all about Link this week, but there is another notable release arriving for the Switch 2 on the same day. It's Shift Up's action game, Stellar Blade . We've already taken a look at the port here on Nintendo Life, and despite some drawbacks, Eve's outing stands tall on the hybrid platform. Here's how we summed it up: Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/b5734a47a18ea/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-03T13:34:55.176271+06:00",
-      "last_seen": "2026-11-03T13:34:55.176276+06:00"
-    },
-    "escapistmagazine.com/thief-remaster-dated-for-december-3-with-a-fan-made-campaign-that-becomes-official-canon": {
-      "title": "Thief remaster dated for December 3 with a fan-made campaign that becomes official canon",
-      "url": "https://www.escapistmagazine.com/thief-remaster-dated-for-december-3-with-a-fan-made-campaign-that-becomes-official-canon/",
-      "canonical": "escapistmagazine.com/thief-remaster-dated-for-december-3-with-a-fan-made-campaign-that-becomes-official-canon",
-      "published_dt": "2026-11-03T12:13:14+06:00",
-      "published_date": "2026-11-03T12:13:14+06:00",
-      "source": "The Escapist",
-      "region": "Gaming",
-      "excerpt": "Nightdive Studios' Thief: The Dark Project Remastered now has a December 3 launch date, ending months of a vague winter window. The release also includes The Tarnished Mirror, a new campaign from The Black Parade's fan creators that joins official Thief canon. The post Thief remaster dated for December 3 with a fan-made campaign that becomes official canon appeared first on The Escapist .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-03T13:34:57.277397+06:00",
-      "last_seen": "2026-11-03T13:34:57.277404+06:00"
-    },
-    "kotaku.com/games/dark-pray": {
-      "title": "Dark Pray - Kotaku",
-      "url": "https://kotaku.com/games/dark-pray",
-      "canonical": "kotaku.com/games/dark-pray",
-      "published_dt": "2026-11-03T13:01:49+06:00",
-      "published_date": "2026-11-03T13:01:49+06:00",
-      "source": "Kotaku",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "https://kotaku.com/app/uploads/2025/07/kotaku-1200x900-1.jpg",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-03T13:35:05.386963+06:00",
-      "last_seen": "2026-11-03T13:35:05.386968+06:00"
-    },
-    "pushsquare.com/forums/ps5/gta_6_-_day_one_patch": {
-      "title": "GTA 6 - Day One Patch? | PlayStation 5 (PS5) Forum",
-      "url": "https://www.pushsquare.com/forums/ps5/gta_6_-_day_one_patch",
-      "canonical": "pushsquare.com/forums/ps5/gta_6_-_day_one_patch",
-      "published_dt": "2026-11-03T11:16:53+06:00",
-      "published_date": "2026-11-03T11:16:53+06:00",
-      "source": "Push Square",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-03T13:35:06.228350+06:00",
-      "last_seen": "2026-11-03T13:35:06.228355+06:00"
-    },
-    "kotaku.com/games/marvel-tokon-fighting-souls-phoenix-cyclops-classic-costume-pack": {
-      "title": "Marvel Tokon: Fighting Souls - Phoenix Cyclops Classic Costume Pack - Kotaku",
-      "url": "https://kotaku.com/games/marvel-tokon-fighting-souls-phoenix-cyclops-classic-costume-pack",
-      "canonical": "kotaku.com/games/marvel-tokon-fighting-souls-phoenix-cyclops-classic-costume-pack",
-      "published_dt": "2026-11-03T13:01:51+06:00",
-      "published_date": "2026-11-03T13:01:51+06:00",
-      "source": "Kotaku",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-03T13:35:07.479999+06:00",
-      "last_seen": "2026-11-03T13:35:07.480004+06:00"
-    },
-    "kotaku.com/games/marvel-tokon-fighting-souls-hulk-joe-fixit-costume-pack": {
-      "title": "Marvel Tokon: Fighting Souls – Hulk Joe Fixit Costume Pack - Kotaku",
-      "url": "https://kotaku.com/games/marvel-tokon-fighting-souls-hulk-joe-fixit-costume-pack",
-      "canonical": "kotaku.com/games/marvel-tokon-fighting-souls-hulk-joe-fixit-costume-pack",
-      "published_dt": "2026-11-03T13:01:51+06:00",
-      "published_date": "2026-11-03T13:01:51+06:00",
-      "source": "Kotaku",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-03T13:35:07.480058+06:00",
-      "last_seen": "2026-11-03T13:35:07.480061+06:00"
     },
     "ign.com/articles/what-ps5-and-xbox-consoles-are-in-stock-ahead-of-gta-6-and-black-friday": {
       "title": "What PS5 and Xbox Consoles Are in Stock Ahead of GTA 6 and Black Friday?",
@@ -6239,199 +6062,448 @@
       "status": "pending",
       "first_seen": "2026-11-07T12:50:35.805344+06:00",
       "last_seen": "2026-11-07T12:50:35.805345+06:00"
+    },
+    "ign.com/articles/godzilla-minus-zero-where-is-the-rest-of-godzillas-rogues-gallery": {
+      "title": "Godzilla Minus Zero: Where Is the Rest of Godzilla’s Rogues' Gallery?",
+      "url": "https://www.ign.com/articles/godzilla-minus-zero-where-is-the-rest-of-godzillas-rogues-gallery",
+      "canonical": "ign.com/articles/godzilla-minus-zero-where-is-the-rest-of-godzillas-rogues-gallery",
+      "published_dt": "2026-11-07T19:00:00+06:00",
+      "published_date": "2026-11-07T19:00:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Where is the rest of Godzilla’s rogues' gallery? We take a look at Monster Island's most wanted.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/06/godzillaminuszero-rogues-1794006924348.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-07T19:44:52.106232+06:00",
+      "last_seen": "2026-11-07T19:44:52.106239+06:00"
+    },
+    "ign.com/articles/gundam-assemble-hands-on-with-mobile-suit-gundams-miniatures-tabletop-game": {
+      "title": "Gundam Assemble: Hands-On With Mobile Suit Gundam’s Miniatures Tabletop Game",
+      "url": "https://www.ign.com/articles/gundam-assemble-hands-on-with-mobile-suit-gundams-miniatures-tabletop-game",
+      "canonical": "ign.com/articles/gundam-assemble-hands-on-with-mobile-suit-gundams-miniatures-tabletop-game",
+      "published_dt": "2026-11-07T19:00:00+06:00",
+      "published_date": "2026-11-07T19:00:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Get a closer look at the Gundam Assemble Starter Set.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/06/gundamaoo-1793929453718.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-07T19:44:52.106429+06:00",
+      "last_seen": "2026-11-07T19:44:52.106434+06:00"
+    },
+    "eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect": {
+      "title": "Xbox is testing a way to use your phone as a controller on smart TVs",
+      "url": "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect",
+      "canonical": "eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect",
+      "published_dt": "2026-11-07T18:30:10+06:00",
+      "published_date": "2026-11-07T18:30:10+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Xbox is testing two new ways to play its cloud games, and one of them doesn't require a controller at all. Read more",
+      "image": "https://assetsio.gnwcdn.com/XBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-07T19:44:53.274680+06:00",
+      "last_seen": "2026-11-07T19:44:53.274687+06:00",
+      "posted_at": "2026-11-07T19:53:31.329473+06:00"
+    },
+    "pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff": {
+      "title": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff",
+      "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
+      "canonical": "pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff",
+      "published_dt": "2026-11-07T18:18:55+06:00",
+      "published_date": "2026-11-07T18:18:55+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "\"While it stings, I'm really proud of what we built together.\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/QzGk2ZJyUzdTRQXxUM2RhW-1920-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-07T19:44:54.041937+06:00",
+      "last_seen": "2026-11-07T19:44:54.041943+06:00",
+      "posted_at": "2026-11-07T19:53:25.727404+06:00"
+    },
+    "pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb": {
+      "title": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
+      "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
+      "canonical": "pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb",
+      "published_dt": "2026-11-07T17:15:54+06:00",
+      "published_date": "2026-11-07T17:15:54+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Square Enix is 'working to resolve the issue'.",
+      "image": "https://cdn.mos.cms.futurecdn.net/k598NBBJiCSKJrL33QJRvC-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-07T19:44:54.042082+06:00",
+      "last_seen": "2026-11-07T19:44:54.042086+06:00",
+      "posted_at": "2026-11-07T19:53:20.031974+06:00"
+    },
+    "polygon.com/alien-ridley-scott-sci-fi-movie-streaming-december-2026": {
+      "title": "Ridley Scott’s R-Rated Sci-Fi Masterpiece is Officially Being Cut From Netflix",
+      "url": "https://www.polygon.com/alien-ridley-scott-sci-fi-movie-streaming-december-2026/",
+      "canonical": "polygon.com/alien-ridley-scott-sci-fi-movie-streaming-december-2026",
+      "published_dt": "2026-11-07T19:16:18+06:00",
+      "published_date": "2026-11-07T19:16:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Alien and Aliens are leaving Netflix on Dec. 1, giving subscribers limited time to stream Ridley Scott’s sci-fi classics.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/msdalie_ec009_h.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-07T19:44:54.551653+06:00",
+      "last_seen": "2026-11-07T19:44:54.551658+06:00"
+    },
+    "polygon.com/funniest-far-side-comics-cows": {
+      "title": "10 Funniest 'Far Side' Comics About Cows",
+      "url": "https://www.polygon.com/funniest-far-side-comics-cows/",
+      "canonical": "polygon.com/funniest-far-side-comics-cows",
+      "published_dt": "2026-11-07T18:14:17+06:00",
+      "published_date": "2026-11-07T18:14:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Gary Larson's The Far Side often featured cows in funny situations. Here are the 10 funniest examples",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screen-shot-2026-08-19-at-2-17-15-pm.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-07T19:44:54.551804+06:00",
+      "last_seen": "2026-11-07T19:44:54.551809+06:00"
+    },
+    "polygon.com/mass-effect-homecoming-samesh-bhatia-choice": {
+      "title": "Mass Effect’s Cruelest Moral Choice Remains Gaming's Most Haunting Mission 19 Years Later",
+      "url": "https://www.polygon.com/mass-effect-homecoming-samesh-bhatia-choice/",
+      "canonical": "polygon.com/mass-effect-homecoming-samesh-bhatia-choice",
+      "published_dt": "2026-11-07T18:00:17+06:00",
+      "published_date": "2026-11-07T18:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Mass Effect’s Homecoming quest asks you to hand a widower his wife’s body or keep it for research. Neither ending feels clean, but one is better",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mass-effect-geth.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-07T19:44:54.551948+06:00",
+      "last_seen": "2026-11-07T19:44:54.551952+06:00"
+    },
+    "polygon.com/sydney-sweeney-gundam-netflix-transformers-sci-fi-epic": {
+      "title": "Sydney Sweeney's New Netflix Sci-Fi Epic Is Mandatory Viewing For Transformers Fans",
+      "url": "https://www.polygon.com/sydney-sweeney-gundam-netflix-transformers-sci-fi-epic/",
+      "canonical": "polygon.com/sydney-sweeney-gundam-netflix-transformers-sci-fi-epic",
+      "published_dt": "2026-11-07T17:30:17+06:00",
+      "published_date": "2026-11-07T17:30:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Robots (not) in disguise.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/sydney_sweeney.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-07T19:44:54.552082+06:00",
+      "last_seen": "2026-11-07T19:44:54.552085+06:00"
+    },
+    "polygon.com/star-trek-redshirts-tokens-explainer": {
+      "title": "Magic: The Gathering Star Trek Perfectly Captures the Sci-Fi Show’s Most Brutal Running Joke",
+      "url": "https://www.polygon.com/star-trek-redshirts-tokens-explainer/",
+      "canonical": "polygon.com/star-trek-redshirts-tokens-explainer",
+      "published_dt": "2026-11-07T17:00:17+06:00",
+      "published_date": "2026-11-07T17:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Lots of Redshirts are going to die",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/he-s-dead-jim-art-star-trek-114-2c309b0d-94b4-405e-be6c-18b407323e51-art.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-07T19:44:54.552215+06:00",
+      "last_seen": "2026-11-07T19:44:54.552219+06:00"
+    },
+    "gamesradar.com/platforms/playstation/ps6-doesnt-need-more-power-ex-playstation-boss-says-because-true-innovation-would-be-making-a-usd300-console-again": {
+      "title": "PS6 doesn't need more power, ex-PlayStation boss says",
+      "url": "https://www.gamesradar.com/platforms/playstation/ps6-doesnt-need-more-power-ex-playstation-boss-says-because-true-innovation-would-be-making-a-usd300-console-again/",
+      "canonical": "gamesradar.com/platforms/playstation/ps6-doesnt-need-more-power-ex-playstation-boss-says-because-true-innovation-would-be-making-a-usd300-console-again",
+      "published_dt": "2026-11-07T19:33:22+06:00",
+      "published_date": "2026-11-07T19:33:22+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"What the company needs to do is do what it's never done,\" Shawn Layden says",
+      "image": "https://cdn.mos.cms.futurecdn.net/T4ADkoncHhcgHDNY4NbMEP-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-07T19:44:55.186323+06:00",
+      "last_seen": "2026-11-07T19:44:55.186330+06:00",
+      "posted_at": "2026-11-07T19:53:42.221124+06:00"
+    },
+    "gamesradar.com/games/the-legend-of-zelda/three-the-legend-of-zelda-ocarina-of-times-later-eiji-aonuma-is-finally-happy-with-the-infamous-water-temple-i-think-this-for-me-is-the-best-version": {
+      "title": "Three Zelda: Ocarina of Times later, Eiji Aonuma is finally happy with the infamous Water Temple",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/three-the-legend-of-zelda-ocarina-of-times-later-eiji-aonuma-is-finally-happy-with-the-infamous-water-temple-i-think-this-for-me-is-the-best-version/",
+      "canonical": "gamesradar.com/games/the-legend-of-zelda/three-the-legend-of-zelda-ocarina-of-times-later-eiji-aonuma-is-finally-happy-with-the-infamous-water-temple-i-think-this-for-me-is-the-best-version",
+      "published_dt": "2026-11-07T18:51:41+06:00",
+      "published_date": "2026-11-07T18:51:41+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"It's a better experience\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/geWqJFuH7dqGdzRQKEjZpR-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-07T19:44:55.186477+06:00",
+      "last_seen": "2026-11-07T19:44:55.186481+06:00"
+    },
+    "gamesradar.com/entertainment/lord-of-the-rings-tv-shows/the-rings-of-power-season-3-star-robert-aramayo-opens-up-about-playing-another-iconic-lord-of-the-rings-character-in-the-shows-upcoming-flashback": {
+      "title": "The Rings of Power season 3 star Robert Aramayo opens up about playing another iconic Lord of the Rings character",
+      "url": "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/the-rings-of-power-season-3-star-robert-aramayo-opens-up-about-playing-another-iconic-lord-of-the-rings-character-in-the-shows-upcoming-flashback/",
+      "canonical": "gamesradar.com/entertainment/lord-of-the-rings-tv-shows/the-rings-of-power-season-3-star-robert-aramayo-opens-up-about-playing-another-iconic-lord-of-the-rings-character-in-the-shows-upcoming-flashback",
+      "published_dt": "2026-11-07T18:00:00+06:00",
+      "published_date": "2026-11-07T18:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Exclusive: Robert Aramayo explains the difficulties of playing both Elrond and Elros in season 3",
+      "image": "https://cdn.mos.cms.futurecdn.net/aE4Xg8MHiSzXWgofRcTogb-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-07T19:44:55.186618+06:00",
+      "last_seen": "2026-11-07T19:44:55.186622+06:00"
+    },
+    "pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-9th-15th-november": {
+      "title": "Guide: These 13+ PS5 Games Are Coming Out Next Week (9th-15th November)",
+      "url": "https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-9th-15th-november",
+      "canonical": "pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-9th-15th-november",
+      "published_dt": "2026-11-07T18:00:00+06:00",
+      "published_date": "2026-11-07T18:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Shrek 2! Sonic! Barbie! The release schedule has been on fire for a while now, but it's finally started to calm down, with a smaller selection of PS5 and PS4 games arriving next week. In terms of highlights, there's Shrek 2 Remastered , which revives a fan favourite movie tie-in, and Warhammer Survivors , which is basically another Vampire Survivors game, which I'm definitely down for. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/3c8f161a04355/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-07T19:44:57.798122+06:00",
+      "last_seen": "2026-11-07T19:44:57.798127+06:00"
+    },
+    "purexbox.com/news/2026/11/these-30plus-games-are-coming-to-xbox-next-week-november-9-13": {
+      "title": "These 30+ Games Are Coming To Xbox Next Week (November 9-13)",
+      "url": "https://www.purexbox.com/news/2026/11/these-30plus-games-are-coming-to-xbox-next-week-november-9-13",
+      "canonical": "purexbox.com/news/2026/11/these-30plus-games-are-coming-to-xbox-next-week-november-9-13",
+      "published_dt": "2026-11-07T19:00:00+06:00",
+      "published_date": "2026-11-07T19:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Including six more Game Pass titles! Welcome to your Xbox games roundup for November 9-13 ! We're really starting to feel the looming presence of GTA 6 now, but before we get there, the likes of Shrek 2 Remastered , Raccoin: Chaos Max Edition, Football Manager 27 and loads of Xbox Game Pass titles are all on the way to keep us busy! Here's what's coming to Xbox next week: Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/07531f5886ce0/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-07T19:44:58.359624+06:00",
+      "last_seen": "2026-11-07T19:44:58.359630+06:00"
+    },
+    "purexbox.com/features/talking-point-what-are-you-playing-this-weekend-november-7-8": {
+      "title": "Talking Point: What Are You Playing This Weekend? (November 7-8)",
+      "url": "https://www.purexbox.com/features/talking-point-what-are-you-playing-this-weekend-november-7-8",
+      "canonical": "purexbox.com/features/talking-point-what-are-you-playing-this-weekend-november-7-8",
+      "published_dt": "2026-11-07T18:00:00+06:00",
+      "published_date": "2026-11-07T18:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Anything you need to complete before...y'know? Just two more weekends to get stuck into the games you're likely to abandon come November 19th. It's been a fairly chill week for new releases with ZERO PARADES: Director's Cut the only notable launch (at least in my opinion). Hopefully something from our Deep Discounts sales roundup , or Xbox's Free Play Days titles are worth a shot. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/4b8f2b3962195/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-07T19:44:58.360025+06:00",
+      "last_seen": "2026-11-07T19:44:58.360030+06:00"
+    },
+    "es.kotaku.com/ea-recupera-25-juegos-clasicos-para-pc-en-steam-y-gog-con-remasterizaciones-de-wing-commander-y-road-rash-2000056583": {
+      "title": "EA recupera 25 juegos clásicos para PC en Steam y GOG, con remasterizaciones de Wing Commander y Road Rash - Kotaku en Español",
+      "url": "https://es.kotaku.com/ea-recupera-25-juegos-clasicos-para-pc-en-steam-y-gog-con-remasterizaciones-de-wing-commander-y-road-rash-2000056583",
+      "canonical": "es.kotaku.com/ea-recupera-25-juegos-clasicos-para-pc-en-steam-y-gog-con-remasterizaciones-de-wing-commander-y-road-rash-2000056583",
+      "published_dt": "2026-11-07T18:28:04+06:00",
+      "published_date": "2026-11-07T18:28:04+06:00",
+      "source": "es.kotaku.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "posted",
+      "first_seen": "2026-11-07T19:45:06.757120+06:00",
+      "last_seen": "2026-11-07T19:45:06.757125+06:00",
+      "posted_at": "2026-11-07T19:53:52.360964+06:00"
+    },
+    "es.kotaku.com/the-elder-scrolls-6-podria-llegar-a-ps5-todd-howard-responde-sobre-la-exclusividad-del-proximo-rpg-de-bethesda-2000056592": {
+      "title": "The Elder Scrolls 6 podría llegar a PS5: Todd Howard responde sobre la exclusividad del próximo RPG de Bethesda - Kotaku en Español",
+      "url": "https://es.kotaku.com/the-elder-scrolls-6-podria-llegar-a-ps5-todd-howard-responde-sobre-la-exclusividad-del-proximo-rpg-de-bethesda-2000056592",
+      "canonical": "es.kotaku.com/the-elder-scrolls-6-podria-llegar-a-ps5-todd-howard-responde-sobre-la-exclusividad-del-proximo-rpg-de-bethesda-2000056592",
+      "published_dt": "2026-11-07T18:43:58+06:00",
+      "published_date": "2026-11-07T18:43:58+06:00",
+      "source": "es.kotaku.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "posted",
+      "first_seen": "2026-11-07T19:45:06.757233+06:00",
+      "last_seen": "2026-11-07T19:45:06.757236+06:00",
+      "posted_at": "2026-11-07T19:53:47.467162+06:00"
+    },
+    "es.kotaku.com/ananta-el-ambicioso-rival-de-gta-6-anuncia-su-lanzamiento-para-enero-de-2027-en-ps5-pc-y-moviles-2000056580": {
+      "title": "Ananta, el ambicioso rival de GTA 6, anuncia su lanzamiento para enero de 2027 en PS5, PC y móviles - Kotaku en Español",
+      "url": "https://es.kotaku.com/ananta-el-ambicioso-rival-de-gta-6-anuncia-su-lanzamiento-para-enero-de-2027-en-ps5-pc-y-moviles-2000056580",
+      "canonical": "es.kotaku.com/ananta-el-ambicioso-rival-de-gta-6-anuncia-su-lanzamiento-para-enero-de-2027-en-ps5-pc-y-moviles-2000056580",
+      "published_dt": "2026-11-07T18:24:04+06:00",
+      "published_date": "2026-11-07T18:24:04+06:00",
+      "source": "es.kotaku.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "posted",
+      "first_seen": "2026-11-07T19:45:06.757327+06:00",
+      "last_seen": "2026-11-07T19:45:06.757330+06:00",
+      "posted_at": "2026-11-07T19:53:36.952394+06:00"
+    },
+    "es.kotaku.com/nvidia-revive-una-de-las-tarjetas-graficas-mas-legendarias-de-la-historia-con-un-regalo-en-steam-que-esconde-una-sorpresa-2000056537": {
+      "title": "NVIDIA revive una de las tarjetas gráficas más legendarias de la historia con un regalo en Steam que esconde una sorpresa - Kotaku en Español",
+      "url": "https://es.kotaku.com/nvidia-revive-una-de-las-tarjetas-graficas-mas-legendarias-de-la-historia-con-un-regalo-en-steam-que-esconde-una-sorpresa-2000056537",
+      "canonical": "es.kotaku.com/nvidia-revive-una-de-las-tarjetas-graficas-mas-legendarias-de-la-historia-con-un-regalo-en-steam-que-esconde-una-sorpresa-2000056537",
+      "published_dt": "2026-11-07T16:54:50+06:00",
+      "published_date": "2026-11-07T16:54:50+06:00",
+      "source": "es.kotaku.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-07T19:45:06.757430+06:00",
+      "last_seen": "2026-11-07T19:45:06.757433+06:00"
+    },
+    "es.kotaku.com/bethesda-ya-vende-productos-de-the-elder-scrolls-6-pero-hay-algo-mucho-mas-importante-que-los-jugadores-todavia-no-pueden-conseguir-2000056543": {
+      "title": "Bethesda ya vende productos de The Elder Scrolls 6, pero hay algo mucho más importante que los jugadores todavía no pueden conseguir - Kotaku en Español",
+      "url": "https://es.kotaku.com/bethesda-ya-vende-productos-de-the-elder-scrolls-6-pero-hay-algo-mucho-mas-importante-que-los-jugadores-todavia-no-pueden-conseguir-2000056543",
+      "canonical": "es.kotaku.com/bethesda-ya-vende-productos-de-the-elder-scrolls-6-pero-hay-algo-mucho-mas-importante-que-los-jugadores-todavia-no-pueden-conseguir-2000056543",
+      "published_dt": "2026-11-07T19:17:45+06:00",
+      "published_date": "2026-11-07T19:17:45+06:00",
+      "source": "es.kotaku.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-07T19:45:06.757480+06:00",
+      "last_seen": "2026-11-07T19:45:06.757482+06:00"
+    },
+    "pt.ign.com/astro-bot/164218/god-of-war-ragnarok-e-o-jogo-playstation-studios-com-maior-receita-da-geracao-ps5": {
+      "title": "God of War Ragnarok é o jogo PlayStation Studios com maior receita da geração PS5",
+      "url": "https://pt.ign.com/astro-bot/164218/god-of-war-ragnarok-e-o-jogo-playstation-studios-com-maior-receita-da-geracao-ps5",
+      "canonical": "pt.ign.com/astro-bot/164218/god-of-war-ragnarok-e-o-jogo-playstation-studios-com-maior-receita-da-geracao-ps5",
+      "published_dt": "2026-11-07T18:08:50+06:00",
+      "published_date": "2026-11-07T18:08:50+06:00",
+      "source": "pt.ign.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://sm.ign.com/t/ign_pt/news/g/god-of-war/god-of-war-ragnarok-tops-list-of-10-highest-grossing-playsta_g252.1200.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-07T19:45:08.059970+06:00",
+      "last_seen": "2026-11-07T19:45:08.059975+06:00"
+    },
+    "in.ign.com/gundam-assemble/276425/gundam-assemble-hands-on-with-mobile-suit-gundams-miniatures-tabletop-game": {
+      "title": "Gundam Assemble: Hands-On With Mobile Suit Gundam’s Miniatures Tabletop Game",
+      "url": "https://in.ign.com/gundam-assemble/276425/gundam-assemble-hands-on-with-mobile-suit-gundams-miniatures-tabletop-game",
+      "canonical": "in.ign.com/gundam-assemble/276425/gundam-assemble-hands-on-with-mobile-suit-gundams-miniatures-tabletop-game",
+      "published_dt": "2026-11-07T19:00:00+06:00",
+      "published_date": "2026-11-07T19:00:00+06:00",
+      "source": "in.ign.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://sm.ign.com/t/ign_in/preview/g/gundam-ass/gundam-assemble-hands-on-with-mobile-suit-gundams-miniatures_6tpn.1200.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-07T19:45:08.060065+06:00",
+      "last_seen": "2026-11-07T19:45:08.060068+06:00"
+    },
+    "fr.ign.com/mass-effect-3/93773/mass-effect-nest-plus-mais-la-boutique-officielle-de-bioware-continue-de-proposer-de-nouveaux-produi": {
+      "title": "Mass Effect n’est plus, mais la boutique officielle de Bioware continue de proposer de nouveaux produits dérivés à l’occasion du N7 Day",
+      "url": "https://fr.ign.com/mass-effect-3/93773/mass-effect-nest-plus-mais-la-boutique-officielle-de-bioware-continue-de-proposer-de-nouveaux-produi",
+      "canonical": "fr.ign.com/mass-effect-3/93773/mass-effect-nest-plus-mais-la-boutique-officielle-de-bioware-continue-de-proposer-de-nouveaux-produi",
+      "published_dt": "2026-11-07T17:45:02+06:00",
+      "published_date": "2026-11-07T17:45:02+06:00",
+      "source": "fr.ign.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://sm.ign.com/t/ign_fr/news/m/mass-effec/mass-effect-is-dead-but-the-official-bioware-store-is-still_hnxf.1200.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-07T19:45:09.424015+06:00",
+      "last_seen": "2026-11-07T19:45:09.424020+06:00"
+    },
+    "nl.ign.com/grand-theft-auto-vi/168242/rockstar-wil-gta-6-volgens-oud-ontwikkelaar-zo-snel-mogelijk-naar-pc-brengen-vanwege-ai-klonen": {
+      "title": "Rockstar wil GTA 6 volgens oud-ontwikkelaar zo snel mogelijk naar pc brengen vanwege AI-klonen",
+      "url": "https://nl.ign.com/grand-theft-auto-vi/168242/rockstar-wil-gta-6-volgens-oud-ontwikkelaar-zo-snel-mogelijk-naar-pc-brengen-vanwege-ai-klonen",
+      "canonical": "nl.ign.com/grand-theft-auto-vi/168242/rockstar-wil-gta-6-volgens-oud-ontwikkelaar-zo-snel-mogelijk-naar-pc-brengen-vanwege-ai-klonen",
+      "published_dt": "2026-11-07T17:00:41+06:00",
+      "published_date": "2026-11-07T17:00:41+06:00",
+      "source": "nl.ign.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-07T19:45:09.424112+06:00",
+      "last_seen": "2026-11-07T19:45:09.424115+06:00"
+    },
+    "me.ign.com/ar/world-of-warcraft-forever/197224/njh-season-of-discovery-gywr-mstqbl-world-of-warcraft-blkml": {
+      "title": "نجاح Season of Discovery غيّر مستقبل World of Warcraft بالكامل",
+      "url": "https://me.ign.com/ar/world-of-warcraft-forever/197224/njh-season-of-discovery-gywr-mstqbl-world-of-warcraft-blkml",
+      "canonical": "me.ign.com/ar/world-of-warcraft-forever/197224/njh-season-of-discovery-gywr-mstqbl-world-of-warcraft-blkml",
+      "published_dt": "2026-11-07T18:28:10+06:00",
+      "published_date": "2026-11-07T18:28:10+06:00",
+      "source": "me.ign.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-07T19:45:10.827756+06:00",
+      "last_seen": "2026-11-07T19:45:10.827761+06:00"
+    },
+    "es.kotaku.com/world-of-warcraft-forever-habria-superado-todos-los-records-de-la-saga-con-el-mayor-lanzamiento-de-su-historia-2000056589": {
+      "title": "World of Warcraft: Forever habría superado todos los récords de la saga con el mayor lanzamiento de su historia - Kotaku en Español",
+      "url": "https://es.kotaku.com/world-of-warcraft-forever-habria-superado-todos-los-records-de-la-saga-con-el-mayor-lanzamiento-de-su-historia-2000056589",
+      "canonical": "es.kotaku.com/world-of-warcraft-forever-habria-superado-todos-los-records-de-la-saga-con-el-mayor-lanzamiento-de-su-historia-2000056589",
+      "published_dt": "2026-11-07T18:39:19+06:00",
+      "published_date": "2026-11-07T18:39:19+06:00",
+      "source": "es.kotaku.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-07T19:45:10.827858+06:00",
+      "last_seen": "2026-11-07T19:45:10.827860+06:00"
     }
   },
   "events": {
-    "evt_966b2f3b03459e": {
-      "event_id": "evt_966b2f3b03459e",
-      "event_key": "xbox xp division launch 2026 10 08",
-      "event_subject": "Xbox",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "xbox xp division launch 2026 10 08",
-        "subject": "Xbox",
-        "event_type": "other",
-        "action": "announce",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "",
-        "institution": "Microsoft",
-        "target": "XP division",
-        "platforms": [],
-        "topic": "media_expansion"
-      },
-      "sources": [
-        "Polygon",
-        "Pure Xbox",
-        "Gematsu",
-        "GamesRadar+",
-        "Insider Gaming",
-        "GameSpot",
-        "Eurogamer",
-        "Kotaku",
-        "IGN"
-      ],
-      "event_sources": [
-        "Polygon",
-        "Pure Xbox",
-        "Gematsu",
-        "GamesRadar+",
-        "Insider Gaming",
-        "GameSpot",
-        "Eurogamer",
-        "Kotaku",
-        "IGN"
-      ],
-      "claims": [
-        "Xbox XP division focusing on movies & TV",
-        "Seasonal Savings sale with many discounted games"
-      ],
-      "importance_score": 72,
-      "coverage_score": 17,
-      "originality_score": 10,
-      "significance_score": 25,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Xbox launches XP division to push franchises into film, TV, products and live events",
-      "summary": "Xbox announced XP, a new division led by Kayleen Walters, to expand its franchises beyond games into movies, merchandise, partnerships and immersive experiences.",
-      "published_at": "2026-10-08T19:15:20+06:00",
-      "selected_at": "2026-10-08T14:44:39.920900+00:00",
-      "status": "published",
-      "message_id": 620,
-      "published_versions": [
-        {
-          "published_at": "2026-10-08T14:44:39.920900+00:00",
-          "headline": "Xbox launches XP division to push franchises into film, TV, products and live events",
-          "claims": [
-            "Xbox XP division focusing on movies & TV",
-            "Seasonal Savings sale with many discounted games"
-          ]
-        }
-      ]
-    },
-    "evt_bdbc1029e3543d": {
-      "event_id": "evt_bdbc1029e3543d",
-      "event_key": "google unity genai platforms announcement 2026",
-      "event_subject": "Google & Unity",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "google unity genai platforms announcement 2026",
-        "subject": "Google & Unity",
-        "event_type": "other",
-        "action": "announced",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "",
-        "institution": "Google, Unity",
-        "target": "developers",
-        "platforms": [],
-        "topic": "Generative AI game-making"
-      },
-      "sources": [
-        "Eurogamer"
-      ],
-      "event_sources": [
-        "Eurogamer"
-      ],
-      "claims": [
-        "Playground_and_Spark"
-      ],
-      "importance_score": 60,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 30,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Google Playground and Unity Spark Unveil Generative‑AI Game‑Making Platforms",
-      "summary": "Google and Unity announced AI‑driven tools that let creators build games from text prompts, with Playground now testable in the US and Spark arriving soon.",
-      "published_at": "2026-10-08T17:33:09+06:00",
-      "selected_at": "2026-10-08T14:44:45.634528+00:00",
-      "status": "published",
-      "message_id": 621,
-      "published_versions": [
-        {
-          "published_at": "2026-10-08T14:44:45.634528+00:00",
-          "headline": "Google Playground and Unity Spark Unveil Generative‑AI Game‑Making Platforms",
-          "claims": [
-            "Playground_and_Spark"
-          ]
-        }
-      ]
-    },
-    "evt_e4b671e7f83d75": {
-      "event_id": "evt_e4b671e7f83d75",
-      "event_key": "hellraiser revival game release 2026",
-      "event_subject": "Saber Interactive",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "hellraiser revival game release 2026",
-        "subject": "Saber Interactive",
-        "event_type": "other",
-        "action": "released",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Clive Barker’s Hellraiser: Revival",
-        "franchise": "Clive Barker’s Hellraiser: Revival",
-        "institution": "Saber Interactive",
-        "target": "players",
-        "platforms": [
-          "PS5"
-        ],
-        "topic": "Hellraiser Revival reviews"
-      },
-      "sources": [
-        "Eurogamer",
-        "Kotaku",
-        "GamesRadar+",
-        "Push Square",
-        "IGN",
-        "GameSpot"
-      ],
-      "event_sources": [
-        "Eurogamer",
-        "Kotaku",
-        "GamesRadar+",
-        "Push Square",
-        "IGN",
-        "GameSpot"
-      ],
-      "claims": [
-        "puzzle_solution",
-        "puzzle_solution",
-        "code_solution",
-        "puzzle_solution",
-        "puzzle_solution",
-        "puzzle_solution"
-      ],
-      "importance_score": 58,
-      "coverage_score": 17,
-      "originality_score": 8,
-      "significance_score": 14,
-      "freshness_score": 10,
-      "source_trust_score": 9,
-      "headline": "Hellraiser: Revival Review – A Messy Yet Ambitious Horror FPS",
-      "summary": "Saber Interactive’s Hellraiser: Revival delivers uneven horror action, blending brutal combat, puzzling Labyrinth set‑pieces, and a love‑letter to Clive Barker’s original mythos.",
-      "published_at": "2026-10-08T18:00:32+06:00",
-      "selected_at": "2026-10-08T14:44:50.727620+00:00",
-      "status": "published",
-      "message_id": 622,
-      "published_versions": [
-        {
-          "published_at": "2026-10-08T14:44:50.727620+00:00",
-          "headline": "Hellraiser: Revival Review – A Messy Yet Ambitious Horror FPS",
-          "claims": [
-            "puzzle_solution",
-            "puzzle_solution",
-            "code_solution",
-            "puzzle_solution",
-            "puzzle_solution",
-            "puzzle_solution"
-          ]
-        }
-      ]
-    },
     "evt_537c4b0eb841be": {
       "event_id": "evt_537c4b0eb841be",
       "event_key": "cdprojektred witcher3remastered patch release",
@@ -6487,298 +6559,6 @@
             "Patch adds lighting options and fixes visuals",
             "Patch adds Bloom toggle and lighting changes"
           ]
-        }
-      ]
-    },
-    "evt_75ea71b06c0ccd": {
-      "event_id": "evt_75ea71b06c0ccd",
-      "event_key": "insidergaming gta6 firstperson leak 2026 10 08",
-      "event_subject": "Insider Gaming",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "insidergaming gta6 firstperson leak 2026 10 08",
-        "subject": "Insider Gaming",
-        "event_type": "other",
-        "action": "publish",
-        "status": "unconfirmed",
-        "modality": "unknown",
-        "game": "GTA 6",
-        "franchise": "Grand Theft Auto",
-        "institution": "",
-        "target": "first‑person perspective",
-        "platforms": [],
-        "topic": "leak"
-      },
-      "sources": [
-        "Insider Gaming"
-      ],
-      "event_sources": [
-        "Insider Gaming"
-      ],
-      "claims": [
-        "first‑person perspective exists"
-      ],
-      "importance_score": 49,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 15,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "New Leak Shows GTA 6 First‑Person Perspective in 25 Minutes of Gameplay",
-      "summary": "A fresh CYBERLEEK leak reveals 25 minutes of GTA 6 footage featuring first‑person driving and on‑foot sequences, contradicting earlier claims.",
-      "published_at": "2026-10-08T18:18:48+06:00",
-      "selected_at": "2026-10-08T14:45:00.868993+00:00",
-      "status": "published",
-      "message_id": 624,
-      "published_versions": [
-        {
-          "published_at": "2026-10-08T14:45:00.868993+00:00",
-          "headline": "New Leak Shows GTA 6 First‑Person Perspective in 25 Minutes of Gameplay",
-          "claims": [
-            "first‑person perspective exists"
-          ]
-        }
-      ]
-    },
-    "evt_c089e7ba067276": {
-      "event_id": "evt_c089e7ba067276",
-      "event_key": "wow forever skyborne race visual update 2026",
-      "event_subject": "Blizzard Entertainment",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "wow forever skyborne race visual update 2026",
-        "subject": "Blizzard Entertainment",
-        "event_type": "other",
-        "action": "changed",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "World of Warcraft: Forever",
-        "franchise": "World of Warcraft: Forever",
-        "institution": "Blizzard Entertainment",
-        "target": "players",
-        "platforms": [],
-        "topic": "Skyborne race redesign"
-      },
-      "sources": [
-        "Eurogamer"
-      ],
-      "event_sources": [
-        "Eurogamer"
-      ],
-      "claims": [
-        "community_feedback_response"
-      ],
-      "importance_score": 46,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 11,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Blizzard Revamps Skyborne Race After Community Outcry",
-      "summary": "Blizzard announced visual overhauls for the Skyborne race in World of Warcraft: Forever, aligning models with the classic MMO aesthetic.",
-      "published_at": "2026-10-08T17:35:03+06:00",
-      "selected_at": "2026-10-08T14:45:05.791592+00:00",
-      "status": "published",
-      "message_id": 625,
-      "published_versions": [
-        {
-          "published_at": "2026-10-08T14:45:05.791592+00:00",
-          "headline": "Blizzard Revamps Skyborne Race After Community Outcry",
-          "claims": [
-            "community_feedback_response"
-          ]
-        }
-      ]
-    },
-    "evt_628d28c0f559f9": {
-      "event_id": "evt_628d28c0f559f9",
-      "event_key": "nintendo switchsportsresort trailer 2026 10 08",
-      "event_subject": "Nintendo",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "nintendo switchsportsresort trailer 2026 10 08",
-        "subject": "Nintendo",
-        "event_type": "other",
-        "action": "release",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Switch Sports Resort",
-        "franchise": "Switch Sports Resort",
-        "institution": "",
-        "target": "overview trailer",
-        "platforms": [
-          "Nintendo Switch"
-        ],
-        "topic": "marketing"
-      },
-      "sources": [
-        "Nintendo Life",
-        "Gematsu"
-      ],
-      "event_sources": [
-        "Nintendo Life",
-        "Gematsu"
-      ],
-      "claims": [
-        "Seven‑minute overview trailer showcasing sports and content"
-      ],
-      "importance_score": 43,
-      "coverage_score": 6,
-      "originality_score": 12,
-      "significance_score": 5,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Nintendo Switch Sports Resort Trailer Shows 12 Motion‑Control Sports for Island Fun",
-      "summary": "Nintendo released a seven‑minute overview trailer revealing 12 motion‑control sports and new Joy‑Con™ 2 mouse mechanics for its upcoming Switch 2 title.",
-      "published_at": "2026-10-08T19:15:45+06:00",
-      "selected_at": "2026-10-08T14:45:10.781968+00:00",
-      "status": "published",
-      "message_id": 626,
-      "published_versions": [
-        {
-          "published_at": "2026-10-08T14:45:10.781968+00:00",
-          "headline": "Nintendo Switch Sports Resort Trailer Shows 12 Motion‑Control Sports for Island Fun",
-          "claims": [
-            "Seven‑minute overview trailer showcasing sports and content"
-          ]
-        }
-      ]
-    },
-    "evt_790c68869fd8c6": {
-      "event_id": "evt_790c68869fd8c6",
-      "event_key": "eurogamer codmw4 dmz spawn options 2026 10 08",
-      "event_subject": "Eurogamer",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "eurogamer codmw4 dmz spawn options 2026 10 08",
-        "subject": "Eurogamer",
-        "event_type": "other",
-        "action": "publish",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Call of Duty: Modern Warfare 4",
-        "franchise": "Call of Duty",
-        "institution": "",
-        "target": "expensive DMZ spawn options",
-        "platforms": [],
-        "topic": "game_balance"
-      },
-      "sources": [
-        "Eurogamer"
-      ],
-      "event_sources": [
-        "Eurogamer"
-      ],
-      "claims": [],
-      "importance_score": 42,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Modern Warfare 4 DMZ introduces costly spawn options that favor wealthy players",
-      "summary": "The new DMZ mode lets players pay up to $100,000 in in‑game cash for vehicle spawns, giving rich squads a massive advantage over foot‑spawn newcomers.",
-      "published_at": "2026-10-08T18:17:13+06:00",
-      "selected_at": "2026-10-08T14:45:16.027056+00:00",
-      "status": "published",
-      "message_id": 627,
-      "published_versions": [
-        {
-          "published_at": "2026-10-08T14:45:16.027056+00:00",
-          "headline": "Modern Warfare 4 DMZ introduces costly spawn options that favor wealthy players",
-          "claims": []
-        }
-      ]
-    },
-    "evt_70386129db1146": {
-      "event_id": "evt_70386129db1146",
-      "event_key": "gardensinteractive funding 2026 10 08",
-      "event_subject": "Gardens Interactive",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "gardensinteractive funding 2026 10 08",
-        "subject": "Gardens Interactive",
-        "event_type": "other",
-        "action": "raise",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "",
-        "institution": "",
-        "target": "$70 million investment",
-        "platforms": [],
-        "topic": "investment"
-      },
-      "sources": [
-        "VGC"
-      ],
-      "event_sources": [
-        "VGC"
-      ],
-      "claims": [],
-      "importance_score": 41,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 7,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Gardens Interactive Secures Over $70 Million for New Shared‑World Fantasy Game",
-      "summary": "Chris Bell’s studio Gardens Interactive has raised more than $70 million in funding to develop its ambitious strandbox adventure, backed by top venture firms.",
-      "published_at": "2026-10-08T19:16:52+06:00",
-      "selected_at": "2026-10-08T14:45:21.359501+00:00",
-      "status": "published",
-      "message_id": 628,
-      "published_versions": [
-        {
-          "published_at": "2026-10-08T14:45:21.359501+00:00",
-          "headline": "Gardens Interactive Secures Over $70 Million for New Shared‑World Fantasy Game",
-          "claims": []
-        }
-      ]
-    },
-    "evt_5e30ebb57d3869": {
-      "event_id": "evt_5e30ebb57d3869",
-      "event_key": "circana sales report nba2k27 madden27 aug2026",
-      "event_subject": "Circana",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "circana sales report nba2k27 madden27 aug2026",
-        "subject": "Circana",
-        "event_type": "other",
-        "action": "publish",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "NBA 2K27",
-        "franchise": "NBA 2K",
-        "institution": "",
-        "target": "best‑selling games August 2026",
-        "platforms": [],
-        "topic": "sales"
-      },
-      "sources": [
-        "GameSpot"
-      ],
-      "event_sources": [
-        "GameSpot"
-      ],
-      "claims": [],
-      "importance_score": 36,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 6,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "NBA 2K27 Reclaims August Sales Crown, Overtaking Madden NFL 27",
-      "summary": "Circana’s August report shows NBA 2K27 as the top‑selling title, pushing Madden NFL 27 to second place in the US market.",
-      "published_at": "2026-10-08T19:14:06+06:00",
-      "selected_at": "2026-10-08T14:45:25.460635+00:00",
-      "status": "published",
-      "message_id": 629,
-      "published_versions": [
-        {
-          "published_at": "2026-10-08T14:45:25.460635+00:00",
-          "headline": "NBA 2K27 Reclaims August Sales Crown, Overtaking Madden NFL 27",
-          "claims": []
         }
       ]
     },
@@ -23252,6 +23032,342 @@
         {
           "published_at": "2026-11-06T21:41:21.723570+00:00",
           "headline": "Ratchet & Clank: Ranger Rumble Mobile Game Shuts Down Before Global Launch",
+          "claims": []
+        }
+      ]
+    },
+    "evt_9b17b9c927d0e8": {
+      "event_id": "evt_9b17b9c927d0e8",
+      "event_key": "square enix issue nier automata update bug file size",
+      "event_subject": "Nier: Automata update bug inflates file size from 50 GB to 366 GB",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "square enix issue nier automata update bug file size",
+        "subject": "Nier: Automata update bug inflates file size from 50 GB to 366 GB",
+        "event_type": "other",
+        "action": "investigate",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "Nier: Automata",
+        "franchise": "Nier: Automata",
+        "institution": "Square Enix",
+        "target": "update",
+        "platforms": [],
+        "topic": "technical"
+      },
+      "sources": [
+        "PC Gamer"
+      ],
+      "event_sources": [
+        "PC Gamer"
+      ],
+      "claims": [],
+      "importance_score": 47,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Nier: Automata Update Swells File Size to 366 GB, Square Enix Investigates",
+      "summary": "A recent patch adding Chinese and Korean localisation unintentionally expanded Nier: Automata’s download from 50 GB to 366 GB, prompting Square Enix to investigate.",
+      "published_at": "2026-11-07T17:15:54+06:00",
+      "selected_at": "2026-11-07T13:53:20.032006+00:00",
+      "status": "published",
+      "message_id": 964,
+      "published_versions": [
+        {
+          "published_at": "2026-11-07T13:53:20.032006+00:00",
+          "headline": "Nier: Automata Update Swells File Size to 366 GB, Square Enix Investigates",
+          "claims": []
+        }
+      ]
+    },
+    "evt_6758364815160b": {
+      "event_id": "evt_6758364815160b",
+      "event_key": "star wars zero company layoffs staff reduction",
+      "event_subject": "Star Wars Zero Company lays off staff after furloughs",
+      "event_type": "layoff",
+      "event_frame": {
+        "event_key": "star wars zero company layoffs staff reduction",
+        "subject": "Star Wars Zero Company lays off staff after furloughs",
+        "event_type": "layoff",
+        "action": "layoff",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Star Wars Zero Company",
+        "target": "employees",
+        "platforms": [],
+        "topic": "HR"
+      },
+      "sources": [
+        "PC Gamer"
+      ],
+      "event_sources": [
+        "PC Gamer"
+      ],
+      "claims": [],
+      "importance_score": 45,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Bit Reactor Lays Off Staff After Furloughs Amid Zero Company Turmoil",
+      "summary": "Bit Reactor announced layoffs of an unspecified number of developers after previously furloughing most of its team despite Zero Company selling one million copies.",
+      "published_at": "2026-11-07T18:18:55+06:00",
+      "selected_at": "2026-11-07T13:53:25.727437+00:00",
+      "status": "published",
+      "message_id": 965,
+      "published_versions": [
+        {
+          "published_at": "2026-11-07T13:53:25.727437+00:00",
+          "headline": "Bit Reactor Lays Off Staff After Furloughs Amid Zero Company Turmoil",
+          "claims": []
+        }
+      ]
+    },
+    "evt_fb288673ed34de": {
+      "event_id": "evt_fb288673ed34de",
+      "event_key": "microsoft testing xbox phone controller",
+      "event_subject": "Xbox testing phone-as-controller for smart‑TV cloud gaming",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft testing xbox phone controller",
+        "subject": "Xbox testing phone-as-controller for smart‑TV cloud gaming",
+        "event_type": "other",
+        "action": "test",
+        "status": "in_progress",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "Xbox Cloud Gaming",
+        "platforms": [
+          "Smart TV"
+        ],
+        "topic": "input"
+      },
+      "sources": [
+        "Eurogamer"
+      ],
+      "event_sources": [
+        "Eurogamer"
+      ],
+      "claims": [],
+      "importance_score": 42,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Xbox Tests Phone‑As‑Controller Feature for Smart‑TV Cloud Gaming",
+      "summary": "Xbox is previewing a phone‑controller option that lets Android and iOS users play cloud games on smart TVs without a physical controller.",
+      "published_at": "2026-11-07T18:30:10+06:00",
+      "selected_at": "2026-11-07T13:53:31.329501+00:00",
+      "status": "published",
+      "message_id": 966,
+      "published_versions": [
+        {
+          "published_at": "2026-11-07T13:53:31.329501+00:00",
+          "headline": "Xbox Tests Phone‑As‑Controller Feature for Smart‑TV Cloud Gaming",
+          "claims": []
+        }
+      ]
+    },
+    "evt_e6e0277ce5effa": {
+      "event_id": "evt_e6e0277ce5effa",
+      "event_key": "ananta announcement launch jan 2027",
+      "event_subject": "Ananta, GTA 6 rival, slated for Jan 2027 launch on PS5, PC, mobile",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ananta announcement launch jan 2027",
+        "subject": "Ananta, GTA 6 rival, slated for Jan 2027 launch on PS5, PC, mobile",
+        "event_type": "other",
+        "action": "announce",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Ananta",
+        "franchise": "Ananta",
+        "institution": "",
+        "target": "Ananta",
+        "platforms": [
+          "PS5",
+          "PC",
+          "Mobile"
+        ],
+        "topic": "release"
+      },
+      "sources": [
+        "es.kotaku.com"
+      ],
+      "event_sources": [
+        "es.kotaku.com"
+      ],
+      "claims": [],
+      "importance_score": 35,
+      "coverage_score": 2,
+      "originality_score": 5,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 3,
+      "headline": "Ananta Announces Free‑to‑Play Open‑World Launch on Jan 15 2027",
+      "summary": "NetEase’s Ananta, a GTA 6‑style free‑to‑play game with anime aesthetics, will debut on PlayStation 5, PC, Android and iOS on 15 January 2027.",
+      "published_at": "2026-11-07T18:24:04+06:00",
+      "selected_at": "2026-11-07T13:53:36.952421+00:00",
+      "status": "published",
+      "message_id": 967,
+      "published_versions": [
+        {
+          "published_at": "2026-11-07T13:53:36.952421+00:00",
+          "headline": "Ananta Announces Free‑to‑Play Open‑World Launch on Jan 15 2027",
+          "claims": []
+        }
+      ]
+    },
+    "evt_7ca6fded64c069": {
+      "event_id": "evt_7ca6fded64c069",
+      "event_key": "sony statement playstation 6 design philosophy",
+      "event_subject": "Shawn Layden comments on PlayStation 6 power requirements",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sony statement playstation 6 design philosophy",
+        "subject": "Shawn Layden comments on PlayStation 6 power requirements",
+        "event_type": "other",
+        "action": "comment",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Sony",
+        "target": "PlayStation 6",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "sources": [
+        "GamesRadar+"
+      ],
+      "event_sources": [
+        "GamesRadar+"
+      ],
+      "claims": [
+        "PS6 does not need more power"
+      ],
+      "importance_score": 31,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 5,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Shawn Layden Says PS6 Should Prioritize Affordability Over Power",
+      "summary": "Former PlayStation chief Shawn Layden argues the upcoming PS6 need not be more powerful, insisting true innovation lies in delivering a $300 console for gamers.",
+      "published_at": "2026-11-07T19:33:22+06:00",
+      "selected_at": "2026-11-07T13:53:42.221152+00:00",
+      "status": "published",
+      "message_id": 968,
+      "published_versions": [
+        {
+          "published_at": "2026-11-07T13:53:42.221152+00:00",
+          "headline": "Shawn Layden Says PS6 Should Prioritize Affordability Over Power",
+          "claims": [
+            "PS6 does not need more power"
+          ]
+        }
+      ]
+    },
+    "evt_072ae75e07546d": {
+      "event_id": "evt_072ae75e07546d",
+      "event_key": "bethesda interview the elder scrolls vi platform exclusivity",
+      "event_subject": "Todd Howard discusses possible PS5 exclusivity for The Elder Scrolls VI",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "bethesda interview the elder scrolls vi platform exclusivity",
+        "subject": "Todd Howard discusses possible PS5 exclusivity for The Elder Scrolls VI",
+        "event_type": "other",
+        "action": "respond",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "The Elder Scrolls",
+        "institution": "Bethesda",
+        "target": "The Elder Scrolls VI",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "exclusivity"
+      },
+      "sources": [
+        "es.kotaku.com"
+      ],
+      "event_sources": [
+        "es.kotaku.com"
+      ],
+      "claims": [],
+      "importance_score": 28,
+      "coverage_score": 2,
+      "originality_score": 5,
+      "significance_score": 8,
+      "freshness_score": 10,
+      "source_trust_score": 3,
+      "headline": "Todd Howard Leaves TES VI Exclusivity Open, PS5 Future Unclear",
+      "summary": "Bethesda director Todd Howard told Windows Central that it’s too early to confirm whether The Elder Scrolls 6: Sentinel will be exclusive to Xbox or also launch on PlayStation 5.",
+      "published_at": "2026-11-07T18:43:58+06:00",
+      "selected_at": "2026-11-07T13:53:47.467191+00:00",
+      "status": "published",
+      "message_id": 969,
+      "published_versions": [
+        {
+          "published_at": "2026-11-07T13:53:47.467191+00:00",
+          "headline": "Todd Howard Leaves TES VI Exclusivity Open, PS5 Future Unclear",
+          "claims": []
+        }
+      ]
+    },
+    "evt_5a5af5aff84e47": {
+      "event_id": "evt_5a5af5aff84e47",
+      "event_key": "ea announcement classic games pc release",
+      "event_subject": "EA brings 25 classic games to PC via Steam and GOG",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ea announcement classic games pc release",
+        "subject": "EA brings 25 classic games to PC via Steam and GOG",
+        "event_type": "other",
+        "action": "release",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "EA",
+        "target": "25 classic titles",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "remasters"
+      },
+      "sources": [
+        "es.kotaku.com"
+      ],
+      "event_sources": [
+        "es.kotaku.com"
+      ],
+      "claims": [],
+      "importance_score": 27,
+      "coverage_score": 2,
+      "originality_score": 5,
+      "significance_score": 7,
+      "freshness_score": 10,
+      "source_trust_score": 3,
+      "headline": "EA Releases 25 Classic PC Games with Seven New Remasters",
+      "summary": "Electronic Arts has launched a collection of 25 legacy titles on Steam and GOG, featuring seven remastered editions with performance upgrades and restored cinematics.",
+      "published_at": "2026-11-07T18:28:04+06:00",
+      "selected_at": "2026-11-07T13:53:52.360990+00:00",
+      "status": "published",
+      "message_id": 970,
+      "published_versions": [
+        {
+          "published_at": "2026-11-07T13:53:52.360990+00:00",
+          "headline": "EA Releases 25 Classic PC Games with Seven New Remasters",
           "claims": []
         }
       ]
@@ -214549,16 +214665,1044 @@
         "total": 31
       },
       "last_seen": "2026-11-07T12:52:38.501440+06:00"
+    },
+    "evt_552ca777c17c7c": {
+      "event_id": "evt_552ca777c17c7c",
+      "event_key": "sony report god of war ragnarok revenue",
+      "event_subject": "God of War Ragnarok becomes PlayStation Studios’ top‑grossing PS5 game",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sony report god of war ragnarok revenue",
+        "subject": "God of War Ragnarok becomes PlayStation Studios’ top‑grossing PS5 game",
+        "event_type": "other",
+        "action": "report",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "God of War Ragnarok",
+        "franchise": "God of War",
+        "institution": "Sony",
+        "target": "PS5",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "sales"
+      },
+      "modality": "unknown",
+      "topic": "sales",
+      "institution": "Sony",
+      "sources": [
+        "pt.ign.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 40
+      },
+      "last_seen": "2026-11-07T19:46:13.169705+06:00"
+    },
+    "evt_af931602679980": {
+      "event_id": "evt_af931602679980",
+      "event_key": "rockstar rumor gta 6 pc release timing",
+      "event_subject": "Former dev says Rockstar will bring GTA 6 to PC ASAP due to AI clones",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "rockstar rumor gta 6 pc release timing",
+        "subject": "Former dev says Rockstar will bring GTA 6 to PC ASAP due to AI clones",
+        "event_type": "rumor",
+        "action": "predict",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "GTA 6",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar",
+        "target": "PC version",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "port"
+      },
+      "modality": "unknown",
+      "topic": "port",
+      "institution": "Rockstar",
+      "sources": [
+        "nl.ign.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 38
+      },
+      "last_seen": "2026-11-07T19:46:13.169727+06:00"
+    },
+    "evt_6758364815160b": {
+      "event_id": "evt_6758364815160b",
+      "event_key": "star wars zero company layoffs staff reduction",
+      "event_subject": "Star Wars Zero Company lays off staff after furloughs",
+      "event_type": "layoff",
+      "event_frame": {
+        "event_key": "star wars zero company layoffs staff reduction",
+        "subject": "Star Wars Zero Company lays off staff after furloughs",
+        "event_type": "layoff",
+        "action": "layoff",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Star Wars Zero Company",
+        "target": "employees",
+        "platforms": [],
+        "topic": "HR"
+      },
+      "modality": "unknown",
+      "topic": "HR",
+      "institution": "Star Wars Zero Company",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-11-07T19:46:13.169735+06:00"
+    },
+    "evt_e6e0277ce5effa": {
+      "event_id": "evt_e6e0277ce5effa",
+      "event_key": "ananta announcement launch jan 2027",
+      "event_subject": "Ananta, GTA 6 rival, slated for Jan 2027 launch on PS5, PC, mobile",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ananta announcement launch jan 2027",
+        "subject": "Ananta, GTA 6 rival, slated for Jan 2027 launch on PS5, PC, mobile",
+        "event_type": "other",
+        "action": "announce",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Ananta",
+        "franchise": "Ananta",
+        "institution": "",
+        "target": "Ananta",
+        "platforms": [
+          "PS5",
+          "PC",
+          "Mobile"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "",
+      "sources": [
+        "es.kotaku.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 35
+      },
+      "last_seen": "2026-11-07T19:46:13.169742+06:00"
+    },
+    "evt_be08ae4af2bb61": {
+      "event_id": "evt_be08ae4af2bb61",
+      "event_key": "microsoft release schedule xbox weekly release",
+      "event_subject": "30+ games arriving on Xbox next week (Nov 9‑13)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft release schedule xbox weekly release",
+        "subject": "30+ games arriving on Xbox next week (Nov 9‑13)",
+        "event_type": "other",
+        "action": "release",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "Xbox",
+        "platforms": [
+          "Xbox Series X|S"
+        ],
+        "topic": "games"
+      },
+      "modality": "unknown",
+      "topic": "games",
+      "institution": "Microsoft",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-11-07T19:46:13.169749+06:00"
+    },
+    "evt_9b17b9c927d0e8": {
+      "event_id": "evt_9b17b9c927d0e8",
+      "event_key": "square enix issue nier automata update bug file size",
+      "event_subject": "Nier: Automata update bug inflates file size from 50 GB to 366 GB",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "square enix issue nier automata update bug file size",
+        "subject": "Nier: Automata update bug inflates file size from 50 GB to 366 GB",
+        "event_type": "other",
+        "action": "investigate",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "Nier: Automata",
+        "franchise": "Nier: Automata",
+        "institution": "Square Enix",
+        "target": "update",
+        "platforms": [],
+        "topic": "technical"
+      },
+      "modality": "unknown",
+      "topic": "technical",
+      "institution": "Square Enix",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 47,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 47
+      },
+      "last_seen": "2026-11-07T19:46:13.169755+06:00"
+    },
+    "evt_fb288673ed34de": {
+      "event_id": "evt_fb288673ed34de",
+      "event_key": "microsoft testing xbox phone controller",
+      "event_subject": "Xbox testing phone-as-controller for smart‑TV cloud gaming",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft testing xbox phone controller",
+        "subject": "Xbox testing phone-as-controller for smart‑TV cloud gaming",
+        "event_type": "other",
+        "action": "test",
+        "status": "in_progress",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "Xbox Cloud Gaming",
+        "platforms": [
+          "Smart TV"
+        ],
+        "topic": "input"
+      },
+      "modality": "unknown",
+      "topic": "input",
+      "institution": "Microsoft",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-11-07T19:46:13.169761+06:00"
+    },
+    "evt_a2c031b8dc8c5f": {
+      "event_id": "evt_a2c031b8dc8c5f",
+      "event_key": "nvidia announcement legendary gpu steam gift",
+      "event_subject": "NVIDIA revives legendary graphics card with surprise Steam gift",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nvidia announcement legendary gpu steam gift",
+        "subject": "NVIDIA revives legendary graphics card with surprise Steam gift",
+        "event_type": "other",
+        "action": "announce",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "NVIDIA",
+        "target": "legendary GPU",
+        "platforms": [],
+        "topic": "promotion"
+      },
+      "modality": "unknown",
+      "topic": "promotion",
+      "institution": "NVIDIA",
+      "sources": [
+        "es.kotaku.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 30
+      },
+      "last_seen": "2026-11-07T19:46:13.169766+06:00"
+    },
+    "evt_072ae75e07546d": {
+      "event_id": "evt_072ae75e07546d",
+      "event_key": "bethesda interview the elder scrolls vi platform exclusivity",
+      "event_subject": "Todd Howard discusses possible PS5 exclusivity for The Elder Scrolls VI",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "bethesda interview the elder scrolls vi platform exclusivity",
+        "subject": "Todd Howard discusses possible PS5 exclusivity for The Elder Scrolls VI",
+        "event_type": "other",
+        "action": "respond",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "The Elder Scrolls",
+        "institution": "Bethesda",
+        "target": "The Elder Scrolls VI",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "exclusivity"
+      },
+      "modality": "unknown",
+      "topic": "exclusivity",
+      "institution": "Bethesda",
+      "sources": [
+        "es.kotaku.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 28,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 28
+      },
+      "last_seen": "2026-11-07T19:46:13.169772+06:00"
+    },
+    "evt_5a5af5aff84e47": {
+      "event_id": "evt_5a5af5aff84e47",
+      "event_key": "ea announcement classic games pc release",
+      "event_subject": "EA brings 25 classic games to PC via Steam and GOG",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ea announcement classic games pc release",
+        "subject": "EA brings 25 classic games to PC via Steam and GOG",
+        "event_type": "other",
+        "action": "release",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "EA",
+        "target": "25 classic titles",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "remasters"
+      },
+      "modality": "unknown",
+      "topic": "remasters",
+      "institution": "EA",
+      "sources": [
+        "es.kotaku.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 27,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 27
+      },
+      "last_seen": "2026-11-07T19:46:13.169777+06:00"
+    },
+    "evt_0f20a3d57e23ff": {
+      "event_id": "evt_0f20a3d57e23ff",
+      "event_key": "blizzard speculation world of warcraft forever record breaking release",
+      "event_subject": "World of Warcraft: Forever could break series records",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blizzard speculation world of warcraft forever record breaking release",
+        "subject": "World of Warcraft: Forever could break series records",
+        "event_type": "other",
+        "action": "predict",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "World of Warcraft",
+        "institution": "Blizzard",
+        "target": "World of Warcraft: Forever",
+        "platforms": [],
+        "topic": "sales"
+      },
+      "modality": "unknown",
+      "topic": "sales",
+      "institution": "Blizzard",
+      "sources": [
+        "es.kotaku.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 26
+      },
+      "last_seen": "2026-11-07T19:46:13.169783+06:00"
+    },
+    "evt_7ca6fded64c069": {
+      "event_id": "evt_7ca6fded64c069",
+      "event_key": "sony statement playstation 6 design philosophy",
+      "event_subject": "Shawn Layden comments on PlayStation 6 power requirements",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sony statement playstation 6 design philosophy",
+        "subject": "Shawn Layden comments on PlayStation 6 power requirements",
+        "event_type": "other",
+        "action": "comment",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Sony",
+        "target": "PlayStation 6",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "modality": "unknown",
+      "topic": "hardware",
+      "institution": "Sony",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "PS6 does not need more power"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-11-07T19:46:13.169788+06:00"
+    },
+    "evt_503b0b2b68a765": {
+      "event_id": "evt_503b0b2b68a765",
+      "event_key": "blizzard analysis world of warcraft season of discovery impact",
+      "event_subject": "Season of Discovery changed WoW’s future",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blizzard analysis world of warcraft season of discovery impact",
+        "subject": "Season of Discovery changed WoW’s future",
+        "event_type": "other",
+        "action": "analyze",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "World of Warcraft",
+        "institution": "Blizzard",
+        "target": "Season of Discovery",
+        "platforms": [],
+        "topic": "future"
+      },
+      "modality": "unknown",
+      "topic": "future",
+      "institution": "Blizzard",
+      "sources": [
+        "me.ign.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 25,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 25
+      },
+      "last_seen": "2026-11-07T19:46:13.169794+06:00"
+    },
+    "evt_1d960bbe05b471": {
+      "event_id": "evt_1d960bbe05b471",
+      "event_key": "bandai hands on gundam assemble tabletop game",
+      "event_subject": "Hands‑on look at Gundam Assemble starter set",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "bandai hands on gundam assemble tabletop game",
+        "subject": "Hands‑on look at Gundam Assemble starter set",
+        "event_type": "other",
+        "action": "preview",
+        "status": "available",
+        "modality": "unknown",
+        "game": "Gundam Assemble",
+        "franchise": "Mobile Suit Gundam",
+        "institution": "Bandai",
+        "target": "Gundam Assemble Starter Set",
+        "platforms": [],
+        "topic": "tabletop"
+      },
+      "modality": "unknown",
+      "topic": "tabletop",
+      "institution": "Bandai",
+      "sources": [
+        "IGN",
+        "in.ign.com"
+      ],
+      "source_count": 2,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 35
+      },
+      "last_seen": "2026-11-07T19:46:13.169800+06:00"
+    },
+    "evt_31e99e04cccdce": {
+      "event_id": "evt_31e99e04cccdce",
+      "event_key": "push square preview ps5 release schedule nov 9 15",
+      "event_subject": "Guide to 13+ PS5 games releasing next week (Nov 9‑15)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "push square preview ps5 release schedule nov 9 15",
+        "subject": "Guide to 13+ PS5 games releasing next week (Nov 9‑15)",
+        "event_type": "other",
+        "action": "preview",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Push Square",
+        "target": "PS5",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "Push Square",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-11-07T19:46:13.169806+06:00"
+    },
+    "evt_224908e0d4b487": {
+      "event_id": "evt_224908e0d4b487",
+      "event_key": "bethesda release the elder scrolls vi merchandise",
+      "event_subject": "Bethesda sells The Elder Scrolls VI merchandise",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "bethesda release the elder scrolls vi merchandise",
+        "subject": "Bethesda sells The Elder Scrolls VI merchandise",
+        "event_type": "other",
+        "action": "sell",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "The Elder Scrolls",
+        "institution": "Bethesda",
+        "target": "The Elder Scrolls VI",
+        "platforms": [],
+        "topic": "merchandise"
+      },
+      "modality": "unknown",
+      "topic": "merchandise",
+      "institution": "Bethesda",
+      "sources": [
+        "es.kotaku.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 24,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 24
+      },
+      "last_seen": "2026-11-07T19:46:13.169811+06:00"
+    },
+    "evt_2d6da72928023c": {
+      "event_id": "evt_2d6da72928023c",
+      "event_key": "netflix removal ridley scott films content removal",
+      "event_subject": "Ridley Scott’s R‑rated sci‑fi movies removed from Netflix",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "netflix removal ridley scott films content removal",
+        "subject": "Ridley Scott’s R‑rated sci‑fi movies removed from Netflix",
+        "event_type": "other",
+        "action": "remove",
+        "status": "effective",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Netflix",
+        "target": "Alien / Aliens",
+        "platforms": [],
+        "topic": "streaming"
+      },
+      "modality": "unknown",
+      "topic": "streaming",
+      "institution": "Netflix",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-11-07T19:46:13.169817+06:00"
+    },
+    "evt_1eaff510ee83d5": {
+      "event_id": "evt_1eaff510ee83d5",
+      "event_key": "nintendo interview zelda water temple",
+      "event_subject": "Eiji Aonuma happy with Water Temple after three Ocarina of Time attempts",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo interview zelda water temple",
+        "subject": "Eiji Aonuma happy with Water Temple after three Ocarina of Time attempts",
+        "event_type": "other",
+        "action": "express_happiness",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "The Legend of Zelda",
+        "institution": "Nintendo",
+        "target": "Water Temple",
+        "platforms": [],
+        "topic": "design"
+      },
+      "modality": "unknown",
+      "topic": "design",
+      "institution": "Nintendo",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-11-07T19:46:13.169822+06:00"
+    },
+    "evt_33bdf16499d596": {
+      "event_id": "evt_33bdf16499d596",
+      "event_key": "bioware announcement mass effect merchandise n7 day",
+      "event_subject": "Mass Effect official shop offers new N7 Day merchandise",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "bioware announcement mass effect merchandise n7 day",
+        "subject": "Mass Effect official shop offers new N7 Day merchandise",
+        "event_type": "other",
+        "action": "release",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Mass Effect",
+        "institution": "BioWare",
+        "target": "N7 Day products",
+        "platforms": [],
+        "topic": "merchandise"
+      },
+      "modality": "unknown",
+      "topic": "merchandise",
+      "institution": "BioWare",
+      "sources": [
+        "fr.ign.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 23,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 23
+      },
+      "last_seen": "2026-11-07T19:46:13.169827+06:00"
+    },
+    "evt_7b9ecee568674c": {
+      "event_id": "evt_7b9ecee568674c",
+      "event_key": "toho preview godzilla minus zero character roster",
+      "event_subject": "Discussion of missing characters in Godzilla Minus Zero",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "toho preview godzilla minus zero character roster",
+        "subject": "Discussion of missing characters in Godzilla Minus Zero",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "speculative",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Godzilla",
+        "institution": "Toho",
+        "target": "Godzilla Minus Zero",
+        "platforms": [],
+        "topic": "roster"
+      },
+      "modality": "unknown",
+      "topic": "roster",
+      "institution": "Toho",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-07T19:46:13.169833+06:00"
+    },
+    "evt_9beb6ef12eb797": {
+      "event_id": "evt_9beb6ef12eb797",
+      "event_key": "wizards of the coast announcement mtg star trek set release",
+      "event_subject": "Magic: The Gathering Star Trek set perfectly captures show’s joke",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "wizards of the coast announcement mtg star trek set release",
+        "subject": "Magic: The Gathering Star Trek set perfectly captures show’s joke",
+        "event_type": "other",
+        "action": "release",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Magic: The Gathering",
+        "institution": "Wizards of the Coast",
+        "target": "Star Trek set",
+        "platforms": [],
+        "topic": "collectible"
+      },
+      "modality": "unknown",
+      "topic": "collectible",
+      "institution": "Wizards of the Coast",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-07T19:46:13.169839+06:00"
+    },
+    "evt_b013d335b71b87": {
+      "event_id": "evt_b013d335b71b87",
+      "event_key": "bioware retrospective mass effect homecoming moral choice",
+      "event_subject": "Mass Effect’s Homecoming moral choice remains haunting after 19 years",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "bioware retrospective mass effect homecoming moral choice",
+        "subject": "Mass Effect’s Homecoming moral choice remains haunting after 19 years",
+        "event_type": "other",
+        "action": "reflect",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Mass Effect",
+        "institution": "BioWare",
+        "target": "Homecoming quest",
+        "platforms": [],
+        "topic": "story"
+      },
+      "modality": "unknown",
+      "topic": "story",
+      "institution": "BioWare",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-07T19:46:13.169845+06:00"
+    },
+    "evt_3fc0f6de1bd2bd": {
+      "event_id": "evt_3fc0f6de1bd2bd",
+      "event_key": "netflix announcement sydney sweeney new scifi series",
+      "event_subject": "Sydney Sweeney’s new Netflix sci‑fi epic for Transformers fans",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "netflix announcement sydney sweeney new scifi series",
+        "subject": "Sydney Sweeney’s new Netflix sci‑fi epic for Transformers fans",
+        "event_type": "other",
+        "action": "announce",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Netflix",
+        "target": "new series",
+        "platforms": [],
+        "topic": "streaming"
+      },
+      "modality": "unknown",
+      "topic": "streaming",
+      "institution": "Netflix",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-07T19:46:13.169850+06:00"
+    },
+    "evt_2c7422bb63f7e3": {
+      "event_id": "evt_2c7422bb63f7e3",
+      "event_key": "pure xbox editorial weekend gaming recommendations",
+      "event_subject": "Talking Point: What Are You Playing This Weekend? (Nov 7‑8)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pure xbox editorial weekend gaming recommendations",
+        "subject": "Talking Point: What Are You Playing This Weekend? (Nov 7‑8)",
+        "event_type": "other",
+        "action": "recommend",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Pure Xbox",
+        "target": "players",
+        "platforms": [],
+        "topic": "weekend"
+      },
+      "modality": "unknown",
+      "topic": "weekend",
+      "institution": "Pure Xbox",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-07T19:46:13.169857+06:00"
+    },
+    "evt_712f355ef32dd5": {
+      "event_id": "evt_712f355ef32dd5",
+      "event_key": "amazon interview robert aramayo lor character duality",
+      "event_subject": "Robert Aramayo discusses playing Elrond and Elros in Rings of Power season 3",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "amazon interview robert aramayo lor character duality",
+        "subject": "Robert Aramayo discusses playing Elrond and Elros in Rings of Power season 3",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "reported",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "The Lord of the Rings",
+        "institution": "Amazon",
+        "target": "Elrond/Elros",
+        "platforms": [],
+        "topic": "acting"
+      },
+      "modality": "unknown",
+      "topic": "acting",
+      "institution": "Amazon",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 28,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 28
+      },
+      "last_seen": "2026-11-07T19:46:13.169862+06:00"
+    },
+    "evt_88bc47034327d8": {
+      "event_id": "evt_88bc47034327d8",
+      "event_key": "the far side feature cow comics",
+      "event_subject": "10 funniest Far Side cow comics",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "the far side feature cow comics",
+        "subject": "10 funniest Far Side cow comics",
+        "event_type": "other",
+        "action": "list",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "The Far Side",
+        "target": "cows",
+        "platforms": [],
+        "topic": "comics"
+      },
+      "modality": "unknown",
+      "topic": "comics",
+      "institution": "The Far Side",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-11-07T19:46:13.169868+06:00"
     }
   },
   "posted_event_ids": [
-    "evt_ddc492eee77488",
-    "evt_ac8d588a60ab14",
-    "evt_a7920b64752313",
-    "evt_531d7e1ab28f31",
-    "evt_ebf60d7b4789fa",
-    "evt_79ecbb4d73ee84",
-    "evt_a314c864db98cf",
     "evt_d464300df938af",
     "evt_7eefd7571a7ec4",
     "evt_02dc7d09f472be",
@@ -215051,7 +216195,14 @@
     "evt_74507c0a41f3cc",
     "evt_245c4a937da0e6",
     "evt_e3b2dc71b1327b",
-    "evt_8b7b0cad478997"
+    "evt_8b7b0cad478997",
+    "evt_9b17b9c927d0e8",
+    "evt_6758364815160b",
+    "evt_fb288673ed34de",
+    "evt_e6e0277ce5effa",
+    "evt_7ca6fded64c069",
+    "evt_072ae75e07546d",
+    "evt_5a5af5aff84e47"
   ],
   "recent_titles": [
     "square enix s final fantasy vii revelation promises extravagant sephiroth finale",
@@ -215453,16 +216604,23 @@
     "xbox pc app update cuts load times up to 65 promises faster access",
     "gears of war e day launches legacy season with classic maps modes skins",
     "canadian mp pushes government funding to rescue bioware from ea",
-    "ratchet clank ranger rumble mobile game shuts down before global launch"
+    "ratchet clank ranger rumble mobile game shuts down before global launch",
+    "nier automata update swells file size to 366 gb square enix investigates",
+    "bit reactor lays off staff after furloughs amid zero company turmoil",
+    "xbox tests phone as controller feature for smart tv cloud gaming",
+    "ananta announces free to play open world launch on jan 15 2027",
+    "shawn layden says ps6 should prioritize affordability over power",
+    "todd howard leaves tes vi exclusivity open ps5 future unclear",
+    "ea releases 25 classic pc games with seven new remasters"
   ],
   "category_coverage": {
-    "Game Updates": "2026-11-07T03:41:21.723592+06:00",
-    "Major Releases": "2026-11-07T03:40:29.308284+06:00",
+    "Game Updates": "2026-11-07T19:53:52.361012+06:00",
+    "Major Releases": "2026-11-07T19:53:36.952443+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
     "Nintendo": "2026-09-09T21:29:41.864902+06:00",
     "Expansions and DLC": "2026-11-05T03:59:55.368984+06:00",
-    "Gaming Hardware": "2026-10-30T20:08:35.772801+06:00",
+    "Gaming Hardware": "2026-11-07T19:53:42.221174+06:00",
     "Cybersecurity": "2026-11-04T13:23:26.315950+06:00",
     "Pricing and Monetization": "2026-10-22T17:23:26.069489+06:00",
     "Anti-Cheat": "2026-10-21T02:06:25.030099+06:00",
