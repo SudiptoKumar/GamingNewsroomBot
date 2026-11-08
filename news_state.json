@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"2ce0a-hP9PMNqcbRSMPLo6jyLX+Hun5Ww\"",
+      "etag": "W/\"2d326-49sote/XNFllVPZtPJts2btkwgY\"",
       "last_modified": null,
-      "last_checked": "2026-11-08T12:56:02.744661+06:00",
+      "last_checked": "2026-11-08T20:06:41.270456+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-08T12:56:02.940753+06:00",
+      "last_checked": "2026-11-08T20:06:41.552946+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6af01ce5-914\"",
-      "last_modified": "Sun, 08 Nov 2026 06:55:33 GMT",
-      "last_checked": "2026-11-08T12:56:03.277826+06:00",
+      "etag": "\"6af081ac-830\"",
+      "last_modified": "Sun, 08 Nov 2026 14:05:32 GMT",
+      "last_checked": "2026-11-08T20:06:42.024093+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Sat, 07 Nov 2026 20:06:10 GMT",
-      "last_checked": "2026-11-08T12:56:03.469984+06:00",
+      "last_modified": "Sun, 08 Nov 2026 13:28:20 GMT",
+      "last_checked": "2026-11-08T20:06:42.151943+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
       "etag": "\"6aef431f-12f1\"",
       "last_modified": "Sat, 07 Nov 2026 15:26:23 GMT",
-      "last_checked": "2026-11-08T12:56:03.721803+06:00",
+      "last_checked": "2026-11-08T20:06:42.531856+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-08T12:56:03.926674+06:00",
+      "last_checked": "2026-11-08T20:06:42.773104+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-08T12:56:04.442175+06:00",
+      "last_checked": "2026-11-08T20:06:43.533107+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"2559cbb2291e2eac3e3c5f5eeb50ce1d\"",
-      "last_modified": "Sat, 07 Nov 2026 22:16:40 GMT",
-      "last_checked": "2026-11-08T12:56:04.682294+06:00",
+      "etag": "W/\"9a73d07ab3032fcfc6c72610a1a8f473\"",
+      "last_modified": "Sun, 08 Nov 2026 08:56:26 GMT",
+      "last_checked": "2026-11-08T20:06:43.809407+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-08T12:56:04.844401+06:00",
+      "last_checked": "2026-11-08T20:06:44.063302+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Sat, 7 Nov 2026 23:19:51 GMT",
-      "last_checked": "2026-11-08T12:56:05.205021+06:00",
+      "last_modified": "Sun, 8 Nov 2026 12:12:38 GMT",
+      "last_checked": "2026-11-08T20:06:44.662942+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sun, 08 Nov 2026 06:56:05 GMT",
-      "last_checked": "2026-11-08T12:56:05.686317+06:00",
+      "last_modified": "Sun, 08 Nov 2026 14:06:45 GMT",
+      "last_checked": "2026-11-08T20:06:45.338672+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"2fd5d77130820543f8bff16c91423c49\"",
-      "last_modified": "Sun, 08 Nov 2026 05:50:44 GMT",
-      "last_checked": "2026-11-08T12:56:05.816185+06:00",
+      "etag": "W/\"6fcb99b0f04f936baf465fb402a90c2c\"",
+      "last_modified": "Sun, 08 Nov 2026 13:50:55 GMT",
+      "last_checked": "2026-11-08T20:06:45.480814+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-08T12:56:06.145008+06:00",
+      "last_checked": "2026-11-08T20:06:46.015402+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-08T12:56:06.547051+06:00",
+      "last_checked": "2026-11-08T20:06:46.403368+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-08T12:56:06.959195+06:00",
+      "last_checked": "2026-11-08T20:06:46.931408+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-08T12:56:07.168384+06:00",
-      "fail_count": 156,
+      "last_checked": "2026-11-08T20:06:47.280881+06:00",
+      "fail_count": 157,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"5d30c0b27290fd38da6678d0d1100e8f\"",
-      "last_modified": "Wed, 21 Oct 2026 19:51:53 GMT",
-      "last_checked": "2026-11-08T12:56:07.282521+06:00",
+      "etag": "W/\"0b87c14f72c50aad6eb4242af7bb93a8\"",
+      "last_modified": "Thu, 29 Oct 2026 15:42:13 GMT",
+      "last_checked": "2026-11-08T20:06:47.390856+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-08T12:56:07.464570+06:00",
+      "last_checked": "2026-11-08T20:06:47.606386+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-08T12:56:07.603032+06:00",
-      "fail_count": 156,
+      "last_checked": "2026-11-08T20:06:47.808890+06:00",
+      "fail_count": 157,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"7b2701b3d7a6e7257a8c3a8d2fb66e1b\"",
       "last_modified": "Sun, 08 Nov 2026 06:13:13 GMT",
-      "last_checked": "2026-11-08T12:56:07.767451+06:00",
+      "last_checked": "2026-11-08T20:06:47.949137+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -186,104 +186,6 @@
       "status": "pending",
       "first_seen": "2026-11-04T03:30:18.421083+06:00",
       "last_seen": "2026-11-05T03:46:31.769622+06:00"
-    },
-    "ign.com/articles/talix-20000mah-190w-power-bank-deal-november-2026": {
-      "title": "The Talix 20,000mAh Power Bank With 190W of Total Power Output Drops to $29.99 Ahead of Black Friday",
-      "url": "https://www.ign.com/articles/talix-20000mah-190w-power-bank-deal-november-2026",
-      "canonical": "ign.com/articles/talix-20000mah-190w-power-bank-deal-november-2026",
-      "published_dt": "2026-11-04T11:00:00+06:00",
-      "published_date": "2026-11-04T11:00:00+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "Can fast charge the 2026 Apple MacBook Pro 16\" M5, Xbox Ally X20, Lenovo Legion Go, and more.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/04/talixpowerbankwhite-1793750581935.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T13:14:56.065486+06:00",
-      "last_seen": "2026-11-04T13:14:56.065492+06:00"
-    },
-    "insider-gaming.com/arc-raiders-ceo-admits-both-pve-and-pvp-cater": {
-      "title": "ARC Raiders CEO Admits Both PvE and PvP Need To Be Catered For",
-      "url": "https://insider-gaming.com/arc-raiders-ceo-admits-both-pve-and-pvp-cater/",
-      "canonical": "insider-gaming.com/arc-raiders-ceo-admits-both-pve-and-pvp-cater",
-      "published_dt": "2026-11-04T13:02:33+06:00",
-      "published_date": "2026-11-04T13:02:33+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Patrick Soderlund, CEO of Embark Studios, has admitted that PvE should be catered for in ARC Raiders, all these months later. The post ARC Raiders CEO Admits Both PvE and PvP Need To Be Catered For appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T13:14:58.745547+06:00",
-      "last_seen": "2026-11-04T13:14:58.745552+06:00"
-    },
-    "insider-gaming.com/nyt-strands-hints-answers-november-4-2026": {
-      "title": "NYT Strands Hints and Answers for Game #976 on November 4, 2026",
-      "url": "https://insider-gaming.com/nyt-strands-hints-answers-november-4-2026/",
-      "canonical": "insider-gaming.com/nyt-strands-hints-answers-november-4-2026",
-      "published_dt": "2026-11-04T11:53:34+06:00",
-      "published_date": "2026-11-04T11:53:34+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Stuck on NYT Strands #976? Use these November 4 hints to solve the workplace-themed puzzle and reveal its spangram and five answers. The post NYT Strands Hints and Answers for Game #976 on November 4, 2026 appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T13:14:58.745887+06:00",
-      "last_seen": "2026-11-04T13:14:58.745893+06:00"
-    },
-    "nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-on-switch-2-has-been-updated": {
-      "title": "The Legend Of Zelda: Ocarina Of Time On Switch 2 Has Been Updated",
-      "url": "https://www.nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-on-switch-2-has-been-updated",
-      "canonical": "nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-on-switch-2-has-been-updated",
-      "published_dt": "2026-11-04T11:55:00+06:00",
-      "published_date": "2026-11-04T11:55:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Version 1.1.1 is now live. Some parts of the world are now just hours away from the launch of Zelda: Ocarina of Time remake for Switch 2, and ahead of this, Nintendo has rolled out a new game update. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/7cb213a589318/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T13:14:59.017822+06:00",
-      "last_seen": "2026-11-04T13:14:59.017829+06:00"
-    },
-    "siliconera.com/goddess-of-victory-nikke-pc-launcher-tampered-with-by-third-party": {
-      "title": "Goddess of Victory: NIKKE PC Launcher Tampered With by Third Party",
-      "url": "https://www.siliconera.com/goddess-of-victory-nikke-pc-launcher-tampered-with-by-third-party/",
-      "canonical": "siliconera.com/goddess-of-victory-nikke-pc-launcher-tampered-with-by-third-party",
-      "published_dt": "2026-11-04T10:30:00+06:00",
-      "published_date": "2026-11-04T10:30:00+06:00",
-      "source": "Siliconera",
-      "region": "Gaming",
-      "excerpt": "If you play Goddess of Victory: NIKKE using the PC launcher, check to see if your computer is infected by a stealer agent.",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-11-04T13:15:00.080413+06:00",
-      "last_seen": "2026-11-04T13:15:00.080418+06:00",
-      "posted_at": "2026-11-04T13:23:26.315884+06:00"
-    },
-    "escapistmagazine.com/the-elder-scrolls-vi-is-titled-sentinel-with-a-hammerfell-setting-but-no-release-date": {
-      "title": "The Elder Scrolls VI is titled Sentinel, with a Hammerfell setting but no release date - The Escapist",
-      "url": "https://www.escapistmagazine.com/the-elder-scrolls-vi-is-titled-sentinel-with-a-hammerfell-setting-but-no-release-date/",
-      "canonical": "escapistmagazine.com/the-elder-scrolls-vi-is-titled-sentinel-with-a-hammerfell-setting-but-no-release-date",
-      "published_dt": "2026-11-04T12:13:14+06:00",
-      "published_date": "2026-11-04T12:13:14+06:00",
-      "source": "The Escapist",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "posted",
-      "first_seen": "2026-11-04T13:15:07.000168+06:00",
-      "last_seen": "2026-11-04T13:15:07.000172+06:00",
-      "posted_at": "2026-11-04T13:23:19.053970+06:00"
     },
     "ign.com/articles/batman-knightfall-part-2-knightquest-release-date-box-art-fight-scene": {
       "title": "Batman: Knightfall Part 2: Knightquest Release Date and Box Art Revealed",
@@ -6261,6 +6163,363 @@
       "status": "pending",
       "first_seen": "2026-11-08T12:56:13.819174+06:00",
       "last_seen": "2026-11-08T12:56:13.819178+06:00"
+    },
+    "videogameschronicle.com/guide/zelda-oot-remake-silver-golden-scale-dive": {
+      "title": "Zelda OOT Remake: Get the Silver and Golden Scales to dive deeper",
+      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-silver-golden-scale-dive/",
+      "canonical": "videogameschronicle.com/guide/zelda-oot-remake-silver-golden-scale-dive",
+      "published_dt": "2026-11-08T19:36:43+06:00",
+      "published_date": "2026-11-08T19:36:43+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "How to get the Silver and Golden Scales to increase your dive depth in The Legend of Zelda: Ocarina of Time remake",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T20:06:42.035285+06:00",
+      "last_seen": "2026-11-08T20:06:42.035291+06:00"
+    },
+    "videogameschronicle.com/guide/zelda-oot-biggorons-sword-trade-sequence-quest": {
+      "title": "Zelda OOT Remake: Full Biggoron’s Sword quest explained",
+      "url": "https://www.videogameschronicle.com/guide/zelda-oot-biggorons-sword-trade-sequence-quest/",
+      "canonical": "videogameschronicle.com/guide/zelda-oot-biggorons-sword-trade-sequence-quest",
+      "published_dt": "2026-11-08T18:55:12+06:00",
+      "published_date": "2026-11-08T18:55:12+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Everything you need to get the Biggoron's Sword in The Legend of Zelda: Ocarina of Time on N64 and Nintendo Switch 2",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T20:06:42.035450+06:00",
+      "last_seen": "2026-11-08T20:06:42.035455+06:00"
+    },
+    "videogameschronicle.com/guide/zelda-oot-remake-all-empty-bottle-locations": {
+      "title": "Zelda OOT Remake: All Empty Bottle locations",
+      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-all-empty-bottle-locations/",
+      "canonical": "videogameschronicle.com/guide/zelda-oot-remake-all-empty-bottle-locations",
+      "published_dt": "2026-11-08T18:16:39+06:00",
+      "published_date": "2026-11-08T18:16:39+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "All old and new Empty Bottle locations in The Legend of Zelda: Ocarina of Time remake",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T20:06:42.035602+06:00",
+      "last_seen": "2026-11-08T20:06:42.035606+06:00"
+    },
+    "videogameschronicle.com/guide/zelda-ocarina-of-time-empty-bottle-locations": {
+      "title": "Zelda Ocarina of Time: All Empty Bottle locations",
+      "url": "https://www.videogameschronicle.com/guide/zelda-ocarina-of-time-empty-bottle-locations/",
+      "canonical": "videogameschronicle.com/guide/zelda-ocarina-of-time-empty-bottle-locations",
+      "published_dt": "2026-11-08T18:15:42+06:00",
+      "published_date": "2026-11-08T18:15:42+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Every Empty Bottle you can earn in Zelda: Ocarina of Time on the N64 and Nintendo Switch Online",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T20:06:42.035746+06:00",
+      "last_seen": "2026-11-08T20:06:42.035750+06:00"
+    },
+    "videogameschronicle.com/guide/zelda-oot-remake-fishing-pond-sinking-lure-rewards": {
+      "title": "Zelda OOT Remake: Fishing Pond and Sinking Lure explained, all rewards",
+      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-fishing-pond-sinking-lure-rewards/",
+      "canonical": "videogameschronicle.com/guide/zelda-oot-remake-fishing-pond-sinking-lure-rewards",
+      "published_dt": "2026-11-08T17:44:54+06:00",
+      "published_date": "2026-11-08T17:44:54+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "How to find the Sinking Lure and get all rewards from the Fishing Pond in The Legend of Zelda: Ocarina of Time remake",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T20:06:42.035888+06:00",
+      "last_seen": "2026-11-08T20:06:42.035892+06:00"
+    },
+    "eurogamer.net/among-us-missing-teen-rescued-utah-oregon": {
+      "title": "Missing teenager rescued after reaching out to another player in Among Us",
+      "url": "https://www.eurogamer.net/among-us-missing-teen-rescued-utah-oregon",
+      "canonical": "eurogamer.net/among-us-missing-teen-rescued-utah-oregon",
+      "published_dt": "2026-11-08T19:28:20+06:00",
+      "published_date": "2026-11-08T19:28:20+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "A teenager who went missing in Utah more than 17 months ago has been rescued from a home in Oregon after she got in touch with another young player in Among Us . Read more",
+      "image": "https://assetsio.gnwcdn.com/among-us-is-coming-to-xbox-next-year-1608287434062.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T20:06:42.252263+06:00",
+      "last_seen": "2026-11-08T20:06:42.252271+06:00"
+    },
+    "eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players": {
+      "title": "WoW: Forever is the biggest launch in World of Warcraft history, says Blizzard",
+      "url": "https://www.eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players",
+      "canonical": "eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players",
+      "published_dt": "2026-11-08T19:09:10+06:00",
+      "published_date": "2026-11-08T19:09:10+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "World of Warcraft: Forever is the biggest launch in the MMO's history, pulling in more concurrent players than any previous WoW launch. Read more",
+      "image": "https://assetsio.gnwcdn.com/wow-forever.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-08T20:06:42.252545+06:00",
+      "last_seen": "2026-11-08T20:06:42.252550+06:00",
+      "posted_at": "2026-11-08T20:13:04.149354+06:00"
+    },
+    "pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences": {
+      "title": "This massive mod essentially turns Skyrim into a persistent MMO 'where player actions create lasting consequences'",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences/",
+      "canonical": "pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences",
+      "published_dt": "2026-11-08T19:19:55+06:00",
+      "published_date": "2026-11-08T19:19:55+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Aurbis converts Bethesda's fantasy adventure into a shared multiplayer world, with all the systems that entails.",
+      "image": "https://cdn.mos.cms.futurecdn.net/zcxc3uHvAH7FJr4rQrSwXE-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T20:06:43.065708+06:00",
+      "last_seen": "2026-11-08T20:06:43.065714+06:00"
+    },
+    "pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai": {
+      "title": "As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'",
+      "url": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/",
+      "canonical": "pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai",
+      "published_dt": "2026-11-08T18:16:51+06:00",
+      "published_date": "2026-11-08T18:16:51+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Season 3 also brings a new map and multi-path unlocks.",
+      "image": "https://cdn.mos.cms.futurecdn.net/5X2trJGNeT8taFz3b56iPZ-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-08T20:06:43.065865+06:00",
+      "last_seen": "2026-11-08T20:06:43.065869+06:00",
+      "posted_at": "2026-11-08T20:13:14.639256+06:00"
+    },
+    "polygon.com/cairn-game-bakers-interview": {
+      "title": "Cairn 'Belongs' Next to Death Stranding in ‘History of Grand Adventure Games'",
+      "url": "https://www.polygon.com/cairn-game-bakers-interview/",
+      "canonical": "polygon.com/cairn-game-bakers-interview",
+      "published_dt": "2026-11-08T20:05:44+06:00",
+      "published_date": "2026-11-08T20:05:44+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Cairn is the latest game from The Game Bakers, and though it looks like a sports game, it really has the spirit of an action-adventure game.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/cairn-lede-image.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-08T20:06:43.542449+06:00",
+      "last_seen": "2026-11-08T20:06:43.542455+06:00",
+      "posted_at": "2026-11-08T20:13:20.199581+06:00"
+    },
+    "polygon.com/zelda-ocarina-of-time-better-than-elder-scrolls-skyrim": {
+      "title": "Zelda: Ocarina of Time Beats The Elder Scrolls 5: Skyrim in One Major Way",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-better-than-elder-scrolls-skyrim/",
+      "canonical": "polygon.com/zelda-ocarina-of-time-better-than-elder-scrolls-skyrim",
+      "published_dt": "2026-11-08T18:00:17+06:00",
+      "published_date": "2026-11-08T18:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Ocarina of Time and The Elder Scrolls 5: Skyrim are two of the industry's biggest games, but their publishers have deployed them very differently.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/8669311/vlcsnap_00169.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T20:06:43.542603+06:00",
+      "last_seen": "2026-11-08T20:06:43.542607+06:00"
+    },
+    "gamesradar.com/games/adventure/the-making-of-mewgenics-how-edmund-mcmillen-kept-his-pet-project-alive-for-13-years": {
+      "title": "The making of Mewgenics: How Edmund McMillen kept his pet project alive for 13 years",
+      "url": "https://www.gamesradar.com/games/adventure/the-making-of-mewgenics-how-edmund-mcmillen-kept-his-pet-project-alive-for-13-years/",
+      "canonical": "gamesradar.com/games/adventure/the-making-of-mewgenics-how-edmund-mcmillen-kept-his-pet-project-alive-for-13-years",
+      "published_dt": "2026-11-08T20:00:00+06:00",
+      "published_date": "2026-11-08T20:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "EDGE Magazine speaks to McMillen on the creation of his latest hit",
+      "image": "https://cdn.mos.cms.futurecdn.net/wCLG8Q2caEfNvQKRPP9zZH-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T20:06:44.290233+06:00",
+      "last_seen": "2026-11-08T20:06:44.290239+06:00"
+    },
+    "gamesradar.com/games/assassin-s-creed/assassins-creed-hexe-reportedly-delayed-by-a-year-while-ubisoft-is-apparently-making-another-ac-game-set-in-ancient-rome": {
+      "title": "Assassin's Creed Hexe reportedly delayed, while Ubisoft takes the series to Ancient Rome",
+      "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-hexe-reportedly-delayed-by-a-year-while-ubisoft-is-apparently-making-another-ac-game-set-in-ancient-rome/",
+      "canonical": "gamesradar.com/games/assassin-s-creed/assassins-creed-hexe-reportedly-delayed-by-a-year-while-ubisoft-is-apparently-making-another-ac-game-set-in-ancient-rome",
+      "published_dt": "2026-11-08T19:17:16+06:00",
+      "published_date": "2026-11-08T19:17:16+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Witch way",
+      "image": "https://cdn.mos.cms.futurecdn.net/h9XBLkgvJ3uqoKdJsfRLg9-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T20:06:44.290378+06:00",
+      "last_seen": "2026-11-08T20:06:44.290383+06:00"
+    },
+    "insider-gaming.com/nyt-connections-hints-solutions-november-8-1246": {
+      "title": "NYT Connections Hints Today (#1246)—Answers for Sunday, November 8",
+      "url": "https://insider-gaming.com/nyt-connections-hints-solutions-november-8-1246/",
+      "canonical": "insider-gaming.com/nyt-connections-hints-solutions-november-8-1246",
+      "published_dt": "2026-11-08T19:50:53+06:00",
+      "published_date": "2026-11-08T19:50:53+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1246)—Answers for Sunday, November 8 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T20:06:45.492921+06:00",
+      "last_seen": "2026-11-08T20:06:45.492927+06:00"
+    },
+    "pushsquare.com/news/2026/11/god-of-war-spin-off-game-seemingly-getting-surprise-ps4-port": {
+      "title": "God of War Spin-Off Game Seemingly Getting Surprise PS4 Port",
+      "url": "https://www.pushsquare.com/news/2026/11/god-of-war-spin-off-game-seemingly-getting-surprise-ps4-port",
+      "canonical": "pushsquare.com/news/2026/11/god-of-war-spin-off-game-seemingly-getting-surprise-ps4-port",
+      "published_dt": "2026-11-08T19:30:00+06:00",
+      "published_date": "2026-11-08T19:30:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "PS4 Spartaaa. God of War: Sons of Sparta , the retro-style Metroidvania by Mega Cat Studios, is seemingly coming to the PS4. The game first launched on the PS5 as a State of Play shadow drop earlier this year . Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/55a80f75aebc9/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T20:06:46.424706+06:00",
+      "last_seen": "2026-11-08T20:06:46.424712+06:00"
+    },
+    "purexbox.com/features/five-reasons-why-2026-is-the-best-time-ever-to-be-an-xbox-series-xs-owner": {
+      "title": "Feature: Five Reasons Why 2026 Is The Best Time Ever To Be An Xbox Series X|S Owner",
+      "url": "https://www.purexbox.com/features/five-reasons-why-2026-is-the-best-time-ever-to-be-an-xbox-series-xs-owner",
+      "canonical": "purexbox.com/features/five-reasons-why-2026-is-the-best-time-ever-to-be-an-xbox-series-xs-owner",
+      "published_dt": "2026-11-08T20:00:00+06:00",
+      "published_date": "2026-11-08T20:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "The two consoles are celebrating their sixth anniversary on November 10th. We've got a lot of anniversaries taking place over the next few weeks, including the big 25th anniversary of Xbox on November 15th, but we thought we'd first take a moment to celebrate the Xbox Series X|S anniversary as well. Both of these consoles launched six years ago on November 10th of 2020, and Pure Xbox was there at the time with a big celebration of the launch along with an unboxing preview , a full review , and various bits of coverage. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/7d7680457d236/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T20:06:46.951943+06:00",
+      "last_seen": "2026-11-08T20:06:46.951949+06:00"
+    },
+    "purexbox.com/news/2026/11/10plus-game-pass-titles-are-confirmed-for-xboxs-25th-anniversary-week": {
+      "title": "10+ Game Pass Titles Are Confirmed For Xbox's 25th Anniversary Week",
+      "url": "https://www.purexbox.com/news/2026/11/10plus-game-pass-titles-are-confirmed-for-xboxs-25th-anniversary-week",
+      "canonical": "purexbox.com/news/2026/11/10plus-game-pass-titles-are-confirmed-for-xboxs-25th-anniversary-week",
+      "published_dt": "2026-11-08T18:00:00+06:00",
+      "published_date": "2026-11-08T18:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "With potentially more to come. We're heading into Xbox's 25th anniversary week ! Xbox will officially be celebrating that milestone on Sunday, November 15th (exactly seven days from the time of posting this article), and we're hoping for some surprises along the way. We already know of one surprise, which is that eight games will be joining Xbox Game Pass Essential on the 15th itself. Combine that with the six others during the rest of the week, and we've got over 10 brand-new additions heading to Game Pass during the course of the 25th anniversary period. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/44570adbacd04/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-08T20:06:46.952341+06:00",
+      "last_seen": "2026-11-08T20:06:46.952347+06:00",
+      "posted_at": "2026-11-08T20:13:09.384322+06:00"
+    },
+    "siliconera.com/pokemon-tcg-the-best-delta-reign-cards": {
+      "title": "Pokemon TCG: The Best Delta Reign Cards",
+      "url": "https://www.siliconera.com/pokemon-tcg-the-best-delta-reign-cards/",
+      "canonical": "siliconera.com/pokemon-tcg-the-best-delta-reign-cards",
+      "published_dt": "2026-11-08T20:00:00+06:00",
+      "published_date": "2026-11-08T20:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "While the 30th Celebration set was for collectors, Delta Reign cards are much more about playability.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T20:06:47.447712+06:00",
+      "last_seen": "2026-11-08T20:06:47.447718+06:00"
+    },
+    "es.kotaku.com/nvidia-sorprende-con-24-novedades-para-noviembre-y-prepara-importantes-mejoras-para-algunos-de-los-juegos-mas-populares-2000056610": {
+      "title": "NVIDIA sorprende con 24 novedades para noviembre y prepara importantes mejoras para algunos de los juegos más populares - Kotaku en Español",
+      "url": "https://es.kotaku.com/nvidia-sorprende-con-24-novedades-para-noviembre-y-prepara-importantes-mejoras-para-algunos-de-los-juegos-mas-populares-2000056610",
+      "canonical": "es.kotaku.com/nvidia-sorprende-con-24-novedades-para-noviembre-y-prepara-importantes-mejoras-para-algunos-de-los-juegos-mas-populares-2000056610",
+      "published_dt": "2026-11-08T18:49:00+06:00",
+      "published_date": "2026-11-08T18:49:00+06:00",
+      "source": "es.kotaku.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "posted",
+      "first_seen": "2026-11-08T20:06:53.571578+06:00",
+      "last_seen": "2026-11-08T20:06:53.571583+06:00",
+      "posted_at": "2026-11-08T20:13:25.367105+06:00"
+    },
+    "adria.ign.com/astro-bot/55957/god-of-war-ragnarok-predvodi-listu-10-playstation-studios-igara-sa-najvecom-zaradom-u-ps5-generaciji": {
+      "title": "God of War Ragnarok predvodi listu 10 PlayStation Studios igara sa najvećom zaradom u PS5 generaciji",
+      "url": "https://adria.ign.com/astro-bot/55957/god-of-war-ragnarok-predvodi-listu-10-playstation-studios-igara-sa-najvecom-zaradom-u-ps5-generaciji",
+      "canonical": "adria.ign.com/astro-bot/55957/god-of-war-ragnarok-predvodi-listu-10-playstation-studios-igara-sa-najvecom-zaradom-u-ps5-generaciji",
+      "published_dt": "2026-11-08T17:13:40+06:00",
+      "published_date": "2026-11-08T17:13:40+06:00",
+      "source": "adria.ign.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://sm.ign.com/t/ign_sr/news/g/god-of-war/god-of-war-ragnarok-tops-list-of-10-highest-grossing-playsta_b2nu.1200.jpg",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-08T20:06:53.571685+06:00",
+      "last_seen": "2026-11-08T20:06:53.571688+06:00"
+    },
+    "es.kotaku.com/estuvo-a-punto-de-terminar-en-la-basura-y-ahora-vale-mas-de-329-000-dolares-el-tesoro-de-nintendo-que-nadie-esperaba-2000056618": {
+      "title": "Estuvo a punto de terminar en la basura y ahora vale más de 329.000 dólares: el tesoro de Nintendo que nadie esperaba - Kotaku en Español",
+      "url": "https://es.kotaku.com/estuvo-a-punto-de-terminar-en-la-basura-y-ahora-vale-mas-de-329-000-dolares-el-tesoro-de-nintendo-que-nadie-esperaba-2000056618",
+      "canonical": "es.kotaku.com/estuvo-a-punto-de-terminar-en-la-basura-y-ahora-vale-mas-de-329-000-dolares-el-tesoro-de-nintendo-que-nadie-esperaba-2000056618",
+      "published_dt": "2026-11-08T19:12:57+06:00",
+      "published_date": "2026-11-08T19:12:57+06:00",
+      "source": "es.kotaku.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-08T20:06:53.571741+06:00",
+      "last_seen": "2026-11-08T20:06:53.571744+06:00"
+    },
+    "br.ign.com/the-walking-dead-1/157389/esta-serie-de-zumbis-com-apenas-16-episodios-recebeu-criticas-melhores-que-the-walking-dead-e-foi-el": {
+      "title": "Esta série de zumbis com apenas 16 episódios recebeu críticas melhores que The Walking Dead e foi elogiada por Stephen King",
+      "url": "https://br.ign.com/the-walking-dead-1/157389/esta-serie-de-zumbis-com-apenas-16-episodios-recebeu-criticas-melhores-que-the-walking-dead-e-foi-el",
+      "canonical": "br.ign.com/the-walking-dead-1/157389/esta-serie-de-zumbis-com-apenas-16-episodios-recebeu-criticas-melhores-que-the-walking-dead-e-foi-el",
+      "published_dt": "2026-11-08T19:00:34+06:00",
+      "published_date": "2026-11-08T19:00:34+06:00",
+      "source": "br.ign.com",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "https://sm.ign.com/t/ign_br/screenshot/default/blob_p2d2.1200.png",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-08T20:06:55.790254+06:00",
+      "last_seen": "2026-11-08T20:06:55.790259+06:00"
     }
   },
   "events": {
@@ -6314,56 +6573,6 @@
         }
       ]
     },
-    "evt_5fdcec39f108fe": {
-      "event_id": "evt_5fdcec39f108fe",
-      "event_key": "x25 xbox console 25th anniversary edition how to buy release date price x25 controller release",
-      "event_subject": "X25 XBOX Console 25th Anniversary Edition—How to Buy, Release Date, Price & X25 Controller",
-      "event_type": "release",
-      "event_frame": {
-        "event_key": "x25 xbox console 25th anniversary edition how to buy release date price x25 controller release",
-        "subject": "X25 XBOX Console 25th Anniversary Edition—How to Buy, Release Date, Price & X25 Controller",
-        "event_type": "release",
-        "action": "release",
-        "status": "current",
-        "modality": "confirmed",
-        "game": "X25 XBOX Console 25th Anniversary Edition—How to Buy, Release Date, Price & X25 Controller",
-        "franchise": "X25 XBOX Console 25th Anniversary Edition—How to Buy, Release Date, Price & X25 Controller",
-        "institution": "",
-        "target": "X25 XBOX Console 25th Anniversary Edition—How to Buy, Release Date, Price & X25 Controller",
-        "platforms": [],
-        "topic": "Gaming"
-      },
-      "sources": [
-        "Insider Gaming"
-      ],
-      "event_sources": [
-        "Insider Gaming"
-      ],
-      "claims": [
-        "Xbox's limited-edition X25 console will make for one hell of a collectible, so find out how to get it, when it's coming out, and more. The post X25 XBOX Console 25th Anniversary Edition—How to Buy, Release Date, Price & X25 Controller appeared first on Insider Gaming ."
-      ],
-      "importance_score": 48,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 14,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Xbox X25 25th Anniversary Console Launches November 27, Prices Revealed",
-      "summary": "The limited‑edition Xbox Series X|S X25 arrives on November 27, 2026, priced at $899.99/£759.99, with a separate $79.99 controller still in stock.",
-      "published_at": "2026-10-09T19:47:05+06:00",
-      "selected_at": "2026-10-09T15:10:42.931443+00:00",
-      "status": "published",
-      "message_id": 640,
-      "published_versions": [
-        {
-          "published_at": "2026-10-09T15:10:42.931443+00:00",
-          "headline": "Xbox X25 25th Anniversary Console Launches November 27, Prices Revealed",
-          "claims": [
-            "Xbox's limited-edition X25 console will make for one hell of a collectible, so find out how to get it, when it's coming out, and more. The post X25 XBOX Console 25th Anniversary Edition—How to Buy, Release Date, Price & X25 Controller appeared first on Insider Gaming ."
-          ]
-        }
-      ]
-    },
     "evt_fcfab774277c03": {
       "event_id": "evt_fcfab774277c03",
       "event_key": "hellraiser revival gameplay gets youtuber permanently banned other",
@@ -6410,256 +6619,6 @@
           "headline": "YouTuber Permanently Banned After Posting Hellraiser: Revival Gameplay",
           "claims": [
             "It seems like showcasing Hellraiser: Revival gameplay could get you permanently banned on YouTube. Here are more details. The post Hellraiser: Revival Gameplay Gets YouTuber Permanently Banned appeared first on Insider Gaming ."
-          ]
-        }
-      ]
-    },
-    "evt_36c0eb66f625d9": {
-      "event_id": "evt_36c0eb66f625d9",
-      "event_key": "ps5 s qssr might not run on games with older sdks other",
-      "event_subject": "PS5’s QSSR Might Not Run on Games with Older SDKs",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "ps5 s qssr might not run on games with older sdks other",
-        "subject": "PS5’s QSSR Might Not Run on Games with Older SDKs",
-        "event_type": "other",
-        "action": "other",
-        "status": "current",
-        "modality": "confirmed",
-        "game": "PS5’s QSSR Might Not Run on Games with Older SDKs",
-        "franchise": "PS5’s QSSR Might Not Run on Games with Older SDKs",
-        "institution": "",
-        "target": "PS5’s QSSR Might Not Run on Games with Older SDKs",
-        "platforms": [],
-        "topic": "Gaming"
-      },
-      "sources": [
-        "Insider Gaming"
-      ],
-      "event_sources": [
-        "Insider Gaming"
-      ],
-      "claims": [
-        "It seems like there could be a problem bringing PS5's QSSR upscaling tech to games built on older SDKs. Here are more details. The post PS5’s QSSR Might Not Run on Games with Older SDKs appeared first on Insider Gaming ."
-      ],
-      "importance_score": 46,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "PS5 QSSR Upscaling May Exclude Games on Older SDKs",
-      "summary": "Sony’s new QSSR AI upscaling could be inaccessible for titles built with legacy PS5 SDKs, forcing developers to update or lose performance gains.",
-      "published_at": "2026-10-09T19:47:48+06:00",
-      "selected_at": "2026-10-09T15:10:54.967212+00:00",
-      "status": "published",
-      "message_id": 642,
-      "published_versions": [
-        {
-          "published_at": "2026-10-09T15:10:54.967212+00:00",
-          "headline": "PS5 QSSR Upscaling May Exclude Games on Older SDKs",
-          "claims": [
-            "It seems like there could be a problem bringing PS5's QSSR upscaling tech to games built on older SDKs. Here are more details. The post PS5’s QSSR Might Not Run on Games with Older SDKs appeared first on Insider Gaming ."
-          ]
-        }
-      ]
-    },
-    "evt_91d982291759b4": {
-      "event_id": "evt_91d982291759b4",
-      "event_key": "zenless zone zero version 3 3 update journey to the sky release",
-      "event_subject": "Zenless Zone Zero version 3.3 update ‘Journey to the Sky’",
-      "event_type": "release",
-      "event_frame": {
-        "event_key": "zenless zone zero version 3 3 update journey to the sky release",
-        "subject": "Zenless Zone Zero version 3.3 update ‘Journey to the Sky’",
-        "event_type": "release",
-        "action": "release",
-        "status": "current",
-        "modality": "confirmed",
-        "game": "Zenless Zone Zero version 3.3 update ‘Journey to the Sky’",
-        "franchise": "Zenless Zone Zero version 3.3 update ‘Journey to the Sky’",
-        "institution": "",
-        "target": "Zenless Zone Zero version 3.3 update ‘Journey to the Sky’",
-        "platforms": [],
-        "topic": "Gaming"
-      },
-      "sources": [
-        "Gematsu"
-      ],
-      "event_sources": [
-        "Gematsu"
-      ],
-      "claims": [
-        "The version 3.3 update for Zenless Zone Zero, dubbed “Journey to the Sky,” will launch …"
-      ],
-      "importance_score": 43,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 9,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Zenless Zone Zero 3.3 ‘Journey to the Sky’ Update Arrives Oct 21",
-      "summary": "The new version introduces S‑Rank agents Phoenix and Severian, mech combat, and a host of events, launching on October 21.",
-      "published_at": "2026-10-09T18:55:35+06:00",
-      "selected_at": "2026-10-09T15:11:00.477916+00:00",
-      "status": "published",
-      "message_id": 643,
-      "published_versions": [
-        {
-          "published_at": "2026-10-09T15:11:00.477916+00:00",
-          "headline": "Zenless Zone Zero 3.3 ‘Journey to the Sky’ Update Arrives Oct 21",
-          "claims": [
-            "The version 3.3 update for Zenless Zone Zero, dubbed “Journey to the Sky,” will launch …"
-          ]
-        }
-      ]
-    },
-    "evt_aef7e7d3d3e7fb": {
-      "event_id": "evt_aef7e7d3d3e7fb",
-      "event_key": "the cheapest nvidia rtx spark gaming laptops are 2 599 99 here s where to pre order the full roster release",
-      "event_subject": "The cheapest Nvidia RTX Spark gaming laptops are $2,599.99, here's where to pre-order the full roster",
-      "event_type": "release",
-      "event_frame": {
-        "event_key": "the cheapest nvidia rtx spark gaming laptops are 2 599 99 here s where to pre order the full roster release",
-        "subject": "The cheapest Nvidia RTX Spark gaming laptops are $2,599.99, here's where to pre-order the full roster",
-        "event_type": "release",
-        "action": "release",
-        "status": "current",
-        "modality": "confirmed",
-        "game": "The cheapest Nvidia RTX Spark gaming laptops are $2,599.99, here's where to pre-order the full roster",
-        "franchise": "The cheapest Nvidia RTX Spark gaming laptops are $2,599.99, here's where to pre-order the full roster",
-        "institution": "",
-        "target": "The cheapest Nvidia RTX Spark gaming laptops are $2,599.99, here's where to pre-order the full roster",
-        "platforms": [],
-        "topic": "Gaming"
-      },
-      "sources": [
-        "GamesRadar+"
-      ],
-      "event_sources": [
-        "GamesRadar+"
-      ],
-      "claims": [
-        "RTX Spark laptop pre-orders are here in all shapes and sizes; here's every model currently available ahead of that October 16 release date."
-      ],
-      "importance_score": 39,
-      "coverage_score": 2,
-      "originality_score": 8,
-      "significance_score": 13,
-      "freshness_score": 10,
-      "source_trust_score": 6,
-      "headline": "Nvidia RTX Spark Laptops Launch at $2,599.99, Pre‑Orders Open",
-      "summary": "Nvidia’s new RTX Spark laptops start at $2,599.99, offering thin‑chassis AI‑powered performance for creators and gamers with pre‑orders beginning now.",
-      "published_at": "2026-10-09T18:54:34+06:00",
-      "selected_at": "2026-10-09T15:11:05.595683+00:00",
-      "status": "published",
-      "message_id": 644,
-      "published_versions": [
-        {
-          "published_at": "2026-10-09T15:11:05.595683+00:00",
-          "headline": "Nvidia RTX Spark Laptops Launch at $2,599.99, Pre‑Orders Open",
-          "claims": [
-            "RTX Spark laptop pre-orders are here in all shapes and sizes; here's every model currently available ahead of that October 16 release date."
-          ]
-        }
-      ]
-    },
-    "evt_d3fbba267412d9": {
-      "event_id": "evt_d3fbba267412d9",
-      "event_key": "youtuber gets banned for hellraiser revival censored gameplay video that still violated sex and nudity policy other",
-      "event_subject": "YouTuber Gets Banned For Hellraiser: Revival Censored Gameplay Video That Still Violated ‘Sex And Nudity Policy’",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "youtuber gets banned for hellraiser revival censored gameplay video that still violated sex and nudity policy other",
-        "subject": "YouTuber Gets Banned For Hellraiser: Revival Censored Gameplay Video That Still Violated ‘Sex And Nudity Policy’",
-        "event_type": "other",
-        "action": "other",
-        "status": "current",
-        "modality": "confirmed",
-        "game": "YouTuber Gets Banned For Hellraiser: Revival Censored Gameplay Video That Still Violated ‘Sex And Nudity Policy’",
-        "franchise": "YouTuber Gets Banned For Hellraiser: Revival Censored Gameplay Video That Still Violated ‘Sex And Nudity Policy’",
-        "institution": "",
-        "target": "YouTuber Gets Banned For Hellraiser: Revival Censored Gameplay Video That Still Violated ‘Sex And Nudity Policy’",
-        "platforms": [],
-        "topic": "Gaming"
-      },
-      "sources": [
-        "Kotaku"
-      ],
-      "event_sources": [
-        "Kotaku"
-      ],
-      "claims": [
-        "This is why the Cenobites could never be content creators"
-      ],
-      "importance_score": 38,
-      "coverage_score": 2,
-      "originality_score": 8,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 6,
-      "headline": "YouTuber Channel Banned Over Hellraiser: Revival Gameplay Censorship Dispute",
-      "summary": "Content creator J0nathan lost his 190,000‑subscriber YouTube channel after uploading censored Hellraiser: Revival footage that violated the platform’s sex and nudity policy.",
-      "published_at": "2026-10-09T19:45:33+06:00",
-      "selected_at": "2026-10-09T15:11:10.286329+00:00",
-      "status": "published",
-      "message_id": 645,
-      "published_versions": [
-        {
-          "published_at": "2026-10-09T15:11:10.286329+00:00",
-          "headline": "YouTuber Channel Banned Over Hellraiser: Revival Gameplay Censorship Dispute",
-          "claims": [
-            "This is why the Cenobites could never be content creators"
-          ]
-        }
-      ]
-    },
-    "evt_ecb9edd2b4127f": {
-      "event_id": "evt_ecb9edd2b4127f",
-      "event_key": "the witcher 3 remastered s new patch has fans in awe with its massively improved visuals update",
-      "event_subject": "The Witcher 3 Remastered's new patch has fans in awe with its \"massively improved\" visuals",
-      "event_type": "update",
-      "event_frame": {
-        "event_key": "the witcher 3 remastered s new patch has fans in awe with its massively improved visuals update",
-        "subject": "The Witcher 3 Remastered's new patch has fans in awe with its \"massively improved\" visuals",
-        "event_type": "update",
-        "action": "update",
-        "status": "current",
-        "modality": "confirmed",
-        "game": "The Witcher 3 Remastered's new patch has fans in awe with its \"massively improved\" visuals",
-        "franchise": "The Witcher 3 Remastered's new patch has fans in awe with its \"massively improved\" visuals",
-        "institution": "",
-        "target": "The Witcher 3 Remastered's new patch has fans in awe with its \"massively improved\" visuals",
-        "platforms": [],
-        "topic": "Gaming"
-      },
-      "sources": [
-        "GamesRadar+"
-      ],
-      "event_sources": [
-        "GamesRadar+"
-      ],
-      "claims": [
-        "CD Projekt Red was seriously cookin' with this update"
-      ],
-      "importance_score": 34,
-      "coverage_score": 2,
-      "originality_score": 8,
-      "significance_score": 8,
-      "freshness_score": 10,
-      "source_trust_score": 6,
-      "headline": "Patch 5.01 Gives The Witcher 3 Remastered Stunning Visual Overhaul",
-      "summary": "CD Projekt Red’s new patch adds bloom, light shafts, depth of field and refined color tonemapping, making the remaster look dramatically better on consoles and PC.",
-      "published_at": "2026-10-09T19:19:26+06:00",
-      "selected_at": "2026-10-09T15:11:15.556802+00:00",
-      "status": "published",
-      "message_id": 646,
-      "published_versions": [
-        {
-          "published_at": "2026-10-09T15:11:15.556802+00:00",
-          "headline": "Patch 5.01 Gives The Witcher 3 Remastered Stunning Visual Overhaul",
-          "claims": [
-            "CD Projekt Red was seriously cookin' with this update"
           ]
         }
       ]
@@ -22705,6 +22664,244 @@
           "claims": [
             "the game will become free‑to‑play on Dec 11 2026 and add the Shadow class"
           ]
+        }
+      ]
+    },
+    "evt_2aac7bb82257cf": {
+      "event_id": "evt_2aac7bb82257cf",
+      "event_key": "announcement wow forever blizzard launch record",
+      "event_subject": "World of Warcraft: Forever",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "announcement wow forever blizzard launch record",
+        "subject": "World of Warcraft: Forever",
+        "event_type": "announcement",
+        "action": "claim",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "World of Warcraft: Forever",
+        "franchise": "World of Warcraft",
+        "institution": "Blizzard Entertainment",
+        "target": "",
+        "platforms": [],
+        "topic": "player_numbers"
+      },
+      "sources": [
+        "Eurogamer"
+      ],
+      "event_sources": [
+        "Eurogamer"
+      ],
+      "claims": [
+        "biggest_launch"
+      ],
+      "importance_score": 60,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 30,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "World of Warcraft: Forever Sets Record‑Breaking Launch With Highest Player Count",
+      "summary": "World of Warcraft: Forever achieved the biggest launch in the MMO’s history, topping previous peaks for concurrent and returning players.",
+      "published_at": "2026-11-08T19:09:10+06:00",
+      "selected_at": "2026-11-08T14:13:04.149387+00:00",
+      "status": "published",
+      "message_id": 973,
+      "published_versions": [
+        {
+          "published_at": "2026-11-08T14:13:04.149387+00:00",
+          "headline": "World of Warcraft: Forever Sets Record‑Breaking Launch With Highest Player Count",
+          "claims": [
+            "biggest_launch"
+          ]
+        }
+      ]
+    },
+    "evt_03feb4a3976ba3": {
+      "event_id": "evt_03feb4a3976ba3",
+      "event_key": "announcement xbox 25th anniversary game pass additions",
+      "event_subject": "Xbox 25th anniversary Game Pass additions",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "announcement xbox 25th anniversary game pass additions",
+        "subject": "Xbox 25th anniversary Game Pass additions",
+        "event_type": "announcement",
+        "action": "add",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Xbox",
+        "institution": "Microsoft",
+        "target": "",
+        "platforms": [],
+        "topic": "Game_Pass_updates"
+      },
+      "sources": [
+        "Pure Xbox"
+      ],
+      "event_sources": [
+        "Pure Xbox"
+      ],
+      "claims": [],
+      "importance_score": 42,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Xbox Game Pass Gains Over Ten New Titles for 25th Anniversary Week",
+      "summary": "Xbox will add more than ten fresh games to Game Pass Essential throughout its 25th anniversary celebrations starting November 10.",
+      "published_at": "2026-11-08T18:00:00+06:00",
+      "selected_at": "2026-11-08T14:13:09.384356+00:00",
+      "status": "published",
+      "message_id": 974,
+      "published_versions": [
+        {
+          "published_at": "2026-11-08T14:13:09.384356+00:00",
+          "headline": "Xbox Game Pass Gains Over Ten New Titles for 25th Anniversary Week",
+          "claims": []
+        }
+      ]
+    },
+    "evt_7ed2b2c7fb03a4": {
+      "event_id": "evt_7ed2b2c7fb03a4",
+      "event_key": "feature wardogs season 3 anti cheat ai",
+      "event_subject": "Wardogs Season 3 anti‑cheat claim",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "feature wardogs season 3 anti cheat ai",
+        "subject": "Wardogs Season 3 anti‑cheat claim",
+        "event_type": "other",
+        "action": "claim",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "Wardogs",
+        "franchise": "Wardogs",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "security"
+      },
+      "sources": [
+        "PC Gamer"
+      ],
+      "event_sources": [
+        "PC Gamer"
+      ],
+      "claims": [
+        "sophisticated_anti_cheat"
+      ],
+      "importance_score": 38,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 8,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Wardogs Deploys AI‑Powered Anti‑Cheat Ahead of Season 3 Launch",
+      "summary": "Bulkhead rolls out a machine‑learning anti‑cheat that banned 185,000 accounts, while introducing new map Sabatulo, multi‑track unlocks, and a Limited mode.",
+      "published_at": "2026-11-08T18:16:51+06:00",
+      "selected_at": "2026-11-08T14:13:14.639286+00:00",
+      "status": "published",
+      "message_id": 975,
+      "published_versions": [
+        {
+          "published_at": "2026-11-08T14:13:14.639286+00:00",
+          "headline": "Wardogs Deploys AI‑Powered Anti‑Cheat Ahead of Season 3 Launch",
+          "claims": [
+            "sophisticated_anti_cheat"
+          ]
+        }
+      ]
+    },
+    "evt_789f8e72c67671": {
+      "event_id": "evt_789f8e72c67671",
+      "event_key": "release cairn game bakers announcement",
+      "event_subject": "Cairn",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "release cairn game bakers announcement",
+        "subject": "Cairn",
+        "event_type": "release",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Cairn",
+        "franchise": "Cairn",
+        "institution": "The Game Bakers",
+        "target": "",
+        "platforms": [],
+        "topic": "action‑adventure"
+      },
+      "sources": [
+        "Polygon"
+      ],
+      "event_sources": [
+        "Polygon"
+      ],
+      "claims": [],
+      "importance_score": 35,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 5,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Cairn Redefines Action‑Adventure Climbing with Epic Alpine Storytelling",
+      "summary": "Cairn blends realistic physics, survival mechanics and a poignant narrative as climber Aava tackles the daunting Mount Kami on PC.",
+      "published_at": "2026-11-08T20:05:44+06:00",
+      "selected_at": "2026-11-08T14:13:20.199611+00:00",
+      "status": "published",
+      "message_id": 976,
+      "published_versions": [
+        {
+          "published_at": "2026-11-08T14:13:20.199611+00:00",
+          "headline": "Cairn Redefines Action‑Adventure Climbing with Epic Alpine Storytelling",
+          "claims": []
+        }
+      ]
+    },
+    "evt_c4c9e41105bb5e": {
+      "event_id": "evt_c4c9e41105bb5e",
+      "event_key": "news nvidia november updates es kotaku",
+      "event_subject": "NVIDIA November updates",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "news nvidia november updates es kotaku",
+        "subject": "NVIDIA November updates",
+        "event_type": "other",
+        "action": "announce",
+        "status": "info",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "NVIDIA",
+        "target": "",
+        "platforms": [],
+        "topic": "driver_and_feature_updates"
+      },
+      "sources": [
+        "es.kotaku.com"
+      ],
+      "event_sources": [
+        "es.kotaku.com"
+      ],
+      "claims": [],
+      "importance_score": 30,
+      "coverage_score": 2,
+      "originality_score": 5,
+      "significance_score": 10,
+      "freshness_score": 10,
+      "source_trust_score": 3,
+      "headline": "NVIDIA adds 24 games to GeForce NOW, boosts Hogwarts Legacy with DLSS 5",
+      "summary": "NVIDIA rolls out 24 new titles for GeForce NOW in November, including World of Warcraft: Forever and Cyberpunk 2077, and upgrades Hogwarts Legacy with DLSS 5.",
+      "published_at": "2026-11-08T18:49:00+06:00",
+      "selected_at": "2026-11-08T14:13:25.367137+00:00",
+      "status": "published",
+      "message_id": 977,
+      "published_versions": [
+        {
+          "published_at": "2026-11-08T14:13:25.367137+00:00",
+          "headline": "NVIDIA adds 24 games to GeForce NOW, boosts Hogwarts Legacy with DLSS 5",
+          "claims": []
         }
       ]
     }
@@ -216218,14 +216415,873 @@
         "total": 32
       },
       "last_seen": "2026-11-08T12:59:19.617735+06:00"
+    },
+    "evt_2aac7bb82257cf": {
+      "event_id": "evt_2aac7bb82257cf",
+      "event_key": "announcement wow forever blizzard launch record",
+      "event_subject": "World of Warcraft: Forever",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "announcement wow forever blizzard launch record",
+        "subject": "World of Warcraft: Forever",
+        "event_type": "announcement",
+        "action": "claim",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "World of Warcraft: Forever",
+        "franchise": "World of Warcraft",
+        "institution": "Blizzard Entertainment",
+        "target": "",
+        "platforms": [],
+        "topic": "player_numbers"
+      },
+      "modality": "unknown",
+      "topic": "player_numbers",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "biggest_launch"
+      ],
+      "importance_score": 60,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 60
+      },
+      "last_seen": "2026-11-08T20:09:00.312013+06:00"
+    },
+    "evt_e9eaac0397969b": {
+      "event_id": "evt_e9eaac0397969b",
+      "event_key": "human interest among us missing teen rescue",
+      "event_subject": "Missing teenager rescue",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "human interest among us missing teen rescue",
+        "subject": "Missing teenager rescue",
+        "event_type": "other",
+        "action": "report",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Among Us",
+        "franchise": "Among Us",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "real_world_rescue"
+      },
+      "modality": "unknown",
+      "topic": "real_world_rescue",
+      "institution": "",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-11-08T20:09:00.312036+06:00"
+    },
+    "evt_03feb4a3976ba3": {
+      "event_id": "evt_03feb4a3976ba3",
+      "event_key": "announcement xbox 25th anniversary game pass additions",
+      "event_subject": "Xbox 25th anniversary Game Pass additions",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "announcement xbox 25th anniversary game pass additions",
+        "subject": "Xbox 25th anniversary Game Pass additions",
+        "event_type": "announcement",
+        "action": "add",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Xbox",
+        "institution": "Microsoft",
+        "target": "",
+        "platforms": [],
+        "topic": "Game_Pass_updates"
+      },
+      "modality": "unknown",
+      "topic": "Game_Pass_updates",
+      "institution": "Microsoft",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-11-08T20:09:00.312047+06:00"
+    },
+    "evt_c4c9e41105bb5e": {
+      "event_id": "evt_c4c9e41105bb5e",
+      "event_key": "news nvidia november updates es kotaku",
+      "event_subject": "NVIDIA November updates",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "news nvidia november updates es kotaku",
+        "subject": "NVIDIA November updates",
+        "event_type": "other",
+        "action": "announce",
+        "status": "info",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "NVIDIA",
+        "target": "",
+        "platforms": [],
+        "topic": "driver_and_feature_updates"
+      },
+      "modality": "unknown",
+      "topic": "driver_and_feature_updates",
+      "institution": "NVIDIA",
+      "sources": [
+        "es.kotaku.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 30
+      },
+      "last_seen": "2026-11-08T20:09:00.312055+06:00"
+    },
+    "evt_eb493c3dbde7d0": {
+      "event_id": "evt_eb493c3dbde7d0",
+      "event_key": "mod aurbis skyrim mmo conversion",
+      "event_subject": "Aurbis mod",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "mod aurbis skyrim mmo conversion",
+        "subject": "Aurbis mod",
+        "event_type": "other",
+        "action": "convert",
+        "status": "info",
+        "modality": "unknown",
+        "game": "Skyrim",
+        "franchise": "The Elder Scrolls",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "multiplayer_mod"
+      },
+      "modality": "unknown",
+      "topic": "multiplayer_mod",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-11-08T20:09:00.312061+06:00"
+    },
+    "evt_7ed2b2c7fb03a4": {
+      "event_id": "evt_7ed2b2c7fb03a4",
+      "event_key": "feature wardogs season 3 anti cheat ai",
+      "event_subject": "Wardogs Season 3 anti‑cheat claim",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "feature wardogs season 3 anti cheat ai",
+        "subject": "Wardogs Season 3 anti‑cheat claim",
+        "event_type": "other",
+        "action": "claim",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "Wardogs",
+        "franchise": "Wardogs",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "security"
+      },
+      "modality": "unknown",
+      "topic": "security",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "sophisticated_anti_cheat"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-11-08T20:09:00.312068+06:00"
+    },
+    "evt_ec7ddb910b717e": {
+      "event_id": "evt_ec7ddb910b717e",
+      "event_key": "port god of war sons of sparta mega cat studios ps4 release",
+      "event_subject": "God of War: Sons of Sparta",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "port god of war sons of sparta mega cat studios ps4 release",
+        "subject": "God of War: Sons of Sparta",
+        "event_type": "other",
+        "action": "release",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "God of War: Sons of Sparta",
+        "franchise": "God of War",
+        "institution": "Mega Cat Studios",
+        "target": "",
+        "platforms": [
+          "PS4"
+        ],
+        "topic": "surprise_port"
+      },
+      "modality": "unknown",
+      "topic": "surprise_port",
+      "institution": "Mega Cat Studios",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-11-08T20:09:00.312074+06:00"
+    },
+    "evt_ce6a076ebf9603": {
+      "event_id": "evt_ce6a076ebf9603",
+      "event_key": "ranking god of war ragnarok playstation studios top 10 revenue",
+      "event_subject": "Top‑10 PlayStation Studios games by revenue",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ranking god of war ragnarok playstation studios top 10 revenue",
+        "subject": "Top‑10 PlayStation Studios games by revenue",
+        "event_type": "other",
+        "action": "list",
+        "status": "info",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "God of War Ragnarok",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "revenue"
+      },
+      "modality": "unknown",
+      "topic": "revenue",
+      "institution": "",
+      "sources": [
+        "adria.ign.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 26,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 26
+      },
+      "last_seen": "2026-11-08T20:09:00.312081+06:00"
+    },
+    "evt_789f8e72c67671": {
+      "event_id": "evt_789f8e72c67671",
+      "event_key": "release cairn game bakers announcement",
+      "event_subject": "Cairn",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "release cairn game bakers announcement",
+        "subject": "Cairn",
+        "event_type": "release",
+        "action": "announce",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Cairn",
+        "franchise": "Cairn",
+        "institution": "The Game Bakers",
+        "target": "",
+        "platforms": [],
+        "topic": "action‑adventure"
+      },
+      "modality": "unknown",
+      "topic": "action‑adventure",
+      "institution": "The Game Bakers",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-11-08T20:09:00.312087+06:00"
+    },
+    "evt_feeeca3c7c4dda": {
+      "event_id": "evt_feeeca3c7c4dda",
+      "event_key": "feature nintendo treasure valuation",
+      "event_subject": "Nintendo treasure valuation",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "feature nintendo treasure valuation",
+        "subject": "Nintendo treasure valuation",
+        "event_type": "other",
+        "action": "report",
+        "status": "info",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Nintendo",
+        "target": "",
+        "platforms": [],
+        "topic": "collectible_valuation"
+      },
+      "modality": "unknown",
+      "topic": "collectible_valuation",
+      "institution": "Nintendo",
+      "sources": [
+        "es.kotaku.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 25,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 25
+      },
+      "last_seen": "2026-11-08T20:09:00.312093+06:00"
+    },
+    "evt_12bba8cb3d2465": {
+      "event_id": "evt_12bba8cb3d2465",
+      "event_key": "analysis ocarina vs skyrim industry comparison",
+      "event_subject": "Ocarina of Time vs Skyrim",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "analysis ocarina vs skyrim industry comparison",
+        "subject": "Ocarina of Time vs Skyrim",
+        "event_type": "other",
+        "action": "compare",
+        "status": "info",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time; The Elder Scrolls V: Skyrim",
+        "franchise": "Zelda; The Elder Scrolls",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "industry_strategy"
+      },
+      "modality": "unknown",
+      "topic": "industry_strategy",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-11-08T20:09:00.312100+06:00"
+    },
+    "evt_612a90d319ce0e": {
+      "event_id": "evt_612a90d319ce0e",
+      "event_key": "rumor assassin s creed hexe ubisoft delay",
+      "event_subject": "Assassin's Creed Hexe",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "rumor assassin s creed hexe ubisoft delay",
+        "subject": "Assassin's Creed Hexe",
+        "event_type": "rumor",
+        "action": "delay",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "Assassin's Creed Hexe",
+        "franchise": "Assassin's Creed",
+        "institution": "Ubisoft",
+        "target": "",
+        "platforms": [],
+        "topic": "release_delay"
+      },
+      "modality": "unknown",
+      "topic": "release_delay",
+      "institution": "Ubisoft",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-11-08T20:09:00.312106+06:00"
+    },
+    "evt_33ef88756c1b03": {
+      "event_id": "evt_33ef88756c1b03",
+      "event_key": "feature mewgenics edmund mcmillen interview",
+      "event_subject": "Mewgenics",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "feature mewgenics edmund mcmillen interview",
+        "subject": "Mewgenics",
+        "event_type": "other",
+        "action": "interview",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Mewgenics",
+        "franchise": "Mewgenics",
+        "institution": "Edmund McMillen",
+        "target": "",
+        "platforms": [],
+        "topic": "development"
+      },
+      "modality": "unknown",
+      "topic": "development",
+      "institution": "Edmund McMillen",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-11-08T20:09:00.312113+06:00"
+    },
+    "evt_124494baa4497b": {
+      "event_id": "evt_124494baa4497b",
+      "event_key": "guide zelda oot remake biggoron sword quest explained",
+      "event_subject": "Biggoron’s Sword quest",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "guide zelda oot remake biggoron sword quest explained",
+        "subject": "Biggoron’s Sword quest",
+        "event_type": "other",
+        "action": "explain",
+        "status": "info",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time Remake",
+        "franchise": "Zelda",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "quest_details"
+      },
+      "modality": "unknown",
+      "topic": "quest_details",
+      "institution": "",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 37
+      },
+      "last_seen": "2026-11-08T20:09:00.312120+06:00"
+    },
+    "evt_1112074a04be31": {
+      "event_id": "evt_1112074a04be31",
+      "event_key": "guide zelda oot remake empty bottle locations",
+      "event_subject": "Empty Bottle locations",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "guide zelda oot remake empty bottle locations",
+        "subject": "Empty Bottle locations",
+        "event_type": "other",
+        "action": "list",
+        "status": "info",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time Remake",
+        "franchise": "Zelda",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "item_locations"
+      },
+      "modality": "unknown",
+      "topic": "item_locations",
+      "institution": "",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 37
+      },
+      "last_seen": "2026-11-08T20:09:00.312126+06:00"
+    },
+    "evt_60a56c63409285": {
+      "event_id": "evt_60a56c63409285",
+      "event_key": "guide zelda ocarina of time empty bottle locations n64",
+      "event_subject": "Empty Bottle locations (N64)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "guide zelda ocarina of time empty bottle locations n64",
+        "subject": "Empty Bottle locations (N64)",
+        "event_type": "other",
+        "action": "list",
+        "status": "info",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time",
+        "franchise": "Zelda",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "item_locations"
+      },
+      "modality": "unknown",
+      "topic": "item_locations",
+      "institution": "",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 37
+      },
+      "last_seen": "2026-11-08T20:09:00.312134+06:00"
+    },
+    "evt_cf60dccf58ab98": {
+      "event_id": "evt_cf60dccf58ab98",
+      "event_key": "guide zelda oot remake fishing pond sinking lure",
+      "event_subject": "Fishing Pond and Sinking Lure",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "guide zelda oot remake fishing pond sinking lure",
+        "subject": "Fishing Pond and Sinking Lure",
+        "event_type": "other",
+        "action": "explain",
+        "status": "info",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time Remake",
+        "franchise": "Zelda",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "fishing_rewards"
+      },
+      "modality": "unknown",
+      "topic": "fishing_rewards",
+      "institution": "",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 37
+      },
+      "last_seen": "2026-11-08T20:09:00.312140+06:00"
+    },
+    "evt_91840d5f518e4a": {
+      "event_id": "evt_91840d5f518e4a",
+      "event_key": "guide zelda oot remake silver golden scales how to",
+      "event_subject": "Silver and Golden Scales",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "guide zelda oot remake silver golden scales how to",
+        "subject": "Silver and Golden Scales",
+        "event_type": "other",
+        "action": "explain",
+        "status": "info",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time Remake",
+        "franchise": "Zelda",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "dive_depth"
+      },
+      "modality": "unknown",
+      "topic": "dive_depth",
+      "institution": "",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 37
+      },
+      "last_seen": "2026-11-08T20:09:00.312144+06:00"
+    },
+    "evt_1745f86cfc544c": {
+      "event_id": "evt_1745f86cfc544c",
+      "event_key": "anniversary xbox series xs microsoft 6th anniversary",
+      "event_subject": "Xbox Series X|S",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "anniversary xbox series xs microsoft 6th anniversary",
+        "subject": "Xbox Series X|S",
+        "event_type": "other",
+        "action": "celebrate",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Xbox",
+        "institution": "Microsoft",
+        "target": "",
+        "platforms": [],
+        "topic": "anniversary"
+      },
+      "modality": "unknown",
+      "topic": "anniversary",
+      "institution": "Microsoft",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-11-08T20:09:00.312148+06:00"
+    },
+    "evt_2f9c2da7bff39e": {
+      "event_id": "evt_2f9c2da7bff39e",
+      "event_key": "review pokemon tcg delta reign card analysis",
+      "event_subject": "Delta Reign cards",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "review pokemon tcg delta reign card analysis",
+        "subject": "Delta Reign cards",
+        "event_type": "review",
+        "action": "analyze",
+        "status": "info",
+        "modality": "unknown",
+        "game": "Pokemon TCG",
+        "franchise": "Pokemon",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "card_playability"
+      },
+      "modality": "unknown",
+      "topic": "card_playability",
+      "institution": "",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-11-08T20:09:00.312152+06:00"
+    },
+    "evt_42ffdd2e9a054f": {
+      "event_id": "evt_42ffdd2e9a054f",
+      "event_key": "review zombie series brazil critical acclaim",
+      "event_subject": "Zombie series (Brazil)",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "review zombie series brazil critical acclaim",
+        "subject": "Zombie series (Brazil)",
+        "event_type": "review",
+        "action": "review",
+        "status": "info",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "critical_acclaim"
+      },
+      "modality": "unknown",
+      "topic": "critical_acclaim",
+      "institution": "",
+      "sources": [
+        "br.ign.com"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 23,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 5,
+        "freshness": 10,
+        "source_trust": 3,
+        "total": 23
+      },
+      "last_seen": "2026-11-08T20:09:00.312156+06:00"
+    },
+    "evt_724acaa242e808": {
+      "event_id": "evt_724acaa242e808",
+      "event_key": "guide nyt connections insider gaming hint release",
+      "event_subject": "NYT Connections hints",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "guide nyt connections insider gaming hint release",
+        "subject": "NYT Connections hints",
+        "event_type": "other",
+        "action": "publish",
+        "status": "info",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "NYT Connections",
+        "institution": "Insider Gaming",
+        "target": "",
+        "platforms": [],
+        "topic": "puzzle_hints"
+      },
+      "modality": "unknown",
+      "topic": "puzzle_hints",
+      "institution": "Insider Gaming",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 36
+      },
+      "last_seen": "2026-11-08T20:09:00.312160+06:00"
     }
   },
   "posted_event_ids": [
-    "evt_02dc7d09f472be",
-    "evt_1e1e410b107af5",
-    "evt_0f2f7c0822ea10",
-    "evt_0c074a063147d8",
-    "evt_0c5387d70a947e",
     "evt_3409a7291b1367",
     "evt_6f00254ce84629",
     "evt_791270788a825b",
@@ -216720,10 +217776,14 @@
     "evt_072ae75e07546d",
     "evt_5a5af5aff84e47",
     "evt_d333b228dae6dd",
-    "evt_39fac47881ef06"
+    "evt_39fac47881ef06",
+    "evt_2aac7bb82257cf",
+    "evt_03feb4a3976ba3",
+    "evt_7ed2b2c7fb03a4",
+    "evt_789f8e72c67671",
+    "evt_c4c9e41105bb5e"
   ],
   "recent_titles": [
-    "gta 6 receives pegi 18 rating marking series most mature release",
     "warhorse coo urges gta 6 to set new 80 price standard for triple a games",
     "sony refines base ps5 slim with optimized motherboard and cooling",
     "original halo ported to web browser with 128 player multiplayer",
@@ -217123,17 +218183,22 @@
     "todd howard leaves tes vi exclusivity open ps5 future unclear",
     "ea releases 25 classic pc games with seven new remasters",
     "two new assassin s creed titles reported one set in ancient rome",
-    "path of exile 2 launches free to play on december 11 with new shadow class"
+    "path of exile 2 launches free to play on december 11 with new shadow class",
+    "world of warcraft forever sets record breaking launch with highest player count",
+    "xbox game pass gains over ten new titles for 25th anniversary week",
+    "wardogs deploys ai powered anti cheat ahead of season 3 launch",
+    "cairn redefines action adventure climbing with epic alpine storytelling",
+    "nvidia adds 24 games to geforce now boosts hogwarts legacy with dlss 5"
   ],
   "category_coverage": {
-    "Game Updates": "2026-11-08T00:44:57.652811+06:00",
+    "Game Updates": "2026-11-08T20:13:25.367171+06:00",
     "Major Releases": "2026-11-08T13:01:22.352600+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
     "Nintendo": "2026-09-09T21:29:41.864902+06:00",
     "Expansions and DLC": "2026-11-05T03:59:55.368984+06:00",
     "Gaming Hardware": "2026-11-07T19:53:42.221174+06:00",
-    "Cybersecurity": "2026-11-04T13:23:26.315950+06:00",
+    "Cybersecurity": "2026-11-08T20:13:14.639313+06:00",
     "Pricing and Monetization": "2026-10-22T17:23:26.069489+06:00",
     "Anti-Cheat": "2026-10-21T02:06:25.030099+06:00",
     "Cancellations": "2026-10-28T00:01:30.660228+06:00",
