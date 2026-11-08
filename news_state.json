@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"2b9ae-AtwtAiA6t7JFOj+7BBhlAxVpuZI\"",
+      "etag": "W/\"2ce0a-hP9PMNqcbRSMPLo6jyLX+Hun5Ww\"",
       "last_modified": null,
-      "last_checked": "2026-11-08T00:28:29.820995+06:00",
+      "last_checked": "2026-11-08T12:56:02.744661+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-08T00:28:30.143653+06:00",
+      "last_checked": "2026-11-08T12:56:02.940753+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6aef6d1f-9ae\"",
-      "last_modified": "Sat, 07 Nov 2026 18:25:35 GMT",
-      "last_checked": "2026-11-08T00:28:30.603553+06:00",
+      "etag": "\"6af01ce5-914\"",
+      "last_modified": "Sun, 08 Nov 2026 06:55:33 GMT",
+      "last_checked": "2026-11-08T12:56:03.277826+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Sat, 07 Nov 2026 16:55:30 GMT",
-      "last_checked": "2026-11-08T00:28:30.818269+06:00",
+      "last_modified": "Sat, 07 Nov 2026 20:06:10 GMT",
+      "last_checked": "2026-11-08T12:56:03.469984+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "\"5dffa74660b13e815236aa37a99c182f\"",
+      "etag": "\"6aef431f-12f1\"",
       "last_modified": "Sat, 07 Nov 2026 15:26:23 GMT",
-      "last_checked": "2026-11-08T00:28:31.274758+06:00",
+      "last_checked": "2026-11-08T12:56:03.721803+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-08T00:28:31.494010+06:00",
+      "last_checked": "2026-11-08T12:56:03.926674+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-08T00:28:32.128503+06:00",
+      "last_checked": "2026-11-08T12:56:04.442175+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"80ae17146c82880bc420c291ed9f083e\"",
-      "last_modified": "Sat, 07 Nov 2026 17:00:29 GMT",
-      "last_checked": "2026-11-08T00:28:32.293828+06:00",
+      "etag": "W/\"2559cbb2291e2eac3e3c5f5eeb50ce1d\"",
+      "last_modified": "Sat, 07 Nov 2026 22:16:40 GMT",
+      "last_checked": "2026-11-08T12:56:04.682294+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-08T00:28:32.489907+06:00",
+      "last_checked": "2026-11-08T12:56:04.844401+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Sat, 7 Nov 2026 18:08:09 GMT",
-      "last_checked": "2026-11-08T00:28:32.947663+06:00",
+      "last_modified": "Sat, 7 Nov 2026 23:19:51 GMT",
+      "last_checked": "2026-11-08T12:56:05.205021+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sat, 07 Nov 2026 18:28:33 GMT",
-      "last_checked": "2026-11-08T00:28:33.589385+06:00",
+      "last_modified": "Sun, 08 Nov 2026 06:56:05 GMT",
+      "last_checked": "2026-11-08T12:56:05.686317+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"208376ecfc059d5b3153ef0914865a50\"",
-      "last_modified": "Sat, 07 Nov 2026 17:17:57 GMT",
-      "last_checked": "2026-11-08T00:28:33.811609+06:00",
+      "etag": "W/\"2fd5d77130820543f8bff16c91423c49\"",
+      "last_modified": "Sun, 08 Nov 2026 05:50:44 GMT",
+      "last_checked": "2026-11-08T12:56:05.816185+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-08T00:28:34.337249+06:00",
+      "last_checked": "2026-11-08T12:56:06.145008+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-08T00:28:34.633779+06:00",
+      "last_checked": "2026-11-08T12:56:06.547051+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-08T00:28:35.160531+06:00",
+      "last_checked": "2026-11-08T12:56:06.959195+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-08T00:28:35.397092+06:00",
-      "fail_count": 155,
+      "last_checked": "2026-11-08T12:56:07.168384+06:00",
+      "fail_count": 156,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"ceb6373fba75b392281bd47c0f3797d8\"",
-      "last_modified": "Fri, 06 Nov 2026 04:17:04 GMT",
-      "last_checked": "2026-11-08T00:28:35.548070+06:00",
+      "etag": "W/\"5d30c0b27290fd38da6678d0d1100e8f\"",
+      "last_modified": "Wed, 21 Oct 2026 19:51:53 GMT",
+      "last_checked": "2026-11-08T12:56:07.282521+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-08T00:28:35.775077+06:00",
+      "last_checked": "2026-11-08T12:56:07.464570+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-08T00:28:35.992831+06:00",
-      "fail_count": 155,
+      "last_checked": "2026-11-08T12:56:07.603032+06:00",
+      "fail_count": 156,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"a40cba2f2163d89476d10be041d16d63\"",
-      "last_modified": "Sat, 07 Nov 2026 08:38:19 GMT",
-      "last_checked": "2026-11-08T00:28:36.222011+06:00",
+      "etag": "W/\"7b2701b3d7a6e7257a8c3a8d2fb66e1b\"",
+      "last_modified": "Sun, 08 Nov 2026 06:13:13 GMT",
+      "last_checked": "2026-11-08T12:56:07.767451+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -171,102 +171,6 @@
       "first_seen": "2026-11-03T13:34:54.662454+06:00",
       "last_seen": "2026-11-06T13:40:06.574578+06:00"
     },
-    "ign.com/articles/what-ps5-and-xbox-consoles-are-in-stock-ahead-of-gta-6-and-black-friday": {
-      "title": "What PS5 and Xbox Consoles Are in Stock Ahead of GTA 6 and Black Friday?",
-      "url": "https://www.ign.com/articles/what-ps5-and-xbox-consoles-are-in-stock-ahead-of-gta-6-and-black-friday",
-      "canonical": "ign.com/articles/what-ps5-and-xbox-consoles-are-in-stock-ahead-of-gta-6-and-black-friday",
-      "published_dt": "2026-11-04T02:59:17+06:00",
-      "published_date": "2026-11-04T02:59:17+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "Sony and Microsoft are warning about console shortages ahead of GTA 6 and Black Friday. Which consoles are available (or not) right now?",
-      "image": "https://assets-prd.ignimgs.com/2026/11/03/untitled-design-1793738170553.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.420352+06:00",
-      "last_seen": "2026-11-04T03:30:18.420359+06:00"
-    },
-    "ign.com/articles/netflix-calls-its-new-ai-discover-feature-a-test-kitchen-to-tailor-viewers-recommendations": {
-      "title": "Netflix Calls Its New AI Discover Feature a 'Test Kitchen' to Tailor Viewers' Recommendations",
-      "url": "https://www.ign.com/articles/netflix-calls-its-new-ai-discover-feature-a-test-kitchen-to-tailor-viewers-recommendations",
-      "canonical": "ign.com/articles/netflix-calls-its-new-ai-discover-feature-a-test-kitchen-to-tailor-viewers-recommendations",
-      "published_dt": "2026-11-04T02:52:30+06:00",
-      "published_date": "2026-11-04T02:52:30+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "Netflix is rolling out a new AI-powered feature with the aim of helping viewers pick what to watch when they can’t decide.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/03/netflix-ai-discover-1793738969309.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.420512+06:00",
-      "last_seen": "2026-11-04T03:30:18.420515+06:00"
-    },
-    "ign.com/articles/police-mock-car-chase-criminal-for-being-arrested-during-gta-6-release": {
-      "title": "Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release",
-      "url": "https://www.ign.com/articles/police-mock-car-chase-criminal-for-being-arrested-during-gta-6-release",
-      "canonical": "ign.com/articles/police-mock-car-chase-criminal-for-being-arrested-during-gta-6-release",
-      "published_dt": "2026-11-04T01:56:45+06:00",
-      "published_date": "2026-11-04T01:56:45+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "Police in Derbyshire, UK, are going viral after making a TikTok video mocking a criminal who led them on a high-speed car chase, saying the suspect will now miss out on GTA 6’s highly-anticipated launch as a consequence of their actions.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/27/exclusivelookbr-gtfm-1787873244868.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.420635+06:00",
-      "last_seen": "2026-11-04T03:30:18.420637+06:00"
-    },
-    "ign.com/articles/best-deals-for-november-3-2026": {
-      "title": "Today’s Top Deals: $8 Switch 2 Final Fantasy VII Games, Meta Quest 3, and Pokémon TCG Delta Reign",
-      "url": "https://www.ign.com/articles/best-deals-for-november-3-2026",
-      "canonical": "ign.com/articles/best-deals-for-november-3-2026",
-      "published_dt": "2026-11-04T01:40:00+06:00",
-      "published_date": "2026-11-04T01:40:00+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "And check out discounts on Nintendo, LEGO Harry Potter, and more.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/03/untitled-design-21-1793728762141.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.420763+06:00",
-      "last_seen": "2026-11-04T03:30:18.420766+06:00"
-    },
-    "ign.com/articles/final-fantasy-switch-2-video-game-deals-november-2026": {
-      "title": "Get Final Fantasy VII Remake and Rebirth Switch 2 Editions for Less Than $7 Each With This One Easy Step",
-      "url": "https://www.ign.com/articles/final-fantasy-switch-2-video-game-deals-november-2026",
-      "canonical": "ign.com/articles/final-fantasy-switch-2-video-game-deals-november-2026",
-      "published_dt": "2026-11-04T01:30:00+06:00",
-      "published_date": "2026-11-04T01:30:00+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "Get all caught up before Final Fantasy VII Revelation releases early next year.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/03/ffswitch-1793732870371.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.420875+06:00",
-      "last_seen": "2026-11-04T03:30:18.420878+06:00"
-    },
-    "ign.com/articles/xbox-made-an-alligator-shaped-series-x-and-you-can-win-it-before-gta-6-launches": {
-      "title": "Xbox Made an Alligator-Shaped Series X, and You Can Win It Before GTA 6 Launches",
-      "url": "https://www.ign.com/articles/xbox-made-an-alligator-shaped-series-x-and-you-can-win-it-before-gta-6-launches",
-      "canonical": "ign.com/articles/xbox-made-an-alligator-shaped-series-x-and-you-can-win-it-before-gta-6-launches",
-      "published_dt": "2026-11-04T01:20:47+06:00",
-      "published_date": "2026-11-04T01:20:47+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "GTA 6 is mere weeks away from launch, and to celebrate, Xbox is bringing the wildlife of Leonida to players’ living rooms with a one-of-a-kind console.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/03/xbox-series-x-bite-alligator-console-sweepstakes-1793733499952.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.420982+06:00",
-      "last_seen": "2026-11-04T03:30:18.420985+06:00"
-    },
     "ign.com/articles/scuf-omega-wireless-tmr-playstation-5-controller-is-on-sale-ahead-of-black-friday": {
       "title": "Save 10% Off the SCUF Omega Wireless TMR PlayStation 5 Controller Ahead of Black Friday",
       "url": "https://www.ign.com/articles/scuf-omega-wireless-tmr-playstation-5-controller-is-on-sale-ahead-of-black-friday",
@@ -282,792 +186,6 @@
       "status": "pending",
       "first_seen": "2026-11-04T03:30:18.421083+06:00",
       "last_seen": "2026-11-05T03:46:31.769622+06:00"
-    },
-    "ign.com/articles/novembers-humble-choice-is-live-and-its-full-of-bangers": {
-      "title": "November’s Humble Choice Is Live, and It’s Full of Bangers",
-      "url": "https://www.ign.com/articles/novembers-humble-choice-is-live-and-its-full-of-bangers",
-      "canonical": "ign.com/articles/novembers-humble-choice-is-live-and-its-full-of-bangers",
-      "published_dt": "2026-11-04T01:02:02+06:00",
-      "published_date": "2026-11-04T01:02:02+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "November’s Humble Choice is live, and it’s full of bangers, including Mafia: The Old Country, The Outer Worlds 2, Shinobi: Art of Vengeance, and more.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/03/humble2-1793731353047.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.421186+06:00",
-      "last_seen": "2026-11-04T03:30:18.421188+06:00"
-    },
-    "ign.com/articles/judi-dench-daniel-craig-skyfall-m-death": {
-      "title": "Judi Dench Reveals Daniel Craig Pushed to Kill Off M in Skyfall",
-      "url": "https://www.ign.com/articles/judi-dench-daniel-craig-skyfall-m-death",
-      "canonical": "ign.com/articles/judi-dench-daniel-craig-skyfall-m-death",
-      "published_dt": "2026-11-04T01:00:48+06:00",
-      "published_date": "2026-11-04T01:00:48+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "Dame Judi Dench, who portrayed 007’s boss M in eight James Bond films over 20 years, claims (somewhat tongue-in-cheek) that Daniel Craig was responsible for having her character die in 2012’s Skyfall.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/03/skyfall-craig-dench-1280a-1793732387727.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.421286+06:00",
-      "last_seen": "2026-11-04T03:30:18.421288+06:00"
-    },
-    "ign.com/articles/mason-thames-cast-as-robin-in-dcs-dynamic-duo-movie-dc-studios-boss-says-actor-is-obsessed-with-the-role": {
-      "title": "Mason Thames Cast as Robin in DC's Dynamic Duo Movie, DC Studios Boss Says Actor Is 'Obsessed' With the Role",
-      "url": "https://www.ign.com/articles/mason-thames-cast-as-robin-in-dcs-dynamic-duo-movie-dc-studios-boss-says-actor-is-obsessed-with-the-role",
-      "canonical": "ign.com/articles/mason-thames-cast-as-robin-in-dcs-dynamic-duo-movie-dc-studios-boss-says-actor-is-obsessed-with-the-role",
-      "published_dt": "2026-11-04T00:53:17+06:00",
-      "published_date": "2026-11-04T00:53:17+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "How to Train Your Dragon star Mason Thames has been cast as Dick Grayson/Robin in DC's upcoming Dynamic Duo movie.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/03/mason-thames-1793731646927.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.421387+06:00",
-      "last_seen": "2026-11-04T03:30:18.421390+06:00"
-    },
-    "gamespot.com/articles/pokemon-go-november-2026-events-raids-spotlight-hours-community-day-and-more": {
-      "title": "Pokemon Go November 2026 Events: Raids, Spotlight Hours, Community Day, And More",
-      "url": "https://www.gamespot.com/articles/pokemon-go-november-2026-events-raids-spotlight-hours-community-day-and-more/",
-      "canonical": "gamespot.com/articles/pokemon-go-november-2026-events-raids-spotlight-hours-community-day-and-more",
-      "published_dt": "2026-11-04T02:28:02+06:00",
-      "published_date": "2026-11-04T02:28:02+06:00",
-      "source": "GameSpot",
-      "region": "Gaming",
-      "excerpt": "It's the final month of Pokemon Go 's Twilight Trails season, and the game is closing things out in a big way. New and returning Dynamax Pokemon will appear in various events over the next few weeks, including Gigantamax Duraludon, which is set to debut during this month's global Go Wild Area. A new selection of legendary and Mega Pokemon are returning to Raids as well in November. You can also expect to encounter new Spotlight Pokemon this month, and Eternamax Eternatus will make another rare appearance during the Dynamax Trails event. You can read more about this month's biggest Pokemon Go events below. In This Article November Raid Schedule Five-Star Raids Mega Raids Max Battles Shadow Raids November Spotlight Hours Halloween Part II Into The Wild Featured Pokemon Bonuses Go Wild Area 2026: Global Dynamax Trails Featured Pokemon Bonuses Eternatus Returns Bonuses Pawniard Community Day Bonuses Twilight Wishes Super Mega Raid Day November Raid Schedule New bosses are swooping into Raids and Max Battles this month. The Sinnoh legendaries Giratina, Cresselia, and Darkrai will return to five-star Raids during the first half of the month, after which they'll be replaced by all four forms of Deoxys. Mega Raids, meanwhile, will rotate through Mega Sableye, Mega Banette, and Mega Metagross, and Shadow Incarnate Forme Tornadus will periodically appear as a Shadow Raid boss. You can see November's full Raid schedule below: Five-Star Raids Origin Forme Giratina (October 28-November 3) Altered Forme Giratina (November 4-8) Cresselia (November 16-24) Darkrai (November 16-24) Normal Forme Deoxys (November 25-December 1) Attack Forme Deoxys (November 25-December 1) Defense Forme Deoxys (November 25-December 1) Speed Forme Deoxys (November 25-December 1) Mega Raids Mega Sableye (October 28-November 8) Mega Banette (November 16-24) Mega Metagross (November 25-December 1) Max Battles Dynamax Sableye (October 26-November 1) Dynamax Machop (November 2-8) TBA (November 16-23) Dynamax ",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/PoGo-Wild-Area-2026.png?w=300",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.646439+06:00",
-      "last_seen": "2026-11-04T03:30:18.646455+06:00"
-    },
-    "gamespot.com/articles/wow-forever-shamans-are-protesting-class-changes-after-being-completely-ignored": {
-      "title": "WoW: Forever Shamans Are Protesting Class Changes After Being “Completely Ignored”",
-      "url": "https://www.gamespot.com/articles/wow-forever-shamans-are-protesting-class-changes-after-being-completely-ignored/",
-      "canonical": "gamespot.com/articles/wow-forever-shamans-are-protesting-class-changes-after-being-completely-ignored",
-      "published_dt": "2026-11-04T01:54:31+06:00",
-      "published_date": "2026-11-04T01:54:31+06:00",
-      "source": "GameSpot",
-      "region": "Gaming",
-      "excerpt": "World of Warcraft: Forever just received a massive batch of class-balance updates ahead of launch that have boosted power across the board, but one group of players isn't happy with the changes: Shamans. Developer Blizzard recently released Forever's launch patch notes based on feedback and data accumulated during the beta, resulting in a power spike for all classes and major reworks for classes like Paladin and Rogue. Shamans, too, received some significant changes, most notably the removal of a key Elemental specialization ability, Lava Burst, along with any interactions other abilities had with it. It's that change, and other changes to specialization-specific abilities like Restoration's Riptide and Enhancement's Maelstrom Weapon, that have resulted in the WoW Classic Shaman Discord going into lockdown in protest. The entire server, which has around 80,000 members, has been made read-only, with a message declaring the reason for why it took what it described as such a \"drastic measure.\" \"Community feedback gets completely ignored and class fantasies are getting destroyed,\" the server declared. \"With this we intend to give them [Blizzard] a sign and show them that the community is not [happy] with how they approached our beloved class. Give us back our class and spec identities and fantasies.\" https://www.reddit.com/r/classicwow/comments/1xmovqz/classic_shaman_discord_server_just_went_full_ret/ While the protest is in regards to class changes in Forever specifically, the server is also home to Shaman discussions as they relate to other \"classic\" versions of the game as well, including WoW Classic and Mists of Pandaria Classic. As of writing, all of those channels are also locked and set to read-only. In a follow-up post, the server went into more detail about its complaints in regards to how Blizzard has approached Forever's Shaman design. It stated its complaints aren't about \"damage output.\" It also made clear the server will re-open \"regardless of the outcome,",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-Shaman-Protest.jpg?w=300",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.647308+06:00",
-      "last_seen": "2026-11-04T03:30:18.647313+06:00"
-    },
-    "gamespot.com/articles/the-curse-of-star-wars-battlefront-3": {
-      "title": "The Curse Of Star Wars Battlefront 3",
-      "url": "https://www.gamespot.com/articles/the-curse-of-star-wars-battlefront-3/",
-      "canonical": "gamespot.com/articles/the-curse-of-star-wars-battlefront-3",
-      "published_dt": "2026-11-04T01:34:27+06:00",
-      "published_date": "2026-11-04T01:34:27+06:00",
-      "source": "GameSpot",
-      "region": "Gaming",
-      "excerpt": "I think Star Wars Battlefront 3 might be cursed. For the past 20 years, several different game studios have attempted to create a third entry in Star Wars’ premier shooter sub-series, yet have failed over and over again. We learned last week that EA is reportedly developing Battlefront 3 , but also that the project came at the cost of shutting down BioWare . Battlefront 3 has always seemed like a no-brainer to make; 2005’s Star Wars: Battlefront 2 is widely beloved, and more personally, my favorite game of all time. Yet, the video game industry has never been able to actually launch a third installment in the popular series despite multiple attempts. After Pandemic Studios released Battlefront 2 in 2005, it would’ve made sense for the studio to roll right into making a third game, but that didn’t happen. In a 2025 interview with VideoGamer , game designer Dan Nanni revealed that Pandemic started work on a follow-up, but negotiations fell through as the console generation shifted and Pandemic couldn’t meet LucasArts' one-year deadline, reflecting the additional challenges of developing a big-budget licensed game. This wouldn’t be the last time a set-in-stone deadline would get a Battlefront game canceled. In lieu of making a new game with Pandemic Studios, LucasArts pursued a partnership with TimeSplitters developer Free Radical Design. This relationship led to what has become the best-known (and most infamous) prototype of Star Wars Battlefront 3. Leaked footage shows how this take on Battlefront 3 would’ve been a very ambitious, large-scale shooter, wherein players could fight on a planet’s surface, then get in a ship, take off, and fight in space. Plenty of footage from this take on Battlefront 3 has leaked over the years, so we have a somewhat good idea of what could’ve been. Some developers have even claimed the game was between 75% and 95% finished and that LucasArts was at one point interested in greenlighting a sequel, but Free Radical’s Battlefront 3 was nev",
-      "image": "https://www.gamespot.com/wp-content/uploads/original/1579/15792183/3315472-star-wars-battlefront2-review-thumb-nologo.jpg?w=300",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.648567+06:00",
-      "last_seen": "2026-11-04T03:30:18.648572+06:00"
-    },
-    "gamespot.com/articles/wow-forever-wont-get-more-class-balance-changes-any-time-soon": {
-      "title": "WoW: Forever Won’t Get More Class Balance Changes Any Time Soon",
-      "url": "https://www.gamespot.com/articles/wow-forever-wont-get-more-class-balance-changes-any-time-soon/",
-      "canonical": "gamespot.com/articles/wow-forever-wont-get-more-class-balance-changes-any-time-soon",
-      "published_dt": "2026-11-04T01:31:30+06:00",
-      "published_date": "2026-11-04T01:31:30+06:00",
-      "source": "GameSpot",
-      "region": "Gaming",
-      "excerpt": "World of Warcraft: Forever is gearing up for launch with some major class balance changes , but don't expect any more for at least a month. As detailed in Forever's launch patch notes , Blizzard is making some dramatic class changes, including major reworks to Rogue and Paladin talents, in time for release that will result in a big spike in player power. Blizzard said it has used all the data from the game's month-long beta to \"get everything tuned to a reasonable place.\" However, don't expect additional changes in the near future. Blizzard said it won't be making significant balance changes until sometime next month. \"With the exception of bugs and serious outliers, we don't plan on making big tuning changes between now and the opening of the raids next month,\" Blizzard wrote in its patch notes. \"Once we have sufficient data from players leveling past 30 and engaging in a wide range of content, we expect that we will do a large tuning pass based on our data.\" https://www.youtube.com/watch?v=n2Wg46fwmb0&t Forever's three launch raids will open December 9, meaning there will be a little over a month without class changes. But launch and its subsequent months will just be the beginning, Blizzard said. \"This is all merely a starting point for the classes in Forever, which will continue over the course of the months and years ahead just as they did following the original launch in 2004,\" Blizzard said. Blizzard is in it for the long haul with Forever, telling GameSpot in an interview it hopes the game will continue to receive updates for the next 10-20 years (or potentially forever). It recently announced its plans to release major Forever content updates every four months , as well as teased how its controller support will eventually lead to players being able to play the MMORPG on \"whatever you want.\" WoW: Forever launches November 4, but you can make your character now . In other Forever news, Blizzards revealed it will be making major improvements to the game's divi",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-No-Balance-Changes-For-A-Month.jpg?w=300",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.649484+06:00",
-      "last_seen": "2026-11-04T03:30:18.649489+06:00"
-    },
-    "gamespot.com/articles/gta-6-is-getting-a-physical-map-heres-how-to-get-one-for-free-or-very-cheap": {
-      "title": "GTA 6 Is Getting A Physical Map–Here’s How To Get One For Free Or Very Cheap",
-      "url": "https://www.gamespot.com/articles/gta-6-is-getting-a-physical-map-heres-how-to-get-one-for-free-or-very-cheap/",
-      "canonical": "gamespot.com/articles/gta-6-is-getting-a-physical-map-heres-how-to-get-one-for-free-or-very-cheap",
-      "published_dt": "2026-11-04T01:28:46+06:00",
-      "published_date": "2026-11-04T01:28:46+06:00",
-      "source": "GameSpot",
-      "region": "Gaming",
-      "excerpt": "Rockstar Games has confirmed more details about Grand Theft Auto 6 's impending release on November 19, including more information about physical goodies. While the game itself won't be available on a disc, Rockstar is offering a printable physical GTA 6 cover art poster and a map of the game's setting, Leonida. The poster and Leonida map will be available for free as digital downloads on GTA 6's official website on November 19. A double-sized physical version of the poster will be available \"shortly after launch\" from the Rockstar Store for 99 cents. Alternatively, it's free with any purchase from the Rockstar Store . https://www.youtube.com/watch?v=wmKu9Uow-os Back in the day, Rockstar used to include fold-out posters in the box for GTA games featuring the game's cover art and map. But GTA 6 is a digital-only game. Players can buy a physical GTA 6 box at retail stores, but it won't include a disc, only a code for a digital download. Rockstar hasn't said if it will include anything extra in the box. Some retailers are apparently trying to sweeten the deal to encourage people to buy from them. It was recently reported that Walmart orders of GTA 6 will include some kind of \"surprise.\" When the Switch 2 released, some Walmart orders for the console included \"game-ready\" snacks like soda and chips . In other news, Rockstar just recently announced when GTA 6 preloading begins and when the game unlocks--players in the US will be among the last people in the world to get in.",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Leonida_Keys_05_76fdf9.jpg?w=300",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.650060+06:00",
-      "last_seen": "2026-11-04T03:30:18.650065+06:00"
-    },
-    "gamespot.com/articles/wow-forever-is-giving-players-a-big-damage-boost-for-launch": {
-      "title": "WoW: Forever Is Giving Players A Big Damage Boost For Launch",
-      "url": "https://www.gamespot.com/articles/wow-forever-is-giving-players-a-big-damage-boost-for-launch/",
-      "canonical": "gamespot.com/articles/wow-forever-is-giving-players-a-big-damage-boost-for-launch",
-      "published_dt": "2026-11-04T01:19:40+06:00",
-      "published_date": "2026-11-04T01:19:40+06:00",
-      "source": "GameSpot",
-      "region": "Gaming",
-      "excerpt": "World of Warcraft: Forever is changing in some major ways for launch, with Blizzard revealing classes across the board will deal more damage as it pursues design solutions that better fit in with Forever's combat. In a lengthy developer note attached to Forever's launch patch notes , Blizzard outlined its philosophy for its latest version of WoW. It said during the game's nearly month-long beta that it was trying to keep player power in check. That meant every time it gave a class new tools and abilities, it had to tone down others to compensate. Blizzard now thinks that was the wrong approach. \"Those reductions left some iconic abilities feeling lackluster, and closed the door to other potentially exciting design options,\" Blizzard said. \"So over the last two weeks, we've raised damage on classes across the game, and have increased the health of higher-level creatures to compensate.\" https://www.youtube.com/watch?v=n2Wg46fwmb0 In addition to classes simply doing more damage, classes themselves are changing in major ways. Elemental Shamans, for example, have had Lava Burst, a key part of their class during the beta, removed entirely. It's an example of what Blizzard said was the developer hastily \"turning to Burning Crusade or Wrath-era solutions\" rather than creating new ideas for how classes should play in Forever compared to previous versions of WoW. \"Our aim in class design is not perfect numerical equality, but rather for every class to feel valuable to groups they join, with powerful, unforgettable moments brought on by mastering them,\" Blizzard said. \"In Forever this is accomplished by doubling down on the strengths and differences that make each class unique, rather than overly unifying them.\" Alongside Shaman, a number of other classes have received significant changes going into launch, particularly Paladin and Rogue, with much of their talent trees almost completely reworked. Every class has received some balance changes. Though the patch notes are largel",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-Class-Damage-Boost.jpg?w=300",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.666189+06:00",
-      "last_seen": "2026-11-04T03:30:18.666203+06:00"
-    },
-    "videogameschronicle.com/news/ubisoft-has-reportedly-offered-to-buy-arkane-lyon-from-xbox": {
-      "title": "Ubisoft has reportedly offered to buy Arkane Lyon from Xbox",
-      "url": "https://www.videogameschronicle.com/news/ubisoft-has-reportedly-offered-to-buy-arkane-lyon-from-xbox/",
-      "canonical": "videogameschronicle.com/news/ubisoft-has-reportedly-offered-to-buy-arkane-lyon-from-xbox",
-      "published_dt": "2026-11-04T03:15:26+06:00",
-      "published_date": "2026-11-04T03:15:26+06:00",
-      "source": "VGC",
-      "region": "Gaming",
-      "excerpt": "A new report suggests that Arkane Lyon could go indie, or be bought by Ubisoft",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-11-04T03:30:18.850594+06:00",
-      "last_seen": "2026-11-04T03:30:18.850600+06:00",
-      "posted_at": "2026-11-04T03:37:28.153697+06:00"
-    },
-    "videogameschronicle.com/news/expanding-horizons-how-wuthering-waves-won-over-a-global-audience-through-sustained-live-support": {
-      "title": "Expanding Horizons: How Wuthering Waves Won Over a Global Audience Through Sustained Live Support",
-      "url": "https://www.videogameschronicle.com/news/expanding-horizons-how-wuthering-waves-won-over-a-global-audience-through-sustained-live-support/",
-      "canonical": "videogameschronicle.com/news/expanding-horizons-how-wuthering-waves-won-over-a-global-audience-through-sustained-live-support",
-      "published_dt": "2026-11-04T03:05:22+06:00",
-      "published_date": "2026-11-04T03:05:22+06:00",
-      "source": "VGC",
-      "region": "Gaming",
-      "excerpt": "Wuthering Waves is now more than two years old, but somehow, it’s bigger and more …",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.850767+06:00",
-      "last_seen": "2026-11-04T03:30:18.850770+06:00"
-    },
-    "videogameschronicle.com/news/xboxs-first-wave-of-november-game-pass-releases-includes-vampire-crawlers": {
-      "title": "Xbox’s first wave of November Game Pass releases includes Vampire Crawlers",
-      "url": "https://www.videogameschronicle.com/news/xboxs-first-wave-of-november-game-pass-releases-includes-vampire-crawlers/",
-      "canonical": "videogameschronicle.com/news/xboxs-first-wave-of-november-game-pass-releases-includes-vampire-crawlers",
-      "published_dt": "2026-11-04T02:51:19+06:00",
-      "published_date": "2026-11-04T02:51:19+06:00",
-      "source": "VGC",
-      "region": "Gaming",
-      "excerpt": "Xbox reveals the additions to Game Pass coming in the first half of November",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.850895+06:00",
-      "last_seen": "2026-11-04T03:30:18.850898+06:00"
-    },
-    "videogameschronicle.com/news/playstations-black-friday-sale-includes-wolverine-astro-bot-and-more": {
-      "title": "PlayStation’s Black Friday sale includes Wolverine, Astro Bot, and more",
-      "url": "https://www.videogameschronicle.com/news/playstations-black-friday-sale-includes-wolverine-astro-bot-and-more/",
-      "canonical": "videogameschronicle.com/news/playstations-black-friday-sale-includes-wolverine-astro-bot-and-more",
-      "published_dt": "2026-11-04T01:53:36+06:00",
-      "published_date": "2026-11-04T01:53:36+06:00",
-      "source": "VGC",
-      "region": "Gaming",
-      "excerpt": "Marvel's Wolverine and The Blood of Dawnwalker are amongst the recent releases included in PlayStation's Black Friday sale",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:18.851019+06:00",
-      "last_seen": "2026-11-04T03:30:18.851022+06:00"
-    },
-    "pcgamer.com/games/fps/crowning-the-greatest-fps-mode-of-all-time-through-1v1-combat-semifinals": {
-      "title": "Crowning the greatest FPS mode of all time through 1v1 combat—SEMIFINALS!",
-      "url": "https://www.pcgamer.com/games/fps/crowning-the-greatest-fps-mode-of-all-time-through-1v1-combat-semifinals/",
-      "canonical": "pcgamer.com/games/fps/crowning-the-greatest-fps-mode-of-all-time-through-1v1-combat-semifinals",
-      "published_dt": "2026-11-04T01:41:04+06:00",
-      "published_date": "2026-11-04T01:41:04+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "Battle royale is dead. Bomb be gone. It only gets harder from here...",
-      "image": "https://cdn.mos.cms.futurecdn.net/YaMpuvXrbCsUQ5NSwnxLG4-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:19.900594+06:00",
-      "last_seen": "2026-11-04T03:30:19.900599+06:00"
-    },
-    "pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-still-a-long-way-off-bethesda-warns-itll-be-some-time-before-were-ready-to-share-more": {
-      "title": "The Elder Scrolls 6 is still a long way off, Bethesda warns: 'It'll be some time before we're ready to share more'",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-still-a-long-way-off-bethesda-warns-itll-be-some-time-before-were-ready-to-share-more/",
-      "canonical": "pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-still-a-long-way-off-bethesda-warns-itll-be-some-time-before-were-ready-to-share-more",
-      "published_dt": "2026-11-04T01:27:07+06:00",
-      "published_date": "2026-11-04T01:27:07+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "The waiting ain't over yet.",
-      "image": "https://cdn.mos.cms.futurecdn.net/Ga5SmnSkfRrmx9ChoFQAxg-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-11-04T03:30:19.900735+06:00",
-      "last_seen": "2026-11-04T03:30:19.900738+06:00",
-      "posted_at": "2026-11-04T03:37:33.644411+06:00"
-    },
-    "pcgamer.com/gaming-industry/bethesdas-first-full-time-qa-tester-got-the-job-by-being-an-extremely-chill-hang": {
-      "title": "Bethesda's first full-time QA tester got the job by being an extremely chill hang",
-      "url": "https://www.pcgamer.com/gaming-industry/bethesdas-first-full-time-qa-tester-got-the-job-by-being-an-extremely-chill-hang/",
-      "canonical": "pcgamer.com/gaming-industry/bethesdas-first-full-time-qa-tester-got-the-job-by-being-an-extremely-chill-hang",
-      "published_dt": "2026-11-04T00:49:23+06:00",
-      "published_date": "2026-11-04T00:49:23+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "It was a simpler time.",
-      "image": "https://cdn.mos.cms.futurecdn.net/ogPk9x6Zvmdyf38Wf5vt9C-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:19.900848+06:00",
-      "last_seen": "2026-11-04T03:30:19.900851+06:00"
-    },
-    "polygon.com/dc-studios-cast-robin-dynamic-duo-movie": {
-      "title": "DC Studios Has Officially Cast Its New Robin",
-      "url": "https://www.polygon.com/dc-studios-cast-robin-dynamic-duo-movie/",
-      "canonical": "polygon.com/dc-studios-cast-robin-dynamic-duo-movie",
-      "published_dt": "2026-11-04T03:13:45+06:00",
-      "published_date": "2026-11-04T03:13:45+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "DC has cast Mason Thames (How to Train Your Dragon) as one of the Robins in its upcoming animated movie Dynamic Duo.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/batman-and-robin.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.138006+06:00",
-      "last_seen": "2026-11-04T03:30:20.138012+06:00"
-    },
-    "polygon.com/wow-world-of-warcraft-forever-beta-review": {
-      "title": "WoW: Forever's Beta Was Pure Magic. No One Knows What Happens Next",
-      "url": "https://www.polygon.com/wow-world-of-warcraft-forever-beta-review/",
-      "canonical": "polygon.com/wow-world-of-warcraft-forever-beta-review",
-      "published_dt": "2026-11-04T03:01:17+06:00",
-      "published_date": "2026-11-04T03:01:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "World of Warcraft: Forever, which launches on Nov. 4, is a brilliant reinvention of the classic MMO by Blizzard",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wow_forever_cinematic_still_8.jpeg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.138140+06:00",
-      "last_seen": "2026-11-04T03:30:20.138143+06:00"
-    },
-    "polygon.com/magic-the-gathering-sword-truth-justice-secret-lair-extra-life-2026": {
-      "title": "Magic: The Gathering Is Reprinting a Powerful $30 Sword With Perfect Pixel Art",
-      "url": "https://www.polygon.com/magic-the-gathering-sword-truth-justice-secret-lair-extra-life-2026/",
-      "canonical": "polygon.com/magic-the-gathering-sword-truth-justice-secret-lair-extra-life-2026",
-      "published_dt": "2026-11-04T02:35:17+06:00",
-      "published_date": "2026-11-04T02:35:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Truth, justice... and polygons?",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/sword-of-truth-and-justice-extra-life-2026-magic.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.138260+06:00",
-      "last_seen": "2026-11-04T03:30:20.138263+06:00"
-    },
-    "polygon.com/tides-of-annihilation-preview-gamescom-2026": {
-      "title": "Phantom Blade Zero Meets God of War Ragnarök in Upcoming Steam Action Game Hit",
-      "url": "https://www.polygon.com/tides-of-annihilation-preview-gamescom-2026/",
-      "canonical": "polygon.com/tides-of-annihilation-preview-gamescom-2026",
-      "published_dt": "2026-11-04T02:30:17+06:00",
-      "published_date": "2026-11-04T02:30:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Tides of Annihilation plays a whole lot like Black Myth: Wukong, Phantom Blade Zero, and other stylish action games out of China's gaming scene.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/tides-annihilation-epic.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.138376+06:00",
-      "last_seen": "2026-11-04T03:30:20.138379+06:00"
-    },
-    "polygon.com/ps5-trade-in-sony-offer-how-much-pro-digital-model-refurbished-used": {
-      "title": "Sony Pushes PS5 Owners To Trade In Consoles Amid Unprecedented Price Hikes",
-      "url": "https://www.polygon.com/ps5-trade-in-sony-offer-how-much-pro-digital-model-refurbished-used/",
-      "canonical": "polygon.com/ps5-trade-in-sony-offer-how-much-pro-digital-model-refurbished-used",
-      "published_dt": "2026-11-04T01:48:27+06:00",
-      "published_date": "2026-11-04T01:48:27+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Sony pursues new trade-in options as prices for PS5 consoles surge, but fans are unsure if it's a good deal",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22015056/jbareham_201022_ply1040_ps5_lead_0002.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.138488+06:00",
-      "last_seen": "2026-11-04T03:30:20.138491+06:00"
-    },
-    "polygon.com/xbox-alligator-console-giveaway-november-2026": {
-      "title": "For GTA 6, Xbox Put an Xbox Series X in an Alligator",
-      "url": "https://www.polygon.com/xbox-alligator-console-giveaway-november-2026/",
-      "canonical": "polygon.com/xbox-alligator-console-giveaway-november-2026",
-      "published_dt": "2026-11-04T01:40:39+06:00",
-      "published_date": "2026-11-04T01:40:39+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Xbox has unveiled the Series X-BITE, a working Xbox Series X swallowed by a custom alligator. Here's how to enter the giveaway.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/xbox_series_details_eye-ad394b64c37d3a09ed93.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.138599+06:00",
-      "last_seen": "2026-11-04T03:30:20.138602+06:00"
-    },
-    "polygon.com/overwatch-mid-season-update-stellar-blade-roadhog-mythic": {
-      "title": "'Overwatch’s New Mythic Skin Shows Blizzard Is Finally Shaking Things Up",
-      "url": "https://www.polygon.com/overwatch-mid-season-update-stellar-blade-roadhog-mythic/",
-      "canonical": "polygon.com/overwatch-mid-season-update-stellar-blade-roadhog-mythic",
-      "published_dt": "2026-11-04T01:05:17+06:00",
-      "published_date": "2026-11-04T01:05:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Overwatch's season 5 mid-season update adds a Stellar Blade collaboration and an event with rewards locked behind a paid pass",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/overwatch-season-5-midseason-update.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.138729+06:00",
-      "last_seen": "2026-11-04T03:30:20.138732+06:00"
-    },
-    "polygon.com/playstation-store-black-friday-2026-ps5-deals-announced": {
-      "title": "Playstation Store Black Friday 2026 Sale Officially Revealed",
-      "url": "https://www.polygon.com/playstation-store-black-friday-2026-ps5-deals-announced/",
-      "canonical": "polygon.com/playstation-store-black-friday-2026-ps5-deals-announced",
-      "published_dt": "2026-11-04T00:35:23+06:00",
-      "published_date": "2026-11-04T00:35:23+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "PlayStation's massive Black Friday sale announces 2026 dates, discounts for Marvel's Wolverine, 007 First Light, and more",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/marvel-s-wolverine-angry-logan.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.138843+06:00",
-      "last_seen": "2026-11-04T03:30:20.138846+06:00"
-    },
-    "polygon.com/the-legend-of-zelda-ocarina-of-time-water-temple-fixed": {
-      "title": "Zelda: Ocarina of Time's Most Hated Dungeon Gets Reworked in Remake",
-      "url": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-water-temple-fixed/",
-      "canonical": "polygon.com/the-legend-of-zelda-ocarina-of-time-water-temple-fixed",
-      "published_dt": "2026-11-04T00:32:18+06:00",
-      "published_date": "2026-11-04T00:32:18+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Nintendo is making changes to an infamous dungeon — the Water Temple — for The Legend of Zelda: Ocarina of Time's remake on Switch 2.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_15.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.138955+06:00",
-      "last_seen": "2026-11-04T03:30:20.138958+06:00"
-    },
-    "polygon.com/overwatch-season-5-mid-season-patch-notes-dmon-illari-doctrine": {
-      "title": "Overwatch Mid-Season 5 Patch Notes Released With Big Tweaks",
-      "url": "https://www.polygon.com/overwatch-season-5-mid-season-patch-notes-dmon-illari-doctrine/",
-      "canonical": "polygon.com/overwatch-season-5-mid-season-patch-notes-dmon-illari-doctrine",
-      "published_dt": "2026-11-04T00:30:18+06:00",
-      "published_date": "2026-11-04T00:30:18+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Overwatch season 5's mid-season patch notes outline nerfs for Doctrine and Jetpack Cat, along with welcome buffs for Illari",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/overwatch-season-5-mid-season-patch-notes.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.139077+06:00",
-      "last_seen": "2026-11-04T03:30:20.139079+06:00"
-    },
-    "kotaku.com/ubisoft-among-those-bidding-on-marvels-blade-studio-arkane-2000752854": {
-      "title": "Ubisoft Among Those Bidding On Marvel’s Blade Studio Arkane",
-      "url": "https://kotaku.com/ubisoft-among-those-bidding-on-marvels-blade-studio-arkane-2000752854",
-      "canonical": "kotaku.com/ubisoft-among-those-bidding-on-marvels-blade-studio-arkane-2000752854",
-      "published_dt": "2026-11-04T03:23:36+06:00",
-      "published_date": "2026-11-04T03:23:36+06:00",
-      "source": "Kotaku",
-      "region": "Gaming",
-      "excerpt": "Xbox is trying to cut the studio loose without closing it",
-      "image": "https://kotaku.com/app/uploads/2026/11/GettyImages-2300557789-e1793740977164-1280x709.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.320709+06:00",
-      "last_seen": "2026-11-04T03:30:20.320715+06:00"
-    },
-    "kotaku.com/xbox-isnt-allowed-to-market-gta-6-so-it-stuck-a-console-inside-of-an-alligator-instead-2000752847": {
-      "title": "Xbox Isn’t Allowed To Market GTA 6 So It Stuck A Console Inside Of An Alligator Instead",
-      "url": "https://kotaku.com/xbox-isnt-allowed-to-market-gta-6-so-it-stuck-a-console-inside-of-an-alligator-instead-2000752847",
-      "canonical": "kotaku.com/xbox-isnt-allowed-to-market-gta-6-so-it-stuck-a-console-inside-of-an-alligator-instead-2000752847",
-      "published_dt": "2026-11-04T03:00:56+06:00",
-      "published_date": "2026-11-04T03:00:56+06:00",
-      "source": "Kotaku",
-      "region": "Gaming",
-      "excerpt": "'Xbox is heading to Florida'",
-      "image": "https://kotaku.com/app/uploads/2026/11/alligator-1280x709.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.320840+06:00",
-      "last_seen": "2026-11-04T03:30:20.320843+06:00"
-    },
-    "kotaku.com/how-to-pitch-stories-to-kotaku-2000752450": {
-      "title": "How To Pitch Stories To Kotaku",
-      "url": "https://kotaku.com/how-to-pitch-stories-to-kotaku-2000752450",
-      "canonical": "kotaku.com/how-to-pitch-stories-to-kotaku-2000752450",
-      "published_dt": "2026-11-04T02:00:00+06:00",
-      "published_date": "2026-11-04T02:00:00+06:00",
-      "source": "Kotaku",
-      "region": "Gaming",
-      "excerpt": "Come write for us",
-      "image": "https://kotaku.com/app/uploads/2026/11/kotaku-pitches.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.320948+06:00",
-      "last_seen": "2026-11-04T03:30:20.320951+06:00"
-    },
-    "kotaku.com/dragon-age-origins-2-inquisition-veilguard-best-moments-1851754817": {
-      "title": "31 Moments That Made The Dragon Age Series Unforgettable",
-      "url": "https://kotaku.com/dragon-age-origins-2-inquisition-veilguard-best-moments-1851754817",
-      "canonical": "kotaku.com/dragon-age-origins-2-inquisition-veilguard-best-moments-1851754817",
-      "published_dt": "2026-11-04T01:50:01+06:00",
-      "published_date": "2026-11-04T01:50:01+06:00",
-      "source": "Kotaku",
-      "region": "Gaming",
-      "excerpt": "From Origins to The Veilguard , here are our favorite quests, characters, and choices in Thedas",
-      "image": "https://kotaku.com/app/uploads/2024/11/6cc971b6c453556a631443bb881f44eb-1280x720.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.321145+06:00",
-      "last_seen": "2026-11-04T03:30:20.321149+06:00"
-    },
-    "kotaku.com/someone-just-figured-out-how-to-recruit-a-previously-unrecruitable-party-member-in-a-nearly-30-year-old-rpg-2000752817": {
-      "title": "Someone Just Figured Out How To Recruit A Previously Unrecruitable Party Member In A Nearly 30-Year-Old RPG",
-      "url": "https://kotaku.com/someone-just-figured-out-how-to-recruit-a-previously-unrecruitable-party-member-in-a-nearly-30-year-old-rpg-2000752817",
-      "canonical": "kotaku.com/someone-just-figured-out-how-to-recruit-a-previously-unrecruitable-party-member-in-a-nearly-30-year-old-rpg-2000752817",
-      "published_dt": "2026-11-04T01:30:17+06:00",
-      "published_date": "2026-11-04T01:30:17+06:00",
-      "source": "Kotaku",
-      "region": "Gaming",
-      "excerpt": "You can get Lilith in Tales of Destiny after all, no cheats required",
-      "image": "https://kotaku.com/app/uploads/2026/11/tales-of-destiny-lilith-1280x720.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.321314+06:00",
-      "last_seen": "2026-11-04T03:30:20.321317+06:00"
-    },
-    "kotaku.com/overwatch-story-season-6-omnic-detective-cinematic-doomfist-vendetta-2000752813": {
-      "title": "What Overwatch Learned About Its Own Story In 2026",
-      "url": "https://kotaku.com/overwatch-story-season-6-omnic-detective-cinematic-doomfist-vendetta-2000752813",
-      "canonical": "kotaku.com/overwatch-story-season-6-omnic-detective-cinematic-doomfist-vendetta-2000752813",
-      "published_dt": "2026-11-04T01:00:29+06:00",
-      "published_date": "2026-11-04T01:00:29+06:00",
-      "source": "Kotaku",
-      "region": "Gaming",
-      "excerpt": "Director Aaron Keller and associate director Alec Dawson talk about the past, present, and future of storytelling in Overwatch",
-      "image": "https://kotaku.com/app/uploads/2026/11/vendetta-1280x720.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.321443+06:00",
-      "last_seen": "2026-11-04T03:30:20.321446+06:00"
-    },
-    "kotaku.com/nintendo-rehired-one-of-the-original-voice-actors-for-the-ocarina-of-time-remake-without-even-realizing-it-2000752765": {
-      "title": "Nintendo Rehired One Of The Original Voice Actors For The Ocarina Of Time Remake Without Even Realizing It",
-      "url": "https://kotaku.com/nintendo-rehired-one-of-the-original-voice-actors-for-the-ocarina-of-time-remake-without-even-realizing-it-2000752765",
-      "canonical": "kotaku.com/nintendo-rehired-one-of-the-original-voice-actors-for-the-ocarina-of-time-remake-without-even-realizing-it-2000752765",
-      "published_dt": "2026-11-04T00:30:36+06:00",
-      "published_date": "2026-11-04T00:30:36+06:00",
-      "source": "Kotaku",
-      "region": "Gaming",
-      "excerpt": "'None of us saw that coming'",
-      "image": "https://kotaku.com/app/uploads/2026/09/ocarina-of-time-navi-1280x720.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.321549+06:00",
-      "last_seen": "2026-11-04T03:30:20.321552+06:00"
-    },
-    "gamesradar.com/games/fps/respectfully-its-californian-bulls-wardogs-ceo-says-devs-earning-usd100k-who-dont-want-to-work-overtime-need-a-reality-check": {
-      "title": "\"It's Californian bulls***\": Wardogs CEO calls out devs who earn $100K but won't work overtime",
-      "url": "https://www.gamesradar.com/games/fps/respectfully-its-californian-bulls-wardogs-ceo-says-devs-earning-usd100k-who-dont-want-to-work-overtime-need-a-reality-check/",
-      "canonical": "gamesradar.com/games/fps/respectfully-its-californian-bulls-wardogs-ceo-says-devs-earning-usd100k-who-dont-want-to-work-overtime-need-a-reality-check",
-      "published_dt": "2026-11-04T03:00:00+06:00",
-      "published_date": "2026-11-04T03:00:00+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "\"When you're on the eve of releasing a game that keeps you all employed, work's more important\"",
-      "image": "https://cdn.mos.cms.futurecdn.net/PvgsEnvfvPoB2JgWqVGBxn-1920-80.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.663399+06:00",
-      "last_seen": "2026-11-04T03:30:20.663405+06:00"
-    },
-    "gamesradar.com/games/jrpg/jrpg-mystery-solved-after-29-years-as-tales-of-destiny-fans-find-a-way-to-recruit-a-hidden-character-in-the-original-ps1-version": {
-      "title": "JRPG mystery solved after 29 years as Tales of Destiny fan finds a way to recruit a hidden character",
-      "url": "https://www.gamesradar.com/games/jrpg/jrpg-mystery-solved-after-29-years-as-tales-of-destiny-fans-find-a-way-to-recruit-a-hidden-character-in-the-original-ps1-version/",
-      "canonical": "gamesradar.com/games/jrpg/jrpg-mystery-solved-after-29-years-as-tales-of-destiny-fans-find-a-way-to-recruit-a-hidden-character-in-the-original-ps1-version",
-      "published_dt": "2026-11-04T02:17:05+06:00",
-      "published_date": "2026-11-04T02:17:05+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "Somehow, Tales of games still hold secrets",
-      "image": "https://cdn.mos.cms.futurecdn.net/F3Hs5ce5Xi2tD8VoGvjT7P-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.663526+06:00",
-      "last_seen": "2026-11-04T03:30:20.663529+06:00"
-    },
-    "gamesradar.com/games/action/naughty-dog-boss-neil-druckmann-came-up-with-uncharted-4s-story-just-weeks-after-taking-over-from-amy-hennig-says-former-technical-artist": {
-      "title": "Naughty Dog's Neil Druckmann wrote Uncharted 4's story just weeks after taking over from Amy Hennig",
-      "url": "https://www.gamesradar.com/games/action/naughty-dog-boss-neil-druckmann-came-up-with-uncharted-4s-story-just-weeks-after-taking-over-from-amy-hennig-says-former-technical-artist/",
-      "canonical": "gamesradar.com/games/action/naughty-dog-boss-neil-druckmann-came-up-with-uncharted-4s-story-just-weeks-after-taking-over-from-amy-hennig-says-former-technical-artist",
-      "published_dt": "2026-11-04T01:22:01+06:00",
-      "published_date": "2026-11-04T01:22:01+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "\"He was put forth with probably what felt like a very arduous task\"",
-      "image": "https://cdn.mos.cms.futurecdn.net/obsuYN7pfVdbUC59rTRaHU-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.663661+06:00",
-      "last_seen": "2026-11-04T03:30:20.663665+06:00"
-    },
-    "rockpapershotgun.com/the-citadel-project-is-a-thief-inspired-dark-fantasy-survival-horror-lite-stealth-em-up-with-some-lovely-shadows-set-in-a-medieval-megastructure": {
-      "title": "The Citadel Project is a Thief-inspired dark fantasy, survival-horror lite stealth-em-up with some lovely shadows set in a medieval megastructure",
-      "url": "https://www.rockpapershotgun.com/the-citadel-project-is-a-thief-inspired-dark-fantasy-survival-horror-lite-stealth-em-up-with-some-lovely-shadows-set-in-a-medieval-megastructure",
-      "canonical": "rockpapershotgun.com/the-citadel-project-is-a-thief-inspired-dark-fantasy-survival-horror-lite-stealth-em-up-with-some-lovely-shadows-set-in-a-medieval-megastructure",
-      "published_dt": "2026-11-04T02:10:03+06:00",
-      "published_date": "2026-11-04T02:10:03+06:00",
-      "source": "Rock Paper Shotgun",
-      "region": "Gaming",
-      "excerpt": "You know, given the whole stealthy element of Thief-like immersive sims, I'm surprised there haven't been more of them with horror elements. There's Gloomwood , sure, but it's not as common as I'd like. That in turn then makes me curious about The Citadel Project, an immersive sim with some survival-horror elements set in a nasty, parasite-infected dark fantasy world, all apparently made by just one person. Read more",
-      "image": "https://assetsio.gnwcdn.com/the-citadel-project.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.977129+06:00",
-      "last_seen": "2026-11-04T03:30:20.977135+06:00"
-    },
-    "rockpapershotgun.com/silica-an-fps-and-rts-hybrid-that-mixes-a-smidge-of-dune-and-helldivers-together-has-left-early-access-and-entered-10": {
-      "title": "Silica, an FPS and RTS hybrid that mixes a smidge of Dune and Helldivers together, has left early access and entered 1.0",
-      "url": "https://www.rockpapershotgun.com/silica-an-fps-and-rts-hybrid-that-mixes-a-smidge-of-dune-and-helldivers-together-has-left-early-access-and-entered-10",
-      "canonical": "rockpapershotgun.com/silica-an-fps-and-rts-hybrid-that-mixes-a-smidge-of-dune-and-helldivers-together-has-left-early-access-and-entered-10",
-      "published_dt": "2026-11-04T01:00:00+06:00",
-      "published_date": "2026-11-04T01:00:00+06:00",
-      "source": "Rock Paper Shotgun",
-      "region": "Gaming",
-      "excerpt": "The concept of fusing an RTS and an FPS always sounds like a fun one, and since 2023 Martin Melichárek has been trying to make a new take on the combination under the watchful eye of DayZ devs Bohemia Interactive through Silica . Today marks the day that Silica leaves early access and enters 1.0, fully fleshing out its hybrid and mish mash of Dune's Arrakis and Helldivers ' Terminids. Read more",
-      "image": "https://assetsio.gnwcdn.com/silica_L5bW7ZL.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:20.977526+06:00",
-      "last_seen": "2026-11-04T03:30:20.977530+06:00"
-    },
-    "gamedeveloper.com/business/half-of-control-resonant-s-players-were-new-to-the-franchise": {
-      "title": "Half of Control Resonant's players were 'new' to the franchise",
-      "url": "https://www.gamedeveloper.com/business/half-of-control-resonant-s-players-were-new-to-the-franchise",
-      "canonical": "gamedeveloper.com/business/half-of-control-resonant-s-players-were-new-to-the-franchise",
-      "published_dt": "2026-11-04T01:56:03+06:00",
-      "published_date": "2026-11-04T01:56:03+06:00",
-      "source": "Game Developer",
-      "region": "Gaming",
-      "excerpt": "Players unfamiliar with Remedy's 'new weird' action series helped drive Control Resonant to over one million units sold in just three weeks.",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt12187ea8048e058c/6aea3bf55b45830168759c60/ss_75b1cde9947eea89eed52cf8f6471683f2e666a9.1920x1080_(1).jpg?width=720&quality=80&disable=upscale",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:22.316355+06:00",
-      "last_seen": "2026-11-04T03:30:22.316361+06:00"
-    },
-    "gamedeveloper.com/business/former-xbox-coo-helen-chiang-takes-umbrage-with-the-characterizations-of-her-departure": {
-      "title": "Former Xbox COO Helen Chiang pushes back on characterizations of her departure",
-      "url": "https://www.gamedeveloper.com/business/former-xbox-coo-helen-chiang-takes-umbrage-with-the-characterizations-of-her-departure",
-      "canonical": "gamedeveloper.com/business/former-xbox-coo-helen-chiang-takes-umbrage-with-the-characterizations-of-her-departure",
-      "published_dt": "2026-11-04T00:31:00+06:00",
-      "published_date": "2026-11-04T00:31:00+06:00",
-      "source": "Game Developer",
-      "region": "Gaming",
-      "excerpt": "As rumors spread about her abrupt departure, Xbox's former COO Helen Chiang fires back, denying much of what has said about why the Microsoft veteran left the company.",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt00433d540a081c2b/650f013b3d415b0f0ce65b65/minecraft.jpg?width=720&quality=80&disable=upscale",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:22.316478+06:00",
-      "last_seen": "2026-11-04T03:30:22.316481+06:00"
-    },
-    "insider-gaming.com/helldivers-2-update-adds-new-noxious-terminids": {
-      "title": "Helldivers 2 Update Adds New Noxious Terminids",
-      "url": "https://insider-gaming.com/helldivers-2-update-adds-new-noxious-terminids/",
-      "canonical": "insider-gaming.com/helldivers-2-update-adds-new-noxious-terminids",
-      "published_dt": "2026-11-04T02:21:49+06:00",
-      "published_date": "2026-11-04T02:21:49+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Helldivers 2 is receiving a new update today that adds Noxious Terminids and more caves. Here are more details. The post Helldivers 2 Update Adds New Noxious Terminids appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:22.450139+06:00",
-      "last_seen": "2026-11-04T03:30:22.450145+06:00"
-    },
-    "insider-gaming.com/15-new-games-coming-to-xbox-game-pass": {
-      "title": "XBOX Game Pass November Wave 1 Titles Revealed",
-      "url": "https://insider-gaming.com/15-new-games-coming-to-xbox-game-pass/",
-      "canonical": "insider-gaming.com/15-new-games-coming-to-xbox-game-pass",
-      "published_dt": "2026-11-04T00:55:16+06:00",
-      "published_date": "2026-11-04T00:55:16+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Football Manager 27, Escape Academy 2: Back 2 School, Thronefall, Warhammer Survivors, and more will be coming to XBOX Game Pass November 2026. The post XBOX Game Pass November Wave 1 Titles Revealed appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:22.450386+06:00",
-      "last_seen": "2026-11-04T03:30:22.450389+06:00"
-    },
-    "insider-gaming.com/wordle-archive-every-past-wordle-answer": {
-      "title": "Wordle Archive: Every Wordle Answer",
-      "url": "https://insider-gaming.com/wordle-archive-every-past-wordle-answer/",
-      "canonical": "insider-gaming.com/wordle-archive-every-past-wordle-answer",
-      "published_dt": "2026-11-04T00:36:36+06:00",
-      "published_date": "2026-11-04T00:36:36+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Explore our Wordle answer archive with every past solution by date. Catch up on missed puzzles and spot patterns to improve your Wordle skills. The post Wordle Archive: Every Wordle Answer appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:22.450608+06:00",
-      "last_seen": "2026-11-04T03:30:22.450611+06:00"
-    },
-    "nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-8-high-spirits": {
-      "title": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #8 - High Spirits",
-      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-8-high-spirits",
-      "canonical": "nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-8-high-spirits",
-      "published_dt": "2026-11-04T01:00:00+06:00",
-      "published_date": "2026-11-04T01:00:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Mirror, mirror... With five Sages under my belt, it was time to head off to the final temple in my Ocarina of Time replay to pick up the last of 'em before the big showdown (not technically the 'last', but you catch my drift). I chose to polish off the Shadow Temple last week, so I was left with no other direction than to head west to the Gerudo Desert and finish the main quest with one of my favourite dungeons in the game. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/e8212f2f983eb/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:22.731890+06:00",
-      "last_seen": "2026-11-04T03:30:22.731897+06:00"
-    },
-    "pushsquare.com/news/2026/11/the-elder-scrolls-6-sentinel-is-still-at-least-two-years-away-as-disappointment-follows-new-trailer": {
-      "title": "The Elder Scrolls 6: Sentinel Is Still 'At Least Two Years Away' as Disappointment Follows New Trailer",
-      "url": "https://www.pushsquare.com/news/2026/11/the-elder-scrolls-6-sentinel-is-still-at-least-two-years-away-as-disappointment-follows-new-trailer",
-      "canonical": "pushsquare.com/news/2026/11/the-elder-scrolls-6-sentinel-is-still-at-least-two-years-away-as-disappointment-follows-new-trailer",
-      "published_dt": "2026-11-04T01:00:00+06:00",
-      "published_date": "2026-11-04T01:00:00+06:00",
-      "source": "Push Square",
-      "region": "Gaming",
-      "excerpt": "The sands of time. If you thought that the re-reveal for The Elder Scrolls 6: Sentinel was signalling some kind of blowout in the relatively near future, then I've got bad news for you. Reiterating that the finished game is still a long way off, the ever-informative Jason Schreier made things clear on social media, posting: \"Sorry to say  is still more than 2 years away!\" Read the full article on pushsquare.com",
-      "image": "https://images.pushsquare.com/643be8075db8e/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:23.138811+06:00",
-      "last_seen": "2026-11-04T03:30:23.138818+06:00"
-    },
-    "purexbox.com/news/2026/11/microsoft-is-giving-away-the-most-insane-xbox-series-x-ever-created": {
-      "title": "Microsoft Is Giving Away The Most Insane Xbox Series X Ever Created",
-      "url": "https://www.purexbox.com/news/2026/11/microsoft-is-giving-away-the-most-insane-xbox-series-x-ever-created",
-      "canonical": "purexbox.com/news/2026/11/microsoft-is-giving-away-the-most-insane-xbox-series-x-ever-created",
-      "published_dt": "2026-11-04T02:15:00+06:00",
-      "published_date": "2026-11-04T02:15:00+06:00",
-      "source": "Pure Xbox",
-      "region": "Gaming",
-      "excerpt": "And there's literally only one of them. We've seen all kinds of Xbox Series X console designs over the past six years, but this one is specifically advertised as Microsoft's \"wildest\" design yet, and they're giving it away to one lucky sweepstakes winner. Here's how it works - it's an Xbox Series X inside of an alligator. A functioning Series X, no less. Read the full article on purexbox.com",
-      "image": "https://images.purexbox.com/2819370ec415b/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:23.592166+06:00",
-      "last_seen": "2026-11-04T03:30:23.592171+06:00"
-    },
-    "siliconera.com/new-mega-man-battle-network-6-figure-is-megaman-exe-gregar-beast": {
-      "title": "New Mega Man Battle Network 6 Figure Is MegaMan.EXE Gregar Beast",
-      "url": "https://www.siliconera.com/new-mega-man-battle-network-6-figure-is-megaman-exe-gregar-beast/",
-      "canonical": "siliconera.com/new-mega-man-battle-network-6-figure-is-megaman-exe-gregar-beast",
-      "published_dt": "2026-11-04T03:00:00+06:00",
-      "published_date": "2026-11-04T03:00:00+06:00",
-      "source": "Siliconera",
-      "region": "Gaming",
-      "excerpt": "The Mega Man Battle Network 6 Luminasta figure of MegaMan.EXE catches him mid-Beast Out and transforming into Gregar Beast.",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:23.926672+06:00",
-      "last_seen": "2026-11-04T03:30:23.926678+06:00"
-    },
-    "siliconera.com/aha-makes-honkai-star-rail-elation-characters-emanators-in-battle": {
-      "title": "Aha Makes Honkai: Star Rail Elation Characters Emanators in Battle",
-      "url": "https://www.siliconera.com/aha-makes-honkai-star-rail-elation-characters-emanators-in-battle/",
-      "canonical": "siliconera.com/aha-makes-honkai-star-rail-elation-characters-emanators-in-battle",
-      "published_dt": "2026-11-04T02:00:00+06:00",
-      "published_date": "2026-11-04T02:00:00+06:00",
-      "source": "Siliconera",
-      "region": "Gaming",
-      "excerpt": "The Aeon Aha can make the seven other Elation characters in Honkai: Star Rail Emanators when in a party with them.",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:23.926795+06:00",
-      "last_seen": "2026-11-04T03:30:23.926798+06:00"
-    },
-    "siliconera.com/tenitol-hatsune-miku-uwa-figure-is-a-cat-with-a-cat-bag": {
-      "title": "Tenitol Hatsune Miku UWA Figure Is a Cat With a Cat Bag",
-      "url": "https://www.siliconera.com/tenitol-hatsune-miku-uwa-figure-is-a-cat-with-a-cat-bag/",
-      "canonical": "siliconera.com/tenitol-hatsune-miku-uwa-figure-is-a-cat-with-a-cat-bag",
-      "published_dt": "2026-11-04T01:00:00+06:00",
-      "published_date": "2026-11-04T01:00:00+06:00",
-      "source": "Siliconera",
-      "region": "Gaming",
-      "excerpt": "FuRyu's Tenitol Hatsune Miku UWA Fluffy Cute Face Bag: Cat figure will show up worldwide next year.",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-04T03:30:23.926903+06:00",
-      "last_seen": "2026-11-04T03:30:23.926905+06:00"
     },
     "ign.com/articles/talix-20000mah-190w-power-bank-deal-november-2026": {
       "title": "The Talix 20,000mAh Power Bank With 190W of Total Power Output Drops to $29.99 Ahead of Black Friday",
@@ -7030,377 +6148,122 @@
       "status": "pending",
       "first_seen": "2026-11-08T00:28:52.522747+06:00",
       "last_seen": "2026-11-08T00:28:52.522748+06:00"
+    },
+    "polygon.com/best-final-fantasy-magic-the-gathering-card-designs": {
+      "title": "10 Perfectly Designed Final Fantasy Magic Cards That Are 10/10, No Notes",
+      "url": "https://www.polygon.com/best-final-fantasy-magic-the-gathering-card-designs/",
+      "canonical": "polygon.com/best-final-fantasy-magic-the-gathering-card-designs",
+      "published_dt": "2026-11-08T11:00:17+06:00",
+      "published_date": "2026-11-08T11:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Discover 10 perfectly designed Final Fantasy Magic: The Gathering cards that nail the crossover's flavor and mechanics.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/buster-sword-mtg-final-fantasy.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T12:56:04.447359+06:00",
+      "last_seen": "2026-11-08T12:56:04.447361+06:00"
+    },
+    "polygon.com/the-legend-of-korra-season-3-best-season": {
+      "title": "Paramount’s 4-Part Action Fantasy Epic Has One of the Best Seasons in TV History",
+      "url": "https://www.polygon.com/the-legend-of-korra-season-3-best-season/",
+      "canonical": "polygon.com/the-legend-of-korra-season-3-best-season",
+      "published_dt": "2026-11-08T10:00:17+06:00",
+      "published_date": "2026-11-08T10:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "In its third season, a beloved animated hero grows up the hard way, living with the fallout of her biggest choice and facing a chilling new villain.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/legend-of-korra-outlook.jpeg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T12:56:04.447456+06:00",
+      "last_seen": "2026-11-08T12:56:04.447457+06:00"
+    },
+    "insider-gaming.com/roblox-roll-fisherman-codes": {
+      "title": "Roll A Fisherman Codes (November 2026)",
+      "url": "https://insider-gaming.com/roblox-roll-fisherman-codes/",
+      "canonical": "insider-gaming.com/roblox-roll-fisherman-codes",
+      "published_dt": "2026-11-08T11:50:42+06:00",
+      "published_date": "2026-11-08T11:50:42+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Use these monthly Roll A Fisherman redeem codes to get your hands on free rewards like Cash, Gold, and Spins. The post Roll A Fisherman Codes (November 2026) appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T12:56:05.822450+06:00",
+      "last_seen": "2026-11-08T12:56:05.822453+06:00"
+    },
+    "insider-gaming.com/roblox-build-kill-zombies-codes": {
+      "title": "Build And Kill Zombies Codes (November 2026)",
+      "url": "https://insider-gaming.com/roblox-build-kill-zombies-codes/",
+      "canonical": "insider-gaming.com/roblox-build-kill-zombies-codes",
+      "published_dt": "2026-11-08T11:36:12+06:00",
+      "published_date": "2026-11-08T11:36:12+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Use these monthly Build and Kill Zombies redeem codes to get free rewards like Cash, Weapons, Vehicle parts, and special event currency. The post Build And Kill Zombies Codes (November 2026) appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T12:56:05.822598+06:00",
+      "last_seen": "2026-11-08T12:56:05.822599+06:00"
+    },
+    "nintendolife.com/news/2026/11/video-zelda-ocarina-of-time-side-by-side-graphics-comparison-switch-2-3ds-n64": {
+      "title": "Video: Zelda: Ocarina Of Time Side-By-Side Graphics Comparison (Switch 2, 3DS, N64)",
+      "url": "https://www.nintendolife.com/news/2026/11/video-zelda-ocarina-of-time-side-by-side-graphics-comparison-switch-2-3ds-n64",
+      "canonical": "nintendolife.com/news/2026/11/video-zelda-ocarina-of-time-side-by-side-graphics-comparison-switch-2-3ds-n64",
+      "published_dt": "2026-11-08T12:00:00+06:00",
+      "published_date": "2026-11-08T12:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Take a look. Zelda: Ocarina of Time returned this week on the Switch 2 and it looks better than ever. If you are wondering just much of a facelift it's had since the 2011 outing, and the original N64 hit, you might want to check out this side-by-side comparison video. YouTube channel ElAnalistDeBits has now released a \"final graphics comparison\" which takes a closer look at the character models, environments, physics, the many locations in the game, and much more. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/a10364492c43f/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-08T12:56:06.158191+06:00",
+      "last_seen": "2026-11-08T12:56:06.158195+06:00"
+    },
+    "escapistmagazine.com/path-of-exile-2-goes-free-to-play-december-11-with-the-shadow-joining-the-duelist-at-1-0": {
+      "title": "Path of Exile 2 goes free-to-play December 11 with the Shadow joining the Duelist at 1.0",
+      "url": "https://www.escapistmagazine.com/path-of-exile-2-goes-free-to-play-december-11-with-the-shadow-joining-the-duelist-at-1-0/",
+      "canonical": "escapistmagazine.com/path-of-exile-2-goes-free-to-play-december-11-with-the-shadow-joining-the-duelist-at-1-0",
+      "published_dt": "2026-11-08T12:13:13+06:00",
+      "published_date": "2026-11-08T12:13:13+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "Grinding Gear Games used ExileCon 2026 to reveal the Shadow as a second launch class for Path of Exile 2's full release. The 1.0 update finishes the campaign, ends Early Access and adds a strategy-style siege league. The post Path of Exile 2 goes free-to-play December 11 with the Shadow joining the Duelist at 1.0 appeared first on The Escapist .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-08T12:56:07.789097+06:00",
+      "last_seen": "2026-11-08T12:56:07.789100+06:00",
+      "posted_at": "2026-11-08T13:01:22.352546+06:00"
+    },
+    "polygon.com/6-years-later-datas-wisest-star-trek-quote-remains-unbeaten": {
+      "title": "6 Years Later, Data’s Wisest Star Trek Quote Remains Unbeaten",
+      "url": "https://www.polygon.com/6-years-later-datas-wisest-star-trek-quote-remains-unbeaten/",
+      "canonical": "polygon.com/6-years-later-datas-wisest-star-trek-quote-remains-unbeaten",
+      "published_dt": "2026-11-08T12:30:17+06:00",
+      "published_date": "2026-11-08T12:30:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "N o n e",
+      "image": "",
+      "discovery": "exa",
+      "source_pool": "primary",
+      "status": "pending",
+      "first_seen": "2026-11-08T12:56:13.819174+06:00",
+      "last_seen": "2026-11-08T12:56:13.819178+06:00"
     }
   },
   "events": {
-    "evt_04472c260272c1": {
-      "event_id": "evt_04472c260272c1",
-      "event_key": "rainbow six siege mobile shutdown announcement",
-      "event_subject": "Rainbow Six Siege Mobile shutdown",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "rainbow six siege mobile shutdown announcement",
-        "subject": "Rainbow Six Siege Mobile shutdown",
-        "event_type": "other",
-        "action": "shut down",
-        "status": "announced",
-        "modality": "unknown",
-        "game": "Rainbow Six Siege Mobile",
-        "franchise": "Rainbow Six",
-        "institution": "Ubisoft",
-        "target": "mobile service",
-        "platforms": [
-          "iOS",
-          "Android"
-        ],
-        "topic": "live‑service lifecycle"
-      },
-      "sources": [
-        "Kotaku",
-        "GameSpot",
-        "Polygon"
-      ],
-      "event_sources": [
-        "Kotaku",
-        "GameSpot",
-        "Polygon"
-      ],
-      "claims": [
-        "Game will close 7 months after full release",
-        "Game will close Jan 16 2027",
-        "Game will close in 2027 after launch in 2026"
-      ],
-      "importance_score": 57,
-      "coverage_score": 10,
-      "originality_score": 10,
-      "significance_score": 18,
-      "freshness_score": 10,
-      "source_trust_score": 9,
-      "headline": "Ubisoft Announces Shutdown of Rainbow Six Mobile After Under One Year",
-      "summary": "Ubisoft will close Rainbow Six Mobile on Jan 16 2027, ending a full‑release run of less than twelve months after its February 2026 launch.",
-      "published_at": "2026-10-09T01:11:11+06:00",
-      "selected_at": "2026-10-08T20:45:56.427239+00:00",
-      "status": "published",
-      "message_id": 631,
-      "published_versions": [
-        {
-          "published_at": "2026-10-08T20:45:56.427239+00:00",
-          "headline": "Ubisoft Announces Shutdown of Rainbow Six Mobile After Under One Year",
-          "claims": [
-            "Game will close 7 months after full release",
-            "Game will close Jan 16 2027",
-            "Game will close in 2027 after launch in 2026"
-          ]
-        }
-      ]
-    },
-    "evt_f0920caaa85c96": {
-      "event_id": "evt_f0920caaa85c96",
-      "event_key": "sony viewer guided streaming patent filing",
-      "event_subject": "Sony streaming patent",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "sony viewer guided streaming patent filing",
-        "subject": "Sony streaming patent",
-        "event_type": "other",
-        "action": "file",
-        "status": "pending",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "",
-        "institution": "Sony",
-        "target": "streamer‑viewer interaction",
-        "platforms": [],
-        "topic": "interactive streaming"
-      },
-      "sources": [
-        "Insider Gaming"
-      ],
-      "event_sources": [
-        "Insider Gaming"
-      ],
-      "claims": [
-        "Patent allows viewers to guide streamers"
-      ],
-      "importance_score": 44,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 10,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Sony Patent Lets Viewers Directly Control Streamers’ Gameplay",
-      "summary": "Sony’s new US‑12752199‑B2 patent proposes a system where viewers can guide streamers with adaptive cursors, emojis and haptic feedback during live gameplay.",
-      "published_at": "2026-10-09T01:42:26+06:00",
-      "selected_at": "2026-10-08T20:46:06.473672+00:00",
-      "status": "published",
-      "message_id": 633,
-      "published_versions": [
-        {
-          "published_at": "2026-10-08T20:46:06.473672+00:00",
-          "headline": "Sony Patent Lets Viewers Directly Control Streamers’ Gameplay",
-          "claims": [
-            "Patent allows viewers to guide streamers"
-          ]
-        }
-      ]
-    },
-    "evt_f020d94a5061a6": {
-      "event_id": "evt_f020d94a5061a6",
-      "event_key": "machinarium 2 sequel announcement",
-      "event_subject": "Machinarium 2 announcement",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "machinarium 2 sequel announcement",
-        "subject": "Machinarium 2 announcement",
-        "event_type": "other",
-        "action": "announce",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Machinarium",
-        "franchise": "Machinarium",
-        "institution": "Amanita Design",
-        "target": "players",
-        "platforms": [],
-        "topic": "indie sequel"
-      },
-      "sources": [
-        "Kotaku"
-      ],
-      "event_sources": [
-        "Kotaku"
-      ],
-      "claims": [
-        "Machinarium 2 will be released"
-      ],
-      "importance_score": 40,
-      "coverage_score": 2,
-      "originality_score": 8,
-      "significance_score": 14,
-      "freshness_score": 10,
-      "source_trust_score": 6,
-      "headline": "Amanita Design Announces Long‑Awaited Machinarium 2 Sequel After 17 Years",
-      "summary": "The beloved point‑and‑click adventure Machinarium returns with Machinarium 2, featuring Josef and Berta exploring new robot tribes on PC.",
-      "published_at": "2026-10-09T00:40:06+06:00",
-      "selected_at": "2026-10-08T20:46:11.967736+00:00",
-      "status": "published",
-      "message_id": 634,
-      "published_versions": [
-        {
-          "published_at": "2026-10-08T20:46:11.967736+00:00",
-          "headline": "Amanita Design Announces Long‑Awaited Machinarium 2 Sequel After 17 Years",
-          "claims": [
-            "Machinarium 2 will be released"
-          ]
-        }
-      ]
-    },
-    "evt_bebd160753de0b": {
-      "event_id": "evt_bebd160753de0b",
-      "event_key": "nintendo switch sports resort trailer release",
-      "event_subject": "Switch Sports Resort trailer",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "nintendo switch sports resort trailer release",
-        "subject": "Switch Sports Resort trailer",
-        "event_type": "other",
-        "action": "showcase",
-        "status": "released",
-        "modality": "unknown",
-        "game": "Nintendo Switch Sports Resort",
-        "franchise": "Switch Sports",
-        "institution": "Nintendo",
-        "target": "Switch platform",
-        "platforms": [
-          "Switch"
-        ],
-        "topic": "marketing"
-      },
-      "sources": [
-        "Siliconera"
-      ],
-      "event_sources": [
-        "Siliconera"
-      ],
-      "claims": [
-        "Trailer highlights 12 activities"
-      ],
-      "importance_score": 38,
-      "coverage_score": 2,
-      "originality_score": 8,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 6,
-      "headline": "Nintendo Switch Sports Resort Trailer Shows All 12 Activities and New Avatar Options",
-      "summary": "The new trailer reveals every sport, motion‑control cues, and the customizable avatars players can use on the upcoming Switch 2 bundle.",
-      "published_at": "2026-10-09T01:00:00+06:00",
-      "selected_at": "2026-10-08T20:46:17.280191+00:00",
-      "status": "published",
-      "message_id": 635,
-      "published_versions": [
-        {
-          "published_at": "2026-10-08T20:46:17.280191+00:00",
-          "headline": "Nintendo Switch Sports Resort Trailer Shows All 12 Activities and New Avatar Options",
-          "claims": [
-            "Trailer highlights 12 activities"
-          ]
-        }
-      ]
-    },
-    "evt_ff040ca790d05c": {
-      "event_id": "evt_ff040ca790d05c",
-      "event_key": "cyberpunk 2077 live action movie announced",
-      "event_subject": "Cyberpunk 2077",
-      "event_type": "announcement",
-      "event_frame": {
-        "event_key": "cyberpunk 2077 live action movie announced",
-        "subject": "Cyberpunk 2077",
-        "event_type": "announcement",
-        "action": "announce",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Cyberpunk 2077",
-        "franchise": "Cyberpunk",
-        "institution": "CD Projekt Red",
-        "target": "moviegoers",
-        "platforms": [],
-        "topic": "film adaptation"
-      },
-      "sources": [
-        "Nintendo Life"
-      ],
-      "event_sources": [
-        "Nintendo Life"
-      ],
-      "claims": [
-        "Live‑action movie in development by Paramount Pictures with Lorenzo di Bonaventura"
-      ],
-      "importance_score": 48,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 18,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Cyberpunk 2077 to Get Live‑Action Film from Paramount Pictures",
-      "summary": "CD Projekt Red confirmed that Paramount Pictures, alongside producer Lorenzo di Bonaventura, is developing a live‑action movie set in the Cyberpunk 2077 universe.",
-      "published_at": "2026-10-09T10:45:00+06:00",
-      "selected_at": "2026-10-09T07:24:42.971807+00:00",
-      "status": "published",
-      "message_id": 636,
-      "published_versions": [
-        {
-          "published_at": "2026-10-09T07:24:42.971807+00:00",
-          "headline": "Cyberpunk 2077 to Get Live‑Action Film from Paramount Pictures",
-          "claims": [
-            "Live‑action movie in development by Paramount Pictures with Lorenzo di Bonaventura"
-          ]
-        }
-      ]
-    },
-    "evt_106c3207ede311": {
-      "event_id": "evt_106c3207ede311",
-      "event_key": "silver pines release",
-      "event_subject": "Silver Pines",
-      "event_type": "release",
-      "event_frame": {
-        "event_key": "silver pines release",
-        "subject": "Silver Pines",
-        "event_type": "release",
-        "action": "feature",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Silver Pines",
-        "franchise": "Silver Pines",
-        "institution": "Independent Studio",
-        "target": "players",
-        "platforms": [
-          "PC",
-          "Console"
-        ],
-        "topic": "game coverage"
-      },
-      "sources": [
-        "IGN"
-      ],
-      "event_sources": [
-        "IGN"
-      ],
-      "claims": [
-        "Silent Hill‑Metroidvania mash‑up"
-      ],
-      "importance_score": 42,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Silver Pines Merges Silent Hill Horror with Metroidvania Mastery",
-      "summary": "Wych Elm Games' debut, Silver Pines, blends survival‑horror tension with 2.5D metroidvania exploration, delivering a methodical, atmospheric experience across multiple platforms.",
-      "published_at": "2026-10-09T12:15:19+06:00",
-      "selected_at": "2026-10-09T07:24:48.315877+00:00",
-      "status": "published",
-      "message_id": 637,
-      "published_versions": [
-        {
-          "published_at": "2026-10-09T07:24:48.315877+00:00",
-          "headline": "Silver Pines Merges Silent Hill Horror with Metroidvania Mastery",
-          "claims": [
-            "Silent Hill‑Metroidvania mash‑up"
-          ]
-        }
-      ]
-    },
-    "evt_31bc402f0b65cf": {
-      "event_id": "evt_31bc402f0b65cf",
-      "event_key": "ghosts streaming free",
-      "event_subject": "Ghosts",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "ghosts streaming free",
-        "subject": "Ghosts",
-        "event_type": "other",
-        "action": "announce",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "Ghosts",
-        "institution": "CBS",
-        "target": "viewers",
-        "platforms": [
-          "Pluto TV"
-        ],
-        "topic": "TV streaming"
-      },
-      "sources": [
-        "Polygon"
-      ],
-      "event_sources": [
-        "Polygon"
-      ],
-      "claims": [
-        "Sitcom now free on streaming platform"
-      ],
-      "importance_score": 35,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 5,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "CBS Sitcom Ghosts Now Free on Pluto TV Ahead of Season 6",
-      "summary": "The U.S. adaptation of the British hit Ghosts has been added to Pluto TV’s free library, giving fans early access before its season 6 debut in 2027.",
-      "published_at": "2026-10-09T10:43:15+06:00",
-      "selected_at": "2026-10-09T07:24:54.010999+00:00",
-      "status": "published",
-      "message_id": 638,
-      "published_versions": [
-        {
-          "published_at": "2026-10-09T07:24:54.010999+00:00",
-          "headline": "CBS Sitcom Ghosts Now Free on Pluto TV Ahead of Season 6",
-          "claims": [
-            "Sitcom now free on streaming platform"
-          ]
-        }
-      ]
-    },
     "evt_78b3c49b846415": {
       "event_id": "evt_78b3c49b846415",
       "event_key": "it s official forza horizon 6 delay",
@@ -23790,6 +22653,58 @@
           "published_at": "2026-11-07T18:44:57.652785+00:00",
           "headline": "Two New Assassin’s Creed Titles Reported, One Set in Ancient Rome",
           "claims": []
+        }
+      ]
+    },
+    "evt_39fac47881ef06": {
+      "event_id": "evt_39fac47881ef06",
+      "event_key": "pathofexile2 full release free to play 2026 12 11",
+      "event_subject": "Path of Exile 2",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "pathofexile2 full release free to play 2026 12 11",
+        "subject": "Path of Exile 2",
+        "event_type": "release",
+        "action": "go_free_to_play",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Path of Exile 2",
+        "franchise": "Path of Exile",
+        "institution": "Grinding Gear Games",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "full release"
+      },
+      "sources": [
+        "The Escapist"
+      ],
+      "event_sources": [
+        "The Escapist"
+      ],
+      "claims": [
+        "the game will become free‑to‑play on Dec 11 2026 and add the Shadow class"
+      ],
+      "importance_score": 58,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 32,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Path of Exile 2 Launches Free‑to‑Play on December 11 with New Shadow Class",
+      "summary": "Grinding Gear Games ends Early Access, delivering the full six‑act campaign, two new classes, and the Conquerors of Wraeclast league.",
+      "published_at": "2026-11-08T12:13:13+06:00",
+      "selected_at": "2026-11-08T07:01:22.352580+00:00",
+      "status": "published",
+      "message_id": 972,
+      "published_versions": [
+        {
+          "published_at": "2026-11-08T07:01:22.352580+00:00",
+          "headline": "Path of Exile 2 Launches Free‑to‑Play on December 11 with New Shadow Class",
+          "claims": [
+            "the game will become free‑to‑play on Dec 11 2026 and add the Shadow class"
+          ]
         }
       ]
     }
@@ -217006,10 +215921,306 @@
         "total": 30
       },
       "last_seen": "2026-11-08T00:37:56.204784+06:00"
+    },
+    "evt_39fac47881ef06": {
+      "event_id": "evt_39fac47881ef06",
+      "event_key": "pathofexile2 full release free to play 2026 12 11",
+      "event_subject": "Path of Exile 2",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "pathofexile2 full release free to play 2026 12 11",
+        "subject": "Path of Exile 2",
+        "event_type": "release",
+        "action": "go_free_to_play",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Path of Exile 2",
+        "franchise": "Path of Exile",
+        "institution": "Grinding Gear Games",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "full release"
+      },
+      "modality": "unknown",
+      "topic": "full release",
+      "institution": "Grinding Gear Games",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "the game will become free‑to‑play on Dec 11 2026 and add the Shadow class"
+      ],
+      "importance_score": 58,
+      "score_breakdown": {
+        "significance": 32,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 58
+      },
+      "last_seen": "2026-11-08T12:59:19.617693+06:00"
+    },
+    "evt_ce89f008c9ab82": {
+      "event_id": "evt_ce89f008c9ab82",
+      "event_key": "finalfantasy magiccrossover cards release 2026",
+      "event_subject": "Final Fantasy Magic: The Gathering cards",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "finalfantasy magiccrossover cards release 2026",
+        "subject": "Final Fantasy Magic: The Gathering cards",
+        "event_type": "other",
+        "action": "release_cards",
+        "status": "released",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Final Fantasy / Magic: The Gathering",
+        "institution": "Polygon",
+        "target": "collectors",
+        "platforms": [],
+        "topic": "card design"
+      },
+      "modality": "unknown",
+      "topic": "card design",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "10 newly designed crossover cards have been released"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-11-08T12:59:19.617713+06:00"
+    },
+    "evt_a30707068524a0": {
+      "event_id": "evt_a30707068524a0",
+      "event_key": "zelda ocarinaoftime switch2 remaster release 2026",
+      "event_subject": "Zelda: Ocarina of Time",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "zelda ocarinaoftime switch2 remaster release 2026",
+        "subject": "Zelda: Ocarina of Time",
+        "event_type": "release",
+        "action": "remaster_release",
+        "status": "released",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time",
+        "franchise": "The Legend of Zelda",
+        "institution": "Nintendo",
+        "target": "players",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "graphics comparison"
+      },
+      "modality": "unknown",
+      "topic": "graphics comparison",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "side‑by‑side graphics comparison of the Switch 2 remaster"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-11-08T12:59:19.617719+06:00"
+    },
+    "evt_d914993dfb0e2c": {
+      "event_id": "evt_d914993dfb0e2c",
+      "event_key": "buildandkillzombies nov2026 codes release",
+      "event_subject": "Build And Kill Zombies",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "buildandkillzombies nov2026 codes release",
+        "subject": "Build And Kill Zombies",
+        "event_type": "other",
+        "action": "publish_codes",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Build And Kill Zombies",
+        "franchise": "Build And Kill Zombies",
+        "institution": "Insider Gaming",
+        "target": "players",
+        "platforms": [
+          "iOS",
+          "Android"
+        ],
+        "topic": "code release"
+      },
+      "modality": "unknown",
+      "topic": "code release",
+      "institution": "Insider Gaming",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "monthly redeem codes for November 2026 are now available"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 37
+      },
+      "last_seen": "2026-11-08T12:59:19.617723+06:00"
+    },
+    "evt_2f05565e4ec469": {
+      "event_id": "evt_2f05565e4ec469",
+      "event_key": "rollafisherman nov2026 codes release",
+      "event_subject": "Roll A Fisherman",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "rollafisherman nov2026 codes release",
+        "subject": "Roll A Fisherman",
+        "event_type": "other",
+        "action": "publish_codes",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Roll A Fisherman",
+        "franchise": "Roll A Fisherman",
+        "institution": "Insider Gaming",
+        "target": "players",
+        "platforms": [
+          "iOS",
+          "Android"
+        ],
+        "topic": "code release"
+      },
+      "modality": "unknown",
+      "topic": "code release",
+      "institution": "Insider Gaming",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "monthly redeem codes for November 2026 are now available"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 37
+      },
+      "last_seen": "2026-11-08T12:59:19.617727+06:00"
+    },
+    "evt_1f121f97664e4a": {
+      "event_id": "evt_1f121f97664e4a",
+      "event_key": "polygon commentary data startrek quote 2026 11 08",
+      "event_subject": "Data's Star Trek quote",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "polygon commentary data startrek quote 2026 11 08",
+        "subject": "Data's Star Trek quote",
+        "event_type": "other",
+        "action": "publish",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "",
+        "platforms": [],
+        "topic": "pop‑culture commentary"
+      },
+      "modality": "unknown",
+      "topic": "pop‑culture commentary",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "highlighting a memorable quote from Data"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-08T12:59:19.617731+06:00"
+    },
+    "evt_c4ba8988cb00a1": {
+      "event_id": "evt_c4ba8988cb00a1",
+      "event_key": "paramount actionfantasyepic season3 review 2026 11 08",
+      "event_subject": "Paramount 4‑part action fantasy epic",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "paramount actionfantasyepic season3 review 2026 11 08",
+        "subject": "Paramount 4‑part action fantasy epic",
+        "event_type": "review",
+        "action": "publish_review",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "viewers",
+        "platforms": [],
+        "topic": "TV series review"
+      },
+      "modality": "unknown",
+      "topic": "TV series review",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "the third season is praised as one of the best in TV history"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-08T12:59:19.617735+06:00"
     }
   },
   "posted_event_ids": [
-    "evt_7eefd7571a7ec4",
     "evt_02dc7d09f472be",
     "evt_1e1e410b107af5",
     "evt_0f2f7c0822ea10",
@@ -217508,10 +216719,10 @@
     "evt_7ca6fded64c069",
     "evt_072ae75e07546d",
     "evt_5a5af5aff84e47",
-    "evt_d333b228dae6dd"
+    "evt_d333b228dae6dd",
+    "evt_39fac47881ef06"
   ],
   "recent_titles": [
-    "bethesda sends cease and desist to ai generated fallout new york browser game",
     "gta 6 receives pegi 18 rating marking series most mature release",
     "warhorse coo urges gta 6 to set new 80 price standard for triple a games",
     "sony refines base ps5 slim with optimized motherboard and cooling",
@@ -217911,11 +217122,12 @@
     "shawn layden says ps6 should prioritize affordability over power",
     "todd howard leaves tes vi exclusivity open ps5 future unclear",
     "ea releases 25 classic pc games with seven new remasters",
-    "two new assassin s creed titles reported one set in ancient rome"
+    "two new assassin s creed titles reported one set in ancient rome",
+    "path of exile 2 launches free to play on december 11 with new shadow class"
   ],
   "category_coverage": {
     "Game Updates": "2026-11-08T00:44:57.652811+06:00",
-    "Major Releases": "2026-11-07T19:53:36.952443+06:00",
+    "Major Releases": "2026-11-08T13:01:22.352600+06:00",
     "Steam": "2026-09-09T16:54:21.568787+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
     "Nintendo": "2026-09-09T21:29:41.864902+06:00",
