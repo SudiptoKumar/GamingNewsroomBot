@@ -2,256 +2,143 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"228b5-lYqLMeo96adC03yx6uVnmsjnPEE\"",
+      "etag": "W/\"207f4-PpdDSDiP1kHe48ZHWV5WvzX2LVs\"",
       "last_modified": null,
-      "last_checked": "2026-11-12T04:29:15.157791+06:00",
+      "last_checked": "2026-11-12T13:57:55.026556+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-12T04:29:15.428561+06:00",
+      "last_checked": "2026-11-12T13:57:55.279340+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6af4eb5d-b10\"",
-      "last_modified": "Wed, 11 Nov 2026 22:25:33 GMT",
-      "last_checked": "2026-11-12T04:29:15.836632+06:00",
+      "etag": "\"6af570f5-b0f\"",
+      "last_modified": "Thu, 12 Nov 2026 07:55:33 GMT",
+      "last_checked": "2026-11-12T13:57:55.577365+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Wed, 11 Nov 2026 20:37:20 GMT",
-      "last_checked": "2026-11-12T04:29:16.135674+06:00",
+      "last_checked": "2026-11-12T13:57:56.301449+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "W/\"c3b63a3c31ff0f4a944366ea8dc85601\"",
-      "last_modified": "Wed, 11 Nov 2026 20:12:26 GMT",
-      "last_checked": "2026-11-12T04:29:16.522584+06:00",
+      "etag": "W/\"ca8672c7f736e6910095c41d0ecaf4bd\"",
+      "last_modified": "Thu, 12 Nov 2026 07:08:38 GMT",
+      "last_checked": "2026-11-12T13:57:56.475383+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-12T04:29:16.645926+06:00",
+      "last_checked": "2026-11-12T13:57:56.651500+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-12T04:29:17.802214+06:00",
+      "last_checked": "2026-11-12T13:57:57.428909+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"1afca34887e72bf992ddcc6fb9f13d73\"",
-      "last_modified": "Wed, 11 Nov 2026 22:25:22 GMT",
-      "last_checked": "2026-11-12T04:29:18.063003+06:00",
+      "etag": "W/\"aadc3740c780e41dc959da9568de43aa\"",
+      "last_modified": "Thu, 12 Nov 2026 07:56:58 GMT",
+      "last_checked": "2026-11-12T13:57:57.641773+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-12T04:29:18.178821+06:00",
+      "last_checked": "2026-11-12T13:57:57.824221+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Wed, 11 Nov 2026 20:08:51 GMT",
-      "last_checked": "2026-11-12T04:29:18.649119+06:00",
+      "last_checked": "2026-11-12T13:57:58.284364+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Wed, 11 Nov 2026 22:29:19 GMT",
-      "last_checked": "2026-11-12T04:29:19.650639+06:00",
+      "last_modified": "Thu, 12 Nov 2026 07:57:58 GMT",
+      "last_checked": "2026-11-12T13:57:58.764721+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"aea12e4917d63b180b59fa81c7e934c6\"",
-      "last_modified": "Wed, 11 Nov 2026 21:42:42 GMT",
-      "last_checked": "2026-11-12T04:29:19.787542+06:00",
+      "etag": "W/\"ab2562c09ef71238c71448ce29d0ae73\"",
+      "last_modified": "Thu, 12 Nov 2026 03:01:03 GMT",
+      "last_checked": "2026-11-12T13:57:59.222219+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-12T04:29:20.315149+06:00",
+      "last_checked": "2026-11-12T13:57:59.631323+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-12T04:29:20.706958+06:00",
+      "last_checked": "2026-11-12T13:58:00.046164+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-12T04:29:21.285448+06:00",
+      "last_checked": "2026-11-12T13:58:00.388187+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-12T04:29:21.609723+06:00",
-      "fail_count": 164,
+      "last_checked": "2026-11-12T13:58:00.543918+06:00",
+      "fail_count": 165,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"e4eb5e43e1ed1be365f74f77275d2ab0\"",
-      "last_modified": "Wed, 11 Nov 2026 19:51:03 GMT",
-      "last_checked": "2026-11-12T04:29:21.737508+06:00",
+      "etag": "W/\"aefbf7585a8a372993a46f29e6f0e32f\"",
+      "last_modified": "Wed, 11 Nov 2026 20:15:41 GMT",
+      "last_checked": "2026-11-12T13:58:00.670954+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-12T04:29:21.969316+06:00",
+      "last_checked": "2026-11-12T13:58:00.863160+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-12T04:29:22.140082+06:00",
-      "fail_count": 164,
+      "last_checked": "2026-11-12T13:58:01.053291+06:00",
+      "fail_count": 165,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"d99c20e5bd6a5a5ce2d715e1298b2c09\"",
       "last_modified": "Wed, 11 Nov 2026 06:13:12 GMT",
-      "last_checked": "2026-11-12T04:29:22.268398+06:00",
+      "last_checked": "2026-11-12T13:58:01.254929+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "polygon.com/best-final-fantasy-magic-the-gathering-card-designs": {
-      "title": "10 Perfectly Designed Final Fantasy Magic Cards That Are 10/10, No Notes",
-      "url": "https://www.polygon.com/best-final-fantasy-magic-the-gathering-card-designs/",
-      "canonical": "polygon.com/best-final-fantasy-magic-the-gathering-card-designs",
-      "published_dt": "2026-11-08T11:00:17+06:00",
-      "published_date": "2026-11-08T11:00:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Discover 10 perfectly designed Final Fantasy Magic: The Gathering cards that nail the crossover's flavor and mechanics.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/buster-sword-mtg-final-fantasy.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-08T12:56:04.447359+06:00",
-      "last_seen": "2026-11-08T12:56:04.447361+06:00"
-    },
-    "polygon.com/the-legend-of-korra-season-3-best-season": {
-      "title": "Paramount’s 4-Part Action Fantasy Epic Has One of the Best Seasons in TV History",
-      "url": "https://www.polygon.com/the-legend-of-korra-season-3-best-season/",
-      "canonical": "polygon.com/the-legend-of-korra-season-3-best-season",
-      "published_dt": "2026-11-08T10:00:17+06:00",
-      "published_date": "2026-11-08T10:00:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "In its third season, a beloved animated hero grows up the hard way, living with the fallout of her biggest choice and facing a chilling new villain.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/legend-of-korra-outlook.jpeg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-08T12:56:04.447456+06:00",
-      "last_seen": "2026-11-08T12:56:04.447457+06:00"
-    },
-    "insider-gaming.com/roblox-roll-fisherman-codes": {
-      "title": "Roll A Fisherman Codes (November 2026)",
-      "url": "https://insider-gaming.com/roblox-roll-fisherman-codes/",
-      "canonical": "insider-gaming.com/roblox-roll-fisherman-codes",
-      "published_dt": "2026-11-08T11:50:42+06:00",
-      "published_date": "2026-11-08T11:50:42+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Use these monthly Roll A Fisherman redeem codes to get your hands on free rewards like Cash, Gold, and Spins. The post Roll A Fisherman Codes (November 2026) appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-08T12:56:05.822450+06:00",
-      "last_seen": "2026-11-08T12:56:05.822453+06:00"
-    },
-    "insider-gaming.com/roblox-build-kill-zombies-codes": {
-      "title": "Build And Kill Zombies Codes (November 2026)",
-      "url": "https://insider-gaming.com/roblox-build-kill-zombies-codes/",
-      "canonical": "insider-gaming.com/roblox-build-kill-zombies-codes",
-      "published_dt": "2026-11-08T11:36:12+06:00",
-      "published_date": "2026-11-08T11:36:12+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Use these monthly Build and Kill Zombies redeem codes to get free rewards like Cash, Weapons, Vehicle parts, and special event currency. The post Build And Kill Zombies Codes (November 2026) appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-08T12:56:05.822598+06:00",
-      "last_seen": "2026-11-08T12:56:05.822599+06:00"
-    },
-    "nintendolife.com/news/2026/11/video-zelda-ocarina-of-time-side-by-side-graphics-comparison-switch-2-3ds-n64": {
-      "title": "Video: Zelda: Ocarina Of Time Side-By-Side Graphics Comparison (Switch 2, 3DS, N64)",
-      "url": "https://www.nintendolife.com/news/2026/11/video-zelda-ocarina-of-time-side-by-side-graphics-comparison-switch-2-3ds-n64",
-      "canonical": "nintendolife.com/news/2026/11/video-zelda-ocarina-of-time-side-by-side-graphics-comparison-switch-2-3ds-n64",
-      "published_dt": "2026-11-08T12:00:00+06:00",
-      "published_date": "2026-11-08T12:00:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Take a look. Zelda: Ocarina of Time returned this week on the Switch 2 and it looks better than ever. If you are wondering just much of a facelift it's had since the 2011 outing, and the original N64 hit, you might want to check out this side-by-side comparison video. YouTube channel ElAnalistDeBits has now released a \"final graphics comparison\" which takes a closer look at the character models, environments, physics, the many locations in the game, and much more. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/a10364492c43f/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-08T12:56:06.158191+06:00",
-      "last_seen": "2026-11-08T12:56:06.158195+06:00"
-    },
-    "escapistmagazine.com/path-of-exile-2-goes-free-to-play-december-11-with-the-shadow-joining-the-duelist-at-1-0": {
-      "title": "Path of Exile 2 goes free-to-play December 11 with the Shadow joining the Duelist at 1.0",
-      "url": "https://www.escapistmagazine.com/path-of-exile-2-goes-free-to-play-december-11-with-the-shadow-joining-the-duelist-at-1-0/",
-      "canonical": "escapistmagazine.com/path-of-exile-2-goes-free-to-play-december-11-with-the-shadow-joining-the-duelist-at-1-0",
-      "published_dt": "2026-11-08T12:13:13+06:00",
-      "published_date": "2026-11-08T12:13:13+06:00",
-      "source": "The Escapist",
-      "region": "Gaming",
-      "excerpt": "Grinding Gear Games used ExileCon 2026 to reveal the Shadow as a second launch class for Path of Exile 2's full release. The 1.0 update finishes the campaign, ends Early Access and adds a strategy-style siege league. The post Path of Exile 2 goes free-to-play December 11 with the Shadow joining the Duelist at 1.0 appeared first on The Escapist .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-11-08T12:56:07.789097+06:00",
-      "last_seen": "2026-11-08T12:56:07.789100+06:00",
-      "posted_at": "2026-11-08T13:01:22.352546+06:00"
-    },
-    "polygon.com/6-years-later-datas-wisest-star-trek-quote-remains-unbeaten": {
-      "title": "6 Years Later, Data’s Wisest Star Trek Quote Remains Unbeaten",
-      "url": "https://www.polygon.com/6-years-later-datas-wisest-star-trek-quote-remains-unbeaten/",
-      "canonical": "polygon.com/6-years-later-datas-wisest-star-trek-quote-remains-unbeaten",
-      "published_dt": "2026-11-08T12:30:17+06:00",
-      "published_date": "2026-11-08T12:30:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-08T12:56:13.819174+06:00",
-      "last_seen": "2026-11-08T12:56:13.819178+06:00"
-    },
     "videogameschronicle.com/guide/zelda-oot-remake-silver-golden-scale-dive": {
       "title": "Zelda OOT Remake: Get the Silver and Golden Scales to dive deeper",
       "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-silver-golden-scale-dive/",
@@ -4982,111 +4869,106 @@
       "status": "pending",
       "first_seen": "2026-11-12T04:29:21.785389+06:00",
       "last_seen": "2026-11-12T04:29:21.785394+06:00"
+    },
+    "gematsu.com/2026/11/romancing-saga-3-destinies-united-release-date-moved-up-to-february-4-2027": {
+      "title": "Romancing SaGa 3: Destinies United release date moved up to February 4, 2027",
+      "url": "https://www.gematsu.com/2026/11/romancing-saga-3-destinies-united-release-date-moved-up-to-february-4-2027",
+      "canonical": "gematsu.com/2026/11/romancing-saga-3-destinies-united-release-date-moved-up-to-february-4-2027",
+      "published_dt": "2026-11-12T13:08:38+06:00",
+      "published_date": "2026-11-12T13:08:38+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Square Enix has moved up Romancing SaGa 3: Destinies United from its previously planned February …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-12T13:57:56.491906+06:00",
+      "last_seen": "2026-11-12T13:57:56.491909+06:00"
+    },
+    "gematsu.com/2026/11/romance-visual-novel-renai-hajimemashite-coming-to-ps5-ps4-and-switch-on-march-25-2027-in-japan": {
+      "title": "Romance visual novel Renai, Hajimemashite coming to PS5, PS4, and Switch on March 25, 2027 in Japan",
+      "url": "https://www.gematsu.com/2026/11/romance-visual-novel-renai-hajimemashite-coming-to-ps5-ps4-and-switch-on-march-25-2027-in-japan",
+      "canonical": "gematsu.com/2026/11/romance-visual-novel-renai-hajimemashite-coming-to-ps5-ps4-and-switch-on-march-25-2027-in-japan",
+      "published_dt": "2026-11-12T12:29:54+06:00",
+      "published_date": "2026-11-12T12:29:54+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "AirVelocity will release ASa Project-developed romance visual novel Renai, Hajimemashite for PlayStation 5, PlayStation 4, …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-12T13:57:56.492025+06:00",
+      "last_seen": "2026-11-12T13:57:56.492029+06:00"
+    },
+    "polygon.com/for-a-few-dollars-more-clint-eastwood-streaming-november-2026": {
+      "title": "Clint Eastwood's Legendary Western Sequel Is Waiting to Be Discovered on Streaming",
+      "url": "https://www.polygon.com/for-a-few-dollars-more-clint-eastwood-streaming-november-2026/",
+      "canonical": "polygon.com/for-a-few-dollars-more-clint-eastwood-streaming-november-2026",
+      "published_dt": "2026-11-12T12:53:17+06:00",
+      "published_date": "2026-11-12T12:53:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The second film in Clint Eastwood's \"The Man with No Name Trilogy,\" For a Few Dollars More, is free on youtube, making this perfect time to watch",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/clint-eastwood.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-12T13:57:57.435284+06:00",
+      "last_seen": "2026-11-12T13:57:57.435288+06:00"
+    },
+    "kotaku.com/physints-next-cold-war-od-knocks-scanning-tech-and-8-more-things-we-learned-at-kojima-productions-tokyo-exhibition-2000754352": {
+      "title": "Physint’s ‘Next Cold War,’ OD: Knock’s Scanning Tech, And 8 More Things We Learned At Kojima Productions’ Tokyo Exhibition",
+      "url": "https://kotaku.com/physints-next-cold-war-od-knocks-scanning-tech-and-8-more-things-we-learned-at-kojima-productions-tokyo-exhibition-2000754352",
+      "canonical": "kotaku.com/physints-next-cold-war-od-knocks-scanning-tech-and-8-more-things-we-learned-at-kojima-productions-tokyo-exhibition-2000754352",
+      "published_dt": "2026-11-12T12:00:37+06:00",
+      "published_date": "2026-11-12T12:00:37+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "The special 10th-anniversary Kojima Productions exhibition showcased the past and future of Hideo Kojima's game studio",
+      "image": "https://kotaku.com/app/uploads/2026/11/Death-Stranding-concept-art-1280x785.jpeg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-12T13:57:57.652064+06:00",
+      "last_seen": "2026-11-12T13:57:57.652069+06:00",
+      "posted_at": "2026-11-12T14:02:10.035512+06:00"
+    },
+    "nintendolife.com/news/2026/11/reminder-the-final-kirby-air-riders-amiibo-are-now-available": {
+      "title": "Reminder: The Final Kirby Air Riders amiibo Are Now Available",
+      "url": "https://www.nintendolife.com/news/2026/11/reminder-the-final-kirby-air-riders-amiibo-are-now-available",
+      "canonical": "nintendolife.com/news/2026/11/reminder-the-final-kirby-air-riders-amiibo-are-now-available",
+      "published_dt": "2026-11-12T12:45:00+06:00",
+      "published_date": "2026-11-12T12:45:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "The line up is now complete! Since the arrival of Kirby Air Riders on the Switch 2 last year, Nintendo has been releasing amiibo for the game on a regular basis. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/6b585f1bee2a5/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-12T13:57:59.645044+06:00",
+      "last_seen": "2026-11-12T13:57:59.645048+06:00"
+    },
+    "nintendolife.com/news/2026/11/random-yes-young-link-is-still-quicker-when-he-rolls-about-in-ocarinas-remake": {
+      "title": "Random: Yes, Young Link Is Still Quicker When He Rolls About In Ocarina's Remake",
+      "url": "https://www.nintendolife.com/news/2026/11/random-yes-young-link-is-still-quicker-when-he-rolls-about-in-ocarinas-remake",
+      "canonical": "nintendolife.com/news/2026/11/random-yes-young-link-is-still-quicker-when-he-rolls-about-in-ocarinas-remake",
+      "published_dt": "2026-11-12T11:45:00+06:00",
+      "published_date": "2026-11-12T11:45:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Every second counts. As many fans begin to wrap up their first play sessions of Zelda: Ocarina of Time on Switch 2, more attention is slowly shifting to the game's speedrunning community. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/2865aa5faf6dd/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-12T13:57:59.645291+06:00",
+      "last_seen": "2026-11-12T13:57:59.645295+06:00"
     }
   },
   "events": {
-    "evt_b924bc413fc3e7": {
-      "event_id": "evt_b924bc413fc3e7",
-      "event_key": "epic games ai first marvel star wars crossover delay",
-      "event_subject": "Epic Games",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "epic games ai first marvel star wars crossover delay",
-        "subject": "Epic Games",
-        "event_type": "other",
-        "action": "delay",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "Marvel & Star Wars",
-        "institution": "Epic Games",
-        "target": "unannounced crossover game",
-        "platforms": [],
-        "topic": "AI in game development"
-      },
-      "sources": [
-        "PC Gamer",
-        "Polygon"
-      ],
-      "event_sources": [
-        "PC Gamer",
-        "Polygon"
-      ],
-      "claims": [
-        "Epic Games delays its Marvel and Star Wars crossover game to adopt AI-first production workflows",
-        "Epic Games delays its Marvel and Star Wars crossover game while pivoting toward AI‑first production"
-      ],
-      "importance_score": 65,
-      "coverage_score": 6,
-      "originality_score": 10,
-      "significance_score": 30,
-      "freshness_score": 10,
-      "source_trust_score": 9,
-      "headline": "Epic Games Delays Star Wars‑Marvel Shooter to Embrace AI‑First Development",
-      "summary": "Epic Games has postponed its unannounced Star Wars and Marvel crossover shooter to adopt a comprehensive AI‑first production model using tools like Anthropic’s Claude.",
-      "published_at": "2026-10-13T04:55:00+06:00",
-      "selected_at": "2026-10-12T23:32:38.987569+00:00",
-      "status": "published",
-      "message_id": 684,
-      "published_versions": [
-        {
-          "published_at": "2026-10-12T23:32:38.987569+00:00",
-          "headline": "Epic Games Delays Star Wars‑Marvel Shooter to Embrace AI‑First Development",
-          "claims": [
-            "Epic Games delays its Marvel and Star Wars crossover game to adopt AI-first production workflows",
-            "Epic Games delays its Marvel and Star Wars crossover game while pivoting toward AI‑first production"
-          ]
-        }
-      ]
-    },
-    "evt_97f06cb8b10331": {
-      "event_id": "evt_97f06cb8b10331",
-      "event_key": "metaphor refantazio demo release 2026 10 13",
-      "event_subject": "Metaphor: ReFantazio",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "metaphor refantazio demo release 2026 10 13",
-        "subject": "Metaphor: ReFantazio",
-        "event_type": "other",
-        "action": "release",
-        "status": "released",
-        "modality": "unknown",
-        "game": "Metaphor: ReFantazio",
-        "franchise": "Metaphor",
-        "institution": "Atlus",
-        "target": "players",
-        "platforms": [
-          "Switch"
-        ],
-        "topic": "demo availability"
-      },
-      "sources": [
-        "Nintendo Life"
-      ],
-      "event_sources": [
-        "Nintendo Life"
-      ],
-      "claims": [],
-      "importance_score": 35,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 5,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Demo for Metaphor: ReFantazio Now Live on Nintendo Switch 2",
-      "summary": "Atlus has launched a prologue demo on the eShop, letting players preview the JRPG before its full Switch 2 release on 12 November 2026.",
-      "published_at": "2026-10-13T10:55:00+06:00",
-      "selected_at": "2026-10-13T07:26:17.550335+00:00",
-      "status": "published",
-      "message_id": 685,
-      "published_versions": [
-        {
-          "published_at": "2026-10-13T07:26:17.550335+00:00",
-          "headline": "Demo for Metaphor: ReFantazio Now Live on Nintendo Switch 2",
-          "claims": []
-        }
-      ]
-    },
     "evt_a0b5393f5d4ebb": {
       "event_id": "evt_a0b5393f5d4ebb",
       "event_key": "amd gddr6 price increase report",
@@ -21368,6 +21250,56 @@
           "headline": "Skydance Denies Cancellation Rumors for Marvel 1943 Rise of Hydra",
           "claims": [
             "project not cancelled"
+          ]
+        }
+      ]
+    },
+    "evt_486ec0b0df8ee5": {
+      "event_id": "evt_486ec0b0df8ee5",
+      "event_key": "kojimaproductions tokyoexhibition 10thanniversary showcase",
+      "event_subject": "Kojima Productions",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "kojimaproductions tokyoexhibition 10thanniversary showcase",
+        "subject": "Kojima Productions",
+        "event_type": "other",
+        "action": "showcase",
+        "status": "occurred",
+        "modality": "unknown",
+        "game": "Various (Kojima titles)",
+        "franchise": "Kojima Productions",
+        "institution": "Kojima Productions",
+        "target": "10th‑anniversary Tokyo exhibition",
+        "platforms": [],
+        "topic": "exhibition"
+      },
+      "sources": [
+        "Kotaku"
+      ],
+      "event_sources": [
+        "Kotaku"
+      ],
+      "claims": [
+        "highlights from the 10th‑anniversary exhibition"
+      ],
+      "importance_score": 34,
+      "coverage_score": 2,
+      "originality_score": 8,
+      "significance_score": 8,
+      "freshness_score": 10,
+      "source_trust_score": 6,
+      "headline": "Kojima Productions’ Tokyo Exhibition Reveals New Xbox Titles and Death Stranding Secrets",
+      "summary": "The limited‑time showcase in Azabudai offered fresh concept art, early prototypes, and details on upcoming Xbox projects like Physint and OD: Knock.",
+      "published_at": "2026-11-12T12:00:37+06:00",
+      "selected_at": "2026-11-12T08:02:10.035548+00:00",
+      "status": "published",
+      "message_id": 1016,
+      "published_versions": [
+        {
+          "published_at": "2026-11-12T08:02:10.035548+00:00",
+          "headline": "Kojima Productions’ Tokyo Exhibition Reveals New Xbox Titles and Death Stranding Secrets",
+          "claims": [
+            "highlights from the 10th‑anniversary exhibition"
           ]
         }
       ]
@@ -223685,10 +223617,267 @@
         "total": 35
       },
       "last_seen": "2026-11-12T04:33:24.615647+06:00"
+    },
+    "evt_486ec0b0df8ee5": {
+      "event_id": "evt_486ec0b0df8ee5",
+      "event_key": "kojimaproductions tokyoexhibition 10thanniversary showcase",
+      "event_subject": "Kojima Productions",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "kojimaproductions tokyoexhibition 10thanniversary showcase",
+        "subject": "Kojima Productions",
+        "event_type": "other",
+        "action": "showcase",
+        "status": "occurred",
+        "modality": "unknown",
+        "game": "Various (Kojima titles)",
+        "franchise": "Kojima Productions",
+        "institution": "Kojima Productions",
+        "target": "10th‑anniversary Tokyo exhibition",
+        "platforms": [],
+        "topic": "exhibition"
+      },
+      "modality": "unknown",
+      "topic": "exhibition",
+      "institution": "Kojima Productions",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "highlights from the 10th‑anniversary exhibition"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-11-12T14:00:07.745430+06:00"
+    },
+    "evt_01860c79e65b64": {
+      "event_id": "evt_01860c79e65b64",
+      "event_key": "airvelocity renaihajimemashite release announcement",
+      "event_subject": "AirVelocity",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "airvelocity renaihajimemashite release announcement",
+        "subject": "AirVelocity",
+        "event_type": "other",
+        "action": "announce release",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "Renai, Hajimemashite",
+        "franchise": "Renai, Hajimemashite",
+        "institution": "AirVelocity",
+        "target": "Renai, Hajimemashite visual novel",
+        "platforms": [
+          "PS5",
+          "PS4",
+          "Switch"
+        ],
+        "topic": "release date"
+      },
+      "modality": "unknown",
+      "topic": "release date",
+      "institution": "AirVelocity",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "launch on March 25, 2027 in Japan"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 40
+      },
+      "last_seen": "2026-11-12T14:00:07.745454+06:00"
+    },
+    "evt_bd17bc099e3868": {
+      "event_id": "evt_bd17bc099e3868",
+      "event_key": "squareenix romancingsaga3 releasedate change",
+      "event_subject": "Square Enix",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "squareenix romancingsaga3 releasedate change",
+        "subject": "Square Enix",
+        "event_type": "other",
+        "action": "move up",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Romancing SaGa 3: Destinies United",
+        "franchise": "SaGa",
+        "institution": "Square Enix",
+        "target": "Romancing SaGa 3: Destinies United",
+        "platforms": [
+          "Switch"
+        ],
+        "topic": "release schedule"
+      },
+      "modality": "unknown",
+      "topic": "release schedule",
+      "institution": "Square Enix",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "release date moved up to February 4, 2027"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-11-12T14:00:07.745462+06:00"
+    },
+    "evt_662e7f69412ccd": {
+      "event_id": "evt_662e7f69412ccd",
+      "event_key": "nintendo zeldaocarinaoftime speedrunanalysis younglink roll speed",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo zeldaocarinaoftime speedrunanalysis younglink roll speed",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "analyze",
+        "status": "observed",
+        "modality": "unknown",
+        "game": "The Legend of Zelda: Ocarina of Time (Switch 2 remake)",
+        "franchise": "The Legend of Zelda",
+        "institution": "Nintendo",
+        "target": "Young Link rolling speed",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "speedrunning"
+      },
+      "modality": "unknown",
+      "topic": "speedrunning",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Young Link rolls faster in the remake"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-11-12T14:00:07.745468+06:00"
+    },
+    "evt_fa766ee827a269": {
+      "event_id": "evt_fa766ee827a269",
+      "event_key": "nintendo kirbyairriders amiibo release",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo kirbyairriders amiibo release",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "release",
+        "status": "available",
+        "modality": "unknown",
+        "game": "Kirby Air Riders",
+        "franchise": "Kirby",
+        "institution": "Nintendo",
+        "target": "Kirby Air Riders amiibo series",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "amiibo"
+      },
+      "modality": "unknown",
+      "topic": "amiibo",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "final Kirby Air Riders amiibo now available"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-11-12T14:00:07.745473+06:00"
+    },
+    "evt_e979f7b14d6ec0": {
+      "event_id": "evt_e979f7b14d6ec0",
+      "event_key": "clinteastwood forafewdollarsmore streaming availability",
+      "event_subject": "Clint Eastwood",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "clinteastwood forafewdollarsmore streaming availability",
+        "subject": "Clint Eastwood",
+        "event_type": "other",
+        "action": "make available",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "For a Few Dollars More",
+        "franchise": "The Man with No Name Trilogy",
+        "institution": "Unknown film distributor",
+        "target": "For a Few Dollars More (second film)",
+        "platforms": [
+          "YouTube"
+        ],
+        "topic": "streaming"
+      },
+      "modality": "unknown",
+      "topic": "streaming",
+      "institution": "Unknown film distributor",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "second film now free on YouTube"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-12T14:00:07.745478+06:00"
     }
   },
   "posted_event_ids": [
-    "evt_98ec5e3f5c0dfa",
     "evt_3cc9bb83fc8a53",
     "evt_268e22aea41a69",
     "evt_f36e8b038d0b73",
@@ -224187,19 +224376,10 @@
     "evt_97cd05cd3bdd23",
     "evt_00574912882dba",
     "evt_d3d1a85801c9be",
-    "evt_463bb581d9570f"
+    "evt_463bb581d9570f",
+    "evt_486ec0b0df8ee5"
   ],
   "recent_titles": [
-    "nintendo switch sports resort launches on switch 2 with expanded motion control lineup",
-    "supermassive games cuts over 70 staff amid ongoing turmoil",
-    "arknights endfield sanctuary of ink update arrives october 15 on steam",
-    "bandai namco unveils gundam rogue orbit gameplay walkthrough trailer",
-    "pok mon home update adds firered leafgreen compatibility in version 4 1 0",
-    "rockstar north reveals first look at grand theft auto 6 in exclusive interview",
-    "skydance merges paramount games studio with warner bros interactive",
-    "undead labs leaves xbox promises changes to state of decay 3",
-    "capcom s resident evil requiem dlc to recast oswell spencer s legacy",
-    "unity launches unity spark ai driven tool for google s playground platform",
     "aion 2 launches with deep character creator and free to play model",
     "netflix teams with supermassive games to release interactive horror title the conjuring unspoken",
     "denuvo seeks subpoenas for discord valve and reddit to unmask game cracker",
@@ -224599,10 +224779,11 @@
     "resident evil requiem crowned ultimate game of the year at golden joystick awards",
     "crimson desert crowned pc game of the year at 2026 golden joystick awards",
     "conan the black pyramid blends diablo style roguelike with hades like action",
-    "skydance denies cancellation rumors for marvel 1943 rise of hydra"
+    "skydance denies cancellation rumors for marvel 1943 rise of hydra",
+    "kojima productions tokyo exhibition reveals new xbox titles and death stranding secrets"
   ],
   "category_coverage": {
-    "Game Updates": "2026-11-12T04:57:14.639770+06:00",
+    "Game Updates": "2026-11-12T14:02:10.035578+06:00",
     "Major Releases": "2026-11-08T13:01:22.352600+06:00",
     "Steam": "2026-11-10T23:08:27.321312+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
