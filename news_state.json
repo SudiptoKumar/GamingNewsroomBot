@@ -2,304 +2,143 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1eacd-c4Cav13it9y7FnC3bqGplYwUsgM\"",
+      "etag": "W/\"2073e-PxqwaXvNpAftXwnaSq6aU//dKJQ\"",
       "last_modified": null,
-      "last_checked": "2026-11-14T13:21:19.211742+06:00",
+      "last_checked": "2026-11-14T20:46:44.958122+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-14T13:21:19.391412+06:00",
+      "last_checked": "2026-11-14T20:46:45.170786+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6af80bc0-a95\"",
-      "last_modified": "Sat, 14 Nov 2026 07:20:32 GMT",
-      "last_checked": "2026-11-14T13:21:19.715152+06:00",
+      "etag": "\"6af8740d-a94\"",
+      "last_modified": "Sat, 14 Nov 2026 14:45:33 GMT",
+      "last_checked": "2026-11-14T20:46:45.615593+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Fri, 13 Nov 2026 20:49:20 GMT",
-      "last_checked": "2026-11-14T13:21:19.929109+06:00",
+      "last_modified": "Sat, 14 Nov 2026 12:19:50 GMT",
+      "last_checked": "2026-11-14T20:46:46.248646+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
       "etag": "W/\"70f5357ad325a914ff494cb61216d183\"",
       "last_modified": "Sat, 14 Nov 2026 05:49:18 GMT",
-      "last_checked": "2026-11-14T13:21:20.162648+06:00",
+      "last_checked": "2026-11-14T20:46:46.587590+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-14T13:21:20.305522+06:00",
+      "last_checked": "2026-11-14T20:46:46.844350+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-14T13:21:20.766079+06:00",
+      "last_checked": "2026-11-14T20:46:47.526887+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"d9cbdbdc4c3a3a81d829d8f686d55b19\"",
-      "last_modified": "Sat, 14 Nov 2026 07:20:20 GMT",
-      "last_checked": "2026-11-14T13:21:21.055733+06:00",
+      "etag": "W/\"3282cb77b4dec2c1fa8ef2a5ba1d43e5\"",
+      "last_modified": "Sat, 14 Nov 2026 08:18:15 GMT",
+      "last_checked": "2026-11-14T20:46:47.860161+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-14T13:21:21.200659+06:00",
+      "last_checked": "2026-11-14T20:46:48.132381+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Fri, 13 Nov 2026 18:42:51 GMT",
-      "last_checked": "2026-11-14T13:21:21.595953+06:00",
+      "last_modified": "Sat, 14 Nov 2026 08:42:51 GMT",
+      "last_checked": "2026-11-14T20:46:48.652459+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sat, 14 Nov 2026 07:21:22 GMT",
-      "last_checked": "2026-11-14T13:21:22.151799+06:00",
+      "last_modified": "Sat, 14 Nov 2026 14:46:49 GMT",
+      "last_checked": "2026-11-14T20:46:49.327366+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"968e59db4ffa0a0f594a07476defb8ce\"",
-      "last_modified": "Sat, 14 Nov 2026 04:00:07 GMT",
-      "last_checked": "2026-11-14T13:21:22.243642+06:00",
+      "etag": "W/\"7ad7bf6ef84d4bd0c5145955c42a8595\"",
+      "last_modified": "Sat, 14 Nov 2026 14:22:53 GMT",
+      "last_checked": "2026-11-14T20:46:49.465999+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-14T13:21:22.687434+06:00",
+      "last_checked": "2026-11-14T20:46:49.856421+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-14T13:21:23.099863+06:00",
+      "last_checked": "2026-11-14T20:46:50.400727+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-14T13:21:23.536512+06:00",
+      "last_checked": "2026-11-14T20:46:50.989930+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-14T13:21:23.729328+06:00",
-      "fail_count": 170,
+      "last_checked": "2026-11-14T20:46:51.356235+06:00",
+      "fail_count": 171,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"bae0f960247e4a70eb946e8115bc7b3a\"",
-      "last_modified": "Sat, 14 Nov 2026 02:10:29 GMT",
-      "last_checked": "2026-11-14T13:21:23.860938+06:00",
+      "etag": "W/\"fd36bdfeb4ad01b69d7e65526d8e3e25\"",
+      "last_modified": "Fri, 06 Nov 2026 20:47:57 GMT",
+      "last_checked": "2026-11-14T20:46:51.465463+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-14T13:21:24.035050+06:00",
+      "last_checked": "2026-11-14T20:46:51.677801+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-14T13:21:24.220386+06:00",
-      "fail_count": 170,
+      "last_checked": "2026-11-14T20:46:51.872527+06:00",
+      "fail_count": 171,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"e1519d50757ce6abc71ed9927095e49b\"",
-      "last_modified": "Fri, 13 Nov 2026 06:13:12 GMT",
-      "last_checked": "2026-11-14T13:21:24.513326+06:00",
+      "etag": "W/\"436d0f452cc0d619bd618c475648c68d\"",
+      "last_modified": "Sat, 14 Nov 2026 06:13:14 GMT",
+      "last_checked": "2026-11-14T20:46:52.088590+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "escapistmagazine.com/tripwire-cuts-36-more-jobs-days-after-expanding-its-tripwire-presents-indie-label": {
-      "title": "Tripwire cuts 36 more jobs days after expanding its Tripwire Presents indie label - The Escapist",
-      "url": "https://www.escapistmagazine.com/tripwire-cuts-36-more-jobs-days-after-expanding-its-tripwire-presents-indie-label/",
-      "canonical": "escapistmagazine.com/tripwire-cuts-36-more-jobs-days-after-expanding-its-tripwire-presents-indie-label",
-      "published_dt": "2026-11-10T12:13:12+06:00",
-      "published_date": "2026-11-10T12:13:12+06:00",
-      "source": "The Escapist",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "posted",
-      "first_seen": "2026-11-10T14:00:53.917679+06:00",
-      "last_seen": "2026-11-10T14:00:53.917684+06:00",
-      "posted_at": "2026-11-10T14:06:05.279284+06:00"
-    },
-    "fr.ign.com/grand-theft-auto-6/93820/une-vraie-voiture-gta-6-est-vendue-pour-12-million-deuros": {
-      "title": "Une vraie voiture GTA 6 est vendue pour 1,2 million d'euros",
-      "url": "https://fr.ign.com/grand-theft-auto-6/93820/une-vraie-voiture-gta-6-est-vendue-pour-12-million-deuros",
-      "canonical": "fr.ign.com/grand-theft-auto-6/93820/une-vraie-voiture-gta-6-est-vendue-pour-12-million-deuros",
-      "published_dt": "2026-11-10T12:51:27+06:00",
-      "published_date": "2026-11-10T12:51:27+06:00",
-      "source": "fr.ign.com",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-10T14:00:53.917741+06:00",
-      "last_seen": "2026-11-10T14:00:53.917744+06:00"
-    },
-    "de.ign.com/call-of-duty-modern-warfare-4/157122/call-of-duty-facetime-chat-fuhrt-zur-evakuierung-eines-flugzeugs": {
-      "title": "Call of Duty-FaceTime-Chat führt zur Evakuierung eines Flugzeugs",
-      "url": "https://de.ign.com/call-of-duty-modern-warfare-4/157122/call-of-duty-facetime-chat-fuhrt-zur-evakuierung-eines-flugzeugs",
-      "canonical": "de.ign.com/call-of-duty-modern-warfare-4/157122/call-of-duty-facetime-chat-fuhrt-zur-evakuierung-eines-flugzeugs",
-      "published_dt": "2026-11-10T11:29:20+06:00",
-      "published_date": "2026-11-10T11:29:20+06:00",
-      "source": "de.ign.com",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "https://sm.ign.com/t/ign_de/news/c/call-of-du/call-of-duty-facetime-chat-causes-plane-to-be-evacuated_acd5.1200.jpg",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-10T14:00:53.917792+06:00",
-      "last_seen": "2026-11-10T14:00:53.917794+06:00"
-    },
-    "hu.ign.com/dc-univerzum-dcu/114950/james-gunnek-mar-az-igazsag-ligaja-felvezetesen-gondolkoztak-a-skydance-viszont-elegedetlen-volt-a-d": {
-      "title": "James Gunnék már az Igazság Ligája felvezetésén gondolkoztak, a Skydance viszont elégedetlen volt a DCU piaci teljesítményével egy jelentés szerint",
-      "url": "https://hu.ign.com/dc-univerzum-dcu/114950/james-gunnek-mar-az-igazsag-ligaja-felvezetesen-gondolkoztak-a-skydance-viszont-elegedetlen-volt-a-d",
-      "canonical": "hu.ign.com/dc-univerzum-dcu/114950/james-gunnek-mar-az-igazsag-ligaja-felvezetesen-gondolkoztak-a-skydance-viszont-elegedetlen-volt-a-d",
-      "published_dt": "2026-11-10T13:24:01+06:00",
-      "published_date": "2026-11-10T13:24:01+06:00",
-      "source": "hu.ign.com",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "https://sm.ign.com/t/ign_hu/screenshot/default/blob_315b.1200.jpg",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-10T14:00:53.917841+06:00",
-      "last_seen": "2026-11-10T14:00:53.917843+06:00"
-    },
-    "kotaku.com/games/bounty-hunters-2": {
-      "title": "Bounty Hunters - Kotaku",
-      "url": "https://kotaku.com/games/bounty-hunters-2",
-      "canonical": "kotaku.com/games/bounty-hunters-2",
-      "published_dt": "2026-11-10T13:01:50+06:00",
-      "published_date": "2026-11-10T13:01:50+06:00",
-      "source": "Kotaku",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "https://kotaku.com/app/uploads/2025/07/kotaku-1200x900-1.jpg",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-10T14:00:53.917887+06:00",
-      "last_seen": "2026-11-10T14:00:53.917889+06:00"
-    },
-    "kotaku.com/games/tetromancer": {
-      "title": "Tetromancer - Kotaku",
-      "url": "https://kotaku.com/games/tetromancer",
-      "canonical": "kotaku.com/games/tetromancer",
-      "published_dt": "2026-11-10T13:01:51+06:00",
-      "published_date": "2026-11-10T13:01:51+06:00",
-      "source": "Kotaku",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "https://kotaku.com/app/uploads/2025/07/kotaku-1200x900-1.jpg",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-10T14:00:53.917930+06:00",
-      "last_seen": "2026-11-10T14:00:53.917933+06:00"
-    },
-    "kotaku.com/games/drain-it-all": {
-      "title": "Drain It All - Kotaku",
-      "url": "https://kotaku.com/games/drain-it-all",
-      "canonical": "kotaku.com/games/drain-it-all",
-      "published_dt": "2026-11-10T13:01:50+06:00",
-      "published_date": "2026-11-10T13:01:50+06:00",
-      "source": "Kotaku",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "https://kotaku.com/app/uploads/2025/07/kotaku-1200x900-1.jpg",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-10T14:00:53.917973+06:00",
-      "last_seen": "2026-11-10T14:00:53.917975+06:00"
-    },
-    "hu.ign.com/harry-potter-sorozat-hbo-max/114949/uj-posztereket-kapott-a-harry-potter-sorozat-amiken-hoseink-mutogatjak-nekunk-a-sajat-palcaikat": {
-      "title": "Új posztereket kapott a Harry Potter-sorozat, amiken hőseink mutogatják nekünk a saját pálcáikat",
-      "url": "https://hu.ign.com/harry-potter-sorozat-hbo-max/114949/uj-posztereket-kapott-a-harry-potter-sorozat-amiken-hoseink-mutogatjak-nekunk-a-sajat-palcaikat",
-      "canonical": "hu.ign.com/harry-potter-sorozat-hbo-max/114949/uj-posztereket-kapott-a-harry-potter-sorozat-amiken-hoseink-mutogatjak-nekunk-a-sajat-palcaikat",
-      "published_dt": "2026-11-10T11:51:29+06:00",
-      "published_date": "2026-11-10T11:51:29+06:00",
-      "source": "hu.ign.com",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "https://sm.ign.com/t/ign_hu/screenshot/default/1200x800_rhhx.1200.jpg",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-10T14:00:53.918018+06:00",
-      "last_seen": "2026-11-10T14:00:53.918020+06:00"
-    },
-    "techraptor.net/gaming/guides/queens-domain-deimpo-mausoleum-walkthrough": {
-      "title": "Queen's Domain Deimpo Mausoleum Walkthrough | TechRaptor",
-      "url": "https://techraptor.net/gaming/guides/queens-domain-deimpo-mausoleum-walkthrough",
-      "canonical": "techraptor.net/gaming/guides/queens-domain-deimpo-mausoleum-walkthrough",
-      "published_dt": "2026-11-10T12:36:56+06:00",
-      "published_date": "2026-11-10T12:36:56+06:00",
-      "source": "TechRaptor",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-10T14:00:55.213720+06:00",
-      "last_seen": "2026-11-10T14:00:55.213724+06:00"
-    },
-    "gamefaqs.gamespot.com/pc/732555-shrek-2/answers/121108-how-do-u-get-cheats-to-work": {
-      "title": "How do u get cheats to work?  - Shrek 2 Remastered Q&A for PlayStation 5 - GameFAQs",
-      "url": "https://gamefaqs.gamespot.com/pc/732555-shrek-2/answers/121108-how-do-u-get-cheats-to-work",
-      "canonical": "gamefaqs.gamespot.com/pc/732555-shrek-2/answers/121108-how-do-u-get-cheats-to-work",
-      "published_dt": "2026-11-10T13:35:52+06:00",
-      "published_date": "2026-11-10T13:35:52+06:00",
-      "source": "gamefaqs.gamespot.com",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-10T14:00:59.963155+06:00",
-      "last_seen": "2026-11-10T14:00:59.963160+06:00"
-    },
     "ign.com/articles/sony-confirms-gta-6-is-now-the-most-preordered-game-in-playstation-store-history-issues-official-preload-warning": {
       "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued",
       "url": "https://www.ign.com/articles/sony-confirms-gta-6-is-now-the-most-preordered-game-in-playstation-store-history-issues-official-preload-warning",
@@ -1862,7 +1701,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-11-11T13:30:01.525021+06:00",
-      "last_seen": "2026-11-12T04:29:19.799909+06:00"
+      "last_seen": "2026-11-14T20:46:49.475965+06:00"
     },
     "insider-gaming.com/how-to-play-gta-6-early-xbox-new-zealand-trick": {
       "title": "How to Play GTA 6 Early on XBOX With New Zealand Trick—All Time Zones, Explained",
@@ -1878,7 +1717,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-11-11T13:30:01.525262+06:00",
-      "last_seen": "2026-11-12T04:29:19.799655+06:00"
+      "last_seen": "2026-11-14T20:46:49.475732+06:00"
     },
     "insider-gaming.com/is-gta-6-out-now-launch-day-tracker": {
       "title": "Is GTA 6 Out Now? Grand Theft Auto 6 Launch Day Tracker",
@@ -6839,7 +6678,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-11-13T13:37:06.601549+06:00",
-      "last_seen": "2026-11-13T13:37:06.601551+06:00"
+      "last_seen": "2026-11-14T20:46:49.475483+06:00"
     },
     "insider-gaming.com/10-things-you-need-to-know-before-gta-6-comes-out": {
       "title": "10 Things You Need to Know Before GTA 6 Comes Out",
@@ -7673,7 +7512,7 @@
       "date_estimated": false,
       "status": "pending",
       "first_seen": "2026-11-14T03:49:04.424834+06:00",
-      "last_seen": "2026-11-14T03:49:04.424840+06:00"
+      "last_seen": "2026-11-14T20:46:49.476176+06:00"
     },
     "insider-gaming.com/interview-azur-promilia-goes-beyond-ambitions-azur-lane": {
       "title": "INTERVIEW: How Azur Promilia Goes Far Beyond The Ambitions of Azur Lane",
@@ -7915,313 +7754,317 @@
       "status": "pending",
       "first_seen": "2026-11-14T13:21:22.698869+06:00",
       "last_seen": "2026-11-14T13:21:22.698872+06:00"
+    },
+    "eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report": {
+      "title": "Ubisoft is reportedly making a new Rainbow Six Vegas game, nearly two decades after Vegas 2",
+      "url": "https://www.eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report",
+      "canonical": "eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report",
+      "published_dt": "2026-11-14T18:19:50+06:00",
+      "published_date": "2026-11-14T18:19:50+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Ubisoft is reportedly working on a new Rainbow Six Vegas game 18 years after the last entry in the series. Read more",
+      "image": "https://assetsio.gnwcdn.com/0000003726.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T20:46:46.330293+06:00",
+      "last_seen": "2026-11-14T20:46:46.330300+06:00"
+    },
+    "pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby": {
+      "title": "Formula 1 just found a bizarre financial supporter in horse girl gacha Umamusume: Pretty Derby",
+      "url": "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby/",
+      "canonical": "pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby",
+      "published_dt": "2026-11-14T20:00:00+06:00",
+      "published_date": "2026-11-14T20:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "I'm here for it, though.",
+      "image": "https://cdn.mos.cms.futurecdn.net/BpFYxubRLYPconHSVaEtbF-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T20:46:47.071305+06:00",
+      "last_seen": "2026-11-14T20:46:47.071311+06:00"
+    },
+    "pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry": {
+      "title": "40% of game developers use generative AI according to a new report, but more than half reckon the technology has a negative impact on the games industry",
+      "url": "https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/",
+      "canonical": "pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry",
+      "published_dt": "2026-11-14T18:53:03+06:00",
+      "published_date": "2026-11-14T18:53:03+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "The latest report from GDC shows a slight uptick in AI use, but negative sentiment towards the tech still dominates.",
+      "image": "https://cdn.mos.cms.futurecdn.net/Kig4bpRgMrvxFJcjUprT4Y-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-14T20:46:47.071441+06:00",
+      "last_seen": "2026-11-14T20:46:47.071445+06:00",
+      "posted_at": "2026-11-14T20:54:26.888982+06:00"
+    },
+    "polygon.com/big-walk-house-house-interview": {
+      "title": "Big Walk's AI Controversy Overshadows a Remarkable Creative Achievement",
+      "url": "https://www.polygon.com/big-walk-house-house-interview/",
+      "canonical": "polygon.com/big-walk-house-house-interview",
+      "published_dt": "2026-11-14T20:30:17+06:00",
+      "published_date": "2026-11-14T20:30:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "House House's 2026 Game of the Year contender used an LLM to get over the finish line, but the run to get there was pure human craft.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/bigwalkmegaphone.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T20:46:47.535901+06:00",
+      "last_seen": "2026-11-14T20:46:47.535906+06:00"
+    },
+    "polygon.com/pluribus-season-2-new-series-regular": {
+      "title": "Pluribus Season 2 Makes One Of Its Best Characters A Series Regular",
+      "url": "https://www.polygon.com/pluribus-season-2-new-series-regular/",
+      "canonical": "polygon.com/pluribus-season-2-new-series-regular",
+      "published_dt": "2026-11-14T20:08:22+06:00",
+      "published_date": "2026-11-14T20:08:22+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Expect to see a lot more of Koumba Diabaté in Pluribus Season 2, as Samba Schutte has become a series regular",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/breakfast.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T20:46:47.536037+06:00",
+      "last_seen": "2026-11-14T20:46:47.536040+06:00"
+    },
+    "polygon.com/gta-6-cast-rumors-speculation-confirmed-actors": {
+      "title": "Every GTA 6 Actor Rumored and Confirmed by Rockstar Ahead of Launch",
+      "url": "https://www.polygon.com/gta-6-cast-rumors-speculation-confirmed-actors/",
+      "canonical": "polygon.com/gta-6-cast-rumors-speculation-confirmed-actors",
+      "published_dt": "2026-11-14T18:30:17+06:00",
+      "published_date": "2026-11-14T18:30:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Who will play Jason, Lucia, and other major characters in GTA 6? Rockstar hasn't made an official reveal yet, but the internet has plenty of ideas.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T20:46:47.536277+06:00",
+      "last_seen": "2026-11-14T20:46:47.536281+06:00"
+    },
+    "polygon.com/rings-of-power-season-3-nazgnagol-vs-nazgul-explained": {
+      "title": "Rings of Power Just Changed the Nazgul in 1 Terrifying Way: ‘They Still Have a Human Side’",
+      "url": "https://www.polygon.com/rings-of-power-season-3-nazgnagol-vs-nazgul-explained/",
+      "canonical": "polygon.com/rings-of-power-season-3-nazgnagol-vs-nazgul-explained",
+      "published_dt": "2026-11-14T18:00:18+06:00",
+      "published_date": "2026-11-14T18:00:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Rings of Power season 3 shows how Sauron creates the Nazgûl. Showrunner Patrick McKay explains why the new Ring-servants haven't lost their humanity.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fellowship-nazgul.avif",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T20:46:47.536395+06:00",
+      "last_seen": "2026-11-14T20:46:47.536399+06:00"
+    },
+    "gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-take-two-ceo-calls-out-anthropic-and-openai-over-ai-game-clones-as-its-ironic-to-stomp-on-someone-elses-ip": {
+      "title": "Ahead of GTA 6, Take-Two CEO calls out Anthropic and OpenAI over AI game clones",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-take-two-ceo-calls-out-anthropic-and-openai-over-ai-game-clones-as-its-ironic-to-stomp-on-someone-elses-ip/",
+      "canonical": "gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-take-two-ceo-calls-out-anthropic-and-openai-over-ai-game-clones-as-its-ironic-to-stomp-on-someone-elses-ip",
+      "published_dt": "2026-11-14T19:10:08+06:00",
+      "published_date": "2026-11-14T19:10:08+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "After Claude blocked users from \"recreating someone else's specific game\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/q9VEvTmjqXdkuDN5ZDPPxh-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T20:46:48.306896+06:00",
+      "last_seen": "2026-11-14T20:46:48.306901+06:00"
+    },
+    "gamesradar.com/entertainment/dc-movies/the-dcu-is-dead-so-whats-next-five-theories-for-the-future-of-dc": {
+      "title": "The DCU is dead, so what's next? Five theories for the future of DC",
+      "url": "https://www.gamesradar.com/entertainment/dc-movies/the-dcu-is-dead-so-whats-next-five-theories-for-the-future-of-dc/",
+      "canonical": "gamesradar.com/entertainment/dc-movies/the-dcu-is-dead-so-whats-next-five-theories-for-the-future-of-dc",
+      "published_dt": "2026-11-14T19:00:00+06:00",
+      "published_date": "2026-11-14T19:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Here are the 5 ways the DC Universe can continue in a post-James Gunn world",
+      "image": "https://cdn.mos.cms.futurecdn.net/Res8Lufm9nJQiybS93cD4L-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T20:46:48.307019+06:00",
+      "last_seen": "2026-11-14T20:46:48.307022+06:00"
+    },
+    "gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-majoras-mask-remake-is-a-foregone-conclusion-after-ocarina-of-time-ex-nintendo-marketing-leads-say": {
+      "title": "Majora's Mask remake is \"a foregone conclusion\" after Ocarina of Time, ex-Nintendo marketers say",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-majoras-mask-remake-is-a-foregone-conclusion-after-ocarina-of-time-ex-nintendo-marketing-leads-say/",
+      "canonical": "gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-majoras-mask-remake-is-a-foregone-conclusion-after-ocarina-of-time-ex-nintendo-marketing-leads-say",
+      "published_dt": "2026-11-14T18:15:19+06:00",
+      "published_date": "2026-11-14T18:15:19+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"They probably already started making it\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/a7YoqDcEGU8vqmVeYh7pB8-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T20:46:48.307127+06:00",
+      "last_seen": "2026-11-14T20:46:48.307130+06:00"
+    },
+    "gamesradar.com/tabletop-gaming/marvel-legendary-2nd-edition-review": {
+      "title": "Marvel Legendary 2nd Edition review: \"Reboots an already-great card game into something even better\"",
+      "url": "https://www.gamesradar.com/tabletop-gaming/marvel-legendary-2nd-edition-review/",
+      "canonical": "gamesradar.com/tabletop-gaming/marvel-legendary-2nd-edition-review",
+      "published_dt": "2026-11-14T18:00:00+06:00",
+      "published_date": "2026-11-14T18:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Is Marvel Legendary Second Edition worth diving into, or upgrading for? We've broken down whether you should buy it, no matter whether you're a newcomer or veteran.",
+      "image": "https://cdn.mos.cms.futurecdn.net/WcyuuXJ7TYFzch9nbKuEn7-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T20:46:48.307230+06:00",
+      "last_seen": "2026-11-14T20:46:48.307232+06:00"
+    },
+    "pushsquare.com/news/2026/11/crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-world-tour": {
+      "title": "Crazy Taxi Makes a Stop in India for the Final Leg of Its World Tour",
+      "url": "https://www.pushsquare.com/news/2026/11/crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-world-tour",
+      "canonical": "pushsquare.com/news/2026/11/crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-world-tour",
+      "published_dt": "2026-11-14T20:30:00+06:00",
+      "published_date": "2026-11-14T20:30:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Namaste. SEGA has confirmed the fifth and final destination in Crazy Taxi: World Tour’s global adventure: India! A new trailer shows off the mix of rural and urban locations you can expect in the full release, and teases some of the missions you’ll experience – like shooting a Bollywood movie. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/07d176fab94c1/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-14T20:46:50.420012+06:00",
+      "last_seen": "2026-11-14T20:46:50.420019+06:00",
+      "posted_at": "2026-11-14T20:54:32.288382+06:00"
+    },
+    "pushsquare.com/news/2026/11/rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft": {
+      "title": "Rumour: Rainbow Six: Vegas 3 Now in the Works at Ubisoft",
+      "url": "https://www.pushsquare.com/news/2026/11/rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
+      "canonical": "pushsquare.com/news/2026/11/rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
+      "published_dt": "2026-11-14T19:30:00+06:00",
+      "published_date": "2026-11-14T19:30:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "18 years on from Vegas 2. Ubisoft has just greenlit and entered the early stages of development on a third Rainbow Six: Vegas game, according to a new Insider Gaming report . The outlet, which seems to have been clued up on internal Ubisoft happenings for years, claims the new entry is one of three projects that have just started production at Ubisoft Montreal, and one of the other two is also set in the Rainbow Six universe. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/211ef3d5e0cd3/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-14T20:46:50.420357+06:00",
+      "last_seen": "2026-11-14T20:46:50.420360+06:00",
+      "posted_at": "2026-11-14T20:54:21.432437+06:00"
+    },
+    "pushsquare.com/features/poll-are-you-hyped-for-novembers-10-new-ps-plus-games": {
+      "title": "Poll: Are You Hyped for November's 10 New PS Plus Games?",
+      "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-novembers-10-new-ps-plus-games",
+      "canonical": "pushsquare.com/features/poll-are-you-hyped-for-novembers-10-new-ps-plus-games",
+      "published_dt": "2026-11-14T19:00:00+06:00",
+      "published_date": "2026-11-14T19:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Plus or minus? I don't want to influence your opinion right out of the gate here, but November's PS Plus Extra lineup will surely go down as one of the service's strongest offerings in recent memory. It's got a bit of everything, but it's also packed with highly rated titles. Death Stranding 2: On the Beach was a Game of the Year contender just 12 months back — a madcap but heartfelt sequel to Kojima Productions' impressively unique 'strand-type' debut. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/00873b00ea66f/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T20:46:50.420681+06:00",
+      "last_seen": "2026-11-14T20:46:50.420684+06:00"
+    },
+    "pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-next-week-16th-22nd-november": {
+      "title": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out Next Week (16th-22nd November)",
+      "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-next-week-16th-22nd-november",
+      "canonical": "pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-next-week-16th-22nd-november",
+      "published_dt": "2026-11-14T18:00:00+06:00",
+      "published_date": "2026-11-14T18:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "GTA 6! GTA 6! GTA 6! Look, I'm gonna be real with you: GTA 6 is coming out next week, and you can tell. Rockstar's juggernaut arrives on PS5 at long last, and it's sent nearly every other game running for the hills. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/1621825d220de/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T20:46:50.420944+06:00",
+      "last_seen": "2026-11-14T20:46:50.420947+06:00"
+    },
+    "purexbox.com/news/2026/11/five-games-are-confirmed-for-xbox-game-pass-in-december-2026-so-far": {
+      "title": "Five Games Are Confirmed For Xbox Game Pass In December 2026 So Far",
+      "url": "https://www.purexbox.com/news/2026/11/five-games-are-confirmed-for-xbox-game-pass-in-december-2026-so-far",
+      "canonical": "purexbox.com/news/2026/11/five-games-are-confirmed-for-xbox-game-pass-in-december-2026-so-far",
+      "published_dt": "2026-11-14T20:30:00+06:00",
+      "published_date": "2026-11-14T20:30:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Looking forward at what's to come. We've made a habit of casting our gaze ahead and sharing with you an early look at what's in store for December 2026's Xbox Game Pass lineup. So far, we know of five games scheduled to arrive in a few weeks' time. Our highlight of the bunch is probably A Game About Digging A Hole Together . On the surface it might not seem like the biggest game, but the more you dig down, the better. At least that was the case with the single-player version of the game. This one is co-op! Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/b44371026fdfa/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-14T20:46:51.007873+06:00",
+      "last_seen": "2026-11-14T20:46:51.007878+06:00",
+      "posted_at": "2026-11-14T20:54:42.857209+06:00"
+    },
+    "purexbox.com/news/2026/11/these-10plus-games-are-coming-to-xbox-next-week-november-16-20": {
+      "title": "These 10+ Games Are Coming To Xbox Next Week (November 16-20)",
+      "url": "https://www.purexbox.com/news/2026/11/these-10plus-games-are-coming-to-xbox-next-week-november-16-20",
+      "canonical": "purexbox.com/news/2026/11/these-10plus-games-are-coming-to-xbox-next-week-november-16-20",
+      "published_dt": "2026-11-14T19:00:00+06:00",
+      "published_date": "2026-11-14T19:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Nothing particularly interesting, eh? Welcome to your Xbox games roundup for November 16-20 ! The big release of the week (and the year, and the decade, and of all time) is obviously GTA 6 , but there are some other interesting titles on the way including Ranger's Path: National Park Simulator and Vice: Magic City Mayhem , plus some more Xbox Game Pass goodness! Here's what's coming to Xbox next week: Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/6b0361c67b717/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T20:46:51.008217+06:00",
+      "last_seen": "2026-11-14T20:46:51.008220+06:00"
+    },
+    "purexbox.com/features/talking-point-what-are-you-playing-this-weekend-november-14-15": {
+      "title": "Talking Point: What Are You Playing This Weekend? (November 14-15)",
+      "url": "https://www.purexbox.com/features/talking-point-what-are-you-playing-this-weekend-november-14-15",
+      "canonical": "purexbox.com/features/talking-point-what-are-you-playing-this-weekend-november-14-15",
+      "published_dt": "2026-11-14T18:00:00+06:00",
+      "published_date": "2026-11-14T18:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Are you starting anything new? It's the penultimate weekend to get stuck into the games you'd like to finish before November 19th rolls up. It's WAYP time, people! You know the score by now, so let's hear what you're playing this weekend! This is your opportunity to have a chat with one another about what's good, what's worth playing, why you're vibing, or maybe, not vibing with certain games. It's an open floor, PX'ers. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/84ab271062530/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T20:46:51.008526+06:00",
+      "last_seen": "2026-11-14T20:46:51.008529+06:00"
+    },
+    "siliconera.com/sonic-racing-crossworlds-godzilla-stage-and-cars-are-a-good-kind-of-goofy": {
+      "title": "Sonic Racing: CrossWorlds Godzilla Stage and Cars Are a Good Kind of Goofy",
+      "url": "https://www.siliconera.com/sonic-racing-crossworlds-godzilla-stage-and-cars-are-a-good-kind-of-goofy/",
+      "canonical": "siliconera.com/sonic-racing-crossworlds-godzilla-stage-and-cars-are-a-good-kind-of-goofy",
+      "published_dt": "2026-11-14T20:00:00+06:00",
+      "published_date": "2026-11-14T20:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "The Sonic Racing: CrossWorlds Godzilla features some pretty smart design choices that result in some goofy fun.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T20:46:51.506916+06:00",
+      "last_seen": "2026-11-14T20:46:51.506922+06:00"
     }
   },
   "events": {
-    "evt_d198482a98a09d": {
-      "event_id": "evt_d198482a98a09d",
-      "event_key": "fortnite server downtime oct 15 maintenance explanation",
-      "event_subject": "Insider Gaming",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "fortnite server downtime oct 15 maintenance explanation",
-        "subject": "Insider Gaming",
-        "event_type": "other",
-        "action": "explain",
-        "status": "ongoing",
-        "modality": "unknown",
-        "game": "Fortnite",
-        "franchise": "Fortnite",
-        "institution": "Epic Games",
-        "target": "servers",
-        "platforms": [],
-        "topic": "Server status"
-      },
-      "sources": [
-        "Insider Gaming"
-      ],
-      "event_sources": [
-        "Insider Gaming"
-      ],
-      "claims": [
-        "Servers down for second half of Fortnitemares event"
-      ],
-      "importance_score": 64,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 30,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Fortnite Servers Down for October 15 Update, Return Expected by Morning",
-      "summary": "Epic Games has taken Fortnite offline at 4 AM ET for a several‑hour downtime to launch the second half of Fortnitemares event.",
-      "published_at": "2026-10-15T14:28:55+06:00",
-      "selected_at": "2026-10-15T10:59:12.998035+00:00",
-      "status": "published",
-      "message_id": 718,
-      "published_versions": [
-        {
-          "published_at": "2026-10-15T10:59:12.998035+00:00",
-          "headline": "Fortnite Servers Down for October 15 Update, Return Expected by Morning",
-          "claims": [
-            "Servers down for second half of Fortnitemares event"
-          ]
-        }
-      ]
-    },
-    "evt_f76b44c5f2cd00": {
-      "event_id": "evt_f76b44c5f2cd00",
-      "event_key": "epic games launcher feature update shorter waits software update announcement",
-      "event_subject": "The Escapist",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "epic games launcher feature update shorter waits software update announcement",
-        "subject": "The Escapist",
-        "event_type": "other",
-        "action": "announce",
-        "status": "announced",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "",
-        "institution": "Epic Games",
-        "target": "Epic Games Launcher",
-        "platforms": [
-          "Linux"
-        ],
-        "topic": "Software development"
-      },
-      "sources": [
-        "The Escapist"
-      ],
-      "event_sources": [
-        "The Escapist"
-      ],
-      "claims": [
-        "New launcher promises faster start‑up, but Linux users cannot test it yet"
-      ],
-      "importance_score": 40,
-      "coverage_score": 2,
-      "originality_score": 8,
-      "significance_score": 14,
-      "freshness_score": 10,
-      "source_trust_score": 6,
-      "headline": "Epic’s AI‑Assisted Launcher Cuts Store Load Time, Linux Support Delayed",
-      "summary": "Epic Games unveiled a preview of its AI‑driven launcher that opens the store in 5.47 seconds, outpacing Steam’s 10.07 seconds, while Linux users must wait for full support.",
-      "published_at": "2026-10-15T16:00:00+06:00",
-      "selected_at": "2026-10-15T10:59:18.303994+00:00",
-      "status": "published",
-      "message_id": 719,
-      "published_versions": [
-        {
-          "published_at": "2026-10-15T10:59:18.303994+00:00",
-          "headline": "Epic’s AI‑Assisted Launcher Cuts Store Load Time, Linux Support Delayed",
-          "claims": [
-            "New launcher promises faster start‑up, but Linux users cannot test it yet"
-          ]
-        }
-      ]
-    },
-    "evt_c9399cf9af1d9a": {
-      "event_id": "evt_c9399cf9af1d9a",
-      "event_key": "grand theft auto vi launch trailer release",
-      "event_subject": "Rockstar Games",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "grand theft auto vi launch trailer release",
-        "subject": "Rockstar Games",
-        "event_type": "other",
-        "action": "release",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Grand Theft Auto VI",
-        "franchise": "Grand Theft Auto",
-        "institution": "Rockstar Games",
-        "target": "public",
-        "platforms": [
-          "All"
-        ],
-        "topic": "trailer"
-      },
-      "sources": [
-        "Kotaku",
-        "GameSpot",
-        "PC Gamer",
-        "Pure Xbox",
-        "Eurogamer",
-        "GamesRadar+",
-        "Polygon",
-        "Gematsu",
-        "IGN",
-        "Push Square",
-        "Insider Gaming",
-        "VGC"
-      ],
-      "event_sources": [
-        "Kotaku",
-        "GameSpot",
-        "PC Gamer",
-        "Pure Xbox",
-        "Eurogamer",
-        "GamesRadar+",
-        "Polygon",
-        "Gematsu",
-        "IGN",
-        "Push Square",
-        "Insider Gaming",
-        "VGC"
-      ],
-      "claims": [
-        "official launch trailer published",
-        "original score composed by Justice",
-        "official launch trailer published",
-        "official launch trailer published",
-        "official launch trailer published",
-        "official launch trailer published",
-        "official launch trailer published",
-        "official launch trailer published",
-        "official launch trailer published",
-        "official launch trailer published"
-      ],
-      "importance_score": 97,
-      "coverage_score": 17,
-      "originality_score": 10,
-      "significance_score": 45,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Rockstar Drops Grand Theft Auto VI Launch Trailer Ahead of November Release",
-      "summary": "Rockstar Games unveiled the official Grand Theft Auto VI launch trailer, featuring new Justice music and confirming a November 19 launch on PlayStation 5 and Xbox Series.",
-      "published_at": "2026-10-15T19:13:59+06:00",
-      "selected_at": "2026-10-15T15:52:53.114278+00:00",
-      "status": "published",
-      "message_id": 720,
-      "published_versions": [
-        {
-          "published_at": "2026-10-15T15:52:53.114278+00:00",
-          "headline": "Rockstar Drops Grand Theft Auto VI Launch Trailer Ahead of November Release",
-          "claims": [
-            "official launch trailer published",
-            "original score composed by Justice",
-            "official launch trailer published",
-            "official launch trailer published",
-            "official launch trailer published",
-            "official launch trailer published",
-            "official launch trailer published",
-            "official launch trailer published",
-            "official launch trailer published",
-            "official launch trailer published"
-          ]
-        }
-      ]
-    },
-    "evt_b1ed7570cfdd9f": {
-      "event_id": "evt_b1ed7570cfdd9f",
-      "event_key": "total war shogun 2 complete edition temporary delist sega",
-      "event_subject": "SEGA",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "total war shogun 2 complete edition temporary delist sega",
-        "subject": "SEGA",
-        "event_type": "other",
-        "action": "announced",
-        "status": "temporary",
-        "modality": "unknown",
-        "game": "Total War: Shogun 2 Complete Edition",
-        "franchise": "Total War",
-        "institution": "Insider Gaming",
-        "target": "store availability",
-        "platforms": [],
-        "topic": "product removal"
-      },
-      "sources": [
-        "Insider Gaming",
-        "VGC",
-        "Kotaku"
-      ],
-      "event_sources": [
-        "Insider Gaming",
-        "VGC",
-        "Kotaku"
-      ],
-      "claims": [
-        "will be delisted following community backlash",
-        "pulled because of bugs and AI‑art issues",
-        "remake withdrawn from stores"
-      ],
-      "importance_score": 50,
-      "coverage_score": 10,
-      "originality_score": 8,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "SEGA Temporarily Delists Total War: Shogun 2 Complete Edition",
-      "summary": "SEGA is pulling Total War: Shogun 2 – Complete Edition from digital stores after overwhelming negative reviews, while reinstating the original game pending fixes.",
-      "published_at": "2026-10-15T20:22:29+06:00",
-      "selected_at": "2026-10-15T15:52:58.845010+00:00",
-      "status": "published",
-      "message_id": 721,
-      "published_versions": [
-        {
-          "published_at": "2026-10-15T15:52:58.845010+00:00",
-          "headline": "SEGA Temporarily Delists Total War: Shogun 2 Complete Edition",
-          "claims": [
-            "will be delisted following community backlash",
-            "pulled because of bugs and AI‑art issues",
-            "remake withdrawn from stores"
-          ]
-        }
-      ]
-    },
-    "evt_505cafd666b0d9": {
-      "event_id": "evt_505cafd666b0d9",
-      "event_key": "valorant game changers final to be held at valorant champions 2027",
-      "event_subject": "Riot Games",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "valorant game changers final to be held at valorant champions 2027",
-        "subject": "Riot Games",
-        "event_type": "other",
-        "action": "schedule",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Valorant",
-        "franchise": "Valorant",
-        "institution": "Riot Games",
-        "target": "players",
-        "platforms": [
-          "All"
-        ],
-        "topic": "esports"
-      },
-      "sources": [
-        "Insider Gaming"
-      ],
-      "event_sources": [
-        "Insider Gaming"
-      ],
-      "claims": [
-        "Game Changers final will conclude at Champions 2027"
-      ],
-      "importance_score": 49,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 15,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Valorant Game Changers Finale Moves to Champions 2027 in Austin",
-      "summary": "Riot Games will host the Valorant Game Changers Championship finale at Valorant Champions 2027 in Austin, expanding the event’s scale dramatically.",
-      "published_at": "2026-10-15T19:53:16+06:00",
-      "selected_at": "2026-10-15T15:53:04.367184+00:00",
-      "status": "published",
-      "message_id": 722,
-      "published_versions": [
-        {
-          "published_at": "2026-10-15T15:53:04.367184+00:00",
-          "headline": "Valorant Game Changers Finale Moves to Champions 2027 in Austin",
-          "claims": [
-            "Game Changers final will conclude at Champions 2027"
-          ]
-        }
-      ]
-    },
     "evt_00da16dc197a86": {
       "event_id": "evt_00da16dc197a86",
       "event_key": "hitman absolution switch2 edition release",
@@ -8270,110 +8113,6 @@
           "headline": "Hitman: Absolution – Nintendo Switch 2 Edition Launches October 22 with Free Upgrade Offer",
           "claims": [
             "launches October 22"
-          ]
-        }
-      ]
-    },
-    "evt_cdb505649e0770": {
-      "event_id": "evt_cdb505649e0770",
-      "event_key": "fire emblem fortune s weave dlc wave and expansion pass launch",
-      "event_subject": "Nintendo & Intelligent Systems",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "fire emblem fortune s weave dlc wave and expansion pass launch",
-        "subject": "Nintendo & Intelligent Systems",
-        "event_type": "other",
-        "action": "release",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Fire Emblem: Fortune's Weave",
-        "franchise": "Fire Emblem",
-        "institution": "Nintendo",
-        "target": "players",
-        "platforms": [
-          "Switch"
-        ],
-        "topic": "dlc"
-      },
-      "sources": [
-        "Eurogamer"
-      ],
-      "event_sources": [
-        "Eurogamer"
-      ],
-      "claims": [
-        "first DLC wave and expansion pass available"
-      ],
-      "importance_score": 42,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Fire Emblem: Fortune’s Weave Expansion Pass Launches with New DLC",
-      "summary": "Nintendo and Intelligent Systems release a three‑part expansion pass for Fire Emblem: Fortune’s Weave, adding weapons, outfits, allies and story content through 2027.",
-      "published_at": "2026-10-15T19:48:43+06:00",
-      "selected_at": "2026-10-15T15:53:17.497659+00:00",
-      "status": "published",
-      "message_id": 724,
-      "published_versions": [
-        {
-          "published_at": "2026-10-15T15:53:17.497659+00:00",
-          "headline": "Fire Emblem: Fortune’s Weave Expansion Pass Launches with New DLC",
-          "claims": [
-            "first DLC wave and expansion pass available"
-          ]
-        }
-      ]
-    },
-    "evt_b29391cd4d7f2c": {
-      "event_id": "evt_b29391cd4d7f2c",
-      "event_key": "supermarket simulator ps5 release date confirmation",
-      "event_subject": "Supermarket Simulator Team",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "supermarket simulator ps5 release date confirmation",
-        "subject": "Supermarket Simulator Team",
-        "event_type": "other",
-        "action": "confirm",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Supermarket Simulator",
-        "franchise": "Supermarket Simulator",
-        "institution": "Independent",
-        "target": "players",
-        "platforms": [
-          "PS5"
-        ],
-        "topic": "release date"
-      },
-      "sources": [
-        "Push Square"
-      ],
-      "event_sources": [
-        "Push Square"
-      ],
-      "claims": [
-        "release scheduled for November"
-      ],
-      "importance_score": 39,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 9,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Supermarket Simulator Launches on PS5 This November with Physical Edition in December",
-      "summary": "The viral management sim Supermarket Simulator will hit PS5 digitally on 12 November 2026, followed by a Fully Stocked physical release on 4 December.",
-      "published_at": "2026-10-15T20:00:00+06:00",
-      "selected_at": "2026-10-15T15:53:23.387616+00:00",
-      "status": "published",
-      "message_id": 725,
-      "published_versions": [
-        {
-          "published_at": "2026-10-15T15:53:23.387616+00:00",
-          "headline": "Supermarket Simulator Launches on PS5 This November with Physical Edition in December",
-          "claims": [
-            "release scheduled for November"
           ]
         }
       ]
@@ -23987,6 +23726,215 @@
           "published_at": "2026-11-14T07:25:31.423284+00:00",
           "headline": "Super Meat Boy Again+ Announced for PC on Steam",
           "claims": []
+        }
+      ]
+    },
+    "evt_f728f1b8de0b0c": {
+      "event_id": "evt_f728f1b8de0b0c",
+      "event_key": "rainbow six vegas 3 development rumor",
+      "event_subject": "Ubisoft",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "rainbow six vegas 3 development rumor",
+        "subject": "Ubisoft",
+        "event_type": "rumor",
+        "action": "greenlight",
+        "status": "rumored",
+        "modality": "unknown",
+        "game": "Rainbow Six: Vegas 3",
+        "franchise": "Rainbow Six",
+        "institution": "",
+        "target": "new entry",
+        "platforms": [],
+        "topic": "series continuation"
+      },
+      "sources": [
+        "Push Square",
+        "Eurogamer"
+      ],
+      "event_sources": [
+        "Push Square",
+        "Eurogamer"
+      ],
+      "claims": [
+        "Early development stage",
+        "Working on new Vegas title"
+      ],
+      "importance_score": 47,
+      "coverage_score": 6,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 9,
+      "headline": "Ubisoft Greenlights Rainbow Six: Vegas 3 After 18‑Year Hiatus",
+      "summary": "Ubisoft Montreal has started early development on Rainbow Six: Vegas 3, the first new entry in the sub‑series since 2008.",
+      "published_at": "2026-11-14T19:30:00+06:00",
+      "selected_at": "2026-11-14T14:54:21.432472+00:00",
+      "status": "published",
+      "message_id": 1053,
+      "published_versions": [
+        {
+          "published_at": "2026-11-14T14:54:21.432472+00:00",
+          "headline": "Ubisoft Greenlights Rainbow Six: Vegas 3 After 18‑Year Hiatus",
+          "claims": [
+            "Early development stage",
+            "Working on new Vegas title"
+          ]
+        }
+      ]
+    },
+    "evt_cbdd6efd1753a1": {
+      "event_id": "evt_cbdd6efd1753a1",
+      "event_key": "gdc report on generative ai usage in game development",
+      "event_subject": "GDC",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gdc report on generative ai usage in game development",
+        "subject": "GDC",
+        "event_type": "other",
+        "action": "publish",
+        "status": "released",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "game developers",
+        "platforms": [],
+        "topic": "industry research"
+      },
+      "sources": [
+        "PC Gamer"
+      ],
+      "event_sources": [
+        "PC Gamer"
+      ],
+      "claims": [
+        "40% use AI, majority view negative impact"
+      ],
+      "importance_score": 43,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 13,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "40% of Developers Use Generative AI, Yet Over Half See Negative Industry Impact",
+      "summary": "A new State of the Game Industry report reveals 40% of developers employ generative AI tools, while 55% believe the technology harms the sector.",
+      "published_at": "2026-11-14T18:53:03+06:00",
+      "selected_at": "2026-11-14T14:54:26.889009+00:00",
+      "status": "published",
+      "message_id": 1054,
+      "published_versions": [
+        {
+          "published_at": "2026-11-14T14:54:26.889009+00:00",
+          "headline": "40% of Developers Use Generative AI, Yet Over Half See Negative Industry Impact",
+          "claims": [
+            "40% use AI, majority view negative impact"
+          ]
+        }
+      ]
+    },
+    "evt_fb3c6c56e03107": {
+      "event_id": "evt_fb3c6c56e03107",
+      "event_key": "crazy taxi world tour india destination announcement",
+      "event_subject": "SEGA",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "crazy taxi world tour india destination announcement",
+        "subject": "SEGA",
+        "event_type": "announcement",
+        "action": "confirm",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Crazy Taxi: World Tour",
+        "franchise": "Crazy Taxi",
+        "institution": "",
+        "target": "India",
+        "platforms": [],
+        "topic": "game expansion"
+      },
+      "sources": [
+        "Push Square"
+      ],
+      "event_sources": [
+        "Push Square"
+      ],
+      "claims": [
+        "India added as final destination"
+      ],
+      "importance_score": 37,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 7,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "SEGA Announces India as Final Destination for Crazy Taxi: World Tour",
+      "summary": "SEGA revealed that India completes the global roster for Crazy Taxi: World Tour, slated for full release in 2027.",
+      "published_at": "2026-11-14T20:30:00+06:00",
+      "selected_at": "2026-11-14T14:54:32.288411+00:00",
+      "status": "published",
+      "message_id": 1055,
+      "published_versions": [
+        {
+          "published_at": "2026-11-14T14:54:32.288411+00:00",
+          "headline": "SEGA Announces India as Final Destination for Crazy Taxi: World Tour",
+          "claims": [
+            "India added as final destination"
+          ]
+        }
+      ]
+    },
+    "evt_d9df4c5faed009": {
+      "event_id": "evt_d9df4c5faed009",
+      "event_key": "december 2026 xbox game pass lineup preview",
+      "event_subject": "Microsoft",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "december 2026 xbox game pass lineup preview",
+        "subject": "Microsoft",
+        "event_type": "other",
+        "action": "announce",
+        "status": "planned",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "Xbox Game Pass December 2026",
+        "platforms": [
+          "Xbox Series X|S",
+          "PC"
+        ],
+        "topic": "service lineup"
+      },
+      "sources": [
+        "Pure Xbox"
+      ],
+      "event_sources": [
+        "Pure Xbox"
+      ],
+      "claims": [
+        "Five games scheduled for December",
+        "GTA 6 and other titles arriving"
+      ],
+      "importance_score": 35,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 5,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Five New Titles Confirmed for Xbox Game Pass December 2026",
+      "summary": "Xbox Game Pass will add five diverse games in December 2026, ranging from co‑op digging adventures to fast‑paced soccer and spooky early‑access titles.",
+      "published_at": "2026-11-14T20:30:00+06:00",
+      "selected_at": "2026-11-14T14:54:42.857234+00:00",
+      "status": "published",
+      "message_id": 1056,
+      "published_versions": [
+        {
+          "published_at": "2026-11-14T14:54:42.857234+00:00",
+          "headline": "Five New Titles Confirmed for Xbox Game Pass December 2026",
+          "claims": [
+            "Five games scheduled for December",
+            "GTA 6 and other titles arriving"
+          ]
         }
       ]
     }
@@ -233825,13 +233773,716 @@
         "total": 30
       },
       "last_seen": "2026-11-14T13:23:29.650521+06:00"
+    },
+    "evt_8e30bdabb716f6": {
+      "event_id": "evt_8e30bdabb716f6",
+      "event_key": "gta 6 actor rumors and confirmations",
+      "event_subject": "Rockstar Games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta 6 actor rumors and confirmations",
+        "subject": "Rockstar Games",
+        "event_type": "other",
+        "action": "track",
+        "status": "unconfirmed",
+        "modality": "unknown",
+        "game": "GTA 6",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "cast members",
+        "platforms": [],
+        "topic": "casting"
+      },
+      "modality": "unknown",
+      "topic": "casting",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Various actors rumored"
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 44
+      },
+      "last_seen": "2026-11-14T20:51:16.607913+06:00"
+    },
+    "evt_cbdd6efd1753a1": {
+      "event_id": "evt_cbdd6efd1753a1",
+      "event_key": "gdc report on generative ai usage in game development",
+      "event_subject": "GDC",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gdc report on generative ai usage in game development",
+        "subject": "GDC",
+        "event_type": "other",
+        "action": "publish",
+        "status": "released",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "game developers",
+        "platforms": [],
+        "topic": "industry research"
+      },
+      "modality": "unknown",
+      "topic": "industry research",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "40% use AI, majority view negative impact"
+      ],
+      "importance_score": 43,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 43
+      },
+      "last_seen": "2026-11-14T20:51:16.607934+06:00"
+    },
+    "evt_b67641f563e5d5": {
+      "event_id": "evt_b67641f563e5d5",
+      "event_key": "ps5 and ps plus november 16 22 game release guide",
+      "event_subject": "Sony",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "ps5 and ps plus november 16 22 game release guide",
+        "subject": "Sony",
+        "event_type": "other",
+        "action": "list",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "PS5 and PS Plus",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "release schedule"
+      },
+      "modality": "unknown",
+      "topic": "release schedule",
+      "institution": "",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "13+ games including GTA 6"
+      ],
+      "importance_score": 43,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 43
+      },
+      "last_seen": "2026-11-14T20:51:16.607944+06:00"
+    },
+    "evt_f728f1b8de0b0c": {
+      "event_id": "evt_f728f1b8de0b0c",
+      "event_key": "rainbow six vegas 3 development rumor",
+      "event_subject": "Ubisoft",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "rainbow six vegas 3 development rumor",
+        "subject": "Ubisoft",
+        "event_type": "rumor",
+        "action": "greenlight",
+        "status": "rumored",
+        "modality": "unknown",
+        "game": "Rainbow Six: Vegas 3",
+        "franchise": "Rainbow Six",
+        "institution": "",
+        "target": "new entry",
+        "platforms": [],
+        "topic": "series continuation"
+      },
+      "modality": "unknown",
+      "topic": "series continuation",
+      "institution": "",
+      "sources": [
+        "Push Square",
+        "Eurogamer"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Early development stage",
+        "Working on new Vegas title"
+      ],
+      "importance_score": 47,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 47
+      },
+      "last_seen": "2026-11-14T20:51:16.607951+06:00"
+    },
+    "evt_1667bbdada2eda": {
+      "event_id": "evt_1667bbdada2eda",
+      "event_key": "take two ceo criticism of anthropic and openai ai game clones",
+      "event_subject": "Take‑Two Interactive",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "take two ceo criticism of anthropic and openai ai game clones",
+        "subject": "Take‑Two Interactive",
+        "event_type": "other",
+        "action": "call out",
+        "status": "stated",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "Anthropic and OpenAI",
+        "platforms": [],
+        "topic": "AI policy"
+      },
+      "modality": "unknown",
+      "topic": "AI policy",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "AI clones of games"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 11,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 37
+      },
+      "last_seen": "2026-11-14T20:51:16.607958+06:00"
+    },
+    "evt_b0a79dd4492f08": {
+      "event_id": "evt_b0a79dd4492f08",
+      "event_key": "big walk ai controversy",
+      "event_subject": "House House",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "big walk ai controversy",
+        "subject": "House House",
+        "event_type": "other",
+        "action": "use",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Big Walk",
+        "franchise": "Big Walk",
+        "institution": "",
+        "target": "LLM integration",
+        "platforms": [],
+        "topic": "AI ethics"
+      },
+      "modality": "unknown",
+      "topic": "AI ethics",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "AI was used to finish the game"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 9,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 39
+      },
+      "last_seen": "2026-11-14T20:51:16.607965+06:00"
+    },
+    "evt_87a91851eae0cc": {
+      "event_id": "evt_87a91851eae0cc",
+      "event_key": "dc universe future theories post james gunn",
+      "event_subject": "DC Studios",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "dc universe future theories post james gunn",
+        "subject": "DC Studios",
+        "event_type": "other",
+        "action": "speculate",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "DC",
+        "institution": "",
+        "target": "DCU future",
+        "platforms": [],
+        "topic": "franchise direction"
+      },
+      "modality": "unknown",
+      "topic": "franchise direction",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Five possible directions"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-11-14T20:51:16.607971+06:00"
+    },
+    "evt_fb3c6c56e03107": {
+      "event_id": "evt_fb3c6c56e03107",
+      "event_key": "crazy taxi world tour india destination announcement",
+      "event_subject": "SEGA",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "crazy taxi world tour india destination announcement",
+        "subject": "SEGA",
+        "event_type": "announcement",
+        "action": "confirm",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Crazy Taxi: World Tour",
+        "franchise": "Crazy Taxi",
+        "institution": "",
+        "target": "India",
+        "platforms": [],
+        "topic": "game expansion"
+      },
+      "modality": "unknown",
+      "topic": "game expansion",
+      "institution": "",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "India added as final destination"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 37
+      },
+      "last_seen": "2026-11-14T20:51:16.607978+06:00"
+    },
+    "evt_72d87fc60e5d7b": {
+      "event_id": "evt_72d87fc60e5d7b",
+      "event_key": "majora s mask remake speculation",
+      "event_subject": "Nintendo (ex‑marketers)",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "majora s mask remake speculation",
+        "subject": "Nintendo (ex‑marketers)",
+        "event_type": "other",
+        "action": "suggest",
+        "status": "unconfirmed",
+        "modality": "unknown",
+        "game": "Majora's Mask",
+        "franchise": "The Legend of Zelda",
+        "institution": "",
+        "target": "remake",
+        "platforms": [],
+        "topic": "remake rumors"
+      },
+      "modality": "unknown",
+      "topic": "remake rumors",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Foregone conclusion after Ocarina of Time"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 33
+      },
+      "last_seen": "2026-11-14T20:51:16.607984+06:00"
+    },
+    "evt_1dd2d46f27fc10": {
+      "event_id": "evt_1dd2d46f27fc10",
+      "event_key": "november ps plus extra lineup poll",
+      "event_subject": "PlayStation",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "november ps plus extra lineup poll",
+        "subject": "PlayStation",
+        "event_type": "other",
+        "action": "gauge interest",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "PS Plus Extra November 2026",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "service offering"
+      },
+      "modality": "unknown",
+      "topic": "service offering",
+      "institution": "",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "10 new games"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-11-14T20:51:16.607991+06:00"
+    },
+    "evt_d703b2d0a20087": {
+      "event_id": "evt_d703b2d0a20087",
+      "event_key": "marvel legendary second edition review",
+      "event_subject": "Fantasy Flight Games",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "marvel legendary second edition review",
+        "subject": "Fantasy Flight Games",
+        "event_type": "review",
+        "action": "evaluate",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Marvel Legendary Second Edition",
+        "franchise": "Marvel Legendary",
+        "institution": "",
+        "target": "card game",
+        "platforms": [],
+        "topic": "product review"
+      },
+      "modality": "unknown",
+      "topic": "product review",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Reboot improves original"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 32
+      },
+      "last_seen": "2026-11-14T20:51:16.607997+06:00"
+    },
+    "evt_7c13d78d45b6df": {
+      "event_id": "evt_7c13d78d45b6df",
+      "event_key": "rings of power season 3 nazg l humanity explanation",
+      "event_subject": "Amazon Studios",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "rings of power season 3 nazg l humanity explanation",
+        "subject": "Amazon Studios",
+        "event_type": "other",
+        "action": "explain",
+        "status": "released",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "The Lord of the Rings",
+        "institution": "",
+        "target": "Nazgûl portrayal",
+        "platforms": [],
+        "topic": "show analysis"
+      },
+      "modality": "unknown",
+      "topic": "show analysis",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Nazgûl retain human side"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-11-14T20:51:16.608005+06:00"
+    },
+    "evt_d9df4c5faed009": {
+      "event_id": "evt_d9df4c5faed009",
+      "event_key": "december 2026 xbox game pass lineup preview",
+      "event_subject": "Microsoft",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "december 2026 xbox game pass lineup preview",
+        "subject": "Microsoft",
+        "event_type": "other",
+        "action": "announce",
+        "status": "planned",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "Xbox Game Pass December 2026",
+        "platforms": [
+          "Xbox Series X|S",
+          "PC"
+        ],
+        "topic": "service lineup"
+      },
+      "modality": "unknown",
+      "topic": "service lineup",
+      "institution": "",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Five games scheduled for December",
+        "GTA 6 and other titles arriving"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-11-14T20:51:16.608012+06:00"
+    },
+    "evt_94c04cfcc6d987": {
+      "event_id": "evt_94c04cfcc6d987",
+      "event_key": "pluribus season 2 regular cast update",
+      "event_subject": "Pluribus",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pluribus season 2 regular cast update",
+        "subject": "Pluribus",
+        "event_type": "other",
+        "action": "make regular",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Pluribus",
+        "franchise": "Pluribus",
+        "institution": "",
+        "target": "Koumba Diabaté",
+        "platforms": [],
+        "topic": "TV series"
+      },
+      "modality": "unknown",
+      "topic": "TV series",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Actor becomes series regular"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-11-14T20:51:16.608019+06:00"
+    },
+    "evt_2493f60da245b3": {
+      "event_id": "evt_2493f60da245b3",
+      "event_key": "sonic racing crossworlds godzilla stage release",
+      "event_subject": "Sega",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sonic racing crossworlds godzilla stage release",
+        "subject": "Sega",
+        "event_type": "other",
+        "action": "add",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Sonic Racing: CrossWorlds",
+        "franchise": "Sonic",
+        "institution": "",
+        "target": "Godzilla stage",
+        "platforms": [],
+        "topic": "crossover content"
+      },
+      "modality": "unknown",
+      "topic": "crossover content",
+      "institution": "",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Goofy design choices"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-11-14T20:51:16.608026+06:00"
+    },
+    "evt_e48ff694402f49": {
+      "event_id": "evt_e48ff694402f49",
+      "event_key": "umamusume partnership with formula 1",
+      "event_subject": "Umamusume: Pretty Derby",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "umamusume partnership with formula 1",
+        "subject": "Umamusume: Pretty Derby",
+        "event_type": "other",
+        "action": "partner",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Umamusume: Pretty Derby",
+        "franchise": "Umamusume",
+        "institution": "Formula 1",
+        "target": "Formula 1",
+        "platforms": [],
+        "topic": "cross‑promotion"
+      },
+      "modality": "unknown",
+      "topic": "cross‑promotion",
+      "institution": "Formula 1",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Bizarre financial supporter"
+      ],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-11-14T20:51:16.608034+06:00"
+    },
+    "evt_4909d4152d43aa": {
+      "event_id": "evt_4909d4152d43aa",
+      "event_key": "pure xbox weekend gaming discussion thread",
+      "event_subject": "Pure Xbox community",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pure xbox weekend gaming discussion thread",
+        "subject": "Pure Xbox community",
+        "event_type": "other",
+        "action": "invite",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "community engagement"
+      },
+      "modality": "unknown",
+      "topic": "community engagement",
+      "institution": "",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Talk about weekend gaming plans"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-14T20:51:16.608042+06:00"
     }
   },
   "posted_event_ids": [
-    "evt_a285d4999b0618",
-    "evt_8e9aebf8c6cce3",
-    "evt_447c186c146a10",
-    "evt_226f20de9e017c",
     "evt_eb62430abbe426",
     "evt_3653ce8e3f1755",
     "evt_2c370d8ba47c51",
@@ -234327,10 +234978,13 @@
     "evt_0aa9f15ef7ed9f",
     "evt_ced07cb34ea716",
     "evt_0d057ba6d0a441",
-    "evt_21109cf1d3b136"
+    "evt_21109cf1d3b136",
+    "evt_f728f1b8de0b0c",
+    "evt_cbdd6efd1753a1",
+    "evt_fb3c6c56e03107",
+    "evt_d9df4c5faed009"
   ],
   "recent_titles": [
-    "cyberpunk 2077 to get live action film from paramount pictures",
     "silver pines merges silent hill horror with metroidvania mastery",
     "cbs sitcom ghosts now free on pluto tv ahead of season 6",
     "forza horizon 6 delayed to january 2027 on playstation 5 premium edition announced",
@@ -234730,15 +235384,19 @@
     "barbie rewind launches on pc bundles 16 classic games",
     "microsoft issues deep apology after global service outage hits millions",
     "the game awards 2026 streams live on roblox for first time",
-    "super meat boy again announced for pc on steam"
+    "super meat boy again announced for pc on steam",
+    "ubisoft greenlights rainbow six vegas 3 after 18 year hiatus",
+    "40 of developers use generative ai yet over half see negative industry impact",
+    "sega announces india as final destination for crazy taxi world tour",
+    "five new titles confirmed for xbox game pass december 2026"
   ],
   "category_coverage": {
-    "Game Updates": "2026-11-14T04:03:12.502167+06:00",
+    "Game Updates": "2026-11-14T20:54:42.857311+06:00",
     "Major Releases": "2026-11-14T13:25:31.423304+06:00",
     "Steam": "2026-11-10T23:08:27.321312+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
     "Nintendo": "2026-09-09T21:29:41.864902+06:00",
-    "Expansions and DLC": "2026-11-12T22:55:03.781817+06:00",
+    "Expansions and DLC": "2026-11-14T20:54:32.288462+06:00",
     "Gaming Hardware": "2026-11-13T04:51:27.181972+06:00",
     "Cybersecurity": "2026-11-08T20:13:14.639313+06:00",
     "Pricing and Monetization": "2026-11-12T22:54:53.394619+06:00",
