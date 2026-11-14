@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1c874-LPkAhtdXazki9svIMuo5hZ4Yeio\"",
+      "etag": "W/\"1eacd-c4Cav13it9y7FnC3bqGplYwUsgM\"",
       "last_modified": null,
-      "last_checked": "2026-11-14T03:49:00.158277+06:00",
+      "last_checked": "2026-11-14T13:21:19.211742+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-14T03:49:00.380953+06:00",
+      "last_checked": "2026-11-14T13:21:19.391412+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6af784fc-a93\"",
-      "last_modified": "Fri, 13 Nov 2026 21:45:32 GMT",
-      "last_checked": "2026-11-14T03:49:00.860458+06:00",
+      "etag": "\"6af80bc0-a95\"",
+      "last_modified": "Sat, 14 Nov 2026 07:20:32 GMT",
+      "last_checked": "2026-11-14T13:21:19.715152+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Fri, 13 Nov 2026 20:49:20 GMT",
-      "last_checked": "2026-11-14T03:49:01.051909+06:00",
+      "last_checked": "2026-11-14T13:21:19.929109+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "W/\"1490866f757c744b691dcafd0f0c164e\"",
-      "last_modified": "Fri, 13 Nov 2026 20:28:24 GMT",
-      "last_checked": "2026-11-14T03:49:01.428635+06:00",
+      "etag": "W/\"70f5357ad325a914ff494cb61216d183\"",
+      "last_modified": "Sat, 14 Nov 2026 05:49:18 GMT",
+      "last_checked": "2026-11-14T13:21:20.162648+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-14T03:49:01.710855+06:00",
+      "last_checked": "2026-11-14T13:21:20.305522+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-14T03:49:02.459859+06:00",
+      "last_checked": "2026-11-14T13:21:20.766079+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"b0046e47bee8e19bbf927eeb1a67f602\"",
-      "last_modified": "Fri, 13 Nov 2026 21:44:50 GMT",
-      "last_checked": "2026-11-14T03:49:02.732162+06:00",
+      "etag": "W/\"d9cbdbdc4c3a3a81d829d8f686d55b19\"",
+      "last_modified": "Sat, 14 Nov 2026 07:20:20 GMT",
+      "last_checked": "2026-11-14T13:21:21.055733+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-14T03:49:02.875199+06:00",
+      "last_checked": "2026-11-14T13:21:21.200659+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Fri, 13 Nov 2026 18:42:51 GMT",
-      "last_checked": "2026-11-14T03:49:03.283225+06:00",
+      "last_checked": "2026-11-14T13:21:21.595953+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Fri, 13 Nov 2026 21:49:04 GMT",
-      "last_checked": "2026-11-14T03:49:04.249446+06:00",
+      "last_modified": "Sat, 14 Nov 2026 07:21:22 GMT",
+      "last_checked": "2026-11-14T13:21:22.151799+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"ac5756fc30cd9629672aa04071396904\"",
-      "last_modified": "Fri, 13 Nov 2026 21:13:39 GMT",
-      "last_checked": "2026-11-14T03:49:04.413453+06:00",
+      "etag": "W/\"968e59db4ffa0a0f594a07476defb8ce\"",
+      "last_modified": "Sat, 14 Nov 2026 04:00:07 GMT",
+      "last_checked": "2026-11-14T13:21:22.243642+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-14T03:49:04.667894+06:00",
+      "last_checked": "2026-11-14T13:21:22.687434+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-14T03:49:05.060367+06:00",
+      "last_checked": "2026-11-14T13:21:23.099863+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-14T03:49:05.593519+06:00",
+      "last_checked": "2026-11-14T13:21:23.536512+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-14T03:49:05.969427+06:00",
-      "fail_count": 169,
+      "last_checked": "2026-11-14T13:21:23.729328+06:00",
+      "fail_count": 170,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"79dd5450861e7816c3d77704bb368ee1\"",
-      "last_modified": "Fri, 13 Nov 2026 19:00:46 GMT",
-      "last_checked": "2026-11-14T03:49:06.106306+06:00",
+      "etag": "W/\"bae0f960247e4a70eb946e8115bc7b3a\"",
+      "last_modified": "Sat, 14 Nov 2026 02:10:29 GMT",
+      "last_checked": "2026-11-14T13:21:23.860938+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-14T03:49:06.311742+06:00",
+      "last_checked": "2026-11-14T13:21:24.035050+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-14T03:49:06.497585+06:00",
-      "fail_count": 169,
+      "last_checked": "2026-11-14T13:21:24.220386+06:00",
+      "fail_count": 170,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"e1519d50757ce6abc71ed9927095e49b\"",
       "last_modified": "Fri, 13 Nov 2026 06:13:12 GMT",
-      "last_checked": "2026-11-14T03:49:06.620988+06:00",
+      "last_checked": "2026-11-14T13:21:24.513326+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -7818,61 +7818,106 @@
       "status": "pending",
       "first_seen": "2026-11-14T03:49:06.151496+06:00",
       "last_seen": "2026-11-14T03:49:06.151500+06:00"
+    },
+    "gematsu.com/2026/11/super-meat-boy-again-announced-for-pc": {
+      "title": "Super Meat Boy Again+ announced for PC",
+      "url": "https://www.gematsu.com/2026/11/super-meat-boy-again-announced-for-pc",
+      "canonical": "gematsu.com/2026/11/super-meat-boy-again-announced-for-pc",
+      "published_dt": "2026-11-14T10:36:04+06:00",
+      "published_date": "2026-11-14T10:36:04+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Team Meat has announced Super Meat Boy Again+, a game described as “everything you remember …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-14T13:21:20.175003+06:00",
+      "last_seen": "2026-11-14T13:21:20.175006+06:00",
+      "posted_at": "2026-11-14T13:25:31.423253+06:00"
+    },
+    "polygon.com/pokemon-go-wild-area-2026-global-habitats-schedule-bonuses": {
+      "title": "Pokémon Go Wild Area 2026 event schedule, habitat spawns, and bonuses",
+      "url": "https://www.polygon.com/pokemon-go-wild-area-2026-global-habitats-schedule-bonuses/",
+      "canonical": "polygon.com/pokemon-go-wild-area-2026-global-habitats-schedule-bonuses",
+      "published_dt": "2026-11-14T11:15:17+06:00",
+      "published_date": "2026-11-14T11:15:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Here's everything you need to know about Pokémon Go's Wild Area 2026 event, including the habitats, spawns, and bonuses.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261112_1001_pogo_wildhub.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T13:21:20.771287+06:00",
+      "last_seen": "2026-11-14T13:21:20.771290+06:00"
+    },
+    "polygon.com/pokemon-go-guide/483905/mighty-pokemon-list-schedule-moves": {
+      "title": "How to get mighty Pokémon in Pokémon Go",
+      "url": "https://www.polygon.com/pokemon-go-guide/483905/mighty-pokemon-list-schedule-moves/",
+      "canonical": "polygon.com/pokemon-go-guide/483905/mighty-pokemon-list-schedule-moves",
+      "published_dt": "2026-11-14T11:15:17+06:00",
+      "published_date": "2026-11-14T11:15:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Special \"mighty\" Pokémon appear during the Wild Area event. We explain what they are, their special moves, and a mighty Pokémon list to target.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261112_1001_pogo_wildmighty-1.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T13:21:20.771367+06:00",
+      "last_seen": "2026-11-14T13:21:20.771369+06:00"
+    },
+    "polygon.com/pokemon-go-guide/483165/go-safari-balls-how-to-get": {
+      "title": "How to get Go Safari Balls in Pokémon Go",
+      "url": "https://www.polygon.com/pokemon-go-guide/483165/go-safari-balls-how-to-get/",
+      "canonical": "polygon.com/pokemon-go-guide/483165/go-safari-balls-how-to-get",
+      "published_dt": "2026-11-14T11:15:17+06:00",
+      "published_date": "2026-11-14T11:15:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "As part of the “Wild Area: Global” Pokémon Go event, you can get Go Safari Balls, which have a high catch rate. We explain how to get more in our guide.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261112_1001_pogo_safariballs.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T13:21:20.771437+06:00",
+      "last_seen": "2026-11-14T13:21:20.771438+06:00"
+    },
+    "polygon.com/frodo-best-quote-lord-of-the-rings": {
+      "title": "25 Years Later, Frodo’s Best Lord of the Ring Quote Proves He's the Ultimate Fantasy Hero",
+      "url": "https://www.polygon.com/frodo-best-quote-lord-of-the-rings/",
+      "canonical": "polygon.com/frodo-best-quote-lord-of-the-rings",
+      "published_dt": "2026-11-14T11:00:17+06:00",
+      "published_date": "2026-11-14T11:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The Lord of the Rings is full of profound quotes, but Frodo's best one shows why he’s fantasy's greatest hero.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/elijah-wood-the-lord-of-the-rings.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T13:21:20.771507+06:00",
+      "last_seen": "2026-11-14T13:21:20.771508+06:00"
+    },
+    "nintendolife.com/news/2026/11/pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every-song-included": {
+      "title": "Pikmin's Mobile Soundtrack Has Been Added To Nintendo Music, Here's Every Song Included",
+      "url": "https://www.nintendolife.com/news/2026/11/pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every-song-included",
+      "canonical": "nintendolife.com/news/2026/11/pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every-song-included",
+      "published_dt": "2026-11-14T12:00:00+06:00",
+      "published_date": "2026-11-14T12:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Celebrating five years of \"blooming together\". Alongside the release of Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy this week, Nintendo added the mobile soundtrack Pikmin Bloom to its music app. This also happens to line up with the mobile title's fifth anniversary . Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/b7bb881087c51/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-14T13:21:22.698869+06:00",
+      "last_seen": "2026-11-14T13:21:22.698872+06:00"
     }
   },
   "events": {
-    "evt_4f19af19accec1": {
-      "event_id": "evt_4f19af19accec1",
-      "event_key": "nintendo ocarinaoftimeswitch2 overview trailer announcement",
-      "event_subject": "The Legend of Zelda: Ocarina of Time (Switch 2)",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "nintendo ocarinaoftimeswitch2 overview trailer announcement",
-        "subject": "The Legend of Zelda: Ocarina of Time (Switch 2)",
-        "event_type": "other",
-        "action": "overview_release",
-        "status": "announced",
-        "modality": "unknown",
-        "game": "The Legend of Zelda: Ocarina of Time",
-        "franchise": "The Legend of Zelda",
-        "institution": "Nintendo",
-        "target": "players",
-        "platforms": [
-          "Switch 2"
-        ],
-        "topic": "game_content"
-      },
-      "sources": [
-        "Nintendo Life"
-      ],
-      "event_sources": [
-        "Nintendo Life"
-      ],
-      "claims": [
-        "new museum and boss time‑trial mode shown"
-      ],
-      "importance_score": 47,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Zelda: Ocarina of Time Adds Museum and Boss Time Trial on Switch 2",
-      "summary": "Nintendo unveiled a Hall of Fallen Foes museum and timed boss rematches for the upcoming Switch 2 release of Ocarina of Time.",
-      "published_at": "2026-10-15T10:35:00+06:00",
-      "selected_at": "2026-10-15T05:42:42.967023+00:00",
-      "status": "published",
-      "message_id": 717,
-      "published_versions": [
-        {
-          "published_at": "2026-10-15T05:42:42.967023+00:00",
-          "headline": "Zelda: Ocarina of Time Adds Museum and Boss Time Trial on Switch 2",
-          "claims": [
-            "new museum and boss time‑trial mode shown"
-          ]
-        }
-      ]
-    },
     "evt_d198482a98a09d": {
       "event_id": "evt_d198482a98a09d",
       "event_key": "fortnite server downtime oct 15 maintenance explanation",
@@ -23894,6 +23939,54 @@
           "claims": [
             "Live voting, virtual merch, and player experience"
           ]
+        }
+      ]
+    },
+    "evt_21109cf1d3b136": {
+      "event_id": "evt_21109cf1d3b136",
+      "event_key": "team meat super meat boy again game announcement pc release",
+      "event_subject": "Team Meat",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "team meat super meat boy again game announcement pc release",
+        "subject": "Team Meat",
+        "event_type": "other",
+        "action": "announced",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Super Meat Boy Again+",
+        "franchise": "Super Meat Boy",
+        "institution": "Team Meat",
+        "target": "PC",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "release"
+      },
+      "sources": [
+        "Gematsu"
+      ],
+      "event_sources": [
+        "Gematsu"
+      ],
+      "claims": [],
+      "importance_score": 46,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Super Meat Boy Again+ Announced for PC on Steam",
+      "summary": "Team Meat revealed Super Meat Boy Again+, a nostalgic overhaul with new art, music, cutscenes, levels and secrets, slated for PC release.",
+      "published_at": "2026-11-14T10:36:04+06:00",
+      "selected_at": "2026-11-14T07:25:31.423284+00:00",
+      "status": "published",
+      "message_id": 1052,
+      "published_versions": [
+        {
+          "published_at": "2026-11-14T07:25:31.423284+00:00",
+          "headline": "Super Meat Boy Again+ Announced for PC on Steam",
+          "claims": []
         }
       ]
     }
@@ -233569,10 +233662,172 @@
         "total": 26
       },
       "last_seen": "2026-11-14T04:01:04.941761+06:00"
+    },
+    "evt_21109cf1d3b136": {
+      "event_id": "evt_21109cf1d3b136",
+      "event_key": "team meat super meat boy again game announcement pc release",
+      "event_subject": "Team Meat",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "team meat super meat boy again game announcement pc release",
+        "subject": "Team Meat",
+        "event_type": "other",
+        "action": "announced",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Super Meat Boy Again+",
+        "franchise": "Super Meat Boy",
+        "institution": "Team Meat",
+        "target": "PC",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "release"
+      },
+      "modality": "unknown",
+      "topic": "release",
+      "institution": "Team Meat",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 46
+      },
+      "last_seen": "2026-11-14T13:23:29.650495+06:00"
+    },
+    "evt_ac9b3e0fe4c2fa": {
+      "event_id": "evt_ac9b3e0fe4c2fa",
+      "event_key": "niantic pok mon go wild area 2026 event global event",
+      "event_subject": "Niantic",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "niantic pok mon go wild area 2026 event global event",
+        "subject": "Niantic",
+        "event_type": "other",
+        "action": "guide",
+        "status": "informational",
+        "modality": "unknown",
+        "game": "Pokémon Go",
+        "franchise": "Pokémon",
+        "institution": "Niantic",
+        "target": "Wild Area 2026 event",
+        "platforms": [
+          "iOS",
+          "Android"
+        ],
+        "topic": "go_safari_balls"
+      },
+      "modality": "unknown",
+      "topic": "go_safari_balls",
+      "institution": "Niantic",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-11-14T13:23:29.650514+06:00"
+    },
+    "evt_2cae4fde3a773e": {
+      "event_id": "evt_2cae4fde3a773e",
+      "event_key": "nintendo pikmin bloom soundtrack addition nintendo music",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo pikmin bloom soundtrack addition nintendo music",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "added",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "Pikmin Bloom",
+        "franchise": "Pikmin",
+        "institution": "Nintendo",
+        "target": "Nintendo Music app",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "topic": "soundtrack"
+      },
+      "modality": "unknown",
+      "topic": "soundtrack",
+      "institution": "Nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-11-14T13:23:29.650518+06:00"
+    },
+    "evt_049f33d521775f": {
+      "event_id": "evt_049f33d521775f",
+      "event_key": "polygon lord of the rings quote article analysis",
+      "event_subject": "Polygon",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "polygon lord of the rings quote article analysis",
+        "subject": "Polygon",
+        "event_type": "other",
+        "action": "published",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Lord of the Rings",
+        "institution": "Polygon",
+        "target": "",
+        "platforms": [],
+        "topic": "quote"
+      },
+      "modality": "unknown",
+      "topic": "quote",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 0,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 30
+      },
+      "last_seen": "2026-11-14T13:23:29.650521+06:00"
     }
   },
   "posted_event_ids": [
-    "evt_fa84306aedf7d4",
     "evt_a285d4999b0618",
     "evt_8e9aebf8c6cce3",
     "evt_447c186c146a10",
@@ -234071,11 +234326,10 @@
     "evt_b173135aa916f4",
     "evt_0aa9f15ef7ed9f",
     "evt_ced07cb34ea716",
-    "evt_0d057ba6d0a441"
+    "evt_0d057ba6d0a441",
+    "evt_21109cf1d3b136"
   ],
   "recent_titles": [
-    "amanita design announces long awaited machinarium 2 sequel after 17 years",
-    "nintendo switch sports resort trailer shows all 12 activities and new avatar options",
     "cyberpunk 2077 to get live action film from paramount pictures",
     "silver pines merges silent hill horror with metroidvania mastery",
     "cbs sitcom ghosts now free on pluto tv ahead of season 6",
@@ -234475,11 +234729,12 @@
     "mycorelic launches 1 0 robot soulslike wrapped in magical fungus",
     "barbie rewind launches on pc bundles 16 classic games",
     "microsoft issues deep apology after global service outage hits millions",
-    "the game awards 2026 streams live on roblox for first time"
+    "the game awards 2026 streams live on roblox for first time",
+    "super meat boy again announced for pc on steam"
   ],
   "category_coverage": {
     "Game Updates": "2026-11-14T04:03:12.502167+06:00",
-    "Major Releases": "2026-11-13T04:51:52.199705+06:00",
+    "Major Releases": "2026-11-14T13:25:31.423304+06:00",
     "Steam": "2026-11-10T23:08:27.321312+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
     "Nintendo": "2026-09-09T21:29:41.864902+06:00",
