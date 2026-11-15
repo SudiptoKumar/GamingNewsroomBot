@@ -2,192 +2,143 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"2434c-CoIQuiDAOpukx4mRjzZJzPwvkds\"",
+      "etag": "W/\"267e4-Gw1t8reCLzeuBtJJ/fa65kZDnQ0\"",
       "last_modified": null,
-      "last_checked": "2026-11-15T01:42:36.469789+06:00",
+      "last_checked": "2026-11-15T13:34:03.670999+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-15T01:42:36.666678+06:00",
+      "last_checked": "2026-11-15T13:34:03.877347+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6af8b931-a94\"",
-      "last_modified": "Sat, 14 Nov 2026 19:40:33 GMT",
-      "last_checked": "2026-11-15T01:42:37.010888+06:00",
+      "etag": "\"6af95f99-a95\"",
+      "last_modified": "Sun, 15 Nov 2026 07:30:33 GMT",
+      "last_checked": "2026-11-15T13:34:04.190959+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Sat, 14 Nov 2026 12:19:50 GMT",
-      "last_checked": "2026-11-15T01:42:37.222039+06:00",
+      "last_checked": "2026-11-15T13:34:04.957992+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
       "etag": "\"6af7f6b7-1395\"",
       "last_modified": "Sat, 14 Nov 2026 05:50:47 GMT",
-      "last_checked": "2026-11-15T01:42:37.480419+06:00",
+      "last_checked": "2026-11-15T13:34:05.193022+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-15T01:42:37.618537+06:00",
+      "last_checked": "2026-11-15T13:34:05.436655+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-15T01:42:38.355901+06:00",
+      "last_checked": "2026-11-15T13:34:06.085258+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"a051b0d530ece08012139b771a280c2d\"",
-      "last_modified": "Sat, 14 Nov 2026 19:33:27 GMT",
-      "last_checked": "2026-11-15T01:42:38.701141+06:00",
+      "etag": "W/\"5a4c7af260514d0190b0a5d5816c6ccc\"",
+      "last_modified": "Sun, 15 Nov 2026 07:33:55 GMT",
+      "last_checked": "2026-11-15T13:34:06.323255+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-15T01:42:38.998333+06:00",
+      "last_checked": "2026-11-15T13:34:06.439534+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Sat, 14 Nov 2026 18:22:11 GMT",
-      "last_checked": "2026-11-15T01:42:39.380029+06:00",
+      "last_modified": "Sat, 14 Nov 2026 23:44:42 GMT",
+      "last_checked": "2026-11-15T13:34:07.161170+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sat, 14 Nov 2026 19:42:39 GMT",
-      "last_checked": "2026-11-15T01:42:39.841529+06:00",
+      "last_modified": "Sun, 15 Nov 2026 07:34:07 GMT",
+      "last_checked": "2026-11-15T13:34:07.990665+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"086c5360977726707bd160a3620e5954\"",
-      "last_modified": "Sat, 14 Nov 2026 18:24:48 GMT",
-      "last_checked": "2026-11-15T01:42:40.337034+06:00",
+      "etag": "W/\"fb7cd781ae785373c06f5d5255ebb5bd\"",
+      "last_modified": "Sun, 15 Nov 2026 03:44:02 GMT",
+      "last_checked": "2026-11-15T13:34:08.566196+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-15T01:42:40.829611+06:00",
+      "last_checked": "2026-11-15T13:34:08.928426+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-15T01:42:41.345401+06:00",
+      "last_checked": "2026-11-15T13:34:09.273215+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-15T01:42:41.722764+06:00",
+      "last_checked": "2026-11-15T13:34:09.792693+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-15T01:42:42.100230+06:00",
-      "fail_count": 172,
+      "last_checked": "2026-11-15T13:34:10.197178+06:00",
+      "fail_count": 173,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"fd36bdfeb4ad01b69d7e65526d8e3e25\"",
-      "last_modified": "Fri, 06 Nov 2026 20:47:57 GMT",
-      "last_checked": "2026-11-15T01:42:42.221477+06:00",
+      "etag": "W/\"89874cf98c14bd7691aa068fcd3ebf29\"",
+      "last_modified": "Fri, 30 Oct 2026 19:13:06 GMT",
+      "last_checked": "2026-11-15T13:34:10.308190+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-15T01:42:42.376096+06:00",
+      "last_checked": "2026-11-15T13:34:10.494540+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-15T01:42:42.578461+06:00",
-      "fail_count": 172,
+      "last_checked": "2026-11-15T13:34:10.703672+06:00",
+      "fail_count": 173,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"436d0f452cc0d619bd618c475648c68d\"",
-      "last_modified": "Sat, 14 Nov 2026 06:13:14 GMT",
-      "last_checked": "2026-11-15T01:42:42.840236+06:00",
+      "etag": "W/\"4966207f96f9ec7a445a493de2f96430\"",
+      "last_modified": "Sun, 15 Nov 2026 07:03:10 GMT",
+      "last_checked": "2026-11-15T13:34:10.847866+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "gematsu.com/2026/11/the-legend-of-heroes-trails-beyond-the-horizon-sequel-to-launch-by-september-2027-in-japan": {
-      "title": "The Legend of Heroes: Trails beyond the Horizon sequel to launch by September 2027 in Japan",
-      "url": "https://www.gematsu.com/2026/11/the-legend-of-heroes-trails-beyond-the-horizon-sequel-to-launch-by-september-2027-in-japan",
-      "canonical": "gematsu.com/2026/11/the-legend-of-heroes-trails-beyond-the-horizon-sequel-to-launch-by-september-2027-in-japan",
-      "published_dt": "2026-11-11T11:21:56+06:00",
-      "published_date": "2026-11-11T11:21:56+06:00",
-      "source": "Gematsu",
-      "region": "Gaming",
-      "excerpt": "Falcom will release a sequel to The Legend of Heroes: Trails beyond the Horizon, the …",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-11-11T13:29:58.221050+06:00",
-      "last_seen": "2026-11-11T13:29:58.221057+06:00",
-      "posted_at": "2026-11-11T13:47:15.382814+06:00"
-    },
-    "polygon.com/lanterns-x-files-binge": {
-      "title": "Disney's Legendary 218-Episode Sci-Fi Series Is the Perfect Anti-'Lanterns' Binge",
-      "url": "https://www.polygon.com/lanterns-x-files-binge/",
-      "canonical": "polygon.com/lanterns-x-files-binge",
-      "published_dt": "2026-11-11T12:49:17+06:00",
-      "published_date": "2026-11-11T12:49:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "The DC Universe might be doomed, but X-Files is forever",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-halogram-kyle-chandler-and-john-stewart-aaron-pierre-walk-together-on-an-alien-planet-in-lanterns.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-11T13:29:59.401554+06:00",
-      "last_seen": "2026-11-11T13:29:59.401559+06:00"
-    },
-    "polygon.com/calvin-and-hobbes-5-best-rosalyn-babysitter-quotes": {
-      "title": "5 Funniest Quotes from 'Calvin and Hobbes’ Babysitter Rosalyn",
-      "url": "https://www.polygon.com/calvin-and-hobbes-5-best-rosalyn-babysitter-quotes/",
-      "canonical": "polygon.com/calvin-and-hobbes-5-best-rosalyn-babysitter-quotes",
-      "published_dt": "2026-11-11T11:00:17+06:00",
-      "published_date": "2026-11-11T11:00:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Rosalyn the babysitter used to hurl all kinds of insults at Calvin. These are the best of them.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/screen-shot-2026-10-27-at-7-04-21-pm.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-11T13:29:59.401703+06:00",
-      "last_seen": "2026-11-11T13:29:59.401706+06:00"
-    },
     "insider-gaming.com/how-to-gta-6-early-new-zealand-trick-playstation-5": {
       "title": "How to Play GTA 6 Early on PS5 With New Zealand Trick—All Time Zones, Explained",
       "url": "https://insider-gaming.com/how-to-gta-6-early-new-zealand-trick-playstation-5/",
@@ -236,22 +187,6 @@
       "first_seen": "2026-11-11T13:30:01.525481+06:00",
       "last_seen": "2026-11-13T13:37:06.602482+06:00"
     },
-    "insider-gaming.com/nyt-connections-hints-solutions-november-11-1249": {
-      "title": "NYT Connections Hints Today (#1249)—Answers for Wednesday, November 11",
-      "url": "https://insider-gaming.com/nyt-connections-hints-solutions-november-11-1249/",
-      "canonical": "insider-gaming.com/nyt-connections-hints-solutions-november-11-1249",
-      "published_dt": "2026-11-11T13:15:11+06:00",
-      "published_date": "2026-11-11T13:15:11+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1249)—Answers for Wednesday, November 11 appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-11T13:30:01.525694+06:00",
-      "last_seen": "2026-11-11T13:30:01.525697+06:00"
-    },
     "insider-gaming.com/gta-6-ultimate-edition-is-it-worth-paying-more": {
       "title": "GTA 6 Ultimate Edition: Is It Worth Paying More?",
       "url": "https://insider-gaming.com/gta-6-ultimate-edition-is-it-worth-paying-more/",
@@ -267,151 +202,6 @@
       "status": "pending",
       "first_seen": "2026-11-11T13:30:01.525898+06:00",
       "last_seen": "2026-11-13T13:37:06.602627+06:00"
-    },
-    "nintendolife.com/news/2026/11/its-terrific-take-two-boss-acknowledges-zelda-remakes-high-score-ahead-of-gta-vi-launch": {
-      "title": "\"It's Terrific\" - Take-Two Boss Acknowledges Zelda Remake's High Score Ahead Of GTA VI Launch",
-      "url": "https://www.nintendolife.com/news/2026/11/its-terrific-take-two-boss-acknowledges-zelda-remakes-high-score-ahead-of-gta-vi-launch",
-      "canonical": "nintendolife.com/news/2026/11/its-terrific-take-two-boss-acknowledges-zelda-remakes-high-score-ahead-of-gta-vi-launch",
-      "published_dt": "2026-11-11T12:45:00+06:00",
-      "published_date": "2026-11-11T12:45:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "\"They should be very proud\". There's been a lot of conversation online about the Zelda remake and Grand Theft Auto going head-to-head this month. GamesBeat has now asked the Take-Two Interactive boss Strauss Zelnick what he thinks about this and Ocarina of Time 's current Metacritic score of 96/100 . Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/72ab98a2164f3/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-11T13:30:02.116033+06:00",
-      "last_seen": "2026-11-11T13:30:02.116038+06:00"
-    },
-    "nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-pikmin-4-switch-2-edition-plus-dandori-academy": {
-      "title": "Round Up: The Reviews Are In For Pikmin 4 - Switch 2 Edition + Dandori Academy",
-      "url": "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-pikmin-4-switch-2-edition-plus-dandori-academy",
-      "canonical": "nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-pikmin-4-switch-2-edition-plus-dandori-academy",
-      "published_dt": "2026-11-11T10:45:00+06:00",
-      "published_date": "2026-11-11T10:45:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Here's what the critics had to say. Following the anticipated return of Zelda: Ocarina of Time last week, Nintendo has now released Pikmin 4 - Switch 2 Edition + Dandori Academy . The critic reviews have now gone live. If you haven't already seen ours, we gave it seven stars, calling it a pleasant but perplexing piecemeal. Nintendo Life - 7/10 : Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/2f51ac2b3a96e/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-11T13:30:02.116382+06:00",
-      "last_seen": "2026-11-11T13:30:02.116385+06:00"
-    },
-    "escapistmagazine.com/sony-cancels-fairgame-after-playtest-misses-retention-goals-haven-stays-open-as-support-studio": {
-      "title": "Sony cancels Fairgame$ after playtest misses retention goals, Haven stays open as support studio",
-      "url": "https://www.escapistmagazine.com/sony-cancels-fairgame-after-playtest-misses-retention-goals-haven-stays-open-as-support-studio/",
-      "canonical": "escapistmagazine.com/sony-cancels-fairgame-after-playtest-misses-retention-goals-haven-stays-open-as-support-studio",
-      "published_dt": "2026-11-11T12:13:12+06:00",
-      "published_date": "2026-11-11T12:13:12+06:00",
-      "source": "The Escapist",
-      "region": "Gaming",
-      "excerpt": "Sony has cancelled Fairgame$, Haven Studios' PvP heist shooter, after a large playtest fell short on player retention. The Montreal studio avoids layoffs but stops making its own game, the latest setback for PlayStation's live-service push. The post Sony cancels Fairgame$ after playtest misses retention goals, Haven stays open as support studio appeared first on The Escapist .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-11-11T13:30:04.341135+06:00",
-      "last_seen": "2026-11-11T13:30:04.341141+06:00",
-      "posted_at": "2026-11-11T13:47:09.532129+06:00"
-    },
-    "shacknews.com/article/151326/sony-ps5-has-sold-100-million-units-since-launch": {
-      "title": "Sony PlayStation 5 has sold over 100 million console units as of November 10, 2026 | Shacknews",
-      "url": "https://www.shacknews.com/article/151326/sony-ps5-has-sold-100-million-units-since-launch",
-      "canonical": "shacknews.com/article/151326/sony-ps5-has-sold-100-million-units-since-launch",
-      "published_dt": "2026-11-11T11:10:00+06:00",
-      "published_date": "2026-11-11T11:10:00+06:00",
-      "source": "Shacknews",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "https://d1lss44hh2trtw.cloudfront.net/assets/articles/2026/11/11/sony-ps5-has-sold-100-million-units-since-launch_feature.jpg",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-11T13:30:12.227095+06:00",
-      "last_seen": "2026-11-11T13:30:12.227100+06:00"
-    },
-    "shacknews.com/article/151327/legend-of-zelda-5-2-million-sales-four-days": {
-      "title": "The Legend of Zelda: Ocarina of Time has sold 5.2 million units in four days | Shacknews",
-      "url": "https://www.shacknews.com/article/151327/legend-of-zelda-5-2-million-sales-four-days",
-      "canonical": "shacknews.com/article/151327/legend-of-zelda-5-2-million-sales-four-days",
-      "published_dt": "2026-11-11T13:03:00+06:00",
-      "published_date": "2026-11-11T13:03:00+06:00",
-      "source": "Shacknews",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "https://d1lss44hh2trtw.cloudfront.net/assets/articles/2026/11/03/nintendo-zelda-ocarina-of-time-remake-map_feature.jpg",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-11T13:30:12.227159+06:00",
-      "last_seen": "2026-11-11T13:30:12.227162+06:00"
-    },
-    "shacknews.com/article/151325/evening-reading-november-10-2026": {
-      "title": "Evening Reading - November 10, 2026 | Shacknews",
-      "url": "https://www.shacknews.com/article/151325/evening-reading-november-10-2026",
-      "canonical": "shacknews.com/article/151325/evening-reading-november-10-2026",
-      "published_dt": "2026-11-11T10:30:00+06:00",
-      "published_date": "2026-11-11T10:30:00+06:00",
-      "source": "Shacknews",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "https://d1lss44hh2trtw.cloudfront.net/assets/articles/2026/10/27/1080p-evening-reading_feature.jpg",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-11T13:30:12.227344+06:00",
-      "last_seen": "2026-11-11T13:30:12.227346+06:00"
-    },
-    "hu.ign.com/fairgame/114968/a-playstation-torolte-a-fairgamest-a-betoros-elo-szolgaltatast-miutan-egy-teszt-soran-nem-talaltak-e": {
-      "title": "A PlayStation törölte a Fairgamest, a betörős élő szolgáltatást, miután egy teszt során nem találták elég jónak",
-      "url": "https://hu.ign.com/fairgame/114968/a-playstation-torolte-a-fairgamest-a-betoros-elo-szolgaltatast-miutan-egy-teszt-soran-nem-talaltak-e",
-      "canonical": "hu.ign.com/fairgame/114968/a-playstation-torolte-a-fairgamest-a-betoros-elo-szolgaltatast-miutan-egy-teszt-soran-nem-talaltak-e",
-      "published_dt": "2026-11-11T13:08:53+06:00",
-      "published_date": "2026-11-11T13:08:53+06:00",
-      "source": "hu.ign.com",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "https://sm.ign.com/t/ign_hu/screenshot/default/blob_9j2u.1200.jpg",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-11T13:30:12.227426+06:00",
-      "last_seen": "2026-11-11T13:30:12.227428+06:00"
-    },
-    "jp.ign.com/houkai-star-rail/84577": {
-      "title": "『崩壊：スターレイル』開発者インタビュー！アッハをプレイアブル化した理由から「ゼンゼロ」コラボの人選まで",
-      "url": "https://jp.ign.com/houkai-star-rail/84577/",
-      "canonical": "jp.ign.com/houkai-star-rail/84577",
-      "published_dt": "2026-11-11T10:35:47+06:00",
-      "published_date": "2026-11-11T10:35:47+06:00",
-      "source": "jp.ign.com",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "https://sm.ign.com/t/ign_jp/screenshot/default/sub4_qu2t.1200.png",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-11T13:30:14.566508+06:00",
-      "last_seen": "2026-11-11T13:30:14.566513+06:00"
-    },
-    "fr.ign.com/grand-theft-auto-6/93843/logitech-autorise-ses-employes-a-sabsenter-pour-les-sorties-de-jeux-video-juste-avant-celle-de-gta-6": {
-      "title": "Logitech autorise ses employés à s’absenter pour les sorties de jeux vidéo, juste avant celle de GTA 6",
-      "url": "https://fr.ign.com/grand-theft-auto-6/93843/logitech-autorise-ses-employes-a-sabsenter-pour-les-sorties-de-jeux-video-juste-avant-celle-de-gta-6",
-      "canonical": "fr.ign.com/grand-theft-auto-6/93843/logitech-autorise-ses-employes-a-sabsenter-pour-les-sorties-de-jeux-video-juste-avant-celle-de-gta-6",
-      "published_dt": "2026-11-11T13:00:34+06:00",
-      "published_date": "2026-11-11T13:00:34+06:00",
-      "source": "fr.ign.com",
-      "region": "Gaming",
-      "excerpt": "N o n e",
-      "image": "https://sm.ign.com/t/ign_fr/news/l/logitech-i/logitech-is-letting-employees-take-work-off-for-game-release_a5zd.1200.jpg",
-      "discovery": "exa",
-      "source_pool": "primary",
-      "status": "pending",
-      "first_seen": "2026-11-11T13:30:18.181216+06:00",
-      "last_seen": "2026-11-11T13:30:18.181221+06:00"
     },
     "ign.com/articles/tekken-legend-katsuhiro-harada-says-he-wishes-hardware-like-the-xbox-series-s-wouldnt-be-released": {
       "title": "Tekken Legend Katsuhiro Harada Says He Wishes 'Hardware Like the Xbox Series S Wouldn't Be Released'",
@@ -6918,250 +6708,91 @@
       "first_seen": "2026-11-15T01:42:40.344650+06:00",
       "last_seen": "2026-11-15T01:42:40.344654+06:00",
       "posted_at": "2026-11-15T02:03:41.790015+06:00"
+    },
+    "pcgamer.com/games/the-most-annoying-questgivers-in-pc-games": {
+      "title": "The most annoying questgivers in PC games",
+      "url": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
+      "canonical": "pcgamer.com/games/the-most-annoying-questgivers-in-pc-games",
+      "published_dt": "2026-11-15T13:21:40+06:00",
+      "published_date": "2026-11-15T13:21:40+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "The XP isn't worth it.",
+      "image": "https://cdn.mos.cms.futurecdn.net/AYyTypwYVPussabQGzn9TJ-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T13:34:05.622903+06:00",
+      "last_seen": "2026-11-15T13:34:05.622909+06:00"
+    },
+    "pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards": {
+      "title": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
+      "canonical": "pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards",
+      "published_dt": "2026-11-15T10:52:26+06:00",
+      "published_date": "2026-11-15T10:52:26+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "What, no Sideways Hank O'Mally?",
+      "image": "https://cdn.mos.cms.futurecdn.net/AkvZgaawSvDoiAwX5qbvvY-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-15T13:34:05.623009+06:00",
+      "last_seen": "2026-11-15T13:34:05.623012+06:00",
+      "posted_at": "2026-11-15T13:36:17.984327+06:00"
+    },
+    "polygon.com/sci-fi-miniseries-perfect-hook-first-episode": {
+      "title": "8 Near-Perfect Sci-Fi Miniseries that Hook You in the First Episode",
+      "url": "https://www.polygon.com/sci-fi-miniseries-perfect-hook-first-episode/",
+      "canonical": "polygon.com/sci-fi-miniseries-perfect-hook-first-episode",
+      "published_dt": "2026-11-15T11:00:18+06:00",
+      "published_date": "2026-11-15T11:00:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "These sci-fi miniseries accomplish so much within 12 or less episodes.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mv5bnwyzmda5mjqtzmnlns00nwrllwexmtqtogexowmwnjq2ntexxkeyxkfqcgc-_v1_.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T13:34:06.091987+06:00",
+      "last_seen": "2026-11-15T13:34:06.091991+06:00"
+    },
+    "nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update": {
+      "title": "Minecraft Is Getting Joy-Con Mouse Controls On Switch 2 In A Future Update",
+      "url": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update",
+      "canonical": "nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update",
+      "published_dt": "2026-11-15T12:30:00+06:00",
+      "published_date": "2026-11-15T12:30:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "You can try them out now in the closed beta. If you've read our Minecraft Switch 2 review here on Nintendo Life, you'll know one thing currently missing from this version is mouse mode. Fortunately, an update is already in the works to add Joy-Con 2 mouse controls to this version of the game. These controls can be accessed right now in the closed beta build. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/96d300dd2c811/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-15T13:34:08.943104+06:00",
+      "last_seen": "2026-11-15T13:34:08.943109+06:00",
+      "posted_at": "2026-11-15T13:36:23.608523+06:00"
+    },
+    "escapistmagazine.com/god-of-war-sons-of-sparta-hits-ps4-november-16-with-free-speedrun-and-one-hit-modes": {
+      "title": "God of War Sons of Sparta Hits PS4 November 16 With Free Speedrun and One-Hit Modes",
+      "url": "https://www.escapistmagazine.com/god-of-war-sons-of-sparta-hits-ps4-november-16-with-free-speedrun-and-one-hit-modes/",
+      "canonical": "escapistmagazine.com/god-of-war-sons-of-sparta-hits-ps4-november-16-with-free-speedrun-and-one-hit-modes",
+      "published_dt": "2026-11-15T13:03:10+06:00",
+      "published_date": "2026-11-15T13:03:10+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "Santa Monica Studio's 2D prequel God of War Sons of Sparta leaves PS5 exclusivity and reaches the 13-year-old PS4 on November 16. A free patch the same day adds two new modes on both consoles while fans wait for the delayed God of War Laufey. The post God of War Sons of Sparta Hits PS4 November 16 With Free Speedrun and One-Hit Modes appeared first on The Escapist .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T13:34:10.876647+06:00",
+      "last_seen": "2026-11-15T13:34:10.876652+06:00"
     }
   },
   "events": {
-    "evt_4f003866a983c1": {
-      "event_id": "evt_4f003866a983c1",
-      "event_key": "brave dungeon dark witch s story combat release ps5",
-      "event_subject": "Brave Dungeon + Dark Witch’s Story: COMBAT",
-      "event_type": "release",
-      "event_frame": {
-        "event_key": "brave dungeon dark witch s story combat release ps5",
-        "subject": "Brave Dungeon + Dark Witch’s Story: COMBAT",
-        "event_type": "release",
-        "action": "announce",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Brave Dungeon + Dark Witch’s Story: COMBAT",
-        "franchise": "Brave Dungeon + Dark Witch’s Story: COMBAT",
-        "institution": "Inside System",
-        "target": "",
-        "platforms": [
-          "PlayStation 5"
-        ],
-        "topic": "release"
-      },
-      "sources": [
-        "Gematsu"
-      ],
-      "event_sources": [
-        "Gematsu"
-      ],
-      "claims": [],
-      "importance_score": 39,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 5,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Inside System Brings Brave Dungeon + Dark Witch’s Story: COMBAT to PS5 on Oct 24",
-      "summary": "The indie studio Inside System releases the dungeon‑RPG bundle Brave Dungeon + Dark Witch’s Story: COMBAT for PlayStation 5 on October 24, now wishlisting on the PlayStation Store.",
-      "published_at": "2026-10-16T09:20:21+06:00",
-      "selected_at": "2026-10-16T05:39:57.015094+00:00",
-      "status": "published",
-      "message_id": 729,
-      "published_versions": [
-        {
-          "published_at": "2026-10-16T05:39:57.015094+00:00",
-          "headline": "Inside System Brings Brave Dungeon + Dark Witch’s Story: COMBAT to PS5 on Oct 24",
-          "claims": []
-        }
-      ]
-    },
-    "evt_9c2a7703d3269d": {
-      "event_id": "evt_9c2a7703d3269d",
-      "event_key": "dementium ii release steam",
-      "event_subject": "Dementium II",
-      "event_type": "release",
-      "event_frame": {
-        "event_key": "dementium ii release steam",
-        "subject": "Dementium II",
-        "event_type": "release",
-        "action": "announce",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Dementium II",
-        "franchise": "Dementium II",
-        "institution": "Atooi",
-        "target": "",
-        "platforms": [
-          "Steam"
-        ],
-        "topic": "release"
-      },
-      "sources": [
-        "Gematsu"
-      ],
-      "event_sources": [
-        "Gematsu"
-      ],
-      "claims": [],
-      "importance_score": 39,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 5,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Dementium II Remastered Hits Steam on October 20",
-      "summary": "Atooi’s horror sequel Dementium II launches a remastered PC version via Steam on October 20, reviving the classic for modern gamers.",
-      "published_at": "2026-10-16T09:01:42+06:00",
-      "selected_at": "2026-10-16T05:40:02.571872+00:00",
-      "status": "published",
-      "message_id": 730,
-      "published_versions": [
-        {
-          "published_at": "2026-10-16T05:40:02.571872+00:00",
-          "headline": "Dementium II Remastered Hits Steam on October 20",
-          "claims": []
-        }
-      ]
-    },
-    "evt_ca02cfc1805d68": {
-      "event_id": "evt_ca02cfc1805d68",
-      "event_key": "heavy metal death can release ps5 xbox series",
-      "event_subject": "Heavy Metal Death Can",
-      "event_type": "release",
-      "event_frame": {
-        "event_key": "heavy metal death can release ps5 xbox series",
-        "subject": "Heavy Metal Death Can",
-        "event_type": "release",
-        "action": "launch",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Heavy Metal Death Can",
-        "franchise": "Heavy Metal Death Can",
-        "institution": "Heavy Metal Death Can",
-        "target": "PlayStation 5, Xbox Series X|S",
-        "platforms": [
-          "PlayStation 5",
-          "Xbox Series X|S"
-        ],
-        "topic": "release"
-      },
-      "sources": [
-        "Gematsu"
-      ],
-      "event_sources": [
-        "Gematsu"
-      ],
-      "claims": [],
-      "importance_score": 39,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 5,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Heavy Metal Death Can launches on PlayStation 5 and Xbox Series at $17.49",
-      "summary": "Survival horror title Heavy Metal Death Can arrives on PlayStation 5 and Xbox Series, expanding beyond its original PC release with a $17.49 price tag.",
-      "published_at": "2026-10-16T10:05:50+06:00",
-      "selected_at": "2026-10-16T05:40:07.953252+00:00",
-      "status": "published",
-      "message_id": 731,
-      "published_versions": [
-        {
-          "published_at": "2026-10-16T05:40:07.953252+00:00",
-          "headline": "Heavy Metal Death Can launches on PlayStation 5 and Xbox Series at $17.49",
-          "claims": []
-        }
-      ]
-    },
-    "evt_c6e837d00f0b73": {
-      "event_id": "evt_c6e837d00f0b73",
-      "event_key": "nintendo switch 2 repair price hike japan",
-      "event_subject": "Switch 2 repair price hike",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "nintendo switch 2 repair price hike japan",
-        "subject": "Switch 2 repair price hike",
-        "event_type": "other",
-        "action": "increase",
-        "status": "announced",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "",
-        "institution": "Nintendo",
-        "target": "Japan",
-        "platforms": [
-          "Switch 2"
-        ],
-        "topic": "repair cost"
-      },
-      "sources": [
-        "Nintendo Life"
-      ],
-      "event_sources": [
-        "Nintendo Life"
-      ],
-      "claims": [],
-      "importance_score": 37,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 7,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Nintendo Raises Switch 2 Repair Costs Ahead of November Launch",
-      "summary": "Nintendo announced a repair price increase for Switch 2 and original Switch in Japan, effective 16 November 2026, affecting CPU board and LCD repairs.",
-      "published_at": "2026-10-16T08:55:00+06:00",
-      "selected_at": "2026-10-16T05:40:13.520612+00:00",
-      "status": "published",
-      "message_id": 732,
-      "published_versions": [
-        {
-          "published_at": "2026-10-16T05:40:13.520612+00:00",
-          "headline": "Nintendo Raises Switch 2 Repair Costs Ahead of November Launch",
-          "claims": []
-        }
-      ]
-    },
-    "evt_675e0148fd03b2": {
-      "event_id": "evt_675e0148fd03b2",
-      "event_key": "zelda ocarina of time switch 2 replica box reveal",
-      "event_subject": "Zelda: Ocarina of Time Switch 2",
-      "event_type": "reveal",
-      "event_frame": {
-        "event_key": "zelda ocarina of time switch 2 replica box reveal",
-        "subject": "Zelda: Ocarina of Time Switch 2",
-        "event_type": "reveal",
-        "action": "announce",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Zelda: Ocarina of Time",
-        "franchise": "Zelda",
-        "institution": "Nintendo",
-        "target": "French bonus",
-        "platforms": [
-          "Switch 2"
-        ],
-        "topic": "merchandise"
-      },
-      "sources": [
-        "Nintendo Life"
-      ],
-      "event_sources": [
-        "Nintendo Life"
-      ],
-      "claims": [],
-      "importance_score": 33,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 3,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Micromania Offers Replica Nintendo 64 Box With Zelda: Ocarina of Time Switch 2 Pre‑Orders",
-      "summary": "Fans can snag a limited‑edition Nintendo 64 box replica by pre‑ordering The Legend of Zelda: Ocarina of Time Switch 2 at Micromania’s midnight launch on November 4‑5 in France.",
-      "published_at": "2026-10-16T09:55:00+06:00",
-      "selected_at": "2026-10-16T05:40:21.251282+00:00",
-      "status": "published",
-      "message_id": 733,
-      "published_versions": [
-        {
-          "published_at": "2026-10-16T05:40:21.251282+00:00",
-          "headline": "Micromania Offers Replica Nintendo 64 Box With Zelda: Ocarina of Time Switch 2 Pre‑Orders",
-          "claims": []
-        }
-      ]
-    },
     "evt_8f62ba6f5393a6": {
       "event_id": "evt_8f62ba6f5393a6",
       "event_key": "assassins creed destiny footage leak 2026",
@@ -22730,6 +22361,104 @@
         {
           "published_at": "2026-11-14T20:03:53.236306+00:00",
           "headline": "Gunfire Hits Xbox Studio InXile, No Injuries Reported",
+          "claims": []
+        }
+      ]
+    },
+    "evt_6da276e90e873b": {
+      "event_id": "evt_6da276e90e873b",
+      "event_key": "gta 6 soundtrack leak confirmation",
+      "event_subject": "GTA 6 soundtrack leak",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta 6 soundtrack leak confirmation",
+        "subject": "GTA 6 soundtrack leak",
+        "event_type": "other",
+        "action": "confirm",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar Games / PC Gamer",
+        "target": "fans",
+        "platforms": [],
+        "topic": "soundtrack"
+      },
+      "sources": [
+        "PC Gamer"
+      ],
+      "event_sources": [
+        "PC Gamer"
+      ],
+      "claims": [
+        "accurate"
+      ],
+      "importance_score": 42,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 12,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "GTA 6 soundtrack leak reveals new tracks from Lana Del Rey and Keith Richards",
+      "summary": "A verified leak of the GTA 6 vinyl soundtrack showcases collaborations with Lana Del Rey, Playboi Carti, Keith Richards and other major artists.",
+      "published_at": "2026-11-15T10:52:26+06:00",
+      "selected_at": "2026-11-15T07:36:17.984358+00:00",
+      "status": "published",
+      "message_id": 1060,
+      "published_versions": [
+        {
+          "published_at": "2026-11-15T07:36:17.984358+00:00",
+          "headline": "GTA 6 soundtrack leak reveals new tracks from Lana Del Rey and Keith Richards",
+          "claims": [
+            "accurate"
+          ]
+        }
+      ]
+    },
+    "evt_28f69c28549c05": {
+      "event_id": "evt_28f69c28549c05",
+      "event_key": "minecraft switch2 joycon mouse controls beta",
+      "event_subject": "Minecraft Joy‑Con mouse controls for Switch 2",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "minecraft switch2 joycon mouse controls beta",
+        "subject": "Minecraft Joy‑Con mouse controls for Switch 2",
+        "event_type": "other",
+        "action": "add",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Minecraft",
+        "franchise": "Minecraft",
+        "institution": "Nintendo Life",
+        "target": "Switch 2 players",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "topic": "control_scheme"
+      },
+      "sources": [
+        "Nintendo Life"
+      ],
+      "event_sources": [
+        "Nintendo Life"
+      ],
+      "claims": [],
+      "importance_score": 40,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 10,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Minecraft Adds Joy‑Con Mouse Controls to Switch 2 in Upcoming Update",
+      "summary": "A beta update introduces Joy‑Con mouse mode for Minecraft on Switch 2, letting players customize cursor sensitivity and block actions.",
+      "published_at": "2026-11-15T12:30:00+06:00",
+      "selected_at": "2026-11-15T07:36:23.608552+00:00",
+      "status": "published",
+      "message_id": 1061,
+      "published_versions": [
+        {
+          "published_at": "2026-11-15T07:36:23.608552+00:00",
+          "headline": "Minecraft Adds Joy‑Con Mouse Controls to Switch 2 in Upcoming Update",
           "claims": []
         }
       ]
@@ -234070,11 +233799,213 @@
         "total": 32
       },
       "last_seen": "2026-11-15T01:57:37.529339+06:00"
+    },
+    "evt_6da276e90e873b": {
+      "event_id": "evt_6da276e90e873b",
+      "event_key": "gta 6 soundtrack leak confirmation",
+      "event_subject": "GTA 6 soundtrack leak",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta 6 soundtrack leak confirmation",
+        "subject": "GTA 6 soundtrack leak",
+        "event_type": "other",
+        "action": "confirm",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar Games / PC Gamer",
+        "target": "fans",
+        "platforms": [],
+        "topic": "soundtrack"
+      },
+      "modality": "unknown",
+      "topic": "soundtrack",
+      "institution": "Rockstar Games / PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "accurate"
+      ],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-11-15T13:34:16.667984+06:00"
+    },
+    "evt_28f69c28549c05": {
+      "event_id": "evt_28f69c28549c05",
+      "event_key": "minecraft switch2 joycon mouse controls beta",
+      "event_subject": "Minecraft Joy‑Con mouse controls for Switch 2",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "minecraft switch2 joycon mouse controls beta",
+        "subject": "Minecraft Joy‑Con mouse controls for Switch 2",
+        "event_type": "other",
+        "action": "add",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Minecraft",
+        "franchise": "Minecraft",
+        "institution": "Nintendo Life",
+        "target": "Switch 2 players",
+        "platforms": [
+          "Nintendo Switch 2"
+        ],
+        "topic": "control_scheme"
+      },
+      "modality": "unknown",
+      "topic": "control_scheme",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-11-15T13:34:16.668005+06:00"
+    },
+    "evt_0d7f0c0b090fc3": {
+      "event_id": "evt_0d7f0c0b090fc3",
+      "event_key": "god of war sons of sparta release ps4",
+      "event_subject": "God of War: Sons of Sparta",
+      "event_type": "release",
+      "event_frame": {
+        "event_key": "god of war sons of sparta release ps4",
+        "subject": "God of War: Sons of Sparta",
+        "event_type": "release",
+        "action": "launch",
+        "status": "published",
+        "modality": "unknown",
+        "game": "God of War: Sons of Sparta",
+        "franchise": "God of War",
+        "institution": "Santa Monica Studio / The Escapist",
+        "target": "PS4 owners",
+        "platforms": [
+          "PS4",
+          "PS5"
+        ],
+        "topic": "game_release"
+      },
+      "modality": "unknown",
+      "topic": "game_release",
+      "institution": "Santa Monica Studio / The Escapist",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-11-15T13:34:16.668012+06:00"
+    },
+    "evt_2041f4c294cf9d": {
+      "event_id": "evt_2041f4c294cf9d",
+      "event_key": "generic questgiver annoyance feature",
+      "event_subject": "Annoying questgivers in PC games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "generic questgiver annoyance feature",
+        "subject": "Annoying questgivers in PC games",
+        "event_type": "other",
+        "action": "list",
+        "status": "published",
+        "modality": "unknown",
+        "game": "various",
+        "franchise": "various",
+        "institution": "PC Gamer",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "questgivers"
+      },
+      "modality": "unknown",
+      "topic": "questgivers",
+      "institution": "PC Gamer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-15T13:34:16.668017+06:00"
+    },
+    "evt_efe4fde14dbb86": {
+      "event_id": "evt_efe4fde14dbb86",
+      "event_key": "generic scifi miniseries feature",
+      "event_subject": "Near‑perfect sci‑fi miniseries",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "generic scifi miniseries feature",
+        "subject": "Near‑perfect sci‑fi miniseries",
+        "event_type": "other",
+        "action": "list",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "viewers",
+        "platforms": [],
+        "topic": "sci_fi_miniseries"
+      },
+      "modality": "unknown",
+      "topic": "sci_fi_miniseries",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-11-15T13:34:16.668022+06:00"
     }
   },
   "posted_event_ids": [
-    "evt_b8ba082547bb6b",
-    "evt_58ead8b05eb9f7",
     "evt_d664a2f9bf37a2",
     "evt_423311b678abad",
     "evt_4c300e67c65198",
@@ -234572,12 +234503,11 @@
     "evt_d9df4c5faed009",
     "evt_fdafc3526caa75",
     "evt_b56fa74c07c7f2",
-    "evt_5947bc1e904d61"
+    "evt_5947bc1e904d61",
+    "evt_6da276e90e873b",
+    "evt_28f69c28549c05"
   ],
   "recent_titles": [
-    "youtuber permanently banned after posting hellraiser revival gameplay",
-    "ps5 qssr upscaling may exclude games on older sdks",
-    "zenless zone zero 3 3 journey to the sky update arrives oct 21",
     "nvidia rtx spark laptops launch at 2 599 99 pre orders open",
     "youtuber channel banned over hellraiser revival gameplay censorship dispute",
     "patch 5 01 gives the witcher 3 remastered stunning visual overhaul",
@@ -234977,10 +234907,12 @@
     "five new titles confirmed for xbox game pass december 2026",
     "take two ceo says ai cloning threatens gta 6 creativity not revenue",
     "blade runner franchise targets aaa game ambitions says alcon executive",
-    "gunfire hits xbox studio inxile no injuries reported"
+    "gunfire hits xbox studio inxile no injuries reported",
+    "gta 6 soundtrack leak reveals new tracks from lana del rey and keith richards",
+    "minecraft adds joy con mouse controls to switch 2 in upcoming update"
   ],
   "category_coverage": {
-    "Game Updates": "2026-11-15T02:03:53.236326+06:00",
+    "Game Updates": "2026-11-15T13:36:23.608576+06:00",
     "Major Releases": "2026-11-14T13:25:31.423304+06:00",
     "Steam": "2026-11-10T23:08:27.321312+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
