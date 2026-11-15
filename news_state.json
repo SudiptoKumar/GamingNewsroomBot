@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"267e4-Gw1t8reCLzeuBtJJ/fa65kZDnQ0\"",
+      "etag": "W/\"2fcea-OyrsWisz9Xr6zqVaf9oy7c6zNDE\"",
       "last_modified": null,
-      "last_checked": "2026-11-15T13:34:03.670999+06:00",
+      "last_checked": "2026-11-15T21:22:18.471305+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-15T13:34:03.877347+06:00",
+      "last_checked": "2026-11-15T21:22:18.683203+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6af95f99-a95\"",
-      "last_modified": "Sun, 15 Nov 2026 07:30:33 GMT",
-      "last_checked": "2026-11-15T13:34:04.190959+06:00",
+      "etag": "\"6af9cdc1-a94\"",
+      "last_modified": "Sun, 15 Nov 2026 15:20:33 GMT",
+      "last_checked": "2026-11-15T21:22:18.969249+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Sat, 14 Nov 2026 12:19:50 GMT",
-      "last_checked": "2026-11-15T13:34:04.957992+06:00",
+      "last_modified": "Sun, 15 Nov 2026 15:15:10 GMT",
+      "last_checked": "2026-11-15T21:22:19.447863+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
       "etag": "\"6af7f6b7-1395\"",
       "last_modified": "Sat, 14 Nov 2026 05:50:47 GMT",
-      "last_checked": "2026-11-15T13:34:05.193022+06:00",
+      "last_checked": "2026-11-15T21:22:19.731277+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-15T13:34:05.436655+06:00",
+      "last_checked": "2026-11-15T21:22:19.810354+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-15T13:34:06.085258+06:00",
+      "last_checked": "2026-11-15T21:22:20.266817+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"5a4c7af260514d0190b0a5d5816c6ccc\"",
-      "last_modified": "Sun, 15 Nov 2026 07:33:55 GMT",
-      "last_checked": "2026-11-15T13:34:06.323255+06:00",
+      "etag": "W/\"533ad085e8cfe65b3267fcf41935dacf\"",
+      "last_modified": "Sun, 15 Nov 2026 08:24:51 GMT",
+      "last_checked": "2026-11-15T21:22:20.454946+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-15T13:34:06.439534+06:00",
+      "last_checked": "2026-11-15T21:22:20.607294+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Sat, 14 Nov 2026 23:44:42 GMT",
-      "last_checked": "2026-11-15T13:34:07.161170+06:00",
+      "last_modified": "Sun, 15 Nov 2026 14:02:53 GMT",
+      "last_checked": "2026-11-15T21:22:21.098118+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sun, 15 Nov 2026 07:34:07 GMT",
-      "last_checked": "2026-11-15T13:34:07.990665+06:00",
+      "last_modified": "Sun, 15 Nov 2026 15:22:21 GMT",
+      "last_checked": "2026-11-15T21:22:21.519907+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"fb7cd781ae785373c06f5d5255ebb5bd\"",
-      "last_modified": "Sun, 15 Nov 2026 03:44:02 GMT",
-      "last_checked": "2026-11-15T13:34:08.566196+06:00",
+      "etag": "W/\"ccc31887039244994db3a18612eea40b\"",
+      "last_modified": "Sun, 15 Nov 2026 13:57:03 GMT",
+      "last_checked": "2026-11-15T21:22:21.624254+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-15T13:34:08.928426+06:00",
+      "last_checked": "2026-11-15T21:22:21.884227+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-15T13:34:09.273215+06:00",
+      "last_checked": "2026-11-15T21:22:22.187849+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-15T13:34:09.792693+06:00",
+      "last_checked": "2026-11-15T21:22:22.536556+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-15T13:34:10.197178+06:00",
-      "fail_count": 173,
+      "last_checked": "2026-11-15T21:22:22.741094+06:00",
+      "fail_count": 174,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"89874cf98c14bd7691aa068fcd3ebf29\"",
-      "last_modified": "Fri, 30 Oct 2026 19:13:06 GMT",
-      "last_checked": "2026-11-15T13:34:10.308190+06:00",
+      "etag": "W/\"b69f631fb6c49c6ae263be7a53d73d59\"",
+      "last_modified": "Wed, 04 Nov 2026 21:01:33 GMT",
+      "last_checked": "2026-11-15T21:22:22.808926+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-15T13:34:10.494540+06:00",
+      "last_checked": "2026-11-15T21:22:23.084929+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-15T13:34:10.703672+06:00",
-      "fail_count": 173,
+      "last_checked": "2026-11-15T21:22:23.194162+06:00",
+      "fail_count": 174,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"4966207f96f9ec7a445a493de2f96430\"",
       "last_modified": "Sun, 15 Nov 2026 07:03:10 GMT",
-      "last_checked": "2026-11-15T13:34:10.847866+06:00",
+      "last_checked": "2026-11-15T21:22:23.271063+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -6790,6 +6790,409 @@
       "status": "pending",
       "first_seen": "2026-11-15T13:34:10.876647+06:00",
       "last_seen": "2026-11-15T13:34:10.876652+06:00"
+    },
+    "ign.com/articles/xbox-at-25-my-memories-from-across-xboxs-entire-and-quite-incredible-history": {
+      "title": "Xbox at 25: My Memories From Across Xbox’s Entire (and Quite Incredible) History",
+      "url": "https://www.ign.com/articles/xbox-at-25-my-memories-from-across-xboxs-entire-and-quite-incredible-history",
+      "canonical": "ign.com/articles/xbox-at-25-my-memories-from-across-xboxs-entire-and-quite-incredible-history",
+      "published_dt": "2026-11-15T21:15:00+06:00",
+      "published_date": "2026-11-15T21:15:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "I’ve been lucky enough to have a front-row seat for most of the Xbox’s 25 years, covering the high highs and low lows of Microsoft’s pivot into the living room. It’s been quite a ride since November 15, 2001, and I wanted to mark the occasion by sharing some of my biggest memories with you. And, like everything else with Xbox, it started with Halo.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/12/xbox-25-blogroll-1794443667177.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:18.555430+06:00",
+      "last_seen": "2026-11-15T21:22:18.555437+06:00"
+    },
+    "gamespot.com/articles/i-loved-my-xbox-360s-all-four-of-them": {
+      "title": "I Loved My Xbox 360s–All Four Of Them",
+      "url": "https://www.gamespot.com/articles/i-loved-my-xbox-360s-all-four-of-them/",
+      "canonical": "gamespot.com/articles/i-loved-my-xbox-360s-all-four-of-them",
+      "published_dt": "2026-11-15T20:00:00+06:00",
+      "published_date": "2026-11-15T20:00:00+06:00",
+      "source": "GameSpot",
+      "region": "Gaming",
+      "excerpt": "Xbox is celebrating its 25-year anniversary today, November 15, 2026. Below, we take a look back at Microsoft's great, and infamously buggy, second console. In the mid to late aughts, the Xbox 360 reigned supreme. It felt like the center of the gaming universe , as the best place to play multiplatform hits like Modern Warfare and Grand Theft Auto, and the only way to play exclusive blockbusters like Halo 3. All of my high school friends were on Xbox Live every night, and online gaming became a ritual to me. My clearest, purest memories of gaming come from this era, and the Xbox 360 remains one of my favorite consoles of all time. It’s too bad that I burned through so many of them. The Xbox 360 was as infamous for hardware failures as it was famous for its amazing software library. It’s nearly impossible to look back at the 360 without also recalling the Red Ring of Death, the ominous three red lights surrounding the power button that indicates a general hardware error. This red ring was a plague on the initial Xbox 360 model, and the shipping and repairs for affected consoles cost Microsoft a little over a billion dollars . The Xbox 360 platform as a whole had an amazing lifespan--the first Xbox 360 consoles themselves, though, did not. Halo 3 Somehow, I had completely avoided the dreaded red ring with my original 360 model, but it wasn’t spared of all technical issues. One night, I plopped my Halo 3 disc in the tray, only to be met with a suspicious clicking-like noise. Instead of the Halo 3 icon appearing on my dashboard, a generic “Open Tray” message appeared in its place. Troubleshooting was a maddening process--all of my discs were returning the same message, and Google searches were largely unhelpful. Despite the functioning software, my 360 refused to read any of my physical games. It quickly became clear that my 360 was a lemon. I removed the hard drive, enveloped my 360 in bubble wrap, stuffed it in a box, and left it with UPS. The ordeal cost me $90, as my",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Xbox-360.jpg?w=300",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:18.773997+06:00",
+      "last_seen": "2026-11-15T21:22:18.774010+06:00"
+    },
+    "eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs": {
+      "title": "Treyarch lays off lead Call of Duty writer and Zombies veteran after \"approximately 20 years\" of service",
+      "url": "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs",
+      "canonical": "eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs",
+      "published_dt": "2026-11-15T21:14:10+06:00",
+      "published_date": "2026-11-15T21:14:10+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Treyarch's former Senior lead writer, Craig Houston, has been laid off after approximately 20 years of service with the developer. In a post made to both his Twitter/X account and LinkedIn , the developer thanked fans for their support during his two decades with the company and confirmed he was impacted by recent reorganistation within the studio. Read more",
+      "image": "https://assetsio.gnwcdn.com/CoD-WoW_header.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:19.549531+06:00",
+      "last_seen": "2026-11-15T21:22:19.549539+06:00"
+    },
+    "eurogamer.net/blade-runner-2099-triple-a-talks": {
+      "title": "Blade Runner 2099 bosses hint at a possible \"triple-A\" Blade Runner game in the future - just don't expect it any time soon",
+      "url": "https://www.eurogamer.net/blade-runner-2099-triple-a-talks",
+      "canonical": "eurogamer.net/blade-runner-2099-triple-a-talks",
+      "published_dt": "2026-11-15T20:43:00+06:00",
+      "published_date": "2026-11-15T20:43:00+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Blade Runner 2099 - an upcoming TV miniseries coming to Amazon Prime Video, acting as a sequel to Blade Runner (1982) and Blade Runner 2049 (2017) - might be getting a video game. And a 'triple-A' video game, at that. At least that's according to Andrew Kosove and Broderick Johnson, executive producers for Blade Runner 2099 and co-CEOs of Alcon Entertainment (which owns the Blade Runner IP). Read more",
+      "image": "https://assetsio.gnwcdn.com/blade-runner-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:19.549842+06:00",
+      "last_seen": "2026-11-15T21:22:19.549847+06:00"
+    },
+    "eurogamer.net/gta-6-tracklist-leak": {
+      "title": "The latest GTA 6 leak comes in the form of a 34-song tracklist for GTA 6: The Album, featuring Dua Lipa, Lana Del Rey, Rina Sawayama, and more",
+      "url": "https://www.eurogamer.net/gta-6-tracklist-leak",
+      "canonical": "eurogamer.net/gta-6-tracklist-leak",
+      "published_dt": "2026-11-15T20:03:50+06:00",
+      "published_date": "2026-11-15T20:03:50+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "We are now just four days away from the release of GTA 6 on Xbox Series X/S and PS5, but the proximity to the much-anticipated launch date isn't stemming the tide of leaks that has been plaguing the game for much of the past year. Yesterday, a new video - seemingly from a record store that received vinyl records of the soundtrack early - showed off the full 34-song tracklist for the game. Read more",
+      "image": "https://assetsio.gnwcdn.com/dua-lipa-gta-6-the-album.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:19.550250+06:00",
+      "last_seen": "2026-11-15T21:22:19.550256+06:00"
+    },
+    "pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1": {
+      "title": "Queen's Domain is the best Dark Souls 1 since Dark Souls 1",
+      "url": "https://www.pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1/",
+      "canonical": "pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1",
+      "published_dt": "2026-11-15T21:00:00+06:00",
+      "published_date": "2026-11-15T21:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "King's Field of dreams.",
+      "image": "https://cdn.mos.cms.futurecdn.net/4VT5ApRCBpRhSw3ke8HCqm-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:20.099693+06:00",
+      "last_seen": "2026-11-15T21:22:20.099701+06:00"
+    },
+    "pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units": {
+      "title": "This RTS inspired by Star Wars: Empire at War promises colossal space encounters and planetary battles with 'hundreds of thousands of units'",
+      "url": "https://www.pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units/",
+      "canonical": "pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units",
+      "published_dt": "2026-11-15T20:30:16+06:00",
+      "published_date": "2026-11-15T20:30:16+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Horu is expected to launch at the end of next year.",
+      "image": "https://cdn.mos.cms.futurecdn.net/hhLWdaiVBvMyPsbkoeiiuW-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-15T21:22:20.099849+06:00",
+      "last_seen": "2026-11-15T21:22:20.099853+06:00",
+      "posted_at": "2026-11-15T21:24:37.090908+06:00"
+    },
+    "pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives": {
+      "title": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives",
+      "url": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/",
+      "canonical": "pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives",
+      "published_dt": "2026-11-15T18:33:46+06:00",
+      "published_date": "2026-11-15T18:33:46+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Everything including 'creating and deleting single-player characters' can be done without touching the web.",
+      "image": "https://cdn.mos.cms.futurecdn.net/BZPSyzyi8PwUy6nwAn4z6Y-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:20.099983+06:00",
+      "last_seen": "2026-11-15T21:22:20.099987+06:00"
+    },
+    "polygon.com/fool-night-netflix-review": {
+      "title": "Netflix's New 12-Part Sci-Fi Mystery Already Feels Like a Masterpiece Just 3 Episodes In",
+      "url": "https://www.polygon.com/fool-night-netflix-review/",
+      "canonical": "polygon.com/fool-night-netflix-review",
+      "published_dt": "2026-11-15T21:00:17+06:00",
+      "published_date": "2026-11-15T21:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Fool Night turns a bleak sci-fi premise into an visually stunning mystery that rewards patience.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fool-night-2.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:20.277880+06:00",
+      "last_seen": "2026-11-15T21:22:20.277886+06:00"
+    },
+    "polygon.com/inxile-entertainment-shooting-xbox": {
+      "title": "No One Injured After Gunman Opens Fire On Xbox Studio",
+      "url": "https://www.polygon.com/inxile-entertainment-shooting-xbox/",
+      "canonical": "polygon.com/inxile-entertainment-shooting-xbox",
+      "published_dt": "2026-11-15T20:49:51+06:00",
+      "published_date": "2026-11-15T20:49:51+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The Xbox-owned studio inXile Entertainment confirmed that no developers were hurt",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ss_6f5cdefeaa1a4bb9644314b522c11bc8de325832-1920x1080.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-15T21:22:20.278090+06:00",
+      "last_seen": "2026-11-15T21:22:20.278096+06:00",
+      "posted_at": "2026-11-15T21:24:42.584723+06:00"
+    },
+    "polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities": {
+      "title": "All sprites in the Fortnite Chapter 7 mini season",
+      "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities/",
+      "canonical": "polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities",
+      "published_dt": "2026-11-15T20:01:18+06:00",
+      "published_date": "2026-11-15T20:01:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Here's a list of the currently available sprite in Fortnite's Chapter 7 \"Treasure Hunters\" mini season, along with what they do.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_sprites.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:20.278272+06:00",
+      "last_seen": "2026-11-15T21:22:20.278277+06:00"
+    },
+    "polygon.com/patch-notes-xbox-25th-anniversary": {
+      "title": "Xbox’s 25th Birthday Was All Over the Place",
+      "url": "https://www.polygon.com/patch-notes-xbox-25th-anniversary/",
+      "canonical": "polygon.com/patch-notes-xbox-25th-anniversary",
+      "published_dt": "2026-11-15T20:00:17+06:00",
+      "published_date": "2026-11-15T20:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Asha Sharma and Microsoft used Xbox's 25th anniversary to say more about Doom, Wolfenstein, Halo, AI, and its heroic past",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/xbox_pcbackcompat.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:20.278448+06:00",
+      "last_seen": "2026-11-15T21:22:20.278453+06:00"
+    },
+    "polygon.com/xbox-retrospective-best-things-besides-halo": {
+      "title": "7 Best Things About the Original Xbox That Aren't Halo, Ranked",
+      "url": "https://www.polygon.com/xbox-retrospective-best-things-besides-halo/",
+      "canonical": "polygon.com/xbox-retrospective-best-things-besides-halo",
+      "published_dt": "2026-11-15T19:00:18+06:00",
+      "published_date": "2026-11-15T19:00:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "We celebrate the original Xbox for introducing Halo, but the hardware and its software library offered plenty of other attractions worth remembering.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-10-at-3-51-36-pm.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:20.278620+06:00",
+      "last_seen": "2026-11-15T21:22:20.278624+06:00"
+    },
+    "gamesradar.com/games/fps/as-overwatch-players-groan-over-yet-another-new-dps-hero-director-says-the-decision-came-to-whether-we-release-a-great-character-or-one-we-didnt-believe-in": {
+      "title": "Overwatch director defends new DPS hero against fans complaining over role variety",
+      "url": "https://www.gamesradar.com/games/fps/as-overwatch-players-groan-over-yet-another-new-dps-hero-director-says-the-decision-came-to-whether-we-release-a-great-character-or-one-we-didnt-believe-in/",
+      "canonical": "gamesradar.com/games/fps/as-overwatch-players-groan-over-yet-another-new-dps-hero-director-says-the-decision-came-to-whether-we-release-a-great-character-or-one-we-didnt-believe-in",
+      "published_dt": "2026-11-15T21:02:25+06:00",
+      "published_date": "2026-11-15T21:02:25+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Hudson will be the game's 24th damage hero",
+      "image": "https://cdn.mos.cms.futurecdn.net/FFyuHjnrWwYH7fAQKiTndV-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:20.815703+06:00",
+      "last_seen": "2026-11-15T21:22:20.815710+06:00"
+    },
+    "gamesradar.com/games/platformer/super-meat-boy-again-plus-remakes-the-legendary-platformer-with-a-fresh-coat-of-bloody-paint-and-new-music-cutscenes-levels-secrets": {
+      "title": "Super Meat Boy Again Plus remakes the indie icon with new \"music, cutscenes, levels, secrets\"",
+      "url": "https://www.gamesradar.com/games/platformer/super-meat-boy-again-plus-remakes-the-legendary-platformer-with-a-fresh-coat-of-bloody-paint-and-new-music-cutscenes-levels-secrets/",
+      "canonical": "gamesradar.com/games/platformer/super-meat-boy-again-plus-remakes-the-legendary-platformer-with-a-fresh-coat-of-bloody-paint-and-new-music-cutscenes-levels-secrets",
+      "published_dt": "2026-11-15T20:25:03+06:00",
+      "published_date": "2026-11-15T20:25:03+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "OG composer Danny B is also back",
+      "image": "https://cdn.mos.cms.futurecdn.net/zfN6tTXPGZ4ZsjuMHMJTJ4-1920-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:20.815848+06:00",
+      "last_seen": "2026-11-15T21:22:20.815852+06:00"
+    },
+    "gamesradar.com/games/fps/the-history-of-wardogs-studio-bulkhead-the-latest-fps-breakout-on-going-from-awful-beginnings-to-3-million-early-access-sales": {
+      "title": "The history of Wardogs studio Bulkhead - from \"awful\" beginnings to 3+ million early access sales",
+      "url": "https://www.gamesradar.com/games/fps/the-history-of-wardogs-studio-bulkhead-the-latest-fps-breakout-on-going-from-awful-beginnings-to-3-million-early-access-sales/",
+      "canonical": "gamesradar.com/games/fps/the-history-of-wardogs-studio-bulkhead-the-latest-fps-breakout-on-going-from-awful-beginnings-to-3-million-early-access-sales",
+      "published_dt": "2026-11-15T20:00:00+06:00",
+      "published_date": "2026-11-15T20:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "From scrappy underdogs to successful Wardogs",
+      "image": "https://cdn.mos.cms.futurecdn.net/PvgsEnvfvPoB2JgWqVGBxn-1920-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:20.815982+06:00",
+      "last_seen": "2026-11-15T21:22:20.815985+06:00"
+    },
+    "gamesradar.com/games/league-of-legends/after-17-years-league-of-legends-new-dawn-is-the-riot-mobas-next-era-we-want-league-to-stand-the-test-of-time": {
+      "title": "League of Legends: New Dawn is the Riot MOBA's next era: \"We want League to stand the test of time\"",
+      "url": "https://www.gamesradar.com/games/league-of-legends/after-17-years-league-of-legends-new-dawn-is-the-riot-mobas-next-era-we-want-league-to-stand-the-test-of-time/",
+      "canonical": "gamesradar.com/games/league-of-legends/after-17-years-league-of-legends-new-dawn-is-the-riot-mobas-next-era-we-want-league-to-stand-the-test-of-time",
+      "published_dt": "2026-11-15T19:14:45+06:00",
+      "published_date": "2026-11-15T19:14:45+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"We're updating a lot\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/bdBZnK8Mew2yexfdqt4ADo-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:20.816148+06:00",
+      "last_seen": "2026-11-15T21:22:20.816152+06:00"
+    },
+    "gamesradar.com/games/rpg/star-wars-fate-of-the-old-republic-director-casey-hudson-says-therell-be-new-announcements-about-the-kotor-successor-next-year": {
+      "title": "Star Wars: Fate of the Old Republic director Casey Hudson teases \"new announcements\" next year",
+      "url": "https://www.gamesradar.com/games/rpg/star-wars-fate-of-the-old-republic-director-casey-hudson-says-therell-be-new-announcements-about-the-kotor-successor-next-year/",
+      "canonical": "gamesradar.com/games/rpg/star-wars-fate-of-the-old-republic-director-casey-hudson-says-therell-be-new-announcements-about-the-kotor-successor-next-year",
+      "published_dt": "2026-11-15T18:39:39+06:00",
+      "published_date": "2026-11-15T18:39:39+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"We work at a very brisk pace\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/zjAwNrwhgPRhTAGPD9pVZ3-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:20.816314+06:00",
+      "last_seen": "2026-11-15T21:22:20.816321+06:00"
+    },
+    "rockpapershotgun.com/the-sunday-papers-836": {
+      "title": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-836",
+      "canonical": "rockpapershotgun.com/the-sunday-papers-836",
+      "published_dt": "2026-11-15T19:00:00+06:00",
+      "published_date": "2026-11-15T19:00:00+06:00",
+      "source": "Rock Paper Shotgun",
+      "region": "Gaming",
+      "excerpt": "While following a peculiar trail of silver and saffron leaves around the largest roots of the Treehouse, you come across a hexagonal wooden door lying half-hidden among ivy and moss. Scraping away the dirt, you discover a faint, absurd engraving of a newspaper. What mystery is here? You turn the brass knob – strange, it is warm! – and the engraving of the newspaper flutters. The pages turn faster and faster, emitting a howling gale that bowls you head over foot. When you pick yourself up, you are inside a vast attic full of books and bricabrac, lit from one side by windows that offer no view of the outside world – just light and mist. Tarnation! You have been lured into the eternal prison of Sunday Afternoon. Fortunately, there are several ways to escape. Each of the arcane objects before you is secretly a portal, transporting you to another site of arcane activity, in a bizarre web of diversions that cannot possibly reflect the hand of a human curator. Which will you choose? Read more",
+      "image": "https://assetsio.gnwcdn.com/the-sunday-papers-big.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:21.199672+06:00",
+      "last_seen": "2026-11-15T21:22:21.199678+06:00"
+    },
+    "insider-gaming.com/how-long-to-complete-gta": {
+      "title": "How Long Will It Take to Complete GTA 6? Platinum Trophy & Mythic Achievement Time Explained",
+      "url": "https://insider-gaming.com/how-long-to-complete-gta/",
+      "canonical": "insider-gaming.com/how-long-to-complete-gta",
+      "published_dt": "2026-11-15T19:55:27+06:00",
+      "published_date": "2026-11-15T19:55:27+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "How long will it take to complete GTA 6? Insider Gaming has the stats on how many hours it will take to complete Grant Theft Auto 6's Platinum Trophy. The post How Long Will It Take to Complete GTA 6? Platinum Trophy & Mythic Achievement Time Explained appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-15T21:22:21.635986+06:00",
+      "last_seen": "2026-11-15T21:22:21.635992+06:00",
+      "posted_at": "2026-11-15T21:24:31.452424+06:00"
+    },
+    "insider-gaming.com/fragmentary-order-might-revisit-tarkov-200-years-future": {
+      "title": "EXCLUSIVE: Escape from Tarkov in 200 Years? Fragmentary Order Might Make That a Reality",
+      "url": "https://insider-gaming.com/fragmentary-order-might-revisit-tarkov-200-years-future/",
+      "canonical": "insider-gaming.com/fragmentary-order-might-revisit-tarkov-200-years-future",
+      "published_dt": "2026-11-15T19:21:30+06:00",
+      "published_date": "2026-11-15T19:21:30+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "During a recent interview with Nikita Buyanov, we learned that Fragmentary Order might revisit Escape from Tarkov 200 years in the future. The post EXCLUSIVE: Escape from Tarkov in 200 Years? Fragmentary Order Might Make That a Reality appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:21.636282+06:00",
+      "last_seen": "2026-11-15T21:22:21.636287+06:00"
+    },
+    "insider-gaming.com/nyt-connections-hints-solutions-november-15-1253": {
+      "title": "NYT Connections Hints Today (#1253)—Answers for Sunday, November 15",
+      "url": "https://insider-gaming.com/nyt-connections-hints-solutions-november-15-1253/",
+      "canonical": "insider-gaming.com/nyt-connections-hints-solutions-november-15-1253",
+      "published_dt": "2026-11-15T18:36:05+06:00",
+      "published_date": "2026-11-15T18:36:05+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1253)—Answers for Sunday, November 15 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:21.636554+06:00",
+      "last_seen": "2026-11-15T21:22:21.636558+06:00"
+    },
+    "pushsquare.com/news/2026/11/playstation-black-friday-sale-knocks-up-to-usd100-off-ps5-accessories-psvr2": {
+      "title": "PlayStation Black Friday Sale Knocks Up to $100 Off PS5 Accessories, PSVR2",
+      "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-knocks-up-to-usd100-off-ps5-accessories-psvr2",
+      "canonical": "pushsquare.com/news/2026/11/playstation-black-friday-sale-knocks-up-to-usd100-off-ps5-accessories-psvr2",
+      "published_dt": "2026-11-15T19:00:00+06:00",
+      "published_date": "2026-11-15T19:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "But no PS5 consoles included. Alongside its ongoing PS Store Black Friday sale and a new PS Plus promotion that goes live tomorrow, Sony has also detailed the range of discounts it'll apply to PS5 accessories from 16th November 2026. Here are the discounts Sony is offering on PlayStation Direct and at participating retailers: Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/caee43ed6e6bb/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:22.209324+06:00",
+      "last_seen": "2026-11-15T21:22:22.209330+06:00"
+    },
+    "purexbox.com/news/2026/11/youtubers-share-their-amazing-home-videos-from-the-most-important-day-in-xbox-history": {
+      "title": "YouTubers Share Their Amazing Home Videos From The Most Important Day In Xbox History",
+      "url": "https://www.purexbox.com/news/2026/11/youtubers-share-their-amazing-home-videos-from-the-most-important-day-in-xbox-history",
+      "canonical": "purexbox.com/news/2026/11/youtubers-share-their-amazing-home-videos-from-the-most-important-day-in-xbox-history",
+      "published_dt": "2026-11-15T20:00:00+06:00",
+      "published_date": "2026-11-15T20:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "Exactly 25 years to the day! Happy birthday, Xbox! It's exactly 25 years today since the original Xbox console launched in North America on November 15th of 2001, and it turns out multiple people captured the moment via some amazing home video footage. We've talked about one of these videos before — the ridiculously cool one from MyRetroLife , who has become a YouTube star since uploading his footage multiple years ago. His short clip of \"booting up an original Xbox on launch day\" has a whopping 4.6 million views, while his more elaborate story about it (which you can watch down below) has almost 900,000 views. Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/e9c479e808412/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:22.557387+06:00",
+      "last_seen": "2026-11-15T21:22:22.557393+06:00"
+    },
+    "siliconera.com/chiikawa-x-sanrio-kiramekko-plush-pendants-focus-on-characterization": {
+      "title": "Chiikawa x Sanrio Kiramekko Plush Pendants Focus on Characterization",
+      "url": "https://www.siliconera.com/chiikawa-x-sanrio-kiramekko-plush-pendants-focus-on-characterization/",
+      "canonical": "siliconera.com/chiikawa-x-sanrio-kiramekko-plush-pendants-focus-on-characterization",
+      "published_dt": "2026-11-15T20:00:00+06:00",
+      "published_date": "2026-11-15T20:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "The Chiikawa x Sanrio Kiramekko plush pendant keychains pull details from both characters for pairings and designs.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-15T21:22:22.859995+06:00",
+      "last_seen": "2026-11-15T21:22:22.860000+06:00"
     }
   },
   "events": {
@@ -22460,6 +22863,160 @@
           "published_at": "2026-11-15T07:36:23.608552+00:00",
           "headline": "Minecraft Adds Joy‑Con Mouse Controls to Switch 2 in Upcoming Update",
           "claims": []
+        }
+      ]
+    },
+    "evt_e34f9e5762347b": {
+      "event_id": "evt_e34f9e5762347b",
+      "event_key": "gta6 trophy time guide",
+      "event_subject": "GTA 6",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 trophy time guide",
+        "subject": "GTA 6",
+        "event_type": "other",
+        "action": "explain",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "Insider Gaming",
+        "target": "players",
+        "platforms": [],
+        "topic": "gameplay"
+      },
+      "sources": [
+        "Eurogamer",
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Eurogamer",
+        "Insider Gaming"
+      ],
+      "claims": [
+        "34‑song soundtrack tracklist",
+        "Platinum Trophy completion time"
+      ],
+      "importance_score": 69,
+      "coverage_score": 6,
+      "originality_score": 13,
+      "significance_score": 30,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "GTA 6 Completion Times Reveal 200‑Hour Grind for Platinum Trophy",
+      "summary": "Players can expect roughly 50 hours for the main story and about 200 hours total to earn the Platinum and Mythic achievements in GTA 6.",
+      "published_at": "2026-11-15T19:55:27+06:00",
+      "selected_at": "2026-11-15T15:24:31.452461+00:00",
+      "status": "published",
+      "message_id": 1062,
+      "published_versions": [
+        {
+          "published_at": "2026-11-15T15:24:31.452461+00:00",
+          "headline": "GTA 6 Completion Times Reveal 200‑Hour Grind for Platinum Trophy",
+          "claims": [
+            "34‑song soundtrack tracklist",
+            "Platinum Trophy completion time"
+          ]
+        }
+      ]
+    },
+    "evt_2deedc3133229a": {
+      "event_id": "evt_2deedc3133229a",
+      "event_key": "horu rts announcement",
+      "event_subject": "Horu",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "horu rts announcement",
+        "subject": "Horu",
+        "event_type": "other",
+        "action": "announce",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "Horu",
+        "franchise": "Horu",
+        "institution": "Unknown developer",
+        "target": "players",
+        "platforms": [],
+        "topic": "upcoming_release"
+      },
+      "sources": [
+        "PC Gamer"
+      ],
+      "event_sources": [
+        "PC Gamer"
+      ],
+      "claims": [
+        "RTS inspired by Star Wars: Empire at War"
+      ],
+      "importance_score": 44,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 14,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Horu Promises Hundreds‑Thousands‑Unit Battles in 2027 Space RTS",
+      "summary": "Horu, a solo‑dev RTS inspired by Total War and Star Wars: Empire at War, aims to deliver simultaneous planetary and space combat at massive scale.",
+      "published_at": "2026-11-15T20:30:16+06:00",
+      "selected_at": "2026-11-15T15:24:37.090942+00:00",
+      "status": "published",
+      "message_id": 1063,
+      "published_versions": [
+        {
+          "published_at": "2026-11-15T15:24:37.090942+00:00",
+          "headline": "Horu Promises Hundreds‑Thousands‑Unit Battles in 2027 Space RTS",
+          "claims": [
+            "RTS inspired by Star Wars: Empire at War"
+          ]
+        }
+      ]
+    },
+    "evt_ce936a0ae8863b": {
+      "event_id": "evt_ce936a0ae8863b",
+      "event_key": "inxile shooting incident",
+      "event_subject": "inXile Entertainment studio",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "inxile shooting incident",
+        "subject": "inXile Entertainment studio",
+        "event_type": "other",
+        "action": "report",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "inXile Entertainment",
+        "target": "employees",
+        "platforms": [],
+        "topic": "safety"
+      },
+      "sources": [
+        "Polygon"
+      ],
+      "event_sources": [
+        "Polygon"
+      ],
+      "claims": [
+        "no injuries after gunfire"
+      ],
+      "importance_score": 40,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 10,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Gunman Opens Fire on Xbox’s inXile Entertainment Studio, No Injuries Reported",
+      "summary": "A drive‑by shooting at inXile Entertainment’s Tustin office on Nov.",
+      "published_at": "2026-11-15T20:49:51+06:00",
+      "selected_at": "2026-11-15T15:24:42.584751+00:00",
+      "status": "published",
+      "message_id": 1064,
+      "published_versions": [
+        {
+          "published_at": "2026-11-15T15:24:42.584751+00:00",
+          "headline": "Gunman Opens Fire on Xbox’s inXile Entertainment Studio, No Injuries Reported",
+          "claims": [
+            "no injuries after gunfire"
+          ]
         }
       ]
     }
@@ -234003,12 +234560,838 @@
         "total": 31
       },
       "last_seen": "2026-11-15T13:34:16.668022+06:00"
+    },
+    "evt_e34f9e5762347b": {
+      "event_id": "evt_e34f9e5762347b",
+      "event_key": "gta6 trophy time guide",
+      "event_subject": "GTA 6",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 trophy time guide",
+        "subject": "GTA 6",
+        "event_type": "other",
+        "action": "explain",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "Insider Gaming",
+        "target": "players",
+        "platforms": [],
+        "topic": "gameplay"
+      },
+      "modality": "unknown",
+      "topic": "gameplay",
+      "institution": "Insider Gaming",
+      "sources": [
+        "Eurogamer",
+        "Insider Gaming"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "34‑song soundtrack tracklist",
+        "Platinum Trophy completion time"
+      ],
+      "importance_score": 69,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 6,
+        "originality": 13,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 69
+      },
+      "last_seen": "2026-11-15T21:22:33.789692+06:00"
+    },
+    "evt_4ddb58eb176b79": {
+      "event_id": "evt_4ddb58eb176b79",
+      "event_key": "league of legends new dawn update",
+      "event_subject": "League of Legends",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "league of legends new dawn update",
+        "subject": "League of Legends",
+        "event_type": "update",
+        "action": "announce",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "League of Legends",
+        "franchise": "League of Legends",
+        "institution": "Riot Games",
+        "target": "players",
+        "platforms": [],
+        "topic": "game_update"
+      },
+      "modality": "unknown",
+      "topic": "game_update",
+      "institution": "Riot Games",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "New Dawn era"
+      ],
+      "importance_score": 51,
+      "score_breakdown": {
+        "significance": 25,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 51
+      },
+      "last_seen": "2026-11-15T21:22:33.789710+06:00"
+    },
+    "evt_ef6f9d7f0ef1e0": {
+      "event_id": "evt_ef6f9d7f0ef1e0",
+      "event_key": "overwatch hudson hero introduction",
+      "event_subject": "Hudson",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "overwatch hudson hero introduction",
+        "subject": "Hudson",
+        "event_type": "other",
+        "action": "defend",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "Overwatch",
+        "franchise": "Overwatch",
+        "institution": "Blizzard Entertainment",
+        "target": "players",
+        "platforms": [],
+        "topic": "character"
+      },
+      "modality": "unknown",
+      "topic": "character",
+      "institution": "Blizzard Entertainment",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new DPS hero announced"
+      ],
+      "importance_score": 41,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 41
+      },
+      "last_seen": "2026-11-15T21:22:33.789717+06:00"
+    },
+    "evt_2deedc3133229a": {
+      "event_id": "evt_2deedc3133229a",
+      "event_key": "horu rts announcement",
+      "event_subject": "Horu",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "horu rts announcement",
+        "subject": "Horu",
+        "event_type": "other",
+        "action": "announce",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "Horu",
+        "franchise": "Horu",
+        "institution": "Unknown developer",
+        "target": "players",
+        "platforms": [],
+        "topic": "upcoming_release"
+      },
+      "modality": "unknown",
+      "topic": "upcoming_release",
+      "institution": "Unknown developer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "RTS inspired by Star Wars: Empire at War"
+      ],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 14,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 44
+      },
+      "last_seen": "2026-11-15T21:22:33.789721+06:00"
+    },
+    "evt_2b820d6ff6308a": {
+      "event_id": "evt_2b820d6ff6308a",
+      "event_key": "dune awakening offline mode release",
+      "event_subject": "Dune: Awakening",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "dune awakening offline mode release",
+        "subject": "Dune: Awakening",
+        "event_type": "other",
+        "action": "release",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Dune: Awakening",
+        "franchise": "Dune",
+        "institution": "Unknown developer",
+        "target": "players",
+        "platforms": [],
+        "topic": "game_update"
+      },
+      "modality": "unknown",
+      "topic": "game_update",
+      "institution": "Unknown developer",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "offline mode now available"
+      ],
+      "importance_score": 43,
+      "score_breakdown": {
+        "significance": 13,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 43
+      },
+      "last_seen": "2026-11-15T21:22:33.789728+06:00"
+    },
+    "evt_1f5dcb2a359794": {
+      "event_id": "evt_1f5dcb2a359794",
+      "event_key": "xbox 25th anniversary",
+      "event_subject": "Xbox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox 25th anniversary",
+        "subject": "Xbox",
+        "event_type": "other",
+        "action": "celebrate",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "Xbox brand",
+        "platforms": [],
+        "topic": "history"
+      },
+      "modality": "unknown",
+      "topic": "history",
+      "institution": "Microsoft",
+      "sources": [
+        "IGN",
+        "Polygon",
+        "GameSpot",
+        "Pure Xbox"
+      ],
+      "source_count": 4,
+      "independent_source_count": 4,
+      "claims": [
+        "25th anniversary celebration",
+        "25th birthday coverage",
+        "personal memories of Xbox 360",
+        "home videos of original Xbox launch",
+        "best non‑Halo features"
+      ],
+      "importance_score": 55,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 14,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 55
+      },
+      "last_seen": "2026-11-15T21:22:33.789737+06:00"
+    },
+    "evt_8d63e78351d334": {
+      "event_id": "evt_8d63e78351d334",
+      "event_key": "star wars fotr teaser 2027",
+      "event_subject": "Star Wars: Fate of the Old Republic",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "star wars fotr teaser 2027",
+        "subject": "Star Wars: Fate of the Old Republic",
+        "event_type": "other",
+        "action": "hint",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "Star Wars: Fate of the Old Republic",
+        "franchise": "Star Wars",
+        "institution": "BioWare",
+        "target": "players",
+        "platforms": [],
+        "topic": "future_content"
+      },
+      "modality": "unknown",
+      "topic": "future_content",
+      "institution": "BioWare",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new announcements next year"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 38
+      },
+      "last_seen": "2026-11-15T21:22:33.789741+06:00"
+    },
+    "evt_ba0c116681d85f": {
+      "event_id": "evt_ba0c116681d85f",
+      "event_key": "super meat boy again remake",
+      "event_subject": "Super Meat Boy Again",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "super meat boy again remake",
+        "subject": "Super Meat Boy Again",
+        "event_type": "other",
+        "action": "announce",
+        "status": "upcoming",
+        "modality": "unknown",
+        "game": "Super Meat Boy Again",
+        "franchise": "Super Meat Boy",
+        "institution": "Team Meat",
+        "target": "players",
+        "platforms": [],
+        "topic": "remake"
+      },
+      "modality": "unknown",
+      "topic": "remake",
+      "institution": "Team Meat",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new music, cutscenes, levels, secrets"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 38
+      },
+      "last_seen": "2026-11-15T21:22:33.789744+06:00"
+    },
+    "evt_6a05ebd93ca6a5": {
+      "event_id": "evt_6a05ebd93ca6a5",
+      "event_key": "blade runner 2099 aaa game rumor",
+      "event_subject": "Blade Runner 2099",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "blade runner 2099 aaa game rumor",
+        "subject": "Blade Runner 2099",
+        "event_type": "rumor",
+        "action": "hint",
+        "status": "speculative",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Blade Runner",
+        "institution": "Alcon Entertainment",
+        "target": "gamers",
+        "platforms": [],
+        "topic": "future_game"
+      },
+      "modality": "unknown",
+      "topic": "future_game",
+      "institution": "Alcon Entertainment",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "possible AAA game in future"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-11-15T21:22:33.789748+06:00"
+    },
+    "evt_95b82ff63f8ece": {
+      "event_id": "evt_95b82ff63f8ece",
+      "event_key": "playstation black friday sale 2026",
+      "event_subject": "PlayStation",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "playstation black friday sale 2026",
+        "subject": "PlayStation",
+        "event_type": "other",
+        "action": "discount",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Sony",
+        "target": "consumers",
+        "platforms": [],
+        "topic": "sale"
+      },
+      "modality": "unknown",
+      "topic": "sale",
+      "institution": "Sony",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "up to $100 off PS5 accessories"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-11-15T21:22:33.789753+06:00"
+    },
+    "evt_ce936a0ae8863b": {
+      "event_id": "evt_ce936a0ae8863b",
+      "event_key": "inxile shooting incident",
+      "event_subject": "inXile Entertainment studio",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "inxile shooting incident",
+        "subject": "inXile Entertainment studio",
+        "event_type": "other",
+        "action": "report",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "inXile Entertainment",
+        "target": "employees",
+        "platforms": [],
+        "topic": "safety"
+      },
+      "modality": "unknown",
+      "topic": "safety",
+      "institution": "inXile Entertainment",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "no injuries after gunfire"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 40
+      },
+      "last_seen": "2026-11-15T21:22:33.789756+06:00"
+    },
+    "evt_2220a27440cdb5": {
+      "event_id": "evt_2220a27440cdb5",
+      "event_key": "treyarch craig houston layoff",
+      "event_subject": "Craig Houston",
+      "event_type": "layoff",
+      "event_frame": {
+        "event_key": "treyarch craig houston layoff",
+        "subject": "Craig Houston",
+        "event_type": "layoff",
+        "action": "terminate employment",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Treyarch",
+        "target": "Senior lead writer",
+        "platforms": [],
+        "topic": "staffing"
+      },
+      "modality": "unknown",
+      "topic": "staffing",
+      "institution": "Treyarch",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "laid off after ~20 years"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-11-15T21:22:33.789761+06:00"
+    },
+    "evt_fe5d4a4629963a": {
+      "event_id": "evt_fe5d4a4629963a",
+      "event_key": "fortnite chapter7 sprite list",
+      "event_subject": "Fortnite Chapter 7 – Treasure Hunters",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fortnite chapter7 sprite list",
+        "subject": "Fortnite Chapter 7 – Treasure Hunters",
+        "event_type": "other",
+        "action": "list",
+        "status": "current",
+        "modality": "unknown",
+        "game": "Fortnite",
+        "franchise": "Fortnite",
+        "institution": "Epic Games",
+        "target": "players",
+        "platforms": [],
+        "topic": "game_content"
+      },
+      "modality": "unknown",
+      "topic": "game_content",
+      "institution": "Epic Games",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "all available sprites"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-11-15T21:22:33.789765+06:00"
+    },
+    "evt_00e5e134526298": {
+      "event_id": "evt_00e5e134526298",
+      "event_key": "escape from tarkov future dlc rumor",
+      "event_subject": "Escape from Tarkov",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "escape from tarkov future dlc rumor",
+        "subject": "Escape from Tarkov",
+        "event_type": "rumor",
+        "action": "speculate",
+        "status": "speculative",
+        "modality": "unknown",
+        "game": "Escape from Tarkov",
+        "franchise": "Escape from Tarkov",
+        "institution": "Battlestate Games",
+        "target": "players",
+        "platforms": [],
+        "topic": "future_content"
+      },
+      "modality": "unknown",
+      "topic": "future_content",
+      "institution": "Battlestate Games",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "set 200 years in future"
+      ],
+      "importance_score": 41,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 41
+      },
+      "last_seen": "2026-11-15T21:22:33.789769+06:00"
+    },
+    "evt_1e274019210741": {
+      "event_id": "evt_1e274019210741",
+      "event_key": "bulkhead studio history",
+      "event_subject": "Bulkhead studio",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "bulkhead studio history",
+        "subject": "Bulkhead studio",
+        "event_type": "other",
+        "action": "document",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Bulkhead",
+        "target": "readers",
+        "platforms": [],
+        "topic": "studio_history"
+      },
+      "modality": "unknown",
+      "topic": "studio_history",
+      "institution": "Bulkhead",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "from beginnings to 3M early‑access sales"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 32
+      },
+      "last_seen": "2026-11-15T21:22:33.789773+06:00"
+    },
+    "evt_fa5a3cecd2a888": {
+      "event_id": "evt_fa5a3cecd2a888",
+      "event_key": "fool night series release",
+      "event_subject": "Fool Night",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fool night series release",
+        "subject": "Fool Night",
+        "event_type": "other",
+        "action": "premiere",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Netflix",
+        "target": "viewers",
+        "platforms": [],
+        "topic": "television"
+      },
+      "modality": "unknown",
+      "topic": "television",
+      "institution": "Netflix",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "new 12‑part sci‑fi mystery"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-11-15T21:22:33.789776+06:00"
+    },
+    "evt_36559eff2b8c71": {
+      "event_id": "evt_36559eff2b8c71",
+      "event_key": "chiikawa sanrio plush collab",
+      "event_subject": "Chiikawa x Sanrio Kiramekko",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "chiikawa sanrio plush collab",
+        "subject": "Chiikawa x Sanrio Kiramekko",
+        "event_type": "other",
+        "action": "launch",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Sanrio",
+        "target": "collectors",
+        "platforms": [],
+        "topic": "merchandise"
+      },
+      "modality": "unknown",
+      "topic": "merchandise",
+      "institution": "Sanrio",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "plush pendant keychains"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-11-15T21:22:33.789780+06:00"
+    },
+    "evt_d9a58ce1033d16": {
+      "event_id": "evt_d9a58ce1033d16",
+      "event_key": "queens domain mod release",
+      "event_subject": "Queen's Domain",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "queens domain mod release",
+        "subject": "Queen's Domain",
+        "event_type": "other",
+        "action": "release",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "Dark Souls",
+        "franchise": "Dark Souls",
+        "institution": "Mod creator",
+        "target": "players",
+        "platforms": [],
+        "topic": "modding"
+      },
+      "modality": "unknown",
+      "topic": "modding",
+      "institution": "Mod creator",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "best Dark Souls 1 mod"
+      ],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-11-15T21:22:33.789784+06:00"
+    },
+    "evt_aea863ade85cf0": {
+      "event_id": "evt_aea863ade85cf0",
+      "event_key": "fictional sunday papers piece",
+      "event_subject": "Sunday Papers",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fictional sunday papers piece",
+        "subject": "Sunday Papers",
+        "event_type": "other",
+        "action": "present",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "readers",
+        "platforms": [],
+        "topic": "fiction"
+      },
+      "modality": "unknown",
+      "topic": "fiction",
+      "institution": "",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "surreal narrative"
+      ],
+      "importance_score": 30,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 30
+      },
+      "last_seen": "2026-11-15T21:22:33.789787+06:00"
+    },
+    "evt_e04e265833c9fe": {
+      "event_id": "evt_e04e265833c9fe",
+      "event_key": "nyt connections hints nov15 2026",
+      "event_subject": "NYT Connections",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nyt connections hints nov15 2026",
+        "subject": "NYT Connections",
+        "event_type": "other",
+        "action": "provide",
+        "status": "completed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "The New York Times",
+        "target": "players",
+        "platforms": [],
+        "topic": "puzzle"
+      },
+      "modality": "unknown",
+      "topic": "puzzle",
+      "institution": "The New York Times",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "hints and answers for Nov 15"
+      ],
+      "importance_score": 37,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 37
+      },
+      "last_seen": "2026-11-15T21:22:33.789791+06:00"
     }
   },
   "posted_event_ids": [
-    "evt_d664a2f9bf37a2",
-    "evt_423311b678abad",
-    "evt_4c300e67c65198",
     "evt_99e36d465dc44b",
     "evt_4b19a1dce9e95c",
     "evt_0aea7065544f07",
@@ -234505,11 +235888,12 @@
     "evt_b56fa74c07c7f2",
     "evt_5947bc1e904d61",
     "evt_6da276e90e873b",
-    "evt_28f69c28549c05"
+    "evt_28f69c28549c05",
+    "evt_e34f9e5762347b",
+    "evt_2deedc3133229a",
+    "evt_ce936a0ae8863b"
   ],
   "recent_titles": [
-    "nvidia rtx spark laptops launch at 2 599 99 pre orders open",
-    "youtuber channel banned over hellraiser revival gameplay censorship dispute",
     "patch 5 01 gives the witcher 3 remastered stunning visual overhaul",
     "us console sales plunge as prices hit all time highs",
     "full circle vows new creative tools after reskate modding platform goes viral",
@@ -234909,10 +236293,13 @@
     "blade runner franchise targets aaa game ambitions says alcon executive",
     "gunfire hits xbox studio inxile no injuries reported",
     "gta 6 soundtrack leak reveals new tracks from lana del rey and keith richards",
-    "minecraft adds joy con mouse controls to switch 2 in upcoming update"
+    "minecraft adds joy con mouse controls to switch 2 in upcoming update",
+    "gta 6 completion times reveal 200 hour grind for platinum trophy",
+    "horu promises hundreds thousands unit battles in 2027 space rts",
+    "gunman opens fire on xbox s inxile entertainment studio no injuries reported"
   ],
   "category_coverage": {
-    "Game Updates": "2026-11-15T13:36:23.608576+06:00",
+    "Game Updates": "2026-11-15T21:24:42.584776+06:00",
     "Major Releases": "2026-11-14T13:25:31.423304+06:00",
     "Steam": "2026-11-10T23:08:27.321312+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
@@ -234927,6 +236314,7 @@
     "Layoffs": "2026-10-28T20:06:57.938872+06:00",
     "Mobile Gaming": "2026-10-07T20:39:29.212212+06:00",
     "Esports": "2026-11-12T22:54:58.675399+06:00",
-    "Acquisitions and Mergers": "2026-11-04T03:37:28.153792+06:00"
+    "Acquisitions and Mergers": "2026-11-04T03:37:28.153792+06:00",
+    "PC Gaming": "2026-11-15T21:24:37.090974+06:00"
   }
 }
