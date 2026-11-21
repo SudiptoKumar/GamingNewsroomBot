@@ -2,257 +2,143 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1c216-VyHsMRQy8CnYqklAGI09pPCPpeE\"",
+      "etag": "W/\"21b09-OokYQZcZfQL/1KD9iGgSABKjDR0\"",
       "last_modified": null,
-      "last_checked": "2026-11-21T13:59:44.026658+06:00",
+      "last_checked": "2026-11-21T22:04:23.545840+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-21T13:59:44.205693+06:00",
+      "last_checked": "2026-11-21T22:04:23.655323+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6b014e74-846\"",
-      "last_modified": "Sat, 21 Nov 2026 07:55:32 GMT",
-      "last_checked": "2026-11-21T13:59:44.869464+06:00",
+      "etag": "\"6b01c020-89b\"",
+      "last_modified": "Sat, 21 Nov 2026 16:00:32 GMT",
+      "last_checked": "2026-11-21T22:04:23.953279+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Fri, 20 Nov 2026 20:00:40 GMT",
-      "last_checked": "2026-11-21T13:59:45.054672+06:00",
+      "last_modified": "Sat, 21 Nov 2026 15:56:10 GMT",
+      "last_checked": "2026-11-21T22:04:24.240528+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "W/\"81c877b1d6cad9719251c3ad804b4c84\"",
-      "last_modified": "Sat, 21 Nov 2026 03:01:00 GMT",
-      "last_checked": "2026-11-21T13:59:45.421035+06:00",
+      "etag": "W/\"c3cda7cb8b04d272b329f6d2e86e661c\"",
+      "last_modified": "Sat, 21 Nov 2026 12:48:55 GMT",
+      "last_checked": "2026-11-21T22:04:24.541011+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-21T13:59:45.572620+06:00",
+      "last_checked": "2026-11-21T22:04:24.616671+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-21T13:59:46.238628+06:00",
+      "last_checked": "2026-11-21T22:04:25.206502+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"4cbe9933e5484786cec561492fcc29c9\"",
-      "last_modified": "Sat, 21 Nov 2026 07:59:37 GMT",
-      "last_checked": "2026-11-21T13:59:46.505504+06:00",
+      "etag": "W/\"c6c085cc2e2e0eb923ac64fddfe29ade\"",
+      "last_modified": "Sat, 21 Nov 2026 15:49:48 GMT",
+      "last_checked": "2026-11-21T22:04:25.388851+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-21T13:59:46.674172+06:00",
+      "last_checked": "2026-11-21T22:04:25.459778+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Fri, 20 Nov 2026 17:55:47 GMT",
-      "last_checked": "2026-11-21T13:59:47.180451+06:00",
+      "last_modified": "Sat, 21 Nov 2026 11:34:03 GMT",
+      "last_checked": "2026-11-21T22:04:25.786562+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sat, 21 Nov 2026 07:59:47 GMT",
-      "last_checked": "2026-11-21T13:59:47.780534+06:00",
+      "last_modified": "Sat, 21 Nov 2026 16:04:26 GMT",
+      "last_checked": "2026-11-21T22:04:26.427308+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"f85a02fed6e4c261a10338c65742467c\"",
-      "last_modified": "Sat, 21 Nov 2026 07:49:36 GMT",
-      "last_checked": "2026-11-21T13:59:47.906065+06:00",
+      "etag": "W/\"a79ea20ca1a6210945213232bff0c56d\"",
+      "last_modified": "Sat, 21 Nov 2026 15:55:42 GMT",
+      "last_checked": "2026-11-21T22:04:26.962371+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-21T13:59:48.415700+06:00",
+      "last_checked": "2026-11-21T22:04:27.293140+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-21T13:59:48.960112+06:00",
+      "last_checked": "2026-11-21T22:04:27.805436+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-21T13:59:49.471372+06:00",
+      "last_checked": "2026-11-21T22:04:28.394513+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-21T13:59:49.841145+06:00",
-      "fail_count": 185,
+      "last_checked": "2026-11-21T22:04:28.609624+06:00",
+      "fail_count": 186,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"2324d06f3c5a7a9d64c9f685d9e71a74\"",
-      "last_modified": "Fri, 20 Nov 2026 22:14:25 GMT",
-      "last_checked": "2026-11-21T13:59:49.960777+06:00",
+      "etag": "W/\"b37f51ecb685e6469d54c697b257924a\"",
+      "last_modified": "Tue, 10 Nov 2026 21:58:22 GMT",
+      "last_checked": "2026-11-21T22:04:28.689947+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-21T13:59:50.162000+06:00",
+      "last_checked": "2026-11-21T22:04:28.795853+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-21T13:59:50.357453+06:00",
-      "fail_count": 185,
+      "last_checked": "2026-11-21T22:04:28.981607+06:00",
+      "fail_count": 186,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"f247faa885b1b569da30b7bf89eb41fe\"",
       "last_modified": "Sat, 21 Nov 2026 06:13:13 GMT",
-      "last_checked": "2026-11-21T13:59:50.486314+06:00",
+      "last_checked": "2026-11-21T22:04:29.083922+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "insider-gaming.com/how-to-gta-6-early-new-zealand-trick-playstation-5": {
-      "title": "How to Play GTA 6 Early on PS5 With New Zealand Trick—All Time Zones, Explained",
-      "url": "https://insider-gaming.com/how-to-gta-6-early-new-zealand-trick-playstation-5/",
-      "canonical": "insider-gaming.com/how-to-gta-6-early-new-zealand-trick-playstation-5",
-      "published_dt": "2026-11-11T13:15:54+06:00",
-      "published_date": "2026-11-11T13:15:54+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Learn how to play GTA 6 early on PS5 using the New Zealand trick with this super handy, short-form guide, complete with time zone breakdown. The post How to Play GTA 6 Early on PS5 With New Zealand Trick—All Time Zones, Explained appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-11T13:30:01.525021+06:00",
-      "last_seen": "2026-11-17T14:49:24.268764+06:00"
-    },
-    "insider-gaming.com/how-to-play-gta-6-early-xbox-new-zealand-trick": {
-      "title": "How to Play GTA 6 Early on XBOX With New Zealand Trick—All Time Zones, Explained",
-      "url": "https://insider-gaming.com/how-to-play-gta-6-early-xbox-new-zealand-trick/",
-      "canonical": "insider-gaming.com/how-to-play-gta-6-early-xbox-new-zealand-trick",
-      "published_dt": "2026-11-11T13:15:43+06:00",
-      "published_date": "2026-11-11T13:15:43+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "If you want to get the earliest access possible to GTA 6 on XBOX, you'll want to make full use of the New Zealand trick. Here's how it works. The post How to Play GTA 6 Early on XBOX With New Zealand Trick—All Time Zones, Explained appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-11T13:30:01.525262+06:00",
-      "last_seen": "2026-11-17T14:49:24.268971+06:00"
-    },
-    "gematsu.com/2026/11/multi-ending-visual-novel-attention-addicted-neet-announced-for-pc": {
-      "title": "Multi-ending visual novel Attention Addicted NEET announced for PC",
-      "url": "https://www.gematsu.com/2026/11/multi-ending-visual-novel-attention-addicted-neet-announced-for-pc",
-      "canonical": "gematsu.com/2026/11/multi-ending-visual-novel-attention-addicted-neet-announced-for-pc",
-      "published_dt": "2026-11-17T13:12:14+06:00",
-      "published_date": "2026-11-17T13:12:14+06:00",
-      "source": "Gematsu",
-      "region": "Gaming",
-      "excerpt": "Publisher Kniv Studio and developer Dreamery have announced Attention Addicted NEET, a multi-ending visual novel …",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-17T14:49:21.797985+06:00",
-      "last_seen": "2026-11-17T14:49:21.797990+06:00"
-    },
-    "gematsu.com/2026/11/arika-director-akira-kurabayashi-dies": {
-      "title": "ARIKA director Akira Kurabayashi dies",
-      "url": "https://www.gematsu.com/2026/11/arika-director-akira-kurabayashi-dies",
-      "canonical": "gematsu.com/2026/11/arika-director-akira-kurabayashi-dies",
-      "published_dt": "2026-11-17T12:58:30+06:00",
-      "published_date": "2026-11-17T12:58:30+06:00",
-      "source": "Gematsu",
-      "region": "Gaming",
-      "excerpt": "Akira Kurabayashi, a company director and head of the software development division at ARIKA, passed …",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-11-17T14:49:21.798103+06:00",
-      "last_seen": "2026-11-17T14:49:21.798105+06:00",
-      "posted_at": "2026-11-17T14:52:41.470914+06:00"
-    },
-    "insider-gaming.com/is-gta-6-out-now-launch-day-tracker": {
-      "title": "Is GTA 6 Out Now? Grand Theft Auto 6 Launch Day Tracker",
-      "url": "https://insider-gaming.com/is-gta-6-out-now-launch-day-tracker/",
-      "canonical": "insider-gaming.com/is-gta-6-out-now-launch-day-tracker",
-      "published_dt": "2026-11-17T13:36:37+06:00",
-      "published_date": "2026-11-17T13:36:37+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Is Grand Theft Auto 6 out yet? Good question. Find out the answer to everything you want to ask in this guide. The post Is GTA 6 Out Now? Grand Theft Auto 6 Launch Day Tracker appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-11-17T14:49:24.269148+06:00",
-      "last_seen": "2026-11-17T14:49:24.269150+06:00",
-      "posted_at": "2026-11-17T14:52:36.215735+06:00"
-    },
-    "insider-gaming.com/wardogs-ceo-slams-content-creators-loop-ea": {
-      "title": "WARDOGS CEO Hits Back at Creators on Stream: ‘We’re Not F***ing EA’",
-      "url": "https://insider-gaming.com/wardogs-ceo-slams-content-creators-loop-ea/",
-      "canonical": "insider-gaming.com/wardogs-ceo-slams-content-creators-loop-ea",
-      "published_dt": "2026-11-17T13:23:07+06:00",
-      "published_date": "2026-11-17T13:23:07+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "WARDOGS' CEO, Joe Brammer, went on stream to hit back at creators bagging on his team and his game recently. The post WARDOGS CEO Hits Back at Creators on Stream: ‘We’re Not F***ing EA’ appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-17T14:49:24.269335+06:00",
-      "last_seen": "2026-11-17T14:49:24.269337+06:00"
-    },
-    "escapistmagazine.com/coffee-stain-buys-chronicles-medieval-from-bankrupt-raw-power-games-for-dkk-36-75-million": {
-      "title": "Coffee Stain Buys Chronicles: Medieval From Bankrupt Raw Power Games for DKK 36.75 Million",
-      "url": "https://www.escapistmagazine.com/coffee-stain-buys-chronicles-medieval-from-bankrupt-raw-power-games-for-dkk-36-75-million/",
-      "canonical": "escapistmagazine.com/coffee-stain-buys-chronicles-medieval-from-bankrupt-raw-power-games-for-dkk-36-75-million",
-      "published_dt": "2026-11-17T12:13:11+06:00",
-      "published_date": "2026-11-17T12:13:11+06:00",
-      "source": "The Escapist",
-      "region": "Gaming",
-      "excerpt": "Coffee Stain Group won the bankruptcy sale for Chronicles: Medieval and will fund its development through a new studio part-owned by original developers. The deal revives a heavily wishlisted strategy sandbox, but its release timing is still open. The post Coffee Stain Buys Chronicles: Medieval From Bankrupt Raw Power Games for DKK 36.75 Million appeared first on The Escapist .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-17T14:49:28.401867+06:00",
-      "last_seen": "2026-11-17T14:49:28.401873+06:00"
-    },
     "ign.com/articles/grand-theft-auto-6-lucia-actress-finally-revealed-and-yes-its-who-you-probably-suspected": {
       "title": "Grand Theft Auto 6 Lucia Actress Finally Revealed — And Yes, It's Who You Probably Suspected",
       "url": "https://www.ign.com/articles/grand-theft-auto-6-lucia-actress-finally-revealed-and-yes-its-who-you-probably-suspected",
@@ -5694,409 +5580,589 @@
       "first_seen": "2026-11-21T13:59:50.515586+06:00",
       "last_seen": "2026-11-21T13:59:50.515590+06:00",
       "posted_at": "2026-11-21T14:02:00.387313+06:00"
+    },
+    "ign.com/articles/gta-6s-weirdest-cow-shows-why-you-should-pause-the-story-early-to-explore-its-vast-map": {
+      "title": "GTA 6’s Weirdest Cow Shows Why You Should Pause the Story Early To Explore Its Vast Map",
+      "url": "https://www.ign.com/articles/gta-6s-weirdest-cow-shows-why-you-should-pause-the-story-early-to-explore-its-vast-map",
+      "canonical": "ign.com/articles/gta-6s-weirdest-cow-shows-why-you-should-pause-the-story-early-to-explore-its-vast-map",
+      "published_dt": "2026-11-21T19:30:00+06:00",
+      "published_date": "2026-11-21T19:30:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "I escaped GTA 6's starting neighborhood to explore the wider world, and you'll never believe what happened with this cow I found.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/20/gta-6-cow-story-blogroll-1795184902367.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:23.589990+06:00",
+      "last_seen": "2026-11-21T22:04:23.589995+06:00"
+    },
+    "videogameschronicle.com/guide/gta-6-xbox-psa-how-to-stop-automatic-clip-uploads-and-avoid-bans": {
+      "title": "GTA 6 Xbox PSA: How to Stop Automatic Clip Uploads and Avoid Bans",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-xbox-psa-how-to-stop-automatic-clip-uploads-and-avoid-bans/",
+      "canonical": "videogameschronicle.com/guide/gta-6-xbox-psa-how-to-stop-automatic-clip-uploads-and-avoid-bans",
+      "published_dt": "2026-11-21T21:25:08+06:00",
+      "published_date": "2026-11-21T21:25:08+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Xbox players are reporting bans for capturing GTA 6",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:23.959529+06:00",
+      "last_seen": "2026-11-21T22:04:23.959533+06:00"
+    },
+    "videogameschronicle.com/guide/gta-6-la-cascara-motel-safe-code-how-to-find-and-open-the-safe": {
+      "title": "GTA 6 La Cascara Motel safe code: How to find and open the safe",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-la-cascara-motel-safe-code-how-to-find-and-open-the-safe/",
+      "canonical": "videogameschronicle.com/guide/gta-6-la-cascara-motel-safe-code-how-to-find-and-open-the-safe",
+      "published_dt": "2026-11-21T20:59:03+06:00",
+      "published_date": "2026-11-21T20:59:03+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Here's the La Cascara Motel safe code",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:23.959639+06:00",
+      "last_seen": "2026-11-21T22:04:23.959642+06:00"
+    },
+    "eurogamer.net/phasmophobia-resonance-update-release-date-dowsing-rods-unity-6": {
+      "title": "Phasmophobia's next update lets you ask ghosts to throw things and it's out next week",
+      "url": "https://www.eurogamer.net/phasmophobia-resonance-update-release-date-dowsing-rods-unity-6",
+      "canonical": "eurogamer.net/phasmophobia-resonance-update-release-date-dowsing-rods-unity-6",
+      "published_dt": "2026-11-21T21:56:10+06:00",
+      "published_date": "2026-11-21T21:56:10+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Phasmophobia 's next update, Resonance, arrives on 24th November, bringing a brand-new piece of ghost-hunting kit, more voice commands, and a move to the Unity 6 engine. Read more",
+      "image": "https://assetsio.gnwcdn.com/unnamed_6vaP0JC.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:24.306671+06:00",
+      "last_seen": "2026-11-21T22:04:24.306677+06:00"
+    },
+    "eurogamer.net/gta-6-ps5-crashing-ce-108255-1-error-fix": {
+      "title": "GTA 6 is crashing on some PS5s with error CE-108255-1 - here's what you can try",
+      "url": "https://www.eurogamer.net/gta-6-ps5-crashing-ce-108255-1-error-fix",
+      "canonical": "eurogamer.net/gta-6-ps5-crashing-ce-108255-1-error-fix",
+      "published_dt": "2026-11-21T21:03:50+06:00",
+      "published_date": "2026-11-21T21:03:50+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Some Grand Theft Auto 6 players on PS5 say the game keeps crashing with error code CE-108255-1, and in some cases, it's stopping them from progressing through the story. Read more",
+      "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-21-at-14.55.00.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:24.306881+06:00",
+      "last_seen": "2026-11-21T22:04:24.306883+06:00"
+    },
+    "eurogamer.net/gta-6-review-bombed-metacritic-user-score": {
+      "title": "GTA 6 has a 99 Metascore from critics, but players are review bombing it",
+      "url": "https://www.eurogamer.net/gta-6-review-bombed-metacritic-user-score",
+      "canonical": "eurogamer.net/gta-6-review-bombed-metacritic-user-score",
+      "published_dt": "2026-11-21T20:19:40+06:00",
+      "published_date": "2026-11-21T20:19:40+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Grand Theft Auto 6 might be one of the best-reviewed games of all time, but you wouldn't know it from its Metacritic user score. Read more",
+      "image": "https://assetsio.gnwcdn.com/GTA-6-Radio-Station-Hosts-Tracks-Header.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:24.307081+06:00",
+      "last_seen": "2026-11-21T22:04:24.307083+06:00"
+    },
+    "pcgamer.com/games/as-a-kid-i-didnt-have-a-monster-in-my-attic-i-had-a-lan": {
+      "title": "As a kid, I didn't have a monster in my attic, I had a LAN",
+      "url": "https://www.pcgamer.com/games/as-a-kid-i-didnt-have-a-monster-in-my-attic-i-had-a-lan/",
+      "canonical": "pcgamer.com/games/as-a-kid-i-didnt-have-a-monster-in-my-attic-i-had-a-lan",
+      "published_dt": "2026-11-21T22:00:00+06:00",
+      "published_date": "2026-11-21T22:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "I'm not boasting. OK, I am a bit.",
+      "image": "https://cdn.mos.cms.futurecdn.net/Kc7gddwixwFSdNyg4DfmM9-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:24.778575+06:00",
+      "last_seen": "2026-11-21T22:04:24.778581+06:00"
+    },
+    "pcgamer.com/games/grand-theft-auto/gta-6-brooks-boatworks-safe-code": {
+      "title": "How to unlock the Brooks Boatworks safe in GTA 6",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-brooks-boatworks-safe-code/",
+      "canonical": "pcgamer.com/games/grand-theft-auto/gta-6-brooks-boatworks-safe-code",
+      "published_dt": "2026-11-21T21:51:59+06:00",
+      "published_date": "2026-11-21T21:51:59+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "And find a new gun, lots of pills and plenty of cash.",
+      "image": "https://cdn.mos.cms.futurecdn.net/D2t7xpNhbWuw8Lh3Rekxym-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:24.778668+06:00",
+      "last_seen": "2026-11-21T22:04:24.778670+06:00"
+    },
+    "pcgamer.com/games/rpg/while-you-wait-for-the-elder-scrolls-6-sentinel-you-owe-it-to-yourself-to-play-tainted-grail": {
+      "title": "While you wait for The Elder Scrolls 6: Sentinel, you owe it to yourself to play Tainted Grail",
+      "url": "https://www.pcgamer.com/games/rpg/while-you-wait-for-the-elder-scrolls-6-sentinel-you-owe-it-to-yourself-to-play-tainted-grail/",
+      "canonical": "pcgamer.com/games/rpg/while-you-wait-for-the-elder-scrolls-6-sentinel-you-owe-it-to-yourself-to-play-tainted-grail",
+      "published_dt": "2026-11-21T21:00:00+06:00",
+      "published_date": "2026-11-21T21:00:00+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "They do make them like they used to.",
+      "image": "https://cdn.mos.cms.futurecdn.net/99cX8e9QjEz66iS6MhMack-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:24.778753+06:00",
+      "last_seen": "2026-11-21T22:04:24.778755+06:00"
+    },
+    "pcgamer.com/games/grand-theft-auto/gta-6-transgressor-locations": {
+      "title": "GTA 6 Transgressor locations: How to restore the first car for Wyman",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-transgressor-locations/",
+      "canonical": "pcgamer.com/games/grand-theft-auto/gta-6-transgressor-locations",
+      "published_dt": "2026-11-21T20:43:05+06:00",
+      "published_date": "2026-11-21T20:43:05+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Find cars for Wyman to fix the 67' Sirius Transgressor.",
+      "image": "https://cdn.mos.cms.futurecdn.net/Zsq8XcWVvA37H4bJYN6Lbi-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:24.778830+06:00",
+      "last_seen": "2026-11-21T22:04:24.778832+06:00"
+    },
+    "pcgamer.com/games/rpg/seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wait-as-long-as-they-have-previously-for-the-next-game-after-persona-6": {
+      "title": "Seven years on since Persona 5 Royal, Atlus says 'people won't have to wait as long as they have previously' for the next game after Persona 6",
+      "url": "https://www.pcgamer.com/games/rpg/seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wait-as-long-as-they-have-previously-for-the-next-game-after-persona-6/",
+      "canonical": "pcgamer.com/games/rpg/seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wait-as-long-as-they-have-previously-for-the-next-game-after-persona-6",
+      "published_dt": "2026-11-21T20:31:07+06:00",
+      "published_date": "2026-11-21T20:31:07+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "\"Persona 6 is not the end\".",
+      "image": "https://cdn.mos.cms.futurecdn.net/RtNxgB4RG4rJNWfzDhWpnc-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-21T22:04:24.778906+06:00",
+      "last_seen": "2026-11-21T22:04:24.778908+06:00",
+      "posted_at": "2026-11-21T22:09:48.862434+06:00"
+    },
+    "pcgamer.com/games/grand-theft-auto/gta-6-bowling-alley-safe-code-location": {
+      "title": "GTA 6 Bowling Alley safe code",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bowling-alley-safe-code-location/",
+      "canonical": "pcgamer.com/games/grand-theft-auto/gta-6-bowling-alley-safe-code-location",
+      "published_dt": "2026-11-21T19:49:37+06:00",
+      "published_date": "2026-11-21T19:49:37+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "Crack this safe during the Hit Kingpin Bowling mission.",
+      "image": "https://cdn.mos.cms.futurecdn.net/AqhZNUxzhqfHXaW4h6HTZK-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:24.778976+06:00",
+      "last_seen": "2026-11-21T22:04:24.778977+06:00"
+    },
+    "pcgamer.com/games/grand-theft-auto/gta-6-is-a-cozy-game": {
+      "title": "GTA 6 is a cozy game",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-a-cozy-game/",
+      "canonical": "pcgamer.com/games/grand-theft-auto/gta-6-is-a-cozy-game",
+      "published_dt": "2026-11-21T19:45:50+06:00",
+      "published_date": "2026-11-21T19:45:50+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "The best parts of GTA 6 happen when everyone puts their guns away.",
+      "image": "https://cdn.mos.cms.futurecdn.net/7rrKZFvVzmmHCPprp36VhD-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:24.779045+06:00",
+      "last_seen": "2026-11-21T22:04:24.779046+06:00"
+    },
+    "pcgamer.com/games/rpg/deltarune-chapter-6-is-structurally-complete-while-development-has-begun-on-chapter-7-according-to-toby-fox": {
+      "title": "Deltarune chapter 6 is 'structurally complete' while development has begun on chapter 7, according to Toby Fox",
+      "url": "https://www.pcgamer.com/games/rpg/deltarune-chapter-6-is-structurally-complete-while-development-has-begun-on-chapter-7-according-to-toby-fox/",
+      "canonical": "pcgamer.com/games/rpg/deltarune-chapter-6-is-structurally-complete-while-development-has-begun-on-chapter-7-according-to-toby-fox",
+      "published_dt": "2026-11-21T19:09:55+06:00",
+      "published_date": "2026-11-21T19:09:55+06:00",
+      "source": "PC Gamer",
+      "region": "Gaming",
+      "excerpt": "\"All the maps, events and battles exist\" for the next slice of the RPG.",
+      "image": "https://cdn.mos.cms.futurecdn.net/9mtBLYoPocDpbS5srRdg5-1920-80.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-21T22:04:24.779129+06:00",
+      "last_seen": "2026-11-21T22:04:24.779132+06:00",
+      "posted_at": "2026-11-21T22:09:54.522601+06:00"
+    },
+    "polygon.com/dnd-dungeons-dragons-authors-get-settlement-money-wizards-of-the-coast": {
+      "title": "D&D Publisher Officially Hands Record-Breaking AI Settlement Money to Authors",
+      "url": "https://www.polygon.com/dnd-dungeons-dragons-authors-get-settlement-money-wizards-of-the-coast/",
+      "canonical": "polygon.com/dnd-dungeons-dragons-authors-get-settlement-money-wizards-of-the-coast",
+      "published_dt": "2026-11-21T21:59:00+06:00",
+      "published_date": "2026-11-21T21:59:00+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Wizards of the Coast is entitled to a hefty sum of Anthropic settlement money, but it's giving it to Dungeons & Dragons writers.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dungeons-dragons-world-of-warcraft-bronze-dragons.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-21T22:04:25.212528+06:00",
+      "last_seen": "2026-11-21T22:04:25.212532+06:00",
+      "posted_at": "2026-11-21T22:09:43.193747+06:00"
+    },
+    "polygon.com/gta-6-dangelo-song-rockstar-games-radio": {
+      "title": "GTA 6 Officially Includes Unreleased Song From Music Legend D'Angelo",
+      "url": "https://www.polygon.com/gta-6-dangelo-song-rockstar-games-radio/",
+      "canonical": "polygon.com/gta-6-dangelo-song-rockstar-games-radio",
+      "published_dt": "2026-11-21T21:53:57+06:00",
+      "published_date": "2026-11-21T21:53:57+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Players have discovered that one of GTA 6's radio stations can play an unreleased song from the late D'Angelo.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:25.212630+06:00",
+      "last_seen": "2026-11-21T22:04:25.212632+06:00"
+    },
+    "polygon.com/perfect-netflix-sci-fi-shows-list": {
+      "title": "10 Near-Perfect Netflix Sci-Fi Shows That Hook You in the First Scene",
+      "url": "https://www.polygon.com/perfect-netflix-sci-fi-shows-list/",
+      "canonical": "polygon.com/perfect-netflix-sci-fi-shows-list",
+      "published_dt": "2026-11-21T21:11:17+06:00",
+      "published_date": "2026-11-21T21:11:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "From mind-bending mysteries to dystopian futures, these Netflix sci-fi series prove that some stories can't be forgotten from the moment they start.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dark-tv-series-2.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:25.212721+06:00",
+      "last_seen": "2026-11-21T22:04:25.212722+06:00"
+    },
+    "polygon.com/gta-6s-big-disney-omission": {
+      "title": "GTA 6 Forgot to Include the #1 Reason to Go to Actual Florida",
+      "url": "https://www.polygon.com/gta-6s-big-disney-omission/",
+      "canonical": "polygon.com/gta-6s-big-disney-omission",
+      "published_dt": "2026-11-21T21:00:17+06:00",
+      "published_date": "2026-11-21T21:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Grand Theft Auto 6's Leonida pokes fun at almost everything, but shies away from Disney’s real-world presence in Florida",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ultimate_edition_vice_city_style_04.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:25.212804+06:00",
+      "last_seen": "2026-11-21T22:04:25.212806+06:00"
+    },
+    "polygon.com/christopher-nolan-isnt-nearly-as-serious-as-you-might-think-according-to-the-odysseys-cast-and-crew": {
+      "title": "'The Odyssey' Cast Debunks a Major Misconception About Working with Christopher Nolan",
+      "url": "https://www.polygon.com/christopher-nolan-isnt-nearly-as-serious-as-you-might-think-according-to-the-odysseys-cast-and-crew/",
+      "canonical": "polygon.com/christopher-nolan-isnt-nearly-as-serious-as-you-might-think-according-to-the-odysseys-cast-and-crew",
+      "published_dt": "2026-11-21T20:00:17+06:00",
+      "published_date": "2026-11-21T20:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Matt Damon, Himesh Patel, and Emma Thomas reveal Christopher Nolan's unexpected sense of humor and what he's really like on set.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24814309/457912618.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:25.212948+06:00",
+      "last_seen": "2026-11-21T22:04:25.212949+06:00"
+    },
+    "gamesradar.com/games/grand-theft-auto/gta-6-pawn-shop-safe-code": {
+      "title": "GTA 6 Pawn Shop safe code",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pawn-shop-safe-code/",
+      "canonical": "gamesradar.com/games/grand-theft-auto/gta-6-pawn-shop-safe-code",
+      "published_dt": "2026-11-21T21:58:32+06:00",
+      "published_date": "2026-11-21T21:58:32+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "You won't find the GTA 6 pawn shop safe code by looking around, so here's how to get it",
+      "image": "https://cdn.mos.cms.futurecdn.net/LKyCmnN6THXp5mPVGr7rGg-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:25.621770+06:00",
+      "last_seen": "2026-11-21T22:04:25.621776+06:00"
+    },
+    "gamesradar.com/games/grand-theft-auto/gta-6-tourist-trap-walkthrough": {
+      "title": "How to complete the GTA 6 Tourist Trap mission",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tourist-trap-walkthrough/",
+      "canonical": "gamesradar.com/games/grand-theft-auto/gta-6-tourist-trap-walkthrough",
+      "published_dt": "2026-11-21T21:50:55+06:00",
+      "published_date": "2026-11-21T21:50:55+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Here's what you need to do and where you need to go to finish the Tourist Trap mission in GTA 6",
+      "image": "https://cdn.mos.cms.futurecdn.net/aG5Gy6FH2VYMi8Y6KoHDT8-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:25.621863+06:00",
+      "last_seen": "2026-11-21T22:04:25.621865+06:00"
+    },
+    "gamesradar.com/entertainment/sci-fi-shows/blade-runner-2099-showrunner-turned-to-ridley-scott-to-answer-canon-questions-i-needed-the-bible-for-our-show-and-that-was-ridley": {
+      "title": "Blade Runner 2099 showrunner turned to Ridley Scott to answer canon questions: \"I needed the Bible for our show\"",
+      "url": "https://www.gamesradar.com/entertainment/sci-fi-shows/blade-runner-2099-showrunner-turned-to-ridley-scott-to-answer-canon-questions-i-needed-the-bible-for-our-show-and-that-was-ridley/",
+      "canonical": "gamesradar.com/entertainment/sci-fi-shows/blade-runner-2099-showrunner-turned-to-ridley-scott-to-answer-canon-questions-i-needed-the-bible-for-our-show-and-that-was-ridley",
+      "published_dt": "2026-11-21T21:00:00+06:00",
+      "published_date": "2026-11-21T21:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "Ridley Scott is the closest thing to Blade Runner's loremaster",
+      "image": "https://cdn.mos.cms.futurecdn.net/6LMvoSNddHnjb8yw4oDosg-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:25.621947+06:00",
+      "last_seen": "2026-11-21T22:04:25.621948+06:00"
+    },
+    "gamesradar.com/games/grand-theft-auto/gta-6-safe-codes": {
+      "title": "GTA 6 safe codes and how to get them",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-safe-codes/",
+      "canonical": "gamesradar.com/games/grand-theft-auto/gta-6-safe-codes",
+      "published_dt": "2026-11-21T20:26:23+06:00",
+      "published_date": "2026-11-21T20:26:23+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "If you want to get in and out of a heist as fast as possible, here's how to get GTA 6 safe codes",
+      "image": "https://cdn.mos.cms.futurecdn.net/kGEXiHAq26NnTAEHVZURQj-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:25.622024+06:00",
+      "last_seen": "2026-11-21T22:04:25.622025+06:00"
+    },
+    "gamesradar.com/games/fallout/bethesda-confirm-a-new-cat-themed-fallout-inspired-adventure-is-on-the-way-after-leaks-from-the-australian-classifications-board": {
+      "title": "Bethesda confirm a new cat-themed \"Fallout-inspired adventure\" is on the way",
+      "url": "https://www.gamesradar.com/games/fallout/bethesda-confirm-a-new-cat-themed-fallout-inspired-adventure-is-on-the-way-after-leaks-from-the-australian-classifications-board/",
+      "canonical": "gamesradar.com/games/fallout/bethesda-confirm-a-new-cat-themed-fallout-inspired-adventure-is-on-the-way-after-leaks-from-the-australian-classifications-board",
+      "published_dt": "2026-11-21T19:53:13+06:00",
+      "published_date": "2026-11-21T19:53:13+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "But it's not the one you might expect",
+      "image": "https://cdn.mos.cms.futurecdn.net/9dLEHyZNEYh9bDUVCjw4pT-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:25.622095+06:00",
+      "last_seen": "2026-11-21T22:04:25.622096+06:00"
+    },
+    "gamesradar.com/games/rpg/one-year-on-clair-obscur-expedition-33-actor-still-cant-quite-believe-the-rpgs-record-breaking-awards-haul": {
+      "title": "Clair Obscur: Expedition 33 actor still can't \"quite believe\" the RPG's record-breaking awards haul",
+      "url": "https://www.gamesradar.com/games/rpg/one-year-on-clair-obscur-expedition-33-actor-still-cant-quite-believe-the-rpgs-record-breaking-awards-haul/",
+      "canonical": "gamesradar.com/games/rpg/one-year-on-clair-obscur-expedition-33-actor-still-cant-quite-believe-the-rpgs-record-breaking-awards-haul",
+      "published_dt": "2026-11-21T19:22:39+06:00",
+      "published_date": "2026-11-21T19:22:39+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "\"People are still so in love with the game\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/A3Vc5vFaEwNS3rCckdoipc-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:25.622188+06:00",
+      "last_seen": "2026-11-21T22:04:25.622190+06:00"
+    },
+    "insider-gaming.com/where-to-find-the-grotti-iitali-rsx-in-gta-6": {
+      "title": "Where to Find The Grotti Itali RSX Supercar in GTA 6—Randy’s Wishlist Car Locations",
+      "url": "https://insider-gaming.com/where-to-find-the-grotti-iitali-rsx-in-gta-6/",
+      "canonical": "insider-gaming.com/where-to-find-the-grotti-iitali-rsx-in-gta-6",
+      "published_dt": "2026-11-21T21:52:14+06:00",
+      "published_date": "2026-11-21T21:52:14+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "A quick guide on how to find the Grotti Itali RSX supercar in GTA 6. The post Where to Find The Grotti Itali RSX Supercar in GTA 6—Randy’s Wishlist Car Locations appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:26.969660+06:00",
+      "last_seen": "2026-11-21T22:04:26.969664+06:00"
+    },
+    "insider-gaming.com/lucia-naked-gta-6": {
+      "title": "How to Make Lucia Nude in GTA 6",
+      "url": "https://insider-gaming.com/lucia-naked-gta-6/",
+      "canonical": "insider-gaming.com/lucia-naked-gta-6",
+      "published_dt": "2026-11-21T21:19:59+06:00",
+      "published_date": "2026-11-21T21:19:59+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Lucia has been one of the biggest aspects of GTA 6's marketing in the build-up to the game, and, to an extent, she can be naked. The post How to Make Lucia Nude in GTA 6 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:26.969840+06:00",
+      "last_seen": "2026-11-21T22:04:26.969842+06:00"
+    },
+    "insider-gaming.com/where-to-find-the-bravado-banshee-in-gta-6": {
+      "title": "Where to Find The Bravado Banshee Supercar in GTA 6—Randy’s Wishlist Car Locations",
+      "url": "https://insider-gaming.com/where-to-find-the-bravado-banshee-in-gta-6/",
+      "canonical": "insider-gaming.com/where-to-find-the-bravado-banshee-in-gta-6",
+      "published_dt": "2026-11-21T21:04:18+06:00",
+      "published_date": "2026-11-21T21:04:18+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "A quick guide on how to find the Bravado Banshee supercar in GTA 6. The post Where to Find The Bravado Banshee Supercar in GTA 6—Randy’s Wishlist Car Locations appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:26.970013+06:00",
+      "last_seen": "2026-11-21T22:04:26.970015+06:00"
+    },
+    "insider-gaming.com/where-to-find-the-pegassi-infernus-gta-6": {
+      "title": "Where to Find The Pegassi Infernus Supercar in GTA 6—Randy’s Wishlist Car Locations",
+      "url": "https://insider-gaming.com/where-to-find-the-pegassi-infernus-gta-6/",
+      "canonical": "insider-gaming.com/where-to-find-the-pegassi-infernus-gta-6",
+      "published_dt": "2026-11-21T20:27:51+06:00",
+      "published_date": "2026-11-21T20:27:51+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "A quick guide on how to find the Pegassi Infernus supercar in GTA 6. The post Where to Find The Pegassi Infernus Supercar in GTA 6—Randy’s Wishlist Car Locations appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:26.970202+06:00",
+      "last_seen": "2026-11-21T22:04:26.970205+06:00"
+    },
+    "insider-gaming.com/where-to-find-the-pegassi-vitello-gta-6": {
+      "title": "Where to Find The Pegassi Vitello Supercar in GTA 6—Randy’s Wishlist Car Locations",
+      "url": "https://insider-gaming.com/where-to-find-the-pegassi-vitello-gta-6/",
+      "canonical": "insider-gaming.com/where-to-find-the-pegassi-vitello-gta-6",
+      "published_dt": "2026-11-21T20:05:44+06:00",
+      "published_date": "2026-11-21T20:05:44+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "A quick guide on how to find the Pegassi Vitello supercar in GTA 6. The post Where to Find The Pegassi Vitello Supercar in GTA 6—Randy’s Wishlist Car Locations appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:26.970364+06:00",
+      "last_seen": "2026-11-21T22:04:26.970365+06:00"
+    },
+    "insider-gaming.com/gta-6-copies-money": {
+      "title": "How Many Copies Has GTA 6 Sold? Money Made So Far (November 2026)",
+      "url": "https://insider-gaming.com/gta-6-copies-money/",
+      "canonical": "insider-gaming.com/gta-6-copies-money",
+      "published_dt": "2026-11-21T19:12:49+06:00",
+      "published_date": "2026-11-21T19:12:49+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Grand Theft Auto 6 could end up being the most successful video game ever, so find out the latest on copies sold and money made stats. The post How Many Copies Has GTA 6 Sold? Money Made So Far (November 2026) appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-21T22:04:26.970519+06:00",
+      "last_seen": "2026-11-21T22:04:26.970520+06:00",
+      "posted_at": "2026-11-21T22:09:37.241207+06:00"
+    },
+    "pushsquare.com/news/2026/11/gta-6-ps5-review-bombing-out-of-control-as-zelda-receives-revenge-ratings": {
+      "title": "GTA 6 PS5 Review Bombing Out of Control as Zelda Receives Revenge Ratings",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-review-bombing-out-of-control-as-zelda-receives-revenge-ratings",
+      "canonical": "pushsquare.com/news/2026/11/gta-6-ps5-review-bombing-out-of-control-as-zelda-receives-revenge-ratings",
+      "published_dt": "2026-11-21T21:30:00+06:00",
+      "published_date": "2026-11-21T21:30:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Counter-attack. GTA 6 , the highest-rated game of all-time , is getting review bombed on Metacritic as idiots attempt to plunge the seminal Rockstar release’s rating with bogus ‘0’ scores. At the time of writing, the title has a user score of 5.4 , meaning it’s considered ‘Mixed or Average’: Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/ed14528064898/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:27.818546+06:00",
+      "last_seen": "2026-11-21T22:04:27.818550+06:00"
+    },
+    "pushsquare.com/news/2026/11/ps5-survives-gta-6s-unfathomably-humongous-launch-without-a-hitch": {
+      "title": "PS5 Survives GTA 6's Unfathomably Humongous Launch without a Hitch",
+      "url": "https://www.pushsquare.com/news/2026/11/ps5-survives-gta-6s-unfathomably-humongous-launch-without-a-hitch",
+      "canonical": "pushsquare.com/news/2026/11/ps5-survives-gta-6s-unfathomably-humongous-launch-without-a-hitch",
+      "published_dt": "2026-11-21T21:00:00+06:00",
+      "published_date": "2026-11-21T21:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Sony delivers steady and stable release. We’d rightly criticise Sony if the PS5 had fallen to pieces during GTA 6’s launch, so let’s give the platform holder a nod of approval for navigating these past two weeks almost flawlessly. There were some minor scattered instances of PSN outages on Wednesday evening prior to the Rockstar title’s big launch, but these never affected everyone and the network recovered pretty fast. I think we can give that a pass. Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/99737794c846d/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:27.818780+06:00",
+      "last_seen": "2026-11-21T22:04:27.818782+06:00"
+    },
+    "purexbox.com/features/poll-so-what-do-you-think-of-gta-6": {
+      "title": "Poll: So, What Do You Think Of GTA 6?",
+      "url": "https://www.purexbox.com/features/poll-so-what-do-you-think-of-gta-6",
+      "canonical": "purexbox.com/features/poll-so-what-do-you-think-of-gta-6",
+      "published_dt": "2026-11-21T22:00:00+06:00",
+      "published_date": "2026-11-21T22:00:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "It's early days, but let us know your thoughts so far. We've been talking GTA 6 all week here at Pure Xbox, but now it's time for the community to take centre stage! We want to know what you think about the new Grand Theft Auto based on what you've played so far. It's no secret that GTA 6 has been reviewing better than pretty much any game in existence since its release a few days ago. As things stand, it sits alongside the original Ocarina of Time as the best game ever made on Metacritic! Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/5cb9d1f6e8a9c/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:28.406425+06:00",
+      "last_seen": "2026-11-21T22:04:28.406430+06:00"
+    },
+    "purexbox.com/features/50-of-the-best-discounted-games-from-xboxs-black-friday-2026-sale": {
+      "title": "Feature: 50 Of The Best Discounted Games From Xbox's Black Friday 2026 Sale",
+      "url": "https://www.purexbox.com/features/50-of-the-best-discounted-games-from-xboxs-black-friday-2026-sale",
+      "canonical": "purexbox.com/features/50-of-the-best-discounted-games-from-xboxs-black-friday-2026-sale",
+      "published_dt": "2026-11-21T20:30:00+06:00",
+      "published_date": "2026-11-21T20:30:00+06:00",
+      "source": "Pure Xbox",
+      "region": "Gaming",
+      "excerpt": "A deal, a succulent Black Friday deal! It's official, Xbox's Black Friday sales are live ! This year's offering is absolutely massive, so we're back to rummage through them all and pick out a banger or two for you. The annual sale lives up to the hype yet again, with over 2,000 deals to get through. There's so many. Too many, in fact. Plenty of big games are reduced by 90%, whilst others are at historic lows. Lots to be excited about! Read the full article on purexbox.com",
+      "image": "https://images.purexbox.com/07e1f20bb59b6/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:28.406635+06:00",
+      "last_seen": "2026-11-21T22:04:28.406637+06:00"
+    },
+    "siliconera.com/razer-kraken-kitty-v3-feels-like-a-logical-next-step": {
+      "title": "Razer Kraken Kitty V3 Feels Like a Logical Next Step",
+      "url": "https://www.siliconera.com/razer-kraken-kitty-v3-feels-like-a-logical-next-step/",
+      "canonical": "siliconera.com/razer-kraken-kitty-v3-feels-like-a-logical-next-step",
+      "published_dt": "2026-11-21T20:00:00+06:00",
+      "published_date": "2026-11-21T20:00:00+06:00",
+      "source": "Siliconera",
+      "region": "Gaming",
+      "excerpt": "Razer Kraken Kitty V3 feels like a more subtle upgrade, but there are a few adjustments and cosplay mode makes it an accessory.",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-21T22:04:28.722770+06:00",
+      "last_seen": "2026-11-21T22:04:28.722776+06:00"
     }
   },
   "events": {
-    "evt_cadc444bfe7dea": {
-      "event_id": "evt_cadc444bfe7dea",
-      "event_key": "capcom data breach 2026",
-      "event_subject": "Resident Evil Developer Capcom Issues Phishing Warning After Data Breach Hits Over 11 Million Customer Accounts",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "capcom data breach 2026",
-        "subject": "Resident Evil Developer Capcom Issues Phishing Warning After Data Breach Hits Over 11 Million Customer Accounts",
-        "event_type": "other",
-        "action": "warn",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "",
-        "institution": "Capcom",
-        "target": "customers",
-        "platforms": [],
-        "topic": "Phishing warning after breach"
-      },
-      "sources": [
-        "IGN"
-      ],
-      "event_sources": [
-        "IGN"
-      ],
-      "claims": [
-        "Data breach affecting 11 million accounts"
-      ],
-      "importance_score": 60,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 30,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Capcom Warns of Phishing After Data Breach Hits Over 11 Million Accounts",
-      "summary": "Capcom disclosed a breach of its online membership service affecting 11.7 million users, urging gamers to watch for phishing attempts.",
-      "published_at": "2026-10-22T16:17:24+06:00",
-      "selected_at": "2026-10-22T11:23:10.228268+00:00",
-      "status": "published",
-      "message_id": 822,
-      "published_versions": [
-        {
-          "published_at": "2026-10-22T11:23:10.228268+00:00",
-          "headline": "Capcom Warns of Phishing After Data Breach Hits Over 11 Million Accounts",
-          "claims": [
-            "Data breach affecting 11 million accounts"
-          ]
-        }
-      ]
-    },
-    "evt_0f52ec61754e14": {
-      "event_id": "evt_0f52ec61754e14",
-      "event_key": "valorant partner criteria 2026",
-      "event_subject": "Riot Games Outlines Valorant Partnership Criteria",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "valorant partner criteria 2026",
-        "subject": "Riot Games Outlines Valorant Partnership Criteria",
-        "event_type": "other",
-        "action": "announce",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "Valorant",
-        "institution": "Riot Games",
-        "target": "esports teams",
-        "platforms": [],
-        "topic": "Partner team selection"
-      },
-      "sources": [
-        "Insider Gaming"
-      ],
-      "event_sources": [
-        "Insider Gaming"
-      ],
-      "claims": [],
-      "importance_score": 47,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 13,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Riot Games Reveals Valorant Partner Teams and Selection Criteria",
-      "summary": "Riot disclosed the 32 partner teams for the Valorant 2027‑2028 circuit and detailed a five‑point framework guiding its selection process.",
-      "published_at": "2026-10-22T16:05:32+06:00",
-      "selected_at": "2026-10-22T11:23:16.020019+00:00",
-      "status": "published",
-      "message_id": 823,
-      "published_versions": [
-        {
-          "published_at": "2026-10-22T11:23:16.020019+00:00",
-          "headline": "Riot Games Reveals Valorant Partner Teams and Selection Criteria",
-          "claims": []
-        }
-      ]
-    },
-    "evt_fdd063159ac3d3": {
-      "event_id": "evt_fdd063159ac3d3",
-      "event_key": "pokemon apps outage recovery 2026",
-      "event_subject": "Pokémon Apps Are Coming Back Online After Extended Cybersecurity Outage",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "pokemon apps outage recovery 2026",
-        "subject": "Pokémon Apps Are Coming Back Online After Extended Cybersecurity Outage",
-        "event_type": "other",
-        "action": "report",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "Pokemon",
-        "institution": "The Pokémon Company",
-        "target": "app users",
-        "platforms": [
-          "iOS",
-          "Android"
-        ],
-        "topic": "Restoration after security incident"
-      },
-      "sources": [
-        "Nintendo Life"
-      ],
-      "event_sources": [
-        "Nintendo Life"
-      ],
-      "claims": [],
-      "importance_score": 45,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 15,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Pokémon Mobile Apps Restored After Major PHP Security Outage",
-      "summary": "After a worldwide PHP vulnerability forced Pokémon HOME, Sleep and Champions offline, the services resumed early Thursday, confirming full restoration across all platforms.",
-      "published_at": "2026-10-22T16:45:00+06:00",
-      "selected_at": "2026-10-22T11:23:21.036181+00:00",
-      "status": "published",
-      "message_id": 824,
-      "published_versions": [
-        {
-          "published_at": "2026-10-22T11:23:21.036181+00:00",
-          "headline": "Pokémon Mobile Apps Restored After Major PHP Security Outage",
-          "claims": []
-        }
-      ]
-    },
-    "evt_74d24bea461c29": {
-      "event_id": "evt_74d24bea461c29",
-      "event_key": "microsoft xboxcloudgaming price announcement",
-      "event_subject": "Microsoft",
-      "event_type": "pricing",
-      "event_frame": {
-        "event_key": "microsoft xboxcloudgaming price announcement",
-        "subject": "Microsoft",
-        "event_type": "pricing",
-        "action": "reveal",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "",
-        "institution": "Microsoft",
-        "target": "consumers",
-        "platforms": [
-          "Xbox Cloud Gaming"
-        ],
-        "topic": "service pricing"
-      },
-      "sources": [
-        "Eurogamer"
-      ],
-      "event_sources": [
-        "Eurogamer"
-      ],
-      "claims": [
-        "50 hours of ad‑free cloud gaming priced at $11.99"
-      ],
-      "importance_score": 42,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Xbox Cloud Gaming Packs Launch at $11.99 for 50 Hours",
-      "summary": "Microsoft introduces paid Xbox cloud gaming packs, offering 10, 25 and 50 hours of ad‑free streaming starting at $3.99, $7.99 and $11.99 respectively.",
-      "published_at": "2026-10-22T15:10:43+06:00",
-      "selected_at": "2026-10-22T11:23:26.069470+00:00",
-      "status": "published",
-      "message_id": 825,
-      "published_versions": [
-        {
-          "published_at": "2026-10-22T11:23:26.069470+00:00",
-          "headline": "Xbox Cloud Gaming Packs Launch at $11.99 for 50 Hours",
-          "claims": [
-            "50 hours of ad‑free cloud gaming priced at $11.99"
-          ]
-        }
-      ]
-    },
-    "evt_7b8abed29379c2": {
-      "event_id": "evt_7b8abed29379c2",
-      "event_key": "ea dice respawn starwarsbattlefront3 co development rumor",
-      "event_subject": "Electronic Arts",
-      "event_type": "rumor",
-      "event_frame": {
-        "event_key": "ea dice respawn starwarsbattlefront3 co development rumor",
-        "subject": "Electronic Arts",
-        "event_type": "rumor",
-        "action": "report",
-        "status": "rumor",
-        "modality": "unknown",
-        "game": "Star Wars: Battlefront 3",
-        "franchise": "Star Wars Battlefront",
-        "institution": "EA",
-        "target": "players",
-        "platforms": [],
-        "topic": "development"
-      },
-      "sources": [
-        "Eurogamer"
-      ],
-      "event_sources": [
-        "Eurogamer"
-      ],
-      "claims": [
-        "Battlefront 3 reportedly co‑developed by DICE and Respawn Studios"
-      ],
-      "importance_score": 40,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 10,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Star Wars: Battlefront 3 Rumored as DICE Teams Up With Respawn",
-      "summary": "EA is reportedly co‑developing a new Star Wars: Battlefront 3 with DICE and Respawn amid recent studio closures and a high‑profile acquisition.",
-      "published_at": "2026-10-22T14:40:15+06:00",
-      "selected_at": "2026-10-22T11:23:31.407991+00:00",
-      "status": "published",
-      "message_id": 826,
-      "published_versions": [
-        {
-          "published_at": "2026-10-22T11:23:31.407991+00:00",
-          "headline": "Star Wars: Battlefront 3 Rumored as DICE Teams Up With Respawn",
-          "claims": [
-            "Battlefront 3 reportedly co‑developed by DICE and Respawn Studios"
-          ]
-        }
-      ]
-    },
-    "evt_e0f6441c94c3ac": {
-      "event_id": "evt_e0f6441c94c3ac",
-      "event_key": "bioware closure criticism warren spector",
-      "event_subject": "BioWare closure",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "bioware closure criticism warren spector",
-        "subject": "BioWare closure",
-        "event_type": "other",
-        "action": "blasts",
-        "status": "ongoing",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "",
-        "institution": "BioWare",
-        "target": "company closure",
-        "platforms": [],
-        "topic": "industry"
-      },
-      "sources": [
-        "PC Gamer"
-      ],
-      "event_sources": [
-        "PC Gamer"
-      ],
-      "claims": [
-        "called it utter bulls**t"
-      ],
-      "importance_score": 68,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 38,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Warren Spector Slams EA Over BioWare Closure, Calls It Utter Bullshit",
-      "summary": "Immersive‑sim legend Warren Spector publicly condemned EA’s decision to shut down BioWare, accusing executives of betrayal and demanding accountability for the job losses.",
-      "published_at": "2026-10-22T20:38:38+06:00",
-      "selected_at": "2026-10-22T16:53:08.426899+00:00",
-      "status": "published",
-      "message_id": 827,
-      "published_versions": [
-        {
-          "published_at": "2026-10-22T16:53:08.426899+00:00",
-          "headline": "Warren Spector Slams EA Over BioWare Closure, Calls It Utter Bullshit",
-          "claims": [
-            "called it utter bulls**t"
-          ]
-        }
-      ]
-    },
-    "evt_8a586f20a48bd7": {
-      "event_id": "evt_8a586f20a48bd7",
-      "event_key": "php vulnerability outage games",
-      "event_subject": "PHP vulnerability outages",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "php vulnerability outage games",
-        "subject": "PHP vulnerability outages",
-        "event_type": "other",
-        "action": "impact",
-        "status": "ongoing",
-        "modality": "unknown",
-        "game": "Final Fantasy XIV, Umamusume: Pretty Derby",
-        "franchise": "Final Fantasy, Umamusume",
-        "institution": "Various publishers",
-        "target": "online services",
-        "platforms": [],
-        "topic": "security"
-      },
-      "sources": [
-        "Eurogamer"
-      ],
-      "event_sources": [
-        "Eurogamer"
-      ],
-      "claims": [
-        "outages worldwide due to PHP flaw"
-      ],
-      "importance_score": 60,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 30,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Global PHP Vulnerability Forces Outages Across Major Online Games",
-      "summary": "A critical PHP flaw prompted developers of Final Fantasy 14, Umamusume: Pretty Derby, and others to shut down services temporarily to prevent data breaches.",
-      "published_at": "2026-10-22T20:11:14+06:00",
-      "selected_at": "2026-10-22T16:53:14.117538+00:00",
-      "status": "published",
-      "message_id": 828,
-      "published_versions": [
-        {
-          "published_at": "2026-10-22T16:53:14.117538+00:00",
-          "headline": "Global PHP Vulnerability Forces Outages Across Major Online Games",
-          "claims": [
-            "outages worldwide due to PHP flaw"
-          ]
-        }
-      ]
-    },
-    "evt_e5d7539e4422dd": {
-      "event_id": "evt_e5d7539e4422dd",
-      "event_key": "ps5 sales us september2026 vs switch2",
-      "event_subject": "PS5 vs Switch 2 US sales",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "ps5 sales us september2026 vs switch2",
-        "subject": "PS5 vs Switch 2 US sales",
-        "event_type": "other",
-        "action": "outperform",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "",
-        "institution": "Sony",
-        "target": "US market September 2026",
-        "platforms": [
-          "PS5",
-          "Switch 2"
-        ],
-        "topic": "market"
-      },
-      "sources": [
-        "Push Square"
-      ],
-      "event_sources": [
-        "Push Square"
-      ],
-      "claims": [
-        "strongest US sales month since May 2025"
-      ],
-      "importance_score": 58,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 28,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "PS5 Surpasses Switch 2 in Strongest US Sales Month Since May 2025",
-      "summary": "Sony’s PS5 achieved its best US dollar market share since May 2025, outselling the Switch 2 in both unit and revenue figures for September.",
-      "published_at": "2026-10-22T19:45:00+06:00",
-      "selected_at": "2026-10-22T16:53:19.786373+00:00",
-      "status": "published",
-      "message_id": 829,
-      "published_versions": [
-        {
-          "published_at": "2026-10-22T16:53:19.786373+00:00",
-          "headline": "PS5 Surpasses Switch 2 in Strongest US Sales Month Since May 2025",
-          "claims": [
-            "strongest US sales month since May 2025"
-          ]
-        }
-      ]
-    },
     "evt_37c4ee5fc9814c": {
       "event_id": "evt_37c4ee5fc9814c",
       "event_key": "xbox nintendo console sales suffer yoy decreases in new september 2026 us report milestone",
@@ -6193,156 +6259,6 @@
           "headline": "Leak Reveals Mass Effect Universe Trailer After BioWare Closure",
           "claims": [
             "A short clip teases what is essentially Mass Effect 5 with a new cast of characters, new powers, shooting gameplay, and even romance scenes"
-          ]
-        }
-      ]
-    },
-    "evt_190ca9588b0622": {
-      "event_id": "evt_190ca9588b0622",
-      "event_key": "modern warfare 4 season 1 release date expected start times release",
-      "event_subject": "Modern Warfare 4 Season 1 Release Date & Expected Start Times",
-      "event_type": "release",
-      "event_frame": {
-        "event_key": "modern warfare 4 season 1 release date expected start times release",
-        "subject": "Modern Warfare 4 Season 1 Release Date & Expected Start Times",
-        "event_type": "release",
-        "action": "release",
-        "status": "current",
-        "modality": "confirmed",
-        "game": "Modern Warfare 4 Season 1 Release Date & Expected Start Times",
-        "franchise": "Modern Warfare 4 Season 1 Release Date & Expected Start Times",
-        "institution": "",
-        "target": "Modern Warfare 4 Season 1 Release Date & Expected Start Times",
-        "platforms": [],
-        "topic": "Gaming"
-      },
-      "sources": [
-        "Insider Gaming"
-      ],
-      "event_sources": [
-        "Insider Gaming"
-      ],
-      "claims": [
-        "Check out when Modern Warfare 4 is launching Season 1, the first major update for Infinity Ward's FPS sequel. The post Modern Warfare 4 Season 1 Release Date & Expected Start Times appeared first on Insider Gaming ."
-      ],
-      "importance_score": 48,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 14,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Modern Warfare 4 Season 1 Launches November 6 with Global Rollout",
-      "summary": "Modern Warfare 4 Season 1 goes live on November 6, debuting new guns, modes, and the long‑awaited integration with Warzone.",
-      "published_at": "2026-10-22T22:03:17+06:00",
-      "selected_at": "2026-10-22T16:53:35.870282+00:00",
-      "status": "published",
-      "message_id": 832,
-      "published_versions": [
-        {
-          "published_at": "2026-10-22T16:53:35.870282+00:00",
-          "headline": "Modern Warfare 4 Season 1 Launches November 6 with Global Rollout",
-          "claims": [
-            "Check out when Modern Warfare 4 is launching Season 1, the first major update for Infinity Ward's FPS sequel. The post Modern Warfare 4 Season 1 Release Date & Expected Start Times appeared first on Insider Gaming ."
-          ]
-        }
-      ]
-    },
-    "evt_d596dddfbcf995": {
-      "event_id": "evt_d596dddfbcf995",
-      "event_key": "nba 2k27 overtakes resident evil requiem as the best selling game year to date other",
-      "event_subject": "NBA 2K27 Overtakes Resident Evil Requiem as the Best-Selling Game Year-to-Date",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "nba 2k27 overtakes resident evil requiem as the best selling game year to date other",
-        "subject": "NBA 2K27 Overtakes Resident Evil Requiem as the Best-Selling Game Year-to-Date",
-        "event_type": "other",
-        "action": "other",
-        "status": "current",
-        "modality": "confirmed",
-        "game": "NBA 2K27 Overtakes Resident Evil Requiem as the Best-Selling Game Year-to-Date",
-        "franchise": "NBA 2K27 Overtakes Resident Evil Requiem as the Best-Selling Game Year-to-Date",
-        "institution": "",
-        "target": "NBA 2K27 Overtakes Resident Evil Requiem as the Best-Selling Game Year-to-Date",
-        "platforms": [],
-        "topic": "Gaming"
-      },
-      "sources": [
-        "Insider Gaming"
-      ],
-      "event_sources": [
-        "Insider Gaming"
-      ],
-      "claims": [
-        "Resident Evil Requiem's spot of best-selling game of 2026 has been taken over by NBA 2K26. Here are more details. The post NBA 2K27 Overtakes Resident Evil Requiem as the Best-Selling Game Year-to-Date appeared first on Insider Gaming ."
-      ],
-      "importance_score": 40,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 6,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "NBA 2K27 Surpasses Resident Evil Requiem as 2026 Year‑to‑Date Best‑Seller",
-      "summary": "New US sales data shows NBA 2K27 overtaking Resident Evil: Requiem to become the top‑selling game of 2026 through October 3.",
-      "published_at": "2026-10-22T21:00:34+06:00",
-      "selected_at": "2026-10-22T16:53:42.837873+00:00",
-      "status": "published",
-      "message_id": 833,
-      "published_versions": [
-        {
-          "published_at": "2026-10-22T16:53:42.837873+00:00",
-          "headline": "NBA 2K27 Surpasses Resident Evil Requiem as 2026 Year‑to‑Date Best‑Seller",
-          "claims": [
-            "Resident Evil Requiem's spot of best-selling game of 2026 has been taken over by NBA 2K26. Here are more details. The post NBA 2K27 Overtakes Resident Evil Requiem as the Best-Selling Game Year-to-Date appeared first on Insider Gaming ."
-          ]
-        }
-      ]
-    },
-    "evt_8cddeeed2775b1": {
-      "event_id": "evt_8cddeeed2775b1",
-      "event_key": "atari is ending support for its 2021 vcs console will release a homebrew app to let players keep making and adding games release",
-      "event_subject": "Atari is ending support for its 2021 VCS console, will release a Homebrew App to let players keep making and adding games",
-      "event_type": "release",
-      "event_frame": {
-        "event_key": "atari is ending support for its 2021 vcs console will release a homebrew app to let players keep making and adding games release",
-        "subject": "Atari is ending support for its 2021 VCS console, will release a Homebrew App to let players keep making and adding games",
-        "event_type": "release",
-        "action": "release",
-        "status": "current",
-        "modality": "confirmed",
-        "game": "Atari is ending support for its 2021 VCS console, will release a Homebrew App to let players keep making and adding games",
-        "franchise": "Atari is ending support for its 2021 VCS console, will release a Homebrew App to let players keep making and adding games",
-        "institution": "",
-        "target": "Atari is ending support for its 2021 VCS console, will release a Homebrew App to let players keep making and adding games",
-        "platforms": [],
-        "topic": "Gaming"
-      },
-      "sources": [
-        "VGC"
-      ],
-      "event_sources": [
-        "VGC"
-      ],
-      "claims": [
-        "The stylish part console, part PC hybrid never really took off"
-      ],
-      "importance_score": 39,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 5,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Atari Announces End of Support for 2021 VCS Console",
-      "summary": "Atari will shut down the VCS store on February 1, 2027 and release a Homebrew App to keep the console functional for creators and players.",
-      "published_at": "2026-10-22T21:25:46+06:00",
-      "selected_at": "2026-10-22T16:53:48.636846+00:00",
-      "status": "published",
-      "message_id": 834,
-      "published_versions": [
-        {
-          "published_at": "2026-10-22T16:53:48.636846+00:00",
-          "headline": "Atari Announces End of Support for 2021 VCS Console",
-          "claims": [
-            "The stylish part console, part PC hybrid never really took off"
           ]
         }
       ]
@@ -19228,6 +19144,194 @@
           "headline": "Hellraiser: Revival Crowned Horror Game of the Year, Resident Evil Requiem Leads Awards",
           "claims": [
             "Hellraiser: Revival won Game of the Year; Resident Evil Requiem won most awards"
+          ]
+        }
+      ]
+    },
+    "evt_5328f6e40c12be": {
+      "event_id": "evt_5328f6e40c12be",
+      "event_key": "gta6 sales figures nov2026",
+      "event_subject": "GTA 6 sales numbers November 2026",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 sales figures nov2026",
+        "subject": "GTA 6 sales numbers November 2026",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "public",
+        "platforms": [],
+        "topic": "sales"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [],
+      "importance_score": 74,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 40,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "GTA 6 Shatters Records with 32.5 Million Copies Sold",
+      "summary": "As of November 20 2026, GTA 6 has sold 32.5 million units and generated just under $4 billion in revenue, setting a new entertainment launch record.",
+      "published_at": "2026-11-21T19:12:49+06:00",
+      "selected_at": "2026-11-21T16:09:37.241245+00:00",
+      "status": "published",
+      "message_id": 1113,
+      "published_versions": [
+        {
+          "published_at": "2026-11-21T16:09:37.241245+00:00",
+          "headline": "GTA 6 Shatters Records with 32.5 Million Copies Sold",
+          "claims": []
+        }
+      ]
+    },
+    "evt_ccb062293b22ac": {
+      "event_id": "evt_ccb062293b22ac",
+      "event_key": "wizards of the coast ai settlement distribution",
+      "event_subject": "Wizards of the Coast settlement distribution",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "wizards of the coast ai settlement distribution",
+        "subject": "Wizards of the Coast settlement distribution",
+        "event_type": "other",
+        "action": "distribute",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Dungeons & Dragons",
+        "institution": "Wizards of the Coast",
+        "target": "authors",
+        "platforms": [],
+        "topic": "AI settlement"
+      },
+      "sources": [
+        "Polygon"
+      ],
+      "event_sources": [
+        "Polygon"
+      ],
+      "claims": [],
+      "importance_score": 55,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 25,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Wizards of the Coast Gives Up Share of Record‑Breaking AI Settlement to D&D Authors",
+      "summary": "Wizards of the Coast voluntarily forfeits its portion of the $1.5 billion Anthropic AI settlement, directing the funds to the creators of Dungeons & Dragons novels and modules.",
+      "published_at": "2026-11-21T21:59:00+06:00",
+      "selected_at": "2026-11-21T16:09:43.193782+00:00",
+      "status": "published",
+      "message_id": 1114,
+      "published_versions": [
+        {
+          "published_at": "2026-11-21T16:09:43.193782+00:00",
+          "headline": "Wizards of the Coast Gives Up Share of Record‑Breaking AI Settlement to D&D Authors",
+          "claims": []
+        }
+      ]
+    },
+    "evt_117b04b5eb47f7": {
+      "event_id": "evt_117b04b5eb47f7",
+      "event_key": "persona6 development update",
+      "event_subject": "Persona 6 development timeline comment",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "persona6 development update",
+        "subject": "Persona 6 development timeline comment",
+        "event_type": "update",
+        "action": "inform",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Persona 6",
+        "franchise": "Persona",
+        "institution": "Atlus",
+        "target": "fans",
+        "platforms": [],
+        "topic": "development"
+      },
+      "sources": [
+        "PC Gamer"
+      ],
+      "event_sources": [
+        "PC Gamer"
+      ],
+      "claims": [],
+      "importance_score": 45,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Atlus Promises Shorter Wait After Persona 6, Says Kazuhisa Wada",
+      "summary": "Atlus acknowledges the seven‑year gap since Persona 5 Royal and vows future entries will arrive faster, though exact timelines remain vague.",
+      "published_at": "2026-11-21T20:31:07+06:00",
+      "selected_at": "2026-11-21T16:09:48.862464+00:00",
+      "status": "published",
+      "message_id": 1115,
+      "published_versions": [
+        {
+          "published_at": "2026-11-21T16:09:48.862464+00:00",
+          "headline": "Atlus Promises Shorter Wait After Persona 6, Says Kazuhisa Wada",
+          "claims": []
+        }
+      ]
+    },
+    "evt_d5cf181dde7151": {
+      "event_id": "evt_d5cf181dde7151",
+      "event_key": "deltarune chapter6 structurally complete chapter7 development started",
+      "event_subject": "Toby Fox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "deltarune chapter6 structurally complete chapter7 development started",
+        "subject": "Toby Fox",
+        "event_type": "other",
+        "action": "report_status",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Deltarune",
+        "franchise": "Deltarune",
+        "institution": "Toby Fox",
+        "target": "Chapter 6, Chapter 7",
+        "platforms": [],
+        "topic": "development"
+      },
+      "sources": [
+        "PC Gamer"
+      ],
+      "event_sources": [
+        "PC Gamer"
+      ],
+      "claims": [
+        "All maps, events and battles for Chapter 6 exist and work on Chapter 7 has begun"
+      ],
+      "importance_score": 45,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Toby Fox Announces Deltarune Chapter 6 Structurally Complete, Starts Chapter 7 Development",
+      "summary": "The creator says chapter 6 is now a playable draft with all maps and battles in place, while work has officially begun on chapter 7.",
+      "published_at": "2026-11-21T19:09:55+06:00",
+      "selected_at": "2026-11-21T16:09:54.522630+00:00",
+      "status": "published",
+      "message_id": 1116,
+      "published_versions": [
+        {
+          "published_at": "2026-11-21T16:09:54.522630+00:00",
+          "headline": "Toby Fox Announces Deltarune Chapter 6 Structurally Complete, Starts Chapter 7 Development",
+          "claims": [
+            "All maps, events and battles for Chapter 6 exist and work on Chapter 7 has begun"
           ]
         }
       ]
@@ -96908,41 +97012,41 @@
     "evt_02f68445eff9c6": {
       "event_id": "evt_02f68445eff9c6",
       "event_key": "bladerunner2099 showrunner interview",
-      "event_subject": "Blade Runner 2099: What Happens When the Replicants Are Running the World?",
+      "event_subject": "Blade Runner 2099 showrunner interview",
       "event_type": "other",
       "event_frame": {
         "event_key": "bladerunner2099 showrunner interview",
-        "subject": "Blade Runner 2099: What Happens When the Replicants Are Running the World?",
+        "subject": "Blade Runner 2099 showrunner interview",
         "event_type": "other",
         "action": "discuss",
         "status": "published",
         "modality": "unknown",
-        "game": "Blade Runner 2099",
+        "game": "",
         "franchise": "Blade Runner",
-        "institution": "IGN",
-        "target": "viewers",
+        "institution": "",
+        "target": "fans",
         "platforms": [],
-        "topic": "series"
+        "topic": "showrunner"
       },
       "modality": "unknown",
-      "topic": "series",
-      "institution": "IGN",
+      "topic": "showrunner",
+      "institution": "",
       "sources": [
-        "IGN"
+        "GamesRadar+"
       ],
       "source_count": 1,
       "independent_source_count": 1,
       "claims": [],
-      "importance_score": 38,
+      "importance_score": 34,
       "score_breakdown": {
         "significance": 8,
         "coverage": 2,
-        "originality": 10,
+        "originality": 8,
         "freshness": 10,
-        "source_trust": 8,
-        "total": 38
+        "source_trust": 6,
+        "total": 34
       },
-      "last_seen": "2026-10-10T02:12:09.768070+06:00"
+      "last_seen": "2026-11-21T22:07:33.846497+06:00"
     },
     "evt_d8acc843b82031": {
       "event_id": "evt_d8acc843b82031",
@@ -242248,13 +242352,1073 @@
         "total": 32
       },
       "last_seen": "2026-11-21T14:00:55.301235+06:00"
+    },
+    "evt_5328f6e40c12be": {
+      "event_id": "evt_5328f6e40c12be",
+      "event_key": "gta6 sales figures nov2026",
+      "event_subject": "GTA 6 sales numbers November 2026",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 sales figures nov2026",
+        "subject": "GTA 6 sales numbers November 2026",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "public",
+        "platforms": [],
+        "topic": "sales"
+      },
+      "modality": "unknown",
+      "topic": "sales",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 74,
+      "score_breakdown": {
+        "significance": 40,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 74
+      },
+      "last_seen": "2026-11-21T22:07:33.846436+06:00"
+    },
+    "evt_ccb062293b22ac": {
+      "event_id": "evt_ccb062293b22ac",
+      "event_key": "wizards of the coast ai settlement distribution",
+      "event_subject": "Wizards of the Coast settlement distribution",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "wizards of the coast ai settlement distribution",
+        "subject": "Wizards of the Coast settlement distribution",
+        "event_type": "other",
+        "action": "distribute",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Dungeons & Dragons",
+        "institution": "Wizards of the Coast",
+        "target": "authors",
+        "platforms": [],
+        "topic": "AI settlement"
+      },
+      "modality": "unknown",
+      "topic": "AI settlement",
+      "institution": "Wizards of the Coast",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 55,
+      "score_breakdown": {
+        "significance": 25,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 55
+      },
+      "last_seen": "2026-11-21T22:07:33.846453+06:00"
+    },
+    "evt_31feae02f4f575": {
+      "event_id": "evt_31feae02f4f575",
+      "event_key": "gta6 review bombing",
+      "event_subject": "GTA 6 review bombing",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 review bombing",
+        "subject": "GTA 6 review bombing",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "review bombing"
+      },
+      "modality": "unknown",
+      "topic": "review bombing",
+      "institution": "",
+      "sources": [
+        "Push Square",
+        "Eurogamer"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [],
+      "importance_score": 57,
+      "score_breakdown": {
+        "significance": 22,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 57
+      },
+      "last_seen": "2026-11-21T22:07:33.846457+06:00"
+    },
+    "evt_ba1a2b084c2235": {
+      "event_id": "evt_ba1a2b084c2235",
+      "event_key": "gta6 ps5 launch performance",
+      "event_subject": "PS5 performance during GTA 6 launch",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 ps5 launch performance",
+        "subject": "PS5 performance during GTA 6 launch",
+        "event_type": "other",
+        "action": "evaluate",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "players",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "launch stability"
+      },
+      "modality": "unknown",
+      "topic": "launch stability",
+      "institution": "",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 50,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 50
+      },
+      "last_seen": "2026-11-21T22:07:33.846460+06:00"
+    },
+    "evt_a53de773e9e425": {
+      "event_id": "evt_a53de773e9e425",
+      "event_key": "phasmophobia resonance update release",
+      "event_subject": "Phasmophobia Resonance update",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "phasmophobia resonance update release",
+        "subject": "Phasmophobia Resonance update",
+        "event_type": "update",
+        "action": "release",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Phasmophobia",
+        "franchise": "Phasmophobia",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "new features"
+      },
+      "modality": "unknown",
+      "topic": "new features",
+      "institution": "",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 50,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 50
+      },
+      "last_seen": "2026-11-21T22:07:33.846464+06:00"
+    },
+    "evt_7a08f72e460fed": {
+      "event_id": "evt_7a08f72e460fed",
+      "event_key": "xbox blackfriday2026 sale",
+      "event_subject": "Xbox Black Friday 2026 sale",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "xbox blackfriday2026 sale",
+        "subject": "Xbox Black Friday 2026 sale",
+        "event_type": "other",
+        "action": "announce",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Xbox",
+        "target": "consumers",
+        "platforms": [],
+        "topic": "discounts"
+      },
+      "modality": "unknown",
+      "topic": "discounts",
+      "institution": "Xbox",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 50,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 50
+      },
+      "last_seen": "2026-11-21T22:07:33.846467+06:00"
+    },
+    "evt_ce98e3f47c1978": {
+      "event_id": "evt_ce98e3f47c1978",
+      "event_key": "gta6 ps5 crash bug",
+      "event_subject": "PS5 crash error CE‑108255‑1",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 ps5 crash bug",
+        "subject": "PS5 crash error CE‑108255‑1",
+        "event_type": "other",
+        "action": "report",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "PS5 players",
+        "platforms": [
+          "PS5"
+        ],
+        "topic": "crash"
+      },
+      "modality": "unknown",
+      "topic": "crash",
+      "institution": "",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 48,
+      "score_breakdown": {
+        "significance": 18,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 48
+      },
+      "last_seen": "2026-11-21T22:07:33.846470+06:00"
+    },
+    "evt_117b04b5eb47f7": {
+      "event_id": "evt_117b04b5eb47f7",
+      "event_key": "persona6 development update",
+      "event_subject": "Persona 6 development timeline comment",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "persona6 development update",
+        "subject": "Persona 6 development timeline comment",
+        "event_type": "update",
+        "action": "inform",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Persona 6",
+        "franchise": "Persona",
+        "institution": "Atlus",
+        "target": "fans",
+        "platforms": [],
+        "topic": "development"
+      },
+      "modality": "unknown",
+      "topic": "development",
+      "institution": "Atlus",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-11-21T22:07:33.846473+06:00"
+    },
+    "evt_d5cf181dde7151": {
+      "event_id": "evt_d5cf181dde7151",
+      "event_key": "deltarune chapter6 structurally complete chapter7 development started",
+      "event_subject": "Toby Fox",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "deltarune chapter6 structurally complete chapter7 development started",
+        "subject": "Toby Fox",
+        "event_type": "other",
+        "action": "report_status",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Deltarune",
+        "franchise": "Deltarune",
+        "institution": "Toby Fox",
+        "target": "Chapter 6, Chapter 7",
+        "platforms": [],
+        "topic": "development"
+      },
+      "modality": "unknown",
+      "topic": "development",
+      "institution": "Toby Fox",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "All maps, events and battles for Chapter 6 exist and work on Chapter 7 has begun"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-11-21T22:07:33.846475+06:00"
+    },
+    "evt_8da238bcd55397": {
+      "event_id": "evt_8da238bcd55397",
+      "event_key": "gta6 unreleased dangelo song discovery",
+      "event_subject": "unreleased D'Angelo song in GTA 6",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 unreleased dangelo song discovery",
+        "subject": "unreleased D'Angelo song in GTA 6",
+        "event_type": "other",
+        "action": "reveal",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "music"
+      },
+      "modality": "unknown",
+      "topic": "music",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 12,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 42
+      },
+      "last_seen": "2026-11-21T22:07:33.846478+06:00"
+    },
+    "evt_efc47f0670d79f": {
+      "event_id": "evt_efc47f0670d79f",
+      "event_key": "gta6 xbox clip ban notice",
+      "event_subject": "Xbox clip upload bans for GTA 6",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 xbox clip ban notice",
+        "subject": "Xbox clip upload bans for GTA 6",
+        "event_type": "other",
+        "action": "inform",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "Xbox players",
+        "platforms": [
+          "Xbox"
+        ],
+        "topic": "bans"
+      },
+      "modality": "unknown",
+      "topic": "bans",
+      "institution": "",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 44,
+      "score_breakdown": {
+        "significance": 10,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 44
+      },
+      "last_seen": "2026-11-21T22:07:33.846482+06:00"
+    },
+    "evt_04ae5eb6c340ec": {
+      "event_id": "evt_04ae5eb6c340ec",
+      "event_key": "gta6 disco disney omission commentary",
+      "event_subject": "Omission of Disney in GTA 6",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 disco disney omission commentary",
+        "subject": "Omission of Disney in GTA 6",
+        "event_type": "other",
+        "action": "criticize",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "cultural reference"
+      },
+      "modality": "unknown",
+      "topic": "cultural reference",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-11-21T22:07:33.846486+06:00"
+    },
+    "evt_d460cfdb040508": {
+      "event_id": "evt_d460cfdb040508",
+      "event_key": "elderscrolls6 pre release recommendation",
+      "event_subject": "Play Tainted Grail while waiting for ESO 6",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "elderscrolls6 pre release recommendation",
+        "subject": "Play Tainted Grail while waiting for ESO 6",
+        "event_type": "other",
+        "action": "suggest",
+        "status": "published",
+        "modality": "unknown",
+        "game": "The Elder Scrolls VI",
+        "franchise": "The Elder Scrolls",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "pre‑release"
+      },
+      "modality": "unknown",
+      "topic": "pre‑release",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-11-21T22:07:33.846490+06:00"
+    },
+    "evt_fdc354dfffeb5e": {
+      "event_id": "evt_fdc354dfffeb5e",
+      "event_key": "bethesda new cat fallout adventure announcement",
+      "event_subject": "Bethesda cat‑themed Fallout‑inspired adventure",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "bethesda new cat fallout adventure announcement",
+        "subject": "Bethesda cat‑themed Fallout‑inspired adventure",
+        "event_type": "announcement",
+        "action": "reveal",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Bethesda",
+        "target": "players",
+        "platforms": [],
+        "topic": "new game"
+      },
+      "modality": "unknown",
+      "topic": "new game",
+      "institution": "Bethesda",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-11-21T22:07:33.846493+06:00"
+    },
+    "evt_fb680c1dd156d5": {
+      "event_id": "evt_fb680c1dd156d5",
+      "event_key": "clairobscur actor interview",
+      "event_subject": "Clair Obscur actor interview on awards",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "clairobscur actor interview",
+        "subject": "Clair Obscur actor interview on awards",
+        "event_type": "other",
+        "action": "discuss",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Clair Obscur",
+        "institution": "",
+        "target": "fans",
+        "platforms": [],
+        "topic": "awards"
+      },
+      "modality": "unknown",
+      "topic": "awards",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 34
+      },
+      "last_seen": "2026-11-21T22:07:33.846503+06:00"
+    },
+    "evt_dff84a68527bed": {
+      "event_id": "evt_dff84a68527bed",
+      "event_key": "gta6 safe code guides",
+      "event_subject": "La Cascara Motel safe code",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 safe code guides",
+        "subject": "La Cascara Motel safe code",
+        "event_type": "other",
+        "action": "provide code",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "safe code"
+      },
+      "modality": "unknown",
+      "topic": "safe code",
+      "institution": "",
+      "sources": [
+        "GamesRadar+",
+        "PC Gamer",
+        "VGC"
+      ],
+      "source_count": 3,
+      "independent_source_count": 3,
+      "claims": [],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 10,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 45
+      },
+      "last_seen": "2026-11-21T22:07:33.846507+06:00"
+    },
+    "evt_c19bbceead1115": {
+      "event_id": "evt_c19bbceead1115",
+      "event_key": "gta6 car location guides",
+      "event_subject": "Grotti Itali RSX location guide",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 car location guides",
+        "subject": "Grotti Itali RSX location guide",
+        "event_type": "other",
+        "action": "show location",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "car location"
+      },
+      "modality": "unknown",
+      "topic": "car location",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 42,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 15,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 42
+      },
+      "last_seen": "2026-11-21T22:07:33.846510+06:00"
+    },
+    "evt_951e8cbcd35969": {
+      "event_id": "evt_951e8cbcd35969",
+      "event_key": "gta6 character nude guide",
+      "event_subject": "How to make Lucia nude",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 character nude guide",
+        "subject": "How to make Lucia nude",
+        "event_type": "other",
+        "action": "explain",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "character mod"
+      },
+      "modality": "unknown",
+      "topic": "character mod",
+      "institution": "",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-11-21T22:07:33.846514+06:00"
+    },
+    "evt_434f111bfadb5a": {
+      "event_id": "evt_434f111bfadb5a",
+      "event_key": "gta6 release feedback poll",
+      "event_subject": "GTA 6 community poll",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 release feedback poll",
+        "subject": "GTA 6 community poll",
+        "event_type": "other",
+        "action": "collect opinions",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "player feedback"
+      },
+      "modality": "unknown",
+      "topic": "player feedback",
+      "institution": "",
+      "sources": [
+        "Pure Xbox"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-11-21T22:07:33.846518+06:00"
+    },
+    "evt_9462126e575528": {
+      "event_id": "evt_9462126e575528",
+      "event_key": "netflix scifi recommendations",
+      "event_subject": "Netflix sci‑fi shows list",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "netflix scifi recommendations",
+        "subject": "Netflix sci‑fi shows list",
+        "event_type": "other",
+        "action": "recommend",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "viewers",
+        "platforms": [],
+        "topic": "streaming"
+      },
+      "modality": "unknown",
+      "topic": "streaming",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-11-21T22:07:33.846522+06:00"
+    },
+    "evt_95cc3365181bbd": {
+      "event_id": "evt_95cc3365181bbd",
+      "event_key": "gta6 cozy game opinion",
+      "event_subject": "Opinion that GTA 6 is a cozy game",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 cozy game opinion",
+        "subject": "Opinion that GTA 6 is a cozy game",
+        "event_type": "other",
+        "action": "argue",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "tone"
+      },
+      "modality": "unknown",
+      "topic": "tone",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-11-21T22:07:33.846526+06:00"
+    },
+    "evt_28cf41c117d0fb": {
+      "event_id": "evt_28cf41c117d0fb",
+      "event_key": "the odyssey cast interview",
+      "event_subject": "The Odyssey cast debunks Nolan misconception",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "the odyssey cast interview",
+        "subject": "The Odyssey cast debunks Nolan misconception",
+        "event_type": "other",
+        "action": "clarify",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "The Odyssey",
+        "institution": "",
+        "target": "fans",
+        "platforms": [],
+        "topic": "cast"
+      },
+      "modality": "unknown",
+      "topic": "cast",
+      "institution": "",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-11-21T22:07:33.846531+06:00"
+    },
+    "evt_93df18c34dbcbb": {
+      "event_id": "evt_93df18c34dbcbb",
+      "event_key": "gta6 car restoration guide",
+      "event_subject": "Transgressor restoration guide",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 car restoration guide",
+        "subject": "Transgressor restoration guide",
+        "event_type": "other",
+        "action": "explain restoration",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "vehicle restoration"
+      },
+      "modality": "unknown",
+      "topic": "vehicle restoration",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-11-21T22:07:33.846535+06:00"
+    },
+    "evt_c4761d06951344": {
+      "event_id": "evt_c4761d06951344",
+      "event_key": "gta6 cow exploration story",
+      "event_subject": "Weird cow encounter story",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 cow exploration story",
+        "subject": "Weird cow encounter story",
+        "event_type": "other",
+        "action": "narrate",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "exploration"
+      },
+      "modality": "unknown",
+      "topic": "exploration",
+      "institution": "",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-11-21T22:07:33.846538+06:00"
+    },
+    "evt_36fa6773fe044f": {
+      "event_id": "evt_36fa6773fe044f",
+      "event_key": "lan nostalgia essay",
+      "event_subject": "author personal essay",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "lan nostalgia essay",
+        "subject": "author personal essay",
+        "event_type": "other",
+        "action": "reflect",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "",
+        "target": "",
+        "platforms": [],
+        "topic": "LAN nostalgia"
+      },
+      "modality": "unknown",
+      "topic": "LAN nostalgia",
+      "institution": "",
+      "sources": [
+        "PC Gamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-11-21T22:07:33.846542+06:00"
+    },
+    "evt_cef43de93e4075": {
+      "event_id": "evt_cef43de93e4075",
+      "event_key": "razer krakenkittyv3 review",
+      "event_subject": "Razer Kraken Kitty V3 review",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "razer krakenkittyv3 review",
+        "subject": "Razer Kraken Kitty V3 review",
+        "event_type": "review",
+        "action": "evaluate",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Razer",
+        "target": "consumers",
+        "platforms": [],
+        "topic": "hardware"
+      },
+      "modality": "unknown",
+      "topic": "hardware",
+      "institution": "Razer",
+      "sources": [
+        "Siliconera"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-11-21T22:07:33.846545+06:00"
+    },
+    "evt_9ff90ec2b69565": {
+      "event_id": "evt_9ff90ec2b69565",
+      "event_key": "gta6 mission guide touristtrap",
+      "event_subject": "Tourist Trap mission guide",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta6 mission guide touristtrap",
+        "subject": "Tourist Trap mission guide",
+        "event_type": "other",
+        "action": "explain steps",
+        "status": "published",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "",
+        "target": "players",
+        "platforms": [],
+        "topic": "mission"
+      },
+      "modality": "unknown",
+      "topic": "mission",
+      "institution": "",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 31
+      },
+      "last_seen": "2026-11-21T22:07:33.846548+06:00"
     }
   },
   "posted_event_ids": [
-    "evt_91608723022376",
-    "evt_004a2b8efd0dfe",
-    "evt_c4324214021007",
-    "evt_217c878804e44f",
     "evt_b62e707476197e",
     "evt_9dd527b3d0fa1b",
     "evt_f8c0e2df2597a9",
@@ -242750,10 +243914,13 @@
     "evt_a86db828e6b7b7",
     "evt_3e8f5dda91862e",
     "evt_1b47dccd32e1fa",
-    "evt_0de7a9a47cd675"
+    "evt_0de7a9a47cd675",
+    "evt_5328f6e40c12be",
+    "evt_ccb062293b22ac",
+    "evt_117b04b5eb47f7",
+    "evt_d5cf181dde7151"
   ],
   "recent_titles": [
-    "cd projekt red releases hotfix for the witcher 3 remastered on ps5",
     "will you take november 19 off for gta 6 release",
     "sifu launches on ios and android for 7 99",
     "hypercharge unboxed receives massive free update for switch this week",
@@ -243153,10 +244320,14 @@
     "xbox and bethesda reveal fallout inspired cat hunt crossover",
     "gamestop ceo calls for physical disc revival amid digital only gta 6 launch",
     "zenless zone zero meets honkai star rail in 3 4 crossover event",
-    "hellraiser revival crowned horror game of the year resident evil requiem leads awards"
+    "hellraiser revival crowned horror game of the year resident evil requiem leads awards",
+    "gta 6 shatters records with 32 5 million copies sold",
+    "wizards of the coast gives up share of record breaking ai settlement to d d authors",
+    "atlus promises shorter wait after persona 6 says kazuhisa wada",
+    "toby fox announces deltarune chapter 6 structurally complete starts chapter 7 development"
   ],
   "category_coverage": {
-    "Game Updates": "2026-11-21T14:02:00.387369+06:00",
+    "Game Updates": "2026-11-21T22:09:54.522653+06:00",
     "Major Releases": "2026-11-17T14:52:36.215790+06:00",
     "Steam": "2026-11-10T23:08:27.321312+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
