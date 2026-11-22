@@ -2,138 +2,138 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"2247b-CzOXBcX05C+20T9TgGQ9NiUGGuU\"",
+      "etag": "W/\"22812-a0TdtGnrI4wQEkDuC6k8AxIt7z0\"",
       "last_modified": null,
-      "last_checked": "2026-11-22T04:02:00.755867+06:00",
+      "last_checked": "2026-11-22T13:46:26.467650+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-22T04:02:00.880629+06:00",
+      "last_checked": "2026-11-22T13:46:26.620185+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6b021480-891\"",
-      "last_modified": "Sat, 21 Nov 2026 22:00:32 GMT",
-      "last_checked": "2026-11-22T04:02:01.229477+06:00",
+      "etag": "\"6b029d9d-889\"",
+      "last_modified": "Sun, 22 Nov 2026 07:45:33 GMT",
+      "last_checked": "2026-11-22T13:46:26.922575+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Sat, 21 Nov 2026 17:19:50 GMT",
-      "last_checked": "2026-11-22T04:02:01.811325+06:00",
+      "last_checked": "2026-11-22T13:46:27.563534+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "W/\"c3cda7cb8b04d272b329f6d2e86e661c\"",
-      "last_modified": "Sat, 21 Nov 2026 12:48:55 GMT",
-      "last_checked": "2026-11-22T04:02:02.183842+06:00",
+      "etag": "W/\"33addbbd30acb5cfdaa73590e0524d5d\"",
+      "last_modified": "Sun, 22 Nov 2026 03:55:15 GMT",
+      "last_checked": "2026-11-22T13:46:27.787314+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-22T04:02:02.235079+06:00",
+      "last_checked": "2026-11-22T13:46:27.860618+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-22T04:02:03.048632+06:00",
+      "last_checked": "2026-11-22T13:46:28.424918+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"78626f7d3f1b60b2cde247fa9bbbb315\"",
-      "last_modified": "Sat, 21 Nov 2026 22:00:59 GMT",
-      "last_checked": "2026-11-22T04:02:03.266985+06:00",
+      "etag": "W/\"c63e6a7575ad6a4f3b4d51ba76c76570\"",
+      "last_modified": "Sun, 22 Nov 2026 07:46:22 GMT",
+      "last_checked": "2026-11-22T13:46:28.655776+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-22T04:02:03.389660+06:00",
+      "last_checked": "2026-11-22T13:46:28.720720+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Sat, 21 Nov 2026 19:20:15 GMT",
-      "last_checked": "2026-11-22T04:02:03.873917+06:00",
+      "last_modified": "Sun, 22 Nov 2026 00:02:47 GMT",
+      "last_checked": "2026-11-22T13:46:29.106139+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sat, 21 Nov 2026 22:02:04 GMT",
-      "last_checked": "2026-11-22T04:02:04.334804+06:00",
+      "last_modified": "Sun, 22 Nov 2026 07:46:29 GMT",
+      "last_checked": "2026-11-22T13:46:29.523058+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"26a114cb7b9cdba9257ac214118ca8c6\"",
-      "last_modified": "Sat, 21 Nov 2026 21:03:04 GMT",
-      "last_checked": "2026-11-22T04:02:04.509622+06:00",
+      "etag": "W/\"a18e8b591c3d7e48bac12aaf3fb1b344\"",
+      "last_modified": "Sun, 22 Nov 2026 00:35:17 GMT",
+      "last_checked": "2026-11-22T13:46:29.588989+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-22T04:02:05.071225+06:00",
+      "last_checked": "2026-11-22T13:46:30.122467+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-22T04:02:05.470318+06:00",
+      "last_checked": "2026-11-22T13:46:30.335699+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-22T04:02:05.986980+06:00",
+      "last_checked": "2026-11-22T13:46:30.847840+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-22T04:02:06.316026+06:00",
-      "fail_count": 187,
+      "last_checked": "2026-11-22T13:46:31.106064+06:00",
+      "fail_count": 188,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"529ece25d56e4987d613e733f5a430e5\"",
       "last_modified": "Tue, 10 Nov 2026 01:03:31 GMT",
-      "last_checked": "2026-11-22T04:02:06.421732+06:00",
+      "last_checked": "2026-11-22T13:46:31.178056+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-22T04:02:06.557061+06:00",
+      "last_checked": "2026-11-22T13:46:31.217888+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-22T04:02:06.723667+06:00",
-      "fail_count": 187,
+      "last_checked": "2026-11-22T13:46:31.417446+06:00",
+      "fail_count": 188,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
       "etag": "W/\"f247faa885b1b569da30b7bf89eb41fe\"",
       "last_modified": "Sat, 21 Nov 2026 06:13:13 GMT",
-      "last_checked": "2026-11-22T04:02:06.902901+06:00",
+      "last_checked": "2026-11-22T13:46:31.527568+06:00",
       "fail_count": 0,
       "alerted": false
     }
@@ -4774,111 +4774,41 @@
       "status": "pending",
       "first_seen": "2026-11-22T04:02:06.475768+06:00",
       "last_seen": "2026-11-22T04:02:06.475773+06:00"
+    },
+    "ign.com/articles/piranha-plant-slippers-amazon-black-friday-deal-2026": {
+      "title": "These Piranha Plant Slippers Double as Mario-themed Decor When You Put Them Away",
+      "url": "https://www.ign.com/articles/piranha-plant-slippers-amazon-black-friday-deal-2026",
+      "canonical": "ign.com/articles/piranha-plant-slippers-amazon-black-friday-deal-2026",
+      "published_dt": "2026-11-22T11:08:36+06:00",
+      "published_date": "2026-11-22T11:08:36+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "",
+      "image": "https://assets-prd.ignimgs.com/2026/11/22/ign-headline-template-2026-9-2-1795323508266.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-22T13:46:26.509791+06:00",
+      "last_seen": "2026-11-22T13:46:26.509795+06:00"
+    },
+    "nintendolife.com/news/2026/11/katsuhiro-harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament": {
+      "title": "Katsuhiro Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament",
+      "url": "https://www.nintendolife.com/news/2026/11/katsuhiro-harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament",
+      "canonical": "nintendolife.com/news/2026/11/katsuhiro-harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament",
+      "published_dt": "2026-11-22T13:00:00+06:00",
+      "published_date": "2026-11-22T13:00:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "The producer's pick 'Pangoro' missed out. Famous Japanese game director and producer Katsuhiro Harada, known for the Bandai Namco series Tekken , has revealed a Pokémon he wanted to add to the Pokémon fighting game Pokken Tournament but it didn't make the cut. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/8eedb914f197b/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-22T13:46:30.135607+06:00",
+      "last_seen": "2026-11-22T13:46:30.135612+06:00"
     }
   },
   "events": {
-    "evt_d1eb75034da76b": {
-      "event_id": "evt_d1eb75034da76b",
-      "event_key": "capcom data breach 2026 10 23",
-      "event_subject": "Capcom data breach",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "capcom data breach 2026 10 23",
-        "subject": "Capcom data breach",
-        "event_type": "other",
-        "action": "expose",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "",
-        "institution": "Capcom",
-        "target": "customer accounts",
-        "platforms": [],
-        "topic": "security"
-      },
-      "sources": [
-        "Nintendo Life"
-      ],
-      "event_sources": [
-        "Nintendo Life"
-      ],
-      "claims": [
-        "unauthorised access to >11.7 million CAPCOM ID accounts"
-      ],
-      "importance_score": 65,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 35,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Capcom Data Breach Exposes Over 11.7 Million CAPCOM ID Accounts Worldwide",
-      "summary": "A recent unauthorized intrusion leaked emails, IP addresses and limited personal details from more than 11.7 million CAPCOM ID accounts, though credit card data remains safe.",
-      "published_at": "2026-10-23T09:55:00+06:00",
-      "selected_at": "2026-10-23T05:47:06.804334+00:00",
-      "status": "published",
-      "message_id": 841,
-      "published_versions": [
-        {
-          "published_at": "2026-10-23T05:47:06.804334+00:00",
-          "headline": "Capcom Data Breach Exposes Over 11.7 Million CAPCOM ID Accounts Worldwide",
-          "claims": [
-            "unauthorised access to >11.7 million CAPCOM ID accounts"
-          ]
-        }
-      ]
-    },
-    "evt_49b5ce140bc9cf": {
-      "event_id": "evt_49b5ce140bc9cf",
-      "event_key": "switch 2 alleged jailbreak ns2jb 2026 10 23",
-      "event_subject": "Switch 2 alleged jailbreak ns2jb",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "switch 2 alleged jailbreak ns2jb 2026 10 23",
-        "subject": "Switch 2 alleged jailbreak ns2jb",
-        "event_type": "other",
-        "action": "discover",
-        "status": "alleged",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "",
-        "institution": "Nintendo",
-        "target": "Switch 2 console",
-        "platforms": [
-          "Switch 2"
-        ],
-        "topic": "security"
-      },
-      "sources": [
-        "Nintendo Life"
-      ],
-      "event_sources": [
-        "Nintendo Life"
-      ],
-      "claims": [
-        "software‑only tethered jailbreak discovered; Nintendo delisted SmileBASIC 4"
-      ],
-      "importance_score": 60,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 30,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Switch 2 Jailbreak Exploit Removes SmileBASIC 4 from eShop",
-      "summary": "A software‑only jailbreak dubbed ns2jb, created by Sammy ‘pepsipu’ Hajhamid with OpenAI Codex, forces Nintendo to pull SmileBASIC 4 from the eShop.",
-      "published_at": "2026-10-23T08:55:00+06:00",
-      "selected_at": "2026-10-23T05:47:11.135437+00:00",
-      "status": "published",
-      "message_id": 842,
-      "published_versions": [
-        {
-          "published_at": "2026-10-23T05:47:11.135437+00:00",
-          "headline": "Switch 2 Jailbreak Exploit Removes SmileBASIC 4 from eShop",
-          "claims": [
-            "software‑only tethered jailbreak discovered; Nintendo delisted SmileBASIC 4"
-          ]
-        }
-      ]
-    },
     "evt_5be1ce67bb34fa": {
       "event_id": "evt_5be1ce67bb34fa",
       "event_key": "10 xbox games are out today including modern warfare 4 s full release october 23 release",
@@ -241976,6 +241906,88 @@
         "total": 31
       },
       "last_seen": "2026-11-22T04:03:14.083354+06:00"
+    },
+    "evt_8a8ac5d7caab15": {
+      "event_id": "evt_8a8ac5d7caab15",
+      "event_key": "pokken tournament harada wanted pok mon pangoro suggestion",
+      "event_subject": "Katsuhiro Harada",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "pokken tournament harada wanted pok mon pangoro suggestion",
+        "subject": "Katsuhiro Harada",
+        "event_type": "other",
+        "action": "wanted to add",
+        "status": "not added",
+        "modality": "unknown",
+        "game": "Pokken Tournament",
+        "franchise": "Pokémon",
+        "institution": "Bandai Namco",
+        "target": "Pokémon roster",
+        "platforms": [],
+        "topic": "game development"
+      },
+      "modality": "unknown",
+      "topic": "game development",
+      "institution": "Bandai Namco",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Harada revealed he wanted to include Pokémon Pangoro but it was not selected"
+      ],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-22T13:46:36.869336+06:00"
+    },
+    "evt_7ad6af4a718368": {
+      "event_id": "evt_7ad6af4a718368",
+      "event_key": "nintendo mario piranha plant slippers product release",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo mario piranha plant slippers product release",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "launch",
+        "status": "announced",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Mario",
+        "institution": "Nintendo",
+        "target": "consumers",
+        "platforms": [],
+        "topic": "merchandise"
+      },
+      "modality": "unknown",
+      "topic": "merchandise",
+      "institution": "Nintendo",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "New Piranha Plant‑themed slippers are being sold as both footwear and decor"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-11-22T13:46:36.869358+06:00"
     }
   },
   "posted_event_ids": [
@@ -242481,7 +242493,6 @@
     "evt_a9796f0fcbcb30"
   ],
   "recent_titles": [
-    "rockstar vows next title after gta 6 won t take another eight years",
     "denmark s cpr breach exposes 8 8 million records after 123456 password compromise",
     "bungie boss gives subtle nod to destiny 1 pc port project",
     "team falcons face high stakes at thunderpick world championship 2026",
