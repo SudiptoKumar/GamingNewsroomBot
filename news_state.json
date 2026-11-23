@@ -2,304 +2,143 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"24045-Ke+Ac0iWHdbAjv2HAEBZ6J38DLQ\"",
+      "etag": "W/\"204d4-afhUF7uRm+iqcmpbSGSQ/I15zvU\"",
       "last_modified": null,
-      "last_checked": "2026-11-23T03:34:35.048215+06:00",
+      "last_checked": "2026-11-23T14:35:33.597530+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-23T03:34:35.174921+06:00",
+      "last_checked": "2026-11-23T14:35:33.768068+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6b035ef8-8bb\"",
-      "last_modified": "Sun, 22 Nov 2026 21:30:32 GMT",
-      "last_checked": "2026-11-23T03:34:35.451523+06:00",
+      "etag": "\"6b03fad4-869\"",
+      "last_modified": "Mon, 23 Nov 2026 08:35:32 GMT",
+      "last_checked": "2026-11-23T14:35:34.061859+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
       "last_modified": "Sun, 22 Nov 2026 16:11:00 GMT",
-      "last_checked": "2026-11-23T03:34:35.940749+06:00",
+      "last_checked": "2026-11-23T14:35:34.128561+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
       "etag": "\"6b0267bf-1231\"",
-      "last_modified": "Sun, 22 Nov 2026 03:55:43 GMT",
-      "last_checked": "2026-11-23T03:34:36.262392+06:00",
+      "last_modified": "Mon, 23 Nov 2026 02:36:31 GMT",
+      "last_checked": "2026-11-23T14:35:34.352216+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-23T03:34:36.652619+06:00",
+      "last_checked": "2026-11-23T14:35:34.455913+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-23T03:34:37.079795+06:00",
+      "last_checked": "2026-11-23T14:35:35.066332+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"592a32307f5567ce2932d7fca5007cc4\"",
-      "last_modified": "Sun, 22 Nov 2026 21:20:07 GMT",
-      "last_checked": "2026-11-23T03:34:37.272355+06:00",
+      "etag": "W/\"d07cc9f3b5d2ae7ddbd0de6036fefdba\"",
+      "last_modified": "Mon, 23 Nov 2026 08:00:50 GMT",
+      "last_checked": "2026-11-23T14:35:35.285053+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-23T03:34:37.606551+06:00",
+      "last_checked": "2026-11-23T14:35:35.355250+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Sun, 22 Nov 2026 11:29:46 GMT",
-      "last_checked": "2026-11-23T03:34:38.010270+06:00",
+      "last_checked": "2026-11-23T14:35:35.726192+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Sun, 22 Nov 2026 21:34:38 GMT",
-      "last_checked": "2026-11-23T03:34:38.582052+06:00",
+      "last_modified": "Mon, 23 Nov 2026 08:35:36 GMT",
+      "last_checked": "2026-11-23T14:35:36.269134+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
       "etag": "W/\"a33b251c9b5efe187a71648047256015\"",
       "last_modified": "Sun, 22 Nov 2026 18:59:11 GMT",
-      "last_checked": "2026-11-23T03:34:38.731071+06:00",
+      "last_checked": "2026-11-23T14:35:36.550124+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-23T03:34:38.988807+06:00",
+      "last_checked": "2026-11-23T14:35:36.876326+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-23T03:34:39.342110+06:00",
+      "last_checked": "2026-11-23T14:35:37.231058+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-23T03:34:39.615701+06:00",
+      "last_checked": "2026-11-23T14:35:37.605735+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-23T03:34:39.785205+06:00",
-      "fail_count": 190,
+      "last_checked": "2026-11-23T14:35:37.850141+06:00",
+      "fail_count": 191,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
       "etag": "W/\"3cdfb73b7e08550e8558f4fcd3b1701b\"",
       "last_modified": "Tue, 10 Nov 2026 01:06:54 GMT",
-      "last_checked": "2026-11-23T03:34:39.866503+06:00",
+      "last_checked": "2026-11-23T14:35:37.926058+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-23T03:34:40.014674+06:00",
+      "last_checked": "2026-11-23T14:35:37.971916+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-23T03:34:40.145528+06:00",
-      "fail_count": 190,
+      "last_checked": "2026-11-23T14:35:38.182578+06:00",
+      "fail_count": 191,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"cc4af72607e19689681716f13b1ddcae\"",
-      "last_modified": "Sun, 22 Nov 2026 11:21:45 GMT",
-      "last_checked": "2026-11-23T03:34:40.296360+06:00",
+      "etag": "W/\"f7f35b285fce33c658007ffe9592f7c3\"",
+      "last_modified": "Mon, 23 Nov 2026 06:13:11 GMT",
+      "last_checked": "2026-11-23T14:35:38.310404+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "ign.com/articles/the-lord-of-the-rings-trilogy-4k-extended-edition-black-friday-2026": {
-      "title": "The Lord of the Rings Trilogy 4K Extended Edition Is at Its Lowest Price of the Year for Black Friday",
-      "url": "https://www.ign.com/articles/the-lord-of-the-rings-trilogy-4k-extended-edition-black-friday-2026",
-      "canonical": "ign.com/articles/the-lord-of-the-rings-trilogy-4k-extended-edition-black-friday-2026",
-      "published_dt": "2026-11-19T14:12:21+06:00",
-      "published_date": "2026-11-19T14:12:21+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "",
-      "image": "https://assets-prd.ignimgs.com/2026/11/18/lotr-trilogy-1795037037427.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-19T14:24:35.426829+06:00",
-      "last_seen": "2026-11-19T14:24:35.426833+06:00"
-    },
-    "ign.com/articles/the-retired-lego-3-in-1-t-rex-deal-amazon-black-friday-2026": {
-      "title": "The Retired LEGO 3-in-1 T. rex Drops to a New Low Price for Amazon's Black Friday Sale",
-      "url": "https://www.ign.com/articles/the-retired-lego-3-in-1-t-rex-deal-amazon-black-friday-2026",
-      "canonical": "ign.com/articles/the-retired-lego-3-in-1-t-rex-deal-amazon-black-friday-2026",
-      "published_dt": "2026-11-19T14:04:04+06:00",
-      "published_date": "2026-11-19T14:04:04+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "",
-      "image": "https://assets-prd.ignimgs.com/2026/11/19/3-in-1-dinosaur-1795046831616.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-19T14:24:35.426919+06:00",
-      "last_seen": "2026-11-19T14:24:35.426920+06:00"
-    },
-    "ign.com/articles/the-altruists-review-netflix": {
-      "title": "The Altruists Review",
-      "url": "https://www.ign.com/articles/the-altruists-review-netflix",
-      "canonical": "ign.com/articles/the-altruists-review-netflix",
-      "published_dt": "2026-11-19T14:01:00+06:00",
-      "published_date": "2026-11-19T14:01:00+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "The Altruists, created by Oscar-winning Graham Moore, traces the rise and fall of the crypto exchange FTX and the hedge fund Alameda Research by a close-read of the relationship between Sam Bankman-Fried and Caroline Ellison.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/19/alt-1795046526189.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-19T14:24:35.427024+06:00",
-      "last_seen": "2026-11-19T14:24:35.427025+06:00"
-    },
-    "ign.com/articles/amazon-black-friday-sale-2026": {
-      "title": "Amazon's Black Friday Sale Is Now Live for 2026 — Here's What You Need to Know",
-      "url": "https://www.ign.com/articles/amazon-black-friday-sale-2026",
-      "canonical": "ign.com/articles/amazon-black-friday-sale-2026",
-      "published_dt": "2026-11-19T14:00:30+06:00",
-      "published_date": "2026-11-19T14:00:30+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "",
-      "image": "https://assets-prd.ignimgs.com/2026/11/19/amazon-deals-1795074749435.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-19T14:24:35.427084+06:00",
-      "last_seen": "2026-11-19T14:24:35.427085+06:00"
-    },
-    "gamespot.com/videos/how-to-ditch-the-cops-in-gta-6": {
-      "title": "How To Ditch The Cops In GTA 6",
-      "url": "https://www.gamespot.com/videos/how-to-ditch-the-cops-in-gta-6/",
-      "canonical": "gamespot.com/videos/how-to-ditch-the-cops-in-gta-6",
-      "published_dt": "2026-11-19T14:00:00+06:00",
-      "published_date": "2026-11-19T14:00:00+06:00",
-      "source": "GameSpot",
-      "region": "Gaming",
-      "excerpt": "The police in Rockstar’s Grand Theft Auto VI are a constant threat. However, with a few tips and clever strategies you can leave them in the dust.",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA5_LoseTheCops_V1.jpg?w=300",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-19T14:24:35.619380+06:00",
-      "last_seen": "2026-11-19T14:24:35.619384+06:00"
-    },
-    "gematsu.com/2026/11/ao-oni-the-horror-of-blueberry-onsen-plus-and-ao-oni-2-coming-to-ps5-on-december-17": {
-      "title": "Ao Oni: The Horror of Blueberry Onsen Plus and Ao Oni 2 coming to PS5 on December 17",
-      "url": "https://www.gematsu.com/2026/11/ao-oni-the-horror-of-blueberry-onsen-plus-and-ao-oni-2-coming-to-ps5-on-december-17",
-      "canonical": "gematsu.com/2026/11/ao-oni-the-horror-of-blueberry-onsen-plus-and-ao-oni-2-coming-to-ps5-on-december-17",
-      "published_dt": "2026-11-19T11:27:06+06:00",
-      "published_date": "2026-11-19T11:27:06+06:00",
-      "source": "Gematsu",
-      "region": "Gaming",
-      "excerpt": "Game Studio will release horror RPGs Ao Oni: The Horror of Blueberry Onsen Plus and …",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-19T14:24:37.002548+06:00",
-      "last_seen": "2026-11-19T14:24:37.002551+06:00"
-    },
-    "insider-gaming.com/nyt-connections-hints-solutions-november-19-1257": {
-      "title": "NYT Connections Hints Today (#1257)—Answers for Thursday, November 19",
-      "url": "https://insider-gaming.com/nyt-connections-hints-solutions-november-19-1257/",
-      "canonical": "insider-gaming.com/nyt-connections-hints-solutions-november-19-1257",
-      "published_dt": "2026-11-19T14:14:23+06:00",
-      "published_date": "2026-11-19T14:14:23+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1257)—Answers for Thursday, November 19 appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-19T14:24:40.017805+06:00",
-      "last_seen": "2026-11-19T14:24:40.017809+06:00"
-    },
-    "nintendolife.com/news/2026/11/trails-in-the-sky-switch-2-updates-add-30fps-lock-option-in-graphics-mode": {
-      "title": "Trails In The Sky Switch 2 Updates Add 30fps Lock Option In Graphics Mode",
-      "url": "https://www.nintendolife.com/news/2026/11/trails-in-the-sky-switch-2-updates-add-30fps-lock-option-in-graphics-mode",
-      "canonical": "nintendolife.com/news/2026/11/trails-in-the-sky-switch-2-updates-add-30fps-lock-option-in-graphics-mode",
-      "published_dt": "2026-11-19T12:55:00+06:00",
-      "published_date": "2026-11-19T12:55:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Available in the 1st and 2nd Chapters. Trails in the Sky 1st Chapter has rolled out a new update this week, bumping it up to Version 1.0.8 on the Switch and Switch 2. It comes with several fixes and improvements for both versions of the game. As noted on the official patch notes page , in the graphics and performance settings, there's now to lock the graphics mode at 30fps on the Switch 2. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/5e2a74e6d1bf7/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-19T14:24:40.495746+06:00",
-      "last_seen": "2026-11-19T14:24:40.495750+06:00"
-    },
-    "nintendolife.com/news/2026/11/bmxing-tanuki-game-was-prepared-for-gta-6s-launch-but-wasnt-expecting-zelda": {
-      "title": "\"BMXing Tanuki Game\" Was Prepared For GTA 6's Launch, But Wasn't Expecting Zelda",
-      "url": "https://www.nintendolife.com/news/2026/11/bmxing-tanuki-game-was-prepared-for-gta-6s-launch-but-wasnt-expecting-zelda",
-      "canonical": "nintendolife.com/news/2026/11/bmxing-tanuki-game-was-prepared-for-gta-6s-launch-but-wasnt-expecting-zelda",
-      "published_dt": "2026-11-19T11:45:00+06:00",
-      "published_date": "2026-11-19T11:45:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Ocarina's remake arrived a week before Tanuki: Pon's Summer. November is a huge month for video games, with not only the release of the Ocarina of Time remake but also the long-awaited (and highly anticipated) arrival of GTA 6 this week. While most games decided to avoid this month, one other title that has been released over the past week is TANUKI: Pon's Summer . If you are wondering why a game starring a BMX-riding tanuki decided to go up against these two juggernauts, it seems the Zelda news caught it by surprise. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/c542639839ff9/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-19T14:24:40.495980+06:00",
-      "last_seen": "2026-11-19T14:24:40.495981+06:00"
-    },
-    "escapistmagazine.com/firaxis-lays-off-about-60-staff-and-loses-its-studio-head-as-new-xcom-reportedly-slips": {
-      "title": "Firaxis Lays Off About 60 Staff and Loses Its Studio Head as New XCOM Reportedly Slips",
-      "url": "https://www.escapistmagazine.com/firaxis-lays-off-about-60-staff-and-loses-its-studio-head-as-new-xcom-reportedly-slips/",
-      "canonical": "escapistmagazine.com/firaxis-lays-off-about-60-staff-and-loses-its-studio-head-as-new-xcom-reportedly-slips",
-      "published_dt": "2026-11-19T12:13:12+06:00",
-      "published_date": "2026-11-19T12:13:12+06:00",
-      "source": "The Escapist",
-      "region": "Gaming",
-      "excerpt": "Firaxis Games, the studio behind Civilization and XCOM, has cut roughly a third of its staff, and its leader is leaving. The restructuring puts an unannounced XCOM game at risk just two days before parent company Take-Two launches GTA VI. The post Firaxis Lays Off About 60 Staff and Loses Its Studio Head as New XCOM Reportedly Slips appeared first on The Escapist .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-11-19T14:24:42.334646+06:00",
-      "last_seen": "2026-11-19T14:24:42.334648+06:00",
-      "posted_at": "2026-11-19T14:27:52.785135+06:00"
-    },
     "ign.com/articles/paramount-plus-black-friday-deal-2026": {
       "title": "Paramount+ Plans Drop to $2.99/Month for Black Friday",
       "url": "https://www.ign.com/articles/paramount-plus-black-friday-deal-2026",
@@ -5544,61 +5383,57 @@
       "status": "pending",
       "first_seen": "2026-11-23T03:34:39.922217+06:00",
       "last_seen": "2026-11-23T03:34:39.922224+06:00"
+    },
+    "ign.com/articles/naughty-dog-dev-gta-6-appears-to-him-as-as-a-bugatti-veyron-would-to-a-nervous-victorian-child": {
+      "title": "Naughty Dog Dev: GTA 6 Appears to Him as ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
+      "url": "https://www.ign.com/articles/naughty-dog-dev-gta-6-appears-to-him-as-as-a-bugatti-veyron-would-to-a-nervous-victorian-child",
+      "canonical": "ign.com/articles/naughty-dog-dev-gta-6-appears-to-him-as-as-a-bugatti-veyron-would-to-a-nervous-victorian-child",
+      "published_dt": "2026-11-23T13:58:42+06:00",
+      "published_date": "2026-11-23T13:58:42+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Developers are stunned at how dramatically advanced GTA 6 is.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/18/g-blog-6-1795002008156.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-23T14:35:33.641439+06:00",
+      "last_seen": "2026-11-23T14:35:33.641443+06:00"
+    },
+    "ign.com/articles/robbing-banks-is-a-blast-but-i-wish-there-were-more-houses-to-repair-in-gta-6": {
+      "title": "Robbing Banks is a Blast, But I Wish There Were More Houses to Repair in GTA 6",
+      "url": "https://www.ign.com/articles/robbing-banks-is-a-blast-but-i-wish-there-were-more-houses-to-repair-in-gta-6",
+      "canonical": "ign.com/articles/robbing-banks-is-a-blast-but-i-wish-there-were-more-houses-to-repair-in-gta-6",
+      "published_dt": "2026-11-23T12:50:14+06:00",
+      "published_date": "2026-11-23T12:50:14+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Forget sticking things up with a shotgun, I want to fix things up with a nailgun.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/23/gta6-roofrepair-blogroll-1795414510325.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-23T14:35:33.641556+06:00",
+      "last_seen": "2026-11-23T14:35:33.641558+06:00"
+    },
+    "escapistmagazine.com/zelda-40th-anniversary-switch-2-sells-out-on-nintendos-us-store-as-restock-timing-blurs": {
+      "title": "Zelda 40th Anniversary Switch 2 sells out on Nintendo’s US store as restock timing blurs",
+      "url": "https://www.escapistmagazine.com/zelda-40th-anniversary-switch-2-sells-out-on-nintendos-us-store-as-restock-timing-blurs/",
+      "canonical": "escapistmagazine.com/zelda-40th-anniversary-switch-2-sells-out-on-nintendos-us-store-as-restock-timing-blurs",
+      "published_dt": "2026-11-23T12:13:11+06:00",
+      "published_date": "2026-11-23T12:13:11+06:00",
+      "source": "The Escapist",
+      "region": "Gaming",
+      "excerpt": "The $519.99 Zelda 40th Anniversary Edition of Switch 2 is listed as sold out on Nintendo's official US store. Reports differ on whether a January 2027 restock note is still on the page, so holiday shoppers face an uncertain wait. The post Zelda 40th Anniversary Switch 2 sells out on Nintendo’s US store as restock timing blurs appeared first on The Escapist .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-23T14:35:38.335745+06:00",
+      "last_seen": "2026-11-23T14:35:38.335749+06:00"
     }
   },
   "events": {
-    "evt_6b803a0787c311": {
-      "event_id": "evt_6b803a0787c311",
-      "event_key": "cult of the lamb switch2 release announcement",
-      "event_subject": "Cult of the Lamb",
-      "event_type": "release",
-      "event_frame": {
-        "event_key": "cult of the lamb switch2 release announcement",
-        "subject": "Cult of the Lamb",
-        "event_type": "release",
-        "action": "announce_platform_release",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Cult of the Lamb",
-        "franchise": "Cult of the Lamb",
-        "institution": "Massive Monster",
-        "target": "Switch 2 owners",
-        "platforms": [
-          "Nintendo Switch 2"
-        ],
-        "topic": "release"
-      },
-      "sources": [
-        "Nintendo Life"
-      ],
-      "event_sources": [
-        "Nintendo Life"
-      ],
-      "claims": [
-        "Switch 2 version with free upgrade path"
-      ],
-      "importance_score": 42,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Cult of the Lamb Launches Switch 2 Edition with Free Upgrade Path",
-      "summary": "The new Switch 2 version of Cult of the Lamb arrives on October 22, 2026, offering enhanced graphics and a free upgrade for existing owners.",
-      "published_at": "2026-10-24T09:30:00+06:00",
-      "selected_at": "2026-10-24T05:25:02.869806+00:00",
-      "status": "published",
-      "message_id": 868,
-      "published_versions": [
-        {
-          "published_at": "2026-10-24T05:25:02.869806+00:00",
-          "headline": "Cult of the Lamb Launches Switch 2 Edition with Free Upgrade Path",
-          "claims": [
-            "Switch 2 version with free upgrade path"
-          ]
-        }
-      ]
-    },
     "evt_b133bdf0a47fe4": {
       "event_id": "evt_b133bdf0a47fe4",
       "event_key": "bethesda falloutday 2026 announcements",
@@ -243290,6 +243125,95 @@
         "total": 32
       },
       "last_seen": "2026-11-23T03:35:46.573889+06:00"
+    },
+    "evt_0d70ca8b1ff450": {
+      "event_id": "evt_0d70ca8b1ff450",
+      "event_key": "rockstar gta6 development progress rumor",
+      "event_subject": "Rockstar Games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "rockstar gta6 development progress rumor",
+        "subject": "Rockstar Games",
+        "event_type": "other",
+        "action": "announce",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar Games",
+        "target": "players",
+        "platforms": [
+          "PlayStation 5",
+          "Xbox Series X",
+          "PC"
+        ],
+        "topic": "development progress"
+      },
+      "modality": "unknown",
+      "topic": "development progress",
+      "institution": "Rockstar Games",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "advanced development stage",
+        "advanced development stage"
+      ],
+      "importance_score": 72,
+      "score_breakdown": {
+        "significance": 42,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 72
+      },
+      "last_seen": "2026-11-23T14:35:43.463959+06:00"
+    },
+    "evt_f3a159cd913c2e": {
+      "event_id": "evt_f3a159cd913c2e",
+      "event_key": "nintendo switch2 zelda40 edition soldout us",
+      "event_subject": "Nintendo",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo switch2 zelda40 edition soldout us",
+        "subject": "Nintendo",
+        "event_type": "other",
+        "action": "sell out",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Switch 2",
+        "franchise": "The Legend of Zelda",
+        "institution": "Nintendo",
+        "target": "US consumers",
+        "platforms": [
+          "Switch 2"
+        ],
+        "topic": "stock availability"
+      },
+      "modality": "unknown",
+      "topic": "stock availability",
+      "institution": "Nintendo",
+      "sources": [
+        "The Escapist"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "sold out on official US store"
+      ],
+      "importance_score": 46,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 46
+      },
+      "last_seen": "2026-11-23T14:35:43.463984+06:00"
     }
   },
   "posted_event_ids": [
@@ -243795,7 +243719,6 @@
     "evt_4b16396026580c"
   ],
   "recent_titles": [
-    "team falcons face high stakes at thunderpick world championship 2026",
     "three new gba classics arrive on nintendo switch online including metal slug advance",
     "ubisoft closes redlynx studio cuts 70 jobs at singapore amid restructuring",
     "nintendo unveils hall of fallen foes mode for ocarina of time remake",
