@@ -2,240 +2,143 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1b615-OZ5EwwbQWhRgYJctrRvYwq3XuFg\"",
+      "etag": "W/\"1e9d2-Tv2//cTetyNqwUXecBFnn9Hs348\"",
       "last_modified": null,
-      "last_checked": "2026-11-24T02:53:14.253633+06:00",
+      "last_checked": "2026-11-24T16:41:10.930045+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-24T02:53:14.431254+06:00",
+      "last_checked": "2026-11-24T16:41:11.101010+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6b04a719-a1e\"",
-      "last_modified": "Mon, 23 Nov 2026 20:50:33 GMT",
-      "last_checked": "2026-11-24T02:53:14.828523+06:00",
+      "etag": "\"6b0569a0-94d\"",
+      "last_modified": "Tue, 24 Nov 2026 10:40:32 GMT",
+      "last_checked": "2026-11-24T16:41:11.469405+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Mon, 23 Nov 2026 20:04:50 GMT",
-      "last_checked": "2026-11-24T02:53:14.933013+06:00",
+      "last_modified": "Tue, 24 Nov 2026 10:08:20 GMT",
+      "last_checked": "2026-11-24T16:41:12.247525+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "W/\"c5858154a473c8eea11ae928cb6cfd68\"",
-      "last_modified": "Mon, 23 Nov 2026 16:55:11 GMT",
-      "last_checked": "2026-11-24T02:53:15.329974+06:00",
+      "etag": "W/\"5619887f0db9a24e4c196d6e34c8a0cc\"",
+      "last_modified": "Tue, 24 Nov 2026 06:20:55 GMT",
+      "last_checked": "2026-11-24T16:41:12.687943+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-24T02:53:15.545358+06:00",
+      "last_checked": "2026-11-24T16:41:12.960470+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-24T02:53:16.674855+06:00",
+      "last_checked": "2026-11-24T16:41:14.066275+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"b3b5815ab3c837cf3c83c8f864451a5e\"",
-      "last_modified": "Mon, 23 Nov 2026 20:46:51 GMT",
-      "last_checked": "2026-11-24T02:53:16.920197+06:00",
+      "etag": "W/\"e3cf51945d5c7cffad3fdc2047beeb01\"",
+      "last_modified": "Mon, 23 Nov 2026 00:20:58 GMT",
+      "last_checked": "2026-11-24T16:41:14.334060+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-24T02:53:17.037674+06:00",
+      "last_checked": "2026-11-24T16:41:14.461561+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
       "last_modified": "Mon, 23 Nov 2026 19:21:30 GMT",
-      "last_checked": "2026-11-24T02:53:17.670696+06:00",
+      "last_checked": "2026-11-24T16:41:14.923757+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Mon, 23 Nov 2026 20:53:18 GMT",
-      "last_checked": "2026-11-24T02:53:18.295396+06:00",
+      "last_modified": "Tue, 24 Nov 2026 10:41:15 GMT",
+      "last_checked": "2026-11-24T16:41:15.805594+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"d17069e1e6eb514de7f1347c219b3e6b\"",
-      "last_modified": "Mon, 23 Nov 2026 20:35:54 GMT",
-      "last_checked": "2026-11-24T02:53:18.419983+06:00",
+      "etag": "W/\"e34ee8eda5f261774a704604757e8a26\"",
+      "last_modified": "Tue, 24 Nov 2026 10:29:43 GMT",
+      "last_checked": "2026-11-24T16:41:15.980994+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-24T02:53:18.961065+06:00",
+      "last_checked": "2026-11-24T16:41:16.483467+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-24T02:53:19.507244+06:00",
+      "last_checked": "2026-11-24T16:41:17.016860+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-24T02:53:20.067596+06:00",
+      "last_checked": "2026-11-24T16:41:17.527920+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-24T02:53:20.426194+06:00",
-      "fail_count": 192,
+      "last_checked": "2026-11-24T16:41:17.897172+06:00",
+      "fail_count": 193,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"00a291dbb7b9f8b869fdd0cdaddb789f\"",
-      "last_modified": "Thu, 12 Nov 2026 02:43:34 GMT",
-      "last_checked": "2026-11-24T02:53:20.562621+06:00",
+      "etag": "W/\"1c66de9f5a93c60e173b9acb12c8e52e\"",
+      "last_modified": "Tue, 24 Nov 2026 04:35:32 GMT",
+      "last_checked": "2026-11-24T16:41:18.005490+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-24T02:53:20.678416+06:00",
+      "last_checked": "2026-11-24T16:41:18.178905+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-24T02:53:20.839269+06:00",
-      "fail_count": 192,
+      "last_checked": "2026-11-24T16:41:18.728420+06:00",
+      "fail_count": 193,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"b5859403a538b152535f4d41a1295b9a\"",
-      "last_modified": "Mon, 23 Nov 2026 08:20:56 GMT",
-      "last_checked": "2026-11-24T02:53:21.051266+06:00",
+      "etag": "W/\"b9190cf3bc10ca9b6f38383fd9aa1f6b\"",
+      "last_modified": "Tue, 24 Nov 2026 06:13:12 GMT",
+      "last_checked": "2026-11-24T16:41:20.544723+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "ign.com/articles/the-lego-exclusive-eeyore-set-is-getting-discounted-ahead-of-retirement-black-friday-2026": {
-      "title": "The LEGO Exclusive Eeyore Set Is Getting Discounted Ahead of Retirement",
-      "url": "https://www.ign.com/articles/the-lego-exclusive-eeyore-set-is-getting-discounted-ahead-of-retirement-black-friday-2026",
-      "canonical": "ign.com/articles/the-lego-exclusive-eeyore-set-is-getting-discounted-ahead-of-retirement-black-friday-2026",
-      "published_dt": "2026-11-20T12:39:50+06:00",
-      "published_date": "2026-11-20T12:39:50+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "",
-      "image": "https://assets-prd.ignimgs.com/2026/11/20/40797-lifestyle-envr-en-gb-1795156745107.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-20T14:05:47.595039+06:00",
-      "last_seen": "2026-11-20T14:05:47.595045+06:00"
-    },
-    "ign.com/articles/the-piranha-plant-nintendo-switch-2-dock-black-friday-2026": {
-      "title": "The Piranha Plant Switch 2 Dock Drops to a New Low Price on Amazon",
-      "url": "https://www.ign.com/articles/the-piranha-plant-nintendo-switch-2-dock-black-friday-2026",
-      "canonical": "ign.com/articles/the-piranha-plant-nintendo-switch-2-dock-black-friday-2026",
-      "published_dt": "2026-11-20T11:29:33+06:00",
-      "published_date": "2026-11-20T11:29:33+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "",
-      "image": "https://assets-prd.ignimgs.com/2026/04/20/616vuq4n81l-sl1500-1776713692580.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-20T14:05:47.595155+06:00",
-      "last_seen": "2026-11-20T14:05:47.595157+06:00"
-    },
-    "polygon.com/best-far-side-comics-about-the-devil-hell": {
-      "title": "6 Funniest Far Side Comics Starring the Devil",
-      "url": "https://www.polygon.com/best-far-side-comics-about-the-devil-hell/",
-      "canonical": "polygon.com/best-far-side-comics-about-the-devil-hell",
-      "published_dt": "2026-11-20T13:07:18+06:00",
-      "published_date": "2026-11-20T13:07:18+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Gary Larson’s comic strip loved to send people to Hell",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/jerry.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-20T14:05:49.358538+06:00",
-      "last_seen": "2026-11-20T14:05:49.358542+06:00"
-    },
-    "polygon.com/best-scifi-book-closing-line-roadside-picnic": {
-      "title": "53 Years Later, The Greatest Closing Line In Sci-Fi History Is Still The Best Book Quote Of The 1970s",
-      "url": "https://www.polygon.com/best-scifi-book-closing-line-roadside-picnic/",
-      "canonical": "polygon.com/best-scifi-book-closing-line-roadside-picnic",
-      "published_dt": "2026-11-20T12:04:17+06:00",
-      "published_date": "2026-11-20T12:04:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Roadside Picnic ends with one of science fiction’s most beautiful lines, a simple wish for happiness that still resonates more than 50 years later.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/resident-evil-1.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-20T14:05:49.358649+06:00",
-      "last_seen": "2026-11-20T14:05:49.358652+06:00"
-    },
-    "nintendolife.com/news/2026/11/dynasty-warriors-3-complete-edition-remastered-gets-a-new-switch-2-update": {
-      "title": "Dynasty Warriors 3: Complete Edition Remastered Gets A New Switch 2 Update",
-      "url": "https://www.nintendolife.com/news/2026/11/dynasty-warriors-3-complete-edition-remastered-gets-a-new-switch-2-update",
-      "canonical": "nintendolife.com/news/2026/11/dynasty-warriors-3-complete-edition-remastered-gets-a-new-switch-2-update",
-      "published_dt": "2026-11-20T11:30:00+06:00",
-      "published_date": "2026-11-20T11:30:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Includes additional functionality, adjustments and bug fixes. These past few months have been packed with many exciting game releases, and one title that might be worth taking another look at is Dynasty Warriors: Complete Edition Remastered . Koei Tecmo rolled out a new update for the title earlier this week on the Switch 2 and other platforms. Version 1.1.0 features additional functionality (including a new language and the ability set two-player controls), adjustments and multiple bug fixes. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/722df72fe36b4/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-20T14:05:51.197253+06:00",
-      "last_seen": "2026-11-20T14:05:51.197257+06:00"
-    },
-    "escapistmagazine.com/ubisoft-cuts-166-jobs-at-assassins-creed-studios-in-quebec-as-half-year-loss-widens": {
-      "title": "Ubisoft cuts 166 jobs at Assassin’s Creed studios in Quebec as half-year loss widens",
-      "url": "https://www.escapistmagazine.com/ubisoft-cuts-166-jobs-at-assassins-creed-studios-in-quebec-as-half-year-loss-widens/",
-      "canonical": "escapistmagazine.com/ubisoft-cuts-166-jobs-at-assassins-creed-studios-in-quebec-as-half-year-loss-widens",
-      "published_dt": "2026-11-20T12:13:14+06:00",
-      "published_date": "2026-11-20T12:13:14+06:00",
-      "source": "The Escapist",
-      "region": "Gaming",
-      "excerpt": "Ubisoft is laying off 166 staff in Montréal and Québec City, including people at its Tencent-backed Vantage Studios. The cuts landed on the same day as half-year results showing a deeper loss and a shrinking workforce. The post Ubisoft cuts 166 jobs at Assassin’s Creed studios in Quebec as half-year loss widens appeared first on The Escapist .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-11-20T14:05:52.961124+06:00",
-      "last_seen": "2026-11-20T14:05:52.961128+06:00",
-      "posted_at": "2026-11-20T14:10:00.312006+06:00"
-    },
     "ign.com/articles/best-lego-animal-crossing-deals-black-friday-2026": {
       "title": "Every LEGO Animal Crossing Set Is on Sale — But the Best Deal Ends Tonight",
       "url": "https://www.ign.com/articles/best-lego-animal-crossing-deals-black-friday-2026",
@@ -4834,156 +4737,283 @@
       "status": "pending",
       "first_seen": "2026-11-24T02:53:20.618231+06:00",
       "last_seen": "2026-11-24T02:53:20.618235+06:00"
+    },
+    "ign.com/articles/nintendo-switch-online-just-got-a-long-awaited-update-alongside-another-gamecube-classic": {
+      "title": "Nintendo Switch Online Just Got a Long-Awaited Update, Alongside Another GameCube Classic",
+      "url": "https://www.ign.com/articles/nintendo-switch-online-just-got-a-long-awaited-update-alongside-another-gamecube-classic",
+      "canonical": "ign.com/articles/nintendo-switch-online-just-got-a-long-awaited-update-alongside-another-gamecube-classic",
+      "published_dt": "2026-11-24T16:00:45+06:00",
+      "published_date": "2026-11-24T16:00:45+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "GameCube launch title Wave Race: Blue Storm is now available via the Nintendo Switch Online + Expansion Pack service, alongside a long-awaited new feature.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/24/wave-race-blue-storm-gamecube-nintendo-classics-00-00-49-1795513955332.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-24T16:41:11.002214+06:00",
+      "last_seen": "2026-11-24T16:41:11.002221+06:00"
+    },
+    "videogameschronicle.com/news/cyberpunk-2-creative-director-jokes-that-hes-cancelling-the-game-after-playing-gta-6": {
+      "title": "Cyberpunk 2 creative director jokes that he’s cancelling the game after playing GTA 6",
+      "url": "https://www.videogameschronicle.com/news/cyberpunk-2-creative-director-jokes-that-hes-cancelling-the-game-after-playing-gta-6/",
+      "canonical": "videogameschronicle.com/news/cyberpunk-2-creative-director-jokes-that-hes-cancelling-the-game-after-playing-gta-6",
+      "published_dt": "2026-11-24T16:33:52+06:00",
+      "published_date": "2026-11-24T16:33:52+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "Igor Sarzyński says Rockstar's game is \"the single greatest artistic achievement in history\"",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-24T16:41:11.479501+06:00",
+      "last_seen": "2026-11-24T16:41:11.479509+06:00"
+    },
+    "videogameschronicle.com/news/wave-race-blue-storm-is-the-12th-gamecube-game-to-be-added-to-switch-onlines-library": {
+      "title": "Wave Race Blue Storm is the 12th GameCube game to be added to Switch Online’s library",
+      "url": "https://www.videogameschronicle.com/news/wave-race-blue-storm-is-the-12th-gamecube-game-to-be-added-to-switch-onlines-library/",
+      "canonical": "videogameschronicle.com/news/wave-race-blue-storm-is-the-12th-gamecube-game-to-be-added-to-switch-onlines-library",
+      "published_dt": "2026-11-24T15:31:36+06:00",
+      "published_date": "2026-11-24T15:31:36+06:00",
+      "source": "VGC",
+      "region": "Gaming",
+      "excerpt": "It's the first time Nintendo's racing sequel has been re-released in 25 years",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-24T16:41:11.479743+06:00",
+      "last_seen": "2026-11-24T16:41:11.479751+06:00"
+    },
+    "eurogamer.net/more-than-39-million-people-have-played-gta-6-on-playstation-alone-sony-says-as-the-game-breaks-all-time-player-numbers-on-the-platform": {
+      "title": "More than 39 million people have played GTA 6 on PlayStation alone, Sony says, as the game breaks all-time player numbers on the platform",
+      "url": "https://www.eurogamer.net/more-than-39-million-people-have-played-gta-6-on-playstation-alone-sony-says-as-the-game-breaks-all-time-player-numbers-on-the-platform",
+      "canonical": "eurogamer.net/more-than-39-million-people-have-played-gta-6-on-playstation-alone-sony-says-as-the-game-breaks-all-time-player-numbers-on-the-platform",
+      "published_dt": "2026-11-24T16:08:20+06:00",
+      "published_date": "2026-11-24T16:08:20+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "Sony's revealed staggering statistics relating to the popularity of Grand Theft Auto on PlayStation 5, not least that more than 39 million unique people have played the game there. That's more than the official GTA 6 day-one sales tally of 32.5m copies across all platforms. Read more",
+      "image": "https://assetsio.gnwcdn.com/jason-lucia-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-24T16:41:12.361630+06:00",
+      "last_seen": "2026-11-24T16:41:12.361636+06:00"
+    },
+    "eurogamer.net/gta-6-deluxe-edition-soundtrack-23-extra-tracks": {
+      "title": "Rockstar Games reveals 23 extra tracks in GTA 6's deluxe edition soundtrack, featuring Denzel Curry, HEALTH, and more",
+      "url": "https://www.eurogamer.net/gta-6-deluxe-edition-soundtrack-23-extra-tracks",
+      "canonical": "eurogamer.net/gta-6-deluxe-edition-soundtrack-23-extra-tracks",
+      "published_dt": "2026-11-24T16:03:50+06:00",
+      "published_date": "2026-11-24T16:03:50+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "For those of you out there in love with Grand Theft Auto 6 's soundtrack, you'll be happy to know that Rockstar Games have revealed an additional 23 tracks as part of the game's deluxe edition album. Read more",
+      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-nightclub-scene.png?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-24T16:41:12.361983+06:00",
+      "last_seen": "2026-11-24T16:41:12.361988+06:00"
+    },
+    "eurogamer.net/xbox-live-helix-killing-paid-membership": {
+      "title": "Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles",
+      "url": "https://www.eurogamer.net/xbox-live-helix-killing-paid-membership",
+      "canonical": "eurogamer.net/xbox-live-helix-killing-paid-membership",
+      "published_dt": "2026-11-24T16:02:10+06:00",
+      "published_date": "2026-11-24T16:02:10+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "A new report from Windows Central details how Xbox was reportedly looking into removing the paywall that prevents players without Xbox Live from playing online games, only to potentially renege on its decision sometime during production of the next-gen device. Read more",
+      "image": "https://assetsio.gnwcdn.com/sharma-gold.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-24T16:41:12.362279+06:00",
+      "last_seen": "2026-11-24T16:41:12.362299+06:00",
+      "posted_at": "2026-11-24T16:52:33.594584+06:00"
+    },
+    "eurogamer.net/gta-6-cyberleek-leaked-xbox-build-ported-pc": {
+      "title": "Modders already have GTA 6 running on PC, after CyberLeek released a full Xbox build of the game",
+      "url": "https://www.eurogamer.net/gta-6-cyberleek-leaked-xbox-build-ported-pc",
+      "canonical": "eurogamer.net/gta-6-cyberleek-leaked-xbox-build-ported-pc",
+      "published_dt": "2026-11-24T15:09:20+06:00",
+      "published_date": "2026-11-24T15:09:20+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "A PC version of Grand Theft Auto 6 - one from unofficial sources, at least - may be closer than we thought. After suddenly returning last week with a near-full build of the Xbox version , notorious leaker CyberLeek has now posted the missing piece they intentionally held back: the game's executable (.exe) file. Read more",
+      "image": "https://assetsio.gnwcdn.com/GTA6_5nov-(14).jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-24T16:41:12.362633+06:00",
+      "last_seen": "2026-11-24T16:41:12.362638+06:00"
+    },
+    "polygon.com/fortnite-scott-pilgrim-confirmed": {
+      "title": "Scott Pilgrim Is Officially Coming to Fortnite",
+      "url": "https://www.polygon.com/fortnite-scott-pilgrim-confirmed/",
+      "canonical": "polygon.com/fortnite-scott-pilgrim-confirmed",
+      "published_dt": "2026-11-24T16:31:49+06:00",
+      "published_date": "2026-11-24T16:31:49+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Ramona's exes won't be the only opponents Scott Pilgrim must face as he jumps onto the Battle Royale island in Fortnite.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/mv5bnjrlnzhkntmtmmexmi00otu2lwfkyjutmdzjnzk2odk0mgezxkeyxkfqcgc-_v1_.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-24T16:41:14.075856+06:00",
+      "last_seen": "2026-11-24T16:41:14.075861+06:00"
+    },
+    "polygon.com/gta-6-biggest-launch-in-ps-history": {
+      "title": "GTA 6 is Officially the Biggest Launch in PlayStation History",
+      "url": "https://www.polygon.com/gta-6-biggest-launch-in-ps-history/",
+      "canonical": "polygon.com/gta-6-biggest-launch-in-ps-history",
+      "published_dt": "2026-11-24T16:04:01+06:00",
+      "published_date": "2026-11-24T16:04:01+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Sony just shared some mind-boggling stats about GTA 6 launch, making it the most impressive in PlayStation history.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-24T16:41:14.076008+06:00",
+      "last_seen": "2026-11-24T16:41:14.076012+06:00"
+    },
+    "polygon.com/10-funniest-far-side-comics-parodying-disney": {
+      "title": "10 Funniest ‘Far Side’ Comics Parodying Disney Charcters",
+      "url": "https://www.polygon.com/10-funniest-far-side-comics-parodying-disney/",
+      "canonical": "polygon.com/10-funniest-far-side-comics-parodying-disney",
+      "published_dt": "2026-11-24T15:00:17+06:00",
+      "published_date": "2026-11-24T15:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Gary Larson’s comic strip The Far Side loved to poke fun at Disney charcters. Here are the 10 best examples",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/screen-shot-2026-11-21-at-5-12-42-pm.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-24T16:41:14.076150+06:00",
+      "last_seen": "2026-11-24T16:41:14.076154+06:00"
+    },
+    "gamesradar.com/games/the-legend-of-zelda/best-gifts-for-legend-of-zelda-fans-toys-books-and-controllers-for-the-link-lover-or-ganon-stan-in-your-life": {
+      "title": "These are the best gifts for Legend of Zelda fans",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/best-gifts-for-legend-of-zelda-fans-toys-books-and-controllers-for-the-link-lover-or-ganon-stan-in-your-life/",
+      "canonical": "gamesradar.com/games/the-legend-of-zelda/best-gifts-for-legend-of-zelda-fans-toys-books-and-controllers-for-the-link-lover-or-ganon-stan-in-your-life",
+      "published_dt": "2026-11-24T16:00:00+06:00",
+      "published_date": "2026-11-24T16:00:00+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "If you're looking to buy gifts for a fan of The Legend of Zelda, these gift ideas will give you a range of options to choose from.",
+      "image": "https://cdn.mos.cms.futurecdn.net/3DTm3qS2TJjst9ZT5rbpcG-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-24T16:41:14.721717+06:00",
+      "last_seen": "2026-11-24T16:41:14.721723+06:00"
+    },
+    "gamesradar.com/entertainment/sci-fi-shows/blade-runner-2099-lands-positive-rotten-tomatoes-score-as-first-reviews-praise-its-stunning-world-building": {
+      "title": "Blade Runner 2099 lands positive Rotten Tomatoes score as first reviews praise its \"stunning\" world-building",
+      "url": "https://www.gamesradar.com/entertainment/sci-fi-shows/blade-runner-2099-lands-positive-rotten-tomatoes-score-as-first-reviews-praise-its-stunning-world-building/",
+      "canonical": "gamesradar.com/entertainment/sci-fi-shows/blade-runner-2099-lands-positive-rotten-tomatoes-score-as-first-reviews-praise-its-stunning-world-building",
+      "published_dt": "2026-11-24T15:52:20+06:00",
+      "published_date": "2026-11-24T15:52:20+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "The new Prime Video series has mostly been a hit with critics",
+      "image": "https://cdn.mos.cms.futurecdn.net/DgFwVB2qofbe3KJj34PmBZ-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-24T16:41:14.721863+06:00",
+      "last_seen": "2026-11-24T16:41:14.721867+06:00"
+    },
+    "insider-gaming.com/all-gta-6-cheats-best-grand-theft-auto-6-cheat-codes": {
+      "title": "All GTA 6 Cheats—Best Grand Theft Auto 6 Cheat Codes",
+      "url": "https://insider-gaming.com/all-gta-6-cheats-best-grand-theft-auto-6-cheat-codes/",
+      "canonical": "insider-gaming.com/all-gta-6-cheats-best-grand-theft-auto-6-cheat-codes",
+      "published_dt": "2026-11-24T16:29:42+06:00",
+      "published_date": "2026-11-24T16:29:42+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Here's everything you need to know about cheats in Grand Theft Auto 6, including all of their inputs and what they do. The post All GTA 6 Cheats—Best Grand Theft Auto 6 Cheat Codes appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-24T16:41:15.992702+06:00",
+      "last_seen": "2026-11-24T16:41:15.992707+06:00"
+    },
+    "insider-gaming.com/contexto-hints-answer-for-november-24-2026": {
+      "title": "Contexto Hints & Answer For November 24, 2026",
+      "url": "https://insider-gaming.com/contexto-hints-answer-for-november-24-2026/",
+      "canonical": "insider-gaming.com/contexto-hints-answer-for-november-24-2026",
+      "published_dt": "2026-11-24T16:22:45+06:00",
+      "published_date": "2026-11-24T16:22:45+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Are you stuck trying to guess today’s Contexto answer? Get today’s hints and full answer for November 24, 2026. The post Contexto Hints & Answer For November 24, 2026 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-24T16:41:15.992991+06:00",
+      "last_seen": "2026-11-24T16:41:15.992996+06:00"
+    },
+    "insider-gaming.com/escape-from-tarkov-unity-6-update-today": {
+      "title": "Escape from Tarkov’s Massive Unity 6 Upgrade is Finally Here",
+      "url": "https://insider-gaming.com/escape-from-tarkov-unity-6-update-today/",
+      "canonical": "insider-gaming.com/escape-from-tarkov-unity-6-update-today",
+      "published_dt": "2026-11-24T15:58:53+06:00",
+      "published_date": "2026-11-24T15:58:53+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Escape from Tarkov's long-awaited Unity 6 overhaul is landing today with the 1.3.5.0 update, Battlestate Games has confirmed. The post Escape from Tarkov’s Massive Unity 6 Upgrade is Finally Here appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-24T16:41:15.993269+06:00",
+      "last_seen": "2026-11-24T16:41:15.993274+06:00",
+      "posted_at": "2026-11-24T16:52:28.001347+06:00"
+    },
+    "nintendolife.com/news/2026/11/uk-charts-no-disc-no-problem-gta-6-shoves-zelda-further-down-the-ranking": {
+      "title": "UK Charts: No Disc, No Problem - GTA 6 Shoves Zelda Further Down The Ranking",
+      "url": "https://www.nintendolife.com/news/2026/11/uk-charts-no-disc-no-problem-gta-6-shoves-zelda-further-down-the-ranking",
+      "canonical": "nintendolife.com/news/2026/11/uk-charts-no-disc-no-problem-gta-6-shoves-zelda-further-down-the-ranking",
+      "published_dt": "2026-11-24T16:15:00+06:00",
+      "published_date": "2026-11-24T16:15:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "Disc/Reward. The latest physical sales chart for the UK is in, and in perhaps the most unsurprising bit of news in yonks , Grand Theft Auto 6 is quite the hit. Yes, the lack of a disc in the game's 'physical' release wasn't enough of a deterrent for many picking up Rockstar's latest, as it snatched up first place in its debut week. With EA Sports FC 27 standing ever strong in second, that means Ocarina of Time has been bumped down yet another place to third. Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/a9d8369924b57/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-24T16:41:16.504720+06:00",
+      "last_seen": "2026-11-24T16:41:16.504727+06:00"
+    },
+    "pushsquare.com/news/2026/11/final-4-ps-plus-extra-games-for-november-2026-available-to-download-now": {
+      "title": "Final 4 PS Plus Extra Games for November 2026 Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/11/final-4-ps-plus-extra-games-for-november-2026-available-to-download-now",
+      "canonical": "pushsquare.com/news/2026/11/final-4-ps-plus-extra-games-for-november-2026-available-to-download-now",
+      "published_dt": "2026-11-24T16:00:00+06:00",
+      "published_date": "2026-11-24T16:00:00+06:00",
+      "source": "Push Square",
+      "region": "Gaming",
+      "excerpt": "Lineup complete for UK, USA, and Japan members. You've had to wait an extra week to gain access to them, but the last batch of PS Plus Extra games for November 2026 are now finally available in the UK, USA, and Japan. Sony's experiment with the rollout process of its titles continues, so you've been made to wait for the following four games: Cricket 26: The Official Game of the Ashes (PS5) Like a Dragon: Pirate Yakuza in Hawaii (PS5, PS4) | Review MotoGP 26 (PS5) Trepang2 (PS5) | Review <related ids=\"130617\"> Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/d53d3d7a5087c/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-24T16:41:17.040204+06:00",
+      "last_seen": "2026-11-24T16:41:17.040210+06:00"
     }
   },
   "events": {
-    "evt_8e6ee493fd3d3f": {
-      "event_id": "evt_8e6ee493fd3d3f",
-      "event_key": "darkest dungeon 2 upgrade switch 2 edition article announcement",
-      "event_subject": "\"Forward Now, Into Oblivion's Inky Embrace\" - Darkest Dungeon II Now Has A Switch 2 Edition",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "darkest dungeon 2 upgrade switch 2 edition article announcement",
-        "subject": "\"Forward Now, Into Oblivion's Inky Embrace\" - Darkest Dungeon II Now Has A Switch 2 Edition",
-        "event_type": "other",
-        "action": "upgrade",
-        "status": "published",
-        "modality": "unknown",
-        "game": "Darkest Dungeon 2",
-        "franchise": "Darkest Dungeon 2",
-        "institution": "Nintendo Life",
-        "target": "",
-        "platforms": [
-          "Switch 2"
-        ],
-        "topic": "game update"
-      },
-      "sources": [
-        "Nintendo Life"
-      ],
-      "event_sources": [
-        "Nintendo Life"
-      ],
-      "claims": [],
-      "importance_score": 40,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 10,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Darkest Dungeon II Switch 2 Edition Boosts Performance and Adds Mouse Support",
-      "summary": "Darkest Dungeon II now launches on Nintendo Switch 2 with 1080p handheld, 1440p TV mode, 60 FPS, and Joy‑Con 2 mouse support.",
-      "published_at": "2026-10-25T15:00:00+06:00",
-      "selected_at": "2026-10-25T10:49:40.346572+00:00",
-      "status": "published",
-      "message_id": 873,
-      "published_versions": [
-        {
-          "published_at": "2026-10-25T10:49:40.346572+00:00",
-          "headline": "Darkest Dungeon II Switch 2 Edition Boosts Performance and Adds Mouse Support",
-          "claims": []
-        }
-      ]
-    },
-    "evt_64de720b4837d6": {
-      "event_id": "evt_64de720b4837d6",
-      "event_key": "look outside release ps5 switch 2 article announcement",
-      "event_subject": "Look Outside Brings Its Apartment Horror to PS5 and Switch 2 on October 30",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "look outside release ps5 switch 2 article announcement",
-        "subject": "Look Outside Brings Its Apartment Horror to PS5 and Switch 2 on October 30",
-        "event_type": "other",
-        "action": "release",
-        "status": "published",
-        "modality": "unknown",
-        "game": "Look Outside",
-        "franchise": "Look Outside",
-        "institution": "The Escapist",
-        "target": "",
-        "platforms": [
-          "PS5",
-          "Switch 2",
-          "PS4",
-          "Switch"
-        ],
-        "topic": "game release"
-      },
-      "sources": [
-        "The Escapist"
-      ],
-      "event_sources": [
-        "The Escapist"
-      ],
-      "claims": [],
-      "importance_score": 38,
-      "coverage_score": 2,
-      "originality_score": 8,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 6,
-      "headline": "Look Outside Expands to PlayStation and Switch on October 30",
-      "summary": "Indie horror RPG Look Outside launches on PlayStation 5, PlayStation 4, Nintendo Switch 2 and Switch on October 30, ending its PC‑only run.",
-      "published_at": "2026-10-25T15:27:00+06:00",
-      "selected_at": "2026-10-25T10:49:45.997303+00:00",
-      "status": "published",
-      "message_id": 874,
-      "published_versions": [
-        {
-          "published_at": "2026-10-25T10:49:45.997303+00:00",
-          "headline": "Look Outside Expands to PlayStation and Switch on October 30",
-          "claims": []
-        }
-      ]
-    },
-    "evt_077580f5e3e75b": {
-      "event_id": "evt_077580f5e3e75b",
-      "event_key": "tomb raider celebration 30th anniversary trailer article announcement",
-      "event_subject": "Video: The Tomb Raider Series Celebrates Its 30th Anniversary This Week",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "tomb raider celebration 30th anniversary trailer article announcement",
-        "subject": "Video: The Tomb Raider Series Celebrates Its 30th Anniversary This Week",
-        "event_type": "other",
-        "action": "celebration",
-        "status": "published",
-        "modality": "unknown",
-        "game": "Tomb Raider",
-        "franchise": "Tomb Raider",
-        "institution": "Nintendo Life",
-        "target": "",
-        "platforms": [
-          "Switch 2"
-        ],
-        "topic": "anniversary"
-      },
-      "sources": [
-        "Nintendo Life"
-      ],
-      "event_sources": [
-        "Nintendo Life"
-      ],
-      "claims": [],
-      "importance_score": 35,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 5,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Tomb Raider Marks 30th Anniversary with New Switch 2 Release and Discounts",
-      "summary": "The series celebrates its 30th anniversary this week, featuring a surprise Switch 2 drop, special trailer, and multiple sales across the franchise.",
-      "published_at": "2026-10-25T14:00:00+06:00",
-      "selected_at": "2026-10-25T10:49:50.913749+00:00",
-      "status": "published",
-      "message_id": 875,
-      "published_versions": [
-        {
-          "published_at": "2026-10-25T10:49:50.913749+00:00",
-          "headline": "Tomb Raider Marks 30th Anniversary with New Switch 2 Release and Discounts",
-          "claims": []
-        }
-      ]
-    },
     "evt_f85c7d456828ce": {
       "event_id": "evt_f85c7d456828ce",
       "event_key": "pokemon unite service termination 2027 03 23",
@@ -16431,6 +16461,110 @@
           "headline": "Toby Fox Confirms Deltarune Chapter 6 Fully Playable, Chapter 7 Still Early",
           "claims": [
             "Toby Fox has given eager fans an update on the development of Deltarune Chapter 6 and Chapter 7 - the Undertale follow‑up's final two episodes."
+          ]
+        }
+      ]
+    },
+    "evt_bb1b5670c90026": {
+      "event_id": "evt_bb1b5670c90026",
+      "event_key": "battlestate escape from tarkov unity6 update",
+      "event_subject": "Battlestate Games",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "battlestate escape from tarkov unity6 update",
+        "subject": "Battlestate Games",
+        "event_type": "update",
+        "action": "launching",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Escape from Tarkov",
+        "franchise": "Escape from Tarkov",
+        "institution": "Battlestate Games",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "engine upgrade"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [
+        "Unity 6 overhaul released with version 1.3.5.0"
+      ],
+      "importance_score": 54,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 20,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Escape from Tarkov Receives Long‑Awaited Unity 6 Engine Upgrade",
+      "summary": "The 1.3.5.0 patch brings Unity 6, performance boosts, graphics enhancements, and network fixes to Escape from Tarkov on PC.",
+      "published_at": "2026-11-24T15:58:53+06:00",
+      "selected_at": "2026-11-24T10:52:28.001379+00:00",
+      "status": "published",
+      "message_id": 1126,
+      "published_versions": [
+        {
+          "published_at": "2026-11-24T10:52:28.001379+00:00",
+          "headline": "Escape from Tarkov Receives Long‑Awaited Unity 6 Engine Upgrade",
+          "claims": [
+            "Unity 6 overhaul released with version 1.3.5.0"
+          ]
+        }
+      ]
+    },
+    "evt_0f3fd7c8016b9d": {
+      "event_id": "evt_0f3fd7c8016b9d",
+      "event_key": "microsoft xbox helix paid multiplayer consideration",
+      "event_subject": "Microsoft",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft xbox helix paid multiplayer consideration",
+        "subject": "Microsoft",
+        "event_type": "other",
+        "action": "considering",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "Xbox Helix owners",
+        "platforms": [
+          "Xbox Helix"
+        ],
+        "topic": "online services"
+      },
+      "sources": [
+        "Eurogamer"
+      ],
+      "event_sources": [
+        "Eurogamer"
+      ],
+      "claims": [
+        "possible removal of paid multiplayer requirement on next‑gen Xbox Helix"
+      ],
+      "importance_score": 45,
+      "coverage_score": 2,
+      "originality_score": 10,
+      "significance_score": 15,
+      "freshness_score": 10,
+      "source_trust_score": 8,
+      "headline": "Xbox Helix May Lose Free Multiplayer as Microsoft Reconsiders Paywall",
+      "summary": "Microsoft is reportedly abandoning plans for untethered online play on the upcoming Xbox Helix, reinstating a subscription model amid rising costs and leadership changes.",
+      "published_at": "2026-11-24T16:02:10+06:00",
+      "selected_at": "2026-11-24T10:52:33.594613+00:00",
+      "status": "published",
+      "message_id": 1127,
+      "published_versions": [
+        {
+          "published_at": "2026-11-24T10:52:33.594613+00:00",
+          "headline": "Xbox Helix May Lose Free Multiplayer as Microsoft Reconsiders Paywall",
+          "claims": [
+            "possible removal of paid multiplayer requirement on next‑gen Xbox Helix"
           ]
         }
       ]
@@ -244504,11 +244638,525 @@
         "total": 28
       },
       "last_seen": "2026-11-24T03:04:45.024049+06:00"
+    },
+    "evt_96e0794298bc2c": {
+      "event_id": "evt_96e0794298bc2c",
+      "event_key": "sony gta6 player stats",
+      "event_subject": "Eurogamer",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sony gta6 player stats",
+        "subject": "Eurogamer",
+        "event_type": "other",
+        "action": "revealing",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "Sony",
+        "target": "PlayStation 5 players",
+        "platforms": [
+          "PlayStation 5"
+        ],
+        "topic": "player numbers"
+      },
+      "modality": "unknown",
+      "topic": "player numbers",
+      "institution": "Sony",
+      "sources": [
+        "Eurogamer",
+        "Polygon"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "over 39 million unique players have played GTA 6 on PlayStation",
+        "GTA 6 is the biggest launch in PlayStation history",
+        "modders running GTA 6 on PC after CyberLeek released Xbox executable",
+        "10 funniest Far Side comics parodying Disney characters"
+      ],
+      "importance_score": 65,
+      "score_breakdown": {
+        "significance": 30,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 65
+      },
+      "last_seen": "2026-11-24T16:45:25.906938+06:00"
+    },
+    "evt_bb1b5670c90026": {
+      "event_id": "evt_bb1b5670c90026",
+      "event_key": "battlestate escape from tarkov unity6 update",
+      "event_subject": "Battlestate Games",
+      "event_type": "update",
+      "event_frame": {
+        "event_key": "battlestate escape from tarkov unity6 update",
+        "subject": "Battlestate Games",
+        "event_type": "update",
+        "action": "launching",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Escape from Tarkov",
+        "franchise": "Escape from Tarkov",
+        "institution": "Battlestate Games",
+        "target": "players",
+        "platforms": [
+          "PC"
+        ],
+        "topic": "engine upgrade"
+      },
+      "modality": "unknown",
+      "topic": "engine upgrade",
+      "institution": "Battlestate Games",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Unity 6 overhaul released with version 1.3.5.0"
+      ],
+      "importance_score": 54,
+      "score_breakdown": {
+        "significance": 20,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 54
+      },
+      "last_seen": "2026-11-24T16:45:25.906960+06:00"
+    },
+    "evt_0f3fd7c8016b9d": {
+      "event_id": "evt_0f3fd7c8016b9d",
+      "event_key": "microsoft xbox helix paid multiplayer consideration",
+      "event_subject": "Microsoft",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "microsoft xbox helix paid multiplayer consideration",
+        "subject": "Microsoft",
+        "event_type": "other",
+        "action": "considering",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Microsoft",
+        "target": "Xbox Helix owners",
+        "platforms": [
+          "Xbox Helix"
+        ],
+        "topic": "online services"
+      },
+      "modality": "unknown",
+      "topic": "online services",
+      "institution": "Microsoft",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "possible removal of paid multiplayer requirement on next‑gen Xbox Helix"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 15,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 45
+      },
+      "last_seen": "2026-11-24T16:45:25.906969+06:00"
+    },
+    "evt_5e460512fb2554": {
+      "event_id": "evt_5e460512fb2554",
+      "event_key": "fortnite scott pilgrim crossover release",
+      "event_subject": "Epic Games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "fortnite scott pilgrim crossover release",
+        "subject": "Epic Games",
+        "event_type": "other",
+        "action": "adding",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Fortnite",
+        "franchise": "Fortnite",
+        "institution": "Epic Games",
+        "target": "Scott Pilgrim IP",
+        "platforms": [
+          "PC",
+          "Console",
+          "Mobile"
+        ],
+        "topic": "crossover"
+      },
+      "modality": "unknown",
+      "topic": "crossover",
+      "institution": "Epic Games",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Scott Pilgrim characters will appear in Fortnite Battle Royale"
+      ],
+      "importance_score": 38,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 38
+      },
+      "last_seen": "2026-11-24T16:45:25.906976+06:00"
+    },
+    "evt_9055094ecd9e36": {
+      "event_id": "evt_9055094ecd9e36",
+      "event_key": "nintendo switch online update wave race blue storm",
+      "event_subject": "VGC",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nintendo switch online update wave race blue storm",
+        "subject": "VGC",
+        "event_type": "other",
+        "action": "announcing",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Wave Race: Blue Storm",
+        "franchise": "Wave Race",
+        "institution": "Nintendo",
+        "target": "Switch Online users",
+        "platforms": [
+          "Nintendo Switch"
+        ],
+        "topic": "service"
+      },
+      "modality": "unknown",
+      "topic": "service",
+      "institution": "Nintendo",
+      "sources": [
+        "IGN",
+        "VGC"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Wave Race: Blue Storm added to Switch Online + Expansion Pack",
+        "Wave Race: Blue Storm becomes 12th GameCube title on Switch Online"
+      ],
+      "importance_score": 45,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 6,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 45
+      },
+      "last_seen": "2026-11-24T16:45:25.906983+06:00"
+    },
+    "evt_fe351b1d166e18": {
+      "event_id": "evt_fe351b1d166e18",
+      "event_key": "uk charts gta6 debut week",
+      "event_subject": "Nintendo Life",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "uk charts gta6 debut week",
+        "subject": "Nintendo Life",
+        "event_type": "other",
+        "action": "reporting",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "UK Official Charts Company",
+        "target": "physical sales market",
+        "platforms": [],
+        "topic": "sales"
+      },
+      "modality": "unknown",
+      "topic": "sales",
+      "institution": "UK Official Charts Company",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "GTA 6 topped the UK physical sales chart in its debut week"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-11-24T16:45:25.906988+06:00"
+    },
+    "evt_6f570d75f94cba": {
+      "event_id": "evt_6f570d75f94cba",
+      "event_key": "rockstar gta6 deluxe soundtrack extra tracks",
+      "event_subject": "Rockstar Games",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "rockstar gta6 deluxe soundtrack extra tracks",
+        "subject": "Rockstar Games",
+        "event_type": "other",
+        "action": "revealing",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar Games",
+        "target": "deluxe edition buyers",
+        "platforms": [],
+        "topic": "music"
+      },
+      "modality": "unknown",
+      "topic": "music",
+      "institution": "Rockstar Games",
+      "sources": [
+        "Eurogamer"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "23 additional tracks added to GTA 6 deluxe edition soundtrack"
+      ],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-11-24T16:45:25.906995+06:00"
+    },
+    "evt_c0f22aa538bee5": {
+      "event_id": "evt_c0f22aa538bee5",
+      "event_key": "cyberpunk 2 creative director joke cancellation",
+      "event_subject": "Igor Sarzyński",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "cyberpunk 2 creative director joke cancellation",
+        "subject": "Igor Sarzyński",
+        "event_type": "other",
+        "action": "cancelling",
+        "status": "rumor",
+        "modality": "unknown",
+        "game": "Cyberpunk 2",
+        "franchise": "Cyberpunk",
+        "institution": "CD Projekt RED",
+        "target": "game development",
+        "platforms": [],
+        "topic": "industry humor"
+      },
+      "modality": "unknown",
+      "topic": "industry humor",
+      "institution": "CD Projekt RED",
+      "sources": [
+        "VGC"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "creative director jokes about cancelling the game after playing GTA 6"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-11-24T16:45:25.907000+06:00"
+    },
+    "evt_7f74fc692e563a": {
+      "event_id": "evt_7f74fc692e563a",
+      "event_key": "sony psplus extra nov2026 final batch",
+      "event_subject": "Push Square",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "sony psplus extra nov2026 final batch",
+        "subject": "Push Square",
+        "event_type": "other",
+        "action": "making available",
+        "status": "released",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "PlayStation Plus",
+        "institution": "Sony",
+        "target": "PS Plus Extra members",
+        "platforms": [
+          "PS5",
+          "PS4"
+        ],
+        "topic": "subscription"
+      },
+      "modality": "unknown",
+      "topic": "subscription",
+      "institution": "Sony",
+      "sources": [
+        "Push Square"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "final four PS Plus Extra games for November 2026 now downloadable"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-11-24T16:45:25.907006+06:00"
+    },
+    "evt_96f77f5f0e6a60": {
+      "event_id": "evt_96f77f5f0e6a60",
+      "event_key": "gta 6 cheat codes guide release",
+      "event_subject": "Insider Gaming",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta 6 cheat codes guide release",
+        "subject": "Insider Gaming",
+        "event_type": "other",
+        "action": "publishing",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "Insider Gaming",
+        "target": "players",
+        "platforms": [],
+        "topic": "cheats"
+      },
+      "modality": "unknown",
+      "topic": "cheats",
+      "institution": "Insider Gaming",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "comprehensive list of GTA 6 cheat codes",
+        "hints and answer for the November 24, 2026 Contexto puzzle"
+      ],
+      "importance_score": 39,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 13,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 39
+      },
+      "last_seen": "2026-11-24T16:45:25.907013+06:00"
+    },
+    "evt_de4760acb2f6a5": {
+      "event_id": "evt_de4760acb2f6a5",
+      "event_key": "zelda gift guide nov24 2026",
+      "event_subject": "GamesRadar+",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "zelda gift guide nov24 2026",
+        "subject": "GamesRadar+",
+        "event_type": "other",
+        "action": "curating",
+        "status": "released",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "The Legend of Zelda",
+        "institution": "GamesRadar+",
+        "target": "Zelda fans",
+        "platforms": [],
+        "topic": "gift ideas"
+      },
+      "modality": "unknown",
+      "topic": "gift ideas",
+      "institution": "GamesRadar+",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "list of recommended gifts for Legend of Zelda fans"
+      ],
+      "importance_score": 29,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 29
+      },
+      "last_seen": "2026-11-24T16:45:25.907020+06:00"
+    },
+    "evt_f1094728d6044d": {
+      "event_id": "evt_f1094728d6044d",
+      "event_key": "primevideo blade runner 2099 rt score",
+      "event_subject": "GamesRadar+",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "primevideo blade runner 2099 rt score",
+        "subject": "GamesRadar+",
+        "event_type": "review",
+        "action": "reporting",
+        "status": "released",
+        "modality": "unknown",
+        "game": "Blade Runner 2099",
+        "franchise": "Blade Runner",
+        "institution": "Prime Video",
+        "target": "viewers",
+        "platforms": [
+          "Streaming"
+        ],
+        "topic": "critical reception"
+      },
+      "modality": "unknown",
+      "topic": "critical reception",
+      "institution": "Prime Video",
+      "sources": [
+        "GamesRadar+"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "positive Rotten Tomatoes score for Blade Runner 2099 series"
+      ],
+      "importance_score": 28,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 28
+      },
+      "last_seen": "2026-11-24T16:45:25.907027+06:00"
     }
   },
   "posted_event_ids": [
-    "evt_a975c16e65b26b",
-    "evt_22c6e5137b93e1",
     "evt_5b8068c9493aa8",
     "evt_31600042ece2da",
     "evt_28fc651c690c2e",
@@ -245006,14 +245654,11 @@
     "evt_26a9a3686821a5",
     "evt_730318231ab12e",
     "evt_92fa4dae8cc13e",
-    "evt_e529f065710b3f"
+    "evt_e529f065710b3f",
+    "evt_bb1b5670c90026",
+    "evt_0f3fd7c8016b9d"
   ],
   "recent_titles": [
-    "three new gba classics arrive on nintendo switch online including metal slug advance",
-    "ubisoft closes redlynx studio cuts 70 jobs at singapore amid restructuring",
-    "nintendo unveils hall of fallen foes mode for ocarina of time remake",
-    "summer eternal unveils physics driven rpg red rooster for pc and consoles",
-    "xbox announces ultra compact nano controller for 49 99 launch",
     "epic s new vibe coded launcher beats steam in speed",
     "two new day one titles join xbox game pass this fall",
     "epic s ai first pivot threatens future of unreal engine development",
@@ -245413,10 +246058,12 @@
     "former bioware lead says studio might have survived as one project studio",
     "deborah ann woll cast as faye for god of war live action series",
     "activision labels banjo kazooie an iconic franchise sparks revival hopes",
-    "toby fox confirms deltarune chapter 6 fully playable chapter 7 still early"
+    "toby fox confirms deltarune chapter 6 fully playable chapter 7 still early",
+    "escape from tarkov receives long awaited unity 6 engine upgrade",
+    "xbox helix may lose free multiplayer as microsoft reconsiders paywall"
   ],
   "category_coverage": {
-    "Game Updates": "2026-11-24T03:08:05.344990+06:00",
+    "Game Updates": "2026-11-24T16:52:33.594638+06:00",
     "Major Releases": "2026-11-17T14:52:36.215790+06:00",
     "Steam": "2026-11-10T23:08:27.321312+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
