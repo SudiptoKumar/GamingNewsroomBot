@@ -2,240 +2,143 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1c321-Q7dZhbkqOepxqvHegIN2wUZJWzU\"",
+      "etag": "W/\"1c1e5-Fof9CXHS4cA4AtQfR43pg+6jK4I\"",
       "last_modified": null,
-      "last_checked": "2026-11-25T02:59:28.529199+06:00",
+      "last_checked": "2026-11-25T15:33:52.419308+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-25T02:59:28.691882+06:00",
+      "last_checked": "2026-11-25T15:33:52.584729+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6b05f9c5-97a\"",
-      "last_modified": "Tue, 24 Nov 2026 20:55:33 GMT",
-      "last_checked": "2026-11-25T02:59:28.938632+06:00",
+      "etag": "\"6b06aab9-97c\"",
+      "last_modified": "Wed, 25 Nov 2026 09:30:33 GMT",
+      "last_checked": "2026-11-25T15:33:52.904682+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Tue, 24 Nov 2026 20:30:00 GMT",
-      "last_checked": "2026-11-25T02:59:29.165612+06:00",
+      "last_modified": "Wed, 25 Nov 2026 09:15:10 GMT",
+      "last_checked": "2026-11-25T15:33:53.132717+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "W/\"86603f7834324ff940e812efe608e4c1\"",
-      "last_modified": "Tue, 24 Nov 2026 19:15:38 GMT",
-      "last_checked": "2026-11-25T02:59:29.408280+06:00",
+      "etag": "W/\"221384d0bd9da0e2d18759699f46c3ad\"",
+      "last_modified": "Wed, 25 Nov 2026 09:00:23 GMT",
+      "last_checked": "2026-11-25T15:33:53.444223+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-25T02:59:29.550711+06:00",
+      "last_checked": "2026-11-25T15:33:53.521424+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-25T02:59:29.973427+06:00",
+      "last_checked": "2026-11-25T15:33:54.222576+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"0e98a242f0e3c25dd5a24fdc9e7108e3\"",
-      "last_modified": "Tue, 24 Nov 2026 20:57:30 GMT",
-      "last_checked": "2026-11-25T02:59:30.327225+06:00",
+      "etag": "W/\"ed9cac1a8d141d4e087f5d3067389cc4\"",
+      "last_modified": "Wed, 25 Nov 2026 09:00:08 GMT",
+      "last_checked": "2026-11-25T15:33:54.512817+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-25T02:59:30.497714+06:00",
+      "last_checked": "2026-11-25T15:33:54.576208+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Tue, 24 Nov 2026 19:38:28 GMT",
-      "last_checked": "2026-11-25T02:59:30.824542+06:00",
+      "last_modified": "Tue, 24 Nov 2026 23:47:22 GMT",
+      "last_checked": "2026-11-25T15:33:54.916292+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Tue, 24 Nov 2026 20:59:31 GMT",
-      "last_checked": "2026-11-25T02:59:31.800720+06:00",
+      "last_modified": "Wed, 25 Nov 2026 09:33:55 GMT",
+      "last_checked": "2026-11-25T15:33:55.791301+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"95d8714ada0e9f28a6461e3eb4c9cac7\"",
-      "last_modified": "Tue, 24 Nov 2026 20:47:02 GMT",
-      "last_checked": "2026-11-25T02:59:31.960945+06:00",
+      "etag": "W/\"37db488131ada6fb066cc2ba996fc1c8\"",
+      "last_modified": "Wed, 25 Nov 2026 08:55:43 GMT",
+      "last_checked": "2026-11-25T15:33:55.908495+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-25T02:59:32.191238+06:00",
+      "last_checked": "2026-11-25T15:33:56.431016+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-25T02:59:32.579431+06:00",
+      "last_checked": "2026-11-25T15:33:56.644835+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-25T02:59:32.937807+06:00",
+      "last_checked": "2026-11-25T15:33:57.021542+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-25T02:59:33.132568+06:00",
-      "fail_count": 194,
+      "last_checked": "2026-11-25T15:33:57.267273+06:00",
+      "fail_count": 195,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"b85201c526993eb35726314ecc97e514\"",
-      "last_modified": "Tue, 24 Nov 2026 20:00:23 GMT",
-      "last_checked": "2026-11-25T02:59:33.244629+06:00",
+      "etag": "W/\"2e261a552d2e25eb5cdc414315b62609\"",
+      "last_modified": "Wed, 25 Nov 2026 02:00:13 GMT",
+      "last_checked": "2026-11-25T15:33:57.346084+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-25T02:59:33.494656+06:00",
+      "last_checked": "2026-11-25T15:33:57.435306+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-25T02:59:33.635722+06:00",
-      "fail_count": 194,
+      "last_checked": "2026-11-25T15:33:57.620862+06:00",
+      "fail_count": 195,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"bf3fede7d41373e599a8f11845147580\"",
-      "last_modified": "Tue, 24 Nov 2026 11:55:01 GMT",
-      "last_checked": "2026-11-25T02:59:33.830251+06:00",
+      "etag": "W/\"e73d2427bf7daec469f9cdefb35ee680\"",
+      "last_modified": "Wed, 25 Nov 2026 06:13:14 GMT",
+      "last_checked": "2026-11-25T15:33:57.734536+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "ign.com/articles/nitro-deck-2-controller-deal-black-friday-2026": {
-      "title": "The Nitro Deck 2 for the Nintendo Switch 2 Is Getting a Black Friday Discount at Amazon",
-      "url": "https://www.ign.com/articles/nitro-deck-2-controller-deal-black-friday-2026",
-      "canonical": "ign.com/articles/nitro-deck-2-controller-deal-black-friday-2026",
-      "published_dt": "2026-11-21T12:07:53+06:00",
-      "published_date": "2026-11-21T12:07:53+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "",
-      "image": "https://assets-prd.ignimgs.com/2026/08/20/untitled-design-3-1787246765494.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-21T13:59:44.070752+06:00",
-      "last_seen": "2026-11-21T13:59:44.070756+06:00"
-    },
-    "ign.com/articles/how-a-6-beer-in-gta-6-sent-me-into-a-spiral-of-crime-and-anxiety": {
-      "title": "How a $6 Beer in GTA 6 Sent Me Into a Spiral of Crime and Anxiety",
-      "url": "https://www.ign.com/articles/how-a-6-beer-in-gta-6-sent-me-into-a-spiral-of-crime-and-anxiety",
-      "canonical": "ign.com/articles/how-a-6-beer-in-gta-6-sent-me-into-a-spiral-of-crime-and-anxiety",
-      "published_dt": "2026-11-21T12:00:00+06:00",
-      "published_date": "2026-11-21T12:00:00+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "",
-      "image": "https://assets-prd.ignimgs.com/2026/11/20/1a1f9e1ef3b55-screenshoturl-1-1795194452766.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-21T13:59:44.070862+06:00",
-      "last_seen": "2026-11-21T13:59:44.070864+06:00"
-    },
-    "polygon.com/9-perfect-calvin-and-hobbes-1990s-comics": {
-      "title": "9 Calvin and Hobbes Comics from the 1990s that Prove Bill Watterson is a Genius",
-      "url": "https://www.polygon.com/9-perfect-calvin-and-hobbes-1990s-comics/",
-      "canonical": "polygon.com/9-perfect-calvin-and-hobbes-1990s-comics",
-      "published_dt": "2026-11-21T11:00:18+06:00",
-      "published_date": "2026-11-21T11:00:18+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Calvin and Hobbes creator Bill Watterson is a genius. Here are nine comics which prove it.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/calvin-and-hobbes-treasure-everywhere.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-21T13:59:46.244976+06:00",
-      "last_seen": "2026-11-21T13:59:46.244979+06:00"
-    },
-    "insider-gaming.com/nyt-connections-hints-solutions-november-21-1259": {
-      "title": "NYT Connections Hints Today (#1259)—Answers for Saturday, November 21",
-      "url": "https://insider-gaming.com/nyt-connections-hints-solutions-november-21-1259/",
-      "canonical": "insider-gaming.com/nyt-connections-hints-solutions-november-21-1259",
-      "published_dt": "2026-11-21T13:49:35+06:00",
-      "published_date": "2026-11-21T13:49:35+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1259)—Answers for Saturday, November 21 appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-21T13:59:47.913659+06:00",
-      "last_seen": "2026-11-21T13:59:47.913663+06:00"
-    },
-    "nintendolife.com/news/2026/11/zeldas-ocarina-remake-is-one-of-metacritics-highest-rated-games-in-2026-according-to-user-scores": {
-      "title": "Zelda's Ocarina Remake Is One Of Metacritic's Highest-Rated Games In 2026, According To User Scores",
-      "url": "https://www.nintendolife.com/news/2026/11/zeldas-ocarina-remake-is-one-of-metacritics-highest-rated-games-in-2026-according-to-user-scores",
-      "canonical": "nintendolife.com/news/2026/11/zeldas-ocarina-remake-is-one-of-metacritics-highest-rated-games-in-2026-according-to-user-scores",
-      "published_dt": "2026-11-21T11:30:00+06:00",
-      "published_date": "2026-11-21T11:30:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Players' voice. It's been a huge year for the games industry with all sorts of heavy-hitters releasing over the past few months, and as we look towards the end of 2026, we're now checking in on Metacritic's highest-rated games of the year based on the user score . Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/0ff8b95fda54c/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-21T13:59:48.430275+06:00",
-      "last_seen": "2026-11-21T13:59:48.430279+06:00"
-    },
-    "escapistmagazine.com/hellraiser-revival-takes-horror-game-of-the-year-as-resident-evil-requiem-wins-the-most-awards": {
-      "title": "Hellraiser: Revival Takes Horror Game of the Year as Resident Evil Requiem Wins the Most Awards",
-      "url": "https://www.escapistmagazine.com/hellraiser-revival-takes-horror-game-of-the-year-as-resident-evil-requiem-wins-the-most-awards/",
-      "canonical": "escapistmagazine.com/hellraiser-revival-takes-horror-game-of-the-year-as-resident-evil-requiem-wins-the-most-awards",
-      "published_dt": "2026-11-21T12:13:13+06:00",
-      "published_date": "2026-11-21T12:13:13+06:00",
-      "source": "The Escapist",
-      "region": "Gaming",
-      "excerpt": "Clive Barker's Hellraiser: Revival beat Resident Evil Requiem for Game of the Year at the fifth Horror Game Awards in London. Requiem still won more awards than any other game, while nomination leader REANIMAL left with little to show for its 10 nods. The post Hellraiser: Revival Takes Horror Game of the Year as Resident Evil Requiem Wins the Most Awards appeared first on The Escapist .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-11-21T13:59:50.515586+06:00",
-      "last_seen": "2026-11-21T13:59:50.515590+06:00",
-      "posted_at": "2026-11-21T14:02:00.387313+06:00"
-    },
     "ign.com/articles/gta-6s-weirdest-cow-shows-why-you-should-pause-the-story-early-to-explore-its-vast-map": {
       "title": "GTA 6’s Weirdest Cow Shows Why You Should Pause the Story Early To Explore Its Vast Map",
       "url": "https://www.ign.com/articles/gta-6s-weirdest-cow-shows-why-you-should-pause-the-story-early-to-explore-its-vast-map",
@@ -4720,6 +4623,135 @@
       "status": "pending",
       "first_seen": "2026-11-25T02:59:33.283976+06:00",
       "last_seen": "2026-11-25T02:59:33.283978+06:00"
+    },
+    "ign.com/articles/yes-there-was-one-thing-cut-from-gta-6-for-australia-nz": {
+      "title": "Yes, There Was One Thing Cut from GTA 6 for Australia, NZ",
+      "url": "https://www.ign.com/articles/yes-there-was-one-thing-cut-from-gta-6-for-australia-nz",
+      "canonical": "ign.com/articles/yes-there-was-one-thing-cut-from-gta-6-for-australia-nz",
+      "published_dt": "2026-11-25T12:55:24+06:00",
+      "published_date": "2026-11-25T12:55:24+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Rockstar chopped out a temporary stat buff from GTA 6, although players down under may not ever really notice it.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/23/gta-6-secret-blogroll-1795445757736.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-25T15:33:52.457606+06:00",
+      "last_seen": "2026-11-25T15:33:52.457610+06:00"
+    },
+    "eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5": {
+      "title": "Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5",
+      "canonical": "eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5",
+      "published_dt": "2026-11-25T15:15:10+06:00",
+      "published_date": "2026-11-25T15:15:10+06:00",
+      "source": "Eurogamer",
+      "region": "Gaming",
+      "excerpt": "If you don't own a PlayStation 5 Pro , the best way to play Grand Theft Auto 6 is reportedly on Xbox Series X. That's according to new performance analysis, which shows Microsoft's console is more consistent at maintaining the game's 30fps frame-rate target than the base PS5. Read more",
+      "image": "https://assetsio.gnwcdn.com/GTA_6_Mission_List_4.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-25T15:33:53.196172+06:00",
+      "last_seen": "2026-11-25T15:33:53.196176+06:00"
+    },
+    "gematsu.com/2026/11/surviving-mars-relaunched-dlc-machine-utopia-announced": {
+      "title": "Surviving Mars: Relaunched DLC ‘Machine Utopia’ announced",
+      "url": "https://www.gematsu.com/2026/11/surviving-mars-relaunched-dlc-machine-utopia-announced",
+      "canonical": "gematsu.com/2026/11/surviving-mars-relaunched-dlc-machine-utopia-announced",
+      "published_dt": "2026-11-25T15:00:23+06:00",
+      "published_date": "2026-11-25T15:00:23+06:00",
+      "source": "Gematsu",
+      "region": "Gaming",
+      "excerpt": "Publisher Paradox Interactive and developer Haemimont Games have announced colony management game Surviving Mars: Relaunched …",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-25T15:33:53.457842+06:00",
+      "last_seen": "2026-11-25T15:33:53.457845+06:00",
+      "posted_at": "2026-11-25T15:38:04.339424+06:00"
+    },
+    "polygon.com/lotr-rings-of-power-season-3-sauron-forges-one-ring-spoilers-interview": {
+      "title": "72 Years Later, Lord of the Rings Officially Reveals How Sauron Made the One Ring",
+      "url": "https://www.polygon.com/lotr-rings-of-power-season-3-sauron-forges-one-ring-spoilers-interview/",
+      "canonical": "polygon.com/lotr-rings-of-power-season-3-sauron-forges-one-ring-spoilers-interview",
+      "published_dt": "2026-11-25T15:30:17+06:00",
+      "published_date": "2026-11-25T15:30:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "The Rings of Power showrunner Patrick McKay and Sauron actor Charlie Vickers explain how Sauron forged the One Ring and what it cost him in season 3.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the-rings-of-power-season-3-official-trailer-_-prime-video-1-51-screenshot.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-25T15:33:54.227862+06:00",
+      "last_seen": "2026-11-25T15:33:54.227866+06:00"
+    },
+    "polygon.com/the-martian-ridley-scott-available-to-rent": {
+      "title": "Forget 'Blade Runner 2099,' Ridley Scott's Sci-Fi Survival Masterpiece Is Already on Streaming",
+      "url": "https://www.polygon.com/the-martian-ridley-scott-available-to-rent/",
+      "canonical": "polygon.com/the-martian-ridley-scott-available-to-rent",
+      "published_dt": "2026-11-25T15:00:17+06:00",
+      "published_date": "2026-11-25T15:00:17+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Ridley Scott’s 205 sci-fi film The Martian is the perfect way to prep for Blade Runner 2099",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the-martian-2.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-25T15:33:54.227966+06:00",
+      "last_seen": "2026-11-25T15:33:54.227968+06:00"
+    },
+    "kotaku.com/everyones-getting-trolled-by-gta-6s-looney-toons-tunnel-2001000177": {
+      "title": "Everyone’s Getting Trolled By GTA 6’s Looney Toons Tunnel",
+      "url": "https://kotaku.com/everyones-getting-trolled-by-gta-6s-looney-toons-tunnel-2001000177",
+      "canonical": "kotaku.com/everyones-getting-trolled-by-gta-6s-looney-toons-tunnel-2001000177",
+      "published_dt": "2026-11-25T15:00:08+06:00",
+      "published_date": "2026-11-25T15:00:08+06:00",
+      "source": "Kotaku",
+      "region": "Gaming",
+      "excerpt": "Congrats on landing the job at Rockstar, Wil E. Coyote",
+      "image": "https://kotaku.com/app/uploads/2026/11/jason-gta-6-1280x800.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-25T15:33:54.522131+06:00",
+      "last_seen": "2026-11-25T15:33:54.522134+06:00"
+    },
+    "gamesradar.com/entertainment/lord-of-the-rings-tv-shows/the-rings-of-power-season-4-release-date-cast-story-trailer-news": {
+      "title": "The Rings of Power season 4 release date speculation, cast, story, and more news",
+      "url": "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/the-rings-of-power-season-4-release-date-cast-story-trailer-news/",
+      "canonical": "gamesradar.com/entertainment/lord-of-the-rings-tv-shows/the-rings-of-power-season-4-release-date-cast-story-trailer-news",
+      "published_dt": "2026-11-25T15:17:08+06:00",
+      "published_date": "2026-11-25T15:17:08+06:00",
+      "source": "GamesRadar+",
+      "region": "Gaming",
+      "excerpt": "When will we return to the Lord of the Rings prequel? Here's everything we know about The Rings of Power season 4",
+      "image": "https://cdn.mos.cms.futurecdn.net/8Apv5cytHXzkTch2yVYTfh-1920-80.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-25T15:33:54.693815+06:00",
+      "last_seen": "2026-11-25T15:33:54.693818+06:00"
+    },
+    "insider-gaming.com/faze-pgl-singapore-major-2026": {
+      "title": "FaZe One Loss Away From Elimination at PGL Singapore Major 2026",
+      "url": "https://insider-gaming.com/faze-pgl-singapore-major-2026/",
+      "canonical": "insider-gaming.com/faze-pgl-singapore-major-2026",
+      "published_dt": "2026-11-25T14:55:42+06:00",
+      "published_date": "2026-11-25T14:55:42+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "FaZe are one series away from elimination after defeat to Parivision left them with a 1-2 record at the PGL Singapore 2026 Major. The post FaZe One Loss Away From Elimination at PGL Singapore Major 2026 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-25T15:33:55.915448+06:00",
+      "last_seen": "2026-11-25T15:33:55.915452+06:00"
     }
   },
   "events": {
@@ -16579,6 +16611,56 @@
           "published_at": "2026-11-24T21:24:09.675896+00:00",
           "headline": "BioWare’s Canceled Mass Effect: Universe Would Have Revealed Squadmates’ Fates",
           "claims": []
+        }
+      ]
+    },
+    "evt_c0f91633d41f09": {
+      "event_id": "evt_c0f91633d41f09",
+      "event_key": "surviving mars machine utopia dlc announcement",
+      "event_subject": "Surviving Mars",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "surviving mars machine utopia dlc announcement",
+        "subject": "Surviving Mars",
+        "event_type": "announcement",
+        "action": "announce new DLC",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Surviving Mars: Relaunched",
+        "franchise": "Surviving Mars",
+        "institution": "Paradox Interactive",
+        "target": "",
+        "platforms": [],
+        "topic": "downloadable content"
+      },
+      "sources": [
+        "Gematsu"
+      ],
+      "event_sources": [
+        "Gematsu"
+      ],
+      "claims": [
+        "Machine Utopia DLC will be released"
+      ],
+      "importance_score": 40,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 6,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Paradox Interactive Announces Surviving Mars: Machine Utopia DLC for December 9 Release",
+      "summary": "Paradox Interactive and Haemimont Games revealed the industry‑focused Machine Utopia expansion, adding robots, strip‑mining and freight trains to Surviving Mars: Relaunched.",
+      "published_at": "2026-11-25T15:00:23+06:00",
+      "selected_at": "2026-11-25T09:38:04.339458+00:00",
+      "status": "published",
+      "message_id": 1134,
+      "published_versions": [
+        {
+          "published_at": "2026-11-25T09:38:04.339458+00:00",
+          "headline": "Paradox Interactive Announces Surviving Mars: Machine Utopia DLC for December 9 Release",
+          "claims": [
+            "Machine Utopia DLC will be released"
+          ]
         }
       ]
     }
@@ -246767,10 +246849,262 @@
         "total": 33
       },
       "last_seen": "2026-11-25T03:08:18.689612+06:00"
+    },
+    "evt_1753193d6f3219": {
+      "event_id": "evt_1753193d6f3219",
+      "event_key": "gta 6 performance analysis xbox vs ps5",
+      "event_subject": "Grand Theft Auto VI",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "gta 6 performance analysis xbox vs ps5",
+        "subject": "Grand Theft Auto VI",
+        "event_type": "other",
+        "action": "compare frame‑rate stability",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar Games",
+        "target": "",
+        "platforms": [
+          "Xbox Series X",
+          "PlayStation 5"
+        ],
+        "topic": "technical performance"
+      },
+      "modality": "unknown",
+      "topic": "technical performance",
+      "institution": "Rockstar Games",
+      "sources": [
+        "Eurogamer",
+        "IGN"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "Xbox Series X maintains more consistent 30 fps than PS5",
+        "One stat buff cut from GTA 6 in Australia and New Zealand"
+      ],
+      "importance_score": 43,
+      "score_breakdown": {
+        "significance": 8,
+        "coverage": 6,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 43
+      },
+      "last_seen": "2026-11-25T15:35:02.148891+06:00"
+    },
+    "evt_bea7a04205329d": {
+      "event_id": "evt_bea7a04205329d",
+      "event_key": "faze elimination pgl singapore major 2026",
+      "event_subject": "FaZe Clan",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "faze elimination pgl singapore major 2026",
+        "subject": "FaZe Clan",
+        "event_type": "other",
+        "action": "lose series and face elimination",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "PGL",
+        "target": "Parivision",
+        "platforms": [],
+        "topic": "esports tournament"
+      },
+      "modality": "unknown",
+      "topic": "esports tournament",
+      "institution": "PGL",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "FaZe down 1‑2 and one series away from elimination"
+      ],
+      "importance_score": 41,
+      "score_breakdown": {
+        "significance": 7,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 41
+      },
+      "last_seen": "2026-11-25T15:35:02.148915+06:00"
+    },
+    "evt_c0f91633d41f09": {
+      "event_id": "evt_c0f91633d41f09",
+      "event_key": "surviving mars machine utopia dlc announcement",
+      "event_subject": "Surviving Mars",
+      "event_type": "announcement",
+      "event_frame": {
+        "event_key": "surviving mars machine utopia dlc announcement",
+        "subject": "Surviving Mars",
+        "event_type": "announcement",
+        "action": "announce new DLC",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Surviving Mars: Relaunched",
+        "franchise": "Surviving Mars",
+        "institution": "Paradox Interactive",
+        "target": "",
+        "platforms": [],
+        "topic": "downloadable content"
+      },
+      "modality": "unknown",
+      "topic": "downloadable content",
+      "institution": "Paradox Interactive",
+      "sources": [
+        "Gematsu"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Machine Utopia DLC will be released"
+      ],
+      "importance_score": 40,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 40
+      },
+      "last_seen": "2026-11-25T15:35:02.148920+06:00"
+    },
+    "evt_829ff15d2f6d9a": {
+      "event_id": "evt_829ff15d2f6d9a",
+      "event_key": "rings of power s3 forging explanation",
+      "event_subject": "The Rings of Power",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "rings of power s3 forging explanation",
+        "subject": "The Rings of Power",
+        "event_type": "other",
+        "action": "explain forging of the One Ring",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "The Lord of the Rings",
+        "institution": "Amazon Prime Video",
+        "target": "",
+        "platforms": [],
+        "topic": "behind‑the‑scenes"
+      },
+      "modality": "unknown",
+      "topic": "behind‑the‑scenes",
+      "institution": "Amazon Prime Video",
+      "sources": [
+        "Polygon",
+        "GamesRadar+"
+      ],
+      "source_count": 2,
+      "independent_source_count": 2,
+      "claims": [
+        "How Sauron forged the One Ring in season 3",
+        "Season 4 release date, cast and plot rumors"
+      ],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 6,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 9,
+        "total": 35
+      },
+      "last_seen": "2026-11-25T15:35:02.148924+06:00"
+    },
+    "evt_f41a4df1aca337": {
+      "event_id": "evt_f41a4df1aca337",
+      "event_key": "gta 6 looney tunes tunnel rumor troll",
+      "event_subject": "Grand Theft Auto VI",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "gta 6 looney tunes tunnel rumor troll",
+        "subject": "Grand Theft Auto VI",
+        "event_type": "rumor",
+        "action": "spread meme about Looney Tunes tunnel",
+        "status": "unverified",
+        "modality": "unknown",
+        "game": "Grand Theft Auto VI",
+        "franchise": "Grand Theft Auto",
+        "institution": "Rockstar Games",
+        "target": "",
+        "platforms": [],
+        "topic": "rumor"
+      },
+      "modality": "unknown",
+      "topic": "rumor",
+      "institution": "Rockstar Games",
+      "sources": [
+        "Kotaku"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "GTA 6 contains a Looney Tunes‑style tunnel"
+      ],
+      "importance_score": 28,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 8,
+        "freshness": 10,
+        "source_trust": 6,
+        "total": 28
+      },
+      "last_seen": "2026-11-25T15:35:02.148928+06:00"
+    },
+    "evt_0a44a4b27c54ce": {
+      "event_id": "evt_0a44a4b27c54ce",
+      "event_key": "the martian streaming release",
+      "event_subject": "The Martian",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "the martian streaming release",
+        "subject": "The Martian",
+        "event_type": "other",
+        "action": "make film available for streaming",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Netflix/Streaming Platform",
+        "target": "",
+        "platforms": [],
+        "topic": "film streaming"
+      },
+      "modality": "unknown",
+      "topic": "film streaming",
+      "institution": "Netflix/Streaming Platform",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [
+        "Ridley Scott's The Martian now streaming"
+      ],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-11-25T15:35:02.148932+06:00"
     }
   },
   "posted_event_ids": [
-    "evt_1d04b549cbdb0c",
     "evt_cfb75f62e531e0",
     "evt_52ec92c2676c38",
     "evt_1c13a179c73a59",
@@ -247269,15 +247603,10 @@
     "evt_3ab64693c9c4bf",
     "evt_6fd138e34067a1",
     "evt_7c7d8e7a0ffb56",
-    "evt_c5423a2f6e537e"
+    "evt_c5423a2f6e537e",
+    "evt_c0f91633d41f09"
   ],
   "recent_titles": [
-    "epic s ai first pivot threatens future of unreal engine development",
-    "blizzard introduces temporary economy hold to combat real money trade in wow forever",
-    "xbox surveys fans on making fallout elder scrolls minecraft exclusive",
-    "007 first light arrives on switch 2 on march 18 2027",
-    "acts of blood beats out on pc december 4 console release next year",
-    "league classic mode shuts down refunds issued ahead of january end",
     "valve rumored to refresh steam frame with high resolution oled optics",
     "the coalition rolls out first major gears of war e day update since launch",
     "gaming factory announces supernatural arcade racer jdm ph4ntom driver for pc",
@@ -247677,10 +248006,11 @@
     "lords of the fallen ii set for april 2027 launch across major consoles",
     "gravity well studio enters hibernation after funding collapse",
     "steam awards celebrate 10 years with retro categories and new hall of fame",
-    "bioware s canceled mass effect universe would have revealed squadmates fates"
+    "bioware s canceled mass effect universe would have revealed squadmates fates",
+    "paradox interactive announces surviving mars machine utopia dlc for december 9 release"
   ],
   "category_coverage": {
-    "Game Updates": "2026-11-25T03:24:09.675916+06:00",
+    "Game Updates": "2026-11-25T15:38:04.339480+06:00",
     "Major Releases": "2026-11-25T03:23:54.360419+06:00",
     "Steam": "2026-11-10T23:08:27.321312+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
