@@ -2,994 +2,143 @@
   "version": "Gaming News Bot",
   "feeds": {
     "https://feeds.ign.com/ign/all": {
-      "etag": "W/\"1e46c-aL9N9NGmZtNuCbwFTpZwD76t5j4\"",
+      "etag": "W/\"2202d-OaKg0ZEjQfoIHRfF8cobqh8ACLw\"",
       "last_modified": null,
-      "last_checked": "2026-11-26T15:10:23.710524+06:00",
+      "last_checked": "2026-11-27T15:26:37.164261+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamespot.com/feeds/mashup/": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-26T15:10:23.881281+06:00",
+      "last_checked": "2026-11-27T15:26:37.347720+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.videogameschronicle.com/feed/": {
-      "etag": "\"6b07f65e-9b5\"",
-      "last_modified": "Thu, 26 Nov 2026 09:05:34 GMT",
-      "last_checked": "2026-11-26T15:10:24.140040+06:00",
+      "etag": "\"6b094c8d-a25\"",
+      "last_modified": "Fri, 27 Nov 2026 09:25:33 GMT",
+      "last_checked": "2026-11-27T15:26:37.705124+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.eurogamer.net/?format=rss": {
       "etag": null,
-      "last_modified": "Wed, 25 Nov 2026 19:57:10 GMT",
-      "last_checked": "2026-11-26T15:10:24.375758+06:00",
+      "last_modified": "Thu, 26 Nov 2026 20:35:20 GMT",
+      "last_checked": "2026-11-27T15:26:37.988736+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gematsu.com/feed": {
-      "etag": "W/\"25e236207a6f6fef698196f7d7a9b325\"",
-      "last_modified": "Thu, 26 Nov 2026 03:22:28 GMT",
-      "last_checked": "2026-11-26T15:10:24.625857+06:00",
+      "etag": "W/\"deedfedea00d8e8763b38c5cd1f25cb2\"",
+      "last_modified": "Fri, 27 Nov 2026 04:27:03 GMT",
+      "last_checked": "2026-11-27T15:26:38.295808+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pcgamer.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-26T15:10:24.749530+06:00",
+      "last_checked": "2026-11-27T15:26:38.450992+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.polygon.com/rss/index.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-26T15:10:25.101856+06:00",
+      "last_checked": "2026-11-27T15:26:39.569177+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://kotaku.com/rss": {
-      "etag": "W/\"ed43e8b10ce3b9d0080d2add7e62f8f1\"",
-      "last_modified": "Thu, 26 Nov 2026 04:26:47 GMT",
-      "last_checked": "2026-11-26T15:10:25.481390+06:00",
+      "etag": "W/\"7a82b4bb4a37c623e628111c6ab7be46\"",
+      "last_modified": "Fri, 27 Nov 2026 08:14:13 GMT",
+      "last_checked": "2026-11-27T15:26:39.767579+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamesradar.com/feeds.xml": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-26T15:10:25.596600+06:00",
+      "last_checked": "2026-11-27T15:26:39.892418+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "http://feeds.feedburner.com/RockPaperShotgun": {
       "etag": null,
-      "last_modified": "Wed, 25 Nov 2026 18:44:08 GMT",
-      "last_checked": "2026-11-26T15:10:25.971936+06:00",
+      "last_modified": "Thu, 26 Nov 2026 23:31:14 GMT",
+      "last_checked": "2026-11-27T15:26:40.504215+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.gamedeveloper.com/rss.xml": {
       "etag": null,
-      "last_modified": "Thu, 26 Nov 2026 09:10:26 GMT",
-      "last_checked": "2026-11-26T15:10:26.439529+06:00",
+      "last_modified": "Fri, 27 Nov 2026 09:26:41 GMT",
+      "last_checked": "2026-11-27T15:26:41.282118+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://insider-gaming.com/feed/": {
-      "etag": "W/\"f736ef15a59c51f8c5120184c43127d8\"",
-      "last_modified": "Wed, 25 Nov 2026 23:02:54 GMT",
-      "last_checked": "2026-11-26T15:10:26.557633+06:00",
+      "etag": "W/\"f49e331733573ee81881bf52eba1235a\"",
+      "last_modified": "Fri, 27 Nov 2026 08:14:47 GMT",
+      "last_checked": "2026-11-27T15:26:41.402191+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.nintendolife.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-26T15:10:26.805022+06:00",
+      "last_checked": "2026-11-27T15:26:41.660264+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.pushsquare.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-26T15:10:27.140627+06:00",
+      "last_checked": "2026-11-27T15:26:42.004470+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.purexbox.com/feeds/latest": {
       "etag": null,
       "last_modified": null,
-      "last_checked": "2026-11-26T15:10:27.499300+06:00",
+      "last_checked": "2026-11-27T15:26:42.366681+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.shacknews.com/feed": {
-      "last_checked": "2026-11-26T15:10:27.699863+06:00",
-      "fail_count": 196,
+      "last_checked": "2026-11-27T15:26:42.570941+06:00",
+      "fail_count": 197,
       "alerted": true
     },
     "https://www.siliconera.com/feed/": {
-      "etag": "W/\"c9f6f0a3544790e31ba24132dec68446\"",
-      "last_modified": "Thu, 26 Nov 2026 02:00:05 GMT",
-      "last_checked": "2026-11-26T15:10:27.784485+06:00",
+      "etag": "W/\"ab92ea8999f9fa15bca7b01db76c99e4\"",
+      "last_modified": "Fri, 27 Nov 2026 02:00:08 GMT",
+      "last_checked": "2026-11-27T15:26:42.682437+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://www.vg247.com/feed": {
       "etag": null,
       "last_modified": "Tue, 02 Jun 2026 08:41:21 GMT",
-      "last_checked": "2026-11-26T15:10:27.907480+06:00",
+      "last_checked": "2026-11-27T15:26:42.844047+06:00",
       "fail_count": 0,
       "alerted": false
     },
     "https://techraptor.net/gaming/rss.xml": {
-      "last_checked": "2026-11-26T15:10:28.058892+06:00",
-      "fail_count": 196,
+      "last_checked": "2026-11-27T15:26:42.996937+06:00",
+      "fail_count": 197,
       "alerted": true
     },
     "https://www.escapistmagazine.com/v2/feed/": {
-      "etag": "W/\"3896f60d1396338121cf6912164e71cc\"",
-      "last_modified": "Thu, 26 Nov 2026 07:51:51 GMT",
-      "last_checked": "2026-11-26T15:10:28.194023+06:00",
+      "etag": "W/\"384d54e34a001f49441898db4d3ace37\"",
+      "last_modified": "Fri, 27 Nov 2026 06:13:14 GMT",
+      "last_checked": "2026-11-27T15:26:43.129529+06:00",
       "fail_count": 0,
       "alerted": false
     }
   },
   "queue": {
-    "ign.com/articles/animal-crossing-crocs-amazon-restock-black-friday-deal-2026": {
-      "title": "Animal Crossing Crocs Are Finally Back in Stock — and Discounted for Black Friday",
-      "url": "https://www.ign.com/articles/animal-crossing-crocs-amazon-restock-black-friday-deal-2026",
-      "canonical": "ign.com/articles/animal-crossing-crocs-amazon-restock-black-friday-deal-2026",
-      "published_dt": "2026-11-22T21:04:36+06:00",
-      "published_date": "2026-11-22T21:04:36+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "Amazon has finally restocked the adult Animal Crossing clog with a new Black Friday discount.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/22/animalcrossingcrocs-1795359717176.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:55:58.773138+06:00",
-      "last_seen": "2026-11-22T21:55:58.773145+06:00"
-    },
-    "ign.com/articles/in-gta-6-cars-are-way-way-more-than-just-getaway-wheels": {
-      "title": "In GTA 6, Cars Are Way, Way More Than Just Getaway Wheels",
-      "url": "https://www.ign.com/articles/in-gta-6-cars-are-way-way-more-than-just-getaway-wheels",
-      "canonical": "ign.com/articles/in-gta-6-cars-are-way-way-more-than-just-getaway-wheels",
-      "published_dt": "2026-11-22T19:30:00+06:00",
-      "published_date": "2026-11-22T19:30:00+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "GTA has always been obsessed with cars, but in GTA 6 your wheels are for more than just getaways - they're your mobile base.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/21/gta-6-car-op-ed-blogroll-1795266423380.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:55:58.773322+06:00",
-      "last_seen": "2026-11-22T21:55:58.773327+06:00"
-    },
-    "videogameschronicle.com/guide/should-you-shoot-halifax-in-gta-6-kill-or-spare-him-in-dubious-provenance": {
-      "title": "Should you shoot Halifax in GTA 6? Kill or spare him in Dubious Provenance",
-      "url": "https://www.videogameschronicle.com/guide/should-you-shoot-halifax-in-gta-6-kill-or-spare-him-in-dubious-provenance/",
-      "canonical": "videogameschronicle.com/guide/should-you-shoot-halifax-in-gta-6-kill-or-spare-him-in-dubious-provenance",
-      "published_dt": "2026-11-22T20:28:05+06:00",
-      "published_date": "2026-11-22T20:28:05+06:00",
-      "source": "VGC",
-      "region": "Gaming",
-      "excerpt": "Here's what happens if you spare or shoot Benjamin Halifax",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:55:59.157285+06:00",
-      "last_seen": "2026-11-22T21:55:59.157290+06:00"
-    },
-    "videogameschronicle.com/guide/gta-6-dubious-provenance-walkthrough-should-you-trust-halifax": {
-      "title": "GTA 6 Dubious Provenance walkthrough: Should you trust Halifax?",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-dubious-provenance-walkthrough-should-you-trust-halifax/",
-      "canonical": "videogameschronicle.com/guide/gta-6-dubious-provenance-walkthrough-should-you-trust-halifax",
-      "published_dt": "2026-11-22T20:20:51+06:00",
-      "published_date": "2026-11-22T20:20:51+06:00",
-      "source": "VGC",
-      "region": "Gaming",
-      "excerpt": "Shoot you trust Halifax?",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:55:59.157444+06:00",
-      "last_seen": "2026-11-22T21:55:59.157448+06:00"
-    },
-    "eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed": {
-      "title": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it",
-      "url": "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed",
-      "canonical": "eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed",
-      "published_dt": "2026-11-22T19:19:20+06:00",
-      "published_date": "2026-11-22T19:19:20+06:00",
-      "source": "Eurogamer",
-      "region": "Gaming",
-      "excerpt": "Nicalis has removed AI-generated music from The Binding of Isaac : Repentance+ after players discovered it in the game's latest update, prompting a wave of negative reviews on Steam. Read more",
-      "image": "https://assetsio.gnwcdn.com/sc8p6p.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-11-22T21:55:59.713824+06:00",
-      "last_seen": "2026-11-22T21:55:59.713831+06:00",
-      "posted_at": "2026-11-22T21:59:22.162816+06:00"
-    },
-    "pcgamer.com/games/grand-theft-auto/the-gtas-that-are-still-worth-playing-while-you-wait-for-gta-6-on-pc": {
-      "title": "The GTAs that are still worth playing while you wait for GTA 6 on PC",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-gtas-that-are-still-worth-playing-while-you-wait-for-gta-6-on-pc/",
-      "canonical": "pcgamer.com/games/grand-theft-auto/the-gtas-that-are-still-worth-playing-while-you-wait-for-gta-6-on-pc",
-      "published_dt": "2026-11-22T21:00:00+06:00",
-      "published_date": "2026-11-22T21:00:00+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "I bet GTA 6 doesn't even have a jetpack.",
-      "image": "https://cdn.mos.cms.futurecdn.net/efAnj32m7jksy98SeLMVmY-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.270167+06:00",
-      "last_seen": "2026-11-22T21:56:00.270174+06:00"
-    },
-    "pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations": {
-      "title": "GTA 6 Mamba GT locations: How to restore the third car for Wyman",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/",
-      "canonical": "pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations",
-      "published_dt": "2026-11-22T20:53:59+06:00",
-      "published_date": "2026-11-22T20:53:59+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "Repair the '64 Mamba GT by finding some cars.",
-      "image": "https://cdn.mos.cms.futurecdn.net/jnfdvJA73GUjwwUeBTtm89-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.270312+06:00",
-      "last_seen": "2026-11-22T21:56:00.270316+06:00"
-    },
-    "pcgamer.com/games/grand-theft-auto/gta-6-riata-locations": {
-      "title": "GTA 6 Riata locations: How to restore the second car for Wyman",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/",
-      "canonical": "pcgamer.com/games/grand-theft-auto/gta-6-riata-locations",
-      "published_dt": "2026-11-22T19:48:06+06:00",
-      "published_date": "2026-11-22T19:48:06+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "Fix the '70 Riata by tracking down some wrecked cars.",
-      "image": "https://cdn.mos.cms.futurecdn.net/UDuySb62PjV6diMhaDehpm-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.270441+06:00",
-      "last_seen": "2026-11-22T21:56:00.270446+06:00"
-    },
-    "pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer": {
-      "title": "Grand Theft Auto 6 has a 'complex drug network' that tracks everything from where drugs come from to 'how they eventually reach the street-level buyer'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer/",
-      "canonical": "pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer",
-      "published_dt": "2026-11-22T19:25:42+06:00",
-      "published_date": "2026-11-22T19:25:42+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "\"Having that structure in the background as something we consistently refer to helps everything feel more real.\"",
-      "image": "https://cdn.mos.cms.futurecdn.net/s8f7vCvwQwKdVpYM98hjNQ-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.270575+06:00",
-      "last_seen": "2026-11-22T21:56:00.270578+06:00"
-    },
-    "polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities": {
-      "title": "All sprites in the Fortnite Chapter 7 mini season",
-      "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities/",
-      "canonical": "polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities",
-      "published_dt": "2026-11-22T21:44:45+06:00",
-      "published_date": "2026-11-22T21:44:45+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Here's a list of the currently available sprite in Fortnite's Chapter 7 \"Treasure Hunters\" mini season, along with what they do.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_sprites.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.408081+06:00",
-      "last_seen": "2026-11-22T21:56:00.408087+06:00"
-    },
-    "polygon.com/gta-6-mitsubishi-eclipse-fast-and-furious-brian-oconner-car": {
-      "title": "Where to find the Fast & Furious Mitsubishi Eclipse in GTA 6",
-      "url": "https://www.polygon.com/gta-6-mitsubishi-eclipse-fast-and-furious-brian-oconner-car/",
-      "canonical": "polygon.com/gta-6-mitsubishi-eclipse-fast-and-furious-brian-oconner-car",
-      "published_dt": "2026-11-22T21:32:59+06:00",
-      "published_date": "2026-11-22T21:32:59+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Here's where you can find Brian O'Conner's green Mitsubishi Eclipse in GTA 6, the car owned by Paul Walker's character in the first Fast & Furious",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6_guide_f-feclipse_lead.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.408244+06:00",
-      "last_seen": "2026-11-22T21:56:00.408248+06:00"
-    },
-    "polygon.com/gta-6-parody-binding-of-isaac-ai-use": {
-      "title": "GTA 6 Parody In Binding of Isaac Used AI Without Creator's Knowledge",
-      "url": "https://www.polygon.com/gta-6-parody-binding-of-isaac-ai-use/",
-      "canonical": "polygon.com/gta-6-parody-binding-of-isaac-ai-use",
-      "published_dt": "2026-11-22T21:29:47+06:00",
-      "published_date": "2026-11-22T21:29:47+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "The Binding of Isaac creator Edmund McMillen did not know the Repentance Plus update used AI-generated music.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/binding-of-isaac-repentance-cropped-1.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.408385+06:00",
-      "last_seen": "2026-11-22T21:56:00.408389+06:00"
-    },
-    "polygon.com/gta-6-goty-game-awards-sweep": {
-      "title": "GTA 6 Could Actually Lose at Least 3 Game Awards Categories",
-      "url": "https://www.polygon.com/gta-6-goty-game-awards-sweep/",
-      "canonical": "polygon.com/gta-6-goty-game-awards-sweep",
-      "published_dt": "2026-11-22T21:00:18+06:00",
-      "published_date": "2026-11-22T21:00:18+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Grand Theft Auto 6 is favorite for GOTY, but Rockstar is unlikely to sweep every award it's up for",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_and_lucia_14-2.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.408518+06:00",
-      "last_seen": "2026-11-22T21:56:00.408522+06:00"
-    },
-    "polygon.com/gta-6-players-ridiculous-ways-to-steal-money": {
-      "title": "GTA 6 Players Keep Discovering Ridiculous New Ways To Steal Money",
-      "url": "https://www.polygon.com/gta-6-players-ridiculous-ways-to-steal-money/",
-      "canonical": "polygon.com/gta-6-players-ridiculous-ways-to-steal-money",
-      "published_dt": "2026-11-22T20:36:30+06:00",
-      "published_date": "2026-11-22T20:36:30+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "GTA 6 players are discovering new creative solutions to get rich in Rockstar Games' latest open-world adventure.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/raul_bautista_landscape.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.408644+06:00",
-      "last_seen": "2026-11-22T21:56:00.408647+06:00"
-    },
-    "polygon.com/greatest-battles-in-fantasy-books-ranked": {
-      "title": "7 Most Unforgettable Battles in Fantasy Books, Ranked",
-      "url": "https://www.polygon.com/greatest-battles-in-fantasy-books-ranked/",
-      "canonical": "polygon.com/greatest-battles-in-fantasy-books-ranked",
-      "published_dt": "2026-11-22T20:00:17+06:00",
-      "published_date": "2026-11-22T20:00:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Some fantasy battles stay with you forever, and these unforgettable clashes prove why.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22137039/135d988256b58423606d61cf832b0c25.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.408773+06:00",
-      "last_seen": "2026-11-22T21:56:00.408776+06:00"
-    },
-    "polygon.com/gta-6-no-kill-playthrough-fail": {
-      "title": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
-      "url": "https://www.polygon.com/gta-6-no-kill-playthrough-fail/",
-      "canonical": "polygon.com/gta-6-no-kill-playthrough-fail",
-      "published_dt": "2026-11-22T19:00:17+06:00",
-      "published_date": "2026-11-22T19:00:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "I tried not to kill anyone in Grand Theft Auto 6 and failed. However, it changed the way I thought about and approached the game's violence.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jasonrob.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.408901+06:00",
-      "last_seen": "2026-11-22T21:56:00.408905+06:00"
-    },
-    "gamesradar.com/games/roguelike/the-binding-of-isaac-removes-ai-generated-music-from-new-update-and-designer-edmund-mcmillen-is-looking-into-how-that-happened": {
-      "title": "The Binding of Isaac removes AI-generated music from new update",
-      "url": "https://www.gamesradar.com/games/roguelike/the-binding-of-isaac-removes-ai-generated-music-from-new-update-and-designer-edmund-mcmillen-is-looking-into-how-that-happened/",
-      "canonical": "gamesradar.com/games/roguelike/the-binding-of-isaac-removes-ai-generated-music-from-new-update-and-designer-edmund-mcmillen-is-looking-into-how-that-happened",
-      "published_dt": "2026-11-22T20:50:29+06:00",
-      "published_date": "2026-11-22T20:50:29+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "Oops",
-      "image": "https://cdn.mos.cms.futurecdn.net/8nm9sSTCd3H2bvm46Dngb4-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.916688+06:00",
-      "last_seen": "2026-11-22T21:56:00.916695+06:00"
-    },
-    "gamesradar.com/games/grand-theft-auto/gta-6-arthur-morgans-hat": {
-      "title": "How to get Arthur Morgan's Hat in GTA 6",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-arthur-morgans-hat/",
-      "canonical": "gamesradar.com/games/grand-theft-auto/gta-6-arthur-morgans-hat",
-      "published_dt": "2026-11-22T20:44:15+06:00",
-      "published_date": "2026-11-22T20:44:15+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "Arthur Morgan's genuine cowboy hat is found in a yard sale.",
-      "image": "https://cdn.mos.cms.futurecdn.net/aQWDkgBrh8tKTurLixHgC5-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.916828+06:00",
-      "last_seen": "2026-11-22T21:56:00.916832+06:00"
-    },
-    "gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-ocarina-of-times-emotional-final-cutscene-was-something-nintendo-heavily-discussed": {
-      "title": "The Legend of Zelda: Ocarina of Time's final cutscene was something Nintendo \"heavily discussed\"",
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-ocarina-of-times-emotional-final-cutscene-was-something-nintendo-heavily-discussed/",
-      "canonical": "gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-ocarina-of-times-emotional-final-cutscene-was-something-nintendo-heavily-discussed",
-      "published_dt": "2026-11-22T19:58:02+06:00",
-      "published_date": "2026-11-22T19:58:02+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "Full circle",
-      "image": "https://cdn.mos.cms.futurecdn.net/jaxxxE8nT8jqBysVopTthn-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.916962+06:00",
-      "last_seen": "2026-11-22T21:56:00.916966+06:00"
-    },
-    "gamesradar.com/games/grand-theft-auto/gta-6-play-after-credits-beating-the-game": {
-      "title": "Can you free-roam after beating GTA 6?",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-play-after-credits-beating-the-game/",
-      "canonical": "gamesradar.com/games/grand-theft-auto/gta-6-play-after-credits-beating-the-game",
-      "published_dt": "2026-11-22T19:57:14+06:00",
-      "published_date": "2026-11-22T19:57:14+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "You can keep playing GTA 6 after the credits, but there's some things you may want to know first",
-      "image": "https://cdn.mos.cms.futurecdn.net/QW5FCYaqAURhyZKEhu78Ge-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.917109+06:00",
-      "last_seen": "2026-11-22T21:56:00.917113+06:00"
-    },
-    "gamesradar.com/games/grand-theft-auto/gta-6-at-60fps-is-actually-possible-thanks-to-an-xbox-series-x-glitch-but-you-might-need-to-stomach-double-speed-animations-too": {
-      "title": "GTA 6 at 60fps is actually possible thanks to an Xbox Series X glitch",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-at-60fps-is-actually-possible-thanks-to-an-xbox-series-x-glitch-but-you-might-need-to-stomach-double-speed-animations-too/",
-      "canonical": "gamesradar.com/games/grand-theft-auto/gta-6-at-60fps-is-actually-possible-thanks-to-an-xbox-series-x-glitch-but-you-might-need-to-stomach-double-speed-animations-too",
-      "published_dt": "2026-11-22T19:32:23+06:00",
-      "published_date": "2026-11-22T19:32:23+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "Give and take",
-      "image": "https://cdn.mos.cms.futurecdn.net/igwCMw9CEsQDbWE7Waxm6G-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.917240+06:00",
-      "last_seen": "2026-11-22T21:56:00.917243+06:00"
-    },
-    "gamesradar.com/games/grand-theft-auto/all-gta-6-challenges": {
-      "title": "GTA 6 Challenges – all 80 challenges to complete",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-challenges/",
-      "canonical": "gamesradar.com/games/grand-theft-auto/all-gta-6-challenges",
-      "published_dt": "2026-11-22T19:08:12+06:00",
-      "published_date": "2026-11-22T19:08:12+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "There are 80 challenges in GTA 6 split across eight different categories to complete",
-      "image": "https://cdn.mos.cms.futurecdn.net/XdhQ3SUwoqU6sS6JkN7j5M-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.917364+06:00",
-      "last_seen": "2026-11-22T21:56:00.917367+06:00"
-    },
-    "gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino": {
-      "title": "How to get a GTA 6 Rhino tank and become virtually indestructible",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
-      "canonical": "gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino",
-      "published_dt": "2026-11-22T19:04:45+06:00",
-      "published_date": "2026-11-22T19:04:45+06:00",
-      "source": "GamesRadar+",
-      "region": "Gaming",
-      "excerpt": "There are rows of GTA 6 tanks waiting to be liberated right from the start of the game, to earn the Challenging Tank award",
-      "image": "https://cdn.mos.cms.futurecdn.net/6TkMTypEzXTZbpYs2m4BsX-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:00.917477+06:00",
-      "last_seen": "2026-11-22T21:56:00.917481+06:00"
-    },
-    "insider-gaming.com/defeat-oscar-fortnite-treasure-hunters-week-4": {
-      "title": "How to Easily Defeat Oscar In Fortnite Treasure Hunters Week 4",
-      "url": "https://insider-gaming.com/defeat-oscar-fortnite-treasure-hunters-week-4/",
-      "canonical": "insider-gaming.com/defeat-oscar-fortnite-treasure-hunters-week-4",
-      "published_dt": "2026-11-22T21:30:24+06:00",
-      "published_date": "2026-11-22T21:30:24+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Fortnite Treasure Hunters Week 4 brings Captain Oscar as the new boss to fight. Here's how you can easily defeat Oscar for the new Sprite. The post How to Easily Defeat Oscar In Fortnite Treasure Hunters Week 4 appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:02.679044+06:00",
-      "last_seen": "2026-11-22T21:56:02.679050+06:00"
-    },
-    "insider-gaming.com/skunk-ape-effigy-tree-locations-gta-6": {
-      "title": "How to Find All Skunk Ape Effigy Tree Locations in GTA 6",
-      "url": "https://insider-gaming.com/skunk-ape-effigy-tree-locations-gta-6/",
-      "canonical": "insider-gaming.com/skunk-ape-effigy-tree-locations-gta-6",
-      "published_dt": "2026-11-22T19:11:37+06:00",
-      "published_date": "2026-11-22T19:11:37+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Here's a detailed guide on how to find all the three Skunk Ape Effigy Tree locations in GTA 6 along with screenshots. The post How to Find All Skunk Ape Effigy Tree Locations in GTA 6 appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:02.679330+06:00",
-      "last_seen": "2026-11-22T21:56:02.679334+06:00"
-    },
-    "insider-gaming.com/robberies-snapmatic-gta-6": {
-      "title": "How to Perform Robberies through Snapmatic in GTA 6—Scrolling, Location Pin, and More",
-      "url": "https://insider-gaming.com/robberies-snapmatic-gta-6/",
-      "canonical": "insider-gaming.com/robberies-snapmatic-gta-6",
-      "published_dt": "2026-11-22T19:03:25+06:00",
-      "published_date": "2026-11-22T19:03:25+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "GTA 6 allows players to scope targets and rob them through Snapmatic. Here's a guide on how this system works. The post How to Perform Robberies through Snapmatic in GTA 6—Scrolling, Location Pin, and More appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:02.679609+06:00",
-      "last_seen": "2026-11-22T21:56:02.679614+06:00"
-    },
-    "insider-gaming.com/where-to-find-the-guantlet-hellfire-gta-6": {
-      "title": "Where to Find the Gauntlet Hellfire Car in GTA 6—Randy’s Wishlist Car Locations",
-      "url": "https://insider-gaming.com/where-to-find-the-guantlet-hellfire-gta-6/",
-      "canonical": "insider-gaming.com/where-to-find-the-guantlet-hellfire-gta-6",
-      "published_dt": "2026-11-22T19:03:21+06:00",
-      "published_date": "2026-11-22T19:03:21+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "A quick guide on how to find the Gaunlet Hellfire car in GTA 6. The post Where to Find the Gauntlet Hellfire Car in GTA 6—Randy’s Wishlist Car Locations appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:02.679873+06:00",
-      "last_seen": "2026-11-22T21:56:02.679878+06:00"
-    },
-    "nintendolife.com/news/2026/11/mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintendo-life-letters": {
-      "title": "Mailbox: Ocarina Intruders, Pikmin Day, Too Many Humans - Nintendo Life Letters",
-      "url": "https://www.nintendolife.com/news/2026/11/mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintendo-life-letters",
-      "canonical": "nintendolife.com/news/2026/11/mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintendo-life-letters",
-      "published_dt": "2026-11-22T20:00:00+06:00",
-      "published_date": "2026-11-22T20:00:00+06:00",
-      "source": "Nintendo Life",
-      "region": "Gaming",
-      "excerpt": "Issue #42 - November 2026. Hello, you. Yes, you. It's just us here today - everyone else is busy in Hyrule or Leonida right now. In fact, it's been like that for most of the month, it seems, as the Nintendo Life Mailbox is looking pretty empty! So, it'll be a nice quick one this month. We'll have you back with your preferred ride — equine or automotive — in a jiffy. Read the full article on nintendolife.com",
-      "image": "https://images.nintendolife.com/5890246f89f6b/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:02.943319+06:00",
-      "last_seen": "2026-11-22T21:56:02.943335+06:00"
-    },
-    "pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems": {
-      "title": "GTA 6 Just Can't Stop Breaking Records It Seems",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
-      "canonical": "pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
-      "published_dt": "2026-11-22T19:00:00+06:00",
-      "published_date": "2026-11-22T19:00:00+06:00",
-      "source": "Push Square",
-      "region": "Gaming",
-      "excerpt": "Sets new soundtrack streaming record on Spotify. Not content with being the biggest entertainment launch in history and the highest rated game of all time , GTA 6 has already broken another record. The game’s official album, which features all-new tracks from the likes of Dua Lipa , set a new opening day record for a soundtrack on Spotify with a dizzying 29.85 million streams. Read the full article on pushsquare.com",
-      "image": "https://images.pushsquare.com/83a7f3925b8dc/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-11-22T21:56:03.135332+06:00",
-      "last_seen": "2026-11-22T21:56:03.135339+06:00",
-      "posted_at": "2026-11-22T21:59:16.864813+06:00"
-    },
-    "purexbox.com/news/2026/11/gta-6-glitch-unlocks-the-fps-on-xbox-series-xs-but-with-multiple-drawbacks": {
-      "title": "GTA 6 Glitch Unlocks The FPS On Xbox Series X|S, But With Multiple Drawbacks",
-      "url": "https://www.purexbox.com/news/2026/11/gta-6-glitch-unlocks-the-fps-on-xbox-series-xs-but-with-multiple-drawbacks",
-      "canonical": "purexbox.com/news/2026/11/gta-6-glitch-unlocks-the-fps-on-xbox-series-xs-but-with-multiple-drawbacks",
-      "published_dt": "2026-11-22T20:00:00+06:00",
-      "published_date": "2026-11-22T20:00:00+06:00",
-      "source": "Pure Xbox",
-      "region": "Gaming",
-      "excerpt": "It's a bug related to Quick Resume on Series X|S. If there's anything we could add to GTA 6 as things stand, it'd be an official 60FPS mode. That's obviously not possible right now due to how demanding the game is on PS5 and Xbox Series X|S hardware, even in the case of the PS5 Pro. Interestingly though, over the weekend, players have discovered the ability to activate what some are calling a \"60FPS Glitch\" or \"60FPS Bug\" on Xbox consoles, forcing the game to unlock its FPS and run at a higher frame rate than it's actually supposed to. Read the full article on purexbox.com",
-      "image": "https://images.purexbox.com/d6d0ddc82be6c/large.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:03.400808+06:00",
-      "last_seen": "2026-11-22T21:56:03.400815+06:00"
-    },
-    "siliconera.com/usagi-shima-bunny-island-feels-better-on-pc": {
-      "title": "Usagi Shima: Bunny Island Feels Better on PC",
-      "url": "https://www.siliconera.com/usagi-shima-bunny-island-feels-better-on-pc/",
-      "canonical": "siliconera.com/usagi-shima-bunny-island-feels-better-on-pc",
-      "published_dt": "2026-11-22T20:00:00+06:00",
-      "published_date": "2026-11-22T20:00:00+06:00",
-      "source": "Siliconera",
-      "region": "Gaming",
-      "excerpt": "There are merits to the mobile version of Usagi Shima: Bunny Island, but I think I prefer the PC release now.",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-22T21:56:03.674013+06:00",
-      "last_seen": "2026-11-22T21:56:03.674019+06:00"
-    },
-    "ign.com/articles/rockstar-says-darts-were-cut-from-gta-6-because-it-didnt-have-unlimited-money-or-time-to-make-it-feel-proper": {
-      "title": "Rockstar Says Darts Were Cut From GTA 6 Because It Didn't Have 'Unlimited Money or Time' to Make It 'Feel Proper'",
-      "url": "https://www.ign.com/articles/rockstar-says-darts-were-cut-from-gta-6-because-it-didnt-have-unlimited-money-or-time-to-make-it-feel-proper",
-      "canonical": "ign.com/articles/rockstar-says-darts-were-cut-from-gta-6-because-it-didnt-have-unlimited-money-or-time-to-make-it-feel-proper",
-      "published_dt": "2026-11-23T02:37:59+06:00",
-      "published_date": "2026-11-23T02:37:59+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "Rockstar Games crammed a lot of content into GTA 6, but fan-favorite mini-games like darts and bowling didn't make the cut because the team didn't have \"unlimited money or unlimited time\" to do those activities justice.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/20/ultimate-edition-wyman-car-collection-01-1795168394633.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:35.121759+06:00",
-      "last_seen": "2026-11-23T03:34:35.121766+06:00"
-    },
-    "ign.com/articles/black-friday-buy-2-get-1-free-deal-on-books-and-music-2026": {
-      "title": "Amazon and Target Launch '3 for 2' Sales on Books, Box Sets, and Vinyl for Black Friday",
-      "url": "https://www.ign.com/articles/black-friday-buy-2-get-1-free-deal-on-books-and-music-2026",
-      "canonical": "ign.com/articles/black-friday-buy-2-get-1-free-deal-on-books-and-music-2026",
-      "published_dt": "2026-11-23T02:34:06+06:00",
-      "published_date": "2026-11-23T02:34:06+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "",
-      "image": "https://assets-prd.ignimgs.com/2026/11/22/3-for-2-1795379206673.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:35.121925+06:00",
-      "last_seen": "2026-11-23T03:34:35.121930+06:00"
-    },
-    "ign.com/articles/best-deals-for-november-22-2026": {
-      "title": "The Best Deals Today: Donkey Kong Bananza, Ghost of Yotei, Castlevania: Belmont's Curse, and More",
-      "url": "https://www.ign.com/articles/best-deals-for-november-22-2026",
-      "canonical": "ign.com/articles/best-deals-for-november-22-2026",
-      "published_dt": "2026-11-23T01:31:07+06:00",
-      "published_date": "2026-11-23T01:31:07+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "",
-      "image": "https://assets-prd.ignimgs.com/2026/11/22/daily-deals-11-22-1795375849374.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:35.122056+06:00",
-      "last_seen": "2026-11-23T03:34:35.122061+06:00"
-    },
-    "videogameschronicle.com/guide/shoot-kirk-or-mr-mangrove-gta-6": {
-      "title": "GTA 6: Should you shoot Kirk or Mr Mangrove?",
-      "url": "https://www.videogameschronicle.com/guide/shoot-kirk-or-mr-mangrove-gta-6/",
-      "canonical": "videogameschronicle.com/guide/shoot-kirk-or-mr-mangrove-gta-6",
-      "published_dt": "2026-11-23T03:07:24+06:00",
-      "published_date": "2026-11-23T03:07:24+06:00",
-      "source": "VGC",
-      "region": "Gaming",
-      "excerpt": "What happens if you shoot Kirk or Mr Mangrove in GTA 6?",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:35.461013+06:00",
-      "last_seen": "2026-11-23T03:34:35.461018+06:00"
-    },
-    "videogameschronicle.com/guide/gta-6-skunk-ape-questline-walkthrough-all-effigy-locations-and-choices": {
-      "title": "GTA 6 Skunk Ape questline walkthrough: All effigy locations and choices",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-skunk-ape-questline-walkthrough-all-effigy-locations-and-choices/",
-      "canonical": "videogameschronicle.com/guide/gta-6-skunk-ape-questline-walkthrough-all-effigy-locations-and-choices",
-      "published_dt": "2026-11-23T02:44:10+06:00",
-      "published_date": "2026-11-23T02:44:10+06:00",
-      "source": "VGC",
-      "region": "Gaming",
-      "excerpt": "How to start and complete the Skunk Ape questline in GTA 6",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:35.461185+06:00",
-      "last_seen": "2026-11-23T03:34:35.461190+06:00"
-    },
-    "videogameschronicle.com/guide/gta-6-bad-luck-i-guess-trophy-guide-how-to-rob-the-payday-loans-store": {
-      "title": "GTA 6 Bad Luck, I Guess trophy guide: How to rob the Payday Loans store",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-bad-luck-i-guess-trophy-guide-how-to-rob-the-payday-loans-store/",
-      "canonical": "videogameschronicle.com/guide/gta-6-bad-luck-i-guess-trophy-guide-how-to-rob-the-payday-loans-store",
-      "published_dt": "2026-11-23T01:57:32+06:00",
-      "published_date": "2026-11-23T01:57:32+06:00",
-      "source": "VGC",
-      "region": "Gaming",
-      "excerpt": "Unlock this secret trophy/achievement in GTA 6",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:35.461338+06:00",
-      "last_seen": "2026-11-23T03:34:35.461342+06:00"
-    },
-    "videogameschronicle.com/guide/gta-6-arthur-morgan-hat-location": {
-      "title": "GTA 6: Arthur Morgan’s hat location from Red Dead Redemption 2",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-arthur-morgan-hat-location/",
-      "canonical": "videogameschronicle.com/guide/gta-6-arthur-morgan-hat-location",
-      "published_dt": "2026-11-23T01:36:38+06:00",
-      "published_date": "2026-11-23T01:36:38+06:00",
-      "source": "VGC",
-      "region": "Gaming",
-      "excerpt": "How to find Arthur Morgan's hat from RDR2 in Grand Theft Auto 6",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:35.461478+06:00",
-      "last_seen": "2026-11-23T03:34:35.461482+06:00"
-    },
-    "pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding": {
-      "title": "Unreal Engine 6 to jettison key scripting feature earlier than planned in favor of AI coding",
-      "url": "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/",
-      "canonical": "pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding",
-      "published_dt": "2026-11-23T02:33:57+06:00",
-      "published_date": "2026-11-23T02:33:57+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "Bye-bye, Blueprints.",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZoNnbwEE9xr6vSMNfPbQVN-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "posted",
-      "first_seen": "2026-11-23T03:34:36.926738+06:00",
-      "last_seen": "2026-11-23T03:34:36.926744+06:00",
-      "posted_at": "2026-11-23T03:35:49.503746+06:00"
-    },
-    "pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort": {
-      "title": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort/",
-      "canonical": "pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort",
-      "published_dt": "2026-11-23T02:16:21+06:00",
-      "published_date": "2026-11-23T02:16:21+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "Making sure your animations don't break while you're cultivating mass.",
-      "image": "https://cdn.mos.cms.futurecdn.net/GiHMgpjWfcavDaW57cSuHF-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:36.926881+06:00",
-      "last_seen": "2026-11-23T03:34:36.926885+06:00"
-    },
-    "pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once": {
-      "title": "New Dota 2 patch tries to help games end faster, adds an item that summons super creeps in every lane at once",
-      "url": "https://www.pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once/",
-      "canonical": "pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once",
-      "published_dt": "2026-11-23T02:09:13+06:00",
-      "published_date": "2026-11-23T02:09:13+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "It's awfully reminiscent of ideas you can find in other, more fast-paced MOBAs.",
-      "image": "https://cdn.mos.cms.futurecdn.net/rPdj5KUrcUw2ZvWuDYHyZP-1920-80.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:36.927010+06:00",
-      "last_seen": "2026-11-23T03:34:36.927014+06:00"
-    },
-    "pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect": {
-      "title": "GTA 6 discourse is suffering from the flat earther effect",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect/",
-      "canonical": "pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect",
-      "published_dt": "2026-11-23T00:43:01+06:00",
-      "published_date": "2026-11-23T00:43:01+06:00",
-      "source": "PC Gamer",
-      "region": "Gaming",
-      "excerpt": "Didn't you hear? You can't even steal cars anymore.",
-      "image": "https://cdn.mos.cms.futurecdn.net/88bmYYeTdzTBy8hNsLoXrc-1920-80.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:36.927149+06:00",
-      "last_seen": "2026-11-23T03:34:36.927154+06:00"
-    },
-    "polygon.com/gta-6-vice-city-boring": {
-      "title": "Sorry, Vice City, but You’re the Most Boring Part of GTA 6",
-      "url": "https://www.polygon.com/gta-6-vice-city-boring/",
-      "canonical": "polygon.com/gta-6-vice-city-boring",
-      "published_dt": "2026-11-23T03:00:17+06:00",
-      "published_date": "2026-11-23T03:00:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Grand Theft Auto 6's map is so well-designed that Vice City just might be the least exciting thing about Leonida.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-vice-city-skyline-1.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:37.089200+06:00",
-      "last_seen": "2026-11-23T03:34:37.089206+06:00"
-    },
-    "polygon.com/gta-6-t-shirts": {
-      "title": "GTA 6's T-shirts Are True Works of Art",
-      "url": "https://www.polygon.com/gta-6-t-shirts/",
-      "canonical": "polygon.com/gta-6-t-shirts",
-      "published_dt": "2026-11-23T02:30:17+06:00",
-      "published_date": "2026-11-23T02:30:17+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Fashion can help you evade police in GTA 6, and Rockstar's design team has crafted some seriously covetable threads for the game.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason-gator.png",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:37.089357+06:00",
-      "last_seen": "2026-11-23T03:34:37.089361+06:00"
-    },
-    "polygon.com/gta-6-bf-bandito-steal-how-to-moses-grand-theft-auto": {
-      "title": "How to steal the BF Bandito in GTA 6",
-      "url": "https://www.polygon.com/gta-6-bf-bandito-steal-how-to-moses-grand-theft-auto/",
-      "canonical": "polygon.com/gta-6-bf-bandito-steal-how-to-moses-grand-theft-auto",
-      "published_dt": "2026-11-23T02:29:44+06:00",
-      "published_date": "2026-11-23T02:29:44+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Here's what you need to do to steal the BF Bandito in GTA 6 and complete one of Moses's requests",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6_guide_bandito_lead.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:37.089496+06:00",
-      "last_seen": "2026-11-23T03:34:37.089500+06:00"
-    },
-    "polygon.com/gta-6-amber-wallin-comedian-instagram-npc-voice-actor-husband-secret": {
-      "title": "'GTA 6' Bombshell: Husband Melts Down After Wife Hid Her Role In Game For Years",
-      "url": "https://www.polygon.com/gta-6-amber-wallin-comedian-instagram-npc-voice-actor-husband-secret/",
-      "canonical": "polygon.com/gta-6-amber-wallin-comedian-instagram-npc-voice-actor-husband-secret",
-      "published_dt": "2026-11-23T01:32:30+06:00",
-      "published_date": "2026-11-23T01:32:30+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "A long-kept GTA 6 secret low-key almost destroyed comedian Amber Wallin's marriage.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-and-lucia-motorcycles.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:37.089627+06:00",
-      "last_seen": "2026-11-23T03:34:37.089631+06:00"
-    },
-    "polygon.com/gta-6-easter-eggs": {
-      "title": "The Best GTA 6 Easter Eggs We’ve Seen So Far",
-      "url": "https://www.polygon.com/gta-6-easter-eggs/",
-      "canonical": "polygon.com/gta-6-easter-eggs",
-      "published_dt": "2026-11-23T00:42:14+06:00",
-      "published_date": "2026-11-23T00:42:14+06:00",
-      "source": "Polygon",
-      "region": "Gaming",
-      "excerpt": "Grand Theft Auto 6 features tons of celebrity cameos, pop-culture references, and nods to past Rockstar games. Here are a few of our faves.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/gta6jason.JPG",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:37.089757+06:00",
-      "last_seen": "2026-11-23T03:34:37.089761+06:00"
-    },
-    "kotaku.com/godfather-of-cyberpunk-says-hes-never-played-a-video-game-but-finds-gta-6-intriguing-2000759281": {
-      "title": "Godfather Of Cyberpunk Says He’s Never Played A Video Game, But Finds GTA 6 ‘Intriguing’",
-      "url": "https://kotaku.com/godfather-of-cyberpunk-says-hes-never-played-a-video-game-but-finds-gta-6-intriguing-2000759281",
-      "canonical": "kotaku.com/godfather-of-cyberpunk-says-hes-never-played-a-video-game-but-finds-gta-6-intriguing-2000759281",
-      "published_dt": "2026-11-23T00:44:40+06:00",
-      "published_date": "2026-11-23T00:44:40+06:00",
-      "source": "Kotaku",
-      "region": "Gaming",
-      "excerpt": "Arcade addicts of the 1980s inspired the cyberspace of William Gibson’s influential Neuromancer, now the author is transfixed on viral footage of Rockstar’s ultra-hit",
-      "image": "https://kotaku.com/app/uploads/2023/08/6e09a0056e1d3bd2d72c274f795f16fc-1280x720.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:37.288781+06:00",
-      "last_seen": "2026-11-23T03:34:37.288786+06:00"
-    },
-    "insider-gaming.com/gta-3-music-budget-soundtrack-deal": {
-      "title": "GTA 3 Had a $600,000 Music Budget It Never Spent",
-      "url": "https://insider-gaming.com/gta-3-music-budget-soundtrack-deal/",
-      "canonical": "insider-gaming.com/gta-3-music-budget-soundtrack-deal",
-      "published_dt": "2026-11-23T00:57:42+06:00",
-      "published_date": "2026-11-23T00:57:42+06:00",
-      "source": "Insider Gaming",
-      "region": "Gaming",
-      "excerpt": "Former Take-Two CEO Kelly Sumner says Rockstar secured GTA 3’s music without using its $600,000 budget by trading rights to the music CD. The post GTA 3 Had a $600,000 Music Budget It Never Spent appeared first on Insider Gaming .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:38.743183+06:00",
-      "last_seen": "2026-11-23T03:34:38.743189+06:00"
-    },
-    "siliconera.com/fate-prototype-fragments-of-sky-silver-tells-another-side-of-type-moons-story": {
-      "title": "Fate/Prototype: Fragments of Sky Silver Tells Another Side of Type Moon’s Story",
-      "url": "https://www.siliconera.com/fate-prototype-fragments-of-sky-silver-tells-another-side-of-type-moons-story/",
-      "canonical": "siliconera.com/fate-prototype-fragments-of-sky-silver-tells-another-side-of-type-moons-story",
-      "published_dt": "2026-11-23T02:00:00+06:00",
-      "published_date": "2026-11-23T02:00:00+06:00",
-      "source": "Siliconera",
-      "region": "Gaming",
-      "excerpt": "Fate/Prototype: Fragments of Sky Silver offers a look at new Master and Servant relationships and another take on a Holy Grail War.",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T03:34:39.922217+06:00",
-      "last_seen": "2026-11-23T03:34:39.922224+06:00"
-    },
-    "ign.com/articles/naughty-dog-dev-gta-6-appears-to-him-as-as-a-bugatti-veyron-would-to-a-nervous-victorian-child": {
-      "title": "Naughty Dog Dev: GTA 6 Appears to Him as ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
-      "url": "https://www.ign.com/articles/naughty-dog-dev-gta-6-appears-to-him-as-as-a-bugatti-veyron-would-to-a-nervous-victorian-child",
-      "canonical": "ign.com/articles/naughty-dog-dev-gta-6-appears-to-him-as-as-a-bugatti-veyron-would-to-a-nervous-victorian-child",
-      "published_dt": "2026-11-23T13:58:42+06:00",
-      "published_date": "2026-11-23T13:58:42+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "Developers are stunned at how dramatically advanced GTA 6 is.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/18/g-blog-6-1795002008156.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T14:35:33.641439+06:00",
-      "last_seen": "2026-11-23T14:35:33.641443+06:00"
-    },
-    "ign.com/articles/robbing-banks-is-a-blast-but-i-wish-there-were-more-houses-to-repair-in-gta-6": {
-      "title": "Robbing Banks is a Blast, But I Wish There Were More Houses to Repair in GTA 6",
-      "url": "https://www.ign.com/articles/robbing-banks-is-a-blast-but-i-wish-there-were-more-houses-to-repair-in-gta-6",
-      "canonical": "ign.com/articles/robbing-banks-is-a-blast-but-i-wish-there-were-more-houses-to-repair-in-gta-6",
-      "published_dt": "2026-11-23T12:50:14+06:00",
-      "published_date": "2026-11-23T12:50:14+06:00",
-      "source": "IGN",
-      "region": "Gaming",
-      "excerpt": "Forget sticking things up with a shotgun, I want to fix things up with a nailgun.",
-      "image": "https://assets-prd.ignimgs.com/2026/11/23/gta6-roofrepair-blogroll-1795414510325.jpg",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T14:35:33.641556+06:00",
-      "last_seen": "2026-11-23T14:35:33.641558+06:00"
-    },
-    "escapistmagazine.com/zelda-40th-anniversary-switch-2-sells-out-on-nintendos-us-store-as-restock-timing-blurs": {
-      "title": "Zelda 40th Anniversary Switch 2 sells out on Nintendo’s US store as restock timing blurs",
-      "url": "https://www.escapistmagazine.com/zelda-40th-anniversary-switch-2-sells-out-on-nintendos-us-store-as-restock-timing-blurs/",
-      "canonical": "escapistmagazine.com/zelda-40th-anniversary-switch-2-sells-out-on-nintendos-us-store-as-restock-timing-blurs",
-      "published_dt": "2026-11-23T12:13:11+06:00",
-      "published_date": "2026-11-23T12:13:11+06:00",
-      "source": "The Escapist",
-      "region": "Gaming",
-      "excerpt": "The $519.99 Zelda 40th Anniversary Edition of Switch 2 is listed as sold out on Nintendo's official US store. Reports differ on whether a January 2027 restock note is still on the page, so holiday shoppers face an uncertain wait. The post Zelda 40th Anniversary Switch 2 sells out on Nintendo’s US store as restock timing blurs appeared first on The Escapist .",
-      "image": "",
-      "discovery": "rss",
-      "date_estimated": false,
-      "status": "pending",
-      "first_seen": "2026-11-23T14:35:38.335745+06:00",
-      "last_seen": "2026-11-23T14:35:38.335749+06:00"
-    },
     "ign.com/articles/the-ecovacs-deebot-t90-pro-omni-robot-vacuum-delivers-incredible-30000pa-suction-and-more-high-end-features-for-499-during-black-friday": {
       "title": "The Ecovacs Deebot T90 Pro Omni Robot Vacuum Delivers Incredible 30,000Pa Suction and More High-End Features for $499 During Black Friday",
       "url": "https://www.ign.com/articles/the-ecovacs-deebot-t90-pro-omni-robot-vacuum-delivers-incredible-30000pa-suction-and-more-high-end-features-for-499-during-black-friday",
@@ -3835,619 +2984,186 @@
       "status": "pending",
       "first_seen": "2026-11-26T15:10:28.220668+06:00",
       "last_seen": "2026-11-26T15:10:28.220672+06:00"
+    },
+    "ign.com/articles/the-alan-lee-lord-of-the-rings-illustrated-editions-sale-amazon-black-friday-2026": {
+      "title": "The Alan Lee Lord of the Rings Illustrated Editions Are at Their Lowest Price Ever for Black Friday",
+      "url": "https://www.ign.com/articles/the-alan-lee-lord-of-the-rings-illustrated-editions-sale-amazon-black-friday-2026",
+      "canonical": "ign.com/articles/the-alan-lee-lord-of-the-rings-illustrated-editions-sale-amazon-black-friday-2026",
+      "published_dt": "2026-11-27T14:14:16+06:00",
+      "published_date": "2026-11-27T14:14:16+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "",
+      "image": "https://assets-prd.ignimgs.com/2026/11/10/lotr-1794269197912.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-27T15:26:37.226768+06:00",
+      "last_seen": "2026-11-27T15:26:37.226774+06:00"
+    },
+    "ign.com/articles/percy-jackson-and-the-olympians-season-3-episodes-3-4-recap-and-review": {
+      "title": "Percy Jackson and the Olympians Season 3, Episodes 3 & 4 Recap and Review",
+      "url": "https://www.ign.com/articles/percy-jackson-and-the-olympians-season-3-episodes-3-4-recap-and-review",
+      "canonical": "ign.com/articles/percy-jackson-and-the-olympians-season-3-episodes-3-4-recap-and-review",
+      "published_dt": "2026-11-27T14:01:00+06:00",
+      "published_date": "2026-11-27T14:01:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "",
+      "image": "https://assets-prd.ignimgs.com/2026/08/15/percythumb-1786763962141.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-27T15:26:37.226906+06:00",
+      "last_seen": "2026-11-27T15:26:37.226909+06:00"
+    },
+    "ign.com/articles/the-lego-beauty-and-the-beast-castle-is-on-sale-for-the-first-time-black-friday-2026": {
+      "title": "The LEGO Beauty and the Beast Castle Is on Sale for the First Time Ever",
+      "url": "https://www.ign.com/articles/the-lego-beauty-and-the-beast-castle-is-on-sale-for-the-first-time-black-friday-2026",
+      "canonical": "ign.com/articles/the-lego-beauty-and-the-beast-castle-is-on-sale-for-the-first-time-black-friday-2026",
+      "published_dt": "2026-11-27T14:00:29+06:00",
+      "published_date": "2026-11-27T14:00:29+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "",
+      "image": "https://assets-prd.ignimgs.com/2025/04/04/disney-castle-1743792498878.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-27T15:26:37.227009+06:00",
+      "last_seen": "2026-11-27T15:26:37.227011+06:00"
+    },
+    "ign.com/articles/pokemon-tcg-black-friday-deals-2026": {
+      "title": "The Best Pokémon TCG Black Friday Deals: Amazon Restocks, 10% Cashback at TCGplayer, and More",
+      "url": "https://www.ign.com/articles/pokemon-tcg-black-friday-deals-2026",
+      "canonical": "ign.com/articles/pokemon-tcg-black-friday-deals-2026",
+      "published_dt": "2026-11-27T14:00:00+06:00",
+      "published_date": "2026-11-27T14:00:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "We've found the best Pokémon TCG Black Friday deals for 2026, including restocked 30th Celebration sets at Amazon, 10% cashback at TCGplayer, and Elite Trainer Boxes.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/26/bf-pokemon-tcg-deals-1795704035502.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-27T15:26:37.227160+06:00",
+      "last_seen": "2026-11-27T15:26:37.227162+06:00"
+    },
+    "ign.com/articles/alienware-18-area-51-rtx-5070-gaming-laptop-deal-black-friday-sale-2026": {
+      "title": "The Alienware 18 Area-51 RTX 5070 Gaming Laptop with 32GB of RAM Drops to $2,260 for Black Friday",
+      "url": "https://www.ign.com/articles/alienware-18-area-51-rtx-5070-gaming-laptop-deal-black-friday-sale-2026",
+      "canonical": "ign.com/articles/alienware-18-area-51-rtx-5070-gaming-laptop-deal-black-friday-sale-2026",
+      "published_dt": "2026-11-27T13:10:00+06:00",
+      "published_date": "2026-11-27T13:10:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Configuring it at Dell would cost you over $4,000.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/27/alienwarearea51laptop-1795762657970.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-27T15:26:37.227302+06:00",
+      "last_seen": "2026-11-27T15:26:37.227304+06:00"
+    },
+    "ign.com/articles/refurb-nintendo-switch-2-console-deal-black-friday-sale-2026": {
+      "title": "Woot Has a Grade A Refurbished Nintendo Switch 2 Console for $409.99 During Black Friday",
+      "url": "https://www.ign.com/articles/refurb-nintendo-switch-2-console-deal-black-friday-sale-2026",
+      "canonical": "ign.com/articles/refurb-nintendo-switch-2-console-deal-black-friday-sale-2026",
+      "published_dt": "2026-11-27T12:45:00+06:00",
+      "published_date": "2026-11-27T12:45:00+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "First time Woot customers can get it for even less.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/27/nintendoswitch2-1795761197378.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-27T15:26:37.227403+06:00",
+      "last_seen": "2026-11-27T15:26:37.227405+06:00"
+    },
+    "ign.com/articles/the-lego-black-friday-sale-is-full-of-sets-retiring-at-the-end-of-2026": {
+      "title": "The LEGO Store Black Friday Sale Is Full of Sets Retiring At the End of 2026",
+      "url": "https://www.ign.com/articles/the-lego-black-friday-sale-is-full-of-sets-retiring-at-the-end-of-2026",
+      "canonical": "ign.com/articles/the-lego-black-friday-sale-is-full-of-sets-retiring-at-the-end-of-2026",
+      "published_dt": "2026-11-27T12:27:49+06:00",
+      "published_date": "2026-11-27T12:27:49+06:00",
+      "source": "IGN",
+      "region": "Gaming",
+      "excerpt": "Here are the sets that are likely to sell out fast.",
+      "image": "https://assets-prd.ignimgs.com/2026/11/27/lego-retired-sets-1795760793754.png",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-27T15:26:37.227497+06:00",
+      "last_seen": "2026-11-27T15:26:37.227499+06:00"
+    },
+    "polygon.com/black-friday-2026-book-deals": {
+      "title": "10 Best Black Friday 2026 Book Deals For Sci-Fi and Fantasy Fans",
+      "url": "https://www.polygon.com/black-friday-2026-book-deals/",
+      "canonical": "polygon.com/black-friday-2026-book-deals",
+      "published_dt": "2026-11-27T15:00:18+06:00",
+      "published_date": "2026-11-27T15:00:18+06:00",
+      "source": "Polygon",
+      "region": "Gaming",
+      "excerpt": "Give the gift of a genre classic or a brand new novel",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19545078/TheWitcher_101_Unit_08529_RT.pkej748hf.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-27T15:26:39.577552+06:00",
+      "last_seen": "2026-11-27T15:26:39.577556+06:00"
+    },
+    "insider-gaming.com/simpsons-hit-and-run-canceled": {
+      "title": "Simpsons Hit & Run and Prototype Studio Have Just Had Their Unannounced Game Canceled",
+      "url": "https://insider-gaming.com/simpsons-hit-and-run-canceled/",
+      "canonical": "insider-gaming.com/simpsons-hit-and-run-canceled",
+      "published_dt": "2026-11-27T14:14:46+06:00",
+      "published_date": "2026-11-27T14:14:46+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Simpsons Hit & Run and Prototype Studio, Radical Entertainment, have just had their unannounced game canceled, according to one developer who took to social media. The post Simpsons Hit & Run and Prototype Studio Have Just Had Their Unannounced Game Canceled appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "posted",
+      "first_seen": "2026-11-27T15:26:41.412037+06:00",
+      "last_seen": "2026-11-27T15:26:41.412042+06:00",
+      "posted_at": "2026-11-27T15:33:11.177535+06:00"
+    },
+    "insider-gaming.com/nyt-connections-hints-solutions-november-27-1265": {
+      "title": "NYT Connections Hints Today (#1265)—Answers for Friday, November 27",
+      "url": "https://insider-gaming.com/nyt-connections-hints-solutions-november-27-1265/",
+      "canonical": "insider-gaming.com/nyt-connections-hints-solutions-november-27-1265",
+      "published_dt": "2026-11-27T13:51:31+06:00",
+      "published_date": "2026-11-27T13:51:31+06:00",
+      "source": "Insider Gaming",
+      "region": "Gaming",
+      "excerpt": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1265)—Answers for Friday, November 27 appeared first on Insider Gaming .",
+      "image": "",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-27T15:26:41.412335+06:00",
+      "last_seen": "2026-11-27T15:26:41.412340+06:00"
+    },
+    "nintendolife.com/news/2026/11/random-did-dave-the-diver-just-tease-a-gta-6-collab": {
+      "title": "Random: Did Dave The Diver Just Tease A GTA 6 Collab?",
+      "url": "https://www.nintendolife.com/news/2026/11/random-did-dave-the-diver-just-tease-a-gta-6-collab",
+      "canonical": "nintendolife.com/news/2026/11/random-did-dave-the-diver-just-tease-a-gta-6-collab",
+      "published_dt": "2026-11-27T12:55:00+06:00",
+      "published_date": "2026-11-27T12:55:00+06:00",
+      "source": "Nintendo Life",
+      "region": "Gaming",
+      "excerpt": "A joke or something more? If you didn't already know, Dave The Diver actually has something in common with Rockstar's new open-world title, Grand Theft Auto 6 . In both games, you can go diving! Read the full article on nintendolife.com",
+      "image": "https://images.nintendolife.com/91be8dcea1a07/large.jpg",
+      "discovery": "rss",
+      "date_estimated": false,
+      "status": "pending",
+      "first_seen": "2026-11-27T15:26:41.679081+06:00",
+      "last_seen": "2026-11-27T15:26:41.679086+06:00"
     }
   },
   "events": {
-    "evt_11290eef3929bc": {
-      "event_id": "evt_11290eef3929bc",
-      "event_key": "pokemon unite shutdown 2027",
-      "event_subject": "The Pokémon Company",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "pokemon unite shutdown 2027",
-        "subject": "The Pokémon Company",
-        "event_type": "other",
-        "action": "announced shutdown",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Pokémon Unite",
-        "franchise": "Pokémon",
-        "institution": "The Pokémon Company",
-        "target": "players",
-        "platforms": [],
-        "topic": "game end-of-life"
-      },
-      "sources": [
-        "Insider Gaming",
-        "VGC",
-        "IGN"
-      ],
-      "event_sources": [
-        "Insider Gaming",
-        "VGC",
-        "IGN"
-      ],
-      "claims": [
-        "the game will shut down in 2027",
-        "microtransactions and Unite Club ended today",
-        "service ends March 23 2027 after final competition"
-      ],
-      "importance_score": 78,
-      "coverage_score": 10,
-      "originality_score": 10,
-      "significance_score": 38,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Pokémon Unite to Shut Down on March 23 2027, Ending Console and Mobile Play",
-      "summary": "The free‑to‑play MOBA Pokémon Unite will cease online services on March 23 2027, with a final event and library feature for players.",
-      "published_at": "2026-10-27T15:48:37+06:00",
-      "selected_at": "2026-10-27T12:03:16.001247+00:00",
-      "status": "published",
-      "message_id": 877,
-      "published_versions": [
-        {
-          "published_at": "2026-10-27T12:03:16.001247+00:00",
-          "headline": "Pokémon Unite to Shut Down on March 23 2027, Ending Console and Mobile Play",
-          "claims": [
-            "the game will shut down in 2027",
-            "microtransactions and Unite Club ended today",
-            "service ends March 23 2027 after final competition"
-          ]
-        }
-      ]
-    },
-    "evt_68afa8421df3ca": {
-      "event_id": "evt_68afa8421df3ca",
-      "event_key": "bioware closure mass effect universe loss 2026 10 27",
-      "event_subject": "Mass Effect universe lost after BioWare closure",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "bioware closure mass effect universe loss 2026 10 27",
-        "subject": "Mass Effect universe lost after BioWare closure",
-        "event_type": "other",
-        "action": "reported",
-        "status": "reported",
-        "modality": "unknown",
-        "game": "Mass Effect series",
-        "franchise": "Mass Effect",
-        "institution": "BioWare",
-        "target": "",
-        "platforms": [],
-        "topic": "studio shutdown impact"
-      },
-      "sources": [
-        "IGN"
-      ],
-      "event_sources": [
-        "IGN"
-      ],
-      "claims": [],
-      "importance_score": 65,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 35,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "BioWare Shutdown Leaves Mass Effect: Universe Unfinished",
-      "summary": "The closure of BioWare and EA’s cancellation of Mass Effect: Universe deprives fans of a hoped‑for sequel amid a growing industry backlash.",
-      "published_at": "2026-10-27T16:43:00+06:00",
-      "selected_at": "2026-10-27T12:03:22.113432+00:00",
-      "status": "published",
-      "message_id": 878,
-      "published_versions": [
-        {
-          "published_at": "2026-10-27T12:03:22.113432+00:00",
-          "headline": "BioWare Shutdown Leaves Mass Effect: Universe Unfinished",
-          "claims": []
-        }
-      ]
-    },
-    "evt_7631607317b581": {
-      "event_id": "evt_7631607317b581",
-      "event_key": "warhorse studios cyberattack 2026 10 27",
-      "event_subject": "Warhorse Studios cyberattack",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "warhorse studios cyberattack 2026 10 27",
-        "subject": "Warhorse Studios cyberattack",
-        "event_type": "other",
-        "action": "hit",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "",
-        "institution": "Warhorse Studios",
-        "target": "",
-        "platforms": [],
-        "topic": "cybersecurity"
-      },
-      "sources": [
-        "PC Gamer"
-      ],
-      "event_sources": [
-        "PC Gamer"
-      ],
-      "claims": [],
-      "importance_score": 42,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Warhorse Studios Hit by Cyberattack Threatening Upcoming RPGs",
-      "summary": "Warhorse Studios announced a cyberattack, prompting urgent security measures while details on the breach and its impact remain undisclosed.",
-      "published_at": "2026-10-27T17:55:58+06:00",
-      "selected_at": "2026-10-27T12:03:27.798201+00:00",
-      "status": "published",
-      "message_id": 879,
-      "published_versions": [
-        {
-          "published_at": "2026-10-27T12:03:27.798201+00:00",
-          "headline": "Warhorse Studios Hit by Cyberattack Threatening Upcoming RPGs",
-          "claims": []
-        }
-      ]
-    },
-    "evt_be050134716833": {
-      "event_id": "evt_be050134716833",
-      "event_key": "mass effect cancellation aftermath austin wintory soundtrack preview",
-      "event_subject": "Mass Effect series",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "mass effect cancellation aftermath austin wintory soundtrack preview",
-        "subject": "Mass Effect series",
-        "event_type": "other",
-        "action": "release preview",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "Mass Effect",
-        "institution": "Push Square",
-        "target": "fans",
-        "platforms": [],
-        "topic": "cancellation"
-      },
-      "sources": [
-        "Push Square"
-      ],
-      "event_sources": [
-        "Push Square"
-      ],
-      "claims": [
-        "22‑minute conceptual soundtrack"
-      ],
-      "importance_score": 50,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 20,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Mass Effect Cancellation Leaves Austin Wintory’s Dream Soundtrack Unheard",
-      "summary": "Composer Austin Wintory reveals a 22‑minute conceptual score for the cancelled Mass Effect 5, highlighting the loss for fans and the industry.",
-      "published_at": "2026-10-27T21:30:00+06:00",
-      "selected_at": "2026-10-27T18:01:30.660207+00:00",
-      "status": "published",
-      "message_id": 880,
-      "published_versions": [
-        {
-          "published_at": "2026-10-27T18:01:30.660207+00:00",
-          "headline": "Mass Effect Cancellation Leaves Austin Wintory’s Dream Soundtrack Unheard",
-          "claims": [
-            "22‑minute conceptual soundtrack"
-          ]
-        }
-      ]
-    },
-    "evt_6d3fa7a95aca19": {
-      "event_id": "evt_6d3fa7a95aca19",
-      "event_key": "rockstar gta6 ps5 install size reveal",
-      "event_subject": "Grand Theft Auto VI",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "rockstar gta6 ps5 install size reveal",
-        "subject": "Grand Theft Auto VI",
-        "event_type": "other",
-        "action": "reveal",
-        "status": "reported",
-        "modality": "confirmed",
-        "game": "Grand Theft Auto VI",
-        "franchise": "Grand Theft Auto",
-        "institution": "Rockstar Games",
-        "target": "PlayStation 5",
-        "platforms": [
-          "PS5"
-        ],
-        "topic": "file size"
-      },
-      "sources": [
-        "Push Square",
-        "Insider Gaming"
-      ],
-      "event_sources": [
-        "Push Square",
-        "Insider Gaming"
-      ],
-      "claims": [
-        "install size approx. 210 GB",
-        "install size 210 GB"
-      ],
-      "importance_score": 49,
-      "coverage_score": 6,
-      "originality_score": 13,
-      "significance_score": 5,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "Grand Theft Auto 6 Download Size Hits Massive 210 GB on PlayStation",
-      "summary": "The upcoming Grand Theft Auto 6 will require a staggering 210 GB download, making it one of the largest console games ever released.",
-      "published_at": "2026-10-27T23:17:26+06:00",
-      "selected_at": "2026-10-27T18:01:36.484510+00:00",
-      "status": "published",
-      "message_id": 881,
-      "published_versions": [
-        {
-          "published_at": "2026-10-27T18:01:36.484510+00:00",
-          "headline": "Grand Theft Auto 6 Download Size Hits Massive 210 GB on PlayStation",
-          "claims": [
-            "install size approx. 210 GB",
-            "install size 210 GB"
-          ]
-        }
-      ]
-    },
-    "evt_9ede4e81603aa0": {
-      "event_id": "evt_9ede4e81603aa0",
-      "event_key": "nvidia amd multi billion investment in meta ai",
-      "event_subject": "Meta",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "nvidia amd multi billion investment in meta ai",
-        "subject": "Meta",
-        "event_type": "other",
-        "action": "invest",
-        "status": "rumor",
-        "modality": "speculative",
-        "game": "",
-        "franchise": "",
-        "institution": "Nvidia, AMD",
-        "target": "Meta",
-        "platforms": [],
-        "topic": "tech finance"
-      },
-      "sources": [
-        "PC Gamer"
-      ],
-      "event_sources": [
-        "PC Gamer"
-      ],
-      "claims": [
-        "billions invested for AI"
-      ],
-      "importance_score": 48,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 18,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Nvidia and AMD pour $4 billion into Meta’s AI push",
-      "summary": "Nvidia and AMD each commit billions to Meta, deepening AI collaborations that could ripple through PC gaming hardware costs.",
-      "published_at": "2026-10-27T22:34:31+06:00",
-      "selected_at": "2026-10-27T18:01:42.367498+00:00",
-      "status": "published",
-      "message_id": 882,
-      "published_versions": [
-        {
-          "published_at": "2026-10-27T18:01:42.367498+00:00",
-          "headline": "Nvidia and AMD pour $4 billion into Meta’s AI push",
-          "claims": [
-            "billions invested for AI"
-          ]
-        }
-      ]
-    },
-    "evt_07ab858d2613a6": {
-      "event_id": "evt_07ab858d2613a6",
-      "event_key": "dan ayoub appointed president of wizards of the coast",
-      "event_subject": "Wizards of the Coast",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "dan ayoub appointed president of wizards of the coast",
-        "subject": "Wizards of the Coast",
-        "event_type": "other",
-        "action": "appoint",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "",
-        "institution": "Hasbro",
-        "target": "company",
-        "platforms": [],
-        "topic": "executive"
-      },
-      "sources": [
-        "GamesRadar+",
-        "Polygon"
-      ],
-      "event_sources": [
-        "GamesRadar+",
-        "Polygon"
-      ],
-      "claims": [
-        "new president formerly headed a Halo studio",
-        "new president overseeing MTG & D&D"
-      ],
-      "importance_score": 47,
-      "coverage_score": 6,
-      "originality_score": 10,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 9,
-      "headline": "Dan Ayoub Named President of Wizards of the Coast Amid Digital Push",
-      "summary": "Hasbro appoints former Halo studio head Dan Ayoub as president of Wizards of the Coast, signaling a stronger focus on digital and video game growth.",
-      "published_at": "2026-10-27T21:59:33+06:00",
-      "selected_at": "2026-10-27T18:01:48.618240+00:00",
-      "status": "published",
-      "message_id": 883,
-      "published_versions": [
-        {
-          "published_at": "2026-10-27T18:01:48.618240+00:00",
-          "headline": "Dan Ayoub Named President of Wizards of the Coast Amid Digital Push",
-          "claims": [
-            "new president formerly headed a Halo studio",
-            "new president overseeing MTG & D&D"
-          ]
-        }
-      ]
-    },
-    "evt_cb415c31de5ae5": {
-      "event_id": "evt_cb415c31de5ae5",
-      "event_key": "viture sgame phantom beast xr glasses launch",
-      "event_subject": "Phantom Beast XR Glasses",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "viture sgame phantom beast xr glasses launch",
-        "subject": "Phantom Beast XR Glasses",
-        "event_type": "other",
-        "action": "release",
-        "status": "published",
-        "modality": "confirmed",
-        "game": "",
-        "franchise": "",
-        "institution": "VITURE & S‑GAME",
-        "target": "consumers",
-        "platforms": [],
-        "topic": "hardware"
-      },
-      "sources": [
-        "Insider Gaming"
-      ],
-      "event_sources": [
-        "Insider Gaming"
-      ],
-      "claims": [
-        "joint launch of XR glasses"
-      ],
-      "importance_score": 44,
-      "coverage_score": 2,
-      "originality_score": 12,
-      "significance_score": 10,
-      "freshness_score": 10,
-      "source_trust_score": 10,
-      "headline": "VITURE and S‑GAME Unveil $599 Phantom Beast XR Glasses",
-      "summary": "VITURE and S‑GAME launch the Phantom Beast XR Glasses, a $599 headset bundled with exclusive Phantom Blade Zero collectibles and a premium leather case.",
-      "published_at": "2026-10-27T22:49:53+06:00",
-      "selected_at": "2026-10-27T18:01:53.627907+00:00",
-      "status": "published",
-      "message_id": 884,
-      "published_versions": [
-        {
-          "published_at": "2026-10-27T18:01:53.627907+00:00",
-          "headline": "VITURE and S‑GAME Unveil $599 Phantom Beast XR Glasses",
-          "claims": [
-            "joint launch of XR glasses"
-          ]
-        }
-      ]
-    },
-    "evt_1db3188419d156": {
-      "event_id": "evt_1db3188419d156",
-      "event_key": "xbox policy clamp down on achievement exploitation via triple stack releases",
-      "event_subject": "Xbox achievement system",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "xbox policy clamp down on achievement exploitation via triple stack releases",
-        "subject": "Xbox achievement system",
-        "event_type": "other",
-        "action": "enforce",
-        "status": "active",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "",
-        "institution": "Microsoft Xbox",
-        "target": "developers",
-        "platforms": [],
-        "topic": "policy"
-      },
-      "sources": [
-        "Pure Xbox"
-      ],
-      "event_sources": [
-        "Pure Xbox"
-      ],
-      "claims": [
-        "link identical releases together"
-      ],
-      "importance_score": 44,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 14,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Xbox Bars Triple‑Stack Releases to Preserve Achievement Integrity",
-      "summary": "Microsoft warns developers that identical Xbox One, Series X|S, and PC releases will breach policy unless they use Play Anywhere or game binding for shared achievements.",
-      "published_at": "2026-10-27T21:30:00+06:00",
-      "selected_at": "2026-10-27T18:01:59.230239+00:00",
-      "status": "published",
-      "message_id": 885,
-      "published_versions": [
-        {
-          "published_at": "2026-10-27T18:01:59.230239+00:00",
-          "headline": "Xbox Bars Triple‑Stack Releases to Preserve Achievement Integrity",
-          "claims": [
-            "link identical releases together"
-          ]
-        }
-      ]
-    },
-    "evt_d7fe310c02ef5c": {
-      "event_id": "evt_d7fe310c02ef5c",
-      "event_key": "square enix executives stress ai mastery for future devs",
-      "event_subject": "Square Enix",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "square enix executives stress ai mastery for future devs",
-        "subject": "Square Enix",
-        "event_type": "other",
-        "action": "state",
-        "status": "stated",
-        "modality": "unknown",
-        "game": "",
-        "franchise": "",
-        "institution": "Square Enix",
-        "target": "developers",
-        "platforms": [],
-        "topic": "industry"
-      },
-      "sources": [
-        "PC Gamer"
-      ],
-      "event_sources": [
-        "PC Gamer"
-      ],
-      "claims": [
-        "AI essential but human touch remains vital"
-      ],
-      "importance_score": 41,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 11,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Square Enix Veterans Say Future Developers Must Master AI While Keeping Human Touch",
-      "summary": "Veteran Square Enix creators argue that mastering AI tools will be essential for upcoming games, but emphasize that human creativity remains irreplaceable.",
-      "published_at": "2026-10-27T21:15:52+06:00",
-      "selected_at": "2026-10-27T18:02:04.123980+00:00",
-      "status": "published",
-      "message_id": 886,
-      "published_versions": [
-        {
-          "published_at": "2026-10-27T18:02:04.123980+00:00",
-          "headline": "Square Enix Veterans Say Future Developers Must Master AI While Keeping Human Touch",
-          "claims": [
-            "AI essential but human touch remains vital"
-          ]
-        }
-      ]
-    },
-    "evt_27b4a0ef364003": {
-      "event_id": "evt_27b4a0ef364003",
-      "event_key": "conan exiles enhanced ps5 release",
-      "event_subject": "Conan Exiles Enhanced",
-      "event_type": "other",
-      "event_frame": {
-        "event_key": "conan exiles enhanced ps5 release",
-        "subject": "Conan Exiles Enhanced",
-        "event_type": "other",
-        "action": "announce",
-        "status": "upcoming",
-        "modality": "confirmed",
-        "game": "Conan Exiles",
-        "franchise": "Conan",
-        "institution": "Funcom",
-        "target": "PlayStation 5",
-        "platforms": [
-          "PS5"
-        ],
-        "topic": "game update"
-      },
-      "sources": [
-        "Push Square"
-      ],
-      "event_sources": [
-        "Push Square"
-      ],
-      "claims": [
-        "major visual upgrade free for existing players"
-      ],
-      "importance_score": 40,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 10,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Conan Exiles Enhanced Brings UE5 Visual Overhaul to PS5, Free Upgrade",
-      "summary": "Funcom’s Conan Exiles Enhanced launches on PS5 in early 2027, offering a free UE5‑powered visual and performance upgrade for existing PS4 owners.",
-      "published_at": "2026-10-27T23:30:00+06:00",
-      "selected_at": "2026-10-27T18:02:09.668163+00:00",
-      "status": "published",
-      "message_id": 887,
-      "published_versions": [
-        {
-          "published_at": "2026-10-27T18:02:09.668163+00:00",
-          "headline": "Conan Exiles Enhanced Brings UE5 Visual Overhaul to PS5, Free Upgrade",
-          "claims": [
-            "major visual upgrade free for existing players"
-          ]
-        }
-      ]
-    },
-    "evt_742ea3e5bbe4d0": {
-      "event_id": "evt_742ea3e5bbe4d0",
-      "event_key": "minecraft switch2 release discount",
-      "event_subject": "PSA: Minecraft Switch 2 Now Available, Switch Physical Owners Get A Digital Discount",
-      "event_type": "release",
-      "event_frame": {
-        "event_key": "minecraft switch2 release discount",
-        "subject": "PSA: Minecraft Switch 2 Now Available, Switch Physical Owners Get A Digital Discount",
-        "event_type": "release",
-        "action": "availability",
-        "status": "confirmed",
-        "modality": "unknown",
-        "game": "Minecraft",
-        "franchise": "Minecraft",
-        "institution": "Mojang Studios",
-        "target": "Switch 2 owners (digital & physical)",
-        "platforms": [
-          "Nintendo Switch 2"
-        ],
-        "topic": "video game"
-      },
-      "sources": [
-        "Nintendo Life"
-      ],
-      "event_sources": [
-        "Nintendo Life"
-      ],
-      "claims": [],
-      "importance_score": 42,
-      "coverage_score": 2,
-      "originality_score": 10,
-      "significance_score": 12,
-      "freshness_score": 10,
-      "source_trust_score": 8,
-      "headline": "Minecraft Switch 2 Launches with Discounted Upgrade for Physical Copy Owners",
-      "summary": "The new Minecraft for Switch 2 is now live, offering a free digital upgrade for existing owners and a discounted Ultimate Collection for physical‑copy players.",
-      "published_at": "2026-10-28T10:55:00+06:00",
-      "selected_at": "2026-10-28T06:42:41.543420+00:00",
-      "status": "published",
-      "message_id": 888,
-      "published_versions": [
-        {
-          "published_at": "2026-10-28T06:42:41.543420+00:00",
-          "headline": "Minecraft Switch 2 Launches with Discounted Upgrade for Physical Copy Owners",
-          "claims": []
-        }
-      ]
-    },
     "evt_1a7fb7962c3083": {
       "event_id": "evt_1a7fb7962c3083",
       "event_key": "valve steam ai slop visibility issue statement",
@@ -15694,6 +14410,52 @@
           "claims": [
             "Machine Utopia DLC will be released"
           ]
+        }
+      ]
+    },
+    "evt_2248bca6934ef4": {
+      "event_id": "evt_2248bca6934ef4",
+      "event_key": "unannounced simpsons hit and run prototype studio game cancellation",
+      "event_subject": "Simpsons Hit & Run and Prototype Studio Have Just Had Their Unannounced Game Canceled",
+      "event_type": "cancellation",
+      "event_frame": {
+        "event_key": "unannounced simpsons hit and run prototype studio game cancellation",
+        "subject": "Simpsons Hit & Run and Prototype Studio Have Just Had Their Unannounced Game Canceled",
+        "event_type": "cancellation",
+        "action": "cancel",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Simpsons Hit & Run",
+        "franchise": "The Simpsons",
+        "institution": "Insider Gaming",
+        "target": "unannounced game",
+        "platforms": [],
+        "topic": "Game development"
+      },
+      "sources": [
+        "Insider Gaming"
+      ],
+      "event_sources": [
+        "Insider Gaming"
+      ],
+      "claims": [],
+      "importance_score": 62,
+      "coverage_score": 2,
+      "originality_score": 12,
+      "significance_score": 28,
+      "freshness_score": 10,
+      "source_trust_score": 10,
+      "headline": "Simpsons Hit & Run Remaster Canceled Amid Radical Entertainment Layoffs",
+      "summary": "Radical Entertainment confirmed via LinkedIn that the unannounced Simpsons Hit & Run project was canceled, leaving the team without jobs.",
+      "published_at": "2026-11-27T14:14:46+06:00",
+      "selected_at": "2026-11-27T09:33:11.177569+00:00",
+      "status": "published",
+      "message_id": 1135,
+      "published_versions": [
+        {
+          "published_at": "2026-11-27T09:33:11.177569+00:00",
+          "headline": "Simpsons Hit & Run Remaster Canceled Amid Radical Entertainment Layoffs",
+          "claims": []
         }
       ]
     }
@@ -246221,10 +244983,438 @@
         "total": 35
       },
       "last_seen": "2026-11-26T15:16:53.804425+06:00"
+    },
+    "evt_2248bca6934ef4": {
+      "event_id": "evt_2248bca6934ef4",
+      "event_key": "unannounced simpsons hit and run prototype studio game cancellation",
+      "event_subject": "Simpsons Hit & Run and Prototype Studio Have Just Had Their Unannounced Game Canceled",
+      "event_type": "cancellation",
+      "event_frame": {
+        "event_key": "unannounced simpsons hit and run prototype studio game cancellation",
+        "subject": "Simpsons Hit & Run and Prototype Studio Have Just Had Their Unannounced Game Canceled",
+        "event_type": "cancellation",
+        "action": "cancel",
+        "status": "confirmed",
+        "modality": "unknown",
+        "game": "Simpsons Hit & Run",
+        "franchise": "The Simpsons",
+        "institution": "Insider Gaming",
+        "target": "unannounced game",
+        "platforms": [],
+        "topic": "Game development"
+      },
+      "modality": "unknown",
+      "topic": "Game development",
+      "institution": "Insider Gaming",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 62,
+      "score_breakdown": {
+        "significance": 28,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 62
+      },
+      "last_seen": "2026-11-27T15:31:09.171871+06:00"
+    },
+    "evt_8b3d09f18739b8": {
+      "event_id": "evt_8b3d09f18739b8",
+      "event_key": "rumor dave the diver gta6 collaboration",
+      "event_subject": "Random: Did Dave The Diver Just Tease A GTA 6 Collab?",
+      "event_type": "rumor",
+      "event_frame": {
+        "event_key": "rumor dave the diver gta6 collaboration",
+        "subject": "Random: Did Dave The Diver Just Tease A GTA 6 Collab?",
+        "event_type": "rumor",
+        "action": "speculate",
+        "status": "unverified",
+        "modality": "unknown",
+        "game": "Dave The Diver",
+        "franchise": "GTA",
+        "institution": "Nintendo Life",
+        "target": "potential collaboration",
+        "platforms": [],
+        "topic": "Speculation"
+      },
+      "modality": "unknown",
+      "topic": "Speculation",
+      "institution": "Nintendo Life",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 36,
+      "score_breakdown": {
+        "significance": 6,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 36
+      },
+      "last_seen": "2026-11-27T15:31:09.171896+06:00"
+    },
+    "evt_09e115252ed21b": {
+      "event_id": "evt_09e115252ed21b",
+      "event_key": "blackfriday2026 alienware area51 rtx5070 laptop discount",
+      "event_subject": "The Alienware 18 Area-51 RTX 5070 Gaming Laptop with 32GB of RAM Drops to $2,260 for Black Friday",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blackfriday2026 alienware area51 rtx5070 laptop discount",
+        "subject": "The Alienware 18 Area-51 RTX 5070 Gaming Laptop with 32GB of RAM Drops to $2,260 for Black Friday",
+        "event_type": "other",
+        "action": "discount",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Alienware",
+        "institution": "IGN",
+        "target": "Area-51 RTX 5070 laptop",
+        "platforms": [],
+        "topic": "Black Friday deals"
+      },
+      "modality": "unknown",
+      "topic": "Black Friday deals",
+      "institution": "IGN",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 5,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 35
+      },
+      "last_seen": "2026-11-27T15:31:09.171904+06:00"
+    },
+    "evt_befb9905bb70dc": {
+      "event_id": "evt_befb9905bb70dc",
+      "event_key": "blackfriday2026 pokemon tcg deals",
+      "event_subject": "The Best Pokémon TCG Black Friday Deals: Amazon Restocks, 10% Cashback at TCGplayer, and More",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blackfriday2026 pokemon tcg deals",
+        "subject": "The Best Pokémon TCG Black Friday Deals: Amazon Restocks, 10% Cashback at TCGplayer, and More",
+        "event_type": "other",
+        "action": "discount",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "Pokémon TCG",
+        "franchise": "Pokémon",
+        "institution": "IGN",
+        "target": "trading card sets",
+        "platforms": [],
+        "topic": "Black Friday deals"
+      },
+      "modality": "unknown",
+      "topic": "Black Friday deals",
+      "institution": "IGN",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 34,
+      "score_breakdown": {
+        "significance": 4,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 34
+      },
+      "last_seen": "2026-11-27T15:31:09.171910+06:00"
+    },
+    "evt_2c84c8a9e56d99": {
+      "event_id": "evt_2c84c8a9e56d99",
+      "event_key": "blackfriday2026 book deals sci fi fantasy",
+      "event_subject": "10 Best Black Friday 2026 Book Deals For Sci-Fi and Fantasy Fans",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blackfriday2026 book deals sci fi fantasy",
+        "subject": "10 Best Black Friday 2026 Book Deals For Sci-Fi and Fantasy Fans",
+        "event_type": "other",
+        "action": "discount",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "",
+        "institution": "Polygon",
+        "target": "books",
+        "platforms": [],
+        "topic": "Black Friday deals"
+      },
+      "modality": "unknown",
+      "topic": "Black Friday deals",
+      "institution": "Polygon",
+      "sources": [
+        "Polygon"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-11-27T15:31:09.171915+06:00"
+    },
+    "evt_76baddfeef385a": {
+      "event_id": "evt_76baddfeef385a",
+      "event_key": "blackfriday2026 refurbished nintendo switch 2 woot sale",
+      "event_subject": "Woot Has a Grade A Refurbished Nintendo Switch 2 Console for $409.99 During Black Friday",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blackfriday2026 refurbished nintendo switch 2 woot sale",
+        "subject": "Woot Has a Grade A Refurbished Nintendo Switch 2 Console for $409.99 During Black Friday",
+        "event_type": "other",
+        "action": "discount",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "Nintendo Switch 2",
+        "franchise": "Nintendo",
+        "institution": "IGN",
+        "target": "refurbished console",
+        "platforms": [],
+        "topic": "Black Friday deals"
+      },
+      "modality": "unknown",
+      "topic": "Black Friday deals",
+      "institution": "IGN",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 33,
+      "score_breakdown": {
+        "significance": 3,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 33
+      },
+      "last_seen": "2026-11-27T15:31:09.171921+06:00"
+    },
+    "evt_4b5d977c1cf2b0": {
+      "event_id": "evt_4b5d977c1cf2b0",
+      "event_key": "blackfriday2026 alan lee lotr illustrated editions discount",
+      "event_subject": "The Alan Lee Lord of the Rings Illustrated Editions Are at Their Lowest Price Ever for Black Friday",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blackfriday2026 alan lee lotr illustrated editions discount",
+        "subject": "The Alan Lee Lord of the Rings Illustrated Editions Are at Their Lowest Price Ever for Black Friday",
+        "event_type": "other",
+        "action": "discount",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "The Lord of the Rings",
+        "institution": "IGN",
+        "target": "illustrated editions",
+        "platforms": [],
+        "topic": "Black Friday deals"
+      },
+      "modality": "unknown",
+      "topic": "Black Friday deals",
+      "institution": "IGN",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-27T15:31:09.171926+06:00"
+    },
+    "evt_19cbbef950b668": {
+      "event_id": "evt_19cbbef950b668",
+      "event_key": "blackfriday2026 lego beauty and the beast castle sale",
+      "event_subject": "The LEGO Beauty and the Beast Castle Is on Sale for the First Time Ever",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blackfriday2026 lego beauty and the beast castle sale",
+        "subject": "The LEGO Beauty and the Beast Castle Is on Sale for the First Time Ever",
+        "event_type": "other",
+        "action": "discount",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "LEGO",
+        "institution": "IGN",
+        "target": "Beauty and the Beast Castle set",
+        "platforms": [],
+        "topic": "Black Friday deals"
+      },
+      "modality": "unknown",
+      "topic": "Black Friday deals",
+      "institution": "IGN",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-27T15:31:09.171932+06:00"
+    },
+    "evt_84ccebde80fc77": {
+      "event_id": "evt_84ccebde80fc77",
+      "event_key": "blackfriday2026 lego store retiring sets sale",
+      "event_subject": "The LEGO Store Black Friday Sale Is Full of Sets Retiring At the End of 2026",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "blackfriday2026 lego store retiring sets sale",
+        "subject": "The LEGO Store Black Friday Sale Is Full of Sets Retiring At the End of 2026",
+        "event_type": "other",
+        "action": "discount",
+        "status": "ongoing",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "LEGO",
+        "institution": "IGN",
+        "target": "retiring sets",
+        "platforms": [],
+        "topic": "Black Friday deals"
+      },
+      "modality": "unknown",
+      "topic": "Black Friday deals",
+      "institution": "IGN",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 32,
+      "score_breakdown": {
+        "significance": 2,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 32
+      },
+      "last_seen": "2026-11-27T15:31:09.171938+06:00"
+    },
+    "evt_6f4037293df323": {
+      "event_id": "evt_6f4037293df323",
+      "event_key": "nyt connections hints 1265 answers nov27 2026",
+      "event_subject": "NYT Connections Hints Today (#1265)—Answers for Friday, November 27",
+      "event_type": "other",
+      "event_frame": {
+        "event_key": "nyt connections hints 1265 answers nov27 2026",
+        "subject": "NYT Connections Hints Today (#1265)—Answers for Friday, November 27",
+        "event_type": "other",
+        "action": "provide hints",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "NYT Connections",
+        "institution": "Insider Gaming",
+        "target": "puzzle game",
+        "platforms": [],
+        "topic": "Puzzle guide"
+      },
+      "modality": "unknown",
+      "topic": "Puzzle guide",
+      "institution": "Insider Gaming",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 35,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 12,
+        "freshness": 10,
+        "source_trust": 10,
+        "total": 35
+      },
+      "last_seen": "2026-11-27T15:31:09.171943+06:00"
+    },
+    "evt_6037a5da04cf49": {
+      "event_id": "evt_6037a5da04cf49",
+      "event_key": "percy jackson olympians season3 episodes3 4 recap review",
+      "event_subject": "Percy Jackson and the Olympians Season 3, Episodes 3 & 4 Recap and Review",
+      "event_type": "review",
+      "event_frame": {
+        "event_key": "percy jackson olympians season3 episodes3 4 recap review",
+        "subject": "Percy Jackson and the Olympians Season 3, Episodes 3 & 4 Recap and Review",
+        "event_type": "review",
+        "action": "recap",
+        "status": "published",
+        "modality": "unknown",
+        "game": "",
+        "franchise": "Percy Jackson",
+        "institution": "IGN",
+        "target": "season 3 episodes 3-4",
+        "platforms": [],
+        "topic": "TV series recap"
+      },
+      "modality": "unknown",
+      "topic": "TV series recap",
+      "institution": "IGN",
+      "sources": [
+        "IGN"
+      ],
+      "source_count": 1,
+      "independent_source_count": 1,
+      "claims": [],
+      "importance_score": 31,
+      "score_breakdown": {
+        "significance": 1,
+        "coverage": 2,
+        "originality": 10,
+        "freshness": 10,
+        "source_trust": 8,
+        "total": 31
+      },
+      "last_seen": "2026-11-27T15:31:09.171948+06:00"
     }
   },
   "posted_event_ids": [
-    "evt_cfb75f62e531e0",
     "evt_52ec92c2676c38",
     "evt_1c13a179c73a59",
     "evt_66bdb92b2d4ae6",
@@ -246723,7 +245913,8 @@
     "evt_6fd138e34067a1",
     "evt_7c7d8e7a0ffb56",
     "evt_c5423a2f6e537e",
-    "evt_c0f91633d41f09"
+    "evt_c0f91633d41f09",
+    "evt_2248bca6934ef4"
   ],
   "recent_titles": [
     "the coalition rolls out first major gears of war e day update since launch",
@@ -247125,10 +246316,11 @@
     "gravity well studio enters hibernation after funding collapse",
     "steam awards celebrate 10 years with retro categories and new hall of fame",
     "bioware s canceled mass effect universe would have revealed squadmates fates",
-    "paradox interactive announces surviving mars machine utopia dlc for december 9 release"
+    "paradox interactive announces surviving mars machine utopia dlc for december 9 release",
+    "simpsons hit run remaster canceled amid radical entertainment layoffs"
   ],
   "category_coverage": {
-    "Game Updates": "2026-11-25T15:38:04.339480+06:00",
+    "Game Updates": "2026-11-27T15:33:11.177599+06:00",
     "Major Releases": "2026-11-25T03:23:54.360419+06:00",
     "Steam": "2026-11-10T23:08:27.321312+06:00",
     "Xbox": "2026-10-20T21:50:12.177319+06:00",
